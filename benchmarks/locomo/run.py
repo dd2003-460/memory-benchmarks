@@ -337,7 +337,15 @@ async def ingest_conversation(
                     debug_file.write(f"  {msg['role']}: {msg['content']}\n")
                 debug_file.write("\n")
 
-            response = await mem0.add(messages, user_id, timestamp=session_epoch)
+            # P0 时间锚定修复：注入 session_date 到 custom_instructions，
+            # 让 mem0 的 LLM extraction 把相对时间（yesterday/last year）解析到正确的绝对日期
+            custom_instructions = (
+                f"The conversation took place on {date_str}. "
+                f"Resolve ALL relative dates (yesterday, last year, last week, etc) "
+                f"against {date_str} as the reference point. "
+                f"Always convert relative dates to absolute dates in YYYY-MM-DD format."
+            )
+            response = await mem0.add(messages, user_id, timestamp=session_epoch, custom_instructions=custom_instructions)
 
             if response is not None:
                 total_processed += 1
@@ -834,6 +842,8 @@ async def async_main() -> None:
         host=args.mem0_host,
         api_key=args.mem0_api_key if backend == "cloud" else None,
         rpm=args.rpm,
+        max_retries=10,
+        retry_delay=10.0,
     )
     shutdown = GracefulShutdown()
     checkpoint = Checkpoint(output_dir)
