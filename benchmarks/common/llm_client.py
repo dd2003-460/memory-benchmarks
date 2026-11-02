@@ -61,6 +61,15 @@ class LLMClient:
         self.timeout = timeout
         self._client: Any = None
 
+        # Fallback to OPENAI_BASE_URL env var (runners set it but don't pass explicitly)
+        if base_url is None:
+            import os as _os
+            base_url = _os.getenv("OPENAI_BASE_URL")
+        if api_key is None and self.provider in ("openai", "azure"):
+            import os as _os2
+            key_env = "AZURE_OPENAI_API_KEY" if self.provider == "azure" else "OPENAI_API_KEY"
+            api_key = _os2.getenv(key_env)
+
         if self.provider == "anthropic":
             self._init_anthropic(api_key)
         elif self.provider == "azure":
