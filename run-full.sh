@@ -30,8 +30,8 @@ OPENAI_API_KEY=sk-vllm-17L3d6z60EuhN1yW_bcRoynvDmxoAk1GKsF3QvSV9cY \
 "$RUVENV" -m benchmarks.locomo.run \
   --project-name locomo-vllm \
   --run-id full01 \
-  --answerer-model qwen3.8-27b-w8a16 \
-  --judge-model qwen3.8-27b-w8a16 \
+  --answerer-model qwen3.8-27b \
+  --judge-model qwen3.8-27b \
   --provider openai \
   --backend oss \
   --mem0-host http://127.0.0.1:8888 \
