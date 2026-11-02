@@ -266,9 +266,35 @@ class LLMClient:
         temperature: float,
         max_tokens: int,
     ) -> Any:
+        # Detect local servers (vLLM/ninfer) that reject response_format=json_object.
+        # Probe once with a minimal request; on 400 fall back to plain-text JSON prompting.
+        if not hasattr(self, "_supports_json_mode"):
+            try:
+                await asyncio.wait_for(
+                    self._client.chat.completions.create(
+                        model=self.model,
+                        messages=[{"role": "user", "content": "{}"}],
+                        response_format={"type": "json_object"},
+                        max_tokens=5,
+                    ),
+                    timeout=15,
+                )
+                self._supports_json_mode = True
+            except Exception as exc:
+                msg = str(exc).lower()
+                # Only trust the probe-failure signal when it explicitly mentions response_format.
+                # Other errors (network, timeout, 5xx) must NOT disable JSON mode.
+                self._supports_json_mode = "response_format" not in msg
+                logger.info("JSON-mode probe failed (%s) → json_mode=%s", exc.__class__.__name__, self._supports_json_mode)
+
+        use_json_mode = getattr(self, "_supports_json_mode", False)
+        sys_prompt = system or ""
+        if not use_json_mode:
+            sys_prompt = (sys_prompt + "\n\nRespond with ONLY a valid JSON object. No prose, no markdown fences.").strip()
+
         messages = []
-        if system:
-            messages.append({"role": "system", "content": system})
+        if sys_prompt:
+            messages.append({"role": "system", "content": sys_prompt})
         messages.append({"role": "user", "content": user})
 
         for attempt in range(self.max_retries):
@@ -279,7 +305,7 @@ class LLMClient:
                             model=self.model,
                             messages=messages,
                             **self._openai_chat_temperature_kwargs(temperature),
-                            response_format={"type": "json_object"},
+                            **({"response_format": {"type": "json_object"}} if use_json_mode else {}),
                             **self._openai_chat_token_limit_kwargs(max_tokens),
                         ),
                         timeout=self.timeout,
@@ -291,7 +317,21 @@ class LLMClient:
                         continue
                     return {}
 
-                parsed = json.loads(raw.strip())
+                # Strip markdown code fences some models wrap JSON in despite json_mode
+                cleaned = raw.strip()
+                if cleaned.startswith("```"):
+                    cleaned = cleaned.strip("`")
+                    if cleaned.lower().startswith("json"):
+                        cleaned = cleaned[4:]
+                    cleaned = cleaned.strip()
+                try:
+                    parsed = json.loads(cleaned)
+                except json.JSONDecodeError:
+                    # Last resort: extract first {...} block
+                    m = re.search(r"\{.*\}", raw, flags=re.DOTALL)
+                    if not m:
+                        raise
+                    parsed = json.loads(m.group(0))
 
                 # Unwrap nested "final" wrapper some models produce
                 if "final" in parsed and len(parsed) == 1:
