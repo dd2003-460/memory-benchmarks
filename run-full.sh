@@ -12,7 +12,7 @@ if ! curl -sf http://127.0.0.1:8888/health >/dev/null 2>&1; then
   lsof -ti :8888 | xargs kill -9 2>/dev/null || true
   sleep 2
   OPENAI_API_KEY=sk-vllm-17L3d6z60EuhN1yW_bcRoynvDmxoAk1GKsF3QvSV9cY \
-  OPENAI_BASE_URL=http://100.112.53.47:8000/v1 \
+  OPENAI_BASE_URL=http://localhost:8787/v1 \
   MEM0_CONFIG_PATH="$(pwd)/mem0-config-vllm-full.yaml" \
   "$PYVENV" -m uvicorn main:app --app-dir local-server --host 127.0.0.1 --port 8888 \
   > /tmp/mb-server-full.log 2>&1 &
@@ -25,7 +25,7 @@ fi
 curl -sf http://127.0.0.1:8888/health && echo
 
 # 2) full run
-OPENAI_BASE_URL=http://100.112.53.47:8000/v1 \
+OPENAI_BASE_URL=http://localhost:8787/v1 \
 OPENAI_API_KEY=sk-vllm-17L3d6z60EuhN1yW_bcRoynvDmxoAk1GKsF3QvSV9cY \
 "$RUVENV" -m benchmarks.locomo.run \
   --project-name locomo-vllm \
