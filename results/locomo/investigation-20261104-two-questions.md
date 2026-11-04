@@ -106,3 +106,24 @@ Entity guard 对 OD 的提升是真实的（+28.6pp），但远未达到预测�
 下一步方向：
 - **Retrieval 层改进**（hybrid search / query expansion / reranking）→ 修 q5 类问题（实体在库中被语义无关高分记忆压制）
 - 推理层改进（chain-of-thought / 多步推理）→ 修 B/C 类
+
+### OD 8 题失败精确诊断（@ 11-04 深夜 · mem0 search API 验证）
+
+用 mem0 search API 逐题验证"答案关键词是否在检索结果中及其排名"，得到比之前更精确的失败分类：
+
+| 题目 | 答案关键词 | 最佳 rank | 覆盖率 | 失败类型 |
+|---|---|---|---|---|
+| q5 (House of MinaLima) | House, MinaLima | 10 | 1/2 | COMPREHENSION（rank=10 边缘，需跨记忆推理） |
+| q19 (Good Sports) | Good, Sports, because | 10 | 2/3 | COMPREHENSION（相关记忆在 top_10 内） |
+| q34 (basketball coach) | become, basketball, coach | 1 | 1/3 | COMPREHENSION（rank=1 但需综合多条） |
+| q51 (Hatha Yoga) | Hatha, Yoga | 1 | 1/2 | COMPREHENSION（rank=1，模型答了 Warrior II） |
+| q53 (Sprinting...) | Sprinting, distance, running | — | 0/3 | REASONING（无单条记忆含答案） |
+| q66 (Star Wars Jedi) | Star, Wars, Jedi | 1 | 2/3 | COMPREHENSION（rank=1，模型只答了 Star Wars） |
+| q67 (travel blog) | Writing, travel | 1 | 1/2 | COMPREHENSION（rank=1，模型答了 Hiking） |
+| q70 (Skellig...) | Skellig, Michael, Malin | — | 0/3 | REASONING（需外部地理知识） |
+
+**关键结论修正**：
+- **Retrieval ranking 不是主要瓶颈**：6/8 题的相关记忆已在 top_10 内（多数 rank=1），hybrid search/reranking 收益有限
+- **Comprehension 才是主瓶颈**（6/8）：模型看到了相关记忆但未能正确综合/推理出完整答案
+- **Pure reasoning 仅 2/8**（q53, q70）：需要跨记忆综合或外部知识，非本框架可解
+- **下一步优先级**：推理层改进（CoT / multi-step prompt / answer synthesis）>> retrieval 策略改进
