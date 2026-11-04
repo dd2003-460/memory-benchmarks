@@ -59,9 +59,9 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 1. **persistent 空答案补分**：conv2+3 有 28 题全 cutoff 空答案，需 rejudge 补分（`--evaluate-only --rejudge`）
 2. **conv0/1 补跑**（可选，~13h）：✅ 已完成（2026-11-04 r29x，见下方追加节）
 3. **conv4 补跑**：answerer 超时导致全空，需排查 vLLM 代理链路后重跑
-4. **代码缺陷修复**（未修，避免动运行中 pipeline）：
-   - `IngestionCheckpoint.is_complete()` 不校验 run_id/user_id → 跨 run 复用 output_dir 时静默跳过 ingestion
-   - `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → 污染数据混入指标
+4. **代码缺陷修复**：
+   - ✅ `IngestionCheckpoint.is_complete()` 不校验 run_id/user_id → **已修（13f8be5, 2026-11-04）**：新增 `expected_run_id` 参数，locomo/beam 调用点传入当前 run_id，跨 run checkpoint 残留会被拒绝并强制重跑 ingestion；单测 4 case PASS
+   - ⏳ `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → 未修（分析侧按 conv 过滤规避；代码侧待收口后处理）
 
 ## conv0/1 补跑结果（2026-11-04 追加，r29x）
 
