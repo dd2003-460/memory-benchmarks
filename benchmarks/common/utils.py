@@ -144,19 +144,28 @@ class IngestionCheckpoint:
     def progress_path(self, key: str) -> Path:
         return self.checkpoint_dir / f"_progress_{key}.json"
 
-    def is_complete(self, key: str, chunk_size: int) -> tuple[bool, dict | None]:
+    def is_complete(self, key: str, chunk_size: int, expected_run_id: str | None = None) -> tuple[bool, dict | None]:
         """Check if ingestion is complete for a key.
 
         Returns (is_complete, checkpoint_data_or_None).
+
+        run_id validation (T17 full01 污染事故修复, 2026-11-04):
+        若调用方传入 expected_run_id，则 checkpoint 中必须存在完全一致的
+        run_id 才视为完成。否则（run_id 缺失或不匹配）返回未完成，
+        强制重新 ingestion —— 防止跨 run 复用 output_dir 时静默跳过
+        （smoke01 checkpoint 残留导致 conv0 检索全空的根因）。
+        不传 expected_run_id 时保持旧行为（仅校验 chunk_size），向后兼容。
         """
         path = self.ingestion_path(key)
         if not path.exists():
             return False, None
         try:
             data = json.loads(path.read_text())
-            if data.get("chunk_size", -1) == chunk_size:
-                return True, data
-            return False, None
+            if data.get("chunk_size", -1) != chunk_size:
+                return False, None
+            if expected_run_id is not None and data.get("run_id") != expected_run_id:
+                return False, None
+            return True, data
         except (json.JSONDecodeError, OSError):
             return False, None
 

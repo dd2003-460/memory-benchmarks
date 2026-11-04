@@ -258,8 +258,8 @@ async def ingest_conversation(
     checkpoint = IngestionCheckpoint(output_dir)
     key = str(conv_idx)
 
-    # Check if already complete
-    is_done, cp_data = checkpoint.is_complete(key, CHUNK_SIZE)
+    # Check if already complete (run_id 校验：防止跨 run checkpoint 残留静默跳过 ingestion)
+    is_done, cp_data = checkpoint.is_complete(key, CHUNK_SIZE, expected_run_id=run_id)
     if is_done and cp_data:
         chunks_done = cp_data.get("total_chunks_processed", 0)
         user_id = cp_data.get("user_id", user_id)

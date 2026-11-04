@@ -363,8 +363,8 @@ async def ingest_conversation(
     checkpoint = IngestionCheckpoint(output_dir)
     key = f"{chat_size}_{conv_idx}"
 
-    # Check if already complete
-    is_done, cp_data = checkpoint.is_complete(key, CHUNK_SIZE)
+    # Check if already complete (run_id 校验：防止跨 run checkpoint 残留静默跳过 ingestion)
+    is_done, cp_data = checkpoint.is_complete(key, CHUNK_SIZE, expected_run_id=run_id)
     if is_done and cp_data:
         chunks_done = cp_data.get("total_chunks_processed", 0)
         user_id = cp_data.get("user_id", user_id)
@@ -1118,7 +1118,7 @@ async def async_main() -> None:
                     if key not in conv_user_ids:
                         # Try to recover user_id from ingestion checkpoint
                         cp = IngestionCheckpoint(output_dir)
-                        is_done, cp_data = cp.is_complete(f"{size}_{ci}", CHUNK_SIZE)
+                        is_done, cp_data = cp.is_complete(f"{size}_{ci}", CHUNK_SIZE, expected_run_id=run_id)
                         if is_done and cp_data:
                             conv_user_ids[key] = cp_data["user_id"]
                         else:
