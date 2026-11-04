@@ -8,42 +8,183 @@
   "evidence": [
     "D4:15"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What kind of place does Caroline want to create for people?",
-    "search_results": [],
-    "search_latency_ms": 25.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.8131677028569324,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.8007650929060517,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.7976089180044836,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same, emphasizing the importance of promoting LGBTQ rights and having supportive people around her.",
+        "score": 0.6774515712908669,
+        "id": "e6f89271-d691-4554-94f7-7814812fe823",
+        "created_at": "2026-11-04T05:56:59.718324+00:00",
+        "updated_at": "2026-11-04T05:56:59.718324+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6676430224078659,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline finds a sense of freedom in art, having supportive people around, promoting LGBTQ rights, and being true to herself, with a goal to live authentically and help others do the same.",
+        "score": 0.6636313882770142,
+        "id": "37f9c035-bdc8-41cc-9e14-0ceab7c240ea",
+        "created_at": "2026-11-04T05:56:45.631322+00:00",
+        "updated_at": "2026-11-04T05:56:45.631322+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.6615637976503411,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to create art similar to a painted sidewalk with a rainbow design, viewing it as a symbol of togetherness that celebrates differences and brings people closer together.",
+        "score": 0.6438784447358408,
+        "id": "c54209e6-f3ab-4202-bb46-36ae0f781840",
+        "created_at": "2026-11-04T05:59:01.075387+00:00",
+        "updated_at": "2026-11-04T05:59:01.075387+00:00"
+      },
+      {
+        "memory": "Caroline is inspired by seeing her art make a difference for the LGBTQ+ community and feels thankful for the support of her friends, family, and mentors, which motivates her to continue creating art.",
+        "score": 0.6380381711501657,
+        "id": "19ec5367-90ab-43da-9234-6a89159c73f0",
+        "created_at": "2026-11-04T06:01:24.077198+00:00",
+        "updated_at": "2026-11-04T06:01:24.077198+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who has been creating art since she was 17, finding the process empowering and cathartic for expressing feelings that are hard to put into words.",
+        "score": 0.6358653719356202,
+        "id": "9675e8e1-90e9-4a1b-80c1-d1cab3de464d",
+        "created_at": "2026-11-04T06:01:46.608754+00:00",
+        "updated_at": "2026-11-04T06:01:46.608754+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, with the specific dream of creating a safe and loving home for children who have not previously had a roof over their heads.",
+        "score": 0.6356295341424646,
+        "id": "80faced2-08ca-498c-8ce4-f6d6ff4d381c",
+        "created_at": "2026-11-04T06:04:23.998298+00:00",
+        "updated_at": "2026-11-04T06:04:23.998298+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who uses her art to express her trans experience, tell her story, and help people understand the trans community.",
+        "score": 0.6349644341610058,
+        "id": "7d95cef6-8459-4097-9c66-30d6ad9d02d6",
+        "created_at": "2026-11-04T05:54:18.440011+00:00",
+        "updated_at": "2026-11-04T05:54:18.440011+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library for future children, planning to read to them to open their minds, and has collected classics, stories from different cultures, and educational books.",
+        "score": 0.6332941701708663,
+        "id": "a9031786-2e2a-4afd-9b3e-8b16ccdbe1fd",
+        "created_at": "2026-11-04T05:21:52.372558+00:00",
+        "updated_at": "2026-11-04T05:21:52.372558+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who created a stained glass window for a local church to represent her personal journey and the importance of accepting growth and change in life.",
+        "score": 0.6327925920051659,
+        "id": "4944e30e-d778-4a70-9cf7-2a0de16856b0",
+        "created_at": "2026-11-04T05:59:26.152495+00:00",
+        "updated_at": "2026-11-04T05:59:26.152495+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe and loving home where children can experience these values.",
+        "score": 0.6325905332407241,
+        "id": "30e36e98-2292-45e6-a6d1-d9eba650a546",
+        "created_at": "2026-11-04T06:04:27.152384+00:00",
+        "updated_at": "2026-11-04T06:04:27.152384+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who creates art, including stained glass windows and murals, to reflect the courage of the trans community and her own resilience.",
+        "score": 0.6320202717496322,
+        "id": "7a40565f-af5d-4693-b028-658e451b4d22",
+        "created_at": "2026-11-04T05:59:16.298252+00:00",
+        "updated_at": "2026-11-04T05:59:16.298252+00:00"
+      },
+      {
+        "memory": "Caroline described the process of creating her self-portrait as feeling liberated and empowered, noting that painting helps her explore her identity, be true to herself, and serves as a therapeutic outlet.",
+        "score": 0.6303152773450699,
+        "id": "75c2be1b-1de0-45ad-9b08-d8da7e5938ce",
+        "created_at": "2026-11-04T05:56:54.266065+00:00",
+        "updated_at": "2026-11-04T05:56:54.266065+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.6290162467533859,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6287798027128646,
+        "id": "daa5251d-0c22-40d6-8695-dfc7b114716f",
+        "created_at": "2026-11-04T06:04:38.583531+00:00",
+        "updated_at": "2026-11-04T06:04:38.583531+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6287798027128646,
+        "id": "e459fc93-eb8a-4833-affd-0490b31c8c20",
+        "created_at": "2026-11-04T06:04:35.562351+00:00",
+        "updated_at": "2026-11-04T06:04:35.562351+00:00"
+      }
+    ],
+    "search_latency_ms": 107.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a safe, inviting place for people to grow",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is nearly identical to the gold answer, capturing the exact same concept of a safe and inviting place for growth."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a safe, inviting place for people to grow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is nearly identical to the gold answer, capturing the exact same concept of a safe and inviting place for growth."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a safe, inviting place for people to grow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is nearly identical to the gold answer, capturing the exact same concept of a safe and inviting place for growth."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a safe, inviting place for people to grow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is nearly identical to the gold answer, capturing the exact same concept of a safe and inviting place for growth."
     }
   }
 }

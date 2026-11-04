@@ -8,42 +8,183 @@
   "evidence": [
     "D18:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How did Melanie feel about her family after the accident?",
-    "search_results": [],
-    "search_latency_ms": 14.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.7218793158245449,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.7191420609419261,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.7188897500281112,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.7166466398803368,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.7145890417532483,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.7073202297069835,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.7050050689102376,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie described the car accident during her family road trip as a scary experience that served as a reminder that life is precious and to cherish her family.",
+        "score": 0.698832095888349,
+        "id": "fec6b83d-7987-41f2-9bab-e62f86456650",
+        "created_at": "2026-11-04T06:03:21.419222+00:00",
+        "updated_at": "2026-11-04T06:03:21.419222+00:00"
+      },
+      {
+        "memory": "Melanie's family has been supportive during her move, helping out and showing love and support through tough times.",
+        "score": 0.6868539754457099,
+        "id": "930ecc95-4e59-469f-865b-b1513ae34237",
+        "created_at": "2026-11-04T05:24:18.761536+00:00",
+        "updated_at": "2026-11-04T05:24:18.761536+00:00"
+      },
+      {
+        "memory": "Melanie's two younger kids were scared during the car accident on the October 14-15, 2023 road trip but were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+        "score": 0.6821868865404558,
+        "id": "6ba61cbd-5530-49a7-8f1e-64f413258121",
+        "created_at": "2026-11-04T06:03:30.618266+00:00",
+        "updated_at": "2026-11-04T06:03:30.618266+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.6808314488085387,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.6581686156677607,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that her family has been supportive during her move, helping out and showing lots of love and support.",
+        "score": 0.6575846372318022,
+        "id": "e3d2bd47-f198-4fe2-9f8d-35ddc9f7a63e",
+        "created_at": "2026-11-04T05:24:14.276540+00:00",
+        "updated_at": "2026-11-04T05:24:14.276540+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.6525563279751465,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie described a recent family picnic as fun, noting that they played games, ate good food, and hung out together, which she feels makes life awesome.",
+        "score": 0.6268742385279613,
+        "id": "9cd19b6d-0f4b-4536-9d5d-f03e8c0a3210",
+        "created_at": "2026-11-04T05:17:06.071821+00:00",
+        "updated_at": "2026-11-04T05:17:06.071821+00:00"
+      },
+      {
+        "memory": "Melanie stated on May 25, 2023, that she is realizing self-care is important and views it as a journey, noting that when she looks after herself, she is better able to look after her family",
+        "score": 0.6246841083505832,
+        "id": "8fe17a51-e3fd-4722-baf7-88289be034d1",
+        "created_at": "2026-11-04T05:15:29.454261+00:00",
+        "updated_at": "2026-11-04T05:15:29.454261+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.6197842750154033,
+        "id": "b7bdfd7a-7c6e-44d1-bbe6-60dace627a17",
+        "created_at": "2026-11-04T05:57:38.759126+00:00",
+        "updated_at": "2026-11-04T05:57:38.759126+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.6197842750154033,
+        "id": "3acfcf1c-14eb-478d-8555-bd137a2a6aaa",
+        "created_at": "2026-11-04T05:58:39.157054+00:00",
+        "updated_at": "2026-11-04T05:58:39.157054+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.6189126258474442,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie spent the day volunteering at a homeless shelter with her family on August 24, 2023, finding it hard to see neglected people but rewarding to feel like they could make a difference",
+        "score": 0.6164307575727545,
+        "id": "de00b8bb-88e9-4302-9397-54676071b6bd",
+        "created_at": "2026-11-04T05:57:49.622661+00:00",
+        "updated_at": "2026-11-04T05:57:49.622661+00:00"
+      }
+    ],
+    "search_latency_ms": 72.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt it was a reminder to cherish her family and that her children's resilience gave her strength.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core sentiment that the family is important and valuable to Melanie, which aligns with the gold answer's statement that they 'mean the world to her'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt that the accident was a reminder that life is precious and that she should cherish her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states she should 'cherish her family' and that life is precious, which semantically aligns with the gold answer's sentiment that family 'mean the world to her' and are 'important'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt that the accident was a reminder that life is precious and that she should cherish her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states she should 'cherish her family,' which is a semantic paraphrase of the gold answer's claim that they 'mean the world to her' and are 'important.'"
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The accident served as a reminder to cherish her family and reinforced her belief that life is precious.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core sentiment that the accident reinforced the importance and value of her family, which is semantically equivalent to the gold answer's statement that they are important and mean the world to her."
     }
   }
 }

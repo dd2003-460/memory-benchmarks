@@ -8,42 +8,183 @@
   "evidence": [
     "D14:23"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Caroline find in her neighborhood during her walk?",
-    "search_results": [],
-    "search_latency_ms": 15.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.7249439339880193,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.7157232043014975,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.7137359338052078,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.7027539410527587,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline discovered a vibrant rainbow sidewalk in her neighborhood during Pride Month around August 2023 while walking, which she photographed because it felt welcoming and reminded her that love and acceptance are everywhere.",
+        "score": 0.6208390820982272,
+        "id": "b6f4f861-4fc9-4c41-a39e-8886c743dd59",
+        "created_at": "2026-11-04T05:59:26.160910+00:00",
+        "updated_at": "2026-11-04T05:59:26.160910+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a group of friends walking down a street with balloons from the Pride fest, illustrating the supportive community she values.",
+        "score": 0.6114542750295953,
+        "id": "9b90021c-5bcc-4cc2-a656-e750b92dbc23",
+        "created_at": "2026-11-04T05:54:59.038705+00:00",
+        "updated_at": "2026-11-04T05:54:59.038705+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.5796278151768325,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.5795060909967269,
+        "id": "f02390cd-9719-45a4-b705-598fbda60dce",
+        "created_at": "2026-11-04T05:59:07.211022+00:00",
+        "updated_at": "2026-11-04T05:59:07.211022+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.5795060909967269,
+        "id": "95152622-08f4-4cd7-8e13-1acacd3a6d80",
+        "created_at": "2026-11-04T05:58:39.161249+00:00",
+        "updated_at": "2026-11-04T05:58:39.161249+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.5780168754026589,
+        "id": "5b46b3fb-56b4-40aa-82cc-64c083576316",
+        "created_at": "2026-11-04T05:58:53.099535+00:00",
+        "updated_at": "2026-11-04T05:58:53.099535+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.5780168754026589,
+        "id": "9dd2edf8-b89c-402a-b098-8591c2468ea1",
+        "created_at": "2026-11-04T05:58:44.935765+00:00",
+        "updated_at": "2026-11-04T05:58:44.935765+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have supportive people around her who accept her, which provides comfort during difficult times like the incident on her recent hike.",
+        "score": 0.5649776716985088,
+        "id": "049e42e5-200f-44c5-a69c-9eddbf748574",
+        "created_at": "2026-11-04T05:54:45.039255+00:00",
+        "updated_at": "2026-11-04T05:54:45.039255+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.5634015665333754,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.559814445024181,
+        "id": "3665c2a3-4e83-417c-ad19-06c12425e7a7",
+        "created_at": "2026-11-04T05:51:41.956365+00:00",
+        "updated_at": "2026-11-04T05:51:41.956365+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.559814445024181,
+        "id": "4b44eff5-3559-4775-a7ad-b8cadaafabb9",
+        "created_at": "2026-11-04T05:24:56.201014+00:00",
+        "updated_at": "2026-11-04T05:24:56.201014+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.559814445024181,
+        "id": "bd0ab8cd-bd9f-49d9-ba4e-bd14c8717e94",
+        "created_at": "2026-11-04T05:51:37.151794+00:00",
+        "updated_at": "2026-11-04T05:51:37.151794+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors other transgender teens, focusing on building confidence and finding positive strategies.",
+        "score": 0.5575276690639954,
+        "id": "7faafc18-5eb1-4db5-b73f-19e9655f2d58",
+        "created_at": "2026-11-04T05:25:06.651328+00:00",
+        "updated_at": "2026-11-04T05:25:06.651328+00:00"
+      },
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from the book 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.557011767139979,
+        "id": "3c1ca0e9-dd9a-4e03-abe1-26479678abfb",
+        "created_at": "2026-11-04T05:22:37.047750+00:00",
+        "updated_at": "2026-11-04T05:22:37.047750+00:00"
+      },
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from reading 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.5561208051939448,
+        "id": "771f368f-bfdd-4505-b586-6bb7ccdb25bc",
+        "created_at": "2026-11-04T05:22:49.555490+00:00",
+        "updated_at": "2026-11-04T05:22:49.555490+00:00"
+      },
+      {
+        "memory": "Caroline uses art to explore her transition and changing body, finding it a valuable way to work through personal experiences and learn to accept the beauty of imperfections.",
+        "score": 0.5539867187451978,
+        "id": "6c9fcdca-6dee-44ff-a1aa-b3a15be226bc",
+        "created_at": "2026-11-04T05:54:03.043562+00:00",
+        "updated_at": "2026-11-04T05:54:03.043562+00:00"
+      }
+    ],
+    "search_latency_ms": 97.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a vibrant rainbow sidewalk",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the exact core entity 'rainbow sidewalk' from the gold answer, with only an additional descriptive adjective."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a vibrant rainbow sidewalk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core entity 'rainbow sidewalk' from the gold answer, with only an additional descriptive adjective."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a vibrant rainbow sidewalk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core entity 'rainbow sidewalk' from the gold answer, with only an additional descriptive adjective."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a vibrant rainbow sidewalk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core entity 'rainbow sidewalk' from the gold answer, with only an additional descriptive adjective."
     }
   }
 }

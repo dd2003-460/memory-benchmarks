@@ -8,42 +8,183 @@
   "evidence": [
     "D13:6"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Where did Oliver hide his bone once?",
-    "search_results": [],
-    "search_latency_ms": 14.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, which she finds hilarious and silly.",
+        "score": 0.7979573347290276,
+        "id": "8a55d2e3-365b-4795-aba9-f043774fa85a",
+        "created_at": "2026-11-04T05:55:45.072059+00:00",
+        "updated_at": "2026-11-04T05:55:45.072059+00:00"
+      },
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, and Melanie also recalled feeding a horse a carrot as a funny experience, sharing a photo of the horse on August 23, 2023.",
+        "score": 0.7940046775023816,
+        "id": "7aef275c-ec3c-4027-804c-d28032a42edc",
+        "created_at": "2026-11-04T05:55:53.943220+00:00",
+        "updated_at": "2026-11-04T05:55:53.943220+00:00"
+      },
+      {
+        "memory": "Melanie's dog Oliver once hid his bone in her slipper, and Melanie also enjoyed feeding a horse a carrot during a recent experience.",
+        "score": 0.7777726764020654,
+        "id": "e0cc23a8-3865-4014-acd4-376847df8a90",
+        "created_at": "2026-11-04T05:56:01.204420+00:00",
+        "updated_at": "2026-11-04T05:56:01.204420+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Oliver, who once hid his bone in her slipper, and also has another cat named Bailey.",
+        "score": 0.7567999471412741,
+        "id": "ed8a6914-cf7a-4cef-a270-f25de9bff4c4",
+        "created_at": "2026-11-04T05:56:39.733034+00:00",
+        "updated_at": "2026-11-04T05:56:39.733034+00:00"
+      },
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, and Melanie also enjoyed feeding a horse a carrot during a recent experience",
+        "score": 0.7557858844302564,
+        "id": "4e5e5c4f-67b1-43aa-9144-98b11eec853d",
+        "created_at": "2026-11-04T05:56:24.909475+00:00",
+        "updated_at": "2026-11-04T05:56:24.909475+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023.",
+        "score": 0.7162542764453406,
+        "id": "351cd119-34b1-4c64-a25f-3a799f471c77",
+        "created_at": "2026-11-04T05:55:53.939617+00:00",
+        "updated_at": "2026-11-04T05:55:53.939617+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023.",
+        "score": 0.7162542764453406,
+        "id": "7fd82bcd-40b3-4f39-ae85-c6f09d5e99a7",
+        "created_at": "2026-11-04T05:56:01.202137+00:00",
+        "updated_at": "2026-11-04T05:56:01.202137+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023",
+        "score": 0.7127286522153091,
+        "id": "d72ebba2-a529-403e-bfc8-d975aec1887f",
+        "created_at": "2026-11-04T05:56:24.907330+00:00",
+        "updated_at": "2026-11-04T05:56:24.907330+00:00"
+      },
+      {
+        "memory": "Melanie's dog is named Luna and her cat is named Oliver, whom she describes as sweet, playful, and lively in the house.",
+        "score": 0.6807256895262017,
+        "id": "86acc903-cad9-485c-af32-18f08256b17e",
+        "created_at": "2026-11-04T05:22:41.842459+00:00",
+        "updated_at": "2026-11-04T05:22:41.842459+00:00"
+      },
+      {
+        "memory": "Melanie has two pets named Luna (a dog) and Oliver (a cat), which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.6692589817239823,
+        "id": "7086b6bc-63b3-4686-8744-d1738b654f50",
+        "created_at": "2026-11-04T05:22:49.559894+00:00",
+        "updated_at": "2026-11-04T05:22:49.559894+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, who are described as sweet, playful, and brighten up the household.",
+        "score": 0.6679551135143387,
+        "id": "afdd692f-dccd-4157-a43f-a1be52ba862e",
+        "created_at": "2026-11-04T05:23:00.635168+00:00",
+        "updated_at": "2026-11-04T05:23:00.635168+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the household.",
+        "score": 0.6652287322664868,
+        "id": "0de7cb21-3d21-4613-b41c-4067d0329c66",
+        "created_at": "2026-11-04T05:22:56.201905+00:00",
+        "updated_at": "2026-11-04T05:22:56.201905+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, has two pets: a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.6456656020838505,
+        "id": "2e5c112f-ebea-49b8-8b2b-646d1cb6ea2e",
+        "created_at": "2026-11-04T05:22:44.149606+00:00",
+        "updated_at": "2026-11-04T05:22:44.149606+00:00"
+      },
+      {
+        "memory": "Melanie has a third pet, a cat named Bailey, in addition to her dog Luna and cat Oliver.",
+        "score": 0.6335355530468815,
+        "id": "d80b1434-5b98-46ef-b514-ef07a2fc64fe",
+        "created_at": "2026-11-04T05:55:39.034918+00:00",
+        "updated_at": "2026-11-04T05:55:39.034918+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.467265114610938,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie took her two kids to the museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.46031668459618125,
+        "id": "72376b63-1588-4140-b423-363c7122acf2",
+        "created_at": "2026-11-04T05:21:40.484142+00:00",
+        "updated_at": "2026-11-04T05:21:40.484142+00:00"
+      },
+      {
+        "memory": "Melanie took her children to a museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.46029332447832394,
+        "id": "19de4acf-9870-4189-8a79-cb10264fe005",
+        "created_at": "2026-11-04T05:21:38.033320+00:00",
+        "updated_at": "2026-11-04T05:21:38.033320+00:00"
+      },
+      {
+        "memory": "Melanie took her two kids to a museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.45809378815579516,
+        "id": "24433965-ce93-419b-979d-a6bef96b1144",
+        "created_at": "2026-11-04T05:21:33.033057+00:00",
+        "updated_at": "2026-11-04T05:21:33.033057+00:00"
+      },
+      {
+        "memory": "Caroline has a guinea pig named Oscar who loves eating vegetables, particularly parsley, and Caroline shared a photo of him munching parsley in his playpen on August 23, 2023",
+        "score": 0.08963193364843418,
+        "id": "a4df30c4-74c7-4eec-9b1e-3d5c77f74d29",
+        "created_at": "2026-11-04T05:56:24.905166+00:00",
+        "updated_at": "2026-11-04T05:56:24.905166+00:00"
+      },
+      {
+        "memory": "Caroline has a guinea pig named Oscar who loves eating vegetables, particularly parsley, and Caroline shared a photo of him munching parsley in his playpen on August 23, 2023.",
+        "score": 0.08950432199974329,
+        "id": "1f570c5e-28d6-4394-ab5a-868f4878fa9f",
+        "created_at": "2026-11-04T05:56:01.199656+00:00",
+        "updated_at": "2026-11-04T05:56:01.199656+00:00"
+      }
+    ],
+    "search_latency_ms": 105.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "in her slipper",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'in her slipper' correctly identifies the location (slipper) mentioned in the gold answer, with 'her' reasonably referring to Melanie in context."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "in her slipper",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'in her slipper' correctly identifies the location (slipper) mentioned in the gold answer, with 'her' reasonably referring to Melanie in context."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "in her slipper",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'in her slipper' correctly identifies the location (slipper) mentioned in the gold answer, with 'her' reasonably referring to Melanie in context."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "in her slipper",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'in her slipper' correctly identifies the location (slipper) mentioned in the gold answer, with 'her' reasonably referring to Melanie in context."
     }
   }
 }

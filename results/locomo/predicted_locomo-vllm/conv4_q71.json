@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q71",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which team did John sign with on 21 May, 2023?",
+  "ground_truth_answer": "The Minnesota Wolves",
+  "evidence": [
+    "D1:5"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which team did John sign with on 21 May, 2023?",
+    "search_results": [
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.6736607266679833,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
+        "score": 0.665356321226412,
+        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
+        "created_at": "2026-11-03T09:08:31.358666+00:00",
+        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6650750496837609,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6623990236612571,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.6584009460320943,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6512714579242989,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6484680652077424,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
+        "score": 0.6481100144973339,
+        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
+        "created_at": "2026-11-03T09:34:16.754297+00:00",
+        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+      },
+      {
+        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
+        "score": 0.6466590019123772,
+        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
+        "created_at": "2026-11-03T09:33:56.779906+00:00",
+        "updated_at": "2026-11-03T09:33:56.779906+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6443122404638053,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John's basketball team had a close game against another team the week of December 9, 2023, which they won at the final buzzer, and he shared a photo of women's basketball players holding up a trophy to celebrate.",
+        "score": 0.6386966396295619,
+        "id": "a90f938c-f5b2-4c39-8693-7fb6eb35a8b7",
+        "created_at": "2026-11-03T09:32:44.179083+00:00",
+        "updated_at": "2026-11-03T09:32:44.179083+00:00"
+      },
+      {
+        "memory": "John's team participated in a scrimmage the week of December 18-24, 2023, where they gave it their all and observed significant growth in communication and bonding, which improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6322168096246186,
+        "id": "dc92065d-f7a7-418d-8dff-2f97ad60067e",
+        "created_at": "2026-11-03T09:34:11.783377+00:00",
+        "updated_at": "2026-11-03T09:34:11.783377+00:00"
+      },
+      {
+        "memory": "John shared a group photo of his basketball team on October 13, 2023, while discussing how shared passions connect people.",
+        "score": 0.630594686057938,
+        "id": "e22056c8-e62e-4f61-b648-11a2447ca4da",
+        "created_at": "2026-11-03T09:17:34.447929+00:00",
+        "updated_at": "2026-11-03T09:17:34.447929+00:00"
+      },
+      {
+        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6268914097998709,
+        "id": "094a7829-5c98-4aee-b925-8eb643671180",
+        "created_at": "2026-11-03T09:31:45.175398+00:00",
+        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.6266716468719505,
+        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
+        "created_at": "2026-11-03T09:14:37.516787+00:00",
+        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+      },
+      {
+        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
+        "score": 0.6264885878994402,
+        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
+        "created_at": "2026-11-03T09:14:13.745108+00:00",
+        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+      },
+      {
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
+        "score": 0.6251603077963845,
+        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
+        "created_at": "2026-11-03T09:14:09.210132+00:00",
+        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+      },
+      {
+        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.6251599250407531,
+        "id": "83663438-89cc-48f0-b163-8b0987850701",
+        "created_at": "2026-11-03T09:33:56.767555+00:00",
+        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+      },
+      {
+        "memory": "John's basketball team won a close game against another team in the week before December 16, 2023, with the outcome decided at the final buzzer.",
+        "score": 0.6176331350051678,
+        "id": "5e07c7f1-715b-4ac1-8c8b-54b4b0a3f059",
+        "created_at": "2026-11-03T09:32:47.737172+00:00",
+        "updated_at": "2026-11-03T09:32:47.737172+00:00"
+      },
+      {
+        "memory": "John's basketball team won a close game against another team in the week preceding December 16, 2023, with the outcome decided at the final buzzer.",
+        "score": 0.6124471994969671,
+        "id": "12bf53fb-eb9d-498c-a30f-9a380f3f1d29",
+        "created_at": "2026-11-03T09:33:05.367969+00:00",
+        "updated_at": "2026-11-03T09:33:05.367969+00:00"
+      }
+    ],
+    "search_latency_ms": 106.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not specify a team John signed with on May 21, 2023, but they identify him as a basketball player who was part of a high school sports team.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer fails to identify the Minnesota Wolves and instead states that the information is not specified, which contains zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "his basketball team",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his basketball team' is a generic description that does not identify the specific entity 'The Minnesota Wolves' required by the gold answer, and thus contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "his basketball team",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his basketball team' is a generic description that does not identify the specific entity 'The Minnesota Wolves' required by the gold answer, and thus contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "his basketball team",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his basketball team' is a generic description that does not identify the specific entity 'The Minnesota Wolves' required by the gold answer, and thus contains zero correct items."
+    }
+  }
+}

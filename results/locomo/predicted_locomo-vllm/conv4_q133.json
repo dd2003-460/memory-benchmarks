@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q133",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John describe the views during their road trip out on the European coastline?",
+  "ground_truth_answer": "Spectacular",
+  "evidence": [
+    "D17:3"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John describe the views during their road trip out on the European coastline?",
+    "search_results": [
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.9016421672876614,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
+        "score": 0.8784292918717584,
+        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
+        "created_at": "2026-11-03T09:23:39.179743+00:00",
+        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.7180769573113859,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a statue of a woman wearing a blue hat while responding to John's update about his European road trip.",
+        "score": 0.7080631668960545,
+        "id": "267eb2e0-df1a-4912-8bfc-56d42a7238e1",
+        "created_at": "2026-11-03T09:23:48.298652+00:00",
+        "updated_at": "2026-11-03T09:23:48.298652+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.7049058226755418,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.7041113264535824,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John expressed interest in Tim's suggestion of Edinburgh for the team trip, noting he has never been there but considers it worth exploring.",
+        "score": 0.6577499766972977,
+        "id": "bee098e3-1f67-470d-90ba-7f054ce200b9",
+        "created_at": "2026-11-03T09:14:48.125743+00:00",
+        "updated_at": "2026-11-03T09:14:48.125743+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
+        "score": 0.6449838668562391,
+        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
+        "created_at": "2026-11-03T09:14:41.113956+00:00",
+        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+      },
+      {
+        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
+        "score": 0.6107442951750474,
+        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
+        "created_at": "2026-11-03T09:11:10.057566+00:00",
+        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.6015807933837082,
+        "id": "cfab7623-73b0-4b8e-9804-724ccc2b0c35",
+        "created_at": "2026-11-03T09:23:22.658071+00:00",
+        "updated_at": "2026-11-03T09:23:22.658071+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.6015807933837082,
+        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
+        "created_at": "2026-11-03T09:23:09.548575+00:00",
+        "updated_at": "2026-11-03T09:23:09.548575+00:00"
+      },
+      {
+        "memory": "John had trouble figuring out the subway system during his New York City trip but found it easy after someone helped explain it to him.",
+        "score": 0.597964123992803,
+        "id": "690f963c-a233-499b-abbc-a4b36ff8518c",
+        "created_at": "2026-11-03T09:12:53.917508+00:00",
+        "updated_at": "2026-11-03T09:12:53.917508+00:00"
+      },
+      {
+        "memory": "John had trouble figuring out the subway system during his New York City trip until someone helped explain it to him.",
+        "score": 0.5971575226079021,
+        "id": "db44291c-199b-47d5-93d2-258f473b63d8",
+        "created_at": "2026-11-03T09:12:31.248483+00:00",
+        "updated_at": "2026-11-03T09:12:31.248483+00:00"
+      },
+      {
+        "memory": "John took a trip to a new place around early August 2023, describing the experience as amazing and noting that he loves the energy there.",
+        "score": 0.5912026445042835,
+        "id": "942f9d4d-ecd2-435d-b081-7ad5aa9554c8",
+        "created_at": "2026-11-03T09:03:22.501097+00:00",
+        "updated_at": "2026-11-03T09:03:22.501097+00:00"
+      },
+      {
+        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
+        "score": 0.5904319380463462,
+        "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
+        "created_at": "2026-11-03T09:11:15.445268+00:00",
+        "updated_at": "2026-11-03T09:11:15.445268+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
+        "score": 0.5869132800295291,
+        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
+        "created_at": "2026-11-03T09:23:36.618818+00:00",
+        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.586034960607441,
+        "id": "aa518470-51a7-477e-b654-4684b8d85880",
+        "created_at": "2026-11-03T09:19:18.899142+00:00",
+        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.585902719233143,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, planning to visit castles as recommended by Tim.",
+        "score": 0.5812289649483018,
+        "id": "f5c151f5-6cd5-4091-ae0a-c193e3ebc2cb",
+        "created_at": "2026-11-03T09:23:13.504620+00:00",
+        "updated_at": "2026-11-03T09:23:13.504620+00:00"
+      },
+      {
+        "memory": "John has been to Paris and described the city as amazing, specifically noting that the view from the Eiffel Tower is incredible.",
+        "score": 0.5796261914902291,
+        "id": "eb0c6e2b-6501-464f-a25e-ce25261e922e",
+        "created_at": "2026-11-03T09:37:06.646231+00:00",
+        "updated_at": "2026-11-03T09:37:06.646231+00:00"
+      }
+    ],
+    "search_latency_ms": 150.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "spectacular",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "spectacular",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "spectacular",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "spectacular",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

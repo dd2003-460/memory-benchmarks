@@ -9,42 +9,183 @@
     "D18:1",
     "D18:7"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How many children does Melanie have?",
-    "search_results": [],
-    "search_latency_ms": 24.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.6877689390012777,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6776883522152206,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6766179128419268,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6766049293869177,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.6718737459343914,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.6646683008292651,
+        "id": "2bc47d0a-3c29-4725-a725-80df11e1227e",
+        "created_at": "2026-11-04T06:02:29.193621+00:00",
+        "updated_at": "2026-11-04T06:02:29.193621+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.6646683008292651,
+        "id": "bb1995bd-bb07-4650-817b-5866292e11c6",
+        "created_at": "2026-11-04T06:02:15.985633+00:00",
+        "updated_at": "2026-11-04T06:02:15.985633+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach with her kids recently, sharing a photo of three children playing with a kite on the sandy shore, noting that the kids had a blast.",
+        "score": 0.660456140840884,
+        "id": "89ce89ea-57e4-4623-a44b-c6d01a5b099d",
+        "created_at": "2026-11-04T05:52:33.632847+00:00",
+        "updated_at": "2026-11-04T05:52:33.632847+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.6377505753978223,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie describes her children as tough and resilient, noting that they give her the strength to keep going and are her biggest motivation and support.",
+        "score": 0.6362777703885383,
+        "id": "0a424348-c3f9-44b2-a32b-b3d22838282b",
+        "created_at": "2026-11-04T06:03:39.894465+00:00",
+        "updated_at": "2026-11-04T06:03:39.894465+00:00"
+      },
+      {
+        "memory": "Melanie has children who enjoyed playing on a jungle gym at a park around August 27, 2023.",
+        "score": 0.6306654215539114,
+        "id": "965fd577-3992-42ee-b3a3-28547b4082c2",
+        "created_at": "2026-11-04T06:00:04.636095+00:00",
+        "updated_at": "2026-11-04T06:00:04.636095+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child after a friend adopted last year and was happy with the process, viewing it as a way to add to her family.",
+        "score": 0.6281129678022734,
+        "id": "1d4d69c3-0b70-48e3-85b0-99309e13d172",
+        "created_at": "2026-11-04T06:02:40.707187+00:00",
+        "updated_at": "2026-11-04T06:02:40.707187+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and how lucky she is to share these moments.",
+        "score": 0.6271902595346603,
+        "id": "685cb850-da10-408b-bb57-39a6bf6b5092",
+        "created_at": "2026-11-04T05:53:09.143096+00:00",
+        "updated_at": "2026-11-04T05:53:09.143096+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of herself and a child hiking on a mountain trail with Caroline on October 20, 2023, while discussing how her children handled a recent accident involving their brother.",
+        "score": 0.6269122471980332,
+        "id": "0fcabfa7-3314-4bac-9856-1f7e8186d018",
+        "created_at": "2026-11-04T06:03:50.702337+00:00",
+        "updated_at": "2026-11-04T06:03:50.702337+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6239162199124706,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      },
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.6208445473167706,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie shared a cherished memory of watching her youngest child take their first steps, noting how the milestone highlighted the fleeting nature of life and her gratitude for sharing such moments with her family.",
+        "score": 0.6181476926710116,
+        "id": "45de943d-afce-45cf-a7fc-2ef1c8001f10",
+        "created_at": "2026-11-04T05:53:15.166113+00:00",
+        "updated_at": "2026-11-04T05:53:15.166113+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of two children standing on a rocky cliff overlooking the Grand Canyon, noting that her family enjoyed visiting the Grand Canyon during their recent road trip.",
+        "score": 0.6143811638131872,
+        "id": "5ab6cd8b-4b5d-4de0-bff5-3215324bd03b",
+        "created_at": "2026-11-04T06:03:25.851653+00:00",
+        "updated_at": "2026-11-04T06:03:25.851653+00:00"
+      },
+      {
+        "memory": "Melanie recently took her three children to the beach where they played frisbee and flew a kite, noting that they only go to the beach once or twice a year but find those times special.",
+        "score": 0.6126754569426114,
+        "id": "3a091438-95f8-4c3c-bea4-a780cdcfc7c6",
+        "created_at": "2026-11-04T05:52:44.906296+00:00",
+        "updated_at": "2026-11-04T05:52:44.906296+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5551157008857686,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      }
+    ],
+    "search_latency_ms": 92.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     }
   }
 }

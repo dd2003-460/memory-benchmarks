@@ -10,42 +10,183 @@
     "D13:16",
     "D7:4"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What personality traits might Melanie say Caroline has?",
-    "search_results": [],
-    "search_latency_ms": 19.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.6466782531695496,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6098568152545495,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6087534483510305,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.6064581368399856,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.6045239890572861,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Caroline offered to help Melanie in any way she can if Melanie decides to pursue adoption in the future.",
+        "score": 0.5980072862567833,
+        "id": "9c8cf599-3e1e-4d33-8aaf-d91c7b03c272",
+        "created_at": "2026-11-04T06:02:18.585533+00:00",
+        "updated_at": "2026-11-04T06:02:18.585533+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.5965414749721476,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue her education and explore career options, which she finds exciting, as discussed with Melanie on May 8, 2023",
+        "score": 0.5858897333029099,
+        "id": "12eca47a-aef0-4574-86ae-224aee51bb90",
+        "created_at": "2026-11-04T05:14:25.659943+00:00",
+        "updated_at": "2026-11-04T05:14:25.659943+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a plate with floral patterns with Caroline on August 25, 2023, while discussing Caroline's recent hiking incident.",
+        "score": 0.5728536407084477,
+        "id": "3f0204e4-3281-467e-822c-7c2f63e885ca",
+        "created_at": "2026-11-04T05:57:08.082228+00:00",
+        "updated_at": "2026-11-04T05:57:08.082228+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.5669443666518259,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.5662201928531452,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves live music while discussing Caroline's upcoming talent show for the kids at the youth center.",
+        "score": 0.5637681453984864,
+        "id": "4684a7e1-3e46-492e-8872-ab5da262652a",
+        "created_at": "2026-11-04T06:00:34.440833+00:00",
+        "updated_at": "2026-11-04T06:00:34.440833+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, has two pets: a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.5609234868747929,
+        "id": "2e5c112f-ebea-49b8-8b2b-646d1cb6ea2e",
+        "created_at": "2026-11-04T05:22:44.149606+00:00",
+        "updated_at": "2026-11-04T05:22:44.149606+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around August 16, 2023, featuring vibrant colors and a blue face, which she shared with Melanie.",
+        "score": 0.5563175631012587,
+        "id": "44129732-7721-49e5-af8b-087204ce97c4",
+        "created_at": "2026-11-04T05:56:54.263056+00:00",
+        "updated_at": "2026-11-04T05:56:54.263056+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.40330036518971435,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.38515783968446343,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.3732035591176862,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.36534543711321776,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.3173431188599319,
+        "id": "3709dd54-5124-4ae0-b23f-902e410a41bd",
+        "created_at": "2026-11-04T05:21:49.354675+00:00",
+        "updated_at": "2026-11-04T05:21:49.354675+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.3173431188599319,
+        "id": "819a0668-f44e-49e7-a357-42166d57b564",
+        "created_at": "2026-11-04T05:21:52.375784+00:00",
+        "updated_at": "2026-11-04T05:21:52.375784+00:00"
+      }
+    ],
+    "search_latency_ms": 158.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Supportive, loyal, caring, and reliable",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists traits (supportive, loyal, caring, reliable) that are semantically distinct from the gold answer's traits (thoughtful, authentic, driven), and none of the specific gold items or their direct paraphrases are present."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Supportive, reliable, and caring",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists 'Supportive, reliable, and caring', which are distinct personality traits from the gold answer's 'Thoughtful, authentic, and driven', and none of the specific gold items appear in the generated response."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Supportive, reliable, and caring",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists 'Supportive, reliable, and caring', which are distinct personality traits from the gold answer's 'Thoughtful, authentic, and driven', and none of the specific gold items appear in the generated response."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Supportive, reliable, and caring",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists 'Supportive, reliable, and caring', which are distinct personality traits from the gold answer's 'Thoughtful, authentic, and driven', and none of the specific gold items appear in the generated response."
     }
   }
 }

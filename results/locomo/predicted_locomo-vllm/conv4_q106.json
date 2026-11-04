@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q106",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where are John and his teammates planning to explore on a team trip?",
+  "ground_truth_answer": "a new city",
+  "evidence": [
+    "D11:7"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Where are John and his teammates planning to explore on a team trip?",
+    "search_results": [
+      {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
+        "score": 0.9057795767152514,
+        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
+        "created_at": "2026-11-03T09:14:22.476178+00:00",
+        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.9022198869385536,
+        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
+        "created_at": "2026-11-03T09:14:37.516787+00:00",
+        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+      },
+      {
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
+        "score": 0.8880394566569961,
+        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
+        "created_at": "2026-11-03T09:14:09.210132+00:00",
+        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+      },
+      {
+        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
+        "score": 0.8852311907694279,
+        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
+        "created_at": "2026-11-03T09:14:48.117056+00:00",
+        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
+        "score": 0.8681587415716926,
+        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
+        "created_at": "2026-11-03T09:14:41.113956+00:00",
+        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+      },
+      {
+        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
+        "score": 0.8639019071141802,
+        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
+        "created_at": "2026-11-03T09:14:13.745108+00:00",
+        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+      },
+      {
+        "memory": "John expressed interest in Tim's suggestion of Edinburgh for the team trip, noting he has never been there but considers it worth exploring.",
+        "score": 0.8538156892822464,
+        "id": "bee098e3-1f67-470d-90ba-7f054ce200b9",
+        "created_at": "2026-11-03T09:14:48.125743+00:00",
+        "updated_at": "2026-11-03T09:14:48.125743+00:00"
+      },
+      {
+        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
+        "score": 0.7913585731970076,
+        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
+        "created_at": "2026-11-03T09:11:10.057566+00:00",
+        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
+        "score": 0.742599593379272,
+        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
+        "created_at": "2026-11-03T09:21:00.674911+00:00",
+        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
+        "score": 0.7107954554696734,
+        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
+        "created_at": "2026-11-03T09:34:38.576853+00:00",
+        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.6636175301033478,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
+        "score": 0.6613318531296244,
+        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
+        "created_at": "2026-11-03T09:11:25.262586+00:00",
+        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+      },
+      {
+        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
+        "score": 0.6274088750720938,
+        "id": "b0e444f3-0cbf-4caf-863b-013f12d04ccc",
+        "created_at": "2026-11-03T09:14:37.521022+00:00",
+        "updated_at": "2026-11-03T09:14:37.521022+00:00"
+      },
+      {
+        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's upcoming team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
+        "score": 0.6236935964683031,
+        "id": "a1a5f729-959b-4783-a2eb-cca098540bb5",
+        "created_at": "2026-11-03T09:14:48.121842+00:00",
+        "updated_at": "2026-11-03T09:14:48.121842+00:00"
+      },
+      {
+        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
+        "score": 0.6069258749410908,
+        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
+        "created_at": "2026-11-03T09:11:02.805338+00:00",
+        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
+        "score": 0.6052838265466703,
+        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
+        "created_at": "2026-11-03T09:08:04.819221+00:00",
+        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
+        "score": 0.6034922823903279,
+        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
+        "created_at": "2026-11-03T09:08:28.250746+00:00",
+        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.5910925713409803,
+        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
+        "created_at": "2026-11-03T09:14:22.471894+00:00",
+        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates around September 14, 2023, and described it as a great opportunity to get to know them better.",
+        "score": 0.5904113556597421,
+        "id": "374290d5-faaf-46e5-a489-595626691cd2",
+        "created_at": "2026-11-03T09:14:03.760703+00:00",
+        "updated_at": "2026-11-03T09:14:03.760703+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.5902436604991698,
+        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
+        "created_at": "2026-11-03T09:14:37.512820+00:00",
+        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+      }
+    ],
+    "search_latency_ms": 198.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Edinburgh, Scotland",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies 'Edinburgh, Scotland', which is a specific city, thereby satisfying the gold answer's requirement of 'a new city' through semantic overlap and specificity."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Edinburgh, Scotland",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies 'Edinburgh, Scotland', which is a specific city, thereby satisfying the gold answer's requirement of 'a new city' through semantic overlap and specificity."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Edinburgh, Scotland",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies 'Edinburgh, Scotland', which is a specific city, thereby satisfying the gold answer's requirement of 'a new city' through semantic overlap and specificity."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Edinburgh, Scotland",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies 'Edinburgh, Scotland', which is a specific city, thereby satisfying the gold answer's requirement of 'a new city' through semantic overlap and specificity."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q127",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What hobby is a therapy for John when away from the court?",
+  "ground_truth_answer": "Cooking",
+  "evidence": [
+    "D15:30"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What hobby is a therapy for John when away from the court?",
+    "search_results": [
+      {
+        "memory": "John is currently dealing with a sports injury that prevents him from playing on the court, which he finds frustrating, but the doctor indicated it is not too serious and he remains positive about his recovery.",
+        "score": 0.6245098658084636,
+        "id": "99868cae-315a-42b9-afdc-b33ac2f99980",
+        "created_at": "2026-11-03T09:26:39.492860+00:00",
+        "updated_at": "2026-11-03T09:26:39.492860+00:00"
+      },
+      {
+        "memory": "John is recovering from an injury and performs physical therapy exercises every day to stay active during his rehabilitation process.",
+        "score": 0.6231423149657409,
+        "id": "4b3f8ae3-238d-419b-bcf4-ade98bf2f304",
+        "created_at": "2026-11-03T09:33:32.666118+00:00",
+        "updated_at": "2026-11-03T09:33:32.666118+00:00"
+      },
+      {
+        "memory": "John is undergoing daily physical therapy exercises to stay active and recover from his recent sports injury, which he finds tough but necessary.",
+        "score": 0.6146879413801065,
+        "id": "0d2592b5-77bd-4859-b20a-a350ab8f8b40",
+        "created_at": "2026-11-03T09:33:12.733423+00:00",
+        "updated_at": "2026-11-03T09:33:12.733423+00:00"
+      },
+      {
+        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
+        "score": 0.6054083486214312,
+        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
+        "created_at": "2026-11-03T09:21:03.783333+00:00",
+        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.601143094490471,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.5967449784186765,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John is undergoing daily physical therapy exercises to recover from his ankle injury and has been working hard on his rehab routine.",
+        "score": 0.5939445947018969,
+        "id": "46a759f1-c9e1-4c8d-87a5-a598cd2d3442",
+        "created_at": "2026-11-03T09:33:30.161658+00:00",
+        "updated_at": "2026-11-03T09:33:30.161658+00:00"
+      },
+      {
+        "memory": "Off the court, John is actively looking into securing more endorsements and building his personal brand to prepare for life after basketball.",
+        "score": 0.5918419948836234,
+        "id": "ca31824b-a0fe-49cf-add5-3a0cc05771a3",
+        "created_at": "2026-11-03T09:15:54.765932+00:00",
+        "updated_at": "2026-11-03T09:15:54.765932+00:00"
+      },
+      {
+        "memory": "John is currently recovering from an injury that prevents him from playing soccer, which he describes as difficult to handle since he hates not being on the court. The doctor indicated the injury is not too serious, and John remains optimistic about his recovery.",
+        "score": 0.5916433446904273,
+        "id": "7317d05e-a7f7-4b43-8148-f210720819eb",
+        "created_at": "2026-11-03T09:26:53.043169+00:00",
+        "updated_at": "2026-11-03T09:26:53.043169+00:00"
+      },
+      {
+        "memory": "John injured his ankle recently, which required him to miss games and prevented him from helping his team. He is currently recovering by doing physical therapy exercises every day.",
+        "score": 0.5904111307533619,
+        "id": "4c98f7b4-8531-4fe4-a249-30612852c5bb",
+        "created_at": "2026-11-03T09:33:23.059024+00:00",
+        "updated_at": "2026-11-03T09:33:23.059024+00:00"
+      },
+      {
+        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
+        "score": 0.5896816593570511,
+        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
+        "created_at": "2026-11-03T09:14:58.691644+00:00",
+        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+      },
+      {
+        "memory": "John enjoys reading books as a way to relax and unwind, describing it as his 'chill time' when he is away from the basketball court.",
+        "score": 0.5845477394277467,
+        "id": "0ea6b895-c851-4b97-aa63-ab9530453852",
+        "created_at": "2026-11-03T09:21:03.778822+00:00",
+        "updated_at": "2026-11-03T09:21:03.778822+00:00"
+      },
+      {
+        "memory": "John shared that last season he suffered a major ankle injury requiring time off and physical therapy, which was a tough mental and physical challenge as he could not play or help his team.",
+        "score": 0.5836898620377489,
+        "id": "8457f3c1-cc4d-47c5-9cc9-e16a0d9278a8",
+        "created_at": "2026-11-03T09:27:35.176156+00:00",
+        "updated_at": "2026-11-03T09:27:35.176156+00:00"
+      },
+      {
+        "memory": "John is recovering from his ankle injury by performing physical therapy exercises every day to stay active during rehab.",
+        "score": 0.5808591584499082,
+        "id": "844fadb9-6bfd-47e7-8c25-e02529617cb8",
+        "created_at": "2026-11-03T09:33:27.514833+00:00",
+        "updated_at": "2026-11-03T09:33:27.514833+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.5805303763290384,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improving his overall game on the court, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.5802419937387066,
+        "id": "18996d25-1e0d-4d9f-9ace-c14339f29067",
+        "created_at": "2026-11-03T09:30:34.563515+00:00",
+        "updated_at": "2026-11-03T09:30:34.563515+00:00"
+      },
+      {
+        "memory": "John is currently focusing on improving his shooting and making a greater impact on the court, with the goal of being known as a consistent performer who helps his team.",
+        "score": 0.5789038327793994,
+        "id": "b8d5246a-42df-4376-8ad6-bddf2d32abd3",
+        "created_at": "2026-11-03T09:14:58.688861+00:00",
+        "updated_at": "2026-11-03T09:14:58.688861+00:00"
+      },
+      {
+        "memory": "John suffered a major ankle injury last season (around 2022) that required time off and physical therapy, which was a frustrating mental and physical challenge because he could not play or help his team.",
+        "score": 0.5758867332356278,
+        "id": "ffec463d-d335-4f51-acf0-e3bcfde5f165",
+        "created_at": "2026-11-03T09:27:28.123489+00:00",
+        "updated_at": "2026-11-03T09:27:28.123489+00:00"
+      },
+      {
+        "memory": "John recently found a new gym with a basketball court to maintain his fitness for professional basketball, noting that finding the right spot was difficult but essential for surviving pro ball.",
+        "score": 0.5758646048474659,
+        "id": "d0c7530c-9c04-4b79-b390-f0e552b65a0e",
+        "created_at": "2026-11-03T09:08:57.410650+00:00",
+        "updated_at": "2026-11-03T09:08:57.410650+00:00"
+      },
+      {
+        "memory": "John values the camaraderie built both on and off the court with his teammates, stating that winning against a strong opponent felt amazing and was worth all the hard work.",
+        "score": 0.5728639561187949,
+        "id": "1851ffd7-63ea-4756-a967-3322a543cf96",
+        "created_at": "2026-11-03T09:31:10.122167+00:00",
+        "updated_at": "2026-11-03T09:31:10.122167+00:00"
+      }
+    ],
+    "search_latency_ms": 124.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cooking",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cooking",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cooking",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cooking",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

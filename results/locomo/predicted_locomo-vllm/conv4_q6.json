@@ -12,38 +12,179 @@
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "In which month's game did John achieve a career-high score in points?",
-    "search_results": [],
-    "search_latency_ms": 450077.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6778921944859558,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6718001929194671,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6662411790867776,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6648677389613841,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6534155220074847,
+        "id": "094a7829-5c98-4aee-b925-8eb643671180",
+        "created_at": "2026-11-03T09:31:45.175398+00:00",
+        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+      },
+      {
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6455847468051937,
+        "id": "352a6cae-8749-47c6-8fba-36228a556495",
+        "created_at": "2026-11-03T09:31:59.602804+00:00",
+        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game in the week preceding January 7, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.6333707419724554,
+        "id": "c1b070f9-df9c-483a-829b-25110148e8d2",
+        "created_at": "2026-11-03T09:37:55.809326+00:00",
+        "updated_at": "2026-11-03T09:37:55.809326+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.6295085731393404,
+        "id": "fb290661-a188-443a-90cf-c33235e3cc73",
+        "created_at": "2026-11-03T09:37:40.349172+00:00",
+        "updated_at": "2026-11-03T09:37:40.349172+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.6270752361655169,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be when he hit a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.6267534264948645,
+        "id": "75a2a2e3-e6c5-4259-b4cf-19d97f2b314a",
+        "created_at": "2026-11-03T09:31:54.815580+00:00",
+        "updated_at": "2026-11-03T09:31:54.815580+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
+        "score": 0.6260372397376872,
+        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
+        "created_at": "2026-11-03T09:37:42.890488+00:00",
+        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.623887370018098,
+        "id": "969be255-a1ca-4d01-b397-74f2a6b0309d",
+        "created_at": "2026-11-03T09:32:06.200820+00:00",
+        "updated_at": "2026-11-03T09:32:06.200820+00:00"
+      },
+      {
+        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
+        "score": 0.6224930306880502,
+        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
+        "created_at": "2026-11-03T09:33:53.682920+00:00",
+        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on the week of January 1, 2024, which was a total success with high attendance and raised money for charity",
+        "score": 0.6135322946563316,
+        "id": "dad32b42-9aac-4257-a16b-5d7e13f5e4e1",
+        "created_at": "2026-11-03T09:37:53.627113+00:00",
+        "updated_at": "2026-11-03T09:37:53.627113+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.6065078116966401,
+        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
+        "created_at": "2026-11-03T09:07:43.089742+00:00",
+        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+      },
+      {
+        "memory": "John continued playing basketball through middle and high school before earning a college scholarship, and was drafted by a professional team after college, which he describes as his dream come true.",
+        "score": 0.5913851480646959,
+        "id": "5debabf9-1707-47f7-a97b-a6f8536cb8b2",
+        "created_at": "2026-11-03T09:07:35.943681+00:00",
+        "updated_at": "2026-11-03T09:07:35.943681+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.5913178686060571,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "John loves his professional basketball career because it provides a constant challenge that keeps him growing, and he finds great satisfaction in seeing himself improve and beating goals.",
+        "score": 0.5884215978122369,
+        "id": "82220b64-01b1-4986-b1c7-d39168fc74ed",
+        "created_at": "2026-11-03T09:14:51.744429+00:00",
+        "updated_at": "2026-11-03T09:14:51.744429+00:00"
+      },
+      {
+        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
+        "score": 0.5837357467772358,
+        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
+        "created_at": "2026-11-03T09:11:02.805338+00:00",
+        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5427505888625869,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      }
+    ],
+    "search_latency_ms": 108.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "December",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'December' does not match the gold answer 'June 2023' and is outside the 14-day tolerance window, indicating a completely different month."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'December' does not match the gold answer 'June 2023' and is outside the 14-day tolerance window, indicating a completely different month."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'December' does not match the gold answer 'June 2023' and is outside the 14-day tolerance window, indicating a completely different month."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'December' does not match the gold answer 'June 2023' and is outside the 14-day tolerance window, indicating a completely different month."
     }
   }
 }

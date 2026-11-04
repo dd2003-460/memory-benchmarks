@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q139",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What motivated Tim to keep pushing himself to get better in writing and reading?",
+  "ground_truth_answer": "Love for writing and reading",
+  "evidence": [
+    "D19:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What motivated Tim to keep pushing himself to get better in writing and reading?",
+    "search_results": [
+      {
+        "memory": "Tim finds motivation to push himself to get better by remembering his love for writing and reading when things get tough.",
+        "score": 0.7414418279920577,
+        "id": "00b1ce5d-942d-49a7-a45e-1f99a8eaf246",
+        "created_at": "2026-11-03T09:27:28.119127+00:00",
+        "updated_at": "2026-11-03T09:27:28.119127+00:00"
+      },
+      {
+        "memory": "Tim finds writing and reading to be his primary sources of motivation when facing challenges, helping him stay focused and push himself to improve.",
+        "score": 0.7154219406708944,
+        "id": "55bd5a59-4b8f-4165-add4-876161749a6d",
+        "created_at": "2026-11-03T09:27:35.171169+00:00",
+        "updated_at": "2026-11-03T09:27:35.171169+00:00"
+      },
+      {
+        "memory": "Tim is actively trying to find a way to balance his demanding study schedule with his fantasy reading hobby without giving up on either",
+        "score": 0.6678052196416445,
+        "id": "f91ac070-5f4d-4b2a-818d-cd8b646280bf",
+        "created_at": "2026-11-03T09:10:53.958076+00:00",
+        "updated_at": "2026-11-03T09:10:53.958076+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
+        "score": 0.663583338786075,
+        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
+        "created_at": "2026-11-03T09:21:27.127661+00:00",
+        "updated_at": "2026-11-03T09:21:27.127661+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy novels, finding that he can learn a great deal from them.",
+        "score": 0.6599108134468947,
+        "id": "c1e3e55b-69f7-4580-923b-92950cdacfe4",
+        "created_at": "2026-11-03T09:28:08.188626+00:00",
+        "updated_at": "2026-11-03T09:28:08.188626+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading books on growth, psychology, and self-improvement in addition to fantasy stories, finding that these books help him discover new ways to better himself.",
+        "score": 0.6598073639625607,
+        "id": "4b83de1f-eacb-4d8a-bd2b-d2e0f6f4d293",
+        "created_at": "2026-11-03T09:28:21.004687+00:00",
+        "updated_at": "2026-11-03T09:28:21.004687+00:00"
+      },
+      {
+        "memory": "Tim is a student who finds assignments and exams overwhelming but is determined not to give up, and he is trying to balance studying with his fantasy reading hobby.",
+        "score": 0.6593024774519374,
+        "id": "4df58466-77f0-4ad0-a8ad-779765352955",
+        "created_at": "2026-11-03T09:11:02.810349+00:00",
+        "updated_at": "2026-11-03T09:11:02.810349+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
+        "score": 0.6548014371687125,
+        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
+        "created_at": "2026-11-03T09:20:07.698691+00:00",
+        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+      },
+      {
+        "memory": "Tim has been writing more articles recently, describing the activity as a way to combine his love for reading with the joy of sharing great stories.",
+        "score": 0.648215878583285,
+        "id": "cfb732a9-a766-473c-a35e-d5e9518f3c76",
+        "created_at": "2026-11-03T09:07:04.400993+00:00",
+        "updated_at": "2026-11-03T09:07:04.400993+00:00"
+      },
+      {
+        "memory": "Tim found the discussion about overcoming challenges to be a great reminder for his own work as a writer, following a recent experience where he got stuck on a plot twist but eventually pushed through it.",
+        "score": 0.6477613330480809,
+        "id": "3f055a98-bdc7-4f2e-988f-747a15904797",
+        "created_at": "2026-11-03T09:22:02.722438+00:00",
+        "updated_at": "2026-11-03T09:22:02.722438+00:00"
+      },
+      {
+        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach a lot and help him learn new things.",
+        "score": 0.6451894622371493,
+        "id": "ffd7ff15-efe1-46e7-aab3-6a7e7b5428cb",
+        "created_at": "2026-11-03T09:28:43.313206+00:00",
+        "updated_at": "2026-11-03T09:28:43.313206+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly changed his approach to doing things.",
+        "score": 0.6443441447301106,
+        "id": "4835b558-d3eb-4bdc-88e9-2e4872dcd1bc",
+        "created_at": "2026-11-03T09:28:43.315373+00:00",
+        "updated_at": "2026-11-03T09:28:43.315373+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.6438383190199455,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.6431404956508399,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with these interests to make writing more fun.",
+        "score": 0.6429445507455334,
+        "id": "8953bf23-5c3a-4dda-b9b4-b63beed67e32",
+        "created_at": "2026-11-03T09:19:41.440880+00:00",
+        "updated_at": "2026-11-03T09:19:41.440880+00:00"
+      },
+      {
+        "memory": "Tim stated that he will always love reading, expressing a lifelong commitment to the activity.",
+        "score": 0.6408395478246879,
+        "id": "c63dd8f7-2ef8-40b5-98f4-782183186092",
+        "created_at": "2026-11-03T09:36:15.562605+00:00",
+        "updated_at": "2026-11-03T09:36:15.562605+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6402553271070641,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
+        "score": 0.638050953539983,
+        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
+        "created_at": "2026-11-03T09:19:36.424804+00:00",
+        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+      },
+      {
+        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK sparked many ideas for his stories.",
+        "score": 0.6372464063763601,
+        "id": "84d7f1ec-a151-41a3-aa19-b541fe4e33d3",
+        "created_at": "2026-11-03T09:20:07.690643+00:00",
+        "updated_at": "2026-11-03T09:20:07.690643+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly impacted him and changed the way he does things.",
+        "score": 0.6370075268756374,
+        "id": "1f84a7e5-8fcd-43aa-9f6a-f10cf78b6636",
+        "created_at": "2026-11-03T09:28:14.920410+00:00",
+        "updated_at": "2026-11-03T09:28:14.920410+00:00"
+      }
+    ],
+    "search_latency_ms": 110.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "remembering his love for writing and reading",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly mentions 'love for writing and reading,' which is the exact core concept of the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "remembering his love for writing and reading",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'love for writing and reading,' which is the exact core concept of the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "remembering his love for writing and reading",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'love for writing and reading,' which is the exact core concept of the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "remembering his love for writing and reading",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'love for writing and reading,' which is the exact core concept of the gold answer."
+    }
+  }
+}

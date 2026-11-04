@@ -8,42 +8,183 @@
   "evidence": [
     "D8:4"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What kind of pot did Mel and her kids make with clay?",
-    "search_results": [],
-    "search_latency_ms": 28.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.6505203133220042,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6483819195466032,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6458348478282606,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.6402692823694983,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie describes pottery as a huge part of her life rather than just a hobby, stating that working with clay helps her express emotions and brings her joy.",
+        "score": 0.6243700800921079,
+        "id": "18406e55-4662-44a7-8cad-efcccd712f7c",
+        "created_at": "2026-11-04T05:21:14.105193+00:00",
+        "updated_at": "2026-11-04T05:21:14.105193+00:00"
+      },
+      {
+        "memory": "During the July 14, 2023 pottery workshop, Melanie's kids were excited to get their hands dirty and created a cup with a dog face on it.",
+        "score": 0.5001901395530537,
+        "id": "984238f2-ee50-45fc-bc2c-2204a7d7f630",
+        "created_at": "2026-11-04T05:23:30.965264+00:00",
+        "updated_at": "2026-11-04T05:23:30.965264+00:00"
+      },
+      {
+        "memory": "One of Melanie's kids made a cup with a dog face design during the family pottery workshop on July 14, 2023.",
+        "score": 0.4877808392799037,
+        "id": "7af7659e-d352-48c1-9e68-a2ac46432133",
+        "created_at": "2026-11-04T05:23:11.566468+00:00",
+        "updated_at": "2026-11-04T05:23:11.566468+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.4387711204227391,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie and her kids collaborated on a nature-inspired painting of a sunset with a palm tree, which they described as a bonding experience where they chatted about nature while working together.",
+        "score": 0.43833381244718045,
+        "id": "bc11380b-afc4-46f2-8f4f-1576c4936cdd",
+        "created_at": "2026-11-04T05:23:20.330485+00:00",
+        "updated_at": "2026-11-04T05:23:20.330485+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.4314210488788343,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      },
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.43083598102839205,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she described the recent mountain camping trip as a special, unforgettable family moment.",
+        "score": 0.4301612229626552,
+        "id": "96545ebd-1edb-44bc-9f3e-0599bc0265b9",
+        "created_at": "2026-11-04T05:18:01.029864+00:00",
+        "updated_at": "2026-11-04T05:18:01.029864+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.42663556761776833,
+        "id": "9c5311e3-1a9d-46a3-8693-eae99263a9d9",
+        "created_at": "2026-11-04T06:01:32.075450+00:00",
+        "updated_at": "2026-11-04T06:01:32.075450+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.42663556761776833,
+        "id": "0b4ccf54-67a3-4e2b-85b3-af3a2e4e373f",
+        "created_at": "2026-11-04T06:01:24.092086+00:00",
+        "updated_at": "2026-11-04T06:01:24.092086+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip where they explored nature, roasted marshmallows around the campfire, and hiked to a scenic viewpoint, noting that her two younger kids love nature and she found the experience special and unforgettable",
+        "score": 0.4258443304411438,
+        "id": "95a16d20-82a9-4474-8901-a7331bcdb754",
+        "created_at": "2026-11-04T05:18:40.779615+00:00",
+        "updated_at": "2026-11-04T05:18:40.779615+00:00"
+      },
+      {
+        "memory": "Melanie and her kids enjoy painting together, particularly nature-inspired pieces, and created a new painting of a sunset with a palm tree on the weekend of July 8-9, 2023.",
+        "score": 0.4238163750848531,
+        "id": "452741cc-f1a6-4688-b224-a74b0e809fd9",
+        "created_at": "2026-11-04T05:23:15.850712+00:00",
+        "updated_at": "2026-11-04T05:23:15.850712+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.423658308673463,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.42314960266498175,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "During her family camping trip in the mountains around June 20, 2023, Melanie explored nature, roasted marshmallows around a campfire, went on a hike with an amazing view from the top, and noted that her two younger kids love nature.",
+        "score": 0.4218215359231315,
+        "id": "4e5b801b-5289-4fd1-88bf-6fb41449ddc7",
+        "created_at": "2026-11-04T05:17:55.700693+00:00",
+        "updated_at": "2026-11-04T05:17:55.700693+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.20601944988555737,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      }
+    ],
+    "search_latency_ms": 99.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a cup with a dog face design",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'a cup with a dog face design' is a direct paraphrase of the gold answer 'a cup with a dog face on it', capturing the exact same object and detail."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A cup with a dog face design",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'A cup with a dog face design' is a direct paraphrase of the gold answer 'a cup with a dog face on it', capturing the exact same core entity and details."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a cup with a dog face design",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a cup with a dog face design' is a direct paraphrase of the gold answer 'a cup with a dog face on it', capturing the exact same object and detail."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A cup with a dog face design",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'A cup with a dog face design' is a direct paraphrase of the gold answer 'a cup with a dog face on it', capturing the exact same core entity and details."
     }
   }
 }

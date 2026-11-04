@@ -8,42 +8,183 @@
   "evidence": [
     "D17:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie get hurt?",
-    "search_results": [],
-    "search_latency_ms": 21.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.7006264291698654,
+        "id": "43ee7bde-bae5-43e7-8db9-c472274a26e7",
+        "created_at": "2026-11-04T06:02:43.907493+00:00",
+        "updated_at": "2026-11-04T06:02:43.907493+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.696946772347615,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.696946772347615,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie uses pottery as a form of self-expression and peace, but had to take a break from it after getting hurt in September 2023.",
+        "score": 0.6279518850552827,
+        "id": "cba492d6-f1d9-490b-92f8-e534c2b93c15",
+        "created_at": "2026-11-04T06:02:32.142480+00:00",
+        "updated_at": "2026-11-04T06:02:32.142480+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.5893306130757199,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5860363285464208,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5788236098780495,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5700872177495317,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5464306335628222,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's two younger kids were scared during the car accident on the October 14-15, 2023 road trip but were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+        "score": 0.5420202422239107,
+        "id": "6ba61cbd-5530-49a7-8f1e-64f413258121",
+        "created_at": "2026-11-04T06:03:30.618266+00:00",
+        "updated_at": "2026-11-04T06:03:30.618266+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5376493862623917,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5340931002881122,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.5268006751935801,
+        "id": "bb1995bd-bb07-4650-817b-5866292e11c6",
+        "created_at": "2026-11-04T06:02:15.985633+00:00",
+        "updated_at": "2026-11-04T06:02:15.985633+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.5268006751935801,
+        "id": "2bc47d0a-3c29-4725-a725-80df11e1227e",
+        "created_at": "2026-11-04T06:02:29.193621+00:00",
+        "updated_at": "2026-11-04T06:02:29.193621+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.5244950739457519,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.5227280571470183,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5209973352653336,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5209010052666564,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.5191940623621378,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.5174344340170395,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      }
+    ],
+    "search_latency_ms": 83.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

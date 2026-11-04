@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q66",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is a Star Wars book that Tim might enjoy?",
+  "ground_truth_answer": "Star Wars: Jedi Apprentice by Judy Blundell and David Farland. It is a highly rated and immersive series about his favorite movies.",
+  "evidence": [
+    "D27:19",
+    "D27:21"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is a Star Wars book that Tim might enjoy?",
+    "search_results": [
+      {
+        "memory": "Tim's favorite book series is Harry Potter, which he finds immersive, and his favorite fantasy movie franchise is Star Wars, which he says never gets old.",
+        "score": 0.897310322299991,
+        "id": "4b60eadc-38a8-4c64-9bdf-a72cd8c419c5",
+        "created_at": "2026-11-03T09:36:46.251633+00:00",
+        "updated_at": "2026-11-03T09:36:46.251633+00:00"
+      },
+      {
+        "memory": "Tim stated that Star Wars is his favorite fantasy film and that it never gets old, in response to John asking about his favorite fantasy movies.",
+        "score": 0.8763015046815147,
+        "id": "aa19e8e3-8061-4d50-92f1-8ce7b3bcddc1",
+        "created_at": "2026-11-03T09:36:28.849922+00:00",
+        "updated_at": "2026-11-03T09:36:28.849922+00:00"
+      },
+      {
+        "memory": "John shared a photo of his fantasy movie collection, which includes Star Wars movies displayed on a table, and asked Tim about his favorite fantasy films.",
+        "score": 0.8491464981808192,
+        "id": "1e9c6e3a-bd29-495c-8bd2-9224ee861eb8",
+        "created_at": "2026-11-03T09:36:26.688406+00:00",
+        "updated_at": "2026-11-03T09:36:26.688406+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
+        "score": 0.7495060764076936,
+        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
+        "created_at": "2026-11-03T09:35:25.860608+00:00",
+        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
+        "score": 0.7284577590753887,
+        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
+        "created_at": "2026-11-03T09:27:54.274107+00:00",
+        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+      },
+      {
+        "memory": "Tim has been reading stories from travelers around the world to plan his next adventure, using a specific book he found that features a cover with a boy and a girl.",
+        "score": 0.7255363046945646,
+        "id": "a7b4b98d-3346-4457-9c1b-e21edd58afd4",
+        "created_at": "2026-11-03T09:34:20.910771+00:00",
+        "updated_at": "2026-11-03T09:34:20.910771+00:00"
+      },
+      {
+        "memory": "Tim stated that Harry Potter is his favorite book because he finds it very immersive, and shared a photo of his collection of movies and DVDs on the carpet.",
+        "score": 0.724875783010772,
+        "id": "5ca7384b-6029-4b83-bb01-108c90f8be4f",
+        "created_at": "2026-11-03T09:36:24.605289+00:00",
+        "updated_at": "2026-11-03T09:36:24.605289+00:00"
+      },
+      {
+        "memory": "John has read 'The Hobbit' and considers it one of his favorite books, sharing this interest with Tim who also enjoys the series.",
+        "score": 0.7226154574111628,
+        "id": "360fd9ad-1cd1-4943-994d-7e688836cc44",
+        "created_at": "2026-11-03T09:29:29.495345+00:00",
+        "updated_at": "2026-11-03T09:29:29.495345+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.7105690369015711,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.7101831981509645,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "Tim has read the Game of Thrones (GoT) series by George R. R. Martin but has not read any other books by the author.",
+        "score": 0.7026771322462941,
+        "id": "868caca8-d8f9-43d5-b778-93c98ee077bd",
+        "created_at": "2026-11-03T09:31:36.074747+00:00",
+        "updated_at": "2026-11-03T09:31:36.074747+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024.",
+        "score": 0.6929906291130165,
+        "id": "7838da90-7407-41cc-8813-8ae218bf7caf",
+        "created_at": "2026-11-03T09:35:37.286190+00:00",
+        "updated_at": "2026-11-03T09:35:37.286190+00:00"
+      },
+      {
+        "memory": "Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to come out in February 2024.",
+        "score": 0.6920310421995035,
+        "id": "491c0720-54f9-4b66-88b1-a4f6912dcc8e",
+        "created_at": "2026-11-03T09:35:47.076998+00:00",
+        "updated_at": "2026-11-03T09:35:47.076998+00:00"
+      },
+      {
+        "memory": "Tim recently finished reading 'A Dance with Dragons' from the Game of Thrones series and highly recommends it, noting he has only read the GoT books by George R. R. Martin.",
+        "score": 0.680681952628177,
+        "id": "da374e53-13db-4b0b-b54b-adb1f72cb0c8",
+        "created_at": "2026-11-03T09:31:45.167665+00:00",
+        "updated_at": "2026-11-03T09:31:45.167665+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.6772071599739256,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.671572411989037,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "Tim enjoys fantasy books like Lord of the Rings for getting lost in another world and appreciating the tiny details and intricate world-building of fictional universes",
+        "score": 0.6705595237374169,
+        "id": "8f8ba4a9-ff3c-4ece-ae9f-6f4d7593e363",
+        "created_at": "2026-11-03T09:36:57.776768+00:00",
+        "updated_at": "2026-11-03T09:36:57.776768+00:00"
+      },
+      {
+        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.6610695434400621,
+        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
+        "created_at": "2026-11-03T09:35:14.098792+00:00",
+        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+      },
+      {
+        "memory": "Tim likes to curl up with a good book in his free time, finding it an escape from reality that allows him to get lost in different worlds.",
+        "score": 0.6498079815042648,
+        "id": "fb773c3a-63a2-4040-8b56-e1c53442f9a5",
+        "created_at": "2026-11-03T09:21:00.680159+00:00",
+        "updated_at": "2026-11-03T09:21:00.680159+00:00"
+      },
+      {
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies, and asked Tim if Harry Potter and Game of Thrones are still his favorites.",
+        "score": 0.6457890684226675,
+        "id": "6d08c55c-f060-49b6-91a3-86c3f863454f",
+        "created_at": "2026-11-03T09:27:39.703564+00:00",
+        "updated_at": "2026-11-03T09:27:39.703564+00:00"
+      }
+    ],
+    "search_latency_ms": 163.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Star Wars book featuring epic adventures and magical worlds",
+      "memories_evaluated": 10,
+      "reason": "The generated answer provides a generic description of a Star Wars book but fails to mention the specific title 'Jedi Apprentice' or the authors, which are the core facts in the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Star Wars book that features **epic adventures** and **intricate world-building**, as Tim enjoys fantasy books that are immersive, allow him to get lost in different worlds, and have detailed fictional universes, and Star Wars is his favorite fantasy film franchise.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer fails to mention the specific book title 'Star Wars: Jedi Apprentice' or the authors, which are the core items in the gold answer, and instead provides a generic description of the genre."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Star Wars book that features **epic adventures** and **intricate world-building**, as Tim enjoys fantasy books that are immersive, allow him to get lost in different worlds, and have detailed fictional universes, and Star Wars is his favorite fantasy film franchise.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer fails to mention the specific book title 'Star Wars: Jedi Apprentice' or the authors, which are the core items in the gold answer, and instead provides a generic description of the genre."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Star Wars book that features **epic adventures** and **intricate world-building**, as Tim enjoys fantasy books that are immersive, allow him to get lost in different worlds, and have detailed fictional universes, and Star Wars is his favorite fantasy film franchise.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer fails to mention the specific book title 'Star Wars: Jedi Apprentice' or the authors, which are the core items in the gold answer, and instead provides a generic description of the genre."
+    }
+  }
+}

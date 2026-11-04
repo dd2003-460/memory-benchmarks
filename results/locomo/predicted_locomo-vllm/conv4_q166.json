@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q166",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is John's favorite book series?",
+  "ground_truth_answer": "Harry Potter",
+  "evidence": [
+    "D27:19"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is John's favorite book series?",
+    "search_results": [
+      {
+        "memory": "John is a fan of fantasy literature, specifically citing The Hobbit and another popular fantasy series (implied to be Harry Potter or Game of Thrones) as favorites that provide an escape from reality.",
+        "score": 0.6916285992940281,
+        "id": "f28a8fcf-26b1-48df-96b3-f8c5c20937d0",
+        "created_at": "2026-11-03T09:29:41.604619+00:00",
+        "updated_at": "2026-11-03T09:29:41.604619+00:00"
+      },
+      {
+        "memory": "John recently finished reading an unnamed fantasy series and described it as a wild ride with many twists, praising the author for creating awesome storylines and characters that allow him to get lost in fantasy worlds.",
+        "score": 0.6709037873198,
+        "id": "af8248ed-c51f-4af7-b297-971a19843cbf",
+        "created_at": "2026-11-03T09:24:27.736763+00:00",
+        "updated_at": "2026-11-03T09:24:27.736763+00:00"
+      },
+      {
+        "memory": "John has a favorite fantasy book, The Hobbit, and also enjoys another popular fantasy series, appreciating how these books allow him to escape reality and experience magical adventures in different worlds.",
+        "score": 0.6707635445393998,
+        "id": "991dd4e1-4a30-4659-b023-a17576639020",
+        "created_at": "2026-11-03T09:29:45.880997+00:00",
+        "updated_at": "2026-11-03T09:29:45.880997+00:00"
+      },
+      {
+        "memory": "John has read 'The Hobbit' and considers it one of his favorite books, sharing this interest with Tim who also enjoys the series.",
+        "score": 0.6615412217264385,
+        "id": "360fd9ad-1cd1-4943-994d-7e688836cc44",
+        "created_at": "2026-11-03T09:29:29.495345+00:00",
+        "updated_at": "2026-11-03T09:29:29.495345+00:00"
+      },
+      {
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies, and asked Tim if Harry Potter and Game of Thrones are still his favorites.",
+        "score": 0.6533966802173335,
+        "id": "6d08c55c-f060-49b6-91a3-86c3f863454f",
+        "created_at": "2026-11-03T09:27:39.703564+00:00",
+        "updated_at": "2026-11-03T09:27:39.703564+00:00"
+      },
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
+        "score": 0.6486603067313437,
+        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
+        "created_at": "2026-11-03T09:19:26.762706+00:00",
+        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+      },
+      {
+        "memory": "John has not yet read any of George R. R. Martin's books, including the Game of Thrones series, but expressed interest in checking them out after Tim mentioned reading 'A Dance with Dragons'.",
+        "score": 0.6304741066231023,
+        "id": "586ba2db-4398-4278-8e39-9418d8c27fd7",
+        "created_at": "2026-11-03T09:31:33.381912+00:00",
+        "updated_at": "2026-11-03T09:31:33.381912+00:00"
+      },
+      {
+        "memory": "Tim's favorite book series is Harry Potter, which he finds immersive, and his favorite fantasy movie franchise is Star Wars, which he says never gets old.",
+        "score": 0.6259397348020286,
+        "id": "4b60eadc-38a8-4c64-9bdf-a72cd8c419c5",
+        "created_at": "2026-11-03T09:36:46.251633+00:00",
+        "updated_at": "2026-11-03T09:36:46.251633+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.6137360939958021,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      },
+      {
+        "memory": "John stated that The Hobbit is one of his favorite books while discussing Tim's bookshelf on December 1, 2023.",
+        "score": 0.6092393246991941,
+        "id": "2b7f4a56-56f2-4d7f-a1fc-fcda064fff58",
+        "created_at": "2026-11-03T09:29:25.438620+00:00",
+        "updated_at": "2026-11-03T09:29:25.438620+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.603870638804598,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "John enjoys reading non-fiction books about personal development and mindset, which he says help him know himself better.",
+        "score": 0.6010229011730096,
+        "id": "234e0a6a-299a-4214-96a3-6bf16309b929",
+        "created_at": "2026-11-03T09:28:05.932979+00:00",
+        "updated_at": "2026-11-03T09:28:05.932979+00:00"
+      },
+      {
+        "memory": "Tim has read the Game of Thrones (GoT) series by George R. R. Martin but has not read any other books by the author.",
+        "score": 0.6007988787858839,
+        "id": "868caca8-d8f9-43d5-b778-93c98ee077bd",
+        "created_at": "2026-11-03T09:31:36.074747+00:00",
+        "updated_at": "2026-11-03T09:31:36.074747+00:00"
+      },
+      {
+        "memory": "Tim mentioned that a specific fantasy show (referred to as 'That') is one of his favorites and asked John if he had seen it, noting that being lost in an awesome fantasy realm feels like an escape.",
+        "score": 0.6005659488688935,
+        "id": "a3a77b26-433d-440f-a27a-915d624cfc7e",
+        "created_at": "2026-11-03T09:24:27.740694+00:00",
+        "updated_at": "2026-11-03T09:24:27.740694+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
+        "score": 0.5987647141285584,
+        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
+        "created_at": "2026-11-03T09:27:54.274107+00:00",
+        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a worn copy of 'A Storm of Swords' from the Game of Thrones series with John on November 11, 2023, mentioning that he has been reading as usual.",
+        "score": 0.5968892832504195,
+        "id": "a5649d4d-332b-400d-91a5-f98bc2c66df4",
+        "created_at": "2026-11-03T09:23:39.184894+00:00",
+        "updated_at": "2026-11-03T09:23:39.184894+00:00"
+      },
+      {
+        "memory": "Tim considers 'The Alchemist' one of his favorite books and noticed it on John's bookshelf during a conversation on September 21, 2023.",
+        "score": 0.5950819297907647,
+        "id": "c2962a8e-10bb-439d-90fe-ee22a00206b5",
+        "created_at": "2026-11-03T09:15:57.506328+00:00",
+        "updated_at": "2026-11-03T09:15:57.506328+00:00"
+      },
+      {
+        "memory": "Tim is currently reading an inspiring series about the power of friendship and loyalty and asked John how his team maintains their bond.",
+        "score": 0.5905430658322215,
+        "id": "af75bdef-c061-416c-93f1-43dfb357328a",
+        "created_at": "2026-11-03T09:31:15.577396+00:00",
+        "updated_at": "2026-11-03T09:31:15.577396+00:00"
+      },
+      {
+        "memory": "John has watched the Lord of the Rings movies multiple times and finds them inspiring, with Aragorn being his favorite character due to his significant growth throughout the story.",
+        "score": 0.5896166539135883,
+        "id": "9f9efddc-8467-4933-bb70-3829433ce5aa",
+        "created_at": "2026-11-03T09:36:35.308751+00:00",
+        "updated_at": "2026-11-03T09:36:35.308751+00:00"
+      },
+      {
+        "memory": "Tim's favorite movie is 'Harry Potter and the Philosopher's Stone', which he describes as special because it was the first film in the series and watching it with his family brings back great, magical memories.",
+        "score": 0.587745446302805,
+        "id": "a59bbe00-b6f4-4eba-9901-1f3101b5473c",
+        "created_at": "2026-11-03T09:09:57.780700+00:00",
+        "updated_at": "2026-11-03T09:09:57.780700+00:00"
+      }
+    ],
+    "search_latency_ms": 111.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Hobbit",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'The Hobbit' is a different book series than the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    }
+  }
+}

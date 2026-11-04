@@ -8,42 +8,183 @@
   "evidence": [
     "D18:9"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What do Melanie's family give her?",
-    "search_results": [],
-    "search_latency_ms": 15.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's family has been supportive during her move, helping out and showing love and support through tough times.",
+        "score": 0.6921938573485754,
+        "id": "930ecc95-4e59-469f-865b-b1513ae34237",
+        "created_at": "2026-11-04T05:24:18.761536+00:00",
+        "updated_at": "2026-11-04T05:24:18.761536+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that her family has been supportive during her move, helping out and showing lots of love and support.",
+        "score": 0.6709023912202499,
+        "id": "e3d2bd47-f198-4fe2-9f8d-35ddc9f7a63e",
+        "created_at": "2026-11-04T05:24:14.276540+00:00",
+        "updated_at": "2026-11-04T05:24:14.276540+00:00"
+      },
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.6611315275087959,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.6581423224448458,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.6569472320642746,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.6564756933016217,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.655453046990677,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.6553549345169164,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.6523904828622176,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.6518553287595058,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she described the recent mountain camping trip as a special, unforgettable family moment.",
+        "score": 0.6513870023794982,
+        "id": "96545ebd-1edb-44bc-9f3e-0599bc0265b9",
+        "created_at": "2026-11-04T05:18:01.029864+00:00",
+        "updated_at": "2026-11-04T05:18:01.029864+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6505142724477376,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6505142724477376,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.6493271064766416,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.6491353237852429,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.6488082571832318,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.6474937452593015,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.6451398742615578,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie stated on June 9, 2023, that she wants to be courageous for her family, noting that they motivate her and give her love.",
+        "score": 0.644725729295529,
+        "id": "84efdfe9-798a-4302-bbc2-5f2392ad77d2",
+        "created_at": "2026-11-04T05:16:38.629980+00:00",
+        "updated_at": "2026-11-04T05:16:38.629980+00:00"
+      },
+      {
+        "memory": "Melanie loves camping trips with her family because they allow her to be present and together, bonding over stories, campfires, and nature, and she finds waking up to birds and fresh air refreshing and peaceful.",
+        "score": 0.6412311402879601,
+        "id": "4ae9a9f6-ef0f-452f-9a28-2845abf5479b",
+        "created_at": "2026-11-04T06:04:09.786618+00:00",
+        "updated_at": "2026-11-04T06:04:09.786618+00:00"
+      }
+    ],
+    "search_latency_ms": 110.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "love and support",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'love and support' is semantically distinct from the gold answer 'strength and motivation'; while both are positive, they represent different concepts (emotional connection vs. drive/empowerment) and do not constitute a paraphrase or partial match."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "love and support",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'love and support' is semantically distinct from the gold answer 'strength and motivation'; while both are positive, they represent different concepts (emotional connection vs. drive/empowerment) and do not share the same core meaning."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "love, motivation, and support",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'motivation', which is an exact match for one of the items in the gold answer, and 'support' is semantically similar to 'strength'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "love, motivation, and support",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'motivation', which is an exact match for one of the items in the gold answer, and 'support' is semantically similar to 'strength'."
     }
   }
 }

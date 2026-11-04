@@ -8,42 +8,183 @@
   "evidence": [
     "D5:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Did Melanie make the black and white bowl in the photo?",
-    "search_results": [],
-    "search_latency_ms": 29.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.8071957356547974,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and shared a photo of the plate/bowl with Caroline.",
+        "score": 0.7969962948458533,
+        "id": "2c2b0492-39f0-47c3-b5ad-2d1b7e8ba58e",
+        "created_at": "2026-11-04T05:57:17.709621+00:00",
+        "updated_at": "2026-11-04T05:57:17.709621+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.7966595194746723,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a pottery bowl with a black and white flower design on July 3, 2023, while discussing her passion for pottery and its calming nature.",
+        "score": 0.7934588157568501,
+        "id": "b58cbe48-a442-4553-8326-7dbf6e842b5f",
+        "created_at": "2026-11-04T05:19:41.862302+00:00",
+        "updated_at": "2026-11-04T05:19:41.862302+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a colorful ceramic bowl she made, describing the pottery experience as great and expressing pride in the project on August 17, 2023",
+        "score": 0.7882975111144115,
+        "id": "7a540df8-8f31-410b-b897-ef92d65aa13e",
+        "created_at": "2026-11-04T05:54:55.718889+00:00",
+        "updated_at": "2026-11-04T05:54:55.718889+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a new pottery project, described as a ceramic bowl with a colorful design, on August 17, 2023, expressing pride in the result and noting it was a great experience.",
+        "score": 0.7817495446081563,
+        "id": "155a0206-1b21-4295-83db-4fe26e8b8076",
+        "created_at": "2026-11-04T05:54:24.675916+00:00",
+        "updated_at": "2026-11-04T05:54:24.675916+00:00"
+      },
+      {
+        "memory": "Melanie created a colorful ceramic bowl with patterns designed to catch the eye and make people smile, explaining that painting helps her express feelings and be creative, with each stroke carrying a part of her.",
+        "score": 0.7809463869309979,
+        "id": "add6e474-dc48-44ec-aff3-8acee6df037f",
+        "created_at": "2026-11-04T05:54:29.421258+00:00",
+        "updated_at": "2026-11-04T05:54:29.421258+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and asked Caroline if she had tried it.",
+        "score": 0.7780121633675117,
+        "id": "1d97ffde-19dc-4af9-8211-d5efe33fd5c2",
+        "created_at": "2026-11-04T05:57:32.046273+00:00",
+        "updated_at": "2026-11-04T05:57:32.046273+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and shared a photo of it with Caroline on August 17, 2023.",
+        "score": 0.7777297311446902,
+        "id": "acc443d8-8c73-4691-a693-fa1cfed52f6e",
+        "created_at": "2026-11-04T05:54:45.042307+00:00",
+        "updated_at": "2026-11-04T05:54:45.042307+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.7756877872556657,
+        "id": "65231ceb-ed9f-44bd-96ec-617c271a1e52",
+        "created_at": "2026-11-04T05:57:28.925043+00:00",
+        "updated_at": "2026-11-04T05:57:28.925043+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.7756877872556657,
+        "id": "541aca91-1956-4564-bf9d-e1f9f085981f",
+        "created_at": "2026-11-04T05:57:44.091565+00:00",
+        "updated_at": "2026-11-04T05:57:44.091565+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.7756877872556657,
+        "id": "86fddf90-54ec-4523-b385-ffef911062fb",
+        "created_at": "2026-11-04T05:57:38.763970+00:00",
+        "updated_at": "2026-11-04T05:57:38.763970+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, and finds the activity relaxing and creative",
+        "score": 0.7726421232464682,
+        "id": "373de4e9-e448-43a3-9e7a-595ee354dc5a",
+        "created_at": "2026-11-04T05:57:49.617216+00:00",
+        "updated_at": "2026-11-04T05:57:49.617216+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.7690694659218987,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7690448404237726,
+        "id": "94d11a81-d045-4cd1-afd8-d02d51c23e15",
+        "created_at": "2026-11-04T05:54:41.972154+00:00",
+        "updated_at": "2026-11-04T05:54:41.972154+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7690448404237726,
+        "id": "1f25cac2-0fc0-4580-8309-21acc9879ad9",
+        "created_at": "2026-11-04T05:54:36.289229+00:00",
+        "updated_at": "2026-11-04T05:54:36.289229+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a pottery bowl with intricate patterns and purple glaze created by Melanie, which Caroline admired for its unique designs.",
+        "score": 0.7641396479097822,
+        "id": "2bf020f3-bc88-4cee-9d41-a7d05b8216f3",
+        "created_at": "2026-11-04T06:01:52.863580+00:00",
+        "updated_at": "2026-11-04T06:01:52.863580+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.7345049449688126,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Caroline owns a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she treasures as a reminder of art and self-expression.",
+        "score": 0.7163235505968018,
+        "id": "0bf216e4-15cc-40eb-9c19-46899029c7c1",
+        "created_at": "2026-11-04T05:17:48.246848+00:00",
+        "updated_at": "2026-11-04T05:17:48.246848+00:00"
+      },
+      {
+        "memory": "Caroline owns a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she treasures as a reminder of art and self-expression.",
+        "score": 0.7163235505968018,
+        "id": "9982edc9-ce55-44bb-8296-657b0030e5b1",
+        "created_at": "2026-11-04T05:17:43.121717+00:00",
+        "updated_at": "2026-11-04T05:17:43.121717+00:00"
+      }
+    ],
+    "search_latency_ms": 122.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

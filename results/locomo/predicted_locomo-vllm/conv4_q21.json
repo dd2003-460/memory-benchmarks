@@ -17,176 +17,176 @@
     "search_results": [
       {
         "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
-        "score": 0.6805916320849332,
+        "score": 0.6817751989405944,
         "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
         "created_at": "2026-11-03T09:35:54.494219+00:00",
         "updated_at": "2026-11-03T09:35:54.494219+00:00"
       },
       {
         "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.6742455730419985,
+        "score": 0.674360856336409,
         "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
         "created_at": "2026-11-03T09:11:25.262586+00:00",
         "updated_at": "2026-11-03T09:11:25.262586+00:00"
       },
       {
         "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
-        "score": 0.6620002146713931,
+        "score": 0.6620014214941496,
         "id": "54464271-2eb0-415f-bf0b-663e30178077",
         "created_at": "2026-11-03T09:11:12.594530+00:00",
         "updated_at": "2026-11-03T09:11:12.594530+00:00"
       },
       {
         "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
-        "score": 0.6554865465665738,
+        "score": 0.6566997494084423,
         "id": "92a2c46b-2594-45e8-ad75-852f02659168",
         "created_at": "2026-11-03T09:35:47.080548+00:00",
         "updated_at": "2026-11-03T09:35:47.080548+00:00"
       },
       {
         "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
-        "score": 0.6414968059631441,
+        "score": 0.6455186838968536,
         "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
         "created_at": "2026-11-03T09:36:07.965881+00:00",
         "updated_at": "2026-11-03T09:36:07.965881+00:00"
       },
       {
         "memory": "Tim loves traveling and expressed enthusiasm for the Eiffel Tower in Paris, asking John if he has been to the city.",
-        "score": 0.6376098991720264,
+        "score": 0.6378939192896518,
         "id": "b3915565-6af7-4990-be5c-91bbd2a049f9",
         "created_at": "2026-11-03T09:37:04.382943+00:00",
         "updated_at": "2026-11-03T09:37:04.382943+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.6358796281947812,
+        "score": 0.6358813182537311,
         "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
         "created_at": "2026-11-03T09:14:41.113956+00:00",
         "updated_at": "2026-11-03T09:14:41.113956+00:00"
       },
       {
         "memory": "Tim recommended Edinburgh, Scotland as a destination for John's upcoming team trip, citing it as the birthplace of Harry Potter with awesome history, architecture, and a beautiful city atmosphere.",
-        "score": 0.6318480090432805,
+        "score": 0.6321937794313527,
         "id": "3f2f1f72-e9aa-4c5c-8a67-19356a0e9f89",
         "created_at": "2026-11-03T09:14:41.118578+00:00",
         "updated_at": "2026-11-03T09:14:41.118578+00:00"
       },
       {
-        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
-        "score": 0.631701769190878,
-        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
-        "created_at": "2026-11-03T09:35:44.324677+00:00",
-        "updated_at": "2026-11-03T09:35:44.324677+00:00"
-      },
-      {
         "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
-        "score": 0.63153379519261,
-        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
-        "created_at": "2026-11-03T09:23:09.548575+00:00",
-        "updated_at": "2026-11-03T09:23:09.548575+00:00"
-      },
-      {
-        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
-        "score": 0.63153379519261,
+        "score": 0.6320641014649084,
         "id": "cfab7623-73b0-4b8e-9804-724ccc2b0c35",
         "created_at": "2026-11-03T09:23:22.658071+00:00",
         "updated_at": "2026-11-03T09:23:22.658071+00:00"
       },
       {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.6320641014649084,
+        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
+        "created_at": "2026-11-03T09:23:09.548575+00:00",
+        "updated_at": "2026-11-03T09:23:09.548575+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.6317018692150862,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
         "memory": "John shared a photo of the New York City skyline from one of his trips, noting that he loves discovering new cities.",
-        "score": 0.6238142960656089,
+        "score": 0.6251544928876529,
         "id": "b4c39f25-25cd-4693-9b64-0c7680c286f4",
         "created_at": "2026-11-03T09:11:10.061156+00:00",
         "updated_at": "2026-11-03T09:11:10.061156+00:00"
       },
       {
         "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.6198095375275543,
+        "score": 0.6240781843883701,
         "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
         "created_at": "2026-11-03T09:05:48.016894+00:00",
         "updated_at": "2026-11-03T09:05:48.016894+00:00"
       },
       {
         "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
-        "score": 0.6160342820646917,
+        "score": 0.6228069073092294,
         "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
         "created_at": "2026-11-03T09:10:57.495438+00:00",
         "updated_at": "2026-11-03T09:10:57.495438+00:00"
       },
       {
         "memory": "John recommended Barcelona as a must-visit destination for Tim, highlighting its culture, architecture, food in each neighborhood, and nearby beaches for sunbathing.",
-        "score": 0.61517762466072,
+        "score": 0.6165151560377613,
         "id": "603e136f-46ba-4216-a132-379858e1bda6",
         "created_at": "2026-11-03T09:38:36.420056+00:00",
         "updated_at": "2026-11-03T09:38:36.420056+00:00"
       },
       {
         "memory": "John mentioned he could stop by Galway after his basketball season ends, indicating an interest in visiting Tim's study abroad destination.",
-        "score": 0.6140320769325271,
+        "score": 0.6140322401270024,
         "id": "4fe46283-52c4-4c9d-86df-b3e3b44c7252",
         "created_at": "2026-11-03T09:37:29.781897+00:00",
         "updated_at": "2026-11-03T09:37:29.781897+00:00"
       },
       {
         "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
-        "score": 0.6106534934308203,
+        "score": 0.612116282671257,
         "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
         "created_at": "2026-11-03T09:11:15.445268+00:00",
         "updated_at": "2026-11-03T09:11:15.445268+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
-        "score": 0.6097453420915597,
+        "score": 0.610319158798562,
         "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
         "created_at": "2026-11-03T09:23:36.618818+00:00",
         "updated_at": "2026-11-03T09:23:36.618818+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.5966793251351258,
+        "score": 0.6004672576194846,
         "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
         "created_at": "2026-11-03T09:14:22.476178+00:00",
         "updated_at": "2026-11-03T09:14:22.476178+00:00"
       },
       {
-        "memory": "Tim finds trips to nature, such as visiting the Smoky Mountains, to be a good break from school",
-        "score": 0.5961092647865438,
-        "id": "141c8641-c345-424e-88fd-dc37e8c28577",
-        "created_at": "2026-11-03T09:19:11.908195+00:00",
-        "updated_at": "2026-11-03T09:19:11.908195+00:00"
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.5983560960882592,
+        "id": "9728296f-2b55-44bf-a483-16a333785bcd",
+        "created_at": "2026-11-03T09:34:40.883422+00:00",
+        "updated_at": "2026-11-03T09:34:40.883422+00:00"
       }
     ],
-    "search_latency_ms": 82.7,
+    "search_latency_ms": 131.2,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "New York City",
       "memories_evaluated": 10,
-      "reason": ""
+      "reason": "The generated answer includes 'New York City', which matches the gold answer item 'New York', satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Chicago and New York City",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes Chicago and New York City, which are two of the three cities listed in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Chicago and New York City",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes Chicago and New York City, which are two of the three cities listed in the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Chicago and New York City",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes Chicago and New York City, which are two of the three cities listed in the gold answer, satisfying the partial credit rule."
     }
   }
 }

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q97",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What special memory does \"Harry Potter and the Philosopher's Stone\" bring to Tim?",
+  "ground_truth_answer": "Watching it with his family",
+  "evidence": [
+    "D8:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What special memory does \"Harry Potter and the Philosopher's Stone\" bring to Tim?",
+    "search_results": [
+      {
+        "memory": "Tim owns a well-read copy of Harry Potter and the Sorcerer's Stone, which he shared in a photo on October 21, 2023.",
+        "score": 0.8834175451048207,
+        "id": "4e097a26-7c5e-449c-9186-eefa69a37c6b",
+        "created_at": "2026-11-03T09:19:47.270768+00:00",
+        "updated_at": "2026-11-03T09:19:47.270768+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.861545448479295,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "Tim's favorite movie is 'Harry Potter and the Philosopher's Stone', which he describes as special because it was the first film in the series and watching it with his family brings back great, magical memories.",
+        "score": 0.8575956279271884,
+        "id": "a59bbe00-b6f4-4eba-9901-1f3101b5473c",
+        "created_at": "2026-11-03T09:09:57.780700+00:00",
+        "updated_at": "2026-11-03T09:09:57.780700+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.8508216772052857,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.8479473191943327,
+        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
+        "created_at": "2026-11-03T09:35:14.098792+00:00",
+        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+      },
+      {
+        "memory": "Tim describes watching 'Harry Potter and the Philosopher's Stone' with his family as a dream come true, recalling how they would get comfortable with snacks and a blanket while being totally absorbed in the film.",
+        "score": 0.8253713627307201,
+        "id": "41af0f30-6774-453a-b6a1-993a7fe701b2",
+        "created_at": "2026-11-03T09:10:05.426767+00:00",
+        "updated_at": "2026-11-03T09:10:05.426767+00:00"
+      },
+      {
+        "memory": "Tim personally decorated his family's Harry Potter-themed Christmas tree, describing the process as a blast and noting he went all out with the theme.",
+        "score": 0.7940123614454501,
+        "id": "7222bd40-6d58-4296-bbd1-43ca824f9cce",
+        "created_at": "2026-11-03T09:10:39.205102+00:00",
+        "updated_at": "2026-11-03T09:10:39.205102+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling like he was part of a magical family with others who shared his passion for fantasy.",
+        "score": 0.785818447767759,
+        "id": "ff933eb6-aa95-48a9-a4d8-481e0dfc0fdc",
+        "created_at": "2026-11-03T09:17:29.418179+00:00",
+        "updated_at": "2026-11-03T09:17:29.418179+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party around December 8, 2023, describing it as the coolest experience where he met many people who shared his interest in the franchise and had a lot of fun.",
+        "score": 0.784331770879653,
+        "id": "5d3e9f19-e271-4c6f-8b55-1ee7640fec9b",
+        "created_at": "2026-11-03T09:30:57.354701+00:00",
+        "updated_at": "2026-11-03T09:30:57.354701+00:00"
+      },
+      {
+        "memory": "Tim is going to Universal Studios for the first time and is particularly excited about the Harry Potter attractions there.",
+        "score": 0.7841417945383072,
+        "id": "795851d2-4ad6-4f3e-bb4f-b6aee65c35ac",
+        "created_at": "2026-11-03T09:12:56.886443+00:00",
+        "updated_at": "2026-11-03T09:12:56.886443+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling inspired like he got a new lease of life among a magical family of fans",
+        "score": 0.7840924404595093,
+        "id": "e4a06a7c-b597-439b-aa84-c6fc61a73461",
+        "created_at": "2026-11-03T09:17:50.511805+00:00",
+        "updated_at": "2026-11-03T09:17:50.511805+00:00"
+      },
+      {
+        "memory": "Tim decorated a Christmas tree with a Harry Potter theme himself, describing it as a fun project he is really happy with how it turned out.",
+        "score": 0.7804358744396778,
+        "id": "df433231-a812-4ea0-9b88-400b8dc56224",
+        "created_at": "2026-11-03T09:10:46.396552+00:00",
+        "updated_at": "2026-11-03T09:10:46.396552+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in early December 2023, where he met many people with similar interests and enjoyed the experience significantly.",
+        "score": 0.7752058360634067,
+        "id": "330d0a11-9e8a-4591-999e-8c902afc9501",
+        "created_at": "2026-11-03T09:31:10.110533+00:00",
+        "updated_at": "2026-11-03T09:31:10.110533+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
+        "score": 0.7746433281960678,
+        "id": "aa1733f2-a816-4079-bc52-d96a40636724",
+        "created_at": "2026-11-03T09:17:34.445242+00:00",
+        "updated_at": "2026-11-03T09:17:34.445242+00:00"
+      },
+      {
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
+        "score": 0.7738039091759796,
+        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
+        "created_at": "2026-11-03T09:31:05.117742+00:00",
+        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+      },
+      {
+        "memory": "Tim felt inspired by the Harry Potter conference and described gaining a new lease of life, noting that his passion for fantasy brings him closer to people from all over the world.",
+        "score": 0.7686569246805689,
+        "id": "1d3d0ec2-c0c9-4a5f-9d35-f492b8538a45",
+        "created_at": "2026-11-03T09:17:29.424332+00:00",
+        "updated_at": "2026-11-03T09:17:29.424332+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
+        "score": 0.7591281001588807,
+        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
+        "created_at": "2026-11-03T09:27:54.274107+00:00",
+        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+      },
+      {
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
+        "score": 0.7590058461731777,
+        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
+        "created_at": "2026-11-03T09:31:15.570485+00:00",
+        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+      },
+      {
+        "memory": "Tim is planning his first trip to Universal Studios in September 2023 and is particularly excited about the Harry Potter attractions.",
+        "score": 0.7553608799859899,
+        "id": "48dedacd-a512-4713-b6bf-1f72140928ab",
+        "created_at": "2026-11-03T09:13:05.379106+00:00",
+        "updated_at": "2026-11-03T09:13:05.379106+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
+        "score": 0.7546311987718837,
+        "id": "c824cbde-ea7d-4316-a5e2-64ff748c6c5b",
+        "created_at": "2026-11-03T09:31:15.567137+00:00",
+        "updated_at": "2026-11-03T09:31:15.567137+00:00"
+      }
+    ],
+    "search_latency_ms": 177.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching the film with his family, specifically recalling how they would get comfortable with snacks and a blanket while being totally absorbed in the movie.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies the core memory of watching the film with his family, which matches the gold answer, and adds extra descriptive details which are permitted."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching the film with his family, where they would get comfortable with snacks and a blanket while being totally absorbed in the film.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the core memory of watching the film with his family, which matches the gold answer, and adds extra descriptive details which are permitted."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching the film with his family, where they would get comfortable with snacks and a blanket while being totally absorbed in the film.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the core memory of watching the film with his family, which matches the gold answer, and adds extra descriptive details which are permitted."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching the film with his family, where they would get comfortable with snacks and a blanket while being totally absorbed in the film.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the core memory of watching the film with his family, which matches the gold answer, and adds extra descriptive details which are permitted."
+    }
+  }
+}

@@ -8,42 +8,183 @@
   "evidence": [
     "D12:6"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Why did Melanie choose to use colors and patterns in her pottery project?",
-    "search_results": [],
-    "search_latency_ms": 20.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.8686975634882883,
+        "id": "94d11a81-d045-4cd1-afd8-d02d51c23e15",
+        "created_at": "2026-11-04T05:54:41.972154+00:00",
+        "updated_at": "2026-11-04T05:54:41.972154+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.8686975634882883,
+        "id": "1f25cac2-0fc0-4580-8309-21acc9879ad9",
+        "created_at": "2026-11-04T05:54:36.289229+00:00",
+        "updated_at": "2026-11-04T05:54:36.289229+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creation, specifically a bowl with intricate patterns and purple glaze, alongside other bowls and a starfish.",
+        "score": 0.8651148253727072,
+        "id": "2e00f69d-4613-48c6-ab1c-28aa046ce670",
+        "created_at": "2026-11-04T06:01:46.618628+00:00",
+        "updated_at": "2026-11-04T06:01:46.618628+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.8622242278077159,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creations, which included a group of bowls with intricate patterns and purple glaze alongside a starfish on a white surface",
+        "score": 0.8556345158194463,
+        "id": "b4d59bbd-799e-435f-af54-03d4e4825748",
+        "created_at": "2026-11-04T06:01:56.669039+00:00",
+        "updated_at": "2026-11-04T06:01:56.669039+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a new pottery project, described as a ceramic bowl with a colorful design, on August 17, 2023, expressing pride in the result and noting it was a great experience.",
+        "score": 0.8522598373116554,
+        "id": "155a0206-1b21-4295-83db-4fe26e8b8076",
+        "created_at": "2026-11-04T05:54:24.675916+00:00",
+        "updated_at": "2026-11-04T05:54:24.675916+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and shared a photo of it with Caroline on August 17, 2023.",
+        "score": 0.850735626080743,
+        "id": "acc443d8-8c73-4691-a693-fa1cfed52f6e",
+        "created_at": "2026-11-04T05:54:45.042307+00:00",
+        "updated_at": "2026-11-04T05:54:45.042307+00:00"
+      },
+      {
+        "memory": "Melanie completed another pottery project around August 17, 2023, and offered to share a photo with Caroline.",
+        "score": 0.8487549243237258,
+        "id": "cb2caee6-ffd0-477d-89bf-327e63c0cd17",
+        "created_at": "2026-11-04T05:54:18.452876+00:00",
+        "updated_at": "2026-11-04T05:54:18.452876+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.8466856093194435,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.8451105579651106,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.8441849505314873,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie made a pottery piece in class on August 24, 2023, and describes pottery as relaxing and creative.",
+        "score": 0.8414864684791727,
+        "id": "1f83b728-270b-4f29-8f9e-de017f1e3a4d",
+        "created_at": "2026-11-04T05:58:00.805902+00:00",
+        "updated_at": "2026-11-04T05:58:00.805902+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.8395246974073023,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.8351126098832274,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.8350112519169626,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the work involved.",
+        "score": 0.8329256198654031,
+        "id": "33033d1a-6f6e-41f2-ba7f-faacc5b2f8f5",
+        "created_at": "2026-11-04T05:19:54.440243+00:00",
+        "updated_at": "2026-11-04T05:19:54.440243+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8286871903652205,
+        "id": "86fddf90-54ec-4523-b385-ffef911062fb",
+        "created_at": "2026-11-04T05:57:38.763970+00:00",
+        "updated_at": "2026-11-04T05:57:38.763970+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8286871903652205,
+        "id": "65231ceb-ed9f-44bd-96ec-617c271a1e52",
+        "created_at": "2026-11-04T05:57:28.925043+00:00",
+        "updated_at": "2026-11-04T05:57:28.925043+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8286871903652205,
+        "id": "541aca91-1956-4564-bf9d-e1f9f085981f",
+        "created_at": "2026-11-04T05:57:44.091565+00:00",
+        "updated_at": "2026-11-04T05:57:44.091565+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and asked Caroline if she had tried it.",
+        "score": 0.826785359913092,
+        "id": "1d97ffde-19dc-4af9-8211-d5efe33fd5c2",
+        "created_at": "2026-11-04T05:57:32.046273+00:00",
+        "updated_at": "2026-11-04T05:57:32.046273+00:00"
+      }
+    ],
+    "search_latency_ms": 128.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "To help her express emotions",
+      "memories_evaluated": 10,
+      "reason": "The generated answer attributes the use of colors and patterns to emotional expression, whereas the gold answer specifies the intent was to catch the eye and make people smile; these are distinct motivations with no semantic overlap."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie chose to use colors and patterns in her pottery project because she finds the activity **relaxing and creative**.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes the choice to personal relaxation and creativity, whereas the gold answer specifies the intent to catch the eye and make people smile; these are distinct motivations with no semantic overlap."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie chose to use colors and patterns in her pottery projects because she finds the process **relaxing and creative**, and it **helps her express emotions**.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes the choice to relaxation and emotional expression, whereas the gold answer specifies the intent to catch the eye and make people smile; these are distinct motivations with no semantic overlap."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "to express her emotions",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes the motivation to expressing emotions, which is a different concept from the gold answer's specific goal of catching the eye and making people smile."
     }
   }
 }

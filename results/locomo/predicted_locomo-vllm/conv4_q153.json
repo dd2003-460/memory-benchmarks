@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q153",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What was John's way of dealing with doubts and stress when he was younger?",
+  "ground_truth_answer": "practicing basketball outside for hours",
+  "evidence": [
+    "D23:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What was John's way of dealing with doubts and stress when he was younger?",
+    "search_results": [
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.6171616018178382,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.610805662871772,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "John is currently dealing with a sports injury that prevents him from playing on the court, which he finds frustrating, but the doctor indicated it is not too serious and he remains positive about his recovery.",
+        "score": 0.5826501320271669,
+        "id": "99868cae-315a-42b9-afdc-b33ac2f99980",
+        "created_at": "2026-11-03T09:26:39.492860+00:00",
+        "updated_at": "2026-11-03T09:26:39.492860+00:00"
+      },
+      {
+        "memory": "John is currently dealing with an ankle injury as of mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
+        "score": 0.5648071979152082,
+        "id": "8bd4fd03-3bf7-43dd-8f6e-4abd9e40edb6",
+        "created_at": "2026-11-03T09:25:39.142562+00:00",
+        "updated_at": "2026-11-03T09:25:39.142562+00:00"
+      },
+      {
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making the week tough but remains positive about it.",
+        "score": 0.5627316664554869,
+        "id": "4ab884ec-cd7c-4fa3-a73a-93d4a6dbd5ee",
+        "created_at": "2026-11-03T09:25:54.231060+00:00",
+        "updated_at": "2026-11-03T09:25:54.231060+00:00"
+      },
+      {
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
+        "score": 0.5619848697444496,
+        "id": "c8cb7b1c-f738-48a0-b413-f6fc90a653c6",
+        "created_at": "2026-11-03T09:25:00.270438+00:00",
+        "updated_at": "2026-11-03T09:25:00.270438+00:00"
+      },
+      {
+        "memory": "John is a role model for young athletes and finds it fulfilling to use his experiences to shape their future and inspire them to pursue their dreams.",
+        "score": 0.5509323055957356,
+        "id": "b4104ef0-f122-43ba-b9ea-02154085b32f",
+        "created_at": "2026-11-03T09:19:18.903430+00:00",
+        "updated_at": "2026-11-03T09:19:18.903430+00:00"
+      },
+      {
+        "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.5422188120031101,
+        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
+        "created_at": "2026-11-03T09:28:43.322745+00:00",
+        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.5386893015170567,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.5386893015170567,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
+        "score": 0.5362857030405273,
+        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
+        "created_at": "2026-11-03T09:18:54.870502+00:00",
+        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
+        "score": 0.5273509176641089,
+        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
+        "created_at": "2026-11-03T09:18:35.338157+00:00",
+        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+      },
+      {
+        "memory": "John enjoys reading books as a way to relax and unwind, describing it as his 'chill time' when he is away from the basketball court.",
+        "score": 0.5249359218171373,
+        "id": "0ea6b895-c851-4b97-aa63-ab9530453852",
+        "created_at": "2026-11-03T09:21:03.778822+00:00",
+        "updated_at": "2026-11-03T09:21:03.778822+00:00"
+      },
+      {
+        "memory": "John advised Tim to reflect on what went wrong with his storytelling to find ways to improve, drawing a parallel to how he handles challenges on the basketball court.",
+        "score": 0.5140953948834892,
+        "id": "0415e22e-12bc-4b97-96cb-8597216001c3",
+        "created_at": "2026-11-03T09:27:15.603577+00:00",
+        "updated_at": "2026-11-03T09:27:15.603577+00:00"
+      },
+      {
+        "memory": "John finds cooking to be therapeutic and a creative way to experiment with flavors while taking a break from basketball.",
+        "score": 0.5090621463401932,
+        "id": "8120091c-52fc-47a4-ab5e-92803c5e8bfa",
+        "created_at": "2026-11-03T09:21:16.835726+00:00",
+        "updated_at": "2026-11-03T09:21:16.835726+00:00"
+      },
+      {
+        "memory": "John is a total movie fan who enjoys watching films on the big screen as a great way to relax and see stories come alive.",
+        "score": 0.4980098336886791,
+        "id": "e7cbe99b-c77c-47f9-9f16-3cd39a27d4dd",
+        "created_at": "2026-11-03T09:35:19.337677+00:00",
+        "updated_at": "2026-11-03T09:35:19.337677+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
+        "score": 0.36028141475614606,
+        "id": "59d710c3-bbeb-4cba-b82e-a3af44907bea",
+        "created_at": "2026-11-03T09:20:44.094230+00:00",
+        "updated_at": "2026-11-03T09:20:44.094230+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
+        "score": 0.35841804234364927,
+        "id": "f912f982-e28b-4b6d-a879-6595597039c8",
+        "created_at": "2026-11-03T09:20:12.772496+00:00",
+        "updated_at": "2026-11-03T09:20:12.772496+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.3393044596954745,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.3255713891568801,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      }
+    ],
+    "search_latency_ms": 108.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "practicing basketball outside for hours",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "practicing basketball outside for hours",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "practicing basketball outside for hours",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "practicing basketball outside for hours",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    }
+  }
+}

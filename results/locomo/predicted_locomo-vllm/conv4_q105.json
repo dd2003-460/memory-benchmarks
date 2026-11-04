@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q105",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Tim excited to see at Universal Studios?",
+  "ground_truth_answer": "The Harry Potter stuff",
+  "evidence": [
+    "D10:11"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is Tim excited to see at Universal Studios?",
+    "search_results": [
+      {
+        "memory": "Tim is going to Universal Studios for the first time and is particularly excited about the Harry Potter attractions there.",
+        "score": 0.9139293268257795,
+        "id": "795851d2-4ad6-4f3e-bb4f-b6aee65c35ac",
+        "created_at": "2026-11-03T09:12:56.886443+00:00",
+        "updated_at": "2026-11-03T09:12:56.886443+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023.",
+        "score": 0.9030309173596807,
+        "id": "ad4dde23-5d0c-4f71-a8ce-9f03f3e6a0f1",
+        "created_at": "2026-11-03T09:12:40.253573+00:00",
+        "updated_at": "2026-11-03T09:12:40.253573+00:00"
+      },
+      {
+        "memory": "Tim is planning his first trip to Universal Studios in September 2023 and is particularly excited about the Harry Potter attractions.",
+        "score": 0.8880928958005828,
+        "id": "48dedacd-a512-4713-b6bf-1f72140928ab",
+        "created_at": "2026-11-03T09:13:05.379106+00:00",
+        "updated_at": "2026-11-03T09:13:05.379106+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023, which will be his first time visiting the park. He is particularly excited about the Harry Potter attractions and looks forward to sharing how the experience goes.",
+        "score": 0.8819463629147519,
+        "id": "86c14756-7e7d-427e-a939-15558dfa26d0",
+        "created_at": "2026-11-03T09:13:26.752987+00:00",
+        "updated_at": "2026-11-03T09:13:26.752987+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in October 2023, which will be his first time visiting the park, and he is particularly excited about the Harry Potter attractions.",
+        "score": 0.879357385690283,
+        "id": "4ac47a99-a30c-4dd3-a031-222a2bea001e",
+        "created_at": "2026-11-03T09:13:40.595721+00:00",
+        "updated_at": "2026-11-03T09:13:40.595721+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.6263443631012666,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6257611452247758,
+        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
+        "created_at": "2026-11-03T09:30:34.554745+00:00",
+        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6248828781973634,
+        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
+        "created_at": "2026-11-03T09:30:37.451291+00:00",
+        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+      },
+      {
+        "memory": "Tim enjoys fantasy books like Lord of the Rings for getting lost in another world and appreciating the tiny details and intricate world-building of fictional universes",
+        "score": 0.6248486724854496,
+        "id": "8f8ba4a9-ff3c-4ece-ae9f-6f4d7593e363",
+        "created_at": "2026-11-03T09:36:57.776768+00:00",
+        "updated_at": "2026-11-03T09:36:57.776768+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6221533221669546,
+        "id": "44f7d7be-9e15-4541-a101-41dfe20d48f3",
+        "created_at": "2026-11-03T09:30:29.893060+00:00",
+        "updated_at": "2026-11-03T09:30:29.893060+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by a long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6184517639605381,
+        "id": "4925d445-d20a-4b10-bf75-45aeb2ec8ca9",
+        "created_at": "2026-11-03T09:30:21.645897+00:00",
+        "updated_at": "2026-11-03T09:30:21.645897+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6183590764968501,
+        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
+        "created_at": "2026-11-03T09:30:14.697487+00:00",
+        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+      },
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.6097777607379024,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
+        "score": 0.6086237427807099,
+        "id": "3b452db6-6bdf-47c8-8042-b65b7204305f",
+        "created_at": "2026-11-03T09:30:17.398869+00:00",
+        "updated_at": "2026-11-03T09:30:17.398869+00:00"
+      },
+      {
+        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
+        "score": 0.5996342574240427,
+        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
+        "created_at": "2026-11-03T09:19:36.424804+00:00",
+        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+      },
+      {
+        "memory": "Tim enjoys exploring the intricate details of fictional universes in fantasy books like Lord of the Rings, such as maps of Middle-earth showing different realms and regions.",
+        "score": 0.5944559090608749,
+        "id": "0fd6ddef-1258-4a89-a819-ceadd8ef412d",
+        "created_at": "2026-11-03T09:37:11.153956+00:00",
+        "updated_at": "2026-11-03T09:37:11.153956+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
+        "score": 0.58942192202221,
+        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
+        "created_at": "2026-11-03T09:35:34.717763+00:00",
+        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024.",
+        "score": 0.5884790597639584,
+        "id": "7838da90-7407-41cc-8813-8ae218bf7caf",
+        "created_at": "2026-11-03T09:35:37.286190+00:00",
+        "updated_at": "2026-11-03T09:35:37.286190+00:00"
+      },
+      {
+        "memory": "Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to come out in February 2024.",
+        "score": 0.5881841103461736,
+        "id": "491c0720-54f9-4b66-88b1-a4f6912dcc8e",
+        "created_at": "2026-11-03T09:35:47.076998+00:00",
+        "updated_at": "2026-11-03T09:35:47.076998+00:00"
+      },
+      {
+        "memory": "Tim loves having movie marathons with friends, often featuring popcorn, as a fun way to relax.",
+        "score": 0.37355114843638054,
+        "id": "b73c1e0a-4944-4e99-a757-7a1ede83e991",
+        "created_at": "2026-11-03T09:35:37.278389+00:00",
+        "updated_at": "2026-11-03T09:35:37.278389+00:00"
+      }
+    ],
+    "search_latency_ms": 137.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the Harry Potter attractions",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'the Harry Potter attractions' is a direct paraphrase of the gold answer 'The Harry Potter stuff', correctly identifying the same core entity."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the Harry Potter attractions",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'the Harry Potter attractions' is a direct paraphrase of the gold answer 'The Harry Potter stuff', correctly identifying the same core entity."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the Harry Potter attractions",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'the Harry Potter attractions' is a direct paraphrase of the gold answer 'The Harry Potter stuff', correctly identifying the same core entity."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the Harry Potter attractions",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'the Harry Potter attractions' is a direct paraphrase of the gold answer 'The Harry Potter stuff', correctly identifying the same core entity."
+    }
+  }
+}

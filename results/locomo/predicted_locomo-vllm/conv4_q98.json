@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q98",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which movie does Tim mention they enjoy watching during Thanksgiving?",
+  "ground_truth_answer": "\"Home Alone\"",
+  "evidence": [
+    "D8:24"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which movie does Tim mention they enjoy watching during Thanksgiving?",
+    "search_results": [
+      {
+        "memory": "Tim's family enjoys watching the movie 'Home Alone' during Thanksgiving, noting that it always brings them lots of laughs.",
+        "score": 0.9144101824387393,
+        "id": "10fa55b1-a401-4928-a991-15f322e01701",
+        "created_at": "2026-11-03T09:10:20.092301+00:00",
+        "updated_at": "2026-11-03T09:10:20.092301+00:00"
+      },
+      {
+        "memory": "Tim's family Thanksgiving traditions include preparing the feast together, talking about what they are thankful for, and watching movies afterwards.",
+        "score": 0.9137945843154235,
+        "id": "9595ae77-a970-4e76-b4de-d2cf27bf37b9",
+        "created_at": "2026-11-03T09:10:15.679245+00:00",
+        "updated_at": "2026-11-03T09:10:15.679245+00:00"
+      },
+      {
+        "memory": "John enjoys the movie 'The Santa Clause', describing it as a classic that is sweet and captures Christmas magic, noting that it gets his family feeling festive.",
+        "score": 0.7112850566725885,
+        "id": "bfaadaa4-600c-4ab9-86b1-52386fba2e2d",
+        "created_at": "2026-11-03T09:10:31.911414+00:00",
+        "updated_at": "2026-11-03T09:10:31.911414+00:00"
+      },
+      {
+        "memory": "Tim's family also enjoys watching the movie 'The Santa Clause' during the holidays, describing it as heartwarming and a film that gets them all feeling festive.",
+        "score": 0.6832446953957076,
+        "id": "8a5a5bee-65b8-4ea7-87eb-f004082c901c",
+        "created_at": "2026-11-03T09:10:28.844972+00:00",
+        "updated_at": "2026-11-03T09:10:28.844972+00:00"
+      },
+      {
+        "memory": "Tim enjoys watching the movie 'Elf' during the holidays, noting that it makes him laugh and get feeling festive.",
+        "score": 0.6765598531042014,
+        "id": "765f60de-d776-42c7-a0da-4ff6683c17b4",
+        "created_at": "2026-11-03T09:10:46.388070+00:00",
+        "updated_at": "2026-11-03T09:10:46.388070+00:00"
+      },
+      {
+        "memory": "Tim's family also watches the movie 'Elf' during the holidays, noting that it makes them laugh and get them feeling festive.",
+        "score": 0.6701163856727744,
+        "id": "7f0722bc-e757-408a-a3d5-422036b09121",
+        "created_at": "2026-11-03T09:10:24.533306+00:00",
+        "updated_at": "2026-11-03T09:10:24.533306+00:00"
+      },
+      {
+        "memory": "Tim enjoys having movie marathons with friends, often featuring popcorn and fantasy films like Lord of the Rings",
+        "score": 0.666676656142773,
+        "id": "a228d769-b254-40ec-9b6e-664353ce4c7e",
+        "created_at": "2026-11-03T09:35:39.815680+00:00",
+        "updated_at": "2026-11-03T09:35:39.815680+00:00"
+      },
+      {
+        "memory": "Tim's favorite movie is 'Harry Potter and the Philosopher's Stone', which he describes as special because it was the first film in the series and watching it with his family brings back great, magical memories.",
+        "score": 0.6497685315586749,
+        "id": "a59bbe00-b6f4-4eba-9901-1f3101b5473c",
+        "created_at": "2026-11-03T09:09:57.780700+00:00",
+        "updated_at": "2026-11-03T09:09:57.780700+00:00"
+      },
+      {
+        "memory": "Tim enjoys having movie marathons with friends, often watching fantasy genres like Lord of the Rings which he considers his favorite epic adventure film.",
+        "score": 0.6488428185930368,
+        "id": "7915845c-a750-4b42-a0c0-e4c0b27a3f46",
+        "created_at": "2026-11-03T09:35:32.392565+00:00",
+        "updated_at": "2026-11-03T09:35:32.392565+00:00"
+      },
+      {
+        "memory": "Tim loves having movie marathons with friends, often featuring popcorn, as a fun way to relax.",
+        "score": 0.6463754014970027,
+        "id": "b73c1e0a-4944-4e99-a757-7a1ede83e991",
+        "created_at": "2026-11-03T09:35:37.278389+00:00",
+        "updated_at": "2026-11-03T09:35:37.278389+00:00"
+      },
+      {
+        "memory": "Tim loves the movie 'The Santa Clause', describing it as heartwarming and a way to get his family feeling festive.",
+        "score": 0.6458755942392131,
+        "id": "e0c8c425-7a6b-4ae5-8742-58c67df1f506",
+        "created_at": "2026-11-03T09:10:46.392092+00:00",
+        "updated_at": "2026-11-03T09:10:46.392092+00:00"
+      },
+      {
+        "memory": "Tim enjoys having movie marathons with his friends as a way to relax, and shared a photo of three guys sitting on a couch watching a movie together.",
+        "score": 0.6342397854619859,
+        "id": "555894d5-9138-4a29-a674-d7e95a661c59",
+        "created_at": "2026-11-03T09:35:21.684933+00:00",
+        "updated_at": "2026-11-03T09:35:21.684933+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.6278573449213438,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.6255785210112488,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.622932773742075,
+        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
+        "created_at": "2026-11-03T09:35:14.098792+00:00",
+        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+      },
+      {
+        "memory": "John typically spends time with friends and family by watching movies or going out for dinner, and he asked Tim about his favorite activities for fun.",
+        "score": 0.6208077625627239,
+        "id": "7436b404-73f4-4b33-a4ce-f35715a926ab",
+        "created_at": "2026-11-03T09:20:57.281243+00:00",
+        "updated_at": "2026-11-03T09:20:57.281243+00:00"
+      },
+      {
+        "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
+        "score": 0.6171195070952225,
+        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
+        "created_at": "2026-11-03T09:09:50.772054+00:00",
+        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
+        "score": 0.6073003232728885,
+        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
+        "created_at": "2026-11-03T09:35:25.860608+00:00",
+        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+      },
+      {
+        "memory": "Tim describes watching 'Harry Potter and the Philosopher's Stone' with his family as a dream come true, recalling how they would get comfortable with snacks and a blanket while being totally absorbed in the film.",
+        "score": 0.5968390085375448,
+        "id": "41af0f30-6774-453a-b6a1-993a7fe701b2",
+        "created_at": "2026-11-03T09:10:05.426767+00:00",
+        "updated_at": "2026-11-03T09:10:05.426767+00:00"
+      },
+      {
+        "memory": "John shared a photo of his fantasy movie collection, which includes Star Wars movies displayed on a table, and asked Tim about his favorite fantasy films.",
+        "score": 0.5915528529003218,
+        "id": "1e9c6e3a-bd29-495c-8bd2-9224ee861eb8",
+        "created_at": "2026-11-03T09:36:26.688406+00:00",
+        "updated_at": "2026-11-03T09:36:26.688406+00:00"
+      }
+    ],
+    "search_latency_ms": 131.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Home Alone",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Home Alone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Home Alone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Home Alone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

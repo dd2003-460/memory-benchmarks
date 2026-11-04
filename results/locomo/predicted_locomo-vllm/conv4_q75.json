@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q75",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What forum did Tim join recently?",
+  "ground_truth_answer": "fantasy literature forum",
+  "evidence": [
+    "D2:1"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What forum did Tim join recently?",
+    "search_results": [
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.638750328300784,
+        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
+        "created_at": "2026-11-03T09:30:37.451291+00:00",
+        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6379748968165014,
+        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
+        "created_at": "2026-11-03T09:30:34.554745+00:00",
+        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6361453774239167,
+        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
+        "created_at": "2026-11-03T09:30:14.697487+00:00",
+        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6353381465302242,
+        "id": "44f7d7be-9e15-4541-a101-41dfe20d48f3",
+        "created_at": "2026-11-03T09:30:29.893060+00:00",
+        "updated_at": "2026-11-03T09:30:29.893060+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
+        "score": 0.632423884801877,
+        "id": "3b452db6-6bdf-47c8-8042-b65b7204305f",
+        "created_at": "2026-11-03T09:30:17.398869+00:00",
+        "updated_at": "2026-11-03T09:30:17.398869+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by a long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6320275494318616,
+        "id": "4925d445-d20a-4b10-bf75-45aeb2ec8ca9",
+        "created_at": "2026-11-03T09:30:21.645897+00:00",
+        "updated_at": "2026-11-03T09:30:21.645897+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
+        "score": 0.6284471113249352,
+        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
+        "created_at": "2026-11-03T09:30:53.131364+00:00",
+        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.6204870861206037,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interest in travel, finding it awesome to connect with fellow enthusiasts and hear about their trips.",
+        "score": 0.6179400710481291,
+        "id": "48f4a928-6d56-486a-bf95-47b7d1f45d12",
+        "created_at": "2026-11-03T09:35:54.491141+00:00",
+        "updated_at": "2026-11-03T09:35:54.491141+00:00"
+      },
+      {
+        "memory": "Tim recently attended a fan event around August 2023, describing it as fantastic and noting that being with other fans who share his interests was a special experience.",
+        "score": 0.6141512977901383,
+        "id": "718f0b1c-7e62-45b5-8904-810484fe9a48",
+        "created_at": "2026-11-03T09:04:36.940204+00:00",
+        "updated_at": "2026-11-03T09:04:36.940204+00:00"
+      },
+      {
+        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
+        "score": 0.6070217214762212,
+        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
+        "created_at": "2026-11-03T09:18:32.649446+00:00",
+        "updated_at": "2026-11-03T09:18:32.649446+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters around January 2, 2024, who share his interest in travel, and he has been enjoying getting to know them and hearing about their trips.",
+        "score": 0.6024471476691677,
+        "id": "3ddfa842-2518-44fd-8d57-2b3121a4e574",
+        "created_at": "2026-11-03T09:35:42.229608+00:00",
+        "updated_at": "2026-11-03T09:35:42.229608+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interest in travel and has been enjoying getting to know them and hearing about their trips.",
+        "score": 0.6012835432748254,
+        "id": "799d2697-4502-42f9-bbf0-9168942cc838",
+        "created_at": "2026-11-03T09:35:47.068063+00:00",
+        "updated_at": "2026-11-03T09:35:47.068063+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interest in travel, and he enjoys hearing about their trips.",
+        "score": 0.5846608078028102,
+        "id": "d5ee7e6e-5a09-42c3-923c-8834a84d2ab4",
+        "created_at": "2026-11-03T09:36:03.645858+00:00",
+        "updated_at": "2026-11-03T09:36:03.645858+00:00"
+      },
+      {
+        "memory": "Tim found the discussion about overcoming challenges to be a great reminder for his own work as a writer, following a recent experience where he got stuck on a plot twist but eventually pushed through it.",
+        "score": 0.5828761822270374,
+        "id": "3f055a98-bdc7-4f2e-988f-747a15904797",
+        "created_at": "2026-11-03T09:22:02.722438+00:00",
+        "updated_at": "2026-11-03T09:22:02.722438+00:00"
+      },
+      {
+        "memory": "Tim is currently swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK because it did not go the way he wanted.",
+        "score": 0.5739431737344652,
+        "id": "ab6b1dc3-5c87-47df-a896-d861aad3e0c8",
+        "created_at": "2026-11-03T09:27:15.600620+00:00",
+        "updated_at": "2026-11-03T09:27:15.600620+00:00"
+      },
+      {
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
+        "score": 0.374858411799743,
+        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
+        "created_at": "2026-11-03T09:21:06.470537+00:00",
+        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.3555394834343559,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a series about the power of friendship and loyalty, which he finds inspiring.",
+        "score": 0.32090797487955,
+        "id": "dcac3d99-070b-41a0-af7f-ae3892b18160",
+        "created_at": "2026-11-03T09:31:36.062431+00:00",
+        "updated_at": "2026-11-03T09:31:36.062431+00:00"
+      },
+      {
+        "memory": "Tim was swamped with exams around November 16, 2023, but felt optimistic and was working diligently through them.",
+        "score": 0.3176545526952838,
+        "id": "4524ba1a-d4ff-4438-8925-68cf161a8d62",
+        "created_at": "2026-11-03T09:25:54.237645+00:00",
+        "updated_at": "2026-11-03T09:25:54.237645+00:00"
+      }
+    ],
+    "search_latency_ms": 130.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a travel club",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'a travel club' is completely different from the gold answer 'fantasy literature forum' and does not share any semantic overlap or correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a group of globetrotters",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a group of globetrotters' is completely different from the gold answer 'fantasy literature forum' and does not share any semantic overlap or correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a group of globetrotters",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a group of globetrotters' is completely different from the gold answer 'fantasy literature forum' and does not share any semantic overlap or correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a group of globetrotters",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a group of globetrotters' is completely different from the gold answer 'fantasy literature forum' and does not share any semantic overlap or correct items."
+    }
+  }
+}

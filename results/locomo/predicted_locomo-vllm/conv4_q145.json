@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q145",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where was the forest picture shared by John on December 1,2023 taken?",
+  "ground_truth_answer": "near his hometown",
+  "evidence": [
+    "D20:28"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Where was the forest picture shared by John on December 1,2023 taken?",
+    "search_results": [
+      {
+        "memory": "John shared a photo of a tranquil forest near his hometown on December 1, 2023, showing sunlight shining through the trees, which he described as an incredible and peaceful place.",
+        "score": 0.8399234860463464,
+        "id": "7cb2eb30-c7c3-43a2-82c6-5d249988f16c",
+        "created_at": "2026-11-03T09:29:45.886571+00:00",
+        "updated_at": "2026-11-03T09:29:45.886571+00:00"
+      },
+      {
+        "memory": "John shared a photo of his Christmas tree from December 2022, which was decorated with many lights and ornaments.",
+        "score": 0.8227483237785235,
+        "id": "919c9e31-8d87-4ee1-8e22-2540f552f6bf",
+        "created_at": "2026-11-03T09:10:31.916440+00:00",
+        "updated_at": "2026-11-03T09:10:31.916440+00:00"
+      },
+      {
+        "memory": "John received top-notch hiking and outdoor gear as part of his endorsement deal with a renowned outdoor gear company, and the associated photoshoot was held in a gorgeous forest where the photographer captured epic shots of him.",
+        "score": 0.7897911620975272,
+        "id": "536266b6-0bbb-4b29-ac5d-ac11c11f838b",
+        "created_at": "2026-11-03T09:33:39.113465+00:00",
+        "updated_at": "2026-11-03T09:33:39.113465+00:00"
+      },
+      {
+        "memory": "John and his girlfriend had an amazing and emotional wedding ceremony in a greenhouse around September 25, 2023, where guests took pictures during the event.",
+        "score": 0.7675481406316095,
+        "id": "f90d5be9-60a8-456d-a856-27890c261b35",
+        "created_at": "2026-11-03T09:16:16.319210+00:00",
+        "updated_at": "2026-11-03T09:16:16.319210+00:00"
+      },
+      {
+        "memory": "John shared a photo of a forest near his hometown on December 1, 2023, describing the location as tranquil and evocative of magical fantasy worlds.",
+        "score": 0.7609627100789381,
+        "id": "95f0074c-c4c5-4120-9acf-d26d8f7cfdca",
+        "created_at": "2026-11-03T09:29:41.595586+00:00",
+        "updated_at": "2026-11-03T09:29:41.595586+00:00"
+      },
+      {
+        "memory": "John discovered the scenic forest location used for his photoshoot while hiking, finding the sound of the river soothing and feeling at peace surrounded by the natural beauty.",
+        "score": 0.7565389877585218,
+        "id": "c490c3bf-c019-4498-915e-6dde0b607cbc",
+        "created_at": "2026-11-03T09:33:56.775924+00:00",
+        "updated_at": "2026-11-03T09:33:56.775924+00:00"
+      },
+      {
+        "memory": "John discovered the peaceful forest location used for his photoshoot while hiking, finding the sound of the river soothing and feeling at peace surrounded by the natural scenery.",
+        "score": 0.7387571198782678,
+        "id": "8479ab18-908a-409a-879b-f39ce2bdcaea",
+        "created_at": "2026-11-03T09:33:53.679035+00:00",
+        "updated_at": "2026-11-03T09:33:53.679035+00:00"
+      },
+      {
+        "memory": "John went camping by a lake and enjoyed disconnecting from everyday life, sharing a photo of a campfire with chairs and the lake in the background on December 1, 2023.",
+        "score": 0.6900063733306179,
+        "id": "44ae092a-9729-4d2d-8a31-f8a92b3a6eb1",
+        "created_at": "2026-11-03T09:29:53.809836+00:00",
+        "updated_at": "2026-11-03T09:29:53.809836+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.6898314696656732,
+        "id": "aa518470-51a7-477e-b654-4684b8d85880",
+        "created_at": "2026-11-03T09:19:18.899142+00:00",
+        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.6894412018978939,
+        "id": "7a90b97f-34f8-4d2a-87d4-2f743ae3c449",
+        "created_at": "2026-11-03T09:19:26.752495+00:00",
+        "updated_at": "2026-11-03T09:19:26.752495+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a mountain range sunset with trees, which he took last summer (around August 2023).",
+        "score": 0.6890165012126511,
+        "id": "d9f512f3-cdf9-4044-b6b5-c3ed16d117aa",
+        "created_at": "2026-11-03T09:19:22.336725+00:00",
+        "updated_at": "2026-11-03T09:19:22.336725+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week of December 12, 2023, and shared a photo from the associated photoshoot showing him wearing a backpack while walking down a path.",
+        "score": 0.6521684895807299,
+        "id": "8da39e80-34cb-4725-8e28-42f6c711e96d",
+        "created_at": "2026-11-03T09:33:34.908869+00:00",
+        "updated_at": "2026-11-03T09:33:34.908869+00:00"
+      },
+      {
+        "memory": "The photoshoot for John's outdoor gear endorsement was held in a forest where he captured epic shots of himself jumping in a field near rocks and a river.",
+        "score": 0.6437498511344996,
+        "id": "7c7deb8c-116d-4522-89bc-04e169f10d9a",
+        "created_at": "2026-11-03T09:33:56.772070+00:00",
+        "updated_at": "2026-11-03T09:33:56.772070+00:00"
+      },
+      {
+        "memory": "John's outdoor gear photoshoot took place in a forest where he captured epic shots of himself jumping in a field near rocks and a river, an experience that energized him.",
+        "score": 0.6418552746413183,
+        "id": "52456362-6a5b-401c-aca0-374f5acdf760",
+        "created_at": "2026-11-03T09:33:53.674818+00:00",
+        "updated_at": "2026-11-03T09:33:53.674818+00:00"
+      },
+      {
+        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.6370035438744377,
+        "id": "83663438-89cc-48f0-b163-8b0987850701",
+        "created_at": "2026-11-03T09:33:56.767555+00:00",
+        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in mid-December 2023, which included receiving hiking equipment and participating in a photoshoot.",
+        "score": 0.6365946559124047,
+        "id": "f5b62400-d2b3-43a2-9685-e4e6585c534f",
+        "created_at": "2026-11-03T09:33:53.669453+00:00",
+        "updated_at": "2026-11-03T09:33:53.669453+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
+        "score": 0.6343123131004316,
+        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
+        "created_at": "2026-11-03T09:29:25.434971+00:00",
+        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.6325332789794593,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "Tim shared a screenshot of his latest article about a fantasy novel on August 11, 2023, which features an image of an open book showing a picture of a man.",
+        "score": 0.6315048654589168,
+        "id": "60cbad36-eb85-4275-9e9e-be0c650ec327",
+        "created_at": "2026-11-03T09:07:04.406261+00:00",
+        "updated_at": "2026-11-03T09:07:04.406261+00:00"
+      },
+      {
+        "memory": "Tim describes nature as a 'reset for the soul' and shared a photo of a plane flying over a snowy mountain range on December 1, 2023, while discussing how natural landscapes calm him.",
+        "score": 0.6291078817681591,
+        "id": "2c4ee809-b3e6-4da0-93f1-6bcbc9b16dc4",
+        "created_at": "2026-11-03T09:30:04.107950+00:00",
+        "updated_at": "2026-11-03T09:30:04.107950+00:00"
+      }
+    ],
+    "search_latency_ms": 142.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "near his hometown",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "near his hometown",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "near his hometown",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "near his hometown",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
+    }
+  }
+}

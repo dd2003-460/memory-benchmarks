@@ -8,42 +8,183 @@
   "evidence": [
     "D7:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Caroline take away from the book \"Becoming Nicole\"?",
-    "search_results": [],
-    "search_latency_ms": 31.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from the book 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.8812623171867955,
+        "id": "3c1ca0e9-dd9a-4e03-abe1-26479678abfb",
+        "created_at": "2026-11-04T05:22:37.047750+00:00",
+        "updated_at": "2026-11-04T05:22:37.047750+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books as they guide, motivate, and help her discover her identity; her favorite book is 'Becoming Nicole' by Amy Ellis Nutt, which she recommends for its inspiring true story about a trans girl and her family.",
+        "score": 0.8784898254785241,
+        "id": "01ff2706-a609-4a09-bc97-44787ac914e4",
+        "created_at": "2026-11-04T05:22:26.627474+00:00",
+        "updated_at": "2026-11-04T05:22:26.627474+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, an inspiring true story about a trans girl and her family, which made her feel connected and gave her hope for her own path.",
+        "score": 0.8749735053983217,
+        "id": "a74966b5-57a7-49e8-ac2d-5169b2c18f3f",
+        "created_at": "2026-11-04T05:22:37.044312+00:00",
+        "updated_at": "2026-11-04T05:22:37.044312+00:00"
+      },
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from reading 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.8743636836087326,
+        "id": "771f368f-bfdd-4505-b586-6bb7ccdb25bc",
+        "created_at": "2026-11-04T05:22:49.555490+00:00",
+        "updated_at": "2026-11-04T05:22:49.555490+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that provided her with hope, connection, and lessons on self-acceptance and finding support.",
+        "score": 0.8643928440055296,
+        "id": "025687be-d1b6-42b9-b389-188a68493038",
+        "created_at": "2026-11-04T05:22:31.899149+00:00",
+        "updated_at": "2026-11-04T05:22:31.899149+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that she found inspiring and connected to her own path",
+        "score": 0.8636839033109455,
+        "id": "a8d85422-0d18-4ffb-b2ce-4dc1ecda3a39",
+        "created_at": "2026-11-04T05:22:23.929517+00:00",
+        "updated_at": "2026-11-04T05:22:23.929517+00:00"
+      },
+      {
+        "memory": "Caroline learned from the book 'Becoming Nicole' by Amy Ellis Nutt that self-acceptance is key, support can be found, and tough times are temporary because hope and love exist.",
+        "score": 0.8624175957832216,
+        "id": "56c80be8-fef5-4404-9a26-774b5f7b47ed",
+        "created_at": "2026-11-04T05:22:29.176331+00:00",
+        "updated_at": "2026-11-04T05:22:29.176331+00:00"
+      },
+      {
+        "memory": "Caroline read 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family, which she found inspiring and connected to her own path, giving her hope.",
+        "score": 0.6601925203945773,
+        "id": "8c734c2b-5698-473a-bf77-ca9b6220970e",
+        "created_at": "2026-11-04T05:22:49.551467+00:00",
+        "updated_at": "2026-11-04T05:22:49.551467+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6286176592570273,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6257144786168152,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books, describing them as guides that motivate her and help her discover who she is, and considers them a huge part of her personal journey.",
+        "score": 0.624671468438203,
+        "id": "b9f79b1b-4c66-4c9a-83ec-f0d276e42298",
+        "created_at": "2026-11-04T05:22:37.040877+00:00",
+        "updated_at": "2026-11-04T05:22:37.040877+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.609933131168005,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.3994462625643397,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.3665159657353472,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.36018488813110244,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.34575218016164133,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.33316835758066865,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.30429546430262433,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.24936970022856136,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.2482182979240657,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      }
+    ],
+    "search_latency_ms": 126.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline learned that self-acceptance is key, support can be found, and tough times are temporary because hope and love exist.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'self-acceptance' and 'support can be found', which directly match the core concepts in the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline learned that self-acceptance is key, support can be found, tough times are temporary, and that hope and love exist. The book also made her feel connected and gave her hope for her own path.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'self-acceptance' and 'support', which directly match the core concepts in the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline learned that self-acceptance is key, support can be found, tough times are temporary, and that hope and love exist. The book also made her feel connected and gave her hope for her own path.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'self-acceptance' and 'support', which directly match the core concepts in the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline learned that self-acceptance is key, support can be found, tough times are temporary, and that hope and love exist. The book also made her feel connected and gave her hope for her own path.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'self-acceptance' and 'support', which are the core concepts in the gold answer."
     }
   }
 }

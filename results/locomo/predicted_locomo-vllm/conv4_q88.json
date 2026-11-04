@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q88",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John get introduced to basketball?",
+  "ground_truth_answer": "Dad signed him up for a local league",
+  "evidence": [
+    "D6:13"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John get introduced to basketball?",
+    "search_results": [
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.7961175370396514,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.7943784280032288,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John values playing with his teammates and having fans cheer for him, stating that basketball gives him a strong sense of satisfaction and purpose.",
+        "score": 0.7632396314887789,
+        "id": "32cf8d83-ff16-4db9-bf7f-db3ec36f571a",
+        "created_at": "2026-11-03T09:14:51.747326+00:00",
+        "updated_at": "2026-11-03T09:14:51.747326+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.6871153464084713,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.6829704734870415,
+        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
+        "created_at": "2026-11-03T09:07:35.938549+00:00",
+        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.6809743021358988,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.6784064312539372,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6775430240460792,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
+        "score": 0.6643865081088124,
+        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
+        "created_at": "2026-11-03T09:30:29.897962+00:00",
+        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.662503456820579,
+        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
+        "created_at": "2026-11-03T09:30:37.455079+00:00",
+        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.662503456820579,
+        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
+        "created_at": "2026-11-03T09:30:34.559013+00:00",
+        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+      },
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.6617412286864591,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.6614843209001949,
+        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
+        "created_at": "2026-11-03T09:14:37.512820+00:00",
+        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+      },
+      {
+        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
+        "score": 0.6606582804252177,
+        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
+        "created_at": "2026-11-03T09:08:31.358666+00:00",
+        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.6593989474225878,
+        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
+        "created_at": "2026-11-03T09:14:22.471894+00:00",
+        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience filled with laughs, high-fives, and personal growth.",
+        "score": 0.6545192698217012,
+        "id": "3c228632-9d74-47df-90ce-5c19bd1525d0",
+        "created_at": "2026-11-03T09:35:02.374809+00:00",
+        "updated_at": "2026-11-03T09:35:02.374809+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.6515657881244212,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.6510386230862735,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he saw the children's faces light up and witnessed their personal growth.",
+        "score": 0.6505578698669239,
+        "id": "229bc0ba-9bb9-452b-a835-5ec82d8fe8d9",
+        "created_at": "2026-11-03T09:35:05.194570+00:00",
+        "updated_at": "2026-11-03T09:35:05.194570+00:00"
+      },
+      {
+        "memory": "John enjoys playing basketball and finds inspiration in LeBron James's moments of heart and determination, viewing them as reasons to push himself on the court.",
+        "score": 0.6491361096555145,
+        "id": "b4488e68-d852-4f84-b008-d7fcdc420005",
+        "created_at": "2026-11-03T09:23:36.615422+00:00",
+        "updated_at": "2026-11-03T09:23:36.615422+00:00"
+      }
+    ],
+    "search_latency_ms": 110.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was introduced to basketball when he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the core fact from the gold answer that his dad signed him up for a local league, adding extra context which is permitted."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was introduced to basketball when he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core fact from the gold answer that his dad signed him up for a local league, adding extra context which is permitted."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was introduced to basketball when he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core fact from the gold answer that his dad signed him up for a local league, adding extra context which is permitted."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was introduced to basketball when he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core fact from the gold answer that his dad signed him up for a local league, adding extra context which is permitted."
+    }
+  }
+}

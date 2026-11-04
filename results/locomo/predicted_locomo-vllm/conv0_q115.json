@@ -8,42 +8,183 @@
   "evidence": [
     "D8:12"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Why are flowers important to Melanie?",
-    "search_results": [],
-    "search_latency_ms": 22.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie views flowers as symbols of growth, beauty, and appreciating small moments, noting they were an important part of her wedding decor and remind her of that day.",
+        "score": 0.7328401999486194,
+        "id": "27a34535-caa1-4f5f-ba58-948329366660",
+        "created_at": "2026-11-04T05:23:44.948941+00:00",
+        "updated_at": "2026-11-04T05:23:44.948941+00:00"
+      },
+      {
+        "memory": "Melanie views flowers as symbols of joy, growth, and beauty that remind her to appreciate small moments, noting they were an important part of her wedding decor.",
+        "score": 0.7251248051743083,
+        "id": "de2ea68c-3504-43d1-8c55-19b1c46ae34a",
+        "created_at": "2026-11-04T05:23:30.979473+00:00",
+        "updated_at": "2026-11-04T05:23:30.979473+00:00"
+      },
+      {
+        "memory": "Melanie shared that flowers were an important part of her wedding decor and serve as a reminder of that special day, describing them as representing growth, beauty, and appreciating small moments.",
+        "score": 0.7211319363911067,
+        "id": "99f56a0c-02bf-4aa4-b28b-56352eae0c0e",
+        "created_at": "2026-11-04T05:23:48.364638+00:00",
+        "updated_at": "2026-11-04T05:23:48.364638+00:00"
+      },
+      {
+        "memory": "Melanie's wedding featured a garden full of flowers as part of the decor, which she values for representing growth and beauty, and the ceremony took place in a greenhouse where guests took pictures.",
+        "score": 0.677931769169523,
+        "id": "d3a0c0fb-b7e5-436f-a655-e2f180cd8a11",
+        "created_at": "2026-11-04T05:23:55.925354+00:00",
+        "updated_at": "2026-11-04T05:23:55.925354+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.6576976080397151,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a field of purple flowers with green leaves, noting that she appreciates the small things in life and finds joy in observing nature.",
+        "score": 0.6576742349999357,
+        "id": "87b79659-b56f-48f6-a60e-d565d72062a2",
+        "created_at": "2026-11-04T05:23:20.336832+00:00",
+        "updated_at": "2026-11-04T05:23:20.336832+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the work involved.",
+        "score": 0.6264296340785053,
+        "id": "33033d1a-6f6e-41f2-ba7f-faacc5b2f8f5",
+        "created_at": "2026-11-04T05:19:54.440243+00:00",
+        "updated_at": "2026-11-04T05:19:54.440243+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.6137975809443967,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a pottery bowl with a black and white flower design on July 3, 2023, while discussing her passion for pottery and its calming nature.",
+        "score": 0.6068234484256191,
+        "id": "b58cbe48-a442-4553-8326-7dbf6e842b5f",
+        "created_at": "2026-11-04T05:19:41.862302+00:00",
+        "updated_at": "2026-11-04T05:19:41.862302+00:00"
+      },
+      {
+        "memory": "Melanie made a bowl with a black and white flower design in her pottery class and shared a photo of it with Caroline on July 3, 2023.",
+        "score": 0.6021740790825157,
+        "id": "2952844d-fd12-491a-bd4f-18422aa373be",
+        "created_at": "2026-11-04T05:21:14.100278+00:00",
+        "updated_at": "2026-11-04T05:21:14.100278+00:00"
+      },
+      {
+        "memory": "Caroline identifies drawing flowers as one of her favorite artistic activities and values appreciating nature and sharing it with others.",
+        "score": 0.597074448781243,
+        "id": "4acc68fc-d64f-4cad-b42b-af6fdfee3699",
+        "created_at": "2026-11-04T05:59:29.292712+00:00",
+        "updated_at": "2026-11-04T05:59:29.292712+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.5225548858503257,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5169728115957349,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5068424961770435,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.48326257347107626,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.4689976421593438,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.4689976421593438,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.4663249761139414,
+        "id": "09cab859-e567-4bfb-88a4-360d4555f7ab",
+        "created_at": "2026-11-04T06:02:43.909765+00:00",
+        "updated_at": "2026-11-04T06:02:43.909765+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.4663249761139414,
+        "id": "f8f5cc84-74ba-4c43-a952-28a9b52a9094",
+        "created_at": "2026-11-04T06:02:40.719060+00:00",
+        "updated_at": "2026-11-04T06:02:40.719060+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.4663249761139414,
+        "id": "53d384a0-46ac-495d-9472-5c7a332ee26f",
+        "created_at": "2026-11-04T06:02:35.262773+00:00",
+        "updated_at": "2026-11-04T06:02:35.262773+00:00"
+      }
+    ],
+    "search_latency_ms": 99.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Flowers are important to Melanie because they symbolize joy, growth, and beauty, and they remind her to appreciate the small moments in life. They also hold personal significance as they were an important part of her wedding decor, serving as a reminder of that special day.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both key points from the gold answer: that flowers remind her to appreciate small moments and that they were part of her wedding decor."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Flowers are important to Melanie because they symbolize joy, growth, and beauty, remind her to appreciate small moments, and serve as a reminder of her wedding day.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key points from the gold answer: that flowers remind her to appreciate small moments and that they are a reminder of her wedding day."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Flowers are important to Melanie because they symbolize joy, growth, and beauty, remind her to appreciate small moments, and serve as a sentimental reminder of her wedding day, where they were a significant part of the decor.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key points from the gold answer: that flowers remind her to appreciate small moments and that they were part of her wedding decor."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Flowers are important to Melanie because they symbolize joy, growth, and beauty, remind her to appreciate small moments, and serve as a reminder of her wedding day, where they were an important part of the decor.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key points from the gold answer: that flowers remind her to appreciate small moments and that they were part of her wedding decor."
     }
   }
 }

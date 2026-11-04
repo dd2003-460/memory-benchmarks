@@ -8,42 +8,183 @@
   "evidence": [
     "D15:28"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
-    "search_results": [],
-    "search_latency_ms": 33.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.7633429282474318,
+        "id": "f4594a72-b177-4b49-8a71-ed00e240a1c5",
+        "created_at": "2026-11-04T06:01:24.084440+00:00",
+        "updated_at": "2026-11-04T06:01:24.084440+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.7633429282474318,
+        "id": "34761b16-905d-430b-8bdb-462ead090baa",
+        "created_at": "2026-11-04T06:01:16.477842+00:00",
+        "updated_at": "2026-11-04T06:01:16.477842+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music by Bach and Mozart and modern music such as Ed Sheeran's 'Perfect'.",
+        "score": 0.7499456536097218,
+        "id": "d7121940-9087-42fd-ae69-0471acc37385",
+        "created_at": "2026-11-04T06:01:32.082989+00:00",
+        "updated_at": "2026-11-04T06:01:32.082989+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, specifically Bach and Mozart, and modern music, citing Ed Sheeran's 'Perfect' as a favorite.",
+        "score": 0.7411627643679455,
+        "id": "8f943cc8-07ce-4e9b-8c52-80a4fff9b737",
+        "created_at": "2026-11-04T06:01:11.028885+00:00",
+        "updated_at": "2026-11-04T06:01:11.028885+00:00"
+      },
+      {
+        "memory": "Melanie is planning to create several new paintings inspired by the autumn season in late August 2023.",
+        "score": 0.7179255333738278,
+        "id": "ea5c7ae1-889f-4f3f-96e7-27c89dc93922",
+        "created_at": "2026-11-04T05:59:56.629710+00:00",
+        "updated_at": "2026-11-04T05:59:56.629710+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show featuring the band 'Summer Sounds' playing pop songs, which she found fun and lively, noting how music brings people together.",
+        "score": 0.6129872648377064,
+        "id": "3cb0c25f-80f5-466f-9d41-33982c2504e0",
+        "created_at": "2026-11-04T06:00:51.702321+00:00",
+        "updated_at": "2026-11-04T06:00:51.702321+00:00"
+      },
+      {
+        "memory": "Melanie was feeling inspired by autumn in late August 2023 and was planning to create several new paintings based on the season.",
+        "score": 0.6043939719798076,
+        "id": "076f04d4-9606-4cd6-b1db-1f297543c4e9",
+        "created_at": "2026-11-04T06:00:01.346102+00:00",
+        "updated_at": "2026-11-04T06:00:01.346102+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert by Matt Patterson, describing him as talented with an amazing voice and songs, and shared this experience with Caroline on August 14, 2023.",
+        "score": 0.5887736567796436,
+        "id": "87b39a77-b968-4f3b-8ebf-f71af7ecd8b7",
+        "created_at": "2026-11-04T05:53:59.822242+00:00",
+        "updated_at": "2026-11-04T05:53:59.822242+00:00"
+      },
+      {
+        "memory": "Melanie identified the band in her shared concert photo as 'Summer Sounds', describing them as playing an awesome pop song that got everyone dancing and singing, creating a fun and lively atmosphere.",
+        "score": 0.5859912124247549,
+        "id": "6e505573-4f16-4cce-8c00-49eb19fa18b5",
+        "created_at": "2026-11-04T06:00:44.544988+00:00",
+        "updated_at": "2026-11-04T06:00:44.544988+00:00"
+      },
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.5845406638251694,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, joy, and warm summer breeze while watching her kids' smiles.",
+        "score": 0.5778811803963643,
+        "id": "b5289aa3-85f6-42af-82bd-ef0c538bc2ed",
+        "created_at": "2026-11-04T05:53:29.962869+00:00",
+        "updated_at": "2026-11-04T05:53:29.962869+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, warm summer breeze, and seeing her kids' smiles.",
+        "score": 0.5746087044144883,
+        "id": "e6e48141-71b9-4544-b67d-a6b2b18dbf96",
+        "created_at": "2026-11-04T05:53:34.129883+00:00",
+        "updated_at": "2026-11-04T05:53:34.129883+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.5609060899817533,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family, valuing the peaceful bonding over stories, campfires, and nature, which she finds refreshing for her soul.",
+        "score": 0.5597350269628375,
+        "id": "4e133138-b91f-46f3-baab-aa057460cfe5",
+        "created_at": "2026-11-04T06:04:27.144866+00:00",
+        "updated_at": "2026-11-04T06:04:27.144866+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.5584944498554807,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.5584944498554807,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie and her kids enjoy painting together, particularly nature-inspired pieces, and created a new painting of a sunset with a palm tree on the weekend of July 8-9, 2023.",
+        "score": 0.5525780795811723,
+        "id": "452741cc-f1a6-4688-b224-a74b0e809fd9",
+        "created_at": "2026-11-04T05:23:15.850712+00:00",
+        "updated_at": "2026-11-04T05:23:15.850712+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family because they allow for bonding over stories and campfires, and she finds waking up to birdsong and fresh air refreshing and peaceful.",
+        "score": 0.552390523831144,
+        "id": "32116ffc-62f1-4f32-93b8-5fbe9299d18d",
+        "created_at": "2026-11-04T06:04:19.394070+00:00",
+        "updated_at": "2026-11-04T06:04:19.394070+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting nature-inspired artwork with her children, including a recent piece from July 8-9, 2023 featuring a sunset with a palm tree.",
+        "score": 0.5522436651106422,
+        "id": "2cf8bc8f-139b-416a-9875-e1097288fd3d",
+        "created_at": "2026-11-04T05:23:30.968905+00:00",
+        "updated_at": "2026-11-04T05:23:30.968905+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.34067780204207504,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      }
+    ],
+    "search_latency_ms": 128.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, Melanie would likely enjoy \"The Four Seasons\" by Vivaldi because she enjoys listening to classical music, specifically mentioning Bach and Mozart as favorites.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer's affirmative response and provides supporting context consistent with the user's preferences."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, Melanie would likely enjoy \"The Four Seasons\" by Vivaldi because she enjoys listening to classical music, specifically mentioning Bach and Mozart as favorites.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's affirmative response and provides supporting context consistent with the user's preferences."
     }
   }
 }

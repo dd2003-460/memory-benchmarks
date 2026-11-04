@@ -8,42 +8,183 @@
   "evidence": [
     "D2:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What is Caroline excited about in the adoption process?",
-    "search_results": [],
-    "search_latency_ms": 27.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is feeling hopeful and optimistic about her adoption journey, noting that the hard work has started to turn her dream into reality, and she expressed gratitude for the support received from friends and mentors on May 25, 2023.",
+        "score": 0.8832386329929305,
+        "id": "0a496fb6-9719-4cca-a99f-a45c9109e3a4",
+        "created_at": "2026-11-04T05:15:49.123069+00:00",
+        "updated_at": "2026-11-04T05:15:49.123069+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching agencies or lawyers, gathering documents like references and financial info, and preparing emotionally for the wait.",
+        "score": 0.8808156102403023,
+        "id": "ecbc9a09-eb8e-443f-91f4-18fbce10f007",
+        "created_at": "2026-11-04T06:02:29.197295+00:00",
+        "updated_at": "2026-11-04T06:02:29.197295+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that helped her prepare for the adoption process.",
+        "score": 0.8772475066417058,
+        "id": "2f3ac742-14f2-477f-872c-40738b6dae34",
+        "created_at": "2026-11-04T05:55:35.027653+00:00",
+        "updated_at": "2026-11-04T05:55:35.027653+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the potentially difficult wait involved in the adoption process.",
+        "score": 0.875980492101758,
+        "id": "dbd69217-5a7a-44c7-ac27-56d9118bd6f0",
+        "created_at": "2026-11-04T06:02:24.078879+00:00",
+        "updated_at": "2026-11-04T06:02:24.078879+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references and financial info, and prepare emotionally for the wait involved in the adoption process.",
+        "score": 0.8757865336070614,
+        "id": "46394a3e-8fb0-43e8-aad3-86ef27c463c0",
+        "created_at": "2026-11-04T06:02:35.256594+00:00",
+        "updated_at": "2026-11-04T06:02:35.256594+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching and selecting an adoption agency or lawyer, gathering documents such as references, financial information, and medical checks, and preparing emotionally for the difficult wait.",
+        "score": 0.875255349687176,
+        "id": "1b110363-fcbd-4daa-bf90-5463b8ed2f7e",
+        "created_at": "2026-11-04T06:02:21.072800+00:00",
+        "updated_at": "2026-11-04T06:02:21.072800+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Caroline contacted her mentor for adoption advice, expressing readiness to become a mother and share her love and family.",
+        "score": 0.8576550248511525,
+        "id": "d43ff30e-22e9-4b51-a9ea-d323afe31b46",
+        "created_at": "2026-11-04T06:02:09.175425+00:00",
+        "updated_at": "2026-11-04T06:02:09.175425+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice around October 13, 2023, expressing readiness to adopt and provide a safe, loving home for children who need it.",
+        "score": 0.8565418767371165,
+        "id": "b4bc5223-1ed6-4592-8c67-d6c49ed26c62",
+        "created_at": "2026-11-04T06:02:18.577808+00:00",
+        "updated_at": "2026-11-04T06:02:18.577808+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in August 2023, taking the first step toward becoming a mom, and described the decision as exciting but nerve-wracking due to the responsibility of parenting.",
+        "score": 0.8551581450802874,
+        "id": "2ed86be9-eb6d-47c6-b931-7e57a2728429",
+        "created_at": "2026-11-04T05:55:35.024698+00:00",
+        "updated_at": "2026-11-04T05:55:35.024698+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in August 2023, taking the first step towards becoming a mom, and found the decision exciting but nerve-wracking due to the responsibility of parenting.",
+        "score": 0.8549713807936673,
+        "id": "92eaebe0-63ea-411e-835a-39f8a9671f1a",
+        "created_at": "2026-11-04T05:55:39.030405+00:00",
+        "updated_at": "2026-11-04T05:55:39.030405+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice on October 13, 2023, expressing readiness to become a mom and share her love and family.",
+        "score": 0.8489739368235139,
+        "id": "8c3c22ad-820e-42ab-838a-eea5b593d9f5",
+        "created_at": "2026-11-04T06:02:06.124501+00:00",
+        "updated_at": "2026-11-04T06:02:06.124501+00:00"
+      },
+      {
+        "memory": "Caroline chose a specific adoption agency because it supports LGBTQ+ individuals with adoption, noting that its inclusivity and support resonated with her during her research on May 25, 2023.",
+        "score": 0.8431256697967072,
+        "id": "05be76d1-a95b-497f-95aa-47624fc4aba8",
+        "created_at": "2026-11-04T05:15:54.051684+00:00",
+        "updated_at": "2026-11-04T05:15:54.051684+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in the week of August 23, 2023, taking her first step toward becoming a mom and expressing readiness to give all her love to a child.",
+        "score": 0.8418203819732462,
+        "id": "a5d84e0a-a85b-4378-9253-523cf94f40e7",
+        "created_at": "2026-11-04T05:55:31.481520+00:00",
+        "updated_at": "2026-11-04T05:55:31.481520+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie on adoption steps: research agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the wait.",
+        "score": 0.84099983388592,
+        "id": "5810ef9b-e8ed-43ce-a508-663a8f197c90",
+        "created_at": "2026-11-04T06:02:40.711982+00:00",
+        "updated_at": "2026-11-04T06:02:40.711982+00:00"
+      },
+      {
+        "memory": "Caroline passed the adoption agency interviews on October 13, 2023, and is excited to build a family through adoption as a way to give back and provide a safe home for children who have not had one.",
+        "score": 0.8403502332071184,
+        "id": "b3ecf981-55c3-4eff-8472-121f71ce5128",
+        "created_at": "2026-11-04T06:04:27.140966+00:00",
+        "updated_at": "2026-11-04T06:04:27.140966+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in the week of August 16, 2023, taking the first step towards becoming a mom and feeling ready to give her love to a child with help from an adoption advice group",
+        "score": 0.8399977777738228,
+        "id": "22e7684b-ad6a-45a6-ae79-342506af0286",
+        "created_at": "2026-11-04T05:56:24.902723+00:00",
+        "updated_at": "2026-11-04T05:56:24.902723+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in the week of August 23, 2023, taking the first step toward becoming a mom and expressing readiness to give all her love to a child with help from an adoption advice group.",
+        "score": 0.8389597968672122,
+        "id": "0c97e3b4-c1fc-464b-849c-7f968479c07c",
+        "created_at": "2026-11-04T05:56:01.196927+00:00",
+        "updated_at": "2026-11-04T05:56:01.196927+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in the week of August 23, 2023, taking her first step toward becoming a mom and expressing readiness to give love to a child with help from an adoption advice group.",
+        "score": 0.8387307329569944,
+        "id": "69432994-5a1b-492f-ae3a-8b6e0d8baf70",
+        "created_at": "2026-11-04T05:55:53.933432+00:00",
+        "updated_at": "2026-11-04T05:55:53.933432+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in the week of August 16-23, 2023, marking her first step toward becoming a mom and expressing readiness to give all her love to a child.",
+        "score": 0.8379526226301497,
+        "id": "59ed018b-b637-4c40-9fb9-cf1b267addb6",
+        "created_at": "2026-11-04T05:55:28.039665+00:00",
+        "updated_at": "2026-11-04T05:55:28.039665+00:00"
+      },
+      {
+        "memory": "Caroline is researching adoption agencies because having a family and providing a loving home to children in need has been a dream of hers, as she mentioned to Melanie on May 25, 2023.",
+        "score": 0.836221798574282,
+        "id": "e7fab20d-f39e-4e7a-9577-413c4bb5d006",
+        "created_at": "2026-11-04T05:15:43.918342+00:00",
+        "updated_at": "2026-11-04T05:15:43.918342+00:00"
+      }
+    ],
+    "search_latency_ms": 124.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "the decision to adopt",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the general action (adopting) but misses the specific emotional focus and purpose (creating a family for kids who need one) highlighted in the gold answer, failing to capture the core sentiment of the question."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "building a family through adoption",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'building a family through adoption' is a direct paraphrase of the gold answer 'creating a family for kids who need one', capturing the same core concept and sentiment."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "building a family through adoption",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'building a family through adoption' is a direct paraphrase of the gold answer 'creating a family for kids who need one', capturing the same core concept and sentiment."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline is excited to build a family through adoption, as a way to give back and provide a safe home for children who have not had one.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core concept of the gold answer by stating Caroline is excited to build a family and provide a safe home for children, which is semantically equivalent to creating a family for kids who need one."
     }
   }
 }

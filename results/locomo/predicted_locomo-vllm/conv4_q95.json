@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q95",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What new activity has Tim started learning in August 2023?",
+  "ground_truth_answer": "play the piano",
+  "evidence": [
+    "D8:12"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What new activity has Tim started learning in August 2023?",
+    "search_results": [
+      {
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
+        "score": 0.7668296985123519,
+        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
+        "created_at": "2026-11-03T09:09:46.067003+00:00",
+        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023; he was nervous but completed it and views it as a small step of progress.",
+        "score": 0.765890662262164,
+        "id": "3d08d7eb-d156-405c-9ba8-ed3cbca62bb6",
+        "created_at": "2026-11-03T09:12:31.246183+00:00",
+        "updated_at": "2026-11-03T09:12:31.246183+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023; he was nervous but completed it and feels it was a small step of progress.",
+        "score": 0.7650115903046774,
+        "id": "543022bb-05ec-43d4-bd86-881339577bf9",
+        "created_at": "2026-11-03T09:12:53.920910+00:00",
+        "updated_at": "2026-11-03T09:12:53.920910+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023, feeling nervous but successful, and views it as a small step of progress.",
+        "score": 0.7648311310019162,
+        "id": "8f581209-9ae3-499b-a764-8c0f4155dbeb",
+        "created_at": "2026-11-03T09:13:00.150598+00:00",
+        "updated_at": "2026-11-03T09:13:00.150598+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023, feeling nervous but viewing the experience as a small step of progress.",
+        "score": 0.76040645255952,
+        "id": "f9241e16-5e05-4024-a7b3-cf9a7a2ab6bc",
+        "created_at": "2026-11-03T09:12:16.036098+00:00",
+        "updated_at": "2026-11-03T09:12:16.036098+00:00"
+      },
+      {
+        "memory": "Tim is currently overwhelmed by school assignments and exams, finding the workload busy and stressful as of late August 2023",
+        "score": 0.7575636185806249,
+        "id": "f6c7ef45-79f5-423e-ad57-76063380b051",
+        "created_at": "2026-11-03T09:10:53.953566+00:00",
+        "updated_at": "2026-11-03T09:10:53.953566+00:00"
+      },
+      {
+        "memory": "Tim is hoping to attend a book conference in September 2023, which he describes as an interesting gathering of authors, publishers, and book lovers where they discuss favorite novels and new releases.",
+        "score": 0.7515006938129007,
+        "id": "fb0a300f-d225-4ae4-be4c-43c4e7b3baf2",
+        "created_at": "2026-11-03T09:08:28.259475+00:00",
+        "updated_at": "2026-11-03T09:08:28.259475+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023, which was his first time tackling such a task; he felt nervous but succeeded and views it as a small step of progress.",
+        "score": 0.7459498942665668,
+        "id": "ad1b297a-a149-4c53-ae72-dc913d7865a2",
+        "created_at": "2026-11-03T09:11:48.084751+00:00",
+        "updated_at": "2026-11-03T09:11:48.084751+00:00"
+      },
+      {
+        "memory": "Tim gave a presentation in class on August 30, 2023, describing the experience as a small step that felt like progress despite being nervous",
+        "score": 0.7429936238189958,
+        "id": "cbb4a60a-5b03-44ed-baef-08216cdb1566",
+        "created_at": "2026-11-03T09:11:39.200849+00:00",
+        "updated_at": "2026-11-03T09:11:39.200849+00:00"
+      },
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.7422896365198354,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "Tim is learning German as of January 2, 2024, finding the process tough but fun.",
+        "score": 0.7376617110444704,
+        "id": "bae65f09-a515-4d6a-9921-e6446d2ce01f",
+        "created_at": "2026-11-03T09:35:51.705592+00:00",
+        "updated_at": "2026-11-03T09:35:51.705592+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.7371164950259367,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on January 5, 2024.",
+        "score": 0.7356165317797518,
+        "id": "349c3729-8f11-4d89-827c-abf4b48d4fdd",
+        "created_at": "2026-11-03T09:37:32.363734+00:00",
+        "updated_at": "2026-11-03T09:37:32.363734+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on Friday, January 5, 2024.",
+        "score": 0.7346911423609986,
+        "id": "1f1ebad6-c86a-411a-90e5-0bf206943695",
+        "created_at": "2026-11-03T09:37:25.182040+00:00",
+        "updated_at": "2026-11-03T09:37:25.182040+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, chosen for its vibrant arts scene and Irish music.",
+        "score": 0.7311597566182965,
+        "id": "1dce8c63-c37d-400b-993e-9831515230a8",
+        "created_at": "2026-11-03T09:37:37.759260+00:00",
+        "updated_at": "2026-11-03T09:37:37.759260+00:00"
+      },
+      {
+        "memory": "Tim is using a language learning app to study Spanish, as of January 2, 2024.",
+        "score": 0.7266901335089508,
+        "id": "7f221eed-87d7-47db-9a9c-b85cbbc64e13",
+        "created_at": "2026-11-03T09:36:01.123235+00:00",
+        "updated_at": "2026-11-03T09:36:01.123235+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
+        "score": 0.7221110311743747,
+        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
+        "created_at": "2026-11-03T09:37:29.774123+00:00",
+        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+      },
+      {
+        "memory": "Tim recently attended a fan event around August 2023, describing it as fantastic and noting that being with other fans who share his interests was a special experience.",
+        "score": 0.7144330416948186,
+        "id": "718f0b1c-7e62-45b5-8904-810484fe9a48",
+        "created_at": "2026-11-03T09:04:36.940204+00:00",
+        "updated_at": "2026-11-03T09:04:36.940204+00:00"
+      },
+      {
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
+        "score": 0.7013333682695032,
+        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
+        "created_at": "2026-11-03T09:34:16.758221+00:00",
+        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.695455872792527,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      }
+    ],
+    "search_latency_ms": 125.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "playing the piano",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'playing the piano' is a direct paraphrase of the gold answer 'play the piano' and correctly identifies the activity."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "playing the piano",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'playing the piano' is a direct paraphrase of the gold answer 'play the piano' and correctly identifies the activity."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "playing the piano",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'playing the piano' is a direct paraphrase of the gold answer 'play the piano' and correctly identifies the activity."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "playing the piano",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'playing the piano' is a direct paraphrase of the gold answer 'play the piano' and correctly identifies the activity."
+    }
+  }
+}

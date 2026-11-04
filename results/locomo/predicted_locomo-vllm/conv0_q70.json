@@ -9,42 +9,183 @@
     "D17:19",
     "D15:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What transgender-specific events has Caroline attended?",
-    "search_results": [],
-    "search_latency_ms": 14.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is a transgender woman who is attending a transgender conference in July 2023 to meet community members and learn more about advocacy.",
+        "score": 0.8653182533943273,
+        "id": "caf5d965-da5d-433b-bd42-76bd1c56e28c",
+        "created_at": "2026-11-04T05:21:27.860694+00:00",
+        "updated_at": "2026-11-04T05:21:27.860694+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.8631436980616819,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other people in the community and learn more about advocacy.",
+        "score": 0.8483433162461882,
+        "id": "e4143211-9fcd-46fe-860f-a8b2ef07e7df",
+        "created_at": "2026-11-04T05:20:55.919808+00:00",
+        "updated_at": "2026-11-04T05:20:55.919808+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.8479165518154641,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other community members and learn more about advocacy.",
+        "score": 0.8478994874359854,
+        "id": "ba9cb83a-6446-4551-ac76-6ee525753eb5",
+        "created_at": "2026-11-04T05:21:30.163002+00:00",
+        "updated_at": "2026-11-04T05:21:30.163002+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other people in the community and learn more about advocacy.",
+        "score": 0.8467204055334868,
+        "id": "8b49f212-c3a0-4206-8574-377bbdf0ea7f",
+        "created_at": "2026-11-04T05:21:14.108377+00:00",
+        "updated_at": "2026-11-04T05:21:14.108377+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other community members and learn more about advocacy, expressing excitement about the experience.",
+        "score": 0.8460277042233397,
+        "id": "f3331d60-9e49-44d8-97ca-b2f10cae7406",
+        "created_at": "2026-11-04T05:21:33.026517+00:00",
+        "updated_at": "2026-11-04T05:21:33.026517+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, describing it as awesome and encouraging due to the love and acceptance present.",
+        "score": 0.8448056668496925,
+        "id": "8359da61-69f1-4faa-a278-16d10a94b56c",
+        "created_at": "2026-11-04T05:24:56.204570+00:00",
+        "updated_at": "2026-11-04T05:24:56.204570+00:00"
+      },
+      {
+        "memory": "Caroline found the transgender stories shared at the LGBTQ support group on May 7, 2023, to be inspiring and expressed feeling happy and thankful for the support received",
+        "score": 0.842350971366675,
+        "id": "4ecbfd49-eaed-4268-9105-7b3e0f34289a",
+        "created_at": "2026-11-04T05:14:22.138790+00:00",
+        "updated_at": "2026-11-04T05:14:22.138790+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.8394552174218601,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors other transgender teens, focusing on building confidence and finding positive strategies.",
+        "score": 0.8366027931220079,
+        "id": "7faafc18-5eb1-4db5-b73f-19e9655f2d58",
+        "created_at": "2026-11-04T05:25:06.651328+00:00",
+        "updated_at": "2026-11-04T05:25:06.651328+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.8279268873236146,
+        "id": "78c0695b-4fef-4efb-81c7-afe612f83320",
+        "created_at": "2026-11-04T06:03:04.544941+00:00",
+        "updated_at": "2026-11-04T06:03:04.544941+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.8279268873236146,
+        "id": "c4ee2227-5f3f-4c6e-86a6-64baaeae566a",
+        "created_at": "2026-11-04T06:03:14.139873+00:00",
+        "updated_at": "2026-11-04T06:03:14.139873+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment for self-expression.",
+        "score": 0.8216827255020845,
+        "id": "a9ed52d7-341a-471f-90bf-d8d739bf0ede",
+        "created_at": "2026-11-04T06:03:09.405351+00:00",
+        "updated_at": "2026-11-04T06:03:09.405351+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry, finding it empowering and a safe space for self-expression",
+        "score": 0.8202302539284135,
+        "id": "30f8c8ef-21ab-4eda-ace0-facc1c24dc93",
+        "created_at": "2026-11-04T06:02:55.378037+00:00",
+        "updated_at": "2026-11-04T06:02:55.378037+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen and they have been working together on building confidence and finding positive coping strategies.",
+        "score": 0.8191035930533989,
+        "id": "4cd5f178-ea26-4632-ba9e-0b4f0c8c42ff",
+        "created_at": "2026-11-04T05:25:01.594775+00:00",
+        "updated_at": "2026-11-04T05:25:01.594775+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.8182292869041087,
+        "id": "4b44eff5-3559-4775-a7ad-b8cadaafabb9",
+        "created_at": "2026-11-04T05:24:56.201014+00:00",
+        "updated_at": "2026-11-04T05:24:56.201014+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.8182292869041087,
+        "id": "3665c2a3-4e83-417c-ad19-06c12425e7a7",
+        "created_at": "2026-11-04T05:51:41.956365+00:00",
+        "updated_at": "2026-11-04T05:51:41.956365+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.8182292869041087,
+        "id": "bd0ab8cd-bd9f-49d9-ba4e-bd14c8717e94",
+        "created_at": "2026-11-04T05:51:37.151794+00:00",
+        "updated_at": "2026-11-04T05:51:37.151794+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender artist who uses her work to express her trans experience, advocate for the LGBTQ+ community, and promote acceptance and inclusivity.",
+        "score": 0.818006581142406,
+        "id": "f745ba7c-7dae-40c1-aa9d-4e921ef128c4",
+        "created_at": "2026-11-04T05:54:11.058029+00:00",
+        "updated_at": "2026-11-04T05:54:11.058029+00:00"
+      }
+    ],
+    "search_latency_ms": 110.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a transgender conference",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'conference', which is one of the two items in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline attended a transgender conference in July 2023 and a transgender poetry reading on October 13, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies both the transgender conference and the poetry reading mentioned in the gold answer, adding specific dates which is allowed."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline attended a transgender conference in July 2023 and a transgender poetry reading on October 13, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies both the transgender conference and the poetry reading mentioned in the gold answer, adding specific dates which is allowed."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline attended a transgender conference in July 2023 and a transgender poetry reading on October 13, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies both the transgender conference and the poetry reading mentioned in the gold answer, adding specific dates which is allowed."
     }
   }
 }

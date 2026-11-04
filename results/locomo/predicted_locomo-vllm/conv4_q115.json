@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q115",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does John describe the game season for his team?",
+  "ground_truth_answer": "intense with tough losses and great wins",
+  "evidence": [
+    "D13:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How does John describe the game season for his team?",
+    "search_results": [
+      {
+        "memory": "John described the basketball season leading up to October 13, 2023, as intense with both tough losses and great wins, stating that his team did pretty well overall.",
+        "score": 0.7948444988215156,
+        "id": "91dc4068-7f07-4c56-8891-c12905c018e0",
+        "created_at": "2026-11-03T09:17:44.836620+00:00",
+        "updated_at": "2026-11-03T09:17:44.836620+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
+        "score": 0.7739326739888112,
+        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
+        "created_at": "2026-11-03T09:18:54.870502+00:00",
+        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
+        "score": 0.765025643900656,
+        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
+        "created_at": "2026-11-03T09:18:35.338157+00:00",
+        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.7564301870468055,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John recalls a basketball game last year (around 2022) where his team was trailing significantly in the 4th quarter but dug deep to overturn the deficit, describing the final buzzer as an unforgettable feeling of satisfaction.",
+        "score": 0.720572382678637,
+        "id": "aea9e827-291b-4c73-8b57-b943f847b4df",
+        "created_at": "2026-11-03T09:22:52.051450+00:00",
+        "updated_at": "2026-11-03T09:22:52.051450+00:00"
+      },
+      {
+        "memory": "John enjoys the energy of a stadium during a sports game, describing the experience of everyone cheering, chanting, and getting excited as really special.",
+        "score": 0.719444621848562,
+        "id": "523aaa53-d627-4d58-9a7b-dd06841a241b",
+        "created_at": "2026-11-03T09:06:27.555555+00:00",
+        "updated_at": "2026-11-03T09:06:27.555555+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team trailed significantly in the fourth quarter but dug deep to overturn the deficit, describing the final buzzer moment as unforgettable.",
+        "score": 0.7175884462665673,
+        "id": "fba81c44-9f06-46e5-8699-0c83448a0a4a",
+        "created_at": "2026-11-03T09:23:13.509574+00:00",
+        "updated_at": "2026-11-03T09:23:13.509574+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit, describing the final buzzer as an unforgettable feeling.",
+        "score": 0.7100773107796631,
+        "id": "240311a0-ad98-4c79-8404-ae18d5cbbcdb",
+        "created_at": "2026-11-03T09:22:07.683408+00:00",
+        "updated_at": "2026-11-03T09:22:07.683408+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit for an unforgettable victory.",
+        "score": 0.7089943251479831,
+        "id": "1ecb540a-2e7e-4638-9d44-d25e17c23dc2",
+        "created_at": "2026-11-03T09:22:24.100907+00:00",
+        "updated_at": "2026-11-03T09:22:24.100907+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit for an unforgettable victory.",
+        "score": 0.7089943251479831,
+        "id": "1cea80bb-50e8-41a4-a106-9bac47a6a9e8",
+        "created_at": "2026-11-03T09:22:17.830900+00:00",
+        "updated_at": "2026-11-03T09:22:17.830900+00:00"
+      },
+      {
+        "memory": "John recalled a specific basketball game from late 2022 where his team was trailing significantly in the 4th quarter but managed to overturn the deficit, describing the final buzzer as an unforgettable feeling that demonstrated determination and perseverance.",
+        "score": 0.7078529012164673,
+        "id": "b5271044-b1d1-4fd0-93e5-d87008f6c852",
+        "created_at": "2026-11-03T09:22:55.807075+00:00",
+        "updated_at": "2026-11-03T09:22:55.807075+00:00"
+      },
+      {
+        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.7044491715045085,
+        "id": "094a7829-5c98-4aee-b925-8eb643671180",
+        "created_at": "2026-11-03T09:31:45.175398+00:00",
+        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6646373161122694,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6513524629081509,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.6486741571439789,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing his first season in the pros as a wild ride.",
+        "score": 0.6472952451934201,
+        "id": "50475683-5fc9-49f0-bd54-be3712eb6feb",
+        "created_at": "2026-11-03T09:30:21.639635+00:00",
+        "updated_at": "2026-11-03T09:30:21.639635+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6382483082612298,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John's team participated in a scrimmage the week of December 18-24, 2023, where they gave it their all and observed significant growth in communication and bonding, which improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6364353784402031,
+        "id": "dc92065d-f7a7-418d-8dff-2f97ad60067e",
+        "created_at": "2026-11-03T09:34:11.783377+00:00",
+        "updated_at": "2026-11-03T09:34:11.783377+00:00"
+      },
+      {
+        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
+        "score": 0.6343305586067822,
+        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
+        "created_at": "2026-11-03T09:34:16.754297+00:00",
+        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.633444101917924,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      }
+    ],
+    "search_latency_ms": 119.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the basketball season as intense, with both tough losses and great wins, and states that his team did pretty well overall.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all key elements from the gold answer ('intense', 'tough losses', 'great wins') and adds extra detail about the team doing well overall, which is acceptable under the rules."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the season as intense, with both tough losses and great wins, and states that his team did pretty well overall. He also refers to his first professional season as a \"wild ride.\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key elements of the gold answer ('intense', 'tough losses', 'great wins') and adds extra details, which is acceptable under the rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the season as intense, with both tough losses and great wins, and states that his team did pretty well overall. He also refers to his first professional season as a \"wild ride.\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key elements of the gold answer ('intense', 'tough losses', 'great wins') and adds extra details, which is acceptable under the rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the season as intense, with both tough losses and great wins, and states that his team did pretty well overall. He also refers to his first professional season as a \"wild ride.\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key elements of the gold answer ('intense', 'tough losses', 'great wins') and adds extra details, which is acceptable under the rules."
+    }
+  }
+}

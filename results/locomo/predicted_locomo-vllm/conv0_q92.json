@@ -8,42 +8,183 @@
   "evidence": [
     "D4:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What country is Caroline's grandma from?",
-    "search_results": [],
-    "search_latency_ms": 23.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.7194573997571483,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.6926643104117289,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline moved from her home country approximately 4 years before June 9, 2023, and has known her current group of friends since that move; their support was especially important to her after a tough breakup.",
+        "score": 0.626739209083585,
+        "id": "2f091231-881d-4a99-94fc-17cb81f1495d",
+        "created_at": "2026-11-04T05:16:59.923269+00:00",
+        "updated_at": "2026-11-04T05:16:59.923269+00:00"
+      },
+      {
+        "memory": "Caroline has known her close friends for four years, since moving from her home country around June 2019, and credits their support for helping her through a tough breakup.",
+        "score": 0.6148790601482254,
+        "id": "8ff376f8-3c34-4e46-8366-611fbee245e4",
+        "created_at": "2026-11-04T05:16:46.760429+00:00",
+        "updated_at": "2026-11-04T05:16:46.760429+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5453855508615779,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.48224267508234275,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.46661053585985107,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.4403250447269042,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.4383921818155222,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender artist who uses her work to express her trans experience, advocate for the LGBTQ+ community, and promote acceptance and inclusivity.",
+        "score": 0.4074961684925591,
+        "id": "f745ba7c-7dae-40c1-aa9d-4e921ef128c4",
+        "created_at": "2026-11-04T05:54:11.058029+00:00",
+        "updated_at": "2026-11-04T05:54:11.058029+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.40271639662020337,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, who are supporting her through her transition, and she feels lucky to have their help.",
+        "score": 0.4013085714872181,
+        "id": "57b0b814-ae03-44d2-8913-2c7ad6b6b234",
+        "created_at": "2026-11-04T05:21:46.433185+00:00",
+        "updated_at": "2026-11-04T05:21:46.433185+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.39969215149439286,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "User's name is Caroline and she has a friend or acquaintance named Mel whom she greeted on May 8, 2023",
+        "score": 0.3992163035339208,
+        "id": "6f81a3aa-d83f-4e84-a45a-950cf2eca70b",
+        "created_at": "2026-11-04T05:14:16.590371+00:00",
+        "updated_at": "2026-11-04T05:14:16.590371+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.39780813341440713,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through fields as a child, which she describes as a special memory where she felt the wind, and she has always had a love for horses",
+        "score": 0.3874323737999631,
+        "id": "5b25e4d0-9fff-4b0c-b391-5a3db67ed570",
+        "created_at": "2026-11-04T05:56:24.912151+00:00",
+        "updated_at": "2026-11-04T05:56:24.912151+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.3369996841004972,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and owns a special necklace with a cross and heart that was a gift from her grandmother when she was young, symbolizing love, faith, strength, and her roots.",
+        "score": 0.25961225184386205,
+        "id": "f71f1647-fd45-4fe0-b066-1124b8bc4368",
+        "created_at": "2026-11-04T05:17:55.692771+00:00",
+        "updated_at": "2026-11-04T05:17:55.692771+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and received a necklace with a cross and heart from her grandmother when she was young; it stands for love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.24419168732093186,
+        "id": "34143b53-748f-46a0-8147-af770ddeeb3d",
+        "created_at": "2026-11-04T05:18:01.036617+00:00",
+        "updated_at": "2026-11-04T05:18:01.036617+00:00"
+      },
+      {
+        "memory": "Caroline received a special necklace from her grandmother in Sweden when she was young, which symbolizes love, faith, and strength and serves as a reminder of her roots and family support.",
+        "score": 0.23977938390080852,
+        "id": "6ccc01af-a12e-4e5e-9be6-aa32ae4ca84a",
+        "created_at": "2026-11-04T05:18:19.806351+00:00",
+        "updated_at": "2026-11-04T05:18:19.806351+00:00"
+      }
+    ],
+    "search_latency_ms": 70.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q160",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What activity did Tim do after reading the stories about the Himalayan trek?",
+  "ground_truth_answer": "visited a travel agency",
+  "evidence": [
+    "D26:12"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What activity did Tim do after reading the stories about the Himalayan trek?",
+    "search_results": [
+      {
+        "memory": "Tim found the Himalayan trek story in his traveler book motivating, noting that despite challenging terrain, altitude sickness, and bad weather, the hikers made it and saw amazing sights.",
+        "score": 0.9049873248047087,
+        "id": "b97ad786-b1dd-4a74-a3da-857db2afdcfe",
+        "created_at": "2026-11-03T09:34:29.485488+00:00",
+        "updated_at": "2026-11-03T09:34:29.485488+00:00"
+      },
+      {
+        "memory": "Tim read a story in his travel book about two hikers who trekked through the Himalayas, noting the journey was tough with challenging terrain, altitude sickness, and bad weather but worth it due to amazing sights.",
+        "score": 0.843682644265934,
+        "id": "ce4cf5fb-db51-43ac-88c8-6f6f75737485",
+        "created_at": "2026-11-03T09:34:36.192655+00:00",
+        "updated_at": "2026-11-03T09:34:36.192655+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, and was motivated by a story about two hikers who trekked through the Himalayas despite challenging terrain, altitude sickness, and bad weather.",
+        "score": 0.8397184351173237,
+        "id": "f8ba9a5a-44d8-4b1b-9152-715149b1108e",
+        "created_at": "2026-11-03T09:34:40.879814+00:00",
+        "updated_at": "2026-11-03T09:34:40.879814+00:00"
+      },
+      {
+        "memory": "Tim read a story from his traveler book about two hikers who trekked through the Himalayas and found it awesome, sharing an image of two men on horseback in front of a mountain.",
+        "score": 0.8310131987057826,
+        "id": "56ba87cc-1bdd-465c-8be3-cd260d4cbbf1",
+        "created_at": "2026-11-03T09:34:25.372715+00:00",
+        "updated_at": "2026-11-03T09:34:25.372715+00:00"
+      },
+      {
+        "memory": "Tim read a story in a book about two hikers who trekked through the Himalayas, noting the challenging terrain, altitude sickness, and bad weather, which motivated him despite the difficulties.",
+        "score": 0.8270131163611344,
+        "id": "23ddd8e1-116f-4044-8026-f21cae0d4b48",
+        "created_at": "2026-11-03T09:34:38.580293+00:00",
+        "updated_at": "2026-11-03T09:34:38.580293+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
+        "score": 0.634242463274775,
+        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
+        "created_at": "2026-11-03T09:34:36.187606+00:00",
+        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+      },
+      {
+        "memory": "Tim finished reading 'A Dance with Dragons' and highly recommends it, noting it is a really good story.",
+        "score": 0.6280303277931308,
+        "id": "845ad9e3-7c71-46a4-8bf1-afc5c563e3af",
+        "created_at": "2026-11-03T09:31:26.635092+00:00",
+        "updated_at": "2026-11-03T09:31:26.635092+00:00"
+      },
+      {
+        "memory": "Tim has been writing more articles recently, describing the activity as a way to combine his love for reading with the joy of sharing great stories.",
+        "score": 0.6270628496258583,
+        "id": "cfb732a9-a766-473c-a35e-d5e9518f3c76",
+        "created_at": "2026-11-03T09:07:04.400993+00:00",
+        "updated_at": "2026-11-03T09:07:04.400993+00:00"
+      },
+      {
+        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK sparked many ideas for his stories.",
+        "score": 0.6186384210371724,
+        "id": "84d7f1ec-a151-41a3-aa19-b541fe4e33d3",
+        "created_at": "2026-11-03T09:20:07.690643+00:00",
+        "updated_at": "2026-11-03T09:20:07.690643+00:00"
+      },
+      {
+        "memory": "Tim just finished reading 'A Dance with Dragons' and highly recommends it, noting it is a really good story.",
+        "score": 0.6177649040639217,
+        "id": "c4d4b83f-ce3e-431d-982b-71b16688414f",
+        "created_at": "2026-11-03T09:31:36.071596+00:00",
+        "updated_at": "2026-11-03T09:31:36.071596+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.6073957382849737,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
+        "score": 0.6061057558617181,
+        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
+        "created_at": "2026-11-03T09:34:38.576853+00:00",
+        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a fantasy book that captivates him, transporting him to another world and keeping him on the edge of his seat while his imagination soars.",
+        "score": 0.6013757217246031,
+        "id": "6dead882-9271-462a-baff-b54448fbfc46",
+        "created_at": "2026-11-03T09:00:55.191783+00:00",
+        "updated_at": "2026-11-03T09:00:55.191783+00:00"
+      },
+      {
+        "memory": "Tim has been reading stories from travelers around the world to plan his next adventure, using a specific book he found that features a cover with a boy and a girl.",
+        "score": 0.6010006662964594,
+        "id": "a7b4b98d-3346-4457-9c1b-e21edd58afd4",
+        "created_at": "2026-11-03T09:34:20.910771+00:00",
+        "updated_at": "2026-11-03T09:34:20.910771+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.5978430730118383,
+        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
+        "created_at": "2026-11-03T09:21:16.840236+00:00",
+        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+      },
+      {
+        "memory": "Tim enjoys fantasy stories because they allow him to explore other cultures and landscapes from the comfort of his home, viewing them as a way to experience diverse settings without traveling.",
+        "score": 0.5966682682167942,
+        "id": "9cd28771-4831-43aa-ae70-d522d0469489",
+        "created_at": "2026-11-03T09:36:59.992482+00:00",
+        "updated_at": "2026-11-03T09:36:59.992482+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
+        "score": 0.5963204166746381,
+        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
+        "created_at": "2026-11-03T09:20:07.698691+00:00",
+        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.5955575425958084,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim finds peace in reading fantasy books, a hobby that helps with his home life and overall well-being.",
+        "score": 0.5952435235827469,
+        "id": "eff7df14-e1a0-479d-a109-abd5604a5f9c",
+        "created_at": "2026-11-03T09:00:39.091789+00:00",
+        "updated_at": "2026-11-03T09:00:39.091789+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.5946617639652395,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      }
+    ],
+    "search_latency_ms": 121.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "planning his next adventure",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'planning his next adventure' is a vague generalization that does not specifically identify the action of visiting a travel agency, which is the distinct factual detail required by the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "visited a travel agency to check requirements for his dream trip",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer ('visited a travel agency') and adds extra detail, which is permitted."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "visited a travel agency to check requirements for his dream trip",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer ('visited a travel agency') and adds extra detail, which is permitted."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "visited a travel agency to check requirements for his dream trip",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer ('visited a travel agency') and adds extra detail, which is permitted."
+    }
+  }
+}

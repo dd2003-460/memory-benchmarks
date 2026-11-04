@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q93",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did John's teammates sign the basketball they gave him?",
+  "ground_truth_answer": "to show their friendship and appreciation",
+  "evidence": [
+    "D7:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Why did John's teammates sign the basketball they gave him?",
+    "search_results": [
+      {
+        "memory": "John values playing with his teammates and having fans cheer for him, stating that basketball gives him a strong sense of satisfaction and purpose.",
+        "score": 0.7897303466507053,
+        "id": "32cf8d83-ff16-4db9-bf7f-db3ec36f571a",
+        "created_at": "2026-11-03T09:14:51.747326+00:00",
+        "updated_at": "2026-11-03T09:14:51.747326+00:00"
+      },
+      {
+        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
+        "score": 0.7074106174385613,
+        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
+        "created_at": "2026-11-03T09:08:31.358666+00:00",
+        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.6615632931915202,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
+        "score": 0.6610876861057842,
+        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
+        "created_at": "2026-11-03T09:15:54.760026+00:00",
+        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+      },
+      {
+        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a lot of fun together.",
+        "score": 0.6609360199534268,
+        "id": "fffc91b3-4c94-45a3-92c3-733491375dc3",
+        "created_at": "2026-11-03T09:14:03.763922+00:00",
+        "updated_at": "2026-11-03T09:14:03.763922+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.6588721411769278,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
+        "score": 0.6519140879089627,
+        "id": "31196cac-4beb-410d-8c13-010e32d84735",
+        "created_at": "2026-11-03T09:22:24.102935+00:00",
+        "updated_at": "2026-11-03T09:22:24.102935+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.6449435285304094,
+        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
+        "created_at": "2026-11-03T09:14:37.512820+00:00",
+        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+      },
+      {
+        "memory": "John shared that he faced a tough time in basketball when he made a significant mistake during a big game, which was hard to accept but taught him the importance of resilience and owning up to mistakes to keep growing as a player and teammate.",
+        "score": 0.6439281348196798,
+        "id": "c3942134-7fe7-4303-a64e-0d0e42748b71",
+        "created_at": "2026-11-03T09:27:30.848083+00:00",
+        "updated_at": "2026-11-03T09:27:30.848083+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.6435690878473282,
+        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
+        "created_at": "2026-11-03T09:14:22.471894+00:00",
+        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+      },
+      {
+        "memory": "John recently won a basketball trophy, which he credits to his team's hard work and dedication.",
+        "score": 0.6426620864640505,
+        "id": "07c3596e-5d6a-44aa-b9f5-8e94515b55fe",
+        "created_at": "2026-11-03T09:30:48.604695+00:00",
+        "updated_at": "2026-11-03T09:30:48.604695+00:00"
+      },
+      {
+        "memory": "John's basketball team had a close game against another team the week of December 9, 2023, which they won at the final buzzer, and he shared a photo of women's basketball players holding up a trophy to celebrate.",
+        "score": 0.6414593866892998,
+        "id": "a90f938c-f5b2-4c39-8693-7fb6eb35a8b7",
+        "created_at": "2026-11-03T09:32:44.179083+00:00",
+        "updated_at": "2026-11-03T09:32:44.179083+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.6403485756086427,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.6398445581044772,
+        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
+        "created_at": "2026-11-03T09:07:43.089742+00:00",
+        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game the week of January 1-7, 2024, sharing a photo of a boy dribbling a basketball on the court.",
+        "score": 0.6385918701563686,
+        "id": "d6ba52a2-94f3-43fb-bda7-98e67cf62b1b",
+        "created_at": "2026-11-03T09:37:35.159189+00:00",
+        "updated_at": "2026-11-03T09:37:35.159189+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.6370797271249612,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.6364034757461158,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "Off the court, John is actively looking into securing more endorsements and building his personal brand to prepare for life after basketball.",
+        "score": 0.6357081296158227,
+        "id": "ca31824b-a0fe-49cf-add5-3a0cc05771a3",
+        "created_at": "2026-11-03T09:15:54.765932+00:00",
+        "updated_at": "2026-11-03T09:15:54.765932+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.6354721471947994,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.6354683532129137,
+        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
+        "created_at": "2026-11-03T09:07:35.938549+00:00",
+        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+      }
+    ],
+    "search_latency_ms": 105.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It was a sign of their friendship and mutual love for the game.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies 'friendship' as a key reason, which is a direct match to the gold answer's 'friendship and appreciation', satisfying the partial credit rule."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "As a sign of their friendship and mutual love for the game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies 'friendship' as a reason, which is a key component of the gold answer, and 'mutual love for the game' is a reasonable paraphrase for 'appreciation' in this context."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "As a sign of their friendship and mutual love for the game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies 'friendship' as a reason, which is a key component of the gold answer, and 'mutual love for the game' is a reasonable paraphrase for 'appreciation' in this context."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "As a sign of their friendship and mutual love for the game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies 'friendship' as a reason, which is a key component of the gold answer, and 'mutual love for the game' is a reasonable paraphrase for 'appreciation' in this context."
+    }
+  }
+}

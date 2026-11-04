@@ -8,42 +8,183 @@
   "evidence": [
     "D17:25"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How do Melanie and Caroline describe their journey through life together?",
-    "search_results": [],
-    "search_latency_ms": 23.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.7101130296201719,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie expressed mutual appreciation for their friendship on August 17, 2023, acknowledging that having supportive people makes life's struggles more bearable and keeps them going during hard times.",
+        "score": 0.6999674213394431,
+        "id": "672b424b-5731-4ad9-8580-bb6699076ec7",
+        "created_at": "2026-11-04T05:54:51.709326+00:00",
+        "updated_at": "2026-11-04T05:54:51.709326+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie attended a Pride festival together last year (2022) with their group of supportive friends, which Caroline described as a blast and worth it for the support.",
+        "score": 0.6632465687606548,
+        "id": "2f587b5a-9b1b-47ad-a8b0-313cc7277f00",
+        "created_at": "2026-11-04T05:55:20.890619+00:00",
+        "updated_at": "2026-11-04T05:55:20.890619+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie attended a Pride fest together in August 2022, which Caroline described as a blast and credited their supportive friends for making the experience worthwhile.",
+        "score": 0.6528511225855553,
+        "id": "e78215cf-7fb4-4639-85fe-ff260c1ba765",
+        "created_at": "2026-11-04T05:54:59.035760+00:00",
+        "updated_at": "2026-11-04T05:54:59.035760+00:00"
+      },
+      {
+        "memory": "Melanie, Caroline's friend, loves painting landscapes and still life, recently creating a painting of sunflowers and planning new works inspired by autumn.",
+        "score": 0.6510211176711865,
+        "id": "7cb207db-e98c-44c5-930c-46ef873bd632",
+        "created_at": "2026-11-04T05:59:49.977802+00:00",
+        "updated_at": "2026-11-04T05:59:49.977802+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6467326848101381,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6456873092876806,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.6445928445769016,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pass on the same support and love she received from her community to others, viewing this journey as a gift that allows her to help others with their own experiences.",
+        "score": 0.6442607557163492,
+        "id": "0b13f3bc-c62a-47e1-8a19-d1a37304765b",
+        "created_at": "2026-11-04T06:04:38.591426+00:00",
+        "updated_at": "2026-11-04T06:04:38.591426+00:00"
+      },
+      {
+        "memory": "Melanie shared a cherished memory of watching her youngest child take their first steps, noting how the milestone highlighted the fleeting nature of life and her gratitude for sharing such moments with her family.",
+        "score": 0.641208116181438,
+        "id": "45de943d-afce-45cf-a7fc-2ef1c8001f10",
+        "created_at": "2026-11-04T05:53:15.166113+00:00",
+        "updated_at": "2026-11-04T05:53:15.166113+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a necklace featuring a cross and a heart with Melanie on June 27, 2023, noting that a lot has been going on in her life since they last spoke.",
+        "score": 0.6388366628836274,
+        "id": "1776f4a8-f886-44ce-96c7-f6f066c24976",
+        "created_at": "2026-11-04T05:17:15.144107+00:00",
+        "updated_at": "2026-11-04T05:17:15.144107+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6385956862539099,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Caroline finds it deeply meaningful to have a community where she is accepted, loved, and supported, noting that having people who understand her experiences has made a huge difference in her life.",
+        "score": 0.6369191657091746,
+        "id": "561edcf2-5eed-4678-a02a-5cf582639ee2",
+        "created_at": "2026-11-04T05:57:55.265523+00:00",
+        "updated_at": "2026-11-04T05:57:55.265523+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6365341529238114,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling and mental health, motivated by her own past struggles with mental health and the supportive help she received, which inspired her to assist others on their journeys.",
+        "score": 0.6361563628910809,
+        "id": "50c53ca2-beca-4e97-a180-a74c626ea224",
+        "created_at": "2026-11-04T05:22:31.893408+00:00",
+        "updated_at": "2026-11-04T05:22:31.893408+00:00"
+      },
+      {
+        "memory": "Caroline offered to help Melanie in any way she can if Melanie decides to pursue adoption in the future.",
+        "score": 0.6348554135735456,
+        "id": "9c8cf599-3e1e-4d33-8aaf-d91c7b03c272",
+        "created_at": "2026-11-04T06:02:18.585533+00:00",
+        "updated_at": "2026-11-04T06:02:18.585533+00:00"
+      },
+      {
+        "memory": "Caroline reflects on her transition journey as a long road but expresses pride in how far she has come, emphasizing the importance of finding peace and self-acceptance.",
+        "score": 0.63440825695569,
+        "id": "10df186d-7ba7-40e0-958c-f649710b41b5",
+        "created_at": "2026-11-04T05:24:07.301599+00:00",
+        "updated_at": "2026-11-04T05:24:07.301599+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6343895574387404,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and how lucky she is to share these moments.",
+        "score": 0.6337754755177023,
+        "id": "685cb850-da10-408b-bb57-39a6bf6b5092",
+        "created_at": "2026-11-04T05:53:09.143096+00:00",
+        "updated_at": "2026-11-04T05:53:09.143096+00:00"
+      },
+      {
+        "memory": "Melanie recalled the day her youngest child took their first steps, describing it as a milestone that highlighted how fleeting life is and how lucky she feels to share these moments with her family.",
+        "score": 0.63279980682859,
+        "id": "5b3cbf7c-035a-4c69-aadd-67df7d9b072d",
+        "created_at": "2026-11-04T05:53:11.701772+00:00",
+        "updated_at": "2026-11-04T05:53:11.701772+00:00"
+      }
+    ],
+    "search_latency_ms": 127.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "They describe their journey as one where their mutual support makes life's struggles more bearable and helps them keep going during hard times.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer focuses on mutual support and coping with struggles, whereas the gold answer specifically describes the journey as an 'adventure of learning and growing'; these are distinct concepts, and the generated answer does not contain any of the specific items from the gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "They describe their journey as one of mutual support and appreciation, noting that having each other makes life's struggles more bearable and keeps them going during hard times.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes the journey as one of mutual support and making struggles bearable, which is a different concept from the gold answer's description of an 'ongoing adventure of learning and growing.'"
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "They describe their journey as one where having each other's support makes life's struggles more bearable and helps them keep going during hard times.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer focuses on mutual support and coping with struggles, whereas the gold answer specifically describes the journey as an 'adventure of learning and growing'; these are distinct concepts, and the generated answer does not contain any of the specific items from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "They describe their journey as one where having each other makes life's struggles more bearable and keeps them going during hard times.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes the journey in terms of mutual support and coping with struggles, whereas the gold answer characterizes it as an 'adventure of learning and growing'; these are distinct concepts (support vs. growth/adventure) and the generated answer contains none of the specific items from the gold answer."
     }
   }
 }

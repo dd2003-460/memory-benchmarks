@@ -8,42 +8,183 @@
   "evidence": [
     "D4:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What is Melanie's hand-painted bowl a reminder of?",
-    "search_results": [],
-    "search_latency_ms": 27.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie created a colorful ceramic bowl with patterns designed to catch the eye and make people smile, explaining that painting helps her express feelings and be creative, with each stroke carrying a part of her.",
+        "score": 0.7016875188858636,
+        "id": "add6e474-dc48-44ec-aff3-8acee6df037f",
+        "created_at": "2026-11-04T05:54:29.421258+00:00",
+        "updated_at": "2026-11-04T05:54:29.421258+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.6935373179010974,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.692230760933909,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creation, specifically a bowl with intricate patterns and purple glaze, alongside other bowls and a starfish.",
+        "score": 0.6912838716468456,
+        "id": "2e00f69d-4613-48c6-ab1c-28aa046ce670",
+        "created_at": "2026-11-04T06:01:46.618628+00:00",
+        "updated_at": "2026-11-04T06:01:46.618628+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the work involved.",
+        "score": 0.6812827311708959,
+        "id": "33033d1a-6f6e-41f2-ba7f-faacc5b2f8f5",
+        "created_at": "2026-11-04T05:19:54.440243+00:00",
+        "updated_at": "2026-11-04T05:19:54.440243+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a pottery bowl with a black and white flower design on July 3, 2023, while discussing her passion for pottery and its calming nature.",
+        "score": 0.6790423653603104,
+        "id": "b58cbe48-a442-4553-8326-7dbf6e842b5f",
+        "created_at": "2026-11-04T05:19:41.862302+00:00",
+        "updated_at": "2026-11-04T05:19:41.862302+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and shared a photo of the plate/bowl with Caroline.",
+        "score": 0.6789334049861367,
+        "id": "2c2b0492-39f0-47c3-b5ad-2d1b7e8ba58e",
+        "created_at": "2026-11-04T05:57:17.709621+00:00",
+        "updated_at": "2026-11-04T05:57:17.709621+00:00"
+      },
+      {
+        "memory": "Melanie made a bowl with a black and white flower design in her pottery class and shared a photo of it with Caroline on July 3, 2023.",
+        "score": 0.6788206511655616,
+        "id": "2952844d-fd12-491a-bd4f-18422aa373be",
+        "created_at": "2026-11-04T05:21:14.100278+00:00",
+        "updated_at": "2026-11-04T05:21:14.100278+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.6740127958711952,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a colorful ceramic bowl she made, describing the pottery experience as great and expressing pride in the project on August 17, 2023",
+        "score": 0.6733445184529827,
+        "id": "7a540df8-8f31-410b-b897-ef92d65aa13e",
+        "created_at": "2026-11-04T05:54:55.718889+00:00",
+        "updated_at": "2026-11-04T05:54:55.718889+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creations, which included a group of bowls with intricate patterns and purple glaze alongside a starfish on a white surface",
+        "score": 0.6714876752881653,
+        "id": "b4d59bbd-799e-435f-af54-03d4e4825748",
+        "created_at": "2026-11-04T06:01:56.669039+00:00",
+        "updated_at": "2026-11-04T06:01:56.669039+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, and finds the activity relaxing and creative",
+        "score": 0.669476948678123,
+        "id": "373de4e9-e448-43a3-9e7a-595ee354dc5a",
+        "created_at": "2026-11-04T05:57:49.617216+00:00",
+        "updated_at": "2026-11-04T05:57:49.617216+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6685085211905235,
+        "id": "65231ceb-ed9f-44bd-96ec-617c271a1e52",
+        "created_at": "2026-11-04T05:57:28.925043+00:00",
+        "updated_at": "2026-11-04T05:57:28.925043+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6685085211905235,
+        "id": "86fddf90-54ec-4523-b385-ffef911062fb",
+        "created_at": "2026-11-04T05:57:38.763970+00:00",
+        "updated_at": "2026-11-04T05:57:38.763970+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6685085211905235,
+        "id": "541aca91-1956-4564-bf9d-e1f9f085981f",
+        "created_at": "2026-11-04T05:57:44.091565+00:00",
+        "updated_at": "2026-11-04T05:57:44.091565+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.6648753491426009,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a new pottery project, described as a ceramic bowl with a colorful design, on August 17, 2023, expressing pride in the result and noting it was a great experience.",
+        "score": 0.66339993224437,
+        "id": "155a0206-1b21-4295-83db-4fe26e8b8076",
+        "created_at": "2026-11-04T05:54:24.675916+00:00",
+        "updated_at": "2026-11-04T05:54:24.675916+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and asked Caroline if she had tried it.",
+        "score": 0.6620849484325523,
+        "id": "1d97ffde-19dc-4af9-8211-d5efe33fd5c2",
+        "created_at": "2026-11-04T05:57:32.046273+00:00",
+        "updated_at": "2026-11-04T05:57:32.046273+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a pottery bowl with intricate patterns and purple glaze created by Melanie, which Caroline admired for its unique designs.",
+        "score": 0.6590685621397335,
+        "id": "2bf020f3-bc88-4cee-9d41-a7d05b8216f3",
+        "created_at": "2026-11-04T06:01:52.863580+00:00",
+        "updated_at": "2026-11-04T06:01:52.863580+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and shared a photo of it with Caroline on August 17, 2023.",
+        "score": 0.6572703326374758,
+        "id": "acc443d8-8c73-4691-a693-fa1cfed52f6e",
+        "created_at": "2026-11-04T05:54:45.042307+00:00",
+        "updated_at": "2026-11-04T05:54:45.042307+00:00"
+      }
+    ],
+    "search_latency_ms": 109.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "her feelings",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'her feelings' is semantically distinct from the gold answer 'art and self-expression'; while feelings can be part of self-expression, the specific concept of art and the act of self-expression are not captured by the vague reference to feelings alone, and no other items from the gold answer are present."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "her emotions and feelings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'her emotions and feelings' is semantically distinct from the gold answer 'art and self-expression'; while related, the specific concept of artistic creation and self-expression is not captured by the general reference to emotions."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "her emotions and a part of herself",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'her emotions and a part of herself' is a valid paraphrase of the gold answer 'art and self-expression', as both concepts relate to personal identity and emotional expression through creative means."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "a part of her (or her feelings/emotions)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes the bowl as a reminder of personal feelings or identity, which is semantically distinct from the gold answer's specific focus on 'art and self-expression' as a creative act or medium."
     }
   }
 }

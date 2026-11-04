@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q85",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Anthony and John end up playing during the charity event?",
+  "ground_truth_answer": "an intense Harry Potter trivia contest",
+  "evidence": [
+    "D4:8"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What did Anthony and John end up playing during the charity event?",
+    "search_results": [
+      {
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
+        "score": 0.8106994193006134,
+        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
+        "created_at": "2026-11-03T09:30:59.620007+00:00",
+        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+      },
+      {
+        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
+        "score": 0.7755717645067135,
+        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
+        "created_at": "2026-11-03T09:34:49.170106+00:00",
+        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+      },
+      {
+        "memory": "For life after basketball, John plans to use his platform to make a positive difference by starting a foundation and doing charity work to inspire others and leave a meaningful legacy.",
+        "score": 0.7268942857132374,
+        "id": "15bf69a7-82da-4b3d-8591-b0cc242ef1e1",
+        "created_at": "2026-11-03T09:15:54.769248+00:00",
+        "updated_at": "2026-11-03T09:15:54.769248+00:00"
+      },
+      {
+        "memory": "John plans to use his platform after basketball to make a positive difference and inspire others, with specific ideas including starting a foundation and doing charity work to leave a meaningful legacy.",
+        "score": 0.7173650685233682,
+        "id": "7fc76cf9-f0a4-463b-be0b-f47f82f50375",
+        "created_at": "2026-11-03T09:15:06.709750+00:00",
+        "updated_at": "2026-11-03T09:15:06.709750+00:00"
+      },
+      {
+        "memory": "John plans to use his platform after his basketball career to make a positive difference, potentially by starting a foundation and engaging in charity work to leave a meaningful legacy.",
+        "score": 0.7153417655040093,
+        "id": "c245376c-77f4-48d4-a9d2-19c027470929",
+        "created_at": "2026-11-03T09:15:20.582582+00:00",
+        "updated_at": "2026-11-03T09:15:20.582582+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game in the week preceding January 7, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.5968669859225654,
+        "id": "c1b070f9-df9c-483a-829b-25110148e8d2",
+        "created_at": "2026-11-03T09:37:55.809326+00:00",
+        "updated_at": "2026-11-03T09:37:55.809326+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on January 6, 2024, which was a total success with many attendees and raised money for charity.",
+        "score": 0.5913525986745951,
+        "id": "655cff05-852f-48b5-a447-14f19361118d",
+        "created_at": "2026-11-03T09:37:47.223081+00:00",
+        "updated_at": "2026-11-03T09:37:47.223081+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
+        "score": 0.5909403612899882,
+        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
+        "created_at": "2026-11-03T09:37:42.890488+00:00",
+        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.5899247335281698,
+        "id": "fb290661-a188-443a-90cf-c33235e3cc73",
+        "created_at": "2026-11-03T09:37:40.349172+00:00",
+        "updated_at": "2026-11-03T09:37:40.349172+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on the week of January 1, 2024, which was a total success with high attendance and raised money for charity",
+        "score": 0.5840389790940844,
+        "id": "dad32b42-9aac-4257-a16b-5d7e13f5e4e1",
+        "created_at": "2026-11-03T09:37:53.627113+00:00",
+        "updated_at": "2026-11-03T09:37:53.627113+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.5814120647487561,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.5743908285128987,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.5691235822267352,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, and expressed interest in visiting The Cliffs of Moher after his season ends.",
+        "score": 0.5580531441099658,
+        "id": "e9669069-7ac2-4fea-bb0e-65cdbb885507",
+        "created_at": "2026-11-03T09:37:37.767739+00:00",
+        "updated_at": "2026-11-03T09:37:37.767739+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
+        "score": 0.5522937191650656,
+        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
+        "created_at": "2026-11-03T09:15:54.760026+00:00",
+        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.5407934500264464,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5389388742888596,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.5156693811712005,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John shared that last season he suffered a major ankle injury requiring time off and physical therapy, which was a tough mental and physical challenge as he could not play or help his team.",
+        "score": 0.5096635781908938,
+        "id": "8457f3c1-cc4d-47c5-9cc9-e16a0d9278a8",
+        "created_at": "2026-11-03T09:27:35.176156+00:00",
+        "updated_at": "2026-11-03T09:27:35.176156+00:00"
+      },
+      {
+        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
+        "score": 0.21814656737635635,
+        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
+        "created_at": "2026-11-03T09:20:44.101606+00:00",
+        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+      }
+    ],
+    "search_latency_ms": 151.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter trivia",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Harry Potter trivia' captures the core concept of the gold answer 'an intense Harry Potter trivia contest', with the omission of 'intense' and 'contest' being acceptable under the rules for extra detail and semantic overlap."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter trivia",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Harry Potter trivia' captures the core concept of the gold answer 'an intense Harry Potter trivia contest', with the omission of 'intense' and 'contest' being acceptable under the rules for extra detail and semantic overlap."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter trivia",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Harry Potter trivia' captures the core concept of the gold answer 'an intense Harry Potter trivia contest', with the omission of 'intense' and 'contest' being acceptable under the rules for extra detail and semantic overlap."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter trivia",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Harry Potter trivia' captures the core concept of the gold answer 'an intense Harry Potter trivia contest', with the omission of 'intense' and 'contest' being acceptable under the rules for extra detail and semantic overlap."
+    }
+  }
+}

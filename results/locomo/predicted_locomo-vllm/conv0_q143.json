@@ -8,42 +8,183 @@
   "evidence": [
     "D18:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What happened to Melanie's son on their road trip?",
-    "search_results": [],
-    "search_latency_ms": 19.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.9010685695734303,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.8986641141221654,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.8713671305571348,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.8627082422094314,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.8378815189240705,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.837465037702902,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.8373228224582938,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.8373228224582938,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.8356817965066442,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.8348044126235031,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.8277181674244855,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.8241940975805029,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.8187685815875703,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "Melanie's two younger kids were scared during the car accident on the October 14-15, 2023 road trip but were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+        "score": 0.7951688014803757,
+        "id": "6ba61cbd-5530-49a7-8f1e-64f413258121",
+        "created_at": "2026-11-04T06:03:30.618266+00:00",
+        "updated_at": "2026-11-04T06:03:30.618266+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.7835343051117697,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Melanie described the car accident during her family road trip as a scary experience that served as a reminder that life is precious and to cherish her family.",
+        "score": 0.766335262274933,
+        "id": "fec6b83d-7987-41f2-9bab-e62f86456650",
+        "created_at": "2026-11-04T06:03:21.419222+00:00",
+        "updated_at": "2026-11-04T06:03:21.419222+00:00"
+      },
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.7105967504690938,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip in the forest two weeks before July 17, 2023, where she unplugged and spent time with her kids",
+        "score": 0.648075704839888,
+        "id": "1b45ab31-25c7-49fe-8299-dcd1009e1f02",
+        "created_at": "2026-11-04T05:24:37.879863+00:00",
+        "updated_at": "2026-11-04T05:24:37.879863+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.6428662725928186,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.6310517870838667,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      }
+    ],
+    "search_latency_ms": 87.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's son was involved in a car accident during their family road trip to the Grand Canyon on the weekend of October 14-15, 2023, which caused the airbags to deploy, but he was uninjured.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that Melanie's son was involved in a car accident, which matches the core fact in the gold answer, and the additional details are permissible under the rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon on the weekend of October 14-15, 2023, where the airbags deployed but he was uninjured.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie's son was involved in a car accident, which matches the core fact in the gold answer, and the additional details are permissible under the rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's son was involved in a car accident during their family road trip to the Grand Canyon on the weekend of October 14-15, 2023, where the airbags deployed, but he was uninjured.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie's son was involved in a car accident, which matches the core fact in the gold answer, and the additional details are permissible under the rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's son was involved in a car accident during their family road trip to the Grand Canyon on the weekend of October 14-15, 2023, which caused the airbags to deploy, but he was uninjured.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie's son was involved in a car accident, which matches the core fact in the gold answer, and the additional details are permissible under the rules."
     }
   }
 }

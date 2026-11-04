@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q170",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is the painting of Aragorn a reminder for John to be in everything he does?",
+  "ground_truth_answer": "be a leader",
+  "evidence": [
+    "D27:28"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is the painting of Aragorn a reminder for John to be in everything he does?",
+    "search_results": [
+      {
+        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true and be a leader in everything he does",
+        "score": 0.9480605615025851,
+        "id": "a046755f-c797-4e51-b612-7544641eadfd",
+        "created_at": "2026-11-03T09:36:57.767478+00:00",
+        "updated_at": "2026-11-03T09:36:57.767478+00:00"
+      },
+      {
+        "memory": "John has a painting of Aragorn in his room that serves as a reminder to stay true and be a leader in everything he does, inspired by the character's journey.",
+        "score": 0.9462289161340773,
+        "id": "772779eb-10c5-4b4f-8e8e-9988263a0495",
+        "created_at": "2026-11-03T09:36:43.482380+00:00",
+        "updated_at": "2026-11-03T09:36:43.482380+00:00"
+      },
+      {
+        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
+        "score": 0.9461709665054446,
+        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
+        "created_at": "2026-11-03T09:36:46.263022+00:00",
+        "updated_at": "2026-11-03T09:36:46.263022+00:00"
+      },
+      {
+        "memory": "John finds Aragorn inspiring because of his brave, selfless, and down-to-earth attitude, noting that he never gives up and always stands up for justice",
+        "score": 0.8521215474706215,
+        "id": "9f7440a0-944c-417a-a161-bd53739b501e",
+        "created_at": "2026-11-03T09:36:57.771621+00:00",
+        "updated_at": "2026-11-03T09:36:57.771621+00:00"
+      },
+      {
+        "memory": "John is inspired by Aragorn's brave, selfless, and down-to-earth attitude, admiring that he never gives up and always stands up for justice.",
+        "score": 0.8454551981678315,
+        "id": "c051fb39-e30b-48df-9bed-84f4d1cfd250",
+        "created_at": "2026-11-03T09:36:48.556372+00:00",
+        "updated_at": "2026-11-03T09:36:48.556372+00:00"
+      },
+      {
+        "memory": "John's favorite character from Lord of the Rings is Aragorn, whom he admires for being a great leader who puts others first, leading to him becoming king.",
+        "score": 0.8320455809078628,
+        "id": "e3495e51-9ed8-4f1d-82a9-86fc2652b040",
+        "created_at": "2026-11-03T09:36:46.259620+00:00",
+        "updated_at": "2026-11-03T09:36:46.259620+00:00"
+      },
+      {
+        "memory": "John's favorite character in Lord of the Rings is Aragorn, whom he admires for being a great leader who puts others first and eventually becomes king of Gondor",
+        "score": 0.8226613099781371,
+        "id": "c9a1b2cb-7066-4418-90b7-27c40d2f8449",
+        "created_at": "2026-11-03T09:36:57.763560+00:00",
+        "updated_at": "2026-11-03T09:36:57.763560+00:00"
+      },
+      {
+        "memory": "Tim finds Aragorn's story in Lord of the Rings inspiring, specifically admiring his growth from a ranger to king of Gondor and his journey of redemption.",
+        "score": 0.8158624153417613,
+        "id": "90718d35-3a06-4618-b570-bd7047e6e70c",
+        "created_at": "2026-11-03T09:36:41.257446+00:00",
+        "updated_at": "2026-11-03T09:36:41.257446+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
+        "score": 0.7129176756638653,
+        "id": "59d710c3-bbeb-4cba-b82e-a3af44907bea",
+        "created_at": "2026-11-03T09:20:44.094230+00:00",
+        "updated_at": "2026-11-03T09:20:44.094230+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
+        "score": 0.7121542002422154,
+        "id": "f912f982-e28b-4b6d-a879-6595597039c8",
+        "created_at": "2026-11-03T09:20:12.772496+00:00",
+        "updated_at": "2026-11-03T09:20:12.772496+00:00"
+      },
+      {
+        "memory": "John has watched the Lord of the Rings movies multiple times and finds them inspiring, with Aragorn being his favorite character due to his significant growth throughout the story.",
+        "score": 0.6561732045984814,
+        "id": "9f9efddc-8467-4933-bb70-3829433ce5aa",
+        "created_at": "2026-11-03T09:36:35.308751+00:00",
+        "updated_at": "2026-11-03T09:36:35.308751+00:00"
+      },
+      {
+        "memory": "John is a huge fan of Lord of the Rings, praising its adventure, world-building, and characters as awesome.",
+        "score": 0.24099299469124488,
+        "id": "dbe4b6d6-9246-4a25-af03-be2e9695ec02",
+        "created_at": "2026-11-03T09:36:31.115238+00:00",
+        "updated_at": "2026-11-03T09:36:31.115238+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.23141318294123853,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
+        "score": 0.22664382307025396,
+        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
+        "created_at": "2026-11-03T09:20:44.106791+00:00",
+        "updated_at": "2026-11-03T09:20:44.106791+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.22637621521913198,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.2006207529738553,
+        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
+        "created_at": "2026-11-03T09:23:09.548575+00:00",
+        "updated_at": "2026-11-03T09:23:09.548575+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.2006207529738553,
+        "id": "cfab7623-73b0-4b8e-9804-724ccc2b0c35",
+        "created_at": "2026-11-03T09:23:22.658071+00:00",
+        "updated_at": "2026-11-03T09:23:22.658071+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' in the past and found it changed his perspective on his goals, appreciating that it had a similar impact on John.",
+        "score": 0.1958651682719031,
+        "id": "3471e90d-e3e1-489e-9c0d-cc68493fb334",
+        "created_at": "2026-11-03T09:28:43.317822+00:00",
+        "updated_at": "2026-11-03T09:28:43.317822+00:00"
+      },
+      {
+        "memory": "John is fascinated by learning about different cultures and seeing historical architecture, and has visiting castles on his bucket list.",
+        "score": 0.1941076664579158,
+        "id": "839fb014-c76d-4df3-a119-bdc907fd0587",
+        "created_at": "2026-11-03T09:19:32.522444+00:00",
+        "updated_at": "2026-11-03T09:19:32.522444+00:00"
+      },
+      {
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.1937477437140009,
+        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
+        "created_at": "2026-11-03T09:29:57.860185+00:00",
+        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+      }
+    ],
+    "search_latency_ms": 173.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a leader",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'a leader' is a direct paraphrase of the gold answer 'be a leader' and captures the exact same core concept."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a leader",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a leader' is a direct paraphrase of the gold answer 'be a leader' and captures the exact same core concept."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a leader",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a leader' is a direct paraphrase of the gold answer 'be a leader' and captures the exact same core concept."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a leader",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'a leader' is a direct paraphrase of the gold answer 'be a leader' and captures the exact same core concept."
+    }
+  }
+}

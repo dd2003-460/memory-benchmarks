@@ -8,42 +8,183 @@
   "evidence": [
     "D15:28"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Which  classical musicians does Melanie enjoy listening to?",
-    "search_results": [],
-    "search_latency_ms": 19.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.9156488296168979,
+        "id": "f4594a72-b177-4b49-8a71-ed00e240a1c5",
+        "created_at": "2026-11-04T06:01:24.084440+00:00",
+        "updated_at": "2026-11-04T06:01:24.084440+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.9156488296168979,
+        "id": "34761b16-905d-430b-8bdb-462ead090baa",
+        "created_at": "2026-11-04T06:01:16.477842+00:00",
+        "updated_at": "2026-11-04T06:01:16.477842+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music by Bach and Mozart and modern music such as Ed Sheeran's 'Perfect'.",
+        "score": 0.9049085168760831,
+        "id": "d7121940-9087-42fd-ae69-0471acc37385",
+        "created_at": "2026-11-04T06:01:32.082989+00:00",
+        "updated_at": "2026-11-04T06:01:32.082989+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, specifically Bach and Mozart, and modern music, citing Ed Sheeran's 'Perfect' as a favorite.",
+        "score": 0.9018223881616818,
+        "id": "8f943cc8-07ce-4e9b-8c52-80a4fff9b737",
+        "created_at": "2026-11-04T06:01:11.028885+00:00",
+        "updated_at": "2026-11-04T06:01:11.028885+00:00"
+      },
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.6333103987223987,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, joy, and warm summer breeze while watching her kids' smiles.",
+        "score": 0.5914579944647442,
+        "id": "b5289aa3-85f6-42af-82bd-ef0c538bc2ed",
+        "created_at": "2026-11-04T05:53:29.962869+00:00",
+        "updated_at": "2026-11-04T05:53:29.962869+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, warm summer breeze, and seeing her kids' smiles.",
+        "score": 0.587439948634838,
+        "id": "e6e48141-71b9-4544-b67d-a6b2b18dbf96",
+        "created_at": "2026-11-04T05:53:34.129883+00:00",
+        "updated_at": "2026-11-04T05:53:34.129883+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family, valuing the peaceful bonding over stories, campfires, and nature, which she finds refreshing for her soul.",
+        "score": 0.5680939523725882,
+        "id": "4e133138-b91f-46f3-baab-aa057460cfe5",
+        "created_at": "2026-11-04T06:04:27.144866+00:00",
+        "updated_at": "2026-11-04T06:04:27.144866+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family because they allow for bonding over stories and campfires, and she finds waking up to birdsong and fresh air refreshing and peaceful.",
+        "score": 0.5678739708414265,
+        "id": "32116ffc-62f1-4f32-93b8-5fbe9299d18d",
+        "created_at": "2026-11-04T06:04:19.394070+00:00",
+        "updated_at": "2026-11-04T06:04:19.394070+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.5565155665142687,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting nature-inspired artwork with her children, including a recent piece from July 8-9, 2023 featuring a sunset with a palm tree.",
+        "score": 0.5538125471792399,
+        "id": "2cf8bc8f-139b-416a-9875-e1097288fd3d",
+        "created_at": "2026-11-04T05:23:30.968905+00:00",
+        "updated_at": "2026-11-04T05:23:30.968905+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.5535159578323301,
+        "id": "052f10c6-bafa-4336-964d-7bdf40e8e226",
+        "created_at": "2026-11-04T05:24:40.727420+00:00",
+        "updated_at": "2026-11-04T05:24:40.727420+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.5535159578323301,
+        "id": "cafdf2d8-58c0-42ff-8d83-58bf7a9393d4",
+        "created_at": "2026-11-04T05:24:43.454502+00:00",
+        "updated_at": "2026-11-04T05:24:43.454502+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.5535159578323301,
+        "id": "45eb6b64-6042-440a-b359-56b1245c66a1",
+        "created_at": "2026-11-04T05:24:23.379996+00:00",
+        "updated_at": "2026-11-04T05:24:23.379996+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and finds it a great way to express herself and relax.",
+        "score": 0.4358277454436041,
+        "id": "78e02b1c-74d3-494e-8105-76dc0593046c",
+        "created_at": "2026-11-04T06:01:06.987358+00:00",
+        "updated_at": "2026-11-04T06:01:06.987358+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and views it as an expression of herself and a way to relax.",
+        "score": 0.42899936571344216,
+        "id": "6b8f43fa-2585-4f95-9a9a-5091bb34a7dd",
+        "created_at": "2026-11-04T06:01:32.080520+00:00",
+        "updated_at": "2026-11-04T06:01:32.080520+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.4233691621642709,
+        "id": "ef203662-42e9-47ba-a3d1-870233c08650",
+        "created_at": "2026-11-04T06:01:16.474494+00:00",
+        "updated_at": "2026-11-04T06:01:16.474494+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.4233691621642709,
+        "id": "4681353b-8104-4aeb-8191-e756fd6eb7b1",
+        "created_at": "2026-11-04T06:01:24.081119+00:00",
+        "updated_at": "2026-11-04T06:01:24.081119+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.31776653489105644,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show featuring the band 'Summer Sounds' playing pop songs, which she found fun and lively, noting how music brings people together.",
+        "score": 0.23327382189252838,
+        "id": "3cb0c25f-80f5-466f-9d41-33982c2504e0",
+        "created_at": "2026-11-04T06:00:51.702321+00:00",
+        "updated_at": "2026-11-04T06:00:51.702321+00:00"
+      }
+    ],
+    "search_latency_ms": 115.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Bach and Mozart",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Bach and Mozart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Bach and Mozart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Bach and Mozart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     }
   }
 }

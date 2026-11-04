@@ -8,42 +8,183 @@
   "evidence": [
     "D15:23"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Which song motivates Caroline to be courageous?",
-    "search_results": [],
-    "search_latency_ms": 18.3,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.8415437226857015,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "The song 'Brave' by Sara Bareilles has deep significance for Caroline, representing courage and fighting for what is right; she reflects on her personal progress whenever she hears it.",
+        "score": 0.7188259848142766,
+        "id": "6e58dbf9-2155-4dcb-b3d7-f548d66cd034",
+        "created_at": "2026-11-04T06:01:16.471079+00:00",
+        "updated_at": "2026-11-04T06:01:16.471079+00:00"
+      },
+      {
+        "memory": "Caroline finds the song 'Brave' by Sara Bareilles deeply significant, associating it with being courageous and fighting for what is right, and reflects on her personal progress and paths taken whenever she hears it.",
+        "score": 0.7149810008069515,
+        "id": "d4367c2b-2554-4999-915a-170345f5de16",
+        "created_at": "2026-11-04T06:01:00.535380+00:00",
+        "updated_at": "2026-11-04T06:01:00.535380+00:00"
+      },
+      {
+        "memory": "Caroline found the courage to transition and expressed that being able to express herself authentically without fear is freeing and inspiring.",
+        "score": 0.6806780688076495,
+        "id": "fec75523-9d33-4248-a1bc-fdd922323bb1",
+        "created_at": "2026-11-04T05:24:10.248473+00:00",
+        "updated_at": "2026-11-04T05:24:10.248473+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pass on the same support and love she received from her community to others, viewing this journey as a gift that allows her to help others with their own experiences.",
+        "score": 0.6723347052142782,
+        "id": "0b13f3bc-c62a-47e1-8a19-d1a37304765b",
+        "created_at": "2026-11-04T06:04:38.591426+00:00",
+        "updated_at": "2026-11-04T06:04:38.591426+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6566754758638942,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline stated on June 9, 2023, that her friends, family, and mentors are her 'rocks' who motivate her and give her the strength to push on.",
+        "score": 0.6563794035236978,
+        "id": "72109b21-7872-4b57-a176-e916e80f8c07",
+        "created_at": "2026-11-04T05:16:41.987606+00:00",
+        "updated_at": "2026-11-04T05:16:41.987606+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6545630203284099,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "The experience at the pride parade motivated Caroline to use her personal story to help others, reinforcing her commitment to a career in counseling and mental health.",
+        "score": 0.6443633332250113,
+        "id": "99a3ad8c-feb2-4d40-a185-5615db37c82e",
+        "created_at": "2026-11-04T05:18:59.471361+00:00",
+        "updated_at": "2026-11-04T05:18:59.471361+00:00"
+      },
+      {
+        "memory": "Caroline found self-acceptance to be a long process but credits friends, family, and role models for helping her through tough times and discovering her true identity, which motivates her to pass that same support to others.",
+        "score": 0.6418020721666063,
+        "id": "d498e604-9698-4818-9173-f0c14c0e2bfd",
+        "created_at": "2026-11-04T06:04:44.974576+00:00",
+        "updated_at": "2026-11-04T06:04:44.974576+00:00"
+      },
+      {
+        "memory": "The pride parade experience motivated Caroline to use her personal story to help others, reinforcing her goal to pursue counseling and mental health work to give back to the community.",
+        "score": 0.6350636758647539,
+        "id": "5956815d-902b-456f-aadb-e0e17c885c74",
+        "created_at": "2026-11-04T05:20:30.802813+00:00",
+        "updated_at": "2026-11-04T05:20:30.802813+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling and mental health, motivated by her own past struggles with mental health and the supportive help she received, which inspired her to assist others on their journeys.",
+        "score": 0.6336600553577909,
+        "id": "50c53ca2-beca-4e97-a180-a74c626ea224",
+        "created_at": "2026-11-04T05:22:31.893408+00:00",
+        "updated_at": "2026-11-04T05:22:31.893408+00:00"
+      },
+      {
+        "memory": "Caroline is inspired by seeing her art make a difference for the LGBTQ+ community and feels thankful for the support of her friends, family, and mentors, which motivates her to continue creating art.",
+        "score": 0.63277113961248,
+        "id": "19ec5367-90ab-43da-9234-6a89159c73f0",
+        "created_at": "2026-11-04T06:01:24.077198+00:00",
+        "updated_at": "2026-11-04T06:01:24.077198+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books, describing them as guides that motivate her and help her discover who she is, and considers them a huge part of her personal journey.",
+        "score": 0.6317052329094188,
+        "id": "b9f79b1b-4c66-4c9a-83ec-f0d276e42298",
+        "created_at": "2026-11-04T05:22:37.040877+00:00",
+        "updated_at": "2026-11-04T05:22:37.040877+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health in the past and found that the support she received was highly helpful, which motivated her to pursue a career in counseling and mental health to help others on their own journeys.",
+        "score": 0.6276475208275688,
+        "id": "f7358440-b78e-4cda-9e09-d841bcfc7481",
+        "created_at": "2026-11-04T05:22:37.037867+00:00",
+        "updated_at": "2026-11-04T05:22:37.037867+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6273497822765528,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline is actively looking into counseling and mental health job opportunities, motivated by her own past struggles with mental health and the helpful support she received, which inspired her to help others on their journeys.",
+        "score": 0.6261064845912833,
+        "id": "af342220-e053-454e-8579-f16f4015bf72",
+        "created_at": "2026-11-04T05:22:21.038634+00:00",
+        "updated_at": "2026-11-04T05:22:21.038634+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to help make a difference in LGBTQ rights and community support, driven by her own struggles with mental health and the helpful support she received during her transition",
+        "score": 0.6247359887931002,
+        "id": "beee75a6-6ab1-4287-9c39-bdcb45eb7645",
+        "created_at": "2026-11-04T05:22:16.334444+00:00",
+        "updated_at": "2026-11-04T05:22:16.334444+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.6245215383671059,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ+ pride parade motivated Caroline to use her personal story to help others, reinforcing her decision to pursue a career in counseling and mental health.",
+        "score": 0.6213942281114895,
+        "id": "dad7653b-c031-4a1d-94c1-bd1fef6d563c",
+        "created_at": "2026-11-04T05:19:54.435441+00:00",
+        "updated_at": "2026-11-04T05:19:54.435441+00:00"
+      }
+    ],
+    "search_latency_ms": 105.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Brave by Sara Bareilles",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "'Brave' by Sara Bareilles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly in terms of the song title and artist."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "'Brave' by Sara Bareilles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly in terms of the song title and artist."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "'Brave' by Sara Bareilles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly in terms of the song title and artist."
     }
   }
 }

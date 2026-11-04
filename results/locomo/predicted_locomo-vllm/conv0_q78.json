@@ -9,42 +9,183 @@
     "D19:2",
     "D7:18"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What items has Melanie bought?",
-    "search_results": [],
-    "search_latency_ms": 24.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie bought painted ceramic family figurines on October 21, 2023, which she associates with family love and shared with Caroline during their conversation.",
+        "score": 0.6445858360447514,
+        "id": "43285170-65ed-4768-ac57-1f4ad92de7e6",
+        "created_at": "2026-11-04T06:04:29.752023+00:00",
+        "updated_at": "2026-11-04T06:04:29.752023+00:00"
+      },
+      {
+        "memory": "Melanie bought painted ceramic family figurines on October 21, 2023, which she says remind her of family love, and shared a photo of wooden dolls sitting on a table with Caroline.",
+        "score": 0.6306926141113502,
+        "id": "4c411c70-878a-4025-befd-c62014e37662",
+        "created_at": "2026-11-04T06:04:14.275896+00:00",
+        "updated_at": "2026-11-04T06:04:14.275896+00:00"
+      },
+      {
+        "memory": "Melanie bought painted ceramic family figurines on October 21, 2023, which remind her of family love.",
+        "score": 0.6279717048669365,
+        "id": "66c15d2f-3f1c-42d1-abdf-a3e990c1187e",
+        "created_at": "2026-11-04T06:04:19.397309+00:00",
+        "updated_at": "2026-11-04T06:04:19.397309+00:00"
+      },
+      {
+        "memory": "Melanie bought painted ceramic family figurines on October 21, 2023, which remind her of family love.",
+        "score": 0.6279717048669365,
+        "id": "ed2d1fd3-8d77-4771-8791-a4787edf4996",
+        "created_at": "2026-11-04T06:04:27.147971+00:00",
+        "updated_at": "2026-11-04T06:04:27.147971+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5132830567395954,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.5107855660256726,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5101683748947836,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.5082303742286969,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5061549012352786,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.5033459117167276,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5018691200803593,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5005771603159147,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.4977717720114092,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased a new pair of shoes, which she shared with Caroline on July 12, 2023.",
+        "score": 0.4923256125236047,
+        "id": "75db6151-2455-4179-bfce-2d431c729a4c",
+        "created_at": "2026-11-04T05:22:41.848895+00:00",
+        "updated_at": "2026-11-04T05:22:41.848895+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.4796523853705968,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the household.",
+        "score": 0.47815383404447126,
+        "id": "0de7cb21-3d21-4613-b41c-4067d0329c66",
+        "created_at": "2026-11-04T05:22:56.201905+00:00",
+        "updated_at": "2026-11-04T05:22:56.201905+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, who are described as sweet, playful, and brighten up the household.",
+        "score": 0.47568584106605066,
+        "id": "afdd692f-dccd-4157-a43f-a1be52ba862e",
+        "created_at": "2026-11-04T05:23:00.635168+00:00",
+        "updated_at": "2026-11-04T05:23:00.635168+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new shoes that are purple in color, which she shared with Caroline on July 12, 2023.",
+        "score": 0.47480436339573606,
+        "id": "5dad8f03-671d-4f98-be68-99750c42a087",
+        "created_at": "2026-11-04T05:22:44.153732+00:00",
+        "updated_at": "2026-11-04T05:22:44.153732+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.46047000718067654,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Melanie completed another pottery project around August 17, 2023, and offered to share a photo with Caroline.",
+        "score": 0.4600547845478723,
+        "id": "cb2caee6-ffd0-477d-89bf-327e63c0cd17",
+        "created_at": "2026-11-04T05:54:18.452876+00:00",
+        "updated_at": "2026-11-04T05:54:18.452876+00:00"
+      }
+    ],
+    "search_latency_ms": 102.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "painted ceramic family figurines",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'figurines', which is one of the items listed in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A pair of purple shoes and painted ceramic family figurines",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both 'shoes' and 'figurines', which are the exact items listed in the gold answer, with additional descriptive details that are permitted."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A pair of purple shoes and painted ceramic family figurines",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both 'shoes' and 'figurines', which are the exact items listed in the gold answer, with additional descriptive details that are permitted."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a pair of purple shoes and painted ceramic family figurines",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both 'shoes' and 'figurines', which are the exact items listed in the gold answer, with additional descriptive details that are permitted."
     }
   }
 }

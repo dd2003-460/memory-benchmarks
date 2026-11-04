@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q125",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What J.K. Rowling quote does Tim resonate with?",
+  "ground_truth_answer": "\"Turn on the light - happiness hides in the darkest of times.\"",
+  "evidence": [
+    "D15:11"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What J.K. Rowling quote does Tim resonate with?",
+    "search_results": [
+      {
+        "memory": "Tim's favorite J.K. Rowling quote is \"Turn on the light - happiness hides in the darkest of times,\" which he uses to keep hope alive during tough periods.",
+        "score": 0.8932558275799913,
+        "id": "2b0477e7-9441-4201-b7e0-8ebe7f313efb",
+        "created_at": "2026-11-03T09:19:58.823271+00:00",
+        "updated_at": "2026-11-03T09:19:58.823271+00:00"
+      },
+      {
+        "memory": "J.K. Rowling is Tim's favorite inspiring author; he admires her captivating detail and creative storytelling, and takes notes on her style to improve his own writing.",
+        "score": 0.8902532344397465,
+        "id": "05e0bb7d-f639-41fb-9e4c-fcf9823579f7",
+        "created_at": "2026-11-03T09:19:51.806293+00:00",
+        "updated_at": "2026-11-03T09:19:51.806293+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
+        "score": 0.8819584223088673,
+        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
+        "created_at": "2026-11-03T09:20:07.698691+00:00",
+        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+      },
+      {
+        "memory": "Tim cites J.K. Rowling as a particularly inspiring writer, admiring her captivating detail and creative storytelling that transports readers into another world, and he actively takes notes on her writing style to apply to his own work.",
+        "score": 0.8776896694368002,
+        "id": "23cb64e6-e103-4adc-90b7-8f110b13ee1b",
+        "created_at": "2026-11-03T09:19:47.267909+00:00",
+        "updated_at": "2026-11-03T09:19:47.267909+00:00"
+      },
+      {
+        "memory": "Tim cites J.K. Rowling as a major source of inspiration, admiring her detailed creative storytelling and ability to transport readers into another world, and he takes notes on her writing style for his own work.",
+        "score": 0.863979782108079,
+        "id": "ccb4710c-f5d2-4d63-8371-b962be7825d1",
+        "created_at": "2026-11-03T09:20:07.694754+00:00",
+        "updated_at": "2026-11-03T09:20:07.694754+00:00"
+      },
+      {
+        "memory": "Tim's favorite quote by J.K. Rowling is 'Turn on the light - happiness hides in the darkest of times,' which he uses to keep hope alive during tough periods.",
+        "score": 0.8352285865280125,
+        "id": "3c919503-a4ce-4074-903d-e6dd35b5a451",
+        "created_at": "2026-11-03T09:20:07.702107+00:00",
+        "updated_at": "2026-11-03T09:20:07.702107+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' a while back and found that it changed his perspective on his goals, resonating with the book's themes of following dreams.",
+        "score": 0.5702122892718593,
+        "id": "97d5012d-a9fb-4ab7-8e53-93074ece9272",
+        "created_at": "2026-11-03T09:28:25.578933+00:00",
+        "updated_at": "2026-11-03T09:28:25.578933+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.4011135204458977,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
+        "score": 0.3878701255646756,
+        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
+        "created_at": "2026-11-03T09:27:54.274107+00:00",
+        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+      },
+      {
+        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point in their friendship.",
+        "score": 0.3441530045995341,
+        "id": "b346756a-cefa-43be-a920-d556c2ea57c1",
+        "created_at": "2026-11-03T09:29:21.159362+00:00",
+        "updated_at": "2026-11-03T09:29:21.159362+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a series about the power of friendship and loyalty, which he finds inspiring.",
+        "score": 0.33038077365999513,
+        "id": "dcac3d99-070b-41a0-af7f-ae3892b18160",
+        "created_at": "2026-11-03T09:31:36.062431+00:00",
+        "updated_at": "2026-11-03T09:31:36.062431+00:00"
+      },
+      {
+        "memory": "Tim states that he will always love reading, identifying it as a lifelong passion.",
+        "score": 0.3303339688584044,
+        "id": "a90184f9-79a2-42bb-ac05-77e9b6292f49",
+        "created_at": "2026-11-03T09:36:18.492247+00:00",
+        "updated_at": "2026-11-03T09:36:18.492247+00:00"
+      },
+      {
+        "memory": "Tim finds motivation to push himself to get better by remembering his love for writing and reading when things get tough.",
+        "score": 0.32791526194613196,
+        "id": "00b1ce5d-942d-49a7-a45e-1f99a8eaf246",
+        "created_at": "2026-11-03T09:27:28.119127+00:00",
+        "updated_at": "2026-11-03T09:27:28.119127+00:00"
+      },
+      {
+        "memory": "Tim stated that he will always love reading, expressing a lifelong commitment to the activity.",
+        "score": 0.3215689131841545,
+        "id": "c63dd8f7-2ef8-40b5-98f4-782183186092",
+        "created_at": "2026-11-03T09:36:15.562605+00:00",
+        "updated_at": "2026-11-03T09:36:15.562605+00:00"
+      },
+      {
+        "memory": "Tim finds peace in reading fantasy books, a hobby that helps with his home life and overall well-being.",
+        "score": 0.31759477756240184,
+        "id": "eff7df14-e1a0-479d-a109-abd5604a5f9c",
+        "created_at": "2026-11-03T09:00:39.091789+00:00",
+        "updated_at": "2026-11-03T09:00:39.091789+00:00"
+      },
+      {
+        "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
+        "score": 0.316650012515434,
+        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
+        "created_at": "2026-11-03T09:09:50.772054+00:00",
+        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly changed the way he approaches things.",
+        "score": 0.31269092229914114,
+        "id": "0b275fbd-f37c-4776-9018-b70243591249",
+        "created_at": "2026-11-03T09:28:21.006943+00:00",
+        "updated_at": "2026-11-03T09:28:21.006943+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly impacted him and changed the way he does things.",
+        "score": 0.3103254606653341,
+        "id": "1f84a7e5-8fcd-43aa-9f6a-f10cf78b6636",
+        "created_at": "2026-11-03T09:28:14.920410+00:00",
+        "updated_at": "2026-11-03T09:28:14.920410+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly changed his approach to doing things.",
+        "score": 0.308986778554906,
+        "id": "4835b558-d3eb-4bdc-88e9-2e4872dcd1bc",
+        "created_at": "2026-11-03T09:28:43.315373+00:00",
+        "updated_at": "2026-11-03T09:28:43.315373+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK which blew him away, and he dreams of visiting them one day.",
+        "score": 0.3061274561203307,
+        "id": "531ac964-a2a1-4ecf-9f3d-b25c92e2ac0a",
+        "created_at": "2026-11-03T09:19:51.809297+00:00",
+        "updated_at": "2026-11-03T09:19:51.809297+00:00"
+      }
+    ],
+    "search_latency_ms": 106.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "\"Turn on the light - happiness hides in the darkest of times\"",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "\"Turn on the light - happiness hides in the darkest of times\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "\"Turn on the light - happiness hides in the darkest of times\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "\"Turn on the light - happiness hides in the darkest of times\"",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

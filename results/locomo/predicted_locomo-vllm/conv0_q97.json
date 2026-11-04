@@ -8,42 +8,183 @@
   "evidence": [
     "D4:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What workshop did Caroline attend recently?",
-    "search_results": [],
-    "search_latency_ms": 22.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 30, 2023, which she found enlightening as it covered various therapeutic methods for supporting the community.",
+        "score": 0.6734362603534448,
+        "id": "dcb1eb24-2a06-4162-b4e9-170791dd92da",
+        "created_at": "2026-11-04T05:18:59.459913+00:00",
+        "updated_at": "2026-11-04T05:18:59.459913+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered various therapeutic methods for supporting the community.",
+        "score": 0.6727630219972498,
+        "id": "87f8fb76-e4ac-4102-806a-025a6332f01c",
+        "created_at": "2026-11-04T05:18:46.224165+00:00",
+        "updated_at": "2026-11-04T05:18:46.224165+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered therapeutic methods for working with trans people and the importance of creating safe spaces.",
+        "score": 0.6690397065766593,
+        "id": "8e24e8e3-4efa-4983-bfc4-1fc4f02e414e",
+        "created_at": "2026-11-04T05:18:23.674079+00:00",
+        "updated_at": "2026-11-04T05:18:23.674079+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who is attending a transgender conference in July 2023 to meet community members and learn more about advocacy.",
+        "score": 0.6675901186651252,
+        "id": "caf5d965-da5d-433b-bd42-76bd1c56e28c",
+        "created_at": "2026-11-04T05:21:27.860694+00:00",
+        "updated_at": "2026-11-04T05:21:27.860694+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which was enlightening as it covered different therapeutic methods for supporting trans people.",
+        "score": 0.6641946351850884,
+        "id": "a55f6f99-3c13-41da-bc90-971bb277c42d",
+        "created_at": "2026-11-04T05:18:35.286502+00:00",
+        "updated_at": "2026-11-04T05:18:35.286502+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered different therapeutic methods for supporting the community",
+        "score": 0.6615456531522981,
+        "id": "b97974f1-b1d9-4eb1-a62a-3ac9047939aa",
+        "created_at": "2026-11-04T05:18:40.784379+00:00",
+        "updated_at": "2026-11-04T05:18:40.784379+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community.",
+        "score": 0.6486544403210803,
+        "id": "6013bc8d-f76a-40bf-b7f2-21af118ed4f8",
+        "created_at": "2026-11-04T05:22:11.270617+00:00",
+        "updated_at": "2026-11-04T05:22:11.270617+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have similar journeys and felt totally accepted in a welcoming environment.",
+        "score": 0.64851408797243,
+        "id": "cdd4851d-b480-4021-8feb-7f7e6460706c",
+        "created_at": "2026-11-04T05:22:00.056793+00:00",
+        "updated_at": "2026-11-04T05:22:00.056793+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt welcomed and accepted in the environment",
+        "score": 0.646194672421094,
+        "id": "7b970cfb-db33-4fbf-8d2b-2f4d91a96cd7",
+        "created_at": "2026-11-04T05:22:16.330244+00:00",
+        "updated_at": "2026-11-04T05:22:16.330244+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.6438575849706958,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community support.",
+        "score": 0.6438052904839835,
+        "id": "02834b4a-5317-429b-b676-9747d05e425c",
+        "created_at": "2026-11-04T05:22:21.030823+00:00",
+        "updated_at": "2026-11-04T05:22:21.030823+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other people in the community and learn more about advocacy.",
+        "score": 0.6424633874733089,
+        "id": "8b49f212-c3a0-4206-8574-377bbdf0ea7f",
+        "created_at": "2026-11-04T05:21:14.108377+00:00",
+        "updated_at": "2026-11-04T05:21:14.108377+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other community members and learn more about advocacy.",
+        "score": 0.6403578225640042,
+        "id": "ba9cb83a-6446-4551-ac76-6ee525753eb5",
+        "created_at": "2026-11-04T05:21:30.163002+00:00",
+        "updated_at": "2026-11-04T05:21:30.163002+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other people in the community and learn more about advocacy.",
+        "score": 0.6401118844345732,
+        "id": "e4143211-9fcd-46fe-860f-a8b2ef07e7df",
+        "created_at": "2026-11-04T05:20:55.919808+00:00",
+        "updated_at": "2026-11-04T05:20:55.919808+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other community members and learn more about advocacy, expressing excitement about the experience.",
+        "score": 0.6391708613533493,
+        "id": "f3331d60-9e49-44d8-97ca-b2f10cae7406",
+        "created_at": "2026-11-04T05:21:33.026517+00:00",
+        "updated_at": "2026-11-04T05:21:33.026517+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, describing it as awesome and encouraging due to the love and acceptance present.",
+        "score": 0.633604908244256,
+        "id": "8359da61-69f1-4faa-a278-16d10a94b56c",
+        "created_at": "2026-11-04T05:24:56.204570+00:00",
+        "updated_at": "2026-11-04T05:24:56.204570+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.6287433431294784,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, and found the experience really powerful.",
+        "score": 0.6282457362899573,
+        "id": "1e71240d-9bf4-44fe-bc20-b75828d38a38",
+        "created_at": "2026-11-04T06:02:48.621085+00:00",
+        "updated_at": "2026-11-04T06:02:48.621085+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.6281711030341832,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.4065711086085447,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      }
+    ],
+    "search_latency_ms": 104.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "LGBTQ+ counseling workshop",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "LGBTQ+ counseling workshop",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "LGBTQ+ counseling workshop",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "LGBTQ+ counseling workshop",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     }
   }
 }

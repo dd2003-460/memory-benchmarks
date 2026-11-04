@@ -154,37 +154,37 @@
         "updated_at": "2026-11-03T09:17:34.447929+00:00"
       }
     ],
-    "search_latency_ms": 100.4,
+    "search_latency_ms": 116.4,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
+      "generated_answer": "The provided memories do not contain any information about a person named Anthony. They focus on John, a professional basketball player, and Tim, a fan of LeBron James.",
       "memories_evaluated": 10,
-      "reason": ""
+      "reason": "The generated answer explicitly states that there is no information about Anthony, whereas the gold answer identifies Anthony as likely John's friend, colleague, or family, meaning the generated answer contains zero correct items from the gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
+      "generated_answer": "The provided memories do not contain information about a person named Anthony. They describe John, a professional basketball player who values teamwork and fitness, and Tim, a fan of LeBron James who owns a signed basketball.",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer explicitly states that there is no information about Anthony, whereas the gold answer identifies Anthony as likely John's friend, colleague, or family, meaning the generated answer contains zero correct items from the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
+      "generated_answer": "The provided memories do not contain information about a person named Anthony. They describe John, a professional basketball player who values teamwork and fitness, and Tim, a fan of LeBron James who owns a signed basketball.",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer explicitly states that there is no information about Anthony, whereas the gold answer identifies Anthony as likely John's friend, colleague, or family, meaning the generated answer contains zero correct items from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
+      "generated_answer": "The provided memories do not contain information about a person named Anthony. They describe John, a professional basketball player who values teamwork and fitness, and Tim, a fan of LeBron James who owns a signed basketball.",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer explicitly states that there is no information about Anthony, whereas the gold answer identifies Anthony as likely John's friend, colleague, or family, meaning the generated answer contains zero correct items from the gold answer."
     }
   }
 }

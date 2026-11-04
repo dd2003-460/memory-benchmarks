@@ -8,42 +8,183 @@
   "evidence": [
     "D13:4"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What pets does Melanie have?",
-    "search_results": [],
-    "search_latency_ms": 14.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie has two pets named Luna (a dog) and Oliver (a cat), which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.7115817741822524,
+        "id": "7086b6bc-63b3-4686-8744-d1738b654f50",
+        "created_at": "2026-11-04T05:22:49.559894+00:00",
+        "updated_at": "2026-11-04T05:22:49.559894+00:00"
+      },
+      {
+        "memory": "Melanie has a third pet, a cat named Bailey, in addition to her dog Luna and cat Oliver.",
+        "score": 0.700037416208255,
+        "id": "d80b1434-5b98-46ef-b514-ef07a2fc64fe",
+        "created_at": "2026-11-04T05:55:39.034918+00:00",
+        "updated_at": "2026-11-04T05:55:39.034918+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, has two pets: a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.6934838451070884,
+        "id": "2e5c112f-ebea-49b8-8b2b-646d1cb6ea2e",
+        "created_at": "2026-11-04T05:22:44.149606+00:00",
+        "updated_at": "2026-11-04T05:22:44.149606+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the household.",
+        "score": 0.5788573009262314,
+        "id": "0de7cb21-3d21-4613-b41c-4067d0329c66",
+        "created_at": "2026-11-04T05:22:56.201905+00:00",
+        "updated_at": "2026-11-04T05:22:56.201905+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, who are described as sweet, playful, and brighten up the household.",
+        "score": 0.5767008210730115,
+        "id": "afdd692f-dccd-4157-a43f-a1be52ba862e",
+        "created_at": "2026-11-04T05:23:00.635168+00:00",
+        "updated_at": "2026-11-04T05:23:00.635168+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.5708292694523182,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie's dog Oliver once hid his bone in her slipper, and Melanie also enjoyed feeding a horse a carrot during a recent experience.",
+        "score": 0.5602653047420426,
+        "id": "e0cc23a8-3865-4014-acd4-376847df8a90",
+        "created_at": "2026-11-04T05:56:01.204420+00:00",
+        "updated_at": "2026-11-04T05:56:01.204420+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5593781093869887,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's dog is named Luna and her cat is named Oliver, whom she describes as sweet, playful, and lively in the house.",
+        "score": 0.551055371297916,
+        "id": "86acc903-cad9-485c-af32-18f08256b17e",
+        "created_at": "2026-11-04T05:22:41.842459+00:00",
+        "updated_at": "2026-11-04T05:22:41.842459+00:00"
+      },
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, and Melanie also enjoyed feeding a horse a carrot during a recent experience",
+        "score": 0.5506934127137522,
+        "id": "4e5e5c4f-67b1-43aa-9144-98b11eec853d",
+        "created_at": "2026-11-04T05:56:24.909475+00:00",
+        "updated_at": "2026-11-04T05:56:24.909475+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5423761362572482,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5422710428838934,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Oliver, who once hid his bone in her slipper, and also has another cat named Bailey.",
+        "score": 0.5422473061430961,
+        "id": "ed8a6914-cf7a-4cef-a270-f25de9bff4c4",
+        "created_at": "2026-11-04T05:56:39.733034+00:00",
+        "updated_at": "2026-11-04T05:56:39.733034+00:00"
+      },
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, and Melanie also recalled feeding a horse a carrot as a funny experience, sharing a photo of the horse on August 23, 2023.",
+        "score": 0.5363619733334426,
+        "id": "7aef275c-ec3c-4027-804c-d28032a42edc",
+        "created_at": "2026-11-04T05:55:53.943220+00:00",
+        "updated_at": "2026-11-04T05:55:53.943220+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5325230191823876,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.5297410767556074,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.5260550337592843,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.524679634703055,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5245494590605237,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5235669668437976,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      }
+    ],
+    "search_latency_ms": 106.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has a dog named Luna and two cats named Oliver and Bailey.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that Melanie has two cats and a dog, matching the core facts of the gold answer while adding specific names."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has a dog named Luna and two cats named Oliver and Bailey.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie has two cats and a dog, matching the core facts of the gold answer while adding specific names."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has a dog named Luna and two cats named Oliver and Bailey.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie has two cats and a dog, matching the core facts of the gold answer while adding specific names."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has a dog named Luna and two cats named Oliver and Bailey.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Melanie has two cats and a dog, matching the core facts of the gold answer while adding specific names."
     }
   }
 }

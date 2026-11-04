@@ -8,42 +8,183 @@
   "evidence": [
     "D7:24"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Melanie say running has been great for?",
-    "search_results": [],
-    "search_latency_ms": 24.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie uses running as a way to destress and clear her mind, noting on July 12, 2023, that she has been running for a longer period since their last conversation.",
+        "score": 0.7123547422458001,
+        "id": "9beb3ac6-69e6-4839-b850-e8289e374986",
+        "created_at": "2026-11-04T05:22:46.728943+00:00",
+        "updated_at": "2026-11-04T05:22:46.728943+00:00"
+      },
+      {
+        "memory": "Melanie recently bought new pink running shoes for running, which she uses as a way to destress and clear her mind; she has been running longer since their last chat.",
+        "score": 0.6769864873942735,
+        "id": "9b453aae-228d-40fb-a588-e5aa7c4ca08f",
+        "created_at": "2026-11-04T05:22:49.564195+00:00",
+        "updated_at": "2026-11-04T05:22:49.564195+00:00"
+      },
+      {
+        "memory": "Melanie has been running longer distances since their last chat in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.6683902881067245,
+        "id": "bde74488-9d66-435a-b380-177138affd09",
+        "created_at": "2026-11-04T05:23:00.641860+00:00",
+        "updated_at": "2026-11-04T05:23:00.641860+00:00"
+      },
+      {
+        "memory": "Melanie has been increasing her running distance since their last conversation in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.6630260546681191,
+        "id": "7810b279-091e-43f8-9193-a2e964991eab",
+        "created_at": "2026-11-04T05:22:56.210459+00:00",
+        "updated_at": "2026-11-04T05:22:56.210459+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new purple running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6585237847037418,
+        "id": "89b940f8-02a5-46a2-a1ce-700cb8b58fa5",
+        "created_at": "2026-11-04T05:23:00.638414+00:00",
+        "updated_at": "2026-11-04T05:23:00.638414+00:00"
+      },
+      {
+        "memory": "Melanie recently acquired new pink running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6562776853433717,
+        "id": "cd15e0b6-7060-4a57-82ae-ec088f0065de",
+        "created_at": "2026-11-04T05:22:56.206160+00:00",
+        "updated_at": "2026-11-04T05:22:56.206160+00:00"
+      },
+      {
+        "memory": "Melanie's new shoes are specifically intended for running, as she clarified to Caroline on July 12, 2023.",
+        "score": 0.6489145736968919,
+        "id": "f76d1f90-2875-4be8-8bd3-ba8409ad28d5",
+        "created_at": "2026-11-04T05:22:46.733078+00:00",
+        "updated_at": "2026-11-04T05:22:46.733078+00:00"
+      },
+      {
+        "memory": "Melanie ran a charity race for mental health on May 21, 2023, and found the experience rewarding as it made her reflect on the importance of taking care of their minds",
+        "score": 0.6375875458727752,
+        "id": "dee1aa03-dfaa-4293-affd-b0f743cc82a7",
+        "created_at": "2026-11-04T05:15:23.901063+00:00",
+        "updated_at": "2026-11-04T05:15:23.901063+00:00"
+      },
+      {
+        "memory": "Melanie carves out daily me-time by running, reading, or playing the violin to refresh herself and stay present for her family, as she shared with Caroline on May 25, 2023",
+        "score": 0.6152966092437248,
+        "id": "b6c4e661-f73c-4256-9f20-65cdd7c0662e",
+        "created_at": "2026-11-04T05:15:35.902982+00:00",
+        "updated_at": "2026-11-04T05:15:35.902982+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see how neglected some people are but great to feel like they could make a difference.",
+        "score": 0.5953240717886891,
+        "id": "f5f978bd-b125-42c9-9052-174ca73def27",
+        "created_at": "2026-11-04T05:57:44.100333+00:00",
+        "updated_at": "2026-11-04T05:57:44.100333+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.5944821079566636,
+        "id": "7d60aa81-3e7e-4e1b-9b2b-55c556fb3234",
+        "created_at": "2026-11-04T05:58:44.944953+00:00",
+        "updated_at": "2026-11-04T05:58:44.944953+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and finds it a great way to express herself and relax.",
+        "score": 0.5941566282732563,
+        "id": "78e02b1c-74d3-494e-8105-76dc0593046c",
+        "created_at": "2026-11-04T06:01:06.987358+00:00",
+        "updated_at": "2026-11-04T06:01:06.987358+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family two weekends before July 17, 2023 (around early July 2023), and described it as a great opportunity to unplug and spend time with her kids.",
+        "score": 0.5833534119725805,
+        "id": "a49bdc0a-6868-4607-8101-dd4992af48fc",
+        "created_at": "2026-11-04T05:24:35.452428+00:00",
+        "updated_at": "2026-11-04T05:24:35.452428+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5125616151809692,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5037291758371624,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.5017506623871133,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.49874889461767175,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and views it as an expression of herself and a way to relax.",
+        "score": 0.4750092982338058,
+        "id": "6b8f43fa-2585-4f95-9a9a-5091bb34a7dd",
+        "created_at": "2026-11-04T06:01:32.080520+00:00",
+        "updated_at": "2026-11-04T06:01:32.080520+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.4716670640022193,
+        "id": "ef203662-42e9-47ba-a3d1-870233c08650",
+        "created_at": "2026-11-04T06:01:16.474494+00:00",
+        "updated_at": "2026-11-04T06:01:16.474494+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.4716670640022193,
+        "id": "4681353b-8104-4aeb-8191-e756fd6eb7b1",
+        "created_at": "2026-11-04T06:01:24.081119+00:00",
+        "updated_at": "2026-11-04T06:01:24.081119+00:00"
+      }
+    ],
+    "search_latency_ms": 86.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "destressing, clearing her mind, and her mental health and headspace",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly includes 'her mental health', which matches the gold answer exactly, and adds additional related details which are permitted."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "destressing, clearing her mind, and her mental health and headspace",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'her mental health', which matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "destressing, clearing her mind, and her mental health and headspace",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'her mental health', which matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "destressing, clearing her mind, and her mental health and headspace",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'her mental health', which matches the gold answer exactly."
     }
   }
 }

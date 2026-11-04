@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q128",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of meal does John often cook using a slow cooker?",
+  "ground_truth_answer": "honey garlic chicken with roasted veg",
+  "evidence": [
+    "D15:32",
+    "D15:33"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What type of meal does John often cook using a slow cooker?",
+    "search_results": [
+      {
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
+        "score": 0.8318815510553719,
+        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
+        "created_at": "2026-11-03T09:21:06.470537+00:00",
+        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+      },
+      {
+        "memory": "John has been trying out new cooking recipes recently and made a tasty chicken soup, sharing a photo of the beautifully plated dish with a butternut squash on a cutting board.",
+        "score": 0.7378018905356478,
+        "id": "415c70a9-b969-4b19-9a88-d1c3a3899199",
+        "created_at": "2026-11-03T09:11:48.094056+00:00",
+        "updated_at": "2026-11-03T09:11:48.094056+00:00"
+      },
+      {
+        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, adding sage for flavor.",
+        "score": 0.7067620570447687,
+        "id": "416aab1d-b6af-4daf-b3e5-2d26f073c7d4",
+        "created_at": "2026-11-03T09:13:05.375387+00:00",
+        "updated_at": "2026-11-03T09:13:05.375387+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, using sage for flavor.",
+        "score": 0.7015219882920324,
+        "id": "4bf4c5e4-0e77-4aa6-aa65-0707572c535c",
+        "created_at": "2026-11-03T09:13:00.153430+00:00",
+        "updated_at": "2026-11-03T09:13:00.153430+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice for flavor.",
+        "score": 0.7004638048223244,
+        "id": "d8575b11-b33e-44f2-95e4-38c980b5225c",
+        "created_at": "2026-11-03T09:12:53.924273+00:00",
+        "updated_at": "2026-11-03T09:12:53.924273+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and shared a photo of cooking in a pan on the stove.",
+        "score": 0.6577109699958812,
+        "id": "072e7de1-ae43-44fb-9c1e-f5fafc4c8700",
+        "created_at": "2026-11-03T09:21:09.024151+00:00",
+        "updated_at": "2026-11-03T09:21:09.024151+00:00"
+      },
+      {
+        "memory": "John finds cooking to be therapeutic and a creative way to experiment with flavors while taking a break from basketball.",
+        "score": 0.6556276534285126,
+        "id": "8120091c-52fc-47a4-ab5e-92803c5e8bfa",
+        "created_at": "2026-11-03T09:21:16.835726+00:00",
+        "updated_at": "2026-11-03T09:21:16.835726+00:00"
+      },
+      {
+        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
+        "score": 0.6540780732234392,
+        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
+        "created_at": "2026-11-03T09:21:03.783333+00:00",
+        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
+        "score": 0.6452308364225208,
+        "id": "bc91278f-9786-437b-b809-97133839c1c0",
+        "created_at": "2026-11-03T09:21:16.833195+00:00",
+        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+      },
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.6153103296711806,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in his cooking and was interested in learning which spices John used in his homemade soup.",
+        "score": 0.5894601256682058,
+        "id": "25fc92ec-9301-4d8f-8ced-6050e5cc20df",
+        "created_at": "2026-11-03T09:13:05.382821+00:00",
+        "updated_at": "2026-11-03T09:13:05.382821+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.5886294197444197,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.5813282696846571,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
+        "score": 0.5785283996374662,
+        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
+        "created_at": "2026-11-03T09:36:03.650277+00:00",
+        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+      },
+      {
+        "memory": "John traveled to Italy in December 2023, enjoying the food, history, and architecture, and purchased a book there that has inspired his cooking.",
+        "score": 0.5722954022099683,
+        "id": "3f67c46d-4e43-4000-b91f-5f57977f6d2f",
+        "created_at": "2026-11-03T09:36:07.962232+00:00",
+        "updated_at": "2026-11-03T09:36:07.962232+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in cooking, as he expressed excitement about trying a soup recipe that included sage.",
+        "score": 0.5269837794785587,
+        "id": "4b91022e-329e-4fab-a3db-f6a32f3a9d6a",
+        "created_at": "2026-11-03T09:13:26.756021+00:00",
+        "updated_at": "2026-11-03T09:13:26.756021+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices in his cooking and is excited to try using sage in recipes.",
+        "score": 0.5221391687420932,
+        "id": "058a4b03-8ca0-41d9-beea-97768a773406",
+        "created_at": "2026-11-03T09:12:40.250974+00:00",
+        "updated_at": "2026-11-03T09:12:40.250974+00:00"
+      },
+      {
+        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
+        "score": 0.2773825452564463,
+        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
+        "created_at": "2026-11-03T09:12:16.038675+00:00",
+        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.27437827840320955,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.267237761657446,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      }
+    ],
+    "search_latency_ms": 185.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "honey garlic chicken with roasted vegetables",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is an exact match to the gold answer, with only a minor difference in pluralization ('veg' vs 'vegetables')."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Honey garlic chicken",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core dish 'honey garlic chicken' from the gold answer, which satisfies the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Honey garlic chicken",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core dish 'honey garlic chicken' from the gold answer, which satisfies the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Honey garlic chicken",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core dish 'honey garlic chicken' from the gold answer, which satisfies the partial credit rule."
+    }
+  }
+}

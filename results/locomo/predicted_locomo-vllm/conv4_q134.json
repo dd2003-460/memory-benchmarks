@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q134",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is one of Tim's favorite fantasy TV shows, as mentioned on November 11, 2023?",
+  "ground_truth_answer": "\"That\"",
+  "evidence": [
+    "D17:10"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is one of Tim's favorite fantasy TV shows, as mentioned on November 11, 2023?",
+    "search_results": [
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.7958722657307072,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.7707196445623258,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      },
+      {
+        "memory": "Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to come out in February 2024.",
+        "score": 0.7650183015191516,
+        "id": "491c0720-54f9-4b66-88b1-a4f6912dcc8e",
+        "created_at": "2026-11-03T09:35:47.076998+00:00",
+        "updated_at": "2026-11-03T09:35:47.076998+00:00"
+      },
+      {
+        "memory": "Tim is excited about the new fantasy TV series 'The Wheel of Time' coming out in February 2024, which is based on a book series he loves and enjoys seeing adapted to screen.",
+        "score": 0.7542013738741113,
+        "id": "97b77d99-f86f-49c7-b28b-b1529055391e",
+        "created_at": "2026-11-03T09:35:54.487323+00:00",
+        "updated_at": "2026-11-03T09:35:54.487323+00:00"
+      },
+      {
+        "memory": "Tim is hoping to attend a book conference in September 2023, which he describes as an interesting gathering of authors, publishers, and book lovers where they discuss favorite novels and new releases.",
+        "score": 0.7474227593360292,
+        "id": "fb0a300f-d225-4ae4-be4c-43c4e7b3baf2",
+        "created_at": "2026-11-03T09:08:28.259475+00:00",
+        "updated_at": "2026-11-03T09:08:28.259475+00:00"
+      },
+      {
+        "memory": "As of December 26, 2023, Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024",
+        "score": 0.7300881853217673,
+        "id": "32321ac1-5928-4037-a3fa-6ad133a2638e",
+        "created_at": "2026-11-03T09:35:39.824581+00:00",
+        "updated_at": "2026-11-03T09:35:39.824581+00:00"
+      },
+      {
+        "memory": "Tim considers 'The Alchemist' one of his favorite books and noticed it on John's bookshelf during a conversation on September 21, 2023.",
+        "score": 0.7298262826014457,
+        "id": "c2962a8e-10bb-439d-90fe-ee22a00206b5",
+        "created_at": "2026-11-03T09:15:57.506328+00:00",
+        "updated_at": "2026-11-03T09:15:57.506328+00:00"
+      },
+      {
+        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
+        "score": 0.7225605300610726,
+        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
+        "created_at": "2026-11-03T09:19:36.424804+00:00",
+        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024.",
+        "score": 0.7189677782657795,
+        "id": "7838da90-7407-41cc-8813-8ae218bf7caf",
+        "created_at": "2026-11-03T09:35:37.286190+00:00",
+        "updated_at": "2026-11-03T09:35:37.286190+00:00"
+      },
+      {
+        "memory": "Tim is an avid reader who shared a photo of his worn copy of 'A Storm of Swords' from the Game of Thrones series during their conversation on November 11, 2023.",
+        "score": 0.718284176639717,
+        "id": "d9c91d3e-5e91-4d33-99af-2d2ebe4c5ade",
+        "created_at": "2026-11-03T09:24:27.732337+00:00",
+        "updated_at": "2026-11-03T09:24:27.732337+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
+        "score": 0.7096371514509663,
+        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
+        "created_at": "2026-11-03T09:27:37.386687+00:00",
+        "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
+        "score": 0.7069555809650127,
+        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
+        "created_at": "2026-11-03T09:21:27.127661+00:00",
+        "updated_at": "2026-11-03T09:21:27.127661+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.7013995245640817,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling like he was part of a magical family with others who shared his passion for fantasy.",
+        "score": 0.6980672612033674,
+        "id": "ff933eb6-aa95-48a9-a4d8-481e0dfc0fdc",
+        "created_at": "2026-11-03T09:17:29.418179+00:00",
+        "updated_at": "2026-11-03T09:17:29.418179+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
+        "score": 0.684863490542581,
+        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
+        "created_at": "2026-11-03T09:35:34.717763+00:00",
+        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+      },
+      {
+        "memory": "Tim shared a screenshot of his latest article about a fantasy novel on August 11, 2023, which features an image of an open book showing a picture of a man.",
+        "score": 0.6828266251822194,
+        "id": "60cbad36-eb85-4275-9e9e-be0c650ec327",
+        "created_at": "2026-11-03T09:07:04.406261+00:00",
+        "updated_at": "2026-11-03T09:07:04.406261+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
+        "score": 0.6821744444799054,
+        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
+        "created_at": "2026-11-03T09:27:28.115475+00:00",
+        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+      },
+      {
+        "memory": "Tim shared a photo on August 11, 2023, showing a set of three books from the 'The Name of the Wind' series by Patrick Rothfuss arranged on a wooden table.",
+        "score": 0.669313466545931,
+        "id": "de50a942-9362-4bbf-a581-44351542401d",
+        "created_at": "2026-11-03T09:07:12.167723+00:00",
+        "updated_at": "2026-11-03T09:07:12.167723+00:00"
+      },
+      {
+        "memory": "Tim's favorite book series is Harry Potter, which he finds immersive, and his favorite fantasy movie franchise is Star Wars, which he says never gets old.",
+        "score": 0.6636373918166544,
+        "id": "4b60eadc-38a8-4c64-9bdf-a72cd8c419c5",
+        "created_at": "2026-11-03T09:36:46.251633+00:00",
+        "updated_at": "2026-11-03T09:36:46.251633+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and describes it as really good",
+        "score": 0.6614682449772308,
+        "id": "523d812e-0b61-4865-b693-967e37bfc14c",
+        "created_at": "2026-11-03T09:37:53.632079+00:00",
+        "updated_at": "2026-11-03T09:37:53.632079+00:00"
+      }
+    ],
+    "search_latency_ms": 147.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Game of Thrones",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Game of Thrones' is a different entity from the gold answer 'That', and there is no semantic overlap or paraphrase relationship between the two."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Game of Thrones",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Game of Thrones' is a different entity from the gold answer 'That', and there is no semantic overlap or paraphrase relationship between the two."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Game of Thrones",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Game of Thrones' is a different entity from the gold answer 'That', and there is no semantic overlap or paraphrase relationship between the two."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Game of Thrones",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Game of Thrones' is a different entity from the gold answer 'That', and there is no semantic overlap or paraphrase relationship between the two."
+    }
+  }
+}

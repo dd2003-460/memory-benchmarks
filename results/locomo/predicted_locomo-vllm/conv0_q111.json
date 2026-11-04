@@ -8,42 +8,183 @@
   "evidence": [
     "D8:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What creative project do Mel and her kids do together besides pottery?",
-    "search_results": [],
-    "search_latency_ms": 25.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie has been involved in art for seven years and identifies painting and pottery as her primary creative muses, describing them as calming and satisfying outlets.",
+        "score": 0.7534811725162024,
+        "id": "630f08ab-b7ff-403a-b9cc-a0c77e1c7a3e",
+        "created_at": "2026-11-04T06:01:52.860318+00:00",
+        "updated_at": "2026-11-04T06:01:52.860318+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.7366631978477809,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      },
+      {
+        "memory": "Melanie has been into art for seven years and recently found her true muses in painting and pottery, describing both as calming and satisfying creative outlets.",
+        "score": 0.7315149123306861,
+        "id": "7f333e8d-00c5-407e-9abf-ec84ba768271",
+        "created_at": "2026-11-04T06:01:46.615592+00:00",
+        "updated_at": "2026-11-04T06:01:46.615592+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7290545274421831,
+        "id": "1f25cac2-0fc0-4580-8309-21acc9879ad9",
+        "created_at": "2026-11-04T05:54:36.289229+00:00",
+        "updated_at": "2026-11-04T05:54:36.289229+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7290545274421831,
+        "id": "94d11a81-d045-4cd1-afd8-d02d51c23e15",
+        "created_at": "2026-11-04T05:54:41.972154+00:00",
+        "updated_at": "2026-11-04T05:54:41.972154+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and shared a photo of it with Caroline on August 17, 2023.",
+        "score": 0.726429783498814,
+        "id": "acc443d8-8c73-4691-a693-fa1cfed52f6e",
+        "created_at": "2026-11-04T05:54:45.042307+00:00",
+        "updated_at": "2026-11-04T05:54:45.042307+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.722950931920287,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      },
+      {
+        "memory": "Melanie completed another pottery project around August 17, 2023, and offered to share a photo with Caroline.",
+        "score": 0.7223069636348499,
+        "id": "cb2caee6-ffd0-477d-89bf-327e63c0cd17",
+        "created_at": "2026-11-04T05:54:18.452876+00:00",
+        "updated_at": "2026-11-04T05:54:18.452876+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a new pottery project, described as a ceramic bowl with a colorful design, on August 17, 2023, expressing pride in the result and noting it was a great experience.",
+        "score": 0.7048913282931666,
+        "id": "155a0206-1b21-4295-83db-4fe26e8b8076",
+        "created_at": "2026-11-04T05:54:24.675916+00:00",
+        "updated_at": "2026-11-04T05:54:24.675916+00:00"
+      },
+      {
+        "memory": "Melanie is planning several new art projects inspired by autumn, as discussed in a conversation with Caroline on August 25, 2023.",
+        "score": 0.6862017173752035,
+        "id": "99647058-0b2d-41a9-ac16-ca80ce281361",
+        "created_at": "2026-11-04T05:59:37.358429+00:00",
+        "updated_at": "2026-11-04T05:59:37.358429+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.6604887537344332,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6601701229517163,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6577389632857373,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about painting, using it as a creative outlet to express feelings and bring joy to others, describing art as a sanctuary and source of comfort and fulfillment.",
+        "score": 0.648000328794058,
+        "id": "b2176338-4ed8-4abd-9edf-93a1e9b76b51",
+        "created_at": "2026-11-04T05:55:11.836691+00:00",
+        "updated_at": "2026-11-04T05:55:11.836691+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.6477870054015983,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Caroline finds joy in observing everyday creativity, such as seeing someone draw a flower on the ground with chalk, which brightens her mood and demonstrates how art can lighten someone's day.",
+        "score": 0.6312342050103323,
+        "id": "37298a1d-8203-45c5-a574-aa19ae8dc031",
+        "created_at": "2026-11-04T05:59:26.165500+00:00",
+        "updated_at": "2026-11-04T05:59:26.165500+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.6253979287791596,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapy that allows her to express herself and get creative.",
+        "score": 0.6253111485231492,
+        "id": "ac1868e6-c55e-4eb9-9dbc-af2cc9fccb86",
+        "created_at": "2026-11-04T05:21:14.095524+00:00",
+        "updated_at": "2026-11-04T05:21:14.095524+00:00"
+      },
+      {
+        "memory": "Melanie made a pottery piece in class on August 24, 2023, and describes pottery as relaxing and creative.",
+        "score": 0.6219913693192842,
+        "id": "1f83b728-270b-4f29-8f9e-de017f1e3a4d",
+        "created_at": "2026-11-04T05:58:00.805902+00:00",
+        "updated_at": "2026-11-04T05:58:00.805902+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a form of therapy that allows her to express herself creatively and relax.",
+        "score": 0.6191343123979427,
+        "id": "c8778571-c3dd-470b-b393-440515cc7a29",
+        "created_at": "2026-11-04T05:18:59.474657+00:00",
+        "updated_at": "2026-11-04T05:18:59.474657+00:00"
+      }
+    ],
+    "search_latency_ms": 120.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "painting",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "painting",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Painting",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Painting' is an exact match for the gold answer 'painting'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "painting",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

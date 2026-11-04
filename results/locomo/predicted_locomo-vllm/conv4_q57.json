@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q57",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What instruments does Tim play?",
+  "ground_truth_answer": "piano, violin",
+  "evidence": [
+    "D8:12",
+    "D21:11"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What instruments does Tim play?",
+    "search_results": [
+      {
+        "memory": "Tim is currently learning to play the violin, focusing primarily on classical music while also being keen to try jazz and film scores, viewing it as a way to relax and be creative.",
+        "score": 0.665944119180135,
+        "id": "b1a7377e-83b9-435e-9e41-b755320dc433",
+        "created_at": "2026-11-03T09:30:37.463488+00:00",
+        "updated_at": "2026-11-03T09:30:37.463488+00:00"
+      },
+      {
+        "memory": "Tim is learning to play the violin, focusing primarily on classical music while also being keen to explore jazz and film scores as a creative way to relax.",
+        "score": 0.6629313775182025,
+        "id": "11f6dc3b-f107-4fce-8259-1c1fa309231f",
+        "created_at": "2026-11-03T09:30:48.597830+00:00",
+        "updated_at": "2026-11-03T09:30:48.597830+00:00"
+      },
+      {
+        "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
+        "score": 0.6517139982988699,
+        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
+        "created_at": "2026-11-03T09:09:50.772054+00:00",
+        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
+        "score": 0.6471414507155048,
+        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
+        "created_at": "2026-11-03T09:30:41.679787+00:00",
+        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.6434768779760006,
+        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
+        "created_at": "2026-11-03T09:30:48.601783+00:00",
+        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.6434768779760006,
+        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
+        "created_at": "2026-11-03T09:30:53.143666+00:00",
+        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
+        "score": 0.6080887584115974,
+        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
+        "created_at": "2026-11-03T09:21:00.674911+00:00",
+        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+      },
+      {
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
+        "score": 0.6079950763488494,
+        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
+        "created_at": "2026-11-03T09:09:46.067003+00:00",
+        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.6066385882056772,
+        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
+        "created_at": "2026-11-03T09:21:16.840236+00:00",
+        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+      },
+      {
+        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
+        "score": 0.6031189127494863,
+        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
+        "created_at": "2026-11-03T09:31:05.110299+00:00",
+        "updated_at": "2026-11-03T09:31:05.110299+00:00"
+      },
+      {
+        "memory": "Tim uses a mobile app for language learning, which John also uses on his phone to practice Spanish.",
+        "score": 0.4763600717900287,
+        "id": "92a432b0-2ab9-40e5-93ab-4db8c2793263",
+        "created_at": "2026-11-03T09:36:13.197460+00:00",
+        "updated_at": "2026-11-03T09:36:13.197460+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.4695708916279626,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.4640166604102097,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      },
+      {
+        "memory": "Tim loves having movie marathons with friends, often featuring popcorn, as a fun way to relax.",
+        "score": 0.4417676168246417,
+        "id": "b73c1e0a-4944-4e99-a757-7a1ede83e991",
+        "created_at": "2026-11-03T09:35:37.278389+00:00",
+        "updated_at": "2026-11-03T09:35:37.278389+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.439572213565134,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "Tim is learning German as of January 2, 2024, finding the process tough but fun.",
+        "score": 0.4386887782222795,
+        "id": "bae65f09-a515-4d6a-9921-e6446d2ce01f",
+        "created_at": "2026-11-03T09:35:51.705592+00:00",
+        "updated_at": "2026-11-03T09:35:51.705592+00:00"
+      },
+      {
+        "memory": "Both John and Tim use the same mobile app for practicing their respective language studies (German and Spanish).",
+        "score": 0.43659671711499193,
+        "id": "72c950bb-5ad5-4558-a829-a6e2497991db",
+        "created_at": "2026-11-03T09:36:18.486643+00:00",
+        "updated_at": "2026-11-03T09:36:18.486643+00:00"
+      },
+      {
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
+        "score": 0.4339872506224527,
+        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
+        "created_at": "2026-11-03T09:31:05.117742+00:00",
+        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+      },
+      {
+        "memory": "Tim is using a language learning app to study Spanish, as of January 2, 2024.",
+        "score": 0.43031379328258146,
+        "id": "7f221eed-87d7-47db-9a9c-b85cbbc64e13",
+        "created_at": "2026-11-03T09:36:01.123235+00:00",
+        "updated_at": "2026-11-03T09:36:01.123235+00:00"
+      },
+      {
+        "memory": "Tim is excited to explore nature while in Ireland and specifically expressed interest in visiting the Cliffs of Moher.",
+        "score": 0.42968700984042557,
+        "id": "9cec7e19-eb2f-4e25-be7d-6eaab774486e",
+        "created_at": "2026-11-03T09:37:25.189146+00:00",
+        "updated_at": "2026-11-03T09:37:25.189146+00:00"
+      }
+    ],
+    "search_latency_ms": 93.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "piano and violin",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists both 'piano' and 'violin', which exactly matches the items in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "piano and violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists both 'piano' and 'violin', which exactly matches the items in the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "piano and violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists both 'piano' and 'violin', which exactly matches the items in the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "piano and violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists both 'piano' and 'violin', which exactly matches the items in the gold answer."
+    }
+  }
+}

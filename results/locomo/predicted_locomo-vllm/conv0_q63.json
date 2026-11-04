@@ -8,42 +8,183 @@
   "evidence": [
     "D15:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When is Caroline's youth center putting on a talent show?",
-    "search_results": [],
-    "search_latency_ms": 18.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.7617270132532663,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.7447493359579768,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "Caroline is helping organize a talent show for kids at the youth center scheduled for September 2023, looking forward to seeing everyone have fun and feel proud of their talents.",
+        "score": 0.7235189480401156,
+        "id": "1e8670fe-47bf-458d-b93a-20c307927df3",
+        "created_at": "2026-11-04T06:00:42.171217+00:00",
+        "updated_at": "2026-11-04T06:00:42.171217+00:00"
+      },
+      {
+        "memory": "Caroline's youth center is organizing a talent show for the kids in September 2023, which she looks forward to for the fun and pride it will bring the children.",
+        "score": 0.72316883362116,
+        "id": "9692d9b4-1fa4-42bb-a1e2-2e7adec8e2d6",
+        "created_at": "2026-11-04T06:00:51.698419+00:00",
+        "updated_at": "2026-11-04T06:00:51.698419+00:00"
+      },
+      {
+        "memory": "Caroline's youth center is organizing a talent show for the kids in September 2023, which Caroline is looking forward to as a way for the children to showcase their talents.",
+        "score": 0.7201514852682902,
+        "id": "591d9959-e59c-4ee7-baa6-cd074c50e5db",
+        "created_at": "2026-11-04T06:00:39.221818+00:00",
+        "updated_at": "2026-11-04T06:00:39.221818+00:00"
+      },
+      {
+        "memory": "Caroline is organizing a talent show for the kids at the LGBTQ+ youth center in September 2023, looking forward to seeing everyone have fun and feel proud of their talents.",
+        "score": 0.7189525310437656,
+        "id": "f1ce7f71-a5bd-4c93-9da7-954e7e783276",
+        "created_at": "2026-11-04T06:00:31.609209+00:00",
+        "updated_at": "2026-11-04T06:00:31.609209+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 10, 2023 (the weekend before July 17, 2023) and finds it rewarding to help the community.",
+        "score": 0.6453073183874205,
+        "id": "c2ce7739-54e1-4923-bde2-25d8aefa10ff",
+        "created_at": "2026-11-04T05:24:40.731437+00:00",
+        "updated_at": "2026-11-04T05:24:40.731437+00:00"
+      },
+      {
+        "memory": "Caroline volunteered at an LGBTQ+ youth center around August 28, 2023, finding it gratifying to talk to young people and share her own story to let them know they are not alone.",
+        "score": 0.6314619943221903,
+        "id": "b128de02-a867-4ed4-a603-80b8b9203513",
+        "created_at": "2026-11-04T06:00:29.009843+00:00",
+        "updated_at": "2026-11-04T06:00:29.009843+00:00"
+      },
+      {
+        "memory": "Caroline volunteered at an LGBTQ+ youth center around August 28, 2023, finding it gratifying to talk to young people and share her own story to let them know they are not alone.",
+        "score": 0.6314619943221903,
+        "id": "89610f9f-1ee7-4115-846d-e5498c3b46d8",
+        "created_at": "2026-11-04T06:00:34.434156+00:00",
+        "updated_at": "2026-11-04T06:00:34.434156+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 10, 2023, and finds it rewarding to help the community by supporting young people.",
+        "score": 0.63020447843456,
+        "id": "6e8ec9a6-c5b4-4169-b2c0-502d26eb9878",
+        "created_at": "2026-11-04T05:24:50.437274+00:00",
+        "updated_at": "2026-11-04T05:24:50.437274+00:00"
+      },
+      {
+        "memory": "Caroline is organizing an LGBTQ art show in September 2023 featuring LGBTQ artists and their talents, with the goal of spreading understanding and acceptance within the community.",
+        "score": 0.6259785578746981,
+        "id": "57401482-f587-4020-ba62-ed2b1b12b4ba",
+        "created_at": "2026-11-04T05:59:52.985569+00:00",
+        "updated_at": "2026-11-04T05:59:52.985569+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves live music while discussing Caroline's upcoming talent show for the kids at the youth center.",
+        "score": 0.6251054590307964,
+        "id": "4684a7e1-3e46-492e-8872-ab5da262652a",
+        "created_at": "2026-11-04T06:00:34.440833+00:00",
+        "updated_at": "2026-11-04T06:00:34.440833+00:00"
+      },
+      {
+        "memory": "Caroline volunteered at an LGBTQ+ youth center around August 27, 2023, where she found it gratifying to connect with young people, share her own story to let them know they are not alone, and support their strength despite challenges.",
+        "score": 0.6247415142717416,
+        "id": "ad7565ca-3d01-418a-b498-2672102e74d1",
+        "created_at": "2026-11-04T06:00:13.254726+00:00",
+        "updated_at": "2026-11-04T06:00:13.254726+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 14-16, 2023, and finds it rewarding to help the community",
+        "score": 0.6238636281376556,
+        "id": "a6a130ce-a602-4a10-af0c-c9bbc6e8dc88",
+        "created_at": "2026-11-04T05:24:37.874534+00:00",
+        "updated_at": "2026-11-04T05:24:37.874534+00:00"
+      },
+      {
+        "memory": "Caroline is an LGBTQ+ artist who is putting together and exhibiting her paintings in an LGBTQ art show scheduled for September 2023, aiming to spread understanding and acceptance within the community.",
+        "score": 0.6218794087495871,
+        "id": "a108089f-2f4f-477b-85b6-6ef86abba893",
+        "created_at": "2026-11-04T06:00:13.250961+00:00",
+        "updated_at": "2026-11-04T06:00:13.250961+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth in early July 2023, finding the work rewarding as she supports young people in the community.",
+        "score": 0.6217647327853385,
+        "id": "bd4c951f-3544-40d9-a7fc-d92dfafcad18",
+        "created_at": "2026-11-04T05:25:01.592401+00:00",
+        "updated_at": "2026-11-04T05:25:01.592401+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert by Matt Patterson, describing him as talented with an amazing voice and songs, and shared this experience with Caroline on August 14, 2023.",
+        "score": 0.6205549970482229,
+        "id": "87b39a77-b968-4f3b-8ebf-f71af7ecd8b7",
+        "created_at": "2026-11-04T05:53:59.822242+00:00",
+        "updated_at": "2026-11-04T05:53:59.822242+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 2023, finding the work rewarding and inspiring due to the resilience of the young people she supports.",
+        "score": 0.6204293614889898,
+        "id": "34df8c67-a5ef-49fa-9044-791a61356500",
+        "created_at": "2026-11-04T05:24:53.316396+00:00",
+        "updated_at": "2026-11-04T05:24:53.316396+00:00"
+      },
+      {
+        "memory": "Caroline volunteered at an LGBTQ+ youth center around late August 2023, finding it gratifying to support young people and share her personal story to help them feel less alone.",
+        "score": 0.6183932226499719,
+        "id": "5ed44491-1827-4c2c-a279-b946024b2c24",
+        "created_at": "2026-11-04T06:00:23.811079+00:00",
+        "updated_at": "2026-11-04T06:00:23.811079+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue volunteering at the youth center as an important part of her life, driven by strong connections with the community and a belief in supporting each other to make a difference.",
+        "score": 0.6153608604347347,
+        "id": "2fc33af7-eb5f-4ccd-aad7-58f0b9605d68",
+        "created_at": "2026-11-04T06:00:42.166870+00:00",
+        "updated_at": "2026-11-04T06:00:42.166870+00:00"
+      }
+    ],
+    "search_latency_ms": 99.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

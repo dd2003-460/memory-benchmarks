@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q69",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When will Tim leave for Ireland?",
+  "ground_truth_answer": "February, 2024",
+  "evidence": [
+    "D28:1"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When will Tim leave for Ireland?",
+    "search_results": [
+      {
+        "memory": "Tim is going to Ireland for a semester in February 2024 as part of a study abroad program he was accepted into on January 5, 2024.",
+        "score": 0.8336048759784831,
+        "id": "e31538a1-2758-4c27-abfa-09e60b7c04c1",
+        "created_at": "2026-11-03T09:37:22.434213+00:00",
+        "updated_at": "2026-11-03T09:37:22.434213+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on Friday, January 5, 2024.",
+        "score": 0.8283697560513021,
+        "id": "1f1ebad6-c86a-411a-90e5-0bf206943695",
+        "created_at": "2026-11-03T09:37:25.182040+00:00",
+        "updated_at": "2026-11-03T09:37:25.182040+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on January 5, 2024.",
+        "score": 0.8267882907605311,
+        "id": "349c3729-8f11-4d89-827c-abf4b48d4fdd",
+        "created_at": "2026-11-03T09:37:32.363734+00:00",
+        "updated_at": "2026-11-03T09:37:32.363734+00:00"
+      },
+      {
+        "memory": "Tim will stay in Galway, Ireland during his study abroad semester starting February 2024, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.826526231739949,
+        "id": "b01950c9-53b4-4504-bf85-018bebce82c5",
+        "created_at": "2026-11-03T09:37:17.942644+00:00",
+        "updated_at": "2026-11-03T09:37:17.942644+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program on January 5, 2024, and is scheduled to depart for Ireland in February 2024 for a semester.",
+        "score": 0.8214075397859091,
+        "id": "5291c00c-977f-4711-a9e5-0ef1d1ea5bdf",
+        "created_at": "2026-11-03T09:37:13.456011+00:00",
+        "updated_at": "2026-11-03T09:37:13.456011+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program on January 5, 2024, and is scheduled to depart for Ireland in February 2024 for a semester.",
+        "score": 0.8214075397859091,
+        "id": "fbf43b7f-89d9-4e13-ba44-10eb5e69dfad",
+        "created_at": "2026-11-03T09:37:15.720604+00:00",
+        "updated_at": "2026-11-03T09:37:15.720604+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, planning to stay in Galway because of its vibrant arts scene and Irish music.",
+        "score": 0.8062511957534813,
+        "id": "6e945bcf-deb7-4c5c-932b-7eaa4f2f2eff",
+        "created_at": "2026-11-03T09:37:35.150665+00:00",
+        "updated_at": "2026-11-03T09:37:35.150665+00:00"
+      },
+      {
+        "memory": "Tim is planning to stay in Galway, Ireland, because he appreciates its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.8055589955810427,
+        "id": "3f4c9ee2-5ee9-4e98-80f5-32b338b313c9",
+        "created_at": "2026-11-03T09:37:40.352973+00:00",
+        "updated_at": "2026-11-03T09:37:40.352973+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.8044514713046796,
+        "id": "de60b8d0-d9ad-4109-b7e6-8e1e7d59d70d",
+        "created_at": "2026-11-03T09:37:32.366376+00:00",
+        "updated_at": "2026-11-03T09:37:32.366376+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location because of its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.8038063308664947,
+        "id": "02b59ecf-4db3-4fb2-af12-04f841b05d65",
+        "created_at": "2026-11-03T09:37:25.186321+00:00",
+        "updated_at": "2026-11-03T09:37:25.186321+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, chosen for its vibrant arts scene and Irish music.",
+        "score": 0.8021720155241179,
+        "id": "1dce8c63-c37d-400b-993e-9831515230a8",
+        "created_at": "2026-11-03T09:37:37.759260+00:00",
+        "updated_at": "2026-11-03T09:37:37.759260+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
+        "score": 0.7991565040970519,
+        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
+        "created_at": "2026-11-03T09:37:29.774123+00:00",
+        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, and chose the location because it is known for its arts scene, Irish music, and vibrant atmosphere.",
+        "score": 0.7983672503720204,
+        "id": "b67f6930-6f6a-46e1-aa4c-8b48e2a35dff",
+        "created_at": "2026-11-03T09:37:22.439558+00:00",
+        "updated_at": "2026-11-03T09:37:22.439558+00:00"
+      },
+      {
+        "memory": "Tim is staying in Galway, Ireland, and appreciates the city for its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.791040401107668,
+        "id": "9c3c5fae-4610-4339-a9a1-bc4a956286f6",
+        "created_at": "2026-11-03T09:37:42.882881+00:00",
+        "updated_at": "2026-11-03T09:37:42.882881+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.7466676883012328,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "Tim plans to visit The Cliffs of Moher while in Ireland, specifically looking forward to exploring the nature and viewing the ocean cliffs.",
+        "score": 0.738107047667987,
+        "id": "8a5a18e4-26ed-44d9-bed0-b1c3eeb975e3",
+        "created_at": "2026-11-03T09:37:42.886749+00:00",
+        "updated_at": "2026-11-03T09:37:42.886749+00:00"
+      },
+      {
+        "memory": "Tim is excited to explore nature while in Ireland and specifically expressed interest in visiting the Cliffs of Moher.",
+        "score": 0.7315368962526572,
+        "id": "9cec7e19-eb2f-4e25-be7d-6eaab774486e",
+        "created_at": "2026-11-03T09:37:25.189146+00:00",
+        "updated_at": "2026-11-03T09:37:25.189146+00:00"
+      },
+      {
+        "memory": "Tim is excited to explore nature in Ireland and specifically wants to visit The Cliffs of Moher for the ocean views and cliffs.",
+        "score": 0.7238257652294633,
+        "id": "e32f53dc-3c55-4299-891f-f18fb29f2f14",
+        "created_at": "2026-11-03T09:37:40.356431+00:00",
+        "updated_at": "2026-11-03T09:37:40.356431+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
+        "score": 0.6158078454667614,
+        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
+        "created_at": "2026-11-03T09:23:36.618818+00:00",
+        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6156452637609825,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      }
+    ],
+    "search_latency_ms": 128.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "February 2024",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'February 2024' is an exact match for the gold answer 'February, 2024'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "February 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'February 2024' is an exact match for the gold answer 'February, 2024'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "February 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'February 2024' is an exact match for the gold answer 'February, 2024'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "February 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'February 2024' is an exact match for the gold answer 'February, 2024'."
+    }
+  }
+}

@@ -8,42 +8,183 @@
   "evidence": [
     "D14:17"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Caroline make for a local church?",
-    "search_results": [],
-    "search_latency_ms": 15.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is a transgender woman who created a stained glass window for a local church to represent her personal journey and the importance of accepting growth and change in life.",
+        "score": 0.8429020127729903,
+        "id": "4944e30e-d778-4a70-9cf7-2a0de16856b0",
+        "created_at": "2026-11-04T05:59:26.152495+00:00",
+        "updated_at": "2026-11-04T05:59:26.152495+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who created a stained glass window for a local church to represent her personal journey, emphasizing themes of growth, change, and self-acceptance.",
+        "score": 0.8359912293667925,
+        "id": "c925e236-e661-4299-8db1-894d1d9d53e6",
+        "created_at": "2026-11-04T05:59:22.073648+00:00",
+        "updated_at": "2026-11-04T05:59:22.073648+00:00"
+      },
+      {
+        "memory": "Caroline created a stained glass window for a local church that depicts time changing lives, intended to show her journey as a transgender woman and the importance of accepting growth and change.",
+        "score": 0.8167960370992858,
+        "id": "04af61da-07d6-403f-940a-3a1dabcf7856",
+        "created_at": "2026-11-04T05:59:16.301431+00:00",
+        "updated_at": "2026-11-04T05:59:16.301431+00:00"
+      },
+      {
+        "memory": "Caroline created a stained glass window for a local church that depicts time changing lives, intended to represent her own journey as a transgender woman and the importance of accepting growth and change.",
+        "score": 0.8160746051042747,
+        "id": "d29fa453-9efb-4bb2-b33d-950ee2a063c3",
+        "created_at": "2026-11-04T05:58:56.396783+00:00",
+        "updated_at": "2026-11-04T05:58:56.396783+00:00"
+      },
+      {
+        "memory": "Caroline created a stained glass window for a local church depicting time changing lives, intended to represent her journey as a transgender woman and the importance of accepting growth and change.",
+        "score": 0.8158169308659019,
+        "id": "6303aecc-089a-4c5c-b2ec-3778909bd691",
+        "created_at": "2026-11-04T05:59:07.216399+00:00",
+        "updated_at": "2026-11-04T05:59:07.216399+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5853329205560115,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline views music as cathartic and uplifting, believing that playing and singing allow her to express herself and connect with others.",
+        "score": 0.5586535943450718,
+        "id": "c82e232d-731c-4334-821a-5bf1385532cf",
+        "created_at": "2026-11-04T06:00:58.244753+00:00",
+        "updated_at": "2026-11-04T06:00:58.244753+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.46571018297026107,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.45639060341537235,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.4536722788193834,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.4163298869461419,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.4150054849946613,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.4145271609980581,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the application process.",
+        "score": 0.4129099392729475,
+        "id": "4f83cd76-af98-4ebb-8eac-fffb6777b31c",
+        "created_at": "2026-11-04T05:55:39.032693+00:00",
+        "updated_at": "2026-11-04T05:55:39.032693+00:00"
+      },
+      {
+        "memory": "Caroline decided to continue volunteering at the LGBTQ+ youth center because she has made strong connections there and believes in community support.",
+        "score": 0.41204156739977266,
+        "id": "d9372982-bbdf-43d5-9fba-53418e57170a",
+        "created_at": "2026-11-04T06:00:29.013423+00:00",
+        "updated_at": "2026-11-04T06:00:29.013423+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.3970140712834134,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.39631447905948675,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.3941277093424612,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.3885316013980857,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.37874813910176475,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      }
+    ],
+    "search_latency_ms": 117.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a stained glass window",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a stained glass window",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a stained glass window",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a stained glass window",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     }
   }
 }

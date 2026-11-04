@@ -8,42 +8,183 @@
   "evidence": [
     "D11:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Who performed at the concert at Melanie's daughter's birthday?",
-    "search_results": [],
-    "search_latency_ms": 15.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie celebrated her daughter's birthday with a concert on August 13, 2023, surrounded by music and a warm summer breeze, expressing gratitude for the special moments shared with her kids.",
+        "score": 0.7245035670341566,
+        "id": "333bb1a9-43aa-433d-b39e-adef7320d9ad",
+        "created_at": "2026-11-04T05:53:20.183561+00:00",
+        "updated_at": "2026-11-04T05:53:20.183561+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, which she described as an amazing experience surrounded by music and joy.",
+        "score": 0.7217211935729414,
+        "id": "c3fa5ea4-c81b-4931-9ff3-fb555c32a317",
+        "created_at": "2026-11-04T05:53:53.345982+00:00",
+        "updated_at": "2026-11-04T05:53:53.345982+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, joy, and warm summer breeze while watching her kids' smiles.",
+        "score": 0.7204600955091945,
+        "id": "b5289aa3-85f6-42af-82bd-ef0c538bc2ed",
+        "created_at": "2026-11-04T05:53:29.962869+00:00",
+        "updated_at": "2026-11-04T05:53:29.962869+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing with music, joy, and a warm summer breeze.",
+        "score": 0.7196936658088242,
+        "id": "d6e66e0a-784d-4ce4-b046-531a257f9136",
+        "created_at": "2026-11-04T05:53:25.649395+00:00",
+        "updated_at": "2026-11-04T05:53:25.649395+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing and surrounded by music, joy, and warm summer breeze.",
+        "score": 0.7195804090406323,
+        "id": "0058bf56-a97d-4609-9d33-c64952a5ae82",
+        "created_at": "2026-11-04T05:53:47.106116+00:00",
+        "updated_at": "2026-11-04T05:53:47.106116+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, warm summer breeze, and seeing her kids' smiles.",
+        "score": 0.717866412940346,
+        "id": "e6e48141-71b9-4544-b67d-a6b2b18dbf96",
+        "created_at": "2026-11-04T05:53:34.129883+00:00",
+        "updated_at": "2026-11-04T05:53:34.129883+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert on August 13, 2023, featuring Matt Patterson, which she described as an amazing celebration of her daughter's birthday surrounded by music and joy.",
+        "score": 0.7171138311359707,
+        "id": "7b7c4183-5e48-4d0f-b6ce-711cef719390",
+        "created_at": "2026-11-04T05:53:40.649480+00:00",
+        "updated_at": "2026-11-04T05:53:40.649480+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert by Matt Patterson, describing him as talented with an amazing voice and songs, and shared this experience with Caroline on August 14, 2023.",
+        "score": 0.6684930203882525,
+        "id": "87b39a77-b968-4f3b-8ebf-f71af7ecd8b7",
+        "created_at": "2026-11-04T05:53:59.822242+00:00",
+        "updated_at": "2026-11-04T05:53:59.822242+00:00"
+      },
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.6476914410451738,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show recently, describing it as fun and noting that it reminded her of how music brings people together, while sharing a photo of a concert crowd with hands in the air.",
+        "score": 0.644347700641442,
+        "id": "2544e853-2e1a-4b26-8609-9931b057a8c7",
+        "created_at": "2026-11-04T06:00:39.226130+00:00",
+        "updated_at": "2026-11-04T06:00:39.226130+00:00"
+      },
+      {
+        "memory": "Melanie identified the band in her shared concert photo as 'Summer Sounds', describing them as playing an awesome pop song that got everyone dancing and singing, creating a fun and lively atmosphere.",
+        "score": 0.6331418763444556,
+        "id": "6e505573-4f16-4cce-8c00-49eb19fa18b5",
+        "created_at": "2026-11-04T06:00:44.544988+00:00",
+        "updated_at": "2026-11-04T06:00:44.544988+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.4325904043958596,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.4292934616219893,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.4287955749757878,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.4271146025206197,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.42194650141494766,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.4100031273403365,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.4033822613402254,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.4002692749269948,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.3988440829410907,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      }
+    ],
+    "search_latency_ms": 117.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D11:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Whose birthday did Melanie celebrate recently?",
-    "search_results": [],
-    "search_latency_ms": 14.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing and surrounded by music, joy, and warm summer breeze.",
+        "score": 0.707078079241001,
+        "id": "0058bf56-a97d-4609-9d33-c64952a5ae82",
+        "created_at": "2026-11-04T05:53:47.106116+00:00",
+        "updated_at": "2026-11-04T05:53:47.106116+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing with music, joy, and a warm summer breeze.",
+        "score": 0.7067930659582278,
+        "id": "d6e66e0a-784d-4ce4-b046-531a257f9136",
+        "created_at": "2026-11-04T05:53:25.649395+00:00",
+        "updated_at": "2026-11-04T05:53:25.649395+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, which she described as an amazing experience surrounded by music and joy.",
+        "score": 0.7067243714239114,
+        "id": "c3fa5ea4-c81b-4931-9ff3-fb555c32a317",
+        "created_at": "2026-11-04T05:53:53.345982+00:00",
+        "updated_at": "2026-11-04T05:53:53.345982+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, joy, and warm summer breeze while watching her kids' smiles.",
+        "score": 0.7033731366054472,
+        "id": "b5289aa3-85f6-42af-82bd-ef0c538bc2ed",
+        "created_at": "2026-11-04T05:53:29.962869+00:00",
+        "updated_at": "2026-11-04T05:53:29.962869+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday with a concert on August 13, 2023, surrounded by music and a warm summer breeze, expressing gratitude for the special moments shared with her kids.",
+        "score": 0.7021021983654493,
+        "id": "333bb1a9-43aa-433d-b39e-adef7320d9ad",
+        "created_at": "2026-11-04T05:53:20.183561+00:00",
+        "updated_at": "2026-11-04T05:53:20.183561+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, warm summer breeze, and seeing her kids' smiles.",
+        "score": 0.6986460403571372,
+        "id": "e6e48141-71b9-4544-b67d-a6b2b18dbf96",
+        "created_at": "2026-11-04T05:53:34.129883+00:00",
+        "updated_at": "2026-11-04T05:53:34.129883+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert on August 13, 2023, featuring Matt Patterson, which she described as an amazing celebration of her daughter's birthday surrounded by music and joy.",
+        "score": 0.689142630577515,
+        "id": "7b7c4183-5e48-4d0f-b6ce-711cef719390",
+        "created_at": "2026-11-04T05:53:40.649480+00:00",
+        "updated_at": "2026-11-04T05:53:40.649480+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.6534758929419731,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.6507183885104483,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.649298157785595,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie got married to her partner in a ceremony held in a greenhouse, describing the day as full of love and joy with everyone they love present to celebrate.",
+        "score": 0.6473935759044287,
+        "id": "6aee6163-dfd8-4b59-988a-ff3e048a0520",
+        "created_at": "2026-11-04T05:24:00.640805+00:00",
+        "updated_at": "2026-11-04T05:24:00.640805+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.6442090069461164,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6435782309530205,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6435782309530205,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie described her wedding as an amazing day full of love and joy where everyone they love was present to celebrate, identifying marrying her partner and promising to be together forever as her favorite part.",
+        "score": 0.6416028162105559,
+        "id": "cfaab9ce-7e6c-40b2-9fec-8ff354728ccf",
+        "created_at": "2026-11-04T05:23:48.368793+00:00",
+        "updated_at": "2026-11-04T05:23:48.368793+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.6312612677998596,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie's wedding ceremony took place in a greenhouse and was described as full of love and joy, with all their loved ones present to celebrate the special day.",
+        "score": 0.6303740903944667,
+        "id": "07930cf0-52fc-46b9-8e74-7b39ffe08b83",
+        "created_at": "2026-11-04T05:23:35.320310+00:00",
+        "updated_at": "2026-11-04T05:23:35.320310+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of herself and a child hiking on a mountain trail with Caroline on October 20, 2023, while discussing how her children handled a recent accident involving their brother.",
+        "score": 0.6266791359958673,
+        "id": "0fcabfa7-3314-4bac-9856-1f7e8186d018",
+        "created_at": "2026-11-04T06:03:50.702337+00:00",
+        "updated_at": "2026-11-04T06:03:50.702337+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6248694744113288,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.40769120457624747,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      }
+    ],
+    "search_latency_ms": 110.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "her daughter",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'her daughter' is a direct paraphrase of the gold answer 'Melanie's daughter', correctly identifying the same person."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "her daughter's",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'her daughter's' correctly identifies the same person (Melanie's daughter) as the gold answer, just using a pronoun instead of the name."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "her daughter's",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'her daughter's' correctly identifies the same person (Melanie's daughter) as the gold answer, just using a pronoun instead of the name."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "her daughter's",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'her daughter's' correctly identifies the same person (Melanie's daughter) as the gold answer, just using a pronoun instead of the name."
     }
   }
 }

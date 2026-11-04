@@ -1,0 +1,192 @@
+{
+  "question_id": "conv4_q151",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is the topic of discussion between John and Tim on 11 December, 2023?",
+  "ground_truth_answer": "Academic achievements and sports successes",
+  "evidence": [
+    "D23:1",
+    "D23:2",
+    "D23:3"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is the topic of discussion between John and Tim on 11 December, 2023?",
+    "search_results": [
+      {
+        "memory": "Tim is hoping to attend a book conference in September 2023, which he describes as an interesting gathering of authors, publishers, and book lovers where they discuss favorite novels and new releases.",
+        "score": 0.7702096021716459,
+        "id": "fb0a300f-d225-4ae4-be4c-43c4e7b3baf2",
+        "created_at": "2026-11-03T09:08:28.259475+00:00",
+        "updated_at": "2026-11-03T09:08:28.259475+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.72304777320982,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      },
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.7182807321883884,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.7093134497205205,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6933533775272429,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.6920221592120175,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
+        "score": 0.663841824166205,
+        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
+        "created_at": "2026-11-03T09:35:47.080548+00:00",
+        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+      },
+      {
+        "memory": "Tim is an avid reader who shared a photo of his worn copy of 'A Storm of Swords' from the Game of Thrones series during their conversation on November 11, 2023.",
+        "score": 0.6616204664064602,
+        "id": "d9c91d3e-5e91-4d33-99af-2d2ebe4c5ade",
+        "created_at": "2026-11-03T09:24:27.732337+00:00",
+        "updated_at": "2026-11-03T09:24:27.732337+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6610327667008644,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a worn copy of 'A Storm of Swords' from the Game of Thrones series with John on November 11, 2023, mentioning that he has been reading as usual.",
+        "score": 0.660322006132391,
+        "id": "a5649d4d-332b-400d-91a5-f98bc2c66df4",
+        "created_at": "2026-11-03T09:23:39.184894+00:00",
+        "updated_at": "2026-11-03T09:23:39.184894+00:00"
+      },
+      {
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
+        "score": 0.6573619157221293,
+        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
+        "created_at": "2026-11-03T09:34:16.758221+00:00",
+        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
+        "score": 0.6512675750208914,
+        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
+        "created_at": "2026-11-03T09:23:36.618818+00:00",
+        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
+        "score": 0.6504694975405445,
+        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
+        "created_at": "2026-11-03T09:35:34.717763+00:00",
+        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6473242972751565,
+        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
+        "created_at": "2026-11-03T09:30:14.697487+00:00",
+        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+      },
+      {
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
+        "score": 0.6463378629083006,
+        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
+        "created_at": "2026-11-03T09:31:15.570485+00:00",
+        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by a long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6457481854458259,
+        "id": "4925d445-d20a-4b10-bf75-45aeb2ec8ca9",
+        "created_at": "2026-11-03T09:30:21.645897+00:00",
+        "updated_at": "2026-11-03T09:30:21.645897+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6443658055928728,
+        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
+        "created_at": "2026-11-03T09:30:37.451291+00:00",
+        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6441340852241303,
+        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
+        "created_at": "2026-11-03T09:30:34.554745+00:00",
+        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.64288464600386,
+        "id": "44f7d7be-9e15-4541-a101-41dfe20d48f3",
+        "created_at": "2026-11-03T09:30:29.893060+00:00",
+        "updated_at": "2026-11-03T09:30:29.893060+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
+        "score": 0.6384923109271678,
+        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
+        "created_at": "2026-11-03T09:29:25.434971+00:00",
+        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+      }
+    ],
+    "search_latency_ms": 152.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's team sport scrimmage and the team's growth in communication and bonding",
+      "memories_evaluated": 10,
+      "reason": "The generated answer focuses on a specific team sport scrimmage and bonding, which does not match the gold answer's broader topics of academic achievements and sports successes, and contains no overlapping correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's team sport scrimmage and the team's growth in communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer focuses on a specific team sport scrimmage and bonding, which does not match the gold answer's broader topics of academic achievements and sports successes, and contains no overlapping correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's team sport scrimmage and the team's growth in communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer focuses on a specific team sport scrimmage and bonding, which does not match the gold answer's broader topics of academic achievements and sports successes, and contains no overlapping correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's team sport scrimmage and the team's growth in communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer focuses on a specific team sport scrimmage and bonding, which does not match the gold answer's broader topics of academic achievements and sports successes, and contains no overlapping correct items."
+    }
+  }
+}

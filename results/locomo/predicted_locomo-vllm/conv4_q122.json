@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q122",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What has John been able to help the younger players achieve?",
+  "ground_truth_answer": "reach their goals",
+  "evidence": [
+    "D14:5"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What has John been able to help the younger players achieve?",
+    "search_results": [
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
+        "score": 0.864642568371114,
+        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
+        "created_at": "2026-11-03T09:18:54.870502+00:00",
+        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
+        "score": 0.8555179104316973,
+        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
+        "created_at": "2026-11-03T09:18:35.338157+00:00",
+        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+      },
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.8138280100881369,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      },
+      {
+        "memory": "John collaborates with organizations to create more opportunities for young athletes, believing it is important that every kid has access to good sports programs.",
+        "score": 0.7951764861755553,
+        "id": "8b2c74c4-52d1-4d62-8658-277f506452e4",
+        "created_at": "2026-11-03T09:34:53.936576+00:00",
+        "updated_at": "2026-11-03T09:34:53.936576+00:00"
+      },
+      {
+        "memory": "John is a role model for young athletes and finds it fulfilling to use his experiences to shape their future and inspire them to pursue their dreams.",
+        "score": 0.7723786616989978,
+        "id": "b4104ef0-f122-43ba-b9ea-02154085b32f",
+        "created_at": "2026-11-03T09:19:18.903430+00:00",
+        "updated_at": "2026-11-03T09:19:18.903430+00:00"
+      },
+      {
+        "memory": "John works on supporting youth sports and fighting for fair chances in sports for underserved communities, collaborating with organizations to create opportunities for young athletes.",
+        "score": 0.7719537401767164,
+        "id": "48b9a0d7-1ae8-4d1b-959d-fee23c829471",
+        "created_at": "2026-11-03T09:35:02.369837+00:00",
+        "updated_at": "2026-11-03T09:35:02.369837+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.7602785264771252,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he inspired young athletes and saw their potential.",
+        "score": 0.728784090263959,
+        "id": "807154bf-2885-4001-ba0a-6011b7e030c8",
+        "created_at": "2026-11-03T09:34:58.108399+00:00",
+        "updated_at": "2026-11-03T09:34:58.108399+00:00"
+      },
+      {
+        "memory": "John stated that he uses his influence and resources to help causes he believes in, specifically focusing on supporting youth sports and fighting for fair chances in sports for underserved communities.",
+        "score": 0.6723393229039261,
+        "id": "022f80ca-825f-4ded-814d-8a39059acc5f",
+        "created_at": "2026-11-03T09:35:05.190336+00:00",
+        "updated_at": "2026-11-03T09:35:05.190336+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6401219866894825,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.6380405221371926,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
+        "score": 0.6344301281185915,
+        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
+        "created_at": "2026-11-03T09:15:54.760026+00:00",
+        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+      },
+      {
+        "memory": "John shared that he faced a tough time in basketball when he made a significant mistake during a big game, which was hard to accept but taught him the importance of resilience and owning up to mistakes to keep growing as a player and teammate.",
+        "score": 0.6266758409865243,
+        "id": "c3942134-7fe7-4303-a64e-0d0e42748b71",
+        "created_at": "2026-11-03T09:27:30.848083+00:00",
+        "updated_at": "2026-11-03T09:27:30.848083+00:00"
+      },
+      {
+        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
+        "score": 0.6230319343217713,
+        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
+        "created_at": "2026-11-03T09:33:53.682920+00:00",
+        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.621604341997062,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who recently found a new gym to maintain his fitness, noting that staying fit is essential for surviving in pro ball.",
+        "score": 0.6173850577909288,
+        "id": "11974f98-44e1-41d4-bc42-0a93888952bc",
+        "created_at": "2026-11-03T09:09:22.068324+00:00",
+        "updated_at": "2026-11-03T09:09:22.068324+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6132148666586749,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John's basketball team has seen the most growth in communication and bonding, which has improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.612253619182577,
+        "id": "0faf66fb-99c5-4663-ab4b-c85bbb363304",
+        "created_at": "2026-11-03T09:34:01.061702+00:00",
+        "updated_at": "2026-11-03T09:34:01.061702+00:00"
+      },
+      {
+        "memory": "John is currently focusing on improving his shooting and making a greater impact on the court, with the goal of being known as a consistent performer who helps his team.",
+        "score": 0.6006123201686318,
+        "id": "b8d5246a-42df-4376-8ad6-bddf2d32abd3",
+        "created_at": "2026-11-03T09:14:58.688861+00:00",
+        "updated_at": "2026-11-03T09:14:58.688861+00:00"
+      },
+      {
+        "memory": "John has seen LeBron James play live and found it tough but educational, noting that he learned a lot from watching a top player like him.",
+        "score": 0.599314226015901,
+        "id": "bdf0e801-bcb4-44a2-b060-9ebed2d0cf4b",
+        "created_at": "2026-11-03T09:17:12.054414+00:00",
+        "updated_at": "2026-11-03T09:17:12.054414+00:00"
+      }
+    ],
+    "search_latency_ms": 130.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "develop confidence and reach their goals",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the exact phrase 'reach their goals' from the gold answer, and adding 'develop confidence' is acceptable extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "develop confidence, reach their goals, and pursue their dreams",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact phrase 'reach their goals' from the gold answer, along with additional related details, which satisfies the partial credit and extra detail rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "develop confidence, reach their goals, and pursue their dreams",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact phrase 'reach their goals' from the gold answer, along with additional related details, which satisfies the partial credit and extra detail rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "develop confidence, reach their goals, and pursue their dreams",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact phrase 'reach their goals' from the gold answer, along with additional related details, which satisfies the partial credit and extra detail rules."
+    }
+  }
+}

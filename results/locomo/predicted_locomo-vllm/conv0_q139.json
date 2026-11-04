@@ -8,42 +8,183 @@
   "evidence": [
     "D17:18"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What was the poetry reading that Caroline attended about?",
-    "search_results": [],
-    "search_latency_ms": 13.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, and found the experience really powerful.",
+        "score": 0.7076600763590024,
+        "id": "1e71240d-9bf4-44fe-bc20-b75828d38a38",
+        "created_at": "2026-11-04T06:02:48.621085+00:00",
+        "updated_at": "2026-11-04T06:02:48.621085+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, which she found really powerful.",
+        "score": 0.6993044778947278,
+        "id": "c1207f7f-8cce-4176-9481-8d137bb611c8",
+        "created_at": "2026-11-04T06:02:51.865600+00:00",
+        "updated_at": "2026-11-04T06:02:51.865600+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading where participants shared their stories, describing the event as an empowering and safe space for self-expression that inspired her to create art.",
+        "score": 0.6885935558809144,
+        "id": "386d5078-93d7-4046-b561-00195dfb8511",
+        "created_at": "2026-11-04T06:03:21.410586+00:00",
+        "updated_at": "2026-11-04T06:03:21.410586+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where trans people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.6743602024608414,
+        "id": "5e003e28-6f0b-44aa-931a-9b1c8016ce06",
+        "created_at": "2026-11-04T06:03:01.226771+00:00",
+        "updated_at": "2026-11-04T06:03:01.226771+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment for self-expression.",
+        "score": 0.6739802122003382,
+        "id": "a9ed52d7-341a-471f-90bf-d8d739bf0ede",
+        "created_at": "2026-11-04T06:03:09.405351+00:00",
+        "updated_at": "2026-11-04T06:03:09.405351+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.6730176412119382,
+        "id": "c4ee2227-5f3f-4c6e-86a6-64baaeae566a",
+        "created_at": "2026-11-04T06:03:14.139873+00:00",
+        "updated_at": "2026-11-04T06:03:14.139873+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.6730176412119382,
+        "id": "78c0695b-4fef-4efb-81c7-afe612f83320",
+        "created_at": "2026-11-04T06:03:04.544941+00:00",
+        "updated_at": "2026-11-04T06:03:04.544941+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6712583839506637,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 6, 2023, which she found powerful and empowering as a safe space for self-expression and identity celebration.",
+        "score": 0.6697544581380972,
+        "id": "b700c66b-1ff2-4a03-a495-2655e2494a1b",
+        "created_at": "2026-11-04T06:02:58.553913+00:00",
+        "updated_at": "2026-11-04T06:02:58.553913+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry, finding it empowering and a safe space for self-expression",
+        "score": 0.6663218093459211,
+        "id": "30f8c8ef-21ab-4eda-ace0-facc1c24dc93",
+        "created_at": "2026-11-04T06:02:55.378037+00:00",
+        "updated_at": "2026-11-04T06:02:55.378037+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books, describing them as guides that motivate her and help her discover who she is, and considers them a huge part of her personal journey.",
+        "score": 0.6660533940201089,
+        "id": "b9f79b1b-4c66-4c9a-83ec-f0d276e42298",
+        "created_at": "2026-11-04T05:22:37.040877+00:00",
+        "updated_at": "2026-11-04T05:22:37.040877+00:00"
+      },
+      {
+        "memory": "The transgender poetry reading Caroline attended was described as having an electric atmosphere with strong support, featuring posters that displayed pride and strength, which inspired her to create new art.",
+        "score": 0.6657358745038974,
+        "id": "cf789b17-7ef4-47f6-af4e-b0c07a10246c",
+        "created_at": "2026-11-04T06:03:04.549470+00:00",
+        "updated_at": "2026-11-04T06:03:04.549470+00:00"
+      },
+      {
+        "memory": "The transgender poetry reading inspired Caroline to create new art, resulting in a drawing of a woman in a dress featuring the transgender flag.",
+        "score": 0.6545723324976123,
+        "id": "4cebd35e-320e-4e7f-9551-6834eb4e66a4",
+        "created_at": "2026-11-04T06:03:01.231202+00:00",
+        "updated_at": "2026-11-04T06:03:01.231202+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6503678399566293,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library for future children, planning to read to them to open their minds, and has collected classics, stories from different cultures, and educational books.",
+        "score": 0.631469590966065,
+        "id": "a9031786-2e2a-4afd-9b3e-8b16ccdbe1fd",
+        "created_at": "2026-11-04T05:21:52.372558+00:00",
+        "updated_at": "2026-11-04T05:21:52.372558+00:00"
+      },
+      {
+        "memory": "Inspired by the transgender poetry reading she attended on October 13, 2023, Caroline drew a picture of a woman in a dress which she says stands for freedom, being real, and embracing her womanhood.",
+        "score": 0.629623143251297,
+        "id": "7369a5f9-dfeb-48c7-90dc-d954ac05e607",
+        "created_at": "2026-11-04T06:03:14.145255+00:00",
+        "updated_at": "2026-11-04T06:03:14.145255+00:00"
+      },
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from reading 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.6292770926713201,
+        "id": "771f368f-bfdd-4505-b586-6bb7ccdb25bc",
+        "created_at": "2026-11-04T05:22:49.555490+00:00",
+        "updated_at": "2026-11-04T05:22:49.555490+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library of children's books, including classics, stories from different cultures, and educational books, in preparation for when she has kids so she can read to them and open their minds.",
+        "score": 0.6251671585412437,
+        "id": "36b2d538-1306-4def-8ba8-913a467e0881",
+        "created_at": "2026-11-04T05:21:46.426010+00:00",
+        "updated_at": "2026-11-04T05:21:46.426010+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books as they guide, motivate, and help her discover her identity; her favorite book is 'Becoming Nicole' by Amy Ellis Nutt, which she recommends for its inspiring true story about a trans girl and her family.",
+        "score": 0.6185792194181989,
+        "id": "01ff2706-a609-4a09-bc97-44787ac914e4",
+        "created_at": "2026-11-04T05:22:26.627474+00:00",
+        "updated_at": "2026-11-04T05:22:26.627474+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.3918132391367881,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      }
+    ],
+    "search_latency_ms": 120.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It was a transgender poetry reading where transgender people shared their stories through poetry.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly, adding only the minor detail 'through poetry' which is consistent with the context."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It was a transgender poetry reading where transgender people shared their stories through poetry.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly, adding only the minor detail 'through poetry' which is consistent with the context."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It was a transgender poetry reading where transgender people shared their stories.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer, correctly identifying the event as a transgender poetry reading where stories were shared."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It was a transgender poetry reading where transgender people shared their stories.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer, correctly identifying the event as a transgender poetry reading where stories were shared."
     }
   }
 }

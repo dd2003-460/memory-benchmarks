@@ -8,42 +8,183 @@
   "evidence": [
     "D17:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie's friend adopt a child?",
-    "search_results": [],
-    "search_latency_ms": 27.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.735846718151487,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.7352543678461289,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.7345834012692806,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.7254214512792714,
+        "id": "2bc47d0a-3c29-4725-a725-80df11e1227e",
+        "created_at": "2026-11-04T06:02:29.193621+00:00",
+        "updated_at": "2026-11-04T06:02:29.193621+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.7254214512792714,
+        "id": "bb1995bd-bb07-4650-817b-5866292e11c6",
+        "created_at": "2026-11-04T06:02:15.985633+00:00",
+        "updated_at": "2026-11-04T06:02:15.985633+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.724034017131753,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child after a friend adopted last year and was happy with the process, viewing it as a way to add to her family.",
+        "score": 0.6966236004967362,
+        "id": "1d4d69c3-0b70-48e3-85b0-99309e13d172",
+        "created_at": "2026-11-04T06:02:40.707187+00:00",
+        "updated_at": "2026-11-04T06:02:40.707187+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.6708380590814433,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child after hearing about her friend's successful adoption last year, and she asked Caroline for tips on getting started with the process.",
+        "score": 0.6669909537904595,
+        "id": "5c62cc8f-e5db-4b08-a704-cddb3c99bb6a",
+        "created_at": "2026-11-04T06:02:35.252791+00:00",
+        "updated_at": "2026-11-04T06:02:35.252791+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child and was advised by Caroline to research adoption agencies or lawyers, gather documents like references and financial info, and prepare emotionally for the wait.",
+        "score": 0.6491068303752738,
+        "id": "1015ae46-f98e-441a-8cde-043b63aa39c5",
+        "created_at": "2026-11-04T06:02:43.905056+00:00",
+        "updated_at": "2026-11-04T06:02:43.905056+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.6454821486660024,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie on adoption steps: research agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the wait.",
+        "score": 0.6419698427165708,
+        "id": "5810ef9b-e8ed-43ce-a508-663a8f197c90",
+        "created_at": "2026-11-04T06:02:40.711982+00:00",
+        "updated_at": "2026-11-04T06:02:40.711982+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.6403043554155905,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of herself and a child hiking on a mountain trail with Caroline on October 20, 2023, while discussing how her children handled a recent accident involving their brother.",
+        "score": 0.6393489752416963,
+        "id": "0fcabfa7-3314-4bac-9856-1f7e8186d018",
+        "created_at": "2026-11-04T06:03:50.702337+00:00",
+        "updated_at": "2026-11-04T06:03:50.702337+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching agencies or lawyers, gathering documents like references and financial info, and preparing emotionally for the wait.",
+        "score": 0.6388910100516774,
+        "id": "ecbc9a09-eb8e-443f-91f4-18fbce10f007",
+        "created_at": "2026-11-04T06:02:29.197295+00:00",
+        "updated_at": "2026-11-04T06:02:29.197295+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the potentially difficult wait involved in the adoption process.",
+        "score": 0.6374587937178396,
+        "id": "dbd69217-5a7a-44c7-ac27-56d9118bd6f0",
+        "created_at": "2026-11-04T06:02:24.078879+00:00",
+        "updated_at": "2026-11-04T06:02:24.078879+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching and selecting an adoption agency or lawyer, gathering documents such as references, financial information, and medical checks, and preparing emotionally for the difficult wait.",
+        "score": 0.6371140452043262,
+        "id": "1b110363-fcbd-4daa-bf90-5463b8ed2f7e",
+        "created_at": "2026-11-04T06:02:21.072800+00:00",
+        "updated_at": "2026-11-04T06:02:21.072800+00:00"
+      },
+      {
+        "memory": "Caroline offered to help Melanie in any way she can if Melanie decides to pursue adoption in the future.",
+        "score": 0.6363643796516388,
+        "id": "9c8cf599-3e1e-4d33-8aaf-d91c7b03c272",
+        "created_at": "2026-11-04T06:02:18.585533+00:00",
+        "updated_at": "2026-11-04T06:02:18.585533+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references and financial info, and prepare emotionally for the wait involved in the adoption process.",
+        "score": 0.6352932552758062,
+        "id": "46394a3e-8fb0-43e8-aad3-86ef27c463c0",
+        "created_at": "2026-11-04T06:02:35.256594+00:00",
+        "updated_at": "2026-11-04T06:02:35.256594+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6345312885763724,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      }
+    ],
+    "search_latency_ms": 98.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "late 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'late 2022' is consistent with the gold answer '2022' and falls within the acceptable date tolerance."
     }
   }
 }

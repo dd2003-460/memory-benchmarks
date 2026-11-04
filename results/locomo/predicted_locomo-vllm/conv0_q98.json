@@ -8,42 +8,183 @@
   "evidence": [
     "D4:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What was discussed in the LGBTQ+ counseling workshop?",
-    "search_results": [],
-    "search_latency_ms": 25.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered different therapeutic methods for supporting the community",
+        "score": 0.9067248271677064,
+        "id": "b97974f1-b1d9-4eb1-a62a-3ac9047939aa",
+        "created_at": "2026-11-04T05:18:40.784379+00:00",
+        "updated_at": "2026-11-04T05:18:40.784379+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered various therapeutic methods for supporting the community.",
+        "score": 0.8974111244955282,
+        "id": "87f8fb76-e4ac-4102-806a-025a6332f01c",
+        "created_at": "2026-11-04T05:18:46.224165+00:00",
+        "updated_at": "2026-11-04T05:18:46.224165+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 30, 2023, which she found enlightening as it covered various therapeutic methods for supporting the community.",
+        "score": 0.8969297872326477,
+        "id": "dcb1eb24-2a06-4162-b4e9-170791dd92da",
+        "created_at": "2026-11-04T05:18:59.459913+00:00",
+        "updated_at": "2026-11-04T05:18:59.459913+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which was enlightening as it covered different therapeutic methods for supporting trans people.",
+        "score": 0.8883443383695383,
+        "id": "a55f6f99-3c13-41da-bc90-971bb277c42d",
+        "created_at": "2026-11-04T05:18:35.286502+00:00",
+        "updated_at": "2026-11-04T05:18:35.286502+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ counseling workshop on June 23, 2023, which she found enlightening as it covered therapeutic methods for working with trans people and the importance of creating safe spaces.",
+        "score": 0.8880525157741083,
+        "id": "8e24e8e3-4efa-4983-bfc4-1fc4f02e414e",
+        "created_at": "2026-11-04T05:18:23.674079+00:00",
+        "updated_at": "2026-11-04T05:18:23.674079+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who identifies with the LGBTQ community and is actively looking into careers in counseling and mental health to help others.",
+        "score": 0.7606642310657796,
+        "id": "1eaf9720-034e-40a4-aa8a-f0689cb2cfdd",
+        "created_at": "2026-11-04T05:22:26.616937+00:00",
+        "updated_at": "2026-11-04T05:22:26.616937+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ+ pride parade motivated Caroline to use her personal story to help others, reinforcing her decision to pursue a career in counseling and mental health.",
+        "score": 0.742756212382613,
+        "id": "dad7653b-c031-4a1d-94c1-bd1fef6d563c",
+        "created_at": "2026-11-04T05:19:54.435441+00:00",
+        "updated_at": "2026-11-04T05:19:54.435441+00:00"
+      },
+      {
+        "memory": "Caroline is organizing a concert featuring LGBTQ artists with the goal of spreading understanding and acceptance, as discussed on August 28, 2023.",
+        "score": 0.7162054884865292,
+        "id": "f1fc3fd4-580d-4be2-91cc-878bcd813e7d",
+        "created_at": "2026-11-04T06:00:29.002091+00:00",
+        "updated_at": "2026-11-04T06:00:29.002091+00:00"
+      },
+      {
+        "memory": "Caroline is exploring counseling and mental health as a career with a specific focus on working with trans people to help them accept themselves and support their mental health",
+        "score": 0.7115033295664595,
+        "id": "0b8d07f6-3f44-4328-a93a-da84960d7f85",
+        "created_at": "2026-11-04T05:18:40.782217+00:00",
+        "updated_at": "2026-11-04T05:18:40.782217+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career in counseling specifically focused on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.7109150913439836,
+        "id": "6479b1f2-5334-41bf-86e3-e462e7e57b35",
+        "created_at": "2026-11-04T05:18:23.669598+00:00",
+        "updated_at": "2026-11-04T05:18:23.669598+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health, specifically aiming to work with trans people to help them accept themselves and support their well-being.",
+        "score": 0.6914347669705461,
+        "id": "37428ab2-c9bd-4028-b396-e3dbf4e75f93",
+        "created_at": "2026-11-04T05:18:59.455901+00:00",
+        "updated_at": "2026-11-04T05:18:59.455901+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health with a specific focus on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.6899900088554639,
+        "id": "91a17369-c18b-4081-8ce6-14e834c3bc4e",
+        "created_at": "2026-11-04T05:18:46.221470+00:00",
+        "updated_at": "2026-11-04T05:18:46.221470+00:00"
+      },
+      {
+        "memory": "Caroline is interested in pursuing a career in counseling or working in mental health, motivated by a desire to support individuals with similar issues to her own, as discussed with Melanie on May 8, 2023",
+        "score": 0.5672023046582593,
+        "id": "6e1018da-6f75-421c-af8d-6630f90572c0",
+        "created_at": "2026-11-04T05:14:27.579779+00:00",
+        "updated_at": "2026-11-04T05:14:27.579779+00:00"
+      },
+      {
+        "memory": "The 'Connected LGBTQ Activists' group holds regular meetings and plans events and campaigns to promote positive changes and support each other.",
+        "score": 0.38366724613926606,
+        "id": "7b07f33a-1b3e-4bb7-8b82-0cb242ffc4a7",
+        "created_at": "2026-11-04T05:52:40.066334+00:00",
+        "updated_at": "2026-11-04T05:52:40.066334+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.37106398661323325,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ conference on July 10, 2023, reinforced Caroline's commitment to fighting for trans rights and spreading awareness within the community.",
+        "score": 0.369548312588581,
+        "id": "c70217a9-59b9-40ed-a70c-bb2c26baff79",
+        "created_at": "2026-11-04T05:22:00.063196+00:00",
+        "updated_at": "2026-11-04T05:22:00.063196+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 14-16, 2023, and finds it rewarding to help the community",
+        "score": 0.3669027716039438,
+        "id": "a6a130ce-a602-4a10-af0c-c9bbc6e8dc88",
+        "created_at": "2026-11-04T05:24:37.874534+00:00",
+        "updated_at": "2026-11-04T05:24:37.874534+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.36333122955845554,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt welcomed and accepted in the environment",
+        "score": 0.3616617548288386,
+        "id": "7b970cfb-db33-4fbf-8d2b-2f4d91a96cd7",
+        "created_at": "2026-11-04T05:22:16.330244+00:00",
+        "updated_at": "2026-11-04T05:22:16.330244+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community support.",
+        "score": 0.3581107737875082,
+        "id": "02834b4a-5317-429b-b676-9747d05e425c",
+        "created_at": "2026-11-04T05:22:21.030823+00:00",
+        "updated_at": "2026-11-04T05:22:21.030823+00:00"
+      }
+    ],
+    "search_latency_ms": 124.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The workshop covered therapeutic methods for working with trans people and the importance of creating safe spaces.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the core concepts of 'therapeutic methods' and 'working with trans people' from the gold answer, adding extra detail about safe spaces which is acceptable."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The workshop covered therapeutic methods for working with and supporting trans people and the importance of creating safe spaces.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core concepts of 'therapeutic methods' and 'working with trans people' from the gold answer, adding extra detail about safe spaces which is acceptable."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "therapeutic methods for working with trans people and the importance of creating safe spaces",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'therapeutic methods for working with trans people', which directly matches the core concepts of 'therapeutic methods' and 'how to best work with trans people' from the gold answer, with the addition of 'safe spaces' being acceptable extra detail."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The workshop covered therapeutic methods for working with trans people and the importance of creating safe spaces.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core concepts of 'therapeutic methods' and 'working with trans people' from the gold answer, adding extra detail about safe spaces which is acceptable."
     }
   }
 }

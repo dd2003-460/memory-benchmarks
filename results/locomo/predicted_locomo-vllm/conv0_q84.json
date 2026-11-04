@@ -8,42 +8,183 @@
   "evidence": [
     "D2:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How does Melanie prioritize self-care?",
-    "search_results": [],
-    "search_latency_ms": 29.3,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie stated on May 25, 2023, that she is realizing self-care is important and views it as a journey, noting that when she looks after herself, she is better able to look after her family",
+        "score": 0.9034974265905354,
+        "id": "8fe17a51-e3fd-4722-baf7-88289be034d1",
+        "created_at": "2026-11-04T05:15:29.454261+00:00",
+        "updated_at": "2026-11-04T05:15:29.454261+00:00"
+      },
+      {
+        "memory": "Melanie ran a charity race for mental health on May 21, 2023, and found the experience rewarding as it made her reflect on the importance of taking care of their minds",
+        "score": 0.6991087187173932,
+        "id": "dee1aa03-dfaa-4293-affd-b0f743cc82a7",
+        "created_at": "2026-11-04T05:15:23.901063+00:00",
+        "updated_at": "2026-11-04T05:15:23.901063+00:00"
+      },
+      {
+        "memory": "Melanie suffered an injury in September 2023 that forced her to take a break from pottery, an activity she relies on for self-expression and peace.",
+        "score": 0.6734969204770509,
+        "id": "b50182b5-cf44-44a4-a443-aaa26014617d",
+        "created_at": "2026-11-04T06:02:24.082912+00:00",
+        "updated_at": "2026-11-04T06:02:24.082912+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.670489775080425,
+        "id": "43ee7bde-bae5-43e7-8db9-c472274a26e7",
+        "created_at": "2026-11-04T06:02:43.907493+00:00",
+        "updated_at": "2026-11-04T06:02:43.907493+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.666253246163172,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.666253246163172,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie suffered an injury in September 2023 that forced her to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.663726156780893,
+        "id": "025a604d-6e4b-489c-a27a-1ed7a67cd6e1",
+        "created_at": "2026-11-04T06:02:35.260053+00:00",
+        "updated_at": "2026-11-04T06:02:35.260053+00:00"
+      },
+      {
+        "memory": "Melanie uses pottery as a form of self-expression and peace, but had to take a break from it after getting hurt in September 2023.",
+        "score": 0.6603383019454644,
+        "id": "cba492d6-f1d9-490b-92f8-e534c2b93c15",
+        "created_at": "2026-11-04T06:02:32.142480+00:00",
+        "updated_at": "2026-11-04T06:02:32.142480+00:00"
+      },
+      {
+        "memory": "Melanie suffered an injury in September 2023 that forced her to take a break from pottery, an activity she uses for self-expression and peace.",
+        "score": 0.6584728912989223,
+        "id": "10bccace-ddb3-4722-acda-278afc3fe036",
+        "created_at": "2026-11-04T06:02:29.200407+00:00",
+        "updated_at": "2026-11-04T06:02:29.200407+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.40235148872048787,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.40074071215680973,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.40021300018938344,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.395485902413392,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Caroline offered to help Melanie in any way she can if Melanie decides to pursue adoption in the future.",
+        "score": 0.39165205990873747,
+        "id": "9c8cf599-3e1e-4d33-8aaf-d91c7b03c272",
+        "created_at": "2026-11-04T06:02:18.585533+00:00",
+        "updated_at": "2026-11-04T06:02:18.585533+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.3913413137192581,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.3846215339737901,
+        "id": "bb1995bd-bb07-4650-817b-5866292e11c6",
+        "created_at": "2026-11-04T06:02:15.985633+00:00",
+        "updated_at": "2026-11-04T06:02:15.985633+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.3846215339737901,
+        "id": "2bc47d0a-3c29-4725-a725-80df11e1227e",
+        "created_at": "2026-11-04T06:02:29.193621+00:00",
+        "updated_at": "2026-11-04T06:02:29.193621+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.3762053197390231,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.3752891610832338,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.3497410362571502,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      }
+    ],
+    "search_latency_ms": 87.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie prioritizes self-care by viewing it as a journey that allows her to better look after her family, and she specifically relies on pottery as a form of self-expression and peace.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions pottery as a self-care activity, which is not in the gold answer's list of running, reading, or playing the violin, and it does not mention any of the correct activities or the concept of daily me-time."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie prioritizes self-care by viewing it as a journey and recognizing that when she looks after herself, she is better able to look after her family. She also uses pottery as a form of self-expression and peace.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions pottery and a general philosophy, but fails to include any of the specific activities (running, reading, playing the violin) or the core concept of daily 'me-time' found in the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie prioritizes self-care by viewing it as a journey and recognizing that when she looks after herself, she is better able to look after her family. She also uses pottery as a form of self-expression and peace.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions pottery and a general philosophy, but fails to include any of the specific activities (running, reading, playing the violin) or the core concept of daily 'me-time' found in the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie prioritizes self-care by viewing it as a journey that allows her to better look after her family, and she engages in pottery as a specific activity for self-expression and peace.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions pottery, which is not in the gold answer's list of activities (running, reading, playing the violin), and does not mention any of the correct items."
     }
   }
 }

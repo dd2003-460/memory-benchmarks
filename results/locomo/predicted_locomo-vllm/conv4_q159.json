@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q159",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of seminars is John conducting?",
+  "ground_truth_answer": "Sports and marketing seminars",
+  "evidence": [
+    "D26:1"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What type of seminars is John conducting?",
+    "search_results": [
+      {
+        "memory": "John started conducting seminars around late December 2023, helping people with their sports and marketing efforts, which he found to be an awesome experience.",
+        "score": 0.6886401416877377,
+        "id": "14e58c52-e9b9-4ffc-8b5b-f79534fa266c",
+        "created_at": "2026-11-03T09:34:11.776947+00:00",
+        "updated_at": "2026-11-03T09:34:11.776947+00:00"
+      },
+      {
+        "memory": "John started conducting seminars in late December 2023 to help people with sports and marketing, describing the experience as awesome.",
+        "score": 0.6886061947354852,
+        "id": "3cecbf79-6d37-4d0a-85da-712b090a20b8",
+        "created_at": "2026-11-03T09:34:09.327204+00:00",
+        "updated_at": "2026-11-03T09:34:09.327204+00:00"
+      },
+      {
+        "memory": "John started conducting seminars in late December 2023 to help aspiring professionals with sports and marketing, describing the experience as awesome and noting that participants were eager and motivated.",
+        "score": 0.6834889834088111,
+        "id": "861facf1-0dad-49a8-bb74-e815c1f34624",
+        "created_at": "2026-11-03T09:34:16.749926+00:00",
+        "updated_at": "2026-11-03T09:34:16.749926+00:00"
+      },
+      {
+        "memory": "John's seminars in late December 2023 went really well, with aspiring professionals described as eager and motivated, and he expressed happiness at sharing his knowledge to help them.",
+        "score": 0.681062618094595,
+        "id": "9670136b-ba40-494a-bd00-371ead81cd2c",
+        "created_at": "2026-11-03T09:34:14.047614+00:00",
+        "updated_at": "2026-11-03T09:34:14.047614+00:00"
+      },
+      {
+        "memory": "John started conducting seminars in late December 2023, helping aspiring professionals with sports and marketing, and found the experience rewarding as participants were eager and motivated.",
+        "score": 0.6740340432726375,
+        "id": "7cf9741e-fb76-485e-8fd6-63604bc46a05",
+        "created_at": "2026-11-03T09:34:23.205177+00:00",
+        "updated_at": "2026-11-03T09:34:23.205177+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.30247198086996896,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
+        "score": 0.2581105575432405,
+        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
+        "created_at": "2026-11-03T09:20:44.101606+00:00",
+        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+      },
+      {
+        "memory": "John is trying out yoga to build extra strength and flexibility, finding the practice challenging but worthwhile.",
+        "score": 0.23083739228168754,
+        "id": "b1593dbd-2bf7-4f4f-9bcd-b209c9a216e5",
+        "created_at": "2026-11-03T09:29:08.079406+00:00",
+        "updated_at": "2026-11-03T09:29:08.079406+00:00"
+      },
+      {
+        "memory": "John uses visualization of goals and success as a technique to stay focused and motivated during difficult study sessions",
+        "score": 0.22999402906187374,
+        "id": "b327633e-b46d-4ed5-95d0-00a2d1924bb6",
+        "created_at": "2026-11-03T09:26:25.480492+00:00",
+        "updated_at": "2026-11-03T09:26:25.480492+00:00"
+      },
+      {
+        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
+        "score": 0.22585594135197118,
+        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
+        "created_at": "2026-11-03T09:34:49.170106+00:00",
+        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+      },
+      {
+        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
+        "score": 0.22354949454351575,
+        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
+        "created_at": "2026-11-03T09:12:31.250600+00:00",
+        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+      },
+      {
+        "memory": "John uses his influence and resources to help causes he believes in, with a focus on making the world a better place.",
+        "score": 0.2159554460289166,
+        "id": "c28d9dd6-76e9-43af-b316-f30a66df915b",
+        "created_at": "2026-11-03T09:35:02.366791+00:00",
+        "updated_at": "2026-11-03T09:35:02.366791+00:00"
+      },
+      {
+        "memory": "John has recently joined a hiking club, and some of his friends from the club attended his wedding ceremony around September 25, 2023, despite him having just joined the group.",
+        "score": 0.20980908015012467,
+        "id": "53e38743-c8e5-4f4c-ad15-a3f9c2827da2",
+        "created_at": "2026-11-03T09:16:27.184379+00:00",
+        "updated_at": "2026-11-03T09:16:27.184379+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.20970782329989862,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill and the experience as wild.",
+        "score": 0.20930174597180393,
+        "id": "4f7c1ee8-b6ab-4992-9aea-d694d24bb52c",
+        "created_at": "2026-11-03T09:17:12.049521+00:00",
+        "updated_at": "2026-11-03T09:17:12.049521+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.2076582735029521,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "Some of John's hiking club friends attended his wedding ceremony in a greenhouse around September 25, 2023, even though he had only recently joined the club.",
+        "score": 0.2060420601214346,
+        "id": "7a694165-bc68-4d0d-9f8c-0646627fbae1",
+        "created_at": "2026-11-03T09:16:32.616110+00:00",
+        "updated_at": "2026-11-03T09:16:32.616110+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.20457418770728317,
+        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
+        "created_at": "2026-11-03T09:33:30.168403+00:00",
+        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.20457418770728317,
+        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
+        "created_at": "2026-11-03T09:33:27.522504+00:00",
+        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+      },
+      {
+        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
+        "score": 0.2039687397267526,
+        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
+        "created_at": "2026-11-03T09:20:44.104295+00:00",
+        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+      }
+    ],
+    "search_latency_ms": 117.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sports and marketing",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'sports and marketing' contains the exact core concepts of the gold answer 'Sports and marketing seminars', simply omitting the word 'seminars' which is already present in the question."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sports and marketing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'sports and marketing' contains the exact core concepts of the gold answer 'Sports and marketing seminars', simply omitting the word 'seminars' which is already present in the question."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sports and marketing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'sports and marketing' contains the exact core concepts of the gold answer 'Sports and marketing seminars', simply omitting the word 'seminars' which is already present in the question."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sports and marketing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'sports and marketing' contains the exact core concepts of the gold answer 'Sports and marketing seminars', simply omitting the word 'seminars' which is already present in the question."
+    }
+  }
+}

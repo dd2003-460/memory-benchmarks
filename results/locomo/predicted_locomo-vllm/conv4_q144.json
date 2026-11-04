@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q144",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How long does John usually hold the yoga pose he shared with Tim?",
+  "ground_truth_answer": "30-60 seconds",
+  "evidence": [
+    "D20:10"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How long does John usually hold the yoga pose he shared with Tim?",
+    "search_results": [
+      {
+        "memory": "John typically holds the Warrior II yoga pose for 30-60 seconds to build strength and stability.",
+        "score": 0.7193042026321252,
+        "id": "bfa58b48-cad3-4bde-b2c3-3da3889d4de2",
+        "created_at": "2026-11-03T09:29:08.087263+00:00",
+        "updated_at": "2026-11-03T09:29:08.087263+00:00"
+      },
+      {
+        "memory": "John typically holds the Warrior II yoga pose for 30-60 seconds, noting that it helps build strength and stability in his legs and core.",
+        "score": 0.7190121522257008,
+        "id": "5e420670-7076-4f22-ad68-3ca1b59b0b2c",
+        "created_at": "2026-11-03T09:28:58.405908+00:00",
+        "updated_at": "2026-11-03T09:28:58.405908+00:00"
+      },
+      {
+        "memory": "Tim plans to try the Warrior II yoga pose after John shared a photo of himself performing it on a blue mat.",
+        "score": 0.6909191535042934,
+        "id": "19f371e0-ac6c-47d9-b011-9dac094f1c2e",
+        "created_at": "2026-11-03T09:29:08.090564+00:00",
+        "updated_at": "2026-11-03T09:29:08.090564+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II pose for strength and another balance-focused pose for stability, typically holding poses for 30-60 seconds to build strength and stability.",
+        "score": 0.6641805360128343,
+        "id": "9af2da00-0d21-44e6-bb47-1257bee9d523",
+        "created_at": "2026-11-03T09:29:03.719053+00:00",
+        "updated_at": "2026-11-03T09:29:03.719053+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II pose in his yoga routine because it makes him feel strong, and he also practices a balance-focused pose for stability.",
+        "score": 0.6537000152431086,
+        "id": "de5206c2-eecb-469f-a680-702e86c051d8",
+        "created_at": "2026-11-03T09:29:08.084144+00:00",
+        "updated_at": "2026-11-03T09:29:08.084144+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II and a balance-focused pose in his yoga routine, noting that these poses make him feel strong and challenge both his body and mind.",
+        "score": 0.651129714360368,
+        "id": "0175b5bd-39c1-4a7f-958d-d06376373c75",
+        "created_at": "2026-11-03T09:28:48.196046+00:00",
+        "updated_at": "2026-11-03T09:28:48.196046+00:00"
+      },
+      {
+        "memory": "John is trying out yoga to build extra strength and flexibility, finding the practice challenging but worthwhile.",
+        "score": 0.6434151569320178,
+        "id": "b1593dbd-2bf7-4f4f-9bcd-b209c9a216e5",
+        "created_at": "2026-11-03T09:29:08.079406+00:00",
+        "updated_at": "2026-11-03T09:29:08.079406+00:00"
+      },
+      {
+        "memory": "John is trying out yoga to gain extra strength and flexibility, finding the practice challenging but worth it as of December 1, 2023.",
+        "score": 0.6357583044587659,
+        "id": "c7ab2140-9e9c-4f2d-b6d5-21ec2be3820b",
+        "created_at": "2026-11-03T09:28:35.442088+00:00",
+        "updated_at": "2026-11-03T09:28:35.442088+00:00"
+      },
+      {
+        "memory": "John reported that yoga has improved his strength, flexibility, focus, and balance during workouts as of December 1, 2023.",
+        "score": 0.6205797576956456,
+        "id": "0ba6dffb-8ab2-4e93-a57f-300138c6eda6",
+        "created_at": "2026-11-03T09:28:43.324640+00:00",
+        "updated_at": "2026-11-03T09:28:43.324640+00:00"
+      },
+      {
+        "memory": "John has started practicing yoga to improve strength, flexibility, focus, and balance during workouts, finding the practice challenging but worthwhile.",
+        "score": 0.6199467126912719,
+        "id": "ce0ca4c9-b225-47a9-af34-7ab090c58a08",
+        "created_at": "2026-11-03T09:29:03.715424+00:00",
+        "updated_at": "2026-11-03T09:29:03.715424+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
+        "score": 0.5719559555173024,
+        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
+        "created_at": "2026-11-03T09:33:20.568634+00:00",
+        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
+        "score": 0.567109855618311,
+        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
+        "created_at": "2026-11-03T09:33:32.671038+00:00",
+        "updated_at": "2026-11-03T09:33:32.671038+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a box of Serenity memory foam on October 13, 2023, while encouraging John to stay motivated and push for his goals.",
+        "score": 0.5490703572268326,
+        "id": "6cc1288a-afb7-47c1-9fdd-d4dd011389be",
+        "created_at": "2026-11-03T09:18:04.811419+00:00",
+        "updated_at": "2026-11-03T09:18:04.811419+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
+        "score": 0.537046653293608,
+        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
+        "created_at": "2026-11-03T09:27:37.386687+00:00",
+        "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
+        "score": 0.5331326372445121,
+        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
+        "created_at": "2026-11-03T09:21:06.470537+00:00",
+        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his desk with a bookcase full of books and various other items on October 2, 2023, while catching up with John.",
+        "score": 0.5321475898233184,
+        "id": "611124a2-13c1-4a6e-b75c-1ea7a1fa2b3f",
+        "created_at": "2026-11-03T09:16:37.128451+00:00",
+        "updated_at": "2026-11-03T09:16:37.128451+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
+        "score": 0.5316007391538066,
+        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
+        "created_at": "2026-11-03T09:16:12.165487+00:00",
+        "updated_at": "2026-11-03T09:16:12.165487+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.5286587934478806,
+        "id": "aa518470-51a7-477e-b654-4684b8d85880",
+        "created_at": "2026-11-03T09:19:18.899142+00:00",
+        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.5278894471546136,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.5277086327189908,
+        "id": "7a90b97f-34f8-4d2a-87d4-2f743ae3c449",
+        "created_at": "2026-11-03T09:19:26.752495+00:00",
+        "updated_at": "2026-11-03T09:19:26.752495+00:00"
+      }
+    ],
+    "search_latency_ms": 139.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "30-60 seconds",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "30-60 seconds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "30-60 seconds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "30-60 seconds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

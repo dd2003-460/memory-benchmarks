@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q64",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "Which month was John in Italy?",
+  "ground_truth_answer": "December, 2023",
+  "evidence": [
+    "D27:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which month was John in Italy?",
+    "search_results": [
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.8795109961902569,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
+        "score": 0.8710053724761803,
+        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
+        "created_at": "2026-11-03T09:35:47.080548+00:00",
+        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
+        "score": 0.8469235882068613,
+        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
+        "created_at": "2026-11-03T09:35:54.494219+00:00",
+        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
+        "score": 0.8436139092115627,
+        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
+        "created_at": "2026-11-03T09:36:03.650277+00:00",
+        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+      },
+      {
+        "memory": "John traveled to Italy in December 2023, enjoying the food, history, and architecture, and purchased a book there that has inspired his cooking.",
+        "score": 0.8426897711320477,
+        "id": "3f67c46d-4e43-4000-b91f-5f57977f6d2f",
+        "created_at": "2026-11-03T09:36:07.962232+00:00",
+        "updated_at": "2026-11-03T09:36:07.962232+00:00"
+      },
+      {
+        "memory": "John found his trip to Italy in December 2023 awesome, specifically highlighting the food, history, and architecture as amazing experiences.",
+        "score": 0.8388424827377214,
+        "id": "655f3003-5f3e-4deb-8503-146721eaa74b",
+        "created_at": "2026-11-03T09:35:49.561716+00:00",
+        "updated_at": "2026-11-03T09:35:49.561716+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.8063335432514481,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.8059735842489063,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.7740698021002365,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
+        "score": 0.6405035080400378,
+        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
+        "created_at": "2026-11-03T09:14:41.113956+00:00",
+        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.45740136863432623,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.3195534167850405,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.3170602980371073,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.3144685319429363,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
+        "score": 0.3033975857151874,
+        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
+        "created_at": "2026-11-03T09:18:32.649446+00:00",
+        "updated_at": "2026-11-03T09:18:32.649446+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.29476403434046994,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
+        "score": 0.2713091270195849,
+        "id": "bc91278f-9786-437b-b809-97133839c1c0",
+        "created_at": "2026-11-03T09:21:16.833195+00:00",
+        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.2712060886191081,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "John knows a bit of German and Spanish, noting that knowing these languages makes travel much easier.",
+        "score": 0.26760937308806076,
+        "id": "4f36319b-b0de-44ed-b6fa-6059e1f8970f",
+        "created_at": "2026-11-03T09:35:54.497954+00:00",
+        "updated_at": "2026-11-03T09:35:54.497954+00:00"
+      },
+      {
+        "memory": "John suffered an ankle injury around mid-November 2023 that he describes as rough but not too serious according to his doctor",
+        "score": 0.26017419514766743,
+        "id": "7eb80dbf-bec5-4d47-94d2-9d8aa584b9ed",
+        "created_at": "2026-11-03T09:26:25.476199+00:00",
+        "updated_at": "2026-11-03T09:26:25.476199+00:00"
+      }
+    ],
+    "search_latency_ms": 119.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies the month as December, which matches the core information in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the month as December, which matches the core information in the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the month as December, which matches the core information in the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the month as December, which matches the core information in the gold answer."
+    }
+  }
+}

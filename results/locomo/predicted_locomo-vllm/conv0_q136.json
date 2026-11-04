@@ -8,42 +8,183 @@
   "evidence": [
     "D17:10"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Melanie do to keep herself busy during her pottery break?",
-    "search_results": [],
-    "search_latency_ms": 24.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie made a pottery piece in class on August 24, 2023, and describes pottery as relaxing and creative.",
+        "score": 0.8150251128667069,
+        "id": "1f83b728-270b-4f29-8f9e-de017f1e3a4d",
+        "created_at": "2026-11-04T05:58:00.805902+00:00",
+        "updated_at": "2026-11-04T05:58:00.805902+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a form of therapy that allows her to express herself creatively and relax.",
+        "score": 0.7944136172796851,
+        "id": "c8778571-c3dd-470b-b393-440515cc7a29",
+        "created_at": "2026-11-04T05:18:59.474657+00:00",
+        "updated_at": "2026-11-04T05:18:59.474657+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.7930074973105585,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.7925250520339898,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creation, specifically a bowl with intricate patterns and purple glaze, alongside other bowls and a starfish.",
+        "score": 0.792288968327974,
+        "id": "2e00f69d-4613-48c6-ab1c-28aa046ce670",
+        "created_at": "2026-11-04T06:01:46.618628+00:00",
+        "updated_at": "2026-11-04T06:01:46.618628+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.7904898981848374,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.78812263647187,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.7878810014108442,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapy that allows her to express herself and get creative.",
+        "score": 0.7822169196736867,
+        "id": "ac1868e6-c55e-4eb9-9dbc-af2cc9fccb86",
+        "created_at": "2026-11-04T05:21:14.095524+00:00",
+        "updated_at": "2026-11-04T05:21:14.095524+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.7803899800798758,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creations, which included a group of bowls with intricate patterns and purple glaze alongside a starfish on a white surface",
+        "score": 0.7785893051143837,
+        "id": "b4d59bbd-799e-435f-af54-03d4e4825748",
+        "created_at": "2026-11-04T06:01:56.669039+00:00",
+        "updated_at": "2026-11-04T06:01:56.669039+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.777321709887387,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7768937959452966,
+        "id": "1f25cac2-0fc0-4580-8309-21acc9879ad9",
+        "created_at": "2026-11-04T05:54:36.289229+00:00",
+        "updated_at": "2026-11-04T05:54:36.289229+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and pattern, which she shared with Caroline on August 17, 2023.",
+        "score": 0.7768937959452966,
+        "id": "94d11a81-d045-4cd1-afd8-d02d51c23e15",
+        "created_at": "2026-11-04T05:54:41.972154+00:00",
+        "updated_at": "2026-11-04T05:54:41.972154+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapeutic for expressing herself and getting creative.",
+        "score": 0.7734628839766006,
+        "id": "863acfdc-ed77-4159-9667-6ad88f7f4c0d",
+        "created_at": "2026-11-04T05:20:30.805646+00:00",
+        "updated_at": "2026-11-04T05:20:30.805646+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.772975597497508,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie completed another pottery project around August 17, 2023, and offered to share a photo with Caroline.",
+        "score": 0.7695260670791007,
+        "id": "cb2caee6-ffd0-477d-89bf-327e63c0cd17",
+        "created_at": "2026-11-04T05:54:18.452876+00:00",
+        "updated_at": "2026-11-04T05:54:18.452876+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a colorful ceramic bowl she made, describing the pottery experience as great and expressing pride in the project on August 17, 2023",
+        "score": 0.7685517272671369,
+        "id": "7a540df8-8f31-410b-b897-ef92d65aa13e",
+        "created_at": "2026-11-04T05:54:55.718889+00:00",
+        "updated_at": "2026-11-04T05:54:55.718889+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a pottery bowl with a black and white flower design on July 3, 2023, while discussing her passion for pottery and its calming nature.",
+        "score": 0.7673874329187,
+        "id": "b58cbe48-a442-4553-8326-7dbf6e842b5f",
+        "created_at": "2026-11-04T05:19:41.862302+00:00",
+        "updated_at": "2026-11-04T05:19:41.862302+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project featuring a ceramic bowl with a colorful design and shared a photo of it with Caroline on August 17, 2023.",
+        "score": 0.7669976756541214,
+        "id": "acc443d8-8c73-4691-a693-fa1cfed52f6e",
+        "created_at": "2026-11-04T05:54:45.042307+00:00",
+        "updated_at": "2026-11-04T05:54:45.042307+00:00"
+      }
+    ],
+    "search_latency_ms": 124.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie expresses herself creatively and relaxes (or finds calm) during her pottery sessions, which she describes as a form of therapy.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes the general purpose of pottery (relaxation/therapy) rather than the specific activities (reading and painting) mentioned in the gold answer, and it does not contain any of the required items."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "The provided memories do not contain information about what Melanie does during breaks from pottery; they focus on her pottery classes, projects, and workshops with her children.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the information is not available and fails to mention any of the activities listed in the gold answer (reading a book or painting)."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "She makes pottery and expresses herself creatively.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer claims she makes pottery, which contradicts the premise of a 'pottery break' and fails to mention the specific activities (reading and painting) listed in the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "She makes pottery",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states she makes pottery, which contradicts the premise of a 'pottery break' and fails to mention the correct activities (reading and painting) listed in the gold answer."
     }
   }
 }

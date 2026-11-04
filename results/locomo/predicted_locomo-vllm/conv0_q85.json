@@ -8,42 +8,183 @@
   "evidence": [
     "D2:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What are Caroline's plans for the summer?",
-    "search_results": [],
-    "search_latency_ms": 27.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie suggested doing a family outing this summer (2023), while Caroline proposed planning a special trip just for the two of them in summer 2023 to catch up and explore nature.",
+        "score": 0.6832289688800925,
+        "id": "01019b65-6575-497c-b2b2-b0878edab304",
+        "created_at": "2026-11-04T05:55:15.407064+00:00",
+        "updated_at": "2026-11-04T05:55:15.407064+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie agreed on August 17, 2023, to plan a special family outing or just-the-two-of-them nature trip for the summer of 2023 to catch up and explore nature.",
+        "score": 0.6557458510624342,
+        "id": "08392858-5ef2-4976-bff8-4829f119da12",
+        "created_at": "2026-11-04T05:55:20.894049+00:00",
+        "updated_at": "2026-11-04T05:55:20.894049+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue volunteering at the youth center as an important part of her life, driven by strong connections with the community and a belief in supporting each other to make a difference.",
+        "score": 0.6522849533131427,
+        "id": "2fc33af7-eb5f-4ccd-aad7-58f0b9605d68",
+        "created_at": "2026-11-04T06:00:42.166870+00:00",
+        "updated_at": "2026-11-04T06:00:42.166870+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue her education and explore career options, which she finds exciting, as discussed with Melanie on May 8, 2023",
+        "score": 0.6441324320224774,
+        "id": "12eca47a-aef0-4574-86ae-224aee51bb90",
+        "created_at": "2026-11-04T05:14:25.659943+00:00",
+        "updated_at": "2026-11-04T05:14:25.659943+00:00"
+      },
+      {
+        "memory": "Caroline plans to continue volunteering at the LGBTQ+ youth center, viewing it as an important part of her life where she has made strong connections and believes in community support.",
+        "score": 0.6392568999725028,
+        "id": "585a2ac6-bae9-49e5-a080-36a4b182c760",
+        "created_at": "2026-11-04T06:00:26.259195+00:00",
+        "updated_at": "2026-11-04T06:00:26.259195+00:00"
+      },
+      {
+        "memory": "Melanie suggested to Caroline on August 17, 2023, that they plan a family outing together this summer (2023).",
+        "score": 0.637852152766752,
+        "id": "f8e30a9e-52b8-4599-a283-82719970bce5",
+        "created_at": "2026-11-04T05:55:11.841681+00:00",
+        "updated_at": "2026-11-04T05:55:11.841681+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.4738035476083778,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.4293777603516184,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline loves the color blue, stating it is her favorite because it makes her feel relaxed.",
+        "score": 0.41483092339199557,
+        "id": "ac001b54-94b0-4b51-98c2-8ede1c499239",
+        "created_at": "2026-11-04T05:23:50.875439+00:00",
+        "updated_at": "2026-11-04T05:23:50.875439+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.398383196567761,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.3895948210842148,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.38814086940988923,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.3821144652613964,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.37696701180105585,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family the week of June 26, 2023, and expressed gratitude for their support during her transition, noting that they make all the difference.",
+        "score": 0.2680911733616309,
+        "id": "e454b2da-d751-4ea7-8ed7-41b4845116f2",
+        "created_at": "2026-11-04T05:21:49.348113+00:00",
+        "updated_at": "2026-11-04T05:21:49.348113+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, who are supporting her through her transition, and she feels lucky to have their help.",
+        "score": 0.26763868119071077,
+        "id": "57b0b814-ae03-44d2-8913-2c7ad6b6b234",
+        "created_at": "2026-11-04T05:21:46.433185+00:00",
+        "updated_at": "2026-11-04T05:21:46.433185+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, which she credits with helping her appreciate the support network that aids her transition.",
+        "score": 0.2658870880962838,
+        "id": "4b7378d5-7e19-4bac-b856-c8e3db41682a",
+        "created_at": "2026-11-04T05:21:55.168351+00:00",
+        "updated_at": "2026-11-04T05:21:55.168351+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.2620968018635751,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline stated on June 9, 2023, that she believes family is everything and finds hanging out with loved ones to be amazing and a source of happiness and gratitude.",
+        "score": 0.2484848197668597,
+        "id": "0444e769-eaab-4284-a874-1493b2e00a6a",
+        "created_at": "2026-11-04T05:17:12.598978+00:00",
+        "updated_at": "2026-11-04T05:17:12.598978+00:00"
+      },
+      {
+        "memory": "Caroline is an LGBTQ+ artist who is putting together and exhibiting her paintings in an LGBTQ art show scheduled for September 2023, aiming to spread understanding and acceptance within the community.",
+        "score": 0.24813129607773748,
+        "id": "a108089f-2f4f-477b-85b6-6ef86abba893",
+        "created_at": "2026-11-04T06:00:13.250961+00:00",
+        "updated_at": "2026-11-04T06:00:13.250961+00:00"
+      }
+    ],
+    "search_latency_ms": 103.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Caroline plans to take a special trip with Melanie to catch up and explore nature.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a trip with Melanie, which is completely different from the gold answer's plan to research adoption agencies, and contains no overlapping concepts or entities."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Caroline plans to go on a special trip with Melanie to catch up and explore nature, and she also plans a family outing.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions a trip and family outing, which are completely different from the gold answer's specific plan of researching adoption agencies, and contains zero correct items."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Caroline planned a special trip with Melanie to catch up and explore nature, and they also agreed to plan a family outing.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a trip with Melanie and a family outing, which does not mention or paraphrase the gold answer's specific plan of researching adoption agencies."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Caroline plans to take a special trip with Melanie to catch up and explore nature, and they also agreed to plan a family outing.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes travel and family outings, which are completely different from the gold answer's specific plan of researching adoption agencies."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D4:15"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What motivated Caroline to pursue counseling?",
-    "search_results": [],
-    "search_latency_ms": 16.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.746388893107244,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline's motivation for pursuing a career in counseling stems from her own struggles with mental health, where she found that having a support system was crucial and helpful.",
+        "score": 0.7381389496899688,
+        "id": "43f7d673-6147-444a-8fe5-22898a4ea5fc",
+        "created_at": "2026-11-04T05:22:26.621441+00:00",
+        "updated_at": "2026-11-04T05:22:26.621441+00:00"
+      },
+      {
+        "memory": "Caroline's motivation for becoming a counselor stems from her own personal journey and the significant positive impact that counseling and support groups had on her life and self-understanding.",
+        "score": 0.7274793105227804,
+        "id": "314bd746-1dda-41bd-be7d-7af5570c1632",
+        "created_at": "2026-11-04T05:18:59.464374+00:00",
+        "updated_at": "2026-11-04T05:18:59.464374+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling and mental health, motivated by her own past struggles with mental health and the supportive help she received, which inspired her to assist others on their journeys.",
+        "score": 0.7264501500699946,
+        "id": "50c53ca2-beca-4e97-a180-a74c626ea224",
+        "created_at": "2026-11-04T05:22:31.893408+00:00",
+        "updated_at": "2026-11-04T05:22:31.893408+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while finding the process tough but rewarding.",
+        "score": 0.7219454663725275,
+        "id": "26a1748f-14d0-42f3-8b85-9937a05a0f79",
+        "created_at": "2026-11-04T05:21:46.415978+00:00",
+        "updated_at": "2026-11-04T05:21:46.415978+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the field is tough but rewarding.",
+        "score": 0.7200865705479587,
+        "id": "62c89cb0-bb06-4e16-b95b-b7d15eaa4c0c",
+        "created_at": "2026-11-04T05:21:25.442934+00:00",
+        "updated_at": "2026-11-04T05:21:25.442934+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the difficulty but finding it rewarding.",
+        "score": 0.7192748283839292,
+        "id": "a142365a-ecc3-411a-b06d-d6a20b5ac778",
+        "created_at": "2026-11-04T05:21:33.029424+00:00",
+        "updated_at": "2026-11-04T05:21:33.029424+00:00"
+      },
+      {
+        "memory": "Caroline is actively looking into counseling and mental health job opportunities, motivated by her own past struggles with mental health and the helpful support she received, which inspired her to help others on their journeys.",
+        "score": 0.7180359670952703,
+        "id": "af342220-e053-454e-8579-f16f4015bf72",
+        "created_at": "2026-11-04T05:22:21.038634+00:00",
+        "updated_at": "2026-11-04T05:22:21.038634+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health in the past and found that the support she received was highly helpful, which motivated her to pursue a career in counseling and mental health to help others on their own journeys.",
+        "score": 0.7178355300839188,
+        "id": "f7358440-b78e-4cda-9e09-d841bcfc7481",
+        "created_at": "2026-11-04T05:22:37.037867+00:00",
+        "updated_at": "2026-11-04T05:22:37.037867+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, though she finds the path tough but rewarding.",
+        "score": 0.7170360752934724,
+        "id": "b2186499-5e9a-4c49-baeb-5407b55e4a28",
+        "created_at": "2026-11-04T05:21:38.028712+00:00",
+        "updated_at": "2026-11-04T05:21:38.028712+00:00"
+      },
+      {
+        "memory": "Caroline has been looking into counseling or mental health work, driven by a passion for helping people and making a positive impact, though she finds the path tough but rewarding.",
+        "score": 0.7163766937716294,
+        "id": "66261511-b9e9-4b32-8089-a0dcca588a75",
+        "created_at": "2026-11-04T05:21:30.169033+00:00",
+        "updated_at": "2026-11-04T05:21:30.169033+00:00"
+      },
+      {
+        "memory": "Caroline has been exploring careers in counseling or mental health work, driven by a passion for helping people and making a positive impact, while finding the path tough but rewarding.",
+        "score": 0.71621562705624,
+        "id": "5772e56f-260d-49b6-8f34-0347494ba037",
+        "created_at": "2026-11-04T05:21:27.866513+00:00",
+        "updated_at": "2026-11-04T05:21:27.866513+00:00"
+      },
+      {
+        "memory": "Caroline is interested in pursuing a career in counseling or working in mental health, motivated by a desire to support individuals with similar issues to her own, as discussed with Melanie on May 8, 2023",
+        "score": 0.7126156203473805,
+        "id": "6e1018da-6f75-421c-af8d-6630f90572c0",
+        "created_at": "2026-11-04T05:14:27.579779+00:00",
+        "updated_at": "2026-11-04T05:14:27.579779+00:00"
+      },
+      {
+        "memory": "The experience at the pride parade motivated Caroline to use her personal story to help others, reinforcing her commitment to a career in counseling and mental health.",
+        "score": 0.6830936055318562,
+        "id": "99a3ad8c-feb2-4d40-a185-5615db37c82e",
+        "created_at": "2026-11-04T05:18:59.471361+00:00",
+        "updated_at": "2026-11-04T05:18:59.471361+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health, specifically aiming to work with trans people to help them accept themselves and support their well-being.",
+        "score": 0.6777645791123517,
+        "id": "37428ab2-c9bd-4028-b396-e3dbf4e75f93",
+        "created_at": "2026-11-04T05:18:59.455901+00:00",
+        "updated_at": "2026-11-04T05:18:59.455901+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career in counseling specifically focused on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.673495311297274,
+        "id": "6479b1f2-5334-41bf-86e3-e462e7e57b35",
+        "created_at": "2026-11-04T05:18:23.669598+00:00",
+        "updated_at": "2026-11-04T05:18:23.669598+00:00"
+      },
+      {
+        "memory": "Caroline is exploring counseling and mental health as a career with a specific focus on working with trans people to help them accept themselves and support their mental health",
+        "score": 0.6714590850506703,
+        "id": "0b8d07f6-3f44-4328-a93a-da84960d7f85",
+        "created_at": "2026-11-04T05:18:40.782217+00:00",
+        "updated_at": "2026-11-04T05:18:40.782217+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to help make a difference in LGBTQ rights and community support, driven by her own struggles with mental health and the helpful support she received during her transition",
+        "score": 0.6714547041618097,
+        "id": "beee75a6-6ab1-4287-9c39-bdcb45eb7645",
+        "created_at": "2026-11-04T05:22:16.334444+00:00",
+        "updated_at": "2026-11-04T05:22:16.334444+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ+ pride parade motivated Caroline to use her personal story to help others, reinforcing her decision to pursue a career in counseling and mental health.",
+        "score": 0.6711413250255729,
+        "id": "dad7653b-c031-4a1d-94c1-bd1fef6d563c",
+        "created_at": "2026-11-04T05:19:54.435441+00:00",
+        "updated_at": "2026-11-04T05:19:54.435441+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pass on the same support and love she received from her community to others, viewing this journey as a gift that allows her to help others with their own experiences.",
+        "score": 0.6683016566865622,
+        "id": "0b13f3bc-c62a-47e1-8a19-d1a37304765b",
+        "created_at": "2026-11-04T06:04:38.591426+00:00",
+        "updated_at": "2026-11-04T06:04:38.591426+00:00"
+      }
+    ],
+    "search_latency_ms": 101.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline was motivated by her own past struggles with mental health and the significant positive impact that counseling and support groups had on her life, which inspired her to help others on their journeys and create a safe, inviting place for people to grow.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies Caroline's personal struggles and the positive impact of counseling as her motivation, which aligns with the gold answer's core points about her own journey and how counseling improved her life."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline was motivated to pursue counseling by her own past struggles with mental health and the significant positive impact that the support and counseling she received had on her life. This experience inspired her to help others, specifically trans people, accept themselves and support their mental health. Her motivation was further reinforced by her experience at the LGBTQ+ pride parade, which encouraged her to use her personal story to help others, and by her passion for making a positive impact and passing on the support and love she received from her community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Caroline was motivated by her own journey/struggles and the positive impact of the support she received, which aligns with the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline was motivated to pursue counseling by her own past struggles with mental health and the significant positive impact that the support and counseling she received had on her life. This experience inspired her to help others, specifically trans people, accept themselves and support their mental health. Her motivation was further reinforced by her experience at an LGBTQ+ pride parade, which encouraged her to use her personal story to help others, and by a desire to pass on the support and love she received from her community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Caroline was motivated by her own journey/struggles and the positive impact of the support she received, which aligns with the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline was motivated to pursue counseling by her own past struggles with mental health and the significant positive impact that the support and counseling she received had on her life. This experience inspired her to help others, specifically trans people, accept themselves and support their mental health. Her motivation was further reinforced by her experience at an LGBTQ+ pride parade, which encouraged her to use her personal story to help others, and by a desire to pass on the support and love she received from her community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Caroline was motivated by her own journey/struggles and the positive impact of the support she received, which aligns with the gold answer."
     }
   }
 }

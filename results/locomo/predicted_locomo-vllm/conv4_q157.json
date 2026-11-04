@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q157",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where was the photoshoot done for John's gear deal?",
+  "ground_truth_answer": "In a gorgeous forest",
+  "evidence": [
+    "D25:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Where was the photoshoot done for John's gear deal?",
+    "search_results": [
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in mid-December 2023, which included receiving hiking equipment and participating in a photoshoot.",
+        "score": 0.6796389510709161,
+        "id": "f5b62400-d2b3-43a2-9685-e4e6585c534f",
+        "created_at": "2026-11-03T09:33:53.669453+00:00",
+        "updated_at": "2026-11-03T09:33:53.669453+00:00"
+      },
+      {
+        "memory": "John received top-notch hiking and outdoor gear as part of his endorsement deal with a renowned outdoor gear company, and the associated photoshoot was held in a gorgeous forest where the photographer captured epic shots of him.",
+        "score": 0.6772786238448323,
+        "id": "536266b6-0bbb-4b29-ac5d-ac11c11f838b",
+        "created_at": "2026-11-03T09:33:39.113465+00:00",
+        "updated_at": "2026-11-03T09:33:39.113465+00:00"
+      },
+      {
+        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.6764523840472801,
+        "id": "83663438-89cc-48f0-b163-8b0987850701",
+        "created_at": "2026-11-03T09:33:56.767555+00:00",
+        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week of December 12, 2023, and shared a photo from the associated photoshoot showing him wearing a backpack while walking down a path.",
+        "score": 0.6667338740851945,
+        "id": "8da39e80-34cb-4725-8e28-42f6c711e96d",
+        "created_at": "2026-11-03T09:33:34.908869+00:00",
+        "updated_at": "2026-11-03T09:33:34.908869+00:00"
+      },
+      {
+        "memory": "The photoshoot for John's outdoor gear endorsement was held in a forest where he captured epic shots of himself jumping in a field near rocks and a river.",
+        "score": 0.6350896402672246,
+        "id": "7c7deb8c-116d-4522-89bc-04e169f10d9a",
+        "created_at": "2026-11-03T09:33:56.772070+00:00",
+        "updated_at": "2026-11-03T09:33:56.772070+00:00"
+      },
+      {
+        "memory": "John's outdoor gear photoshoot took place in a forest where he captured epic shots of himself jumping in a field near rocks and a river, an experience that energized him.",
+        "score": 0.6311501744840654,
+        "id": "52456362-6a5b-401c-aca0-374f5acdf760",
+        "created_at": "2026-11-03T09:33:53.674818+00:00",
+        "updated_at": "2026-11-03T09:33:53.674818+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
+        "score": 0.5855766417826181,
+        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
+        "created_at": "2026-11-03T09:38:15.519591+00:00",
+        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.5843085169537404,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.5757877752397608,
+        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
+        "created_at": "2026-11-03T09:38:36.414205+00:00",
+        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.5736813021888774,
+        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
+        "created_at": "2026-11-03T09:38:17.827762+00:00",
+        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he describes as a dream come true that validated his hard work and training hours.",
+        "score": 0.5722016297141537,
+        "id": "99ac9b47-0eff-4b9e-873a-163cde5e3d00",
+        "created_at": "2026-11-03T09:38:13.164949+00:00",
+        "updated_at": "2026-11-03T09:38:13.164949+00:00"
+      },
+      {
+        "memory": "John discovered the scenic forest location used for his photoshoot while hiking, finding the sound of the river soothing and feeling at peace surrounded by the natural beauty.",
+        "score": 0.5689830175471959,
+        "id": "c490c3bf-c019-4498-915e-6dde0b607cbc",
+        "created_at": "2026-11-03T09:33:56.775924+00:00",
+        "updated_at": "2026-11-03T09:33:56.775924+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.5679629079728554,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
+        "score": 0.5676591490276311,
+        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
+        "created_at": "2026-11-03T09:38:08.169886+00:00",
+        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+      },
+      {
+        "memory": "John shared a photo from his outdoor gear endorsement photoshoot showing him jumping in the air in a field, noting that nature puts him in a great mood and always gets him energized.",
+        "score": 0.5635209391231721,
+        "id": "9f3a2e48-dee1-4649-82e7-f0c3606a2973",
+        "created_at": "2026-11-03T09:33:43.327670+00:00",
+        "updated_at": "2026-11-03T09:33:43.327670+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
+        "score": 0.562161150026311,
+        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
+        "created_at": "2026-11-03T09:38:10.619051+00:00",
+        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+      },
+      {
+        "memory": "John discovered the peaceful forest location used for his photoshoot while hiking, finding the sound of the river soothing and feeling at peace surrounded by the natural scenery.",
+        "score": 0.559606002662861,
+        "id": "8479ab18-908a-409a-879b-f39ce2bdcaea",
+        "created_at": "2026-11-03T09:33:53.679035+00:00",
+        "updated_at": "2026-11-03T09:33:53.679035+00:00"
+      },
+      {
+        "memory": "John shared a photo of his Christmas tree from December 2022, which was decorated with many lights and ornaments.",
+        "score": 0.23176890292299163,
+        "id": "919c9e31-8d87-4ee1-8e22-2540f552f6bf",
+        "created_at": "2026-11-03T09:10:31.916440+00:00",
+        "updated_at": "2026-11-03T09:10:31.916440+00:00"
+      },
+      {
+        "memory": "John shared a photo of a basketball hoop at sunset during a morning workout as a reminder that his athletic journey can be awesome.",
+        "score": 0.22612655788696207,
+        "id": "4797181d-dac4-40ec-80b3-a2d20cbfad97",
+        "created_at": "2026-11-03T09:33:05.375543+00:00",
+        "updated_at": "2026-11-03T09:33:05.375543+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.2241171124609144,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      }
+    ],
+    "search_latency_ms": 86.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a forest",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'a forest' matches the core location specified in the gold answer 'In a gorgeous forest'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A forest (specifically a field near rocks and a river)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the location as a forest, which matches the core entity in the gold answer, and the additional details about rocks and a river are acceptable extra specifics."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A forest (specifically a field near rocks and a river)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the location as a forest, which matches the core entity in the gold answer, and the additional details about rocks and a river are acceptable extra specifics."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A forest (specifically a field near rocks and a river)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the location as a forest, which matches the core entity in the gold answer, and the additional details about rocks and a river are acceptable extra specifics."
+    }
+  }
+}

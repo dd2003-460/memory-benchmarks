@@ -8,42 +8,183 @@
   "evidence": [
     "D7:21"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What is Melanie's reason for getting into running?",
-    "search_results": [],
-    "search_latency_ms": 12.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie uses running as a way to destress and clear her mind, noting on July 12, 2023, that she has been running for a longer period since their last conversation.",
+        "score": 0.7060401186523817,
+        "id": "9beb3ac6-69e6-4839-b850-e8289e374986",
+        "created_at": "2026-11-04T05:22:46.728943+00:00",
+        "updated_at": "2026-11-04T05:22:46.728943+00:00"
+      },
+      {
+        "memory": "Melanie recently bought new pink running shoes for running, which she uses as a way to destress and clear her mind; she has been running longer since their last chat.",
+        "score": 0.6671018995097664,
+        "id": "9b453aae-228d-40fb-a588-e5aa7c4ca08f",
+        "created_at": "2026-11-04T05:22:49.564195+00:00",
+        "updated_at": "2026-11-04T05:22:49.564195+00:00"
+      },
+      {
+        "memory": "Melanie has been running longer distances since their last chat in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.6605395932419554,
+        "id": "bde74488-9d66-435a-b380-177138affd09",
+        "created_at": "2026-11-04T05:23:00.641860+00:00",
+        "updated_at": "2026-11-04T05:23:00.641860+00:00"
+      },
+      {
+        "memory": "Melanie recently acquired new pink running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6572254594174034,
+        "id": "cd15e0b6-7060-4a57-82ae-ec088f0065de",
+        "created_at": "2026-11-04T05:22:56.206160+00:00",
+        "updated_at": "2026-11-04T05:22:56.206160+00:00"
+      },
+      {
+        "memory": "Melanie has been increasing her running distance since their last conversation in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.6537207277976977,
+        "id": "7810b279-091e-43f8-9193-a2e964991eab",
+        "created_at": "2026-11-04T05:22:56.210459+00:00",
+        "updated_at": "2026-11-04T05:22:56.210459+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new purple running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6528406660116688,
+        "id": "89b940f8-02a5-46a2-a1ce-700cb8b58fa5",
+        "created_at": "2026-11-04T05:23:00.638414+00:00",
+        "updated_at": "2026-11-04T05:23:00.638414+00:00"
+      },
+      {
+        "memory": "Melanie's new shoes are specifically intended for running, as she clarified to Caroline on July 12, 2023.",
+        "score": 0.6414098533373058,
+        "id": "f76d1f90-2875-4be8-8bd3-ba8409ad28d5",
+        "created_at": "2026-11-04T05:22:46.733078+00:00",
+        "updated_at": "2026-11-04T05:22:46.733078+00:00"
+      },
+      {
+        "memory": "Melanie ran a charity race for mental health on May 21, 2023, and found the experience rewarding as it made her reflect on the importance of taking care of their minds",
+        "score": 0.6093143833726371,
+        "id": "dee1aa03-dfaa-4293-affd-b0f743cc82a7",
+        "created_at": "2026-11-04T05:15:23.901063+00:00",
+        "updated_at": "2026-11-04T05:15:23.901063+00:00"
+      },
+      {
+        "memory": "Melanie carves out daily me-time by running, reading, or playing the violin to refresh herself and stay present for her family, as she shared with Caroline on May 25, 2023",
+        "score": 0.5997574913696815,
+        "id": "b6c4e661-f73c-4256-9f20-65cdd7c0662e",
+        "created_at": "2026-11-04T05:15:35.902982+00:00",
+        "updated_at": "2026-11-04T05:15:35.902982+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.5896672789522961,
+        "id": "43ee7bde-bae5-43e7-8db9-c472274a26e7",
+        "created_at": "2026-11-04T06:02:43.907493+00:00",
+        "updated_at": "2026-11-04T06:02:43.907493+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.5870904941512045,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.5870904941512045,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie uses pottery as a form of self-expression and peace, but had to take a break from it after getting hurt in September 2023.",
+        "score": 0.5689861652445608,
+        "id": "cba492d6-f1d9-490b-92f8-e534c2b93c15",
+        "created_at": "2026-11-04T06:02:32.142480+00:00",
+        "updated_at": "2026-11-04T06:02:32.142480+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.3762878914895319,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.375248302787092,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.3733727722744614,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.3631400749315281,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.3620810247120761,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.3573996281940792,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.3516597981651819,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      }
+    ],
+    "search_latency_ms": 109.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "To de-stress, clear her mind, and benefit her mental health and headspace",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the exact phrases 'de-stress' and 'clear her mind' from the gold answer, adding extra details about mental health which is permitted under the rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "To destress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer, correctly identifying the reason as destressing and clearing her mind."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "to destress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer, correctly identifying Melanie's reason for running as de-stressing and clearing her mind."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "To destress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer, correctly identifying the reason as destressing and clearing her mind."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D16:16"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What precautionary sign did Melanie see at the café?",
-    "search_results": [],
-    "search_latency_ms": 17.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie visited a park with her kids around October 7-8, 2023, where they had a joyful time despite a precautionary sign that initially concerned Caroline.",
+        "score": 0.8251835374630323,
+        "id": "3dac083c-e9f8-4108-9750-b3357fdac8f6",
+        "created_at": "2026-11-04T06:02:09.172044+00:00",
+        "updated_at": "2026-11-04T06:02:09.172044+00:00"
+      },
+      {
+        "memory": "Melanie visited a café last weekend (around September 9-10, 2023) and shared a photo of a sign posted on a door stating that someone is not being able to leave, noting it brought her happiness.",
+        "score": 0.6804287211090383,
+        "id": "2b50f418-1a5c-47c7-b073-4891b9d57188",
+        "created_at": "2026-11-04T06:01:52.877568+00:00",
+        "updated_at": "2026-11-04T06:01:52.877568+00:00"
+      },
+      {
+        "memory": "Melanie attended a café with her kids last weekend (around September 9-10, 2023) and shared a photo of thoughtful signs there, expressing that it brought her happiness",
+        "score": 0.6702444320045926,
+        "id": "d8af593c-5bb3-4e8f-adf9-b77b66d6bd0a",
+        "created_at": "2026-11-04T06:01:56.684188+00:00",
+        "updated_at": "2026-11-04T06:01:56.684188+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.5973048521722625,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapeutic for expressing herself and getting creative.",
+        "score": 0.5930448804860814,
+        "id": "863acfdc-ed77-4159-9667-6ad88f7f4c0d",
+        "created_at": "2026-11-04T05:20:30.805646+00:00",
+        "updated_at": "2026-11-04T05:20:30.805646+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a form of therapy that allows her to express herself creatively and relax.",
+        "score": 0.5880962040170086,
+        "id": "c8778571-c3dd-470b-b393-440515cc7a29",
+        "created_at": "2026-11-04T05:18:59.474657+00:00",
+        "updated_at": "2026-11-04T05:18:59.474657+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapy that allows her to express herself and get creative.",
+        "score": 0.5880800134896614,
+        "id": "ac1868e6-c55e-4eb9-9dbc-af2cc9fccb86",
+        "created_at": "2026-11-04T05:21:14.095524+00:00",
+        "updated_at": "2026-11-04T05:21:14.095524+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.4115230988697697,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.4029537672750834,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.3992340601382829,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.3901004506771497,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.38542207871894957,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.3708183923439322,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.3688578039955427,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.35339136250000447,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.35339136250000447,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.3529673858053785,
+        "id": "43ee7bde-bae5-43e7-8db9-c472274a26e7",
+        "created_at": "2026-11-04T06:02:43.907493+00:00",
+        "updated_at": "2026-11-04T06:02:43.907493+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.34832421085271903,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.32913012694765403,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that creativity and family keep her at peace.",
+        "score": 0.32811090408466986,
+        "id": "b928af57-72a0-4136-bc90-906235c3c124",
+        "created_at": "2026-11-04T05:24:10.251602+00:00",
+        "updated_at": "2026-11-04T05:24:10.251602+00:00"
+      }
+    ],
+    "search_latency_ms": 109.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sign posted on a door stating that someone is not being able to leave",
+      "memories_evaluated": 10,
+      "reason": "The generated answer contains the exact core fact from the gold answer ('stating that someone is not being able to leave') and adds extra detail about the sign's location, which is permitted under the rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sign posted on a door stating that someone is not being able to leave",
+      "memories_evaluated": 20,
+      "reason": "The generated answer contains the exact core fact from the gold answer ('stating that someone is not being able to leave') and adds extra detail about the sign's location, which is permitted under the rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sign posted on a door stating that someone is not being able to leave",
+      "memories_evaluated": 20,
+      "reason": "The generated answer contains the exact core fact from the gold answer ('stating that someone is not being able to leave') and adds extra detail about the sign's location, which is permitted under the rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sign posted on a door stating that someone is not being able to leave",
+      "memories_evaluated": 20,
+      "reason": "The generated answer contains the exact core fact from the gold answer ('stating that someone is not being able to leave') and adds extra detail about the sign's location, which is permitted under the rules."
     }
   }
 }

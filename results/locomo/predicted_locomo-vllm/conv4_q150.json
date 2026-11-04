@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q150",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which book did Tim recommend to John as a good story on 8th December, 2023?",
+  "ground_truth_answer": "\"A Dance with Dragons\"",
+  "evidence": [
+    "D22:13"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which book did Tim recommend to John as a good story on 8th December, 2023?",
+    "search_results": [
+      {
+        "memory": "Tim considers 'The Alchemist' one of his favorite books and noticed it on John's bookshelf during a conversation on September 21, 2023.",
+        "score": 0.7760692879346308,
+        "id": "c2962a8e-10bb-439d-90fe-ee22a00206b5",
+        "created_at": "2026-11-03T09:15:57.506328+00:00",
+        "updated_at": "2026-11-03T09:15:57.506328+00:00"
+      },
+      {
+        "memory": "Tim recommended the fantasy novel 'The Name of the Wind' by Patrick Rothfuss to John on September 21, 2023, suggesting it would be a great read for his upcoming trip due to its immersive world-building.",
+        "score": 0.7560971656986382,
+        "id": "e3f1a36f-0d13-42e9-9bde-d35bb4bb68c2",
+        "created_at": "2026-11-03T09:15:26.514411+00:00",
+        "updated_at": "2026-11-03T09:15:26.514411+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.7377135856907994,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and recommends it to John.",
+        "score": 0.7234592149758827,
+        "id": "55b8998c-d653-433b-a124-d26742ea5eb1",
+        "created_at": "2026-11-03T09:37:55.814264+00:00",
+        "updated_at": "2026-11-03T09:37:55.814264+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
+        "score": 0.7115588068976848,
+        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
+        "created_at": "2026-11-03T09:27:37.386687+00:00",
+        "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.7100482196039828,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his desk with a bookcase full of books and various other items on October 2, 2023, while catching up with John.",
+        "score": 0.7096811882680395,
+        "id": "611124a2-13c1-4a6e-b75c-1ea7a1fa2b3f",
+        "created_at": "2026-11-03T09:16:37.128451+00:00",
+        "updated_at": "2026-11-03T09:16:37.128451+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.7030031785211188,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      },
+      {
+        "memory": "John stated that The Hobbit is one of his favorite books while discussing Tim's bookshelf on December 1, 2023.",
+        "score": 0.7006613126007918,
+        "id": "2b7f4a56-56f2-4d7f-a1fc-fcda064fff58",
+        "created_at": "2026-11-03T09:29:25.438620+00:00",
+        "updated_at": "2026-11-03T09:29:25.438620+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.6960499808096146,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.6865354052560064,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6844565041744576,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
+        "score": 0.6834594651104295,
+        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
+        "created_at": "2026-11-03T09:29:25.434971+00:00",
+        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6755463726098032,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6750528023382131,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.6696510580658649,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
+        "score": 0.6655230244053522,
+        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
+        "created_at": "2026-11-03T09:34:16.758221+00:00",
+        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, describing it as really good.",
+        "score": 0.6586505303207925,
+        "id": "1b18e936-ef83-4d2f-b45d-2445ac84e12c",
+        "created_at": "2026-11-03T09:38:08.165227+00:00",
+        "updated_at": "2026-11-03T09:38:08.165227+00:00"
+      },
+      {
+        "memory": "Tim likes to curl up with a good book in his free time, finding it an escape from reality that allows him to get lost in different worlds.",
+        "score": 0.6559826884001521,
+        "id": "fb773c3a-63a2-4040-8b56-e1c53442f9a5",
+        "created_at": "2026-11-03T09:21:00.680159+00:00",
+        "updated_at": "2026-11-03T09:21:00.680159+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
+        "score": 0.6541651240730118,
+        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
+        "created_at": "2026-11-03T09:35:34.717763+00:00",
+        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+      }
+    ],
+    "search_latency_ms": 155.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Hobbit",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'The Hobbit' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Name of the Wind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'The Name of the Wind' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Name of the Wind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'The Name of the Wind' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Name of the Wind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'The Name of the Wind' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+    }
+  }
+}

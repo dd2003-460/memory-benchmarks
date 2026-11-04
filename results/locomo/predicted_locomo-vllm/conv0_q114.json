@@ -8,42 +8,183 @@
   "evidence": [
     "D8:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What do sunflowers represent according to Caroline?",
-    "search_results": [],
-    "search_latency_ms": 17.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6815360817455732,
+        "id": "356d6a17-ce10-4959-9e13-f050103dff94",
+        "created_at": "2026-11-04T05:23:48.359902+00:00",
+        "updated_at": "2026-11-04T05:23:48.359902+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6815360817455732,
+        "id": "ba3d2efc-d758-495e-9078-d3c8e14312d3",
+        "created_at": "2026-11-04T05:23:27.589481+00:00",
+        "updated_at": "2026-11-04T05:23:27.589481+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness and roses with love and beauty.",
+        "score": 0.6813683556768643,
+        "id": "c67177ed-7e88-484c-b7fa-76e4965e4b62",
+        "created_at": "2026-11-04T05:23:30.975290+00:00",
+        "updated_at": "2026-11-04T05:23:30.975290+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness and roses with love and beauty.",
+        "score": 0.6813683556768643,
+        "id": "fbd0daa6-ad9e-4784-a938-b4f7ebb3165d",
+        "created_at": "2026-11-04T05:23:44.943979+00:00",
+        "updated_at": "2026-11-04T05:23:44.943979+00:00"
+      },
+      {
+        "memory": "Melanie shared a recent painting of a sunflower on canvas with Caroline on August 25, 2023, as an example of her landscape and still life work.",
+        "score": 0.6277608415694853,
+        "id": "837a65b1-cb3c-4a88-b265-08b4f984f46f",
+        "created_at": "2026-11-04T05:59:32.747982+00:00",
+        "updated_at": "2026-11-04T05:59:32.747982+00:00"
+      },
+      {
+        "memory": "Melanie, Caroline's friend, loves painting landscapes and still life, recently creating a painting of sunflowers and planning new works inspired by autumn.",
+        "score": 0.6262759253715788,
+        "id": "7cb207db-e98c-44c5-930c-46ef873bd632",
+        "created_at": "2026-11-04T05:59:49.977802+00:00",
+        "updated_at": "2026-11-04T05:59:49.977802+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a blue vase containing a bouquet of sunflowers and roses with Caroline on July 15, 2023.",
+        "score": 0.6230740695516344,
+        "id": "11a4ae38-eae3-4f45-b10c-b9419aa762c3",
+        "created_at": "2026-11-04T05:23:25.369613+00:00",
+        "updated_at": "2026-11-04T05:23:25.369613+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6146636373354682,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking. She describes it as a reminder to love her authentic self, noting that while it took time, she is finally proud of who she is.",
+        "score": 0.5928573869809943,
+        "id": "fdcf5ad1-0d61-452f-a8fc-0e820e1ce570",
+        "created_at": "2026-11-04T06:01:43.676483+00:00",
+        "updated_at": "2026-11-04T06:01:43.676483+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting using red and blue to represent the binary gender system, with mixed colors symbolizing the rejection of rigid thinking and her pride in being her authentic self.",
+        "score": 0.5927475460037448,
+        "id": "14852e9d-332a-4c62-bc2f-4c4ca30438a7",
+        "created_at": "2026-11-04T06:02:09.163880+00:00",
+        "updated_at": "2026-11-04T06:02:09.163880+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting with red and blue brush strokes to represent her journey, using the colors to symbolize smashing the rigid binary gender system and celebrating her authentic self.",
+        "score": 0.5880598949912321,
+        "id": "b644f069-3ac7-4956-bd52-eacc26d224f1",
+        "created_at": "2026-11-04T06:02:06.111279+00:00",
+        "updated_at": "2026-11-04T06:02:06.111279+00:00"
+      },
+      {
+        "memory": "Caroline finds the rainbow flag mural important because it reflects the courage and strength of the trans community, while the eagle symbolizes freedom and pride, representing her own resilience and that of others.",
+        "score": 0.5792201676783348,
+        "id": "1b87920a-2a57-474f-8068-dcbf199106b1",
+        "created_at": "2026-11-04T05:58:07.866608+00:00",
+        "updated_at": "2026-11-04T05:58:07.866608+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes on a canvas to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking in favor of authentic self-love.",
+        "score": 0.5731184284938405,
+        "id": "0bcc5f2a-2de3-47d0-9d9d-99772b5fc237",
+        "created_at": "2026-11-04T06:01:46.612735+00:00",
+        "updated_at": "2026-11-04T06:01:46.612735+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who uses her work to represent inclusivity and diversity, specifically speaking up for the LGBTQ+ community and pushing for acceptance.",
+        "score": 0.5728745625313453,
+        "id": "09cabcd5-39c5-4e7d-8944-b3e81d77380e",
+        "created_at": "2026-11-04T05:53:47.114618+00:00",
+        "updated_at": "2026-11-04T05:53:47.114618+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.336559050456126,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.3308632521042088,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.31633489115226493,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.3030041982573958,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.3006471997960004,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a plate with floral patterns with Caroline on August 25, 2023, while discussing Caroline's recent hiking incident.",
+        "score": 0.2980643842176529,
+        "id": "3f0204e4-3281-467e-822c-7c2f63e885ca",
+        "created_at": "2026-11-04T05:57:08.082228+00:00",
+        "updated_at": "2026-11-04T05:57:08.082228+00:00"
+      }
+    ],
+    "search_latency_ms": 98.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "warmth and happiness",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "warmth and happiness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "warmth and happiness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "warmth and happiness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     }
   }
 }

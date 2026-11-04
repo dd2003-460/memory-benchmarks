@@ -8,42 +8,183 @@
   "evidence": [
     "D18:17"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Melanie do after the road trip to relax?",
-    "search_results": [],
-    "search_latency_ms": 20.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.8624162526245343,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.8587525276489663,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.8583537192529971,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.8561682620299882,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.8560405539418063,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.8560405539418063,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.8548842232221249,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.854139649007692,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.8470410466465967,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.8229700414112976,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.8143055215352053,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.8079577128964125,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie described the car accident during her family road trip as a scary experience that served as a reminder that life is precious and to cherish her family.",
+        "score": 0.7903112682787743,
+        "id": "fec6b83d-7987-41f2-9bab-e62f86456650",
+        "created_at": "2026-11-04T06:03:21.419222+00:00",
+        "updated_at": "2026-11-04T06:03:21.419222+00:00"
+      },
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.7818891844797,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.7811400658027472,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Melanie values camping trips with her family for the opportunity to be present and bond over stories, campfires, and nature, finding the experience of waking up to birdsong and fresh air refreshing for her soul.",
+        "score": 0.7354787890831407,
+        "id": "14c032f4-4fc7-4afe-aa46-6800968580ee",
+        "created_at": "2026-11-04T06:04:02.845376+00:00",
+        "updated_at": "2026-11-04T06:04:02.845376+00:00"
+      },
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.7222686373756604,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family, valuing the peaceful bonding over stories, campfires, and nature, which she finds refreshing for her soul.",
+        "score": 0.7189193432384917,
+        "id": "4e133138-b91f-46f3-baab-aa057460cfe5",
+        "created_at": "2026-11-04T06:04:27.144866+00:00",
+        "updated_at": "2026-11-04T06:04:27.144866+00:00"
+      },
+      {
+        "memory": "Melanie loves camping trips with her family because they allow her to be present and together, bonding over stories, campfires, and nature, and she finds waking up to birds and fresh air refreshing and peaceful.",
+        "score": 0.7163438796395502,
+        "id": "4ae9a9f6-ef0f-452f-9a28-2845abf5479b",
+        "created_at": "2026-11-04T06:04:09.786618+00:00",
+        "updated_at": "2026-11-04T06:04:09.786618+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves camping trips with her family because nature brings peace and serenity, helping her reset, recharge, and refresh her soul by being present and waking up to birds and fresh air.",
+        "score": 0.7138118027930339,
+        "id": "d77307ab-ca94-4a9c-848f-0966549656ca",
+        "created_at": "2026-11-04T06:04:07.346441+00:00",
+        "updated_at": "2026-11-04T06:04:07.346441+00:00"
+      }
+    ],
+    "search_latency_ms": 123.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "hiking in the mountains",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'hiking in the mountains' is a specific instance of the gold answer 'Went on a nature walk or hike', so it correctly identifies the activity."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie went hiking in the mountains with her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states Melanie went hiking, which is a direct paraphrase of the gold answer's 'nature walk or hike'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie went hiking in the mountains with her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states Melanie went hiking, which is a direct paraphrase of the gold answer's 'nature walk or hike'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie went hiking in the mountains with her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states Melanie went hiking, which is a direct paraphrase of the gold answer's 'nature walk or hike'."
     }
   }
 }

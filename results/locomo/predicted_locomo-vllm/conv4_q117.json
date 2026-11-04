@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q117",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What motivates John's team to get better, according to John?",
+  "ground_truth_answer": "facing tough opponents",
+  "evidence": [
+    "D13:6"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What motivates John's team to get better, according to John?",
+    "search_results": [
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.6703565827699329,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
+        "score": 0.6544588284260284,
+        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
+        "created_at": "2026-11-03T09:00:00.851565+00:00",
+        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+      },
+      {
+        "memory": "John describes his basketball team's approach to tough opponents as a driving force for improvement, emphasizing that they back each other up and refuse to quit",
+        "score": 0.646735798950809,
+        "id": "1fb5d4b2-59ba-4028-a4dd-b3658ee9ac5b",
+        "created_at": "2026-11-03T09:17:50.506398+00:00",
+        "updated_at": "2026-11-03T09:17:50.506398+00:00"
+      },
+      {
+        "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, driven by a desire not to let them down.",
+        "score": 0.6428149275342002,
+        "id": "c04cade3-3048-4c5a-8a7a-d03fa6aea21d",
+        "created_at": "2026-11-03T09:20:44.096973+00:00",
+        "updated_at": "2026-11-03T09:20:44.096973+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.6401457641319543,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
+        "score": 0.6392989764358629,
+        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
+        "created_at": "2026-11-03T09:31:10.118402+00:00",
+        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+      },
+      {
+        "memory": "John's basketball team has seen the most growth in communication and bonding, which has improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6367520099640613,
+        "id": "0faf66fb-99c5-4663-ab4b-c85bbb363304",
+        "created_at": "2026-11-03T09:34:01.061702+00:00",
+        "updated_at": "2026-11-03T09:34:01.061702+00:00"
+      },
+      {
+        "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, stating that he does not want to let them down.",
+        "score": 0.6326186442631211,
+        "id": "e4d25eb8-d9f4-4b41-9152-fa8b57b44260",
+        "created_at": "2026-11-03T09:20:17.725646+00:00",
+        "updated_at": "2026-11-03T09:20:17.725646+00:00"
+      },
+      {
+        "memory": "John uses his influence and resources to help causes he believes in, with a focus on making the world a better place.",
+        "score": 0.6318268616350022,
+        "id": "c28d9dd6-76e9-43af-b316-f30a66df915b",
+        "created_at": "2026-11-03T09:35:02.366791+00:00",
+        "updated_at": "2026-11-03T09:35:02.366791+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.6307161299862324,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
+        "score": 0.6242701449098379,
+        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
+        "created_at": "2026-11-03T09:18:54.870502+00:00",
+        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+      },
+      {
+        "memory": "John is currently focusing on improving his shooting and making a greater impact on the court, with the goal of being known as a consistent performer who helps his team.",
+        "score": 0.6205937456403934,
+        "id": "b8d5246a-42df-4376-8ad6-bddf2d32abd3",
+        "created_at": "2026-11-03T09:14:58.688861+00:00",
+        "updated_at": "2026-11-03T09:14:58.688861+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6187292874317388,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
+        "score": 0.6181158023174496,
+        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
+        "created_at": "2026-11-03T09:34:16.754297+00:00",
+        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
+        "score": 0.617285094050519,
+        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
+        "created_at": "2026-11-03T09:18:35.338157+00:00",
+        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+      },
+      {
+        "memory": "John's current on-court goals are to improve his shooting and become known as a consistent performer who makes a significant impact for his team.",
+        "score": 0.610984892393448,
+        "id": "a5b307b4-3cb7-4473-b446-7080f6e8f72f",
+        "created_at": "2026-11-03T09:15:54.763168+00:00",
+        "updated_at": "2026-11-03T09:15:54.763168+00:00"
+      },
+      {
+        "memory": "John recently won a basketball trophy, which he credits to his team's hard work and dedication.",
+        "score": 0.609909572717341,
+        "id": "07c3596e-5d6a-44aa-b9f5-8e94515b55fe",
+        "created_at": "2026-11-03T09:30:48.604695+00:00",
+        "updated_at": "2026-11-03T09:30:48.604695+00:00"
+      },
+      {
+        "memory": "John states that his team's bond is awesome and makes all the hard work worth it, following a discussion about winning a tough game.",
+        "score": 0.6064746880065551,
+        "id": "54c1cf8a-c6ec-4186-adb0-72a172596712",
+        "created_at": "2026-11-03T08:56:51.137212+00:00",
+        "updated_at": "2026-11-03T08:56:51.137212+00:00"
+      },
+      {
+        "memory": "John considers his basketball team to be like a second family, noting that being with them brings him happiness and helps him remember what is important in life.",
+        "score": 0.6054829663342176,
+        "id": "a63408f7-2db7-4a35-aef4-b9da53609d6e",
+        "created_at": "2026-11-03T09:20:51.671504+00:00",
+        "updated_at": "2026-11-03T09:20:51.671504+00:00"
+      },
+      {
+        "memory": "John's basketball team won a championship trophy during the 2023 season, which he described as making all their hard work and effort totally worth it.",
+        "score": 0.6051699654561389,
+        "id": "43dca886-2070-4f48-8334-d0977d527214",
+        "created_at": "2026-11-03T09:17:55.029084+00:00",
+        "updated_at": "2026-11-03T09:17:55.029084+00:00"
+      }
+    ],
+    "search_latency_ms": 108.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Tough opponents (or the approach to tough opponents)",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly mentions 'Tough opponents', which directly matches the core concept of the gold answer 'facing tough opponents'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The team's approach to tough opponents, specifically by backing each other up and refusing to quit.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'tough opponents' as the context for the team's approach, which directly matches the core concept of the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The team's approach to tough opponents, specifically by backing each other up and refusing to quit.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'tough opponents' as the context for the team's approach, which directly matches the core concept of the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The team's approach to tough opponents, specifically by backing each other up and refusing to quit.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions 'tough opponents' as the context for the team's approach, which directly matches the core concept of the gold answer."
+    }
+  }
+}

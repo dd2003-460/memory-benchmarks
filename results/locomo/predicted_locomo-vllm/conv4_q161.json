@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q161",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is one cause that John supports with his influence and resources?",
+  "ground_truth_answer": "youth sports and fair chances in sports",
+  "evidence": [
+    "D26:21"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is one cause that John supports with his influence and resources?",
+    "search_results": [
+      {
+        "memory": "John uses his influence and resources to help causes he believes in, with a focus on making the world a better place.",
+        "score": 0.7261000913085194,
+        "id": "c28d9dd6-76e9-43af-b316-f30a66df915b",
+        "created_at": "2026-11-03T09:35:02.366791+00:00",
+        "updated_at": "2026-11-03T09:35:02.366791+00:00"
+      },
+      {
+        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
+        "score": 0.6992388001299452,
+        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
+        "created_at": "2026-11-03T09:34:49.170106+00:00",
+        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+      },
+      {
+        "memory": "John stated that he uses his influence and resources to help causes he believes in, specifically focusing on supporting youth sports and fighting for fair chances in sports for underserved communities.",
+        "score": 0.6856358445260324,
+        "id": "022f80ca-825f-4ded-814d-8a39059acc5f",
+        "created_at": "2026-11-03T09:35:05.190336+00:00",
+        "updated_at": "2026-11-03T09:35:05.190336+00:00"
+      },
+      {
+        "memory": "John uses his influence and resources to support causes he believes in, specifically focusing on youth sports and fighting for fair chances in sports for underserved communities.",
+        "score": 0.6753912996266975,
+        "id": "5ba0c445-c3b0-46d1-9d2e-3bbe13c901f1",
+        "created_at": "2026-11-03T09:34:53.932500+00:00",
+        "updated_at": "2026-11-03T09:34:53.932500+00:00"
+      },
+      {
+        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
+        "score": 0.5864364198927764,
+        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
+        "created_at": "2026-11-03T09:20:44.101606+00:00",
+        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+      },
+      {
+        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
+        "score": 0.5805671364690295,
+        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
+        "created_at": "2026-11-03T09:00:00.851565+00:00",
+        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+      },
+      {
+        "memory": "John's teammates are supportive even when he makes mistakes, and their encouragement helps him keep going.",
+        "score": 0.5770131118973215,
+        "id": "f2e489dd-324d-4ed2-b01a-dc7dbfb1d6b4",
+        "created_at": "2026-11-03T09:20:44.099368+00:00",
+        "updated_at": "2026-11-03T09:20:44.099368+00:00"
+      },
+      {
+        "memory": "John works on supporting youth sports and fighting for fair chances in sports for underserved communities, collaborating with organizations to create opportunities for young athletes.",
+        "score": 0.5681481530781736,
+        "id": "48b9a0d7-1ae8-4d1b-959d-fee23c829471",
+        "created_at": "2026-11-03T09:35:02.369837+00:00",
+        "updated_at": "2026-11-03T09:35:02.369837+00:00"
+      },
+      {
+        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
+        "score": 0.5447173378255303,
+        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
+        "created_at": "2026-11-03T09:20:44.104295+00:00",
+        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.3348937597651124,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
+        "score": 0.3286981740461582,
+        "id": "59d710c3-bbeb-4cba-b82e-a3af44907bea",
+        "created_at": "2026-11-03T09:20:44.094230+00:00",
+        "updated_at": "2026-11-03T09:20:44.094230+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.3242001288745853,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
+        "score": 0.32336939984713386,
+        "id": "f912f982-e28b-4b6d-a879-6595597039c8",
+        "created_at": "2026-11-03T09:20:12.772496+00:00",
+        "updated_at": "2026-11-03T09:20:12.772496+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.2954185734314715,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
+        "score": 0.25106110590838354,
+        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
+        "created_at": "2026-11-03T09:20:44.106791+00:00",
+        "updated_at": "2026-11-03T09:20:44.106791+00:00"
+      },
+      {
+        "memory": "John is inspired by Aragorn's brave, selfless, and down-to-earth attitude, admiring that he never gives up and always stands up for justice.",
+        "score": 0.24454603446384438,
+        "id": "c051fb39-e30b-48df-9bed-84f4d1cfd250",
+        "created_at": "2026-11-03T09:36:48.556372+00:00",
+        "updated_at": "2026-11-03T09:36:48.556372+00:00"
+      },
+      {
+        "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, driven by a desire not to let them down.",
+        "score": 0.23517251431708824,
+        "id": "c04cade3-3048-4c5a-8a7a-d03fa6aea21d",
+        "created_at": "2026-11-03T09:20:44.096973+00:00",
+        "updated_at": "2026-11-03T09:20:44.096973+00:00"
+      },
+      {
+        "memory": "John uses visualization of goals and success as a technique to stay focused and motivated during difficult study sessions",
+        "score": 0.2348649913416966,
+        "id": "b327633e-b46d-4ed5-95d0-00a2d1924bb6",
+        "created_at": "2026-11-03T09:26:25.480492+00:00",
+        "updated_at": "2026-11-03T09:26:25.480492+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' in the past and found it changed his perspective on his goals, appreciating that it had a similar impact on John.",
+        "score": 0.23264240331626035,
+        "id": "3471e90d-e3e1-489e-9c0d-cc68493fb334",
+        "created_at": "2026-11-03T09:28:43.317822+00:00",
+        "updated_at": "2026-11-03T09:28:43.317822+00:00"
+      },
+      {
+        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
+        "score": 0.23121061003280846,
+        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
+        "created_at": "2026-11-03T09:36:46.263022+00:00",
+        "updated_at": "2026-11-03T09:36:46.263022+00:00"
+      }
+    ],
+    "search_latency_ms": 115.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "youth sports",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'youth sports', which is one of the correct items listed in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "supporting youth sports",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'supporting youth sports' directly matches the first part of the gold answer 'youth sports and fair chances in sports', satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "supporting youth sports",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'supporting youth sports' directly matches the first part of the gold answer 'youth sports and fair chances in sports', satisfying the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "supporting youth sports",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'supporting youth sports' directly matches the first part of the gold answer 'youth sports and fair chances in sports', satisfying the partial credit rule."
+    }
+  }
+}

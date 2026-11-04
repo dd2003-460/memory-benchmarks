@@ -8,42 +8,183 @@
   "evidence": [
     "D2:15"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Melanie think about Caroline's decision to adopt?",
-    "search_results": [],
-    "search_latency_ms": 30.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline offered to help Melanie in any way she can if Melanie decides to pursue adoption in the future.",
+        "score": 0.6988675317376875,
+        "id": "9c8cf599-3e1e-4d33-8aaf-d91c7b03c272",
+        "created_at": "2026-11-04T06:02:18.585533+00:00",
+        "updated_at": "2026-11-04T06:02:18.585533+00:00"
+      },
+      {
+        "memory": "Caroline is researching adoption agencies because having a family and providing a loving home to children in need has been a dream of hers, as she mentioned to Melanie on May 25, 2023.",
+        "score": 0.6856798097488889,
+        "id": "e7fab20d-f39e-4e7a-9577-413c4bb5d006",
+        "created_at": "2026-11-04T05:15:43.918342+00:00",
+        "updated_at": "2026-11-04T05:15:43.918342+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the potentially difficult wait involved in the adoption process.",
+        "score": 0.6843060756642723,
+        "id": "dbd69217-5a7a-44c7-ac27-56d9118bd6f0",
+        "created_at": "2026-11-04T06:02:24.078879+00:00",
+        "updated_at": "2026-11-04T06:02:24.078879+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child and was advised by Caroline to research adoption agencies or lawyers, gather documents like references and financial info, and prepare emotionally for the wait.",
+        "score": 0.6841892773585092,
+        "id": "1015ae46-f98e-441a-8cde-043b63aa39c5",
+        "created_at": "2026-11-04T06:02:43.905056+00:00",
+        "updated_at": "2026-11-04T06:02:43.905056+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to research adoption agencies or lawyers, gather documents like references and financial info, and prepare emotionally for the wait involved in the adoption process.",
+        "score": 0.6766142367622006,
+        "id": "46394a3e-8fb0-43e8-aad3-86ef27c463c0",
+        "created_at": "2026-11-04T06:02:35.256594+00:00",
+        "updated_at": "2026-11-04T06:02:35.256594+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching agencies or lawyers, gathering documents like references and financial info, and preparing emotionally for the wait.",
+        "score": 0.6746738552071176,
+        "id": "ecbc9a09-eb8e-443f-91f4-18fbce10f007",
+        "created_at": "2026-11-04T06:02:29.197295+00:00",
+        "updated_at": "2026-11-04T06:02:29.197295+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie to start the adoption process by researching and selecting an adoption agency or lawyer, gathering documents such as references, financial information, and medical checks, and preparing emotionally for the difficult wait.",
+        "score": 0.6732050864624479,
+        "id": "1b110363-fcbd-4daa-bf90-5463b8ed2f7e",
+        "created_at": "2026-11-04T06:02:21.072800+00:00",
+        "updated_at": "2026-11-04T06:02:21.072800+00:00"
+      },
+      {
+        "memory": "Melanie is considering adopting a child after hearing about her friend's successful adoption last year, and she asked Caroline for tips on getting started with the process.",
+        "score": 0.6731556591258209,
+        "id": "5c62cc8f-e5db-4b08-a704-cddb3c99bb6a",
+        "created_at": "2026-11-04T06:02:35.252791+00:00",
+        "updated_at": "2026-11-04T06:02:35.252791+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6729533790614811,
+        "id": "e459fc93-eb8a-4833-affd-0490b31c8c20",
+        "created_at": "2026-11-04T06:04:35.562351+00:00",
+        "updated_at": "2026-11-04T06:04:35.562351+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6729533790614811,
+        "id": "daa5251d-0c22-40d6-8695-dfc7b114716f",
+        "created_at": "2026-11-04T06:04:38.583531+00:00",
+        "updated_at": "2026-11-04T06:04:38.583531+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way of giving back and showing love and acceptance, with the goal of building her own family and providing a home for children who have not had one before.",
+        "score": 0.6723026929908142,
+        "id": "1567f291-668a-466e-8448-02291d1173ef",
+        "created_at": "2026-11-04T06:04:16.839824+00:00",
+        "updated_at": "2026-11-04T06:04:16.839824+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, with the specific dream of creating a safe and loving home for children who have not previously had a roof over their heads.",
+        "score": 0.6711612094592967,
+        "id": "80faced2-08ca-498c-8ce4-f6d6ff4d381c",
+        "created_at": "2026-11-04T06:04:23.998298+00:00",
+        "updated_at": "2026-11-04T06:04:23.998298+00:00"
+      },
+      {
+        "memory": "Caroline advised Melanie on adoption steps: research agencies or lawyers, gather documents like references, financial info, and medical checks, and prepare emotionally for the wait.",
+        "score": 0.6702058723422589,
+        "id": "5810ef9b-e8ed-43ce-a508-663a8f197c90",
+        "created_at": "2026-11-04T06:02:40.711982+00:00",
+        "updated_at": "2026-11-04T06:02:40.711982+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe and loving home where children can experience these values.",
+        "score": 0.6670654458565837,
+        "id": "30e36e98-2292-45e6-a6d1-d9eba650a546",
+        "created_at": "2026-11-04T06:04:27.152384+00:00",
+        "updated_at": "2026-11-04T06:04:27.152384+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had that experience, viewing it as a way to give back and show love and acceptance.",
+        "score": 0.6634235632415455,
+        "id": "3d6b6d01-065c-4803-87ed-737c6424c941",
+        "created_at": "2026-11-04T06:04:32.771393+00:00",
+        "updated_at": "2026-11-04T06:04:32.771393+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.6627019516766497,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had one, viewing it as a way to give back and show love and acceptance to those in need.",
+        "score": 0.6611552762998412,
+        "id": "97e8d851-559a-4acc-ae6f-160c33d1fd2b",
+        "created_at": "2026-11-04T06:04:29.748515+00:00",
+        "updated_at": "2026-11-04T06:04:29.748515+00:00"
+      },
+      {
+        "memory": "Caroline is feeling hopeful and optimistic about her adoption journey, noting that the hard work has started to turn her dream into reality, and she expressed gratitude for the support received from friends and mentors on May 25, 2023.",
+        "score": 0.6601369652769199,
+        "id": "0a496fb6-9719-4cca-a99f-a45c9109e3a4",
+        "created_at": "2026-11-04T05:15:49.123069+00:00",
+        "updated_at": "2026-11-04T05:15:49.123069+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.6589871204205048,
+        "id": "a1f53685-6a27-4c3a-93f5-09dc79eb4c66",
+        "created_at": "2026-11-04T06:02:15.980555+00:00",
+        "updated_at": "2026-11-04T06:02:15.980555+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.6589871204205048,
+        "id": "bf3cdf07-20e4-4905-8b4d-e8e3307c6f7d",
+        "created_at": "2026-11-04T06:02:29.189110+00:00",
+        "updated_at": "2026-11-04T06:02:29.189110+00:00"
+      }
+    ],
+    "search_latency_ms": 127.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie is seeking Caroline's advice and support for her own adoption journey.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a completely different scenario where Melanie is the one adopting and seeking advice, whereas the gold answer states Melanie is praising Caroline's decision to adopt."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie is considering adopting a child herself and asked Caroline for tips on getting started with the process, indicating she is interested in the topic and views Caroline's experience as a helpful resource.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes Melanie as considering adoption herself and seeking advice, which contradicts the gold answer stating she thinks Caroline's decision is amazing and that Caroline will be an awesome mom; the core sentiment and facts are completely different."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie is considering adopting a child herself and asked Caroline for tips on the process, indicating that she views Caroline's decision and experience as a helpful resource or inspiration for her own potential adoption.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes Melanie's own adoption plans and viewing Caroline as a resource, which does not match the gold answer's specific sentiment that Melanie thinks Caroline is doing something amazing and will be an awesome mom."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie is considering adopting a child herself and asked Caroline for tips on getting started with the process.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes Melanie considering adoption herself, which contradicts the gold answer stating she thinks Caroline's decision is amazing and that Caroline will be an awesome mom."
     }
   }
 }

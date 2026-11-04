@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q119",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where did Tim capture the photography of the sunset over the mountain range?",
+  "ground_truth_answer": "Smoky Mountains",
+  "evidence": [
+    "D14:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Where did Tim capture the photography of the sunset over the mountain range?",
+    "search_results": [
+      {
+        "memory": "Tim shared a photo of a sunset over a mountain range with a few trees on October 17, 2023, as part of catching up with John about recent activities.",
+        "score": 0.8908407770705769,
+        "id": "31d69e8a-9f9d-4081-9b78-71615edea966",
+        "created_at": "2026-11-03T09:18:54.875763+00:00",
+        "updated_at": "2026-11-03T09:18:54.875763+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a mountain range sunset with trees, which he took last summer (around August 2023).",
+        "score": 0.8595717815000649,
+        "id": "d9f512f3-cdf9-4044-b6b5-c3ed16d117aa",
+        "created_at": "2026-11-03T09:19:22.336725+00:00",
+        "updated_at": "2026-11-03T09:19:22.336725+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (around 2022) and found the view incredible to see in person.",
+        "score": 0.8275362484464932,
+        "id": "2463ee2d-98c4-4fd1-9049-5a3161eeb4f5",
+        "created_at": "2026-11-03T09:19:22.331910+00:00",
+        "updated_at": "2026-11-03T09:19:22.331910+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during the summer of 2023, which he described as stunning and meaningful to him.",
+        "score": 0.8194957226077525,
+        "id": "58e3890e-2790-4317-8834-5fc37cfe4d8f",
+        "created_at": "2026-11-03T09:18:59.358558+00:00",
+        "updated_at": "2026-11-03T09:18:59.358558+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip in 2022, describing the view as incredible and nature as refreshing",
+        "score": 0.8133000483794952,
+        "id": "5838a2d4-e12c-4732-b4b3-3ac78cfe95fc",
+        "created_at": "2026-11-03T09:19:11.904521+00:00",
+        "updated_at": "2026-11-03T09:19:11.904521+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during a trip to the Smoky Mountains in October 2022, describing the view as incredible and nature as refreshing.",
+        "score": 0.8114268342249418,
+        "id": "6435fc3e-baab-4615-8f35-b09c1df1050b",
+        "created_at": "2026-11-03T09:19:15.445975+00:00",
+        "updated_at": "2026-11-03T09:19:15.445975+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during his trip to the Smoky Mountains in 2022, describing the experience as incredible and noting that nature is truly something else.",
+        "score": 0.8033083869030481,
+        "id": "0c06a3ad-44e0-422a-a7e0-8fc3b4c99b06",
+        "created_at": "2026-11-03T09:19:04.420466+00:00",
+        "updated_at": "2026-11-03T09:19:04.420466+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.8014537079050728,
+        "id": "7a90b97f-34f8-4d2a-87d4-2f743ae3c449",
+        "created_at": "2026-11-03T09:19:26.752495+00:00",
+        "updated_at": "2026-11-03T09:19:26.752495+00:00"
+      },
+      {
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
+        "score": 0.7955820673426895,
+        "id": "aa518470-51a7-477e-b654-4684b8d85880",
+        "created_at": "2026-11-03T09:19:18.899142+00:00",
+        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+      },
+      {
+        "memory": "Tim took a photo during a trip to the Smoky Mountains in October 2022 and found the experience incredible, appreciating nature's beauty as a refreshing break from school.",
+        "score": 0.7701127633722755,
+        "id": "4e5da3d9-1387-4ff5-9943-927aa6b1b690",
+        "created_at": "2026-11-03T09:19:36.419055+00:00",
+        "updated_at": "2026-11-03T09:19:36.419055+00:00"
+      },
+      {
+        "memory": "Tim describes nature as a 'reset for the soul' and shared a photo of a plane flying over a snowy mountain range on December 1, 2023, while discussing how natural landscapes calm him.",
+        "score": 0.7697674602390864,
+        "id": "2c4ee809-b3e6-4da0-93f1-6bcbc9b16dc4",
+        "created_at": "2026-11-03T09:30:04.107950+00:00",
+        "updated_at": "2026-11-03T09:30:04.107950+00:00"
+      },
+      {
+        "memory": "Tim went on a trip to the Smoky Mountains in 2022 and found the experience incredible, describing nature as refreshing and a good break from school.",
+        "score": 0.7274201531699809,
+        "id": "b0fb5f0c-5aa0-417d-af7f-52c2bffffd10",
+        "created_at": "2026-11-03T09:19:26.756015+00:00",
+        "updated_at": "2026-11-03T09:19:26.756015+00:00"
+      },
+      {
+        "memory": "Tim expressed that being in the mountains is the best, indicating a strong preference for mountain environments.",
+        "score": 0.7147868525457273,
+        "id": "932074fd-7c29-4417-b973-c19c85651ea0",
+        "created_at": "2026-11-03T09:29:59.881894+00:00",
+        "updated_at": "2026-11-03T09:29:59.881894+00:00"
+      },
+      {
+        "memory": "Tim read a story from his traveler book about two hikers who trekked through the Himalayas and found it awesome, sharing an image of two men on horseback in front of a mountain.",
+        "score": 0.6932198613830375,
+        "id": "56ba87cc-1bdd-465c-8be3-cd260d4cbbf1",
+        "created_at": "2026-11-03T09:34:25.372715+00:00",
+        "updated_at": "2026-11-03T09:34:25.372715+00:00"
+      },
+      {
+        "memory": "John went on a trip to the Rocky Mountains in late 2022 and found the experience stunning, noting that seeing the mountains and breathing fresh air makes him realize how incredible the world is.",
+        "score": 0.6916674838447909,
+        "id": "46462d7d-ebf5-4af5-b14f-78883cd18eac",
+        "created_at": "2026-11-03T09:30:06.235566+00:00",
+        "updated_at": "2026-11-03T09:30:06.235566+00:00"
+      },
+      {
+        "memory": "John took a trip to the Rocky Mountains in 2022 and found it stunning, noting that seeing the mountains and fresh air makes him realize how incredible the world is.",
+        "score": 0.6896675268261397,
+        "id": "8f0254ad-4241-443b-808b-b2f249fec6b4",
+        "created_at": "2026-11-03T09:30:12.486990+00:00",
+        "updated_at": "2026-11-03T09:30:12.486990+00:00"
+      },
+      {
+        "memory": "John went camping in the Rocky Mountains in late 2022, describing the experience as stunning and peaceful, with refreshing air that helped clear his mind.",
+        "score": 0.6376999124182284,
+        "id": "8161167b-988a-4ec2-9ad7-d588e99db7a3",
+        "created_at": "2026-11-03T09:30:17.401314+00:00",
+        "updated_at": "2026-11-03T09:30:17.401314+00:00"
+      },
+      {
+        "memory": "Tim expressed excitement about exploring nature in Ireland and shared an image of cliffs overlooking the ocean at sunset, referencing the Cliffs of Moher.",
+        "score": 0.6145831066988936,
+        "id": "d3ae12db-c6dd-449d-a87e-5bde719f7711",
+        "created_at": "2026-11-03T09:37:22.443980+00:00",
+        "updated_at": "2026-11-03T09:37:22.443980+00:00"
+      },
+      {
+        "memory": "The photoshoot for John's outdoor gear endorsement was held in a forest where he captured epic shots of himself jumping in a field near rocks and a river.",
+        "score": 0.5908465141668465,
+        "id": "7c7deb8c-116d-4522-89bc-04e169f10d9a",
+        "created_at": "2026-11-03T09:33:56.772070+00:00",
+        "updated_at": "2026-11-03T09:33:56.772070+00:00"
+      },
+      {
+        "memory": "John's outdoor gear photoshoot took place in a forest where he captured epic shots of himself jumping in a field near rocks and a river, an experience that energized him.",
+        "score": 0.5843267817139888,
+        "id": "52456362-6a5b-401c-aca0-374f5acdf760",
+        "created_at": "2026-11-03T09:33:53.674818+00:00",
+        "updated_at": "2026-11-03T09:33:53.674818+00:00"
+      }
+    ],
+    "search_latency_ms": 123.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Blue Ridge Mountains in North Carolina",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the Blue Ridge Mountains, which is a different geographic range than the Smoky Mountains specified in the gold answer, and does not contain any correct items from the gold list."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Smoky Mountains in North Carolina",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the Smoky Mountains, which is the core entity in the gold answer, and adds the specific location of North Carolina."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Smoky Mountains in North Carolina",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the Smoky Mountains, which is the core entity in the gold answer, and adds the specific location of North Carolina."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Smoky Mountains in North Carolina",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the Smoky Mountains, which is the core entity in the gold answer, and adds the specific location of North Carolina."
+    }
+  }
+}

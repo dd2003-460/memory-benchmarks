@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q79",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of deals did John sign with Nike and Gatorade?",
+  "ground_truth_answer": "basketball shoe and gear deal with Nike, potential sponsorship deal with Gatorade",
+  "evidence": [
+    "D3:13"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What kind of deals did John sign with Nike and Gatorade?",
+    "search_results": [
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6910452963035858,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improving his overall game on the court, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6861805782607775,
+        "id": "18996d25-1e0d-4d9f-9ace-c14339f29067",
+        "created_at": "2026-11-03T09:30:34.563515+00:00",
+        "updated_at": "2026-11-03T09:30:34.563515+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6411644580051568,
+        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
+        "created_at": "2026-11-03T09:38:17.827762+00:00",
+        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6391651892873267,
+        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
+        "created_at": "2026-11-03T09:38:36.414205+00:00",
+        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
+        "score": 0.6388364224488798,
+        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
+        "created_at": "2026-11-03T09:38:15.519591+00:00",
+        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he describes as a dream come true that validated his hard work and training hours.",
+        "score": 0.6379844549780065,
+        "id": "99ac9b47-0eff-4b9e-873a-163cde5e3d00",
+        "created_at": "2026-11-03T09:38:13.164949+00:00",
+        "updated_at": "2026-11-03T09:38:13.164949+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.6376154429178511,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.6344467092831203,
+        "id": "83663438-89cc-48f0-b163-8b0987850701",
+        "created_at": "2026-11-03T09:33:56.767555+00:00",
+        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
+        "score": 0.6330133035781368,
+        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
+        "created_at": "2026-11-03T09:38:08.169886+00:00",
+        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6286168877079521,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in mid-December 2023, which included receiving hiking equipment and participating in a photoshoot.",
+        "score": 0.6246843093813859,
+        "id": "f5b62400-d2b3-43a2-9685-e4e6585c534f",
+        "created_at": "2026-11-03T09:33:53.669453+00:00",
+        "updated_at": "2026-11-03T09:33:53.669453+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
+        "score": 0.6192079373208725,
+        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
+        "created_at": "2026-11-03T09:38:10.619051+00:00",
+        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+      },
+      {
+        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
+        "score": 0.6151654649480762,
+        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
+        "created_at": "2026-11-03T09:08:31.358666+00:00",
+        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week of December 12, 2023, and shared a photo from the associated photoshoot showing him wearing a backpack while walking down a path.",
+        "score": 0.613826386623076,
+        "id": "8da39e80-34cb-4725-8e28-42f6c711e96d",
+        "created_at": "2026-11-03T09:33:34.908869+00:00",
+        "updated_at": "2026-11-03T09:33:34.908869+00:00"
+      },
+      {
+        "memory": "John received top-notch hiking and outdoor gear as part of his endorsement deal with a renowned outdoor gear company, and the associated photoshoot was held in a gorgeous forest where the photographer captured epic shots of him.",
+        "score": 0.5763453585828269,
+        "id": "536266b6-0bbb-4b29-ac5d-ac11c11f838b",
+        "created_at": "2026-11-03T09:33:39.113465+00:00",
+        "updated_at": "2026-11-03T09:33:39.113465+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.5654377481441257,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
+        "score": 0.5652266378229786,
+        "id": "31196cac-4beb-410d-8c13-010e32d84735",
+        "created_at": "2026-11-03T09:22:24.102935+00:00",
+        "updated_at": "2026-11-03T09:22:24.102935+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.36044611544918886,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      },
+      {
+        "memory": "John has a pair of lucky basketball shoes that have been with him through good and bad times, believing every mark on them has a story, and shared a photo of the sneakers in a box on August 11, 2023.",
+        "score": 0.35787694100573525,
+        "id": "092137e7-b29c-4cd1-87c2-ca469b09b8a0",
+        "created_at": "2026-11-03T09:07:19.354031+00:00",
+        "updated_at": "2026-11-03T09:07:19.354031+00:00"
+      },
+      {
+        "memory": "Off the court, John is actively looking into securing more endorsements and building his personal brand to prepare for life after basketball.",
+        "score": 0.3324558578285619,
+        "id": "ca31824b-a0fe-49cf-add5-3a0cc05771a3",
+        "created_at": "2026-11-03T09:15:54.765932+00:00",
+        "updated_at": "2026-11-03T09:15:54.765932+00:00"
+      }
+    ],
+    "search_latency_ms": 132.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "endorsement deals",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'endorsement deals' is a general category that encompasses the specific 'shoe and gear deal' and 'sponsorship deal' mentioned in the gold answer, thus capturing the core concept without contradicting the specific details."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "endorsement deals",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'endorsement deals' is a general category that encompasses the specific 'shoe and gear deal' and 'sponsorship deal' mentioned in the gold answer, thus capturing the core concept without contradicting the specific details."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "endorsement deals",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'endorsement deals' is a general category that encompasses the specific 'shoe and gear deal' and 'sponsorship deal' mentioned in the gold answer, thus capturing the core concept without contradicting the specific details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "endorsement deals",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'endorsement deals' is a general category that encompasses the specific 'shoe and gear deal' and 'sponsorship deal' mentioned in the gold answer, thus capturing the core concept without contradicting the specific details."
+    }
+  }
+}

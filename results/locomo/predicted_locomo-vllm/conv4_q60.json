@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q60",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John achieve a career-high assist performance?",
+  "ground_truth_answer": "December 11, 2023",
+  "evidence": [
+    "D23:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When did John achieve a career-high assist performance?",
+    "search_results": [
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6889783438814964,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6863676288680093,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6785935923861669,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6611182403278268,
+        "id": "094a7829-5c98-4aee-b925-8eb643671180",
+        "created_at": "2026-11-03T09:31:45.175398+00:00",
+        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6583710227290541,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John is currently focusing on improving his shooting and making a greater impact on the court, with the goal of being known as a consistent performer who helps his team.",
+        "score": 0.6403796504685861,
+        "id": "b8d5246a-42df-4376-8ad6-bddf2d32abd3",
+        "created_at": "2026-11-03T09:14:58.688861+00:00",
+        "updated_at": "2026-11-03T09:14:58.688861+00:00"
+      },
+      {
+        "memory": "John achieved a recovery milestone on December 15, 2023, when he was able to jog for a bit without pain at the gym, which he described as a relief and evidence that his hard work in rehab is paying off.",
+        "score": 0.6241765766014729,
+        "id": "70796014-473b-4d12-acbb-7633afcc7ff9",
+        "created_at": "2026-11-03T09:33:16.674780+00:00",
+        "updated_at": "2026-11-03T09:33:16.674780+00:00"
+      },
+      {
+        "memory": "John states that incorporating strength training significantly improved his basketball performance by enhancing shooting accuracy, agility, and speed, giving him a competitive edge over opponents and boosting his confidence.",
+        "score": 0.6227088868456974,
+        "id": "f3d32b27-0235-4e7a-ac3d-d61246baade6",
+        "created_at": "2026-11-03T09:09:15.444097+00:00",
+        "updated_at": "2026-11-03T09:09:15.444097+00:00"
+      },
+      {
+        "memory": "John's current on-court goals are to improve his shooting and become known as a consistent performer who makes a significant impact for his team.",
+        "score": 0.6127249390322175,
+        "id": "a5b307b4-3cb7-4473-b446-7080f6e8f72f",
+        "created_at": "2026-11-03T09:15:54.763168+00:00",
+        "updated_at": "2026-11-03T09:15:54.763168+00:00"
+      },
+      {
+        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
+        "score": 0.6111657395310746,
+        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
+        "created_at": "2026-11-03T09:33:53.682920+00:00",
+        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
+        "score": 0.6060666373014514,
+        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
+        "created_at": "2026-11-03T09:33:32.671038+00:00",
+        "updated_at": "2026-11-03T09:33:32.671038+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.6052208767691103,
+        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
+        "created_at": "2026-11-03T09:07:43.089742+00:00",
+        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+      },
+      {
+        "memory": "John's team participated in a scrimmage the week of December 18-24, 2023, where they gave it their all and observed significant growth in communication and bonding, which improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6026641305923249,
+        "id": "dc92065d-f7a7-418d-8dff-2f97ad60067e",
+        "created_at": "2026-11-03T09:34:11.783377+00:00",
+        "updated_at": "2026-11-03T09:34:11.783377+00:00"
+      },
+      {
+        "memory": "John loves his professional basketball career because it provides a constant challenge that keeps him growing, and he finds great satisfaction in seeing himself improve and beating goals.",
+        "score": 0.6018341621724423,
+        "id": "82220b64-01b1-4986-b1c7-d39168fc74ed",
+        "created_at": "2026-11-03T09:14:51.744429+00:00",
+        "updated_at": "2026-11-03T09:14:51.744429+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, emphasizing listening to his body and ensuring adequate rest to maintain performance during practice.",
+        "score": 0.5993582195121195,
+        "id": "1790bd58-3e4f-41bc-90f1-9f3b0c2934e9",
+        "created_at": "2026-11-03T09:09:06.580424+00:00",
+        "updated_at": "2026-11-03T09:09:06.580424+00:00"
+      },
+      {
+        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
+        "score": 0.5986113298257953,
+        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
+        "created_at": "2026-11-03T09:14:58.691644+00:00",
+        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+      },
+      {
+        "memory": "John is recovering from an injury and performs physical therapy exercises every day to stay active during his rehabilitation process.",
+        "score": 0.5959593583139516,
+        "id": "4b3f8ae3-238d-419b-bcf4-ade98bf2f304",
+        "created_at": "2026-11-03T09:33:32.666118+00:00",
+        "updated_at": "2026-11-03T09:33:32.666118+00:00"
+      },
+      {
+        "memory": "John's basketball team has seen the most growth in communication and bonding, which has improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.5950992241257801,
+        "id": "0faf66fb-99c5-4663-ab4b-c85bbb363304",
+        "created_at": "2026-11-03T09:34:01.061702+00:00",
+        "updated_at": "2026-11-03T09:34:01.061702+00:00"
+      },
+      {
+        "memory": "John continued playing basketball through middle and high school before earning a college scholarship, and was drafted by a professional team after college, which he describes as his dream come true.",
+        "score": 0.5924972197012489,
+        "id": "5debabf9-1707-47f7-a97b-a6f8536cb8b2",
+        "created_at": "2026-11-03T09:07:35.943681+00:00",
+        "updated_at": "2026-11-03T09:07:35.943681+00:00"
+      },
+      {
+        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
+        "score": 0.591800077395117,
+        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
+        "created_at": "2026-11-03T09:11:02.805338+00:00",
+        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+      }
+    ],
+    "search_latency_ms": 110.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Friday, December 8, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer (December 8, 2023) is within 14 days of the gold answer (December 11, 2023), satisfying the date tolerance rule."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December 8, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (December 8, 2023) is within 14 days of the gold answer (December 11, 2023), satisfying the date tolerance rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December 8, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (December 8, 2023) is within 14 days of the gold answer (December 11, 2023), satisfying the date tolerance rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "December 8, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (December 8, 2023) is within 14 days of the gold answer (December 11, 2023), satisfying the date tolerance rule."
+    }
+  }
+}

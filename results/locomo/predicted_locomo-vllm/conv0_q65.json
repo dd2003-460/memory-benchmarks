@@ -9,42 +9,183 @@
     "D16:15",
     "D11:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What are some changes Caroline has faced during her transition journey?",
-    "search_results": [],
-    "search_latency_ms": 31.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline reflects on her transition journey as a long road but expresses pride in how far she has come, emphasizing the importance of finding peace and self-acceptance.",
+        "score": 0.8802995179246992,
+        "id": "10df186d-7ba7-40e0-958c-f649710b41b5",
+        "created_at": "2026-11-04T05:24:07.301599+00:00",
+        "updated_at": "2026-11-04T05:24:07.301599+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.8417702675214347,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.780174983315224,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Caroline is feeling hopeful and optimistic about her adoption journey, noting that the hard work has started to turn her dream into reality, and she expressed gratitude for the support received from friends and mentors on May 25, 2023.",
+        "score": 0.7791450990895314,
+        "id": "0a496fb6-9719-4cca-a99f-a45c9109e3a4",
+        "created_at": "2026-11-04T05:15:49.123069+00:00",
+        "updated_at": "2026-11-04T05:15:49.123069+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.7779884657007936,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.7773185574536401,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline felt super powerful giving her talk at the school event around June 2, 2023, where she shared her personal journey, struggles, and growth since coming out, noting that the audience related to her story and was inspired to become better allies.",
+        "score": 0.7739914876118437,
+        "id": "c64a7faf-09b0-4044-9bf2-53175329c9c4",
+        "created_at": "2026-11-04T05:16:23.157347+00:00",
+        "updated_at": "2026-11-04T05:16:23.157347+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who created a stained glass window for a local church to represent her personal journey and the importance of accepting growth and change in life.",
+        "score": 0.7610998173799036,
+        "id": "4944e30e-d778-4a70-9cf7-2a0de16856b0",
+        "created_at": "2026-11-04T05:59:26.152495+00:00",
+        "updated_at": "2026-11-04T05:59:26.152495+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.7575918984049569,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline's motivation for becoming a counselor stems from her own personal journey and the significant positive impact that counseling and support groups had on her life and self-understanding.",
+        "score": 0.7399474143477829,
+        "id": "314bd746-1dda-41bd-be7d-7af5570c1632",
+        "created_at": "2026-11-04T05:18:59.464374+00:00",
+        "updated_at": "2026-11-04T05:18:59.464374+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health in the past and found that the support she received was highly helpful, which motivated her to pursue a career in counseling and mental health to help others on their own journeys.",
+        "score": 0.7371689157728933,
+        "id": "f7358440-b78e-4cda-9e09-d841bcfc7481",
+        "created_at": "2026-11-04T05:22:37.037867+00:00",
+        "updated_at": "2026-11-04T05:22:37.037867+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, finding her current relationships more genuine and herself much happier.",
+        "score": 0.7163984829303464,
+        "id": "be919a79-79db-4088-bd66-0a875d1275cb",
+        "created_at": "2026-11-04T06:02:06.116658+00:00",
+        "updated_at": "2026-11-04T06:02:06.116658+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, leading to more genuine connections.",
+        "score": 0.7120902841005832,
+        "id": "22a772a9-c557-4f05-a406-deb242d85b0c",
+        "created_at": "2026-11-04T06:02:09.168092+00:00",
+        "updated_at": "2026-11-04T06:02:09.168092+00:00"
+      },
+      {
+        "memory": "Caroline's transition as a trans woman changed her relationships, with some close friends continuing to support her while others were unable to handle it; she now feels happier and finds her relationships more genuine by being around those who accept and love her.",
+        "score": 0.7075139472517493,
+        "id": "3aa99a90-7cf9-480d-8594-b4689bbe54c9",
+        "created_at": "2026-11-04T06:01:49.285349+00:00",
+        "updated_at": "2026-11-04T06:01:49.285349+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.7066994274163241,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.7037833944796107,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline's relationships have shifted due to her transition; while some close friends remained supportive, others were unable to handle it, leaving her happier and more genuine in her current connections.",
+        "score": 0.6932832403281751,
+        "id": "1efdaf7e-5410-47bb-9f2e-031179630c14",
+        "created_at": "2026-11-04T06:01:52.874168+00:00",
+        "updated_at": "2026-11-04T06:01:52.874168+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.6763842726649145,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      },
+      {
+        "memory": "Caroline found the courage to transition and expressed that being able to express herself authentically without fear is freeing and inspiring.",
+        "score": 0.6696630481702619,
+        "id": "fec75523-9d33-4248-a1bc-fdd922323bb1",
+        "created_at": "2026-11-04T05:24:10.248473+00:00",
+        "updated_at": "2026-11-04T05:24:10.248473+00:00"
+      },
+      {
+        "memory": "Caroline described finding self-acceptance as a long process that was supported by friends, family, and role models, which helped her discover her true identity during her transition.",
+        "score": 0.6691213397241934,
+        "id": "2e74a7c4-60b9-48b8-bff9-32a1755e40b1",
+        "created_at": "2026-11-04T06:04:38.587536+00:00",
+        "updated_at": "2026-11-04T06:04:38.587536+00:00"
+      }
+    ],
+    "search_latency_ms": 116.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has experienced significant internal and external changes during her transition journey. Internally, she has moved from fear to a sense of freedom and authenticity, finding peace and self-acceptance. She has also deepened her self-discovery by viewing books as essential guides for her identity. Externally, her journey has inspired her to pursue a career in counseling to help others, become an advocate by speaking at school events to encourage LGBTQ involvement, and express her growth creatively by creating a stained glass window for a local church.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions 'external changes' and 'authenticity' which semantically overlaps with the gold answer's 'changes to her body', satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has faced significant changes in her relationships, where some close friends were unable to handle her transition while others remained supportive, leading to more genuine connections and greater happiness. Internally, she found the courage to transition, experienced a long process of self-acceptance and identity discovery, and now feels free to express herself authentically without fear. These experiences also motivated her to pursue a career in counseling to help others and focus on creating a safe home for children through adoption.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the loss of unsupportive friends as a key change, which matches one of the items in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has faced significant changes in her relationships, where some close friends were unable to handle her transition while others remained supportive, leading to more genuine connections and increased happiness. Internally, she achieved self-acceptance and discovered her true identity, finding freedom in expressing herself authentically without fear. Her journey also motivated her to pursue a career in counseling and focus on creating a safe home for children through adoption.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the loss of unsupportive friends as a key change, which matches one of the items in the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has faced significant changes in her relationships, where some close friends were unable to handle her transition while others remained supportive, leading to more genuine connections and greater happiness. Internally, she found the courage to transition, experienced a long process of self-acceptance and identity discovery, and now feels free to express herself authentically without fear. These experiences also motivated her to pursue a career in counseling to help others and focus on creating a safe home for children through adoption.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the loss of unsupportive friends as a key change, which matches one of the items in the gold answer, satisfying the partial credit rule."
     }
   }
 }

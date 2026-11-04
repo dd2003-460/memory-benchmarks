@@ -8,42 +8,183 @@
   "evidence": [
     "D9:16"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What inspired Caroline's painting for the art show?",
-    "search_results": [],
-    "search_latency_ms": 25.3,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline feels liberated and empowered when painting, using art as a therapeutic way to explore her identity and be true to herself",
+        "score": 0.6953468508920607,
+        "id": "e98781dd-cf17-4ec5-8341-a1d56e5a4f23",
+        "created_at": "2026-11-04T05:56:48.941753+00:00",
+        "updated_at": "2026-11-04T05:56:48.941753+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to express her feelings and explore her gender identity, finding that creating art was crucial during her transition as it helped her understand and accept herself.",
+        "score": 0.6939518326795311,
+        "id": "f38a23ba-b78c-4707-b597-eb183fcca0f3",
+        "created_at": "2026-11-04T06:01:34.703508+00:00",
+        "updated_at": "2026-11-04T06:01:34.703508+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to create art similar to a painted sidewalk with a rainbow design, viewing it as a symbol of togetherness that celebrates differences and brings people closer together.",
+        "score": 0.682733510598652,
+        "id": "c54209e6-f3ab-4202-bb46-36ae0f781840",
+        "created_at": "2026-11-04T05:59:01.075387+00:00",
+        "updated_at": "2026-11-04T05:59:01.075387+00:00"
+      },
+      {
+        "memory": "Caroline painted a vivid artwork inspired by her visit to an LGBTQ center, aiming to capture the unity and strength of the community members she met there.",
+        "score": 0.6826157435165651,
+        "id": "339f073d-c1e9-40eb-9085-33ca75b4d1b2",
+        "created_at": "2026-11-04T05:52:33.624595+00:00",
+        "updated_at": "2026-11-04T05:52:33.624595+00:00"
+      },
+      {
+        "memory": "Caroline has not tried pottery but has been busy painting, and recently finished a vibrant sunset beach painting inspired by visiting the beach the week of August 18, 2023, where she found the experience calming and wanted to capture the feeling.",
+        "score": 0.6799881655518416,
+        "id": "6a413e0d-5241-41d8-af32-7345dfaf1747",
+        "created_at": "2026-11-04T05:57:32.051964+00:00",
+        "updated_at": "2026-11-04T05:57:32.051964+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview painting for her upcoming art show depicting a tree with a bright sun in the background, which she painted after visiting an LGBTQ center to capture everyone's unity and strength.",
+        "score": 0.6793568400016967,
+        "id": "7ec4a0e2-f6b3-4618-b42f-dc473fa72e33",
+        "created_at": "2026-11-04T05:51:50.399717+00:00",
+        "updated_at": "2026-11-04T05:51:50.399717+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6791865451244972,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline expressed interest in creating art that symbolizes togetherness and celebrating differences, inspired by a painted sidewalk with a rainbow design.",
+        "score": 0.678053522634136,
+        "id": "6664aa0c-3359-4c58-a773-b46591c8f90d",
+        "created_at": "2026-11-04T05:59:07.221868+00:00",
+        "updated_at": "2026-11-04T05:59:07.221868+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.6774591159059333,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline is an LGBTQ+ artist who is putting together and exhibiting her paintings in an LGBTQ art show scheduled for September 2023, aiming to spread understanding and acceptance within the community.",
+        "score": 0.6747640249932074,
+        "id": "a108089f-2f4f-477b-85b6-6ef86abba893",
+        "created_at": "2026-11-04T06:00:13.250961+00:00",
+        "updated_at": "2026-11-04T06:00:13.250961+00:00"
+      },
+      {
+        "memory": "Caroline is inspired by seeing her art make a difference for the LGBTQ+ community and feels thankful for the support of her friends, family, and mentors, which motivates her to continue creating art.",
+        "score": 0.672384041801811,
+        "id": "19ec5367-90ab-43da-9234-6a89159c73f0",
+        "created_at": "2026-11-04T06:01:24.077198+00:00",
+        "updated_at": "2026-11-04T06:01:24.077198+00:00"
+      },
+      {
+        "memory": "Caroline felt liberated and empowered while painting her recent self-portrait, describing the process as therapeutic and a way to explore her identity and be true to herself.",
+        "score": 0.6721586544234521,
+        "id": "b278040d-e137-4d5f-9b03-d3b95676a57b",
+        "created_at": "2026-11-04T05:56:31.740970+00:00",
+        "updated_at": "2026-11-04T05:56:31.740970+00:00"
+      },
+      {
+        "memory": "Caroline finds painting therapeutic as it helps her explore her identity, be true to herself, and express herself creatively.",
+        "score": 0.6716333304350821,
+        "id": "d783d67a-ec04-45c2-a193-444757afd875",
+        "created_at": "2026-11-04T05:56:39.749181+00:00",
+        "updated_at": "2026-11-04T05:56:39.749181+00:00"
+      },
+      {
+        "memory": "Caroline finds painting therapeutic for exploring her identity and being true to herself, valuing art as a source of freedom alongside supportive people and promoting LGBTQ rights.",
+        "score": 0.6689401176260422,
+        "id": "b7a37867-4bef-48d7-adc9-7dae0124a022",
+        "created_at": "2026-11-04T05:56:59.716096+00:00",
+        "updated_at": "2026-11-04T05:56:59.716096+00:00"
+      },
+      {
+        "memory": "Caroline painted the tree and bright sun artwork for her LGBTQ art show after visiting an LGBTQ center, aiming to capture the unity and strength of everyone she saw there.",
+        "score": 0.6640007324229583,
+        "id": "9e2e8f6e-f082-4ab8-b718-aa385801673d",
+        "created_at": "2026-11-04T05:51:44.133805+00:00",
+        "updated_at": "2026-11-04T05:51:44.133805+00:00"
+      },
+      {
+        "memory": "Caroline has a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she values for its sentimental connection to art and self-expression.",
+        "score": 0.6625811917436766,
+        "id": "772e7a16-2f60-46f1-859f-845b5345b7fa",
+        "created_at": "2026-11-04T05:18:30.176902+00:00",
+        "updated_at": "2026-11-04T05:18:30.176902+00:00"
+      },
+      {
+        "memory": "Caroline has been into art since she was 17 and finds it empowering and cathartic, noting that art can express things that are hard to put into words",
+        "score": 0.662247334825593,
+        "id": "197074f5-0afa-49f7-8022-665acd54fe05",
+        "created_at": "2026-11-04T06:01:56.663106+00:00",
+        "updated_at": "2026-11-04T06:01:56.663106+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting featuring a woman with a blue face using vibrant colors last week around August 16, 2023, and stated that painting is great for expressing herself",
+        "score": 0.661291210857043,
+        "id": "241822d3-aa6c-4273-9f4b-89e65a173391",
+        "created_at": "2026-11-04T05:56:24.918477+00:00",
+        "updated_at": "2026-11-04T05:56:24.918477+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6595432921345412,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline has been busy painting and recently finished a vibrant sunset beach painting that she displayed on a small easel.",
+        "score": 0.6581179406097281,
+        "id": "694b9309-e0fd-4a99-a33e-f144e0a10681",
+        "created_at": "2026-11-04T05:57:44.094062+00:00",
+        "updated_at": "2026-11-04T05:57:44.094062+00:00"
+      }
+    ],
+    "search_latency_ms": 118.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her visit to an LGBTQ center, where she aimed to capture the unity and strength of the community members she met there.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer accurately includes the key elements of the gold answer: visiting an LGBTQ center and capturing unity and strength."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her visit to an LGBTQ center, where she aimed to capture the unity and strength of the community members she met there.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer accurately includes the key elements of the gold answer: visiting an LGBTQ center and capturing unity and strength."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her visit to an LGBTQ center, where she aimed to capture the unity and strength of the community members she met there.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer accurately includes the key elements of the gold answer: visiting an LGBTQ center and capturing unity and strength."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her visit to an LGBTQ center, where she aimed to capture the unity and strength of the community members she met.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer accurately reflects the gold answer by mentioning the visit to an LGBTQ center and the goal of capturing unity and strength."
     }
   }
 }

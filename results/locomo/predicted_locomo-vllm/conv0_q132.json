@@ -8,42 +8,183 @@
   "evidence": [
     "D16:7"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How long has Melanie been creating art?",
-    "search_results": [],
-    "search_latency_ms": 13.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie has been creating art for seven years, finding painting and pottery to be her true muses that provide a calming and satisfying experience.",
+        "score": 0.7440999129322834,
+        "id": "02db0372-a6ea-4fb6-9a6e-50d0a3cbfed4",
+        "created_at": "2026-11-04T06:01:32.065735+00:00",
+        "updated_at": "2026-11-04T06:01:32.065735+00:00"
+      },
+      {
+        "memory": "Melanie has been involved in art for seven years and identifies painting and pottery as her primary creative muses, describing them as calming and satisfying outlets.",
+        "score": 0.7224200867175555,
+        "id": "630f08ab-b7ff-403a-b9cc-a0c77e1c7a3e",
+        "created_at": "2026-11-04T06:01:52.860318+00:00",
+        "updated_at": "2026-11-04T06:01:52.860318+00:00"
+      },
+      {
+        "memory": "Melanie has been into art for seven years and recently found her true muses in painting and pottery, describing both as calming and satisfying creative outlets.",
+        "score": 0.7141534606348585,
+        "id": "7f333e8d-00c5-407e-9abf-ec84ba768271",
+        "created_at": "2026-11-04T06:01:46.615592+00:00",
+        "updated_at": "2026-11-04T06:01:46.615592+00:00"
+      },
+      {
+        "memory": "Melanie has been into art for seven years and found her real muses in painting and pottery, describing them as calming and satisfying",
+        "score": 0.7116609196596402,
+        "id": "cab9a55d-4ab8-43a2-89c9-10e7015bf8de",
+        "created_at": "2026-11-04T06:01:56.665879+00:00",
+        "updated_at": "2026-11-04T06:01:56.665879+00:00"
+      },
+      {
+        "memory": "Melanie shared an abstract painting with vibrant colors and a blue background that she created around October 13, 2023, noting how art allows them to express emotions.",
+        "score": 0.6973378923025163,
+        "id": "2ca289ee-b0ef-4591-a249-d4a020d18f30",
+        "created_at": "2026-11-04T06:02:43.917702+00:00",
+        "updated_at": "2026-11-04T06:02:43.917702+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.6917535221205611,
+        "id": "0e579ad8-5fcb-4857-98fa-6826d5dac893",
+        "created_at": "2026-11-04T05:54:45.045277+00:00",
+        "updated_at": "2026-11-04T05:54:45.045277+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.6917535221205611,
+        "id": "12e9fad7-91f3-4b99-aecf-6649b010d37d",
+        "created_at": "2026-11-04T05:54:36.292947+00:00",
+        "updated_at": "2026-11-04T05:54:36.292947+00:00"
+      },
+      {
+        "memory": "Melanie created an abstract painting with vibrant colors and a blue background around October 6-12, 2023, finding that art allows her to express emotions.",
+        "score": 0.6917127533463545,
+        "id": "7a41e6dd-ed46-449a-951f-d2524b902b83",
+        "created_at": "2026-11-04T06:02:40.722013+00:00",
+        "updated_at": "2026-11-04T06:02:40.722013+00:00"
+      },
+      {
+        "memory": "Melanie is planning to create several new paintings inspired by the autumn season in late August 2023.",
+        "score": 0.674662288023508,
+        "id": "ea5c7ae1-889f-4f3f-96e7-27c89dc93922",
+        "created_at": "2026-11-04T05:59:56.629710+00:00",
+        "updated_at": "2026-11-04T05:59:56.629710+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns, which inspired her to create eye-catching art that makes people smile, and she views painting as a way to express feelings and be creative",
+        "score": 0.6744489696791034,
+        "id": "bcd6fa8b-abb2-4bd4-bd1b-470bf84d8cf2",
+        "created_at": "2026-11-04T05:54:55.724364+00:00",
+        "updated_at": "2026-11-04T05:54:55.724364+00:00"
+      },
+      {
+        "memory": "Melanie was feeling inspired by autumn in late August 2023 and was planning to create several new paintings based on the season.",
+        "score": 0.6700009574937845,
+        "id": "076f04d4-9606-4cd6-b1db-1f297543c4e9",
+        "created_at": "2026-11-04T06:00:01.346102+00:00",
+        "updated_at": "2026-11-04T06:00:01.346102+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about painting, using it as a creative outlet to express feelings and bring joy to others, describing art as a sanctuary and source of comfort and fulfillment.",
+        "score": 0.669106334497734,
+        "id": "b2176338-4ed8-4abd-9edf-93a1e9b76b51",
+        "created_at": "2026-11-04T05:55:11.836691+00:00",
+        "updated_at": "2026-11-04T05:55:11.836691+00:00"
+      },
+      {
+        "memory": "Melanie is planning several new art projects inspired by autumn, as discussed in a conversation with Caroline on August 25, 2023.",
+        "score": 0.666316175425197,
+        "id": "99647058-0b2d-41a9-ac16-ca80ce281361",
+        "created_at": "2026-11-04T05:59:37.358429+00:00",
+        "updated_at": "2026-11-04T05:59:37.358429+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about using vibrant colors and patterns in her art to catch the eye and make people smile, viewing painting as a way to express feelings and be creative where each stroke carries a part of her.",
+        "score": 0.6630719060480892,
+        "id": "3adbf726-d00c-4027-8da7-1440ac3bff33",
+        "created_at": "2026-11-04T05:54:48.865483+00:00",
+        "updated_at": "2026-11-04T05:54:48.865483+00:00"
+      },
+      {
+        "memory": "Melanie describes art as a sanctuary and source of comfort that brings her happiness and fulfillment, noting she has always felt a strong connection to it and finds it a huge learning experience.",
+        "score": 0.6612593978125926,
+        "id": "45610c6b-600d-495a-a048-b0b170e0e146",
+        "created_at": "2026-11-04T05:54:48.868230+00:00",
+        "updated_at": "2026-11-04T05:54:48.868230+00:00"
+      },
+      {
+        "memory": "Melanie's favorite type of art is painting landscapes and still life, and she shared a recent painting of a sunflower on canvas.",
+        "score": 0.6610346072699185,
+        "id": "d0a4f15a-e98b-45e6-9790-877036d724b7",
+        "created_at": "2026-11-04T06:00:01.342572+00:00",
+        "updated_at": "2026-11-04T06:00:01.342572+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6600068120261702,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie describes art as a sanctuary and source of comfort, noting that it has been a huge learning experience and brings her happiness and fulfillment.",
+        "score": 0.6593590368841338,
+        "id": "d1105da1-29c4-4059-ba4b-6b98f8e9a724",
+        "created_at": "2026-11-04T05:54:45.047663+00:00",
+        "updated_at": "2026-11-04T05:54:45.047663+00:00"
+      },
+      {
+        "memory": "Melanie has always felt a strong connection to art, describing it as both a sanctuary and a source of comfort that brings her happiness and fulfillment",
+        "score": 0.6556245504393075,
+        "id": "5df0b65e-27fc-4cc2-b752-77ac09d18151",
+        "created_at": "2026-11-04T05:54:55.728308+00:00",
+        "updated_at": "2026-11-04T05:54:55.728308+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.6527315810736656,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      }
+    ],
+    "search_latency_ms": 103.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "seven years",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'seven years' is a direct paraphrase of the gold answer '7 years'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "seven years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'seven years' is a direct paraphrase of the gold answer '7 years'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "seven years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'seven years' is a direct paraphrase of the gold answer '7 years'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "seven years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'seven years' is a direct paraphrase of the gold answer '7 years'."
     }
   }
 }

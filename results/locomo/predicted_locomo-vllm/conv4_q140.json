@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q140",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John overcome a mistake he made during a big game in basketball?",
+  "ground_truth_answer": "Worked hard to get better and focused on growth",
+  "evidence": [
+    "D19:10"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John overcome a mistake he made during a big game in basketball?",
+    "search_results": [
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.7629617510282773,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.7578571224611436,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John values playing with his teammates and having fans cheer for him, stating that basketball gives him a strong sense of satisfaction and purpose.",
+        "score": 0.7304450837197667,
+        "id": "32cf8d83-ff16-4db9-bf7f-db3ec36f571a",
+        "created_at": "2026-11-03T09:14:51.747326+00:00",
+        "updated_at": "2026-11-03T09:14:51.747326+00:00"
+      },
+      {
+        "memory": "John shared that he faced a tough time in basketball when he made a significant mistake during a big game, which was hard to accept but taught him the importance of resilience and owning up to mistakes to keep growing as a player and teammate.",
+        "score": 0.7245836388036002,
+        "id": "c3942134-7fe7-4303-a64e-0d0e42748b71",
+        "created_at": "2026-11-03T09:27:30.848083+00:00",
+        "updated_at": "2026-11-03T09:27:30.848083+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.6727174784465044,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.6593000229488174,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.6547881350305379,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.6518349446386419,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John described a specific instance where he messed up during a big basketball game, learning that resilience and owning up to mistakes are key to continuous growth.",
+        "score": 0.6487427746045124,
+        "id": "2e97c730-e490-465b-b86e-84590bacca10",
+        "created_at": "2026-11-03T09:27:35.180392+00:00",
+        "updated_at": "2026-11-03T09:27:35.180392+00:00"
+      },
+      {
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6466485506441363,
+        "id": "352a6cae-8749-47c6-8fba-36228a556495",
+        "created_at": "2026-11-03T09:31:59.602804+00:00",
+        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6437218525975354,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
+        "score": 0.6435228381856087,
+        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
+        "created_at": "2026-11-03T09:31:10.118402+00:00",
+        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team trailed significantly in the fourth quarter but dug deep to overturn the deficit, describing the final buzzer moment as unforgettable.",
+        "score": 0.6435036269751494,
+        "id": "fba81c44-9f06-46e5-8699-0c83448a0a4a",
+        "created_at": "2026-11-03T09:23:13.509574+00:00",
+        "updated_at": "2026-11-03T09:23:13.509574+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improving his overall game on the court, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6420930554614914,
+        "id": "18996d25-1e0d-4d9f-9ace-c14339f29067",
+        "created_at": "2026-11-03T09:30:34.563515+00:00",
+        "updated_at": "2026-11-03T09:30:34.563515+00:00"
+      },
+      {
+        "memory": "John describes his basketball team's approach to tough opponents as a driving force for improvement, emphasizing that they back each other up and refuse to quit",
+        "score": 0.6407848304384085,
+        "id": "1fb5d4b2-59ba-4028-a4dd-b3658ee9ac5b",
+        "created_at": "2026-11-03T09:17:50.506398+00:00",
+        "updated_at": "2026-11-03T09:17:50.506398+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.640715188127721,
+        "id": "969be255-a1ca-4d01-b397-74f2a6b0309d",
+        "created_at": "2026-11-03T09:32:06.200820+00:00",
+        "updated_at": "2026-11-03T09:32:06.200820+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.640349797278734,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be when he hit a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.6391584593421513,
+        "id": "75a2a2e3-e6c5-4259-b4cf-19d97f2b314a",
+        "created_at": "2026-11-03T09:31:54.815580+00:00",
+        "updated_at": "2026-11-03T09:31:54.815580+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit for an unforgettable victory.",
+        "score": 0.6387703873805173,
+        "id": "1ecb540a-2e7e-4638-9d44-d25e17c23dc2",
+        "created_at": "2026-11-03T09:22:24.100907+00:00",
+        "updated_at": "2026-11-03T09:22:24.100907+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit for an unforgettable victory.",
+        "score": 0.6387703873805173,
+        "id": "1cea80bb-50e8-41a4-a106-9bac47a6a9e8",
+        "created_at": "2026-11-03T09:22:17.830900+00:00",
+        "updated_at": "2026-11-03T09:22:17.830900+00:00"
+      }
+    ],
+    "search_latency_ms": 96.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John overcame the mistake by learning the importance of resilience and owning up to his errors, which allowed him to keep growing as a player and teammate.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core concept of the gold answer by mentioning 'growing as a player' (matching 'focused on growth') and 'owning up to his errors' (implying the hard work and focus needed to overcome the mistake), which aligns with the semantic meaning of working hard to get better."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John overcame the mistake by owning up to it and developing resilience, using the experience as a lesson for continuous growth as a player and teammate.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core concept of the gold answer by mentioning 'continuous growth' and 'developing resilience,' which aligns with 'focused on growth' and 'worked hard to get better.'"
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John overcame the mistake by owning up to it and developing resilience, using the experience as a lesson for continuous growth as a player and teammate.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core concept of the gold answer by mentioning 'continuous growth' and 'developing resilience,' which aligns with 'focused on growth' and 'worked hard to get better.'"
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John overcame the mistake by owning up to it and developing resilience, using the experience as a lesson for continuous growth as a player and teammate.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core concept of the gold answer by mentioning 'continuous growth' and 'developing resilience,' which aligns with 'focused on growth' and 'worked hard to get better.'"
+    }
+  }
+}

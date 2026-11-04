@@ -8,42 +8,183 @@
   "evidence": [
     "D17:23"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Caroline's drawing symbolize for her?",
-    "search_results": [],
-    "search_latency_ms": 18.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.7060718441041275,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline enjoys drawing flowers, describing it as one of her favorite artistic activities that allows her to express feelings and capture moments from nature.",
+        "score": 0.702473364084872,
+        "id": "130880ff-0fe9-4555-bcf8-c3723bf02079",
+        "created_at": "2026-11-04T05:59:56.622688+00:00",
+        "updated_at": "2026-11-04T05:59:56.622688+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking. She describes it as a reminder to love her authentic self, noting that while it took time, she is finally proud of who she is.",
+        "score": 0.7024402222469973,
+        "id": "fdcf5ad1-0d61-452f-a8fc-0e820e1ce570",
+        "created_at": "2026-11-04T06:01:43.676483+00:00",
+        "updated_at": "2026-11-04T06:01:43.676483+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.7018204271223429,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to express her feelings and explore her gender identity, finding that creating art was crucial during her transition as it helped her understand and accept herself.",
+        "score": 0.7012703777592383,
+        "id": "f38a23ba-b78c-4707-b597-eb183fcca0f3",
+        "created_at": "2026-11-04T06:01:34.703508+00:00",
+        "updated_at": "2026-11-04T06:01:34.703508+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting with red and blue brush strokes to represent her journey, using the colors to symbolize smashing the rigid binary gender system and celebrating her authentic self.",
+        "score": 0.6982575753993449,
+        "id": "b644f069-3ac7-4956-bd52-eacc26d224f1",
+        "created_at": "2026-11-04T06:02:06.111279+00:00",
+        "updated_at": "2026-11-04T06:02:06.111279+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6970617576868109,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline views art as a symbol of togetherness that celebrates differences and brings people closer, and she expressed interest in creating similar works in the future.",
+        "score": 0.6963935973398229,
+        "id": "52ae85ca-6c23-49b2-b5b7-815481956acd",
+        "created_at": "2026-11-04T05:59:26.157146+00:00",
+        "updated_at": "2026-11-04T05:59:26.157146+00:00"
+      },
+      {
+        "memory": "Caroline identifies drawing flowers as one of her favorite artistic activities and values appreciating nature and sharing it with others.",
+        "score": 0.6944085136090659,
+        "id": "4acc68fc-d64f-4cad-b42b-af6fdfee3699",
+        "created_at": "2026-11-04T05:59:29.292712+00:00",
+        "updated_at": "2026-11-04T05:59:29.292712+00:00"
+      },
+      {
+        "memory": "Caroline enjoys drawing flowers as a favorite artistic activity, finding joy in appreciating nature and sharing it through art to express feelings and capture moments.",
+        "score": 0.6940159612455666,
+        "id": "c38fa3a6-bba2-4686-93a0-c4a0c44b5925",
+        "created_at": "2026-11-04T05:59:49.972924+00:00",
+        "updated_at": "2026-11-04T05:59:49.972924+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to create art similar to a painted sidewalk with a rainbow design, viewing it as a symbol of togetherness that celebrates differences and brings people closer together.",
+        "score": 0.6926609272676392,
+        "id": "c54209e6-f3ab-4202-bb46-36ae0f781840",
+        "created_at": "2026-11-04T05:59:01.075387+00:00",
+        "updated_at": "2026-11-04T05:59:01.075387+00:00"
+      },
+      {
+        "memory": "Caroline created a drawing of a woman in a dress featuring a transgender flag, which she describes as symbolizing freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6910518410507523,
+        "id": "ae24f12b-4f7d-4576-9f7f-7d977d6499b9",
+        "created_at": "2026-11-04T06:03:21.414907+00:00",
+        "updated_at": "2026-11-04T06:03:21.414907+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting using red and blue to represent the binary gender system, with mixed colors symbolizing the rejection of rigid thinking and her pride in being her authentic self.",
+        "score": 0.688088935620055,
+        "id": "14852e9d-332a-4c62-bc2f-4c4ca30438a7",
+        "created_at": "2026-11-04T06:02:09.163880+00:00",
+        "updated_at": "2026-11-04T06:02:09.163880+00:00"
+      },
+      {
+        "memory": "Caroline describes her drawing of a woman in a dress featuring the transgender flag as symbolizing freedom and authenticity, serving as a reminder to stay true to herself and embrace her womanhood.",
+        "score": 0.6877286945860154,
+        "id": "3ed73239-3169-411f-af57-534d7d0520c6",
+        "created_at": "2026-11-04T06:03:07.071302+00:00",
+        "updated_at": "2026-11-04T06:03:07.071302+00:00"
+      },
+      {
+        "memory": "Caroline finds joy in observing everyday creativity, such as seeing someone draw a flower on the ground with chalk, which brightens her mood and demonstrates how art can lighten someone's day.",
+        "score": 0.684602451976697,
+        "id": "37298a1d-8203-45c5-a574-aa19ae8dc031",
+        "created_at": "2026-11-04T05:59:26.165500+00:00",
+        "updated_at": "2026-11-04T05:59:26.165500+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes on a canvas to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking in favor of authentic self-love.",
+        "score": 0.6833433220221431,
+        "id": "0bcc5f2a-2de3-47d0-9d9d-99772b5fc237",
+        "created_at": "2026-11-04T06:01:46.612735+00:00",
+        "updated_at": "2026-11-04T06:01:46.612735+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6812399532249687,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline views art as a mood-booster and was happy to see someone drawing on the ground with chalk around late August 2023, noting that creativity can lighten someone's day.",
+        "score": 0.6774508409083058,
+        "id": "4438bd5b-995a-4a1f-89b3-efcd233b642c",
+        "created_at": "2026-11-04T05:59:16.310666+00:00",
+        "updated_at": "2026-11-04T05:59:16.310666+00:00"
+      },
+      {
+        "memory": "The transgender poetry reading inspired Caroline to create new art, resulting in a drawing of a woman in a dress featuring the transgender flag.",
+        "score": 0.6731693682430249,
+        "id": "4cebd35e-320e-4e7f-9551-6834eb4e66a4",
+        "created_at": "2026-11-04T06:03:01.231202+00:00",
+        "updated_at": "2026-11-04T06:03:01.231202+00:00"
+      },
+      {
+        "memory": "Caroline expressed interest in creating art that symbolizes togetherness and celebrating differences, inspired by a painted sidewalk with a rainbow design.",
+        "score": 0.6724518725529001,
+        "id": "6664aa0c-3359-4c58-a773-b46591c8f90d",
+        "created_at": "2026-11-04T05:59:07.221868+00:00",
+        "updated_at": "2026-11-04T05:59:07.221868+00:00"
+      }
+    ],
+    "search_latency_ms": 111.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline's drawing (specifically the work with red and blue brush strokes) symbolizes her path as a trans woman, the smashing of the rigid binary gender system, and serves as a reminder to love and celebrate her authentic self.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core concept of the gold answer by stating the drawing symbolizes loving and celebrating her authentic self, which is a paraphrase of 'being true to herself', and the theme of breaking rigid binaries aligns with the concept of 'freedom'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "freedom, authenticity, and embracing her womanhood",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'freedom' and 'authenticity', which are direct paraphrases of the gold answer's 'Freedom and being true to herself'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "freedom, authenticity, and embracing her womanhood",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'freedom' and 'authenticity', which are direct paraphrases of the gold answer's 'Freedom and being true to herself'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "freedom, authenticity, and embracing her womanhood",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'freedom' and 'authenticity', which are direct paraphrases of the gold answer's 'Freedom and being true to herself'."
     }
   }
 }

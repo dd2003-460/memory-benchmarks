@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q110",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What book recommendation did Tim give to John for the trip?",
+  "ground_truth_answer": "A fantasy novel by Patrick Rothfuss",
+  "evidence": [
+    "D11:24"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What book recommendation did Tim give to John for the trip?",
+    "search_results": [
+      {
+        "memory": "Tim has been reading stories from travelers around the world to plan his next adventure, using a specific book he found that features a cover with a boy and a girl.",
+        "score": 0.7947125521360004,
+        "id": "a7b4b98d-3346-4457-9c1b-e21edd58afd4",
+        "created_at": "2026-11-03T09:34:20.910771+00:00",
+        "updated_at": "2026-11-03T09:34:20.910771+00:00"
+      },
+      {
+        "memory": "John has read 'The Hobbit' and considers it one of his favorite books, sharing this interest with Tim who also enjoys the series.",
+        "score": 0.7944805314755033,
+        "id": "360fd9ad-1cd1-4943-994d-7e688836cc44",
+        "created_at": "2026-11-03T09:29:29.495345+00:00",
+        "updated_at": "2026-11-03T09:29:29.495345+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
+        "score": 0.766811089637623,
+        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
+        "created_at": "2026-11-03T09:27:54.274107+00:00",
+        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.7659438292597336,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      },
+      {
+        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point in their friendship.",
+        "score": 0.7594770434980906,
+        "id": "b346756a-cefa-43be-a920-d556c2ea57c1",
+        "created_at": "2026-11-03T09:29:21.159362+00:00",
+        "updated_at": "2026-11-03T09:29:21.159362+00:00"
+      },
+      {
+        "memory": "John stated that The Hobbit is one of his favorite books while discussing Tim's bookshelf on December 1, 2023.",
+        "score": 0.758535153334094,
+        "id": "2b7f4a56-56f2-4d7f-a1fc-fcda064fff58",
+        "created_at": "2026-11-03T09:29:25.438620+00:00",
+        "updated_at": "2026-11-03T09:29:25.438620+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.7416004470251365,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies, and asked Tim if Harry Potter and Game of Thrones are still his favorites.",
+        "score": 0.7271916680660466,
+        "id": "6d08c55c-f060-49b6-91a3-86c3f863454f",
+        "created_at": "2026-11-03T09:27:39.703564+00:00",
+        "updated_at": "2026-11-03T09:27:39.703564+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
+        "score": 0.7270267831935819,
+        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
+        "created_at": "2026-11-03T09:29:25.434971+00:00",
+        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+      },
+      {
+        "memory": "Tim is reading an inspiring book series about the power of friendship and loyalty, which he finds meaningful and engaging.",
+        "score": 0.7254659601365568,
+        "id": "e47d84ae-e2dd-4815-b600-b07a2b550d80",
+        "created_at": "2026-11-03T09:31:12.319764+00:00",
+        "updated_at": "2026-11-03T09:31:12.319764+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
+        "score": 0.721434686598295,
+        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
+        "created_at": "2026-11-03T09:27:37.386687+00:00",
+        "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "Tim finds peace in reading fantasy books, a hobby that helps with his home life and overall well-being.",
+        "score": 0.7185785794945561,
+        "id": "eff7df14-e1a0-479d-a109-abd5604a5f9c",
+        "created_at": "2026-11-03T09:00:39.091789+00:00",
+        "updated_at": "2026-11-03T09:00:39.091789+00:00"
+      },
+      {
+        "memory": "Tim read a story from his traveler book about two hikers who trekked through the Himalayas and found it awesome, sharing an image of two men on horseback in front of a mountain.",
+        "score": 0.7184437874882857,
+        "id": "56ba87cc-1bdd-465c-8be3-cd260d4cbbf1",
+        "created_at": "2026-11-03T09:34:25.372715+00:00",
+        "updated_at": "2026-11-03T09:34:25.372715+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a fantasy book that captivates him, transporting him to another world and keeping him on the edge of his seat while his imagination soars.",
+        "score": 0.7163270212567028,
+        "id": "6dead882-9271-462a-baff-b54448fbfc46",
+        "created_at": "2026-11-03T09:00:55.191783+00:00",
+        "updated_at": "2026-11-03T09:00:55.191783+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.7103455735987154,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
+        "score": 0.70078275818825,
+        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
+        "created_at": "2026-11-03T09:19:26.762706+00:00",
+        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.674989719386668,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      },
+      {
+        "memory": "Tim likes to curl up with a good book in his free time, finding it an escape from reality that allows him to get lost in different worlds.",
+        "score": 0.6557535031349511,
+        "id": "fb773c3a-63a2-4040-8b56-e1c53442f9a5",
+        "created_at": "2026-11-03T09:21:00.680159+00:00",
+        "updated_at": "2026-11-03T09:21:00.680159+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
+        "score": 0.6536564459832597,
+        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
+        "created_at": "2026-11-03T09:34:36.187606+00:00",
+        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6515304640230921,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      }
+    ],
+    "search_latency_ms": 145.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "stories from travelers around the world",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'stories from travelers around the world' does not match the gold answer 'A fantasy novel by Patrick Rothfuss' in terms of genre, author, or specific title, and contains no overlapping correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a book of stories from travelers around the world",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a book of travel stories, which is a completely different genre and content from the gold answer's fantasy novel by Patrick Rothfuss."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a book of stories from travelers around the world",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a book of travel stories, which is a completely different genre and content from the gold answer's fantasy novel by Patrick Rothfuss."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a book of stories from travelers around the world",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a book of travel stories, which is a completely different genre and content from the gold answer's fantasy novel by Patrick Rothfuss."
+    }
+  }
+}

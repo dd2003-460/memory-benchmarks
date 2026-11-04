@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q104",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What spice did John add to the soup for flavor?",
+  "ground_truth_answer": "sage",
+  "evidence": [
+    "D10:8"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What spice did John add to the soup for flavor?",
+    "search_results": [
+      {
+        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
+        "score": 0.6965615664775492,
+        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
+        "created_at": "2026-11-03T09:12:31.250600+00:00",
+        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in his cooking and was interested in learning which spices John used in his homemade soup.",
+        "score": 0.6895575629959892,
+        "id": "25fc92ec-9301-4d8f-8ced-6050e5cc20df",
+        "created_at": "2026-11-03T09:13:05.382821+00:00",
+        "updated_at": "2026-11-03T09:13:05.382821+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice for flavor.",
+        "score": 0.6816871154213942,
+        "id": "d8575b11-b33e-44f2-95e4-38c980b5225c",
+        "created_at": "2026-11-03T09:12:53.924273+00:00",
+        "updated_at": "2026-11-03T09:12:53.924273+00:00"
+      },
+      {
+        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, adding sage for flavor.",
+        "score": 0.676799604434595,
+        "id": "416aab1d-b6af-4daf-b3e5-2d26f073c7d4",
+        "created_at": "2026-11-03T09:13:05.375387+00:00",
+        "updated_at": "2026-11-03T09:13:05.375387+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices and is planning to look up recipes to try making the chicken soup John described.",
+        "score": 0.6766434579055756,
+        "id": "8d56cbf5-13ac-455d-bb8d-71cb600f4fc9",
+        "created_at": "2026-11-03T09:13:00.156049+00:00",
+        "updated_at": "2026-11-03T09:13:00.156049+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices and plans to look up recipes to try making John's chicken soup.",
+        "score": 0.6731429540124765,
+        "id": "a46892a0-86e2-48a3-acd9-1e49783a1916",
+        "created_at": "2026-11-03T09:12:53.926748+00:00",
+        "updated_at": "2026-11-03T09:12:53.926748+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, using sage for flavor.",
+        "score": 0.6679768881174529,
+        "id": "4bf4c5e4-0e77-4aa6-aa65-0707572c535c",
+        "created_at": "2026-11-03T09:13:00.153430+00:00",
+        "updated_at": "2026-11-03T09:13:00.153430+00:00"
+      },
+      {
+        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
+        "score": 0.6602561921003451,
+        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
+        "created_at": "2026-11-03T09:12:16.038675+00:00",
+        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+      },
+      {
+        "memory": "John has been trying out new cooking recipes recently and made a tasty chicken soup, sharing a photo of the beautifully plated dish with a butternut squash on a cutting board.",
+        "score": 0.6449570121285751,
+        "id": "415c70a9-b969-4b19-9a88-d1c3a3899199",
+        "created_at": "2026-11-03T09:11:48.094056+00:00",
+        "updated_at": "2026-11-03T09:11:48.094056+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in cooking, as he expressed excitement about trying a soup recipe that included sage.",
+        "score": 0.6365999357630228,
+        "id": "4b91022e-329e-4fab-a3db-f6a32f3a9d6a",
+        "created_at": "2026-11-03T09:13:26.756021+00:00",
+        "updated_at": "2026-11-03T09:13:26.756021+00:00"
+      },
+      {
+        "memory": "John finds cooking to be therapeutic and a creative way to experiment with flavors while taking a break from basketball.",
+        "score": 0.6213705094260091,
+        "id": "8120091c-52fc-47a4-ab5e-92803c5e8bfa",
+        "created_at": "2026-11-03T09:21:16.835726+00:00",
+        "updated_at": "2026-11-03T09:21:16.835726+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.6168834958736599,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      },
+      {
+        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
+        "score": 0.6050802169853057,
+        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
+        "created_at": "2026-11-03T09:21:03.783333+00:00",
+        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices in his cooking and is excited to try using sage in recipes.",
+        "score": 0.5775085374900849,
+        "id": "058a4b03-8ca0-41d9-beea-97768a773406",
+        "created_at": "2026-11-03T09:12:40.250974+00:00",
+        "updated_at": "2026-11-03T09:12:40.250974+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.5454765460076014,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.5399947245767087,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
+        "score": 0.5214370883461739,
+        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
+        "created_at": "2026-11-03T09:11:25.262586+00:00",
+        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
+        "score": 0.29517020233805946,
+        "id": "bc91278f-9786-437b-b809-97133839c1c0",
+        "created_at": "2026-11-03T09:21:16.833195+00:00",
+        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and shared a photo of cooking in a pan on the stove.",
+        "score": 0.25199827542190933,
+        "id": "072e7de1-ae43-44fb-9c1e-f5fafc4c8700",
+        "created_at": "2026-11-03T09:21:09.024151+00:00",
+        "updated_at": "2026-11-03T09:21:09.024151+00:00"
+      },
+      {
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.21338537259448903,
+        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
+        "created_at": "2026-11-03T09:29:57.860185+00:00",
+        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+      }
+    ],
+    "search_latency_ms": 100.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sage",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sage",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sage",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "sage",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

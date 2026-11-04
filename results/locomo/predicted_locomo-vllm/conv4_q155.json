@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q155",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John feel after being able to jog without pain?",
+  "ground_truth_answer": "It was a huge success.",
+  "evidence": [
+    "D24:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John feel after being able to jog without pain?",
+    "search_results": [
+      {
+        "memory": "On December 15, 2023, John achieved a recovery milestone by jogging at the gym without pain for the first time since his injury, which he found very relieving.",
+        "score": 0.6990000236408421,
+        "id": "f1553b02-56b1-44ea-94b7-1078c0778c20",
+        "created_at": "2026-11-03T09:33:30.165366+00:00",
+        "updated_at": "2026-11-03T09:33:30.165366+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John reached a rehabilitation milestone at the gym by jogging without pain for the first time since his injury, which he found relieving.",
+        "score": 0.693543230952024,
+        "id": "a3b8b924-e67b-4759-a2b1-8532715ea2d5",
+        "created_at": "2026-11-03T09:33:27.519129+00:00",
+        "updated_at": "2026-11-03T09:33:27.519129+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
+        "score": 0.6900678138883503,
+        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
+        "created_at": "2026-11-03T09:33:32.671038+00:00",
+        "updated_at": "2026-11-03T09:33:32.671038+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John reached a recovery milestone at the gym where he was able to jog without pain for the first time after his injury.",
+        "score": 0.6898370810296239,
+        "id": "ec43659c-dae4-48fe-9413-e0d23051e84e",
+        "created_at": "2026-11-03T09:33:23.063390+00:00",
+        "updated_at": "2026-11-03T09:33:23.063390+00:00"
+      },
+      {
+        "memory": "John achieved a recovery milestone on December 15, 2023, when he was able to jog for a bit without pain at the gym, which he described as a relief and evidence that his hard work in rehab is paying off.",
+        "score": 0.6765099243776682,
+        "id": "70796014-473b-4d12-acbb-7633afcc7ff9",
+        "created_at": "2026-11-03T09:33:16.674780+00:00",
+        "updated_at": "2026-11-03T09:33:16.674780+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
+        "score": 0.668464520439112,
+        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
+        "created_at": "2026-11-03T09:33:20.568634+00:00",
+        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.6488724281337237,
+        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
+        "created_at": "2026-11-03T09:33:30.168403+00:00",
+        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.6488724281337237,
+        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
+        "created_at": "2026-11-03T09:33:27.522504+00:00",
+        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
+        "score": 0.6387369072892114,
+        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
+        "created_at": "2026-11-03T09:33:23.067593+00:00",
+        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
+        "score": 0.6001436928071981,
+        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
+        "created_at": "2026-11-03T09:33:32.675244+00:00",
+        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
+        "score": 0.5267276210942436,
+        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
+        "created_at": "2026-11-03T09:08:04.819221+00:00",
+        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II and a balance-focused pose in his yoga routine, noting that these poses make him feel strong and challenge both his body and mind.",
+        "score": 0.5218471619972755,
+        "id": "0175b5bd-39c1-4a7f-958d-d06376373c75",
+        "created_at": "2026-11-03T09:28:48.196046+00:00",
+        "updated_at": "2026-11-03T09:28:48.196046+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II pose in his yoga routine because it makes him feel strong, and he also practices a balance-focused pose for stability.",
+        "score": 0.5061887266701659,
+        "id": "de5206c2-eecb-469f-a680-702e86c051d8",
+        "created_at": "2026-11-03T09:29:08.084144+00:00",
+        "updated_at": "2026-11-03T09:29:08.084144+00:00"
+      },
+      {
+        "memory": "John discovered a peaceful spot featuring rocks and a river while hiking, where the soothing sound of the water made him feel at peace and inspired to admire nature's beauty.",
+        "score": 0.5030728222793205,
+        "id": "a9118772-acdc-4ece-9837-d6d81e6fbe25",
+        "created_at": "2026-11-03T09:34:03.416655+00:00",
+        "updated_at": "2026-11-03T09:34:03.416655+00:00"
+      },
+      {
+        "memory": "John values the camaraderie built both on and off the court with his teammates, stating that winning against a strong opponent felt amazing and was worth all the hard work.",
+        "score": 0.500414035151559,
+        "id": "1851ffd7-63ea-4756-a967-3322a543cf96",
+        "created_at": "2026-11-03T09:31:10.122167+00:00",
+        "updated_at": "2026-11-03T09:31:10.122167+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.3556615853573676,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.3439163009369315,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John is currently recovering from an injury that prevents him from playing soccer, which he describes as difficult to handle since he hates not being on the court. The doctor indicated the injury is not too serious, and John remains optimistic about his recovery.",
+        "score": 0.2974095356445638,
+        "id": "7317d05e-a7f7-4b43-8148-f210720819eb",
+        "created_at": "2026-11-03T09:26:53.043169+00:00",
+        "updated_at": "2026-11-03T09:26:53.043169+00:00"
+      },
+      {
+        "memory": "John shared that last season he suffered a major ankle injury requiring time off and physical therapy, which was a tough mental and physical challenge as he could not play or help his team.",
+        "score": 0.26249316605645906,
+        "id": "8457f3c1-cc4d-47c5-9cc9-e16a0d9278a8",
+        "created_at": "2026-11-03T09:27:35.176156+00:00",
+        "updated_at": "2026-11-03T09:27:35.176156+00:00"
+      },
+      {
+        "memory": "John suffered a major ankle injury last season (around 2022) that required time off and physical therapy, which was a frustrating mental and physical challenge because he could not play or help his team.",
+        "score": 0.256092270979836,
+        "id": "ffec463d-d335-4f51-acf0-e3bcfde5f165",
+        "created_at": "2026-11-03T09:27:28.123489+00:00",
+        "updated_at": "2026-11-03T09:27:28.123489+00:00"
+      }
+    ],
+    "search_latency_ms": 98.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt relieved and described the experience as a huge success.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the exact phrase 'huge success' from the gold answer and adds 'relieved', which is a valid paraphrase in the same positive sentiment family."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt a sense of relief and described the milestone as a huge success.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the exact phrase 'huge success' from the gold answer and adds 'relief', which is a valid paraphrase of the positive sentiment."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt a sense of relief and described the milestone as a huge success.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the exact phrase 'huge success' from the gold answer and adds 'relief', which is a valid paraphrase of the positive sentiment."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt a sense of relief and described the milestone as a huge success.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the exact phrase 'huge success' from the gold answer and adds 'relief', which is a valid paraphrase of the positive sentiment."
+    }
+  }
+}

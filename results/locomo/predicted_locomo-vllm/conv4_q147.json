@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q147",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What instrument is Tim learning to play in December 2023?",
+  "ground_truth_answer": "violin",
+  "evidence": [
+    "D21:11"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What instrument is Tim learning to play in December 2023?",
+    "search_results": [
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.7287601576619899,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "Tim is learning German as of January 2, 2024, finding the process tough but fun.",
+        "score": 0.7262604649710618,
+        "id": "bae65f09-a515-4d6a-9921-e6446d2ce01f",
+        "created_at": "2026-11-03T09:35:51.705592+00:00",
+        "updated_at": "2026-11-03T09:35:51.705592+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
+        "score": 0.7253798279883941,
+        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
+        "created_at": "2026-11-03T09:30:41.679787+00:00",
+        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+      },
+      {
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
+        "score": 0.7248559445572021,
+        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
+        "created_at": "2026-11-03T09:09:46.067003+00:00",
+        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.716102518247745,
+        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
+        "created_at": "2026-11-03T09:30:48.601783+00:00",
+        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.716102518247745,
+        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
+        "created_at": "2026-11-03T09:30:53.143666+00:00",
+        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+      },
+      {
+        "memory": "Tim is using a language learning app to study Spanish, as of January 2, 2024.",
+        "score": 0.7102902801296996,
+        "id": "7f221eed-87d7-47db-9a9c-b85cbbc64e13",
+        "created_at": "2026-11-03T09:36:01.123235+00:00",
+        "updated_at": "2026-11-03T09:36:01.123235+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
+        "score": 0.680780636024443,
+        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
+        "created_at": "2026-11-03T09:35:29.806366+00:00",
+        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+      },
+      {
+        "memory": "Tim started learning the violin in late 2023, having admired musicians for a long time; he finds it challenging but fun and a great way to relax and be creative.",
+        "score": 0.6777116404193536,
+        "id": "451ec911-fb86-469e-ba68-e9b5a06c0262",
+        "created_at": "2026-11-03T09:30:53.137059+00:00",
+        "updated_at": "2026-11-03T09:30:53.137059+00:00"
+      },
+      {
+        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
+        "score": 0.673697480243874,
+        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
+        "created_at": "2026-11-03T09:31:05.110299+00:00",
+        "updated_at": "2026-11-03T09:31:05.110299+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
+        "score": 0.6710166234891323,
+        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
+        "created_at": "2026-11-03T09:30:53.131364+00:00",
+        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+      },
+      {
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
+        "score": 0.6702952413568817,
+        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
+        "created_at": "2026-11-03T09:34:16.758221+00:00",
+        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+      },
+      {
+        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
+        "score": 0.669849155787724,
+        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
+        "created_at": "2026-11-03T09:29:03.711964+00:00",
+        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+      },
+      {
+        "memory": "As of December 26, 2023, Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024",
+        "score": 0.6659329672658977,
+        "id": "32321ac1-5928-4037-a3fa-6ad133a2638e",
+        "created_at": "2026-11-03T09:35:39.824581+00:00",
+        "updated_at": "2026-11-03T09:35:39.824581+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6551514989889377,
+        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
+        "created_at": "2026-11-03T09:30:14.697487+00:00",
+        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6539039960513537,
+        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
+        "created_at": "2026-11-03T09:30:37.451291+00:00",
+        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6534754774191265,
+        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
+        "created_at": "2026-11-03T09:30:34.554745+00:00",
+        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6534640074539491,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6534640074539491,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by a long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6526784163964339,
+        "id": "4925d445-d20a-4b10-bf75-45aeb2ec8ca9",
+        "created_at": "2026-11-03T09:30:21.645897+00:00",
+        "updated_at": "2026-11-03T09:30:21.645897+00:00"
+      }
+    ],
+    "search_latency_ms": 131.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "piano",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'piano' is a different instrument from the gold answer 'violin', so it contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Violin' is an exact match to the gold answer 'violin'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Violin' is an exact match to the gold answer 'violin'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Violin",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Violin' is an exact match to the gold answer 'violin'."
+    }
+  }
+}

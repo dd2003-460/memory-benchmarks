@@ -8,42 +8,183 @@
   "evidence": [
     "D17:19"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did the posters at the poetry reading say?",
-    "search_results": [],
-    "search_latency_ms": 16.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "The transgender poetry reading Caroline attended was described as having an electric atmosphere with strong support, featuring posters that displayed pride and strength, which inspired her to create new art.",
+        "score": 0.722098831578872,
+        "id": "cf789b17-7ef4-47f6-af4e-b0c07a10246c",
+        "created_at": "2026-11-04T06:03:04.549470+00:00",
+        "updated_at": "2026-11-04T06:03:04.549470+00:00"
+      },
+      {
+        "memory": "The transgender poetry reading inspired Caroline to create new art, resulting in a drawing of a woman in a dress featuring the transgender flag.",
+        "score": 0.7200296911089891,
+        "id": "4cebd35e-320e-4e7f-9551-6834eb4e66a4",
+        "created_at": "2026-11-04T06:03:01.231202+00:00",
+        "updated_at": "2026-11-04T06:03:01.231202+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6760072757177923,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, and found the experience really powerful.",
+        "score": 0.5791502411534942,
+        "id": "1e71240d-9bf4-44fe-bc20-b75828d38a38",
+        "created_at": "2026-11-04T06:02:48.621085+00:00",
+        "updated_at": "2026-11-04T06:02:48.621085+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading where participants shared their stories, describing the event as an empowering and safe space for self-expression that inspired her to create art.",
+        "score": 0.576765501060946,
+        "id": "386d5078-93d7-4046-b561-00195dfb8511",
+        "created_at": "2026-11-04T06:03:21.410586+00:00",
+        "updated_at": "2026-11-04T06:03:21.410586+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, which she found really powerful.",
+        "score": 0.5745838130355911,
+        "id": "c1207f7f-8cce-4176-9481-8d137bb611c8",
+        "created_at": "2026-11-04T06:02:51.865600+00:00",
+        "updated_at": "2026-11-04T06:02:51.865600+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment for self-expression.",
+        "score": 0.572115575078816,
+        "id": "a9ed52d7-341a-471f-90bf-d8d739bf0ede",
+        "created_at": "2026-11-04T06:03:09.405351+00:00",
+        "updated_at": "2026-11-04T06:03:09.405351+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry, finding it empowering and a safe space for self-expression",
+        "score": 0.5696170284644744,
+        "id": "30f8c8ef-21ab-4eda-ace0-facc1c24dc93",
+        "created_at": "2026-11-04T06:02:55.378037+00:00",
+        "updated_at": "2026-11-04T06:02:55.378037+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where trans people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.5691839956724521,
+        "id": "5e003e28-6f0b-44aa-931a-9b1c8016ce06",
+        "created_at": "2026-11-04T06:03:01.226771+00:00",
+        "updated_at": "2026-11-04T06:03:01.226771+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.5666200576358967,
+        "id": "c4ee2227-5f3f-4c6e-86a6-64baaeae566a",
+        "created_at": "2026-11-04T06:03:14.139873+00:00",
+        "updated_at": "2026-11-04T06:03:14.139873+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 13, 2023, where transgender people shared their stories through poetry in a safe and empowering environment that celebrated their identities.",
+        "score": 0.5666200576358967,
+        "id": "78c0695b-4fef-4efb-81c7-afe612f83320",
+        "created_at": "2026-11-04T06:03:04.544941+00:00",
+        "updated_at": "2026-11-04T06:03:04.544941+00:00"
+      },
+      {
+        "memory": "Caroline attended a transgender poetry reading on October 6, 2023, which she found powerful and empowering as a safe space for self-expression and identity celebration.",
+        "score": 0.5631762929065409,
+        "id": "b700c66b-1ff2-4a03-a495-2655e2494a1b",
+        "created_at": "2026-11-04T06:02:58.553913+00:00",
+        "updated_at": "2026-11-04T06:02:58.553913+00:00"
+      },
+      {
+        "memory": "Inspired by the transgender poetry reading she attended on October 13, 2023, Caroline drew a picture of a woman in a dress which she says stands for freedom, being real, and embracing her womanhood.",
+        "score": 0.5583075064915599,
+        "id": "7369a5f9-dfeb-48c7-90dc-d954ac05e607",
+        "created_at": "2026-11-04T06:03:14.145255+00:00",
+        "updated_at": "2026-11-04T06:03:14.145255+00:00"
+      },
+      {
+        "memory": "Melanie has never attended a poetry reading before, as stated during her conversation with Caroline on October 13, 2023.",
+        "score": 0.5487549954294979,
+        "id": "61f2247b-7789-43eb-8def-7f078d2f2e98",
+        "created_at": "2026-11-04T06:03:14.148960+00:00",
+        "updated_at": "2026-11-04T06:03:14.148960+00:00"
+      },
+      {
+        "memory": "Melanie has never attended a poetry reading before.",
+        "score": 0.5323246026550486,
+        "id": "b6884080-abae-4bb3-a22d-1f947f9e4466",
+        "created_at": "2026-11-04T06:02:51.867662+00:00",
+        "updated_at": "2026-11-04T06:02:51.867662+00:00"
+      },
+      {
+        "memory": "Caroline described an advocacy event as a cool experience characterized by love and support, sharing a photo of a concert poster featuring a man in the context of the conversation.",
+        "score": 0.509111609370686,
+        "id": "1bb4bc08-5e0e-44b3-962a-31176ea0b078",
+        "created_at": "2026-11-04T05:53:22.829083+00:00",
+        "updated_at": "2026-11-04T05:53:22.829083+00:00"
+      },
+      {
+        "memory": "While taking a break from pottery due to injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.49790647903726093,
+        "id": "bac40d50-f329-4c9f-b6c9-edb1944e119b",
+        "created_at": "2026-11-04T06:02:32.146280+00:00",
+        "updated_at": "2026-11-04T06:02:32.146280+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.49316138587126124,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books, describing them as guides that motivate her and help her discover who she is, and considers them a huge part of her personal journey.",
+        "score": 0.4916732129105378,
+        "id": "b9f79b1b-4c66-4c9a-83ec-f0d276e42298",
+        "created_at": "2026-11-04T05:22:37.040877+00:00",
+        "updated_at": "2026-11-04T05:22:37.040877+00:00"
+      },
+      {
+        "memory": "Melanie has been taking a break from pottery due to personal difficulties but is coping by reading a book recommended by Caroline and painting",
+        "score": 0.4896397310776825,
+        "id": "c4c0cec8-7bb6-4dce-82b7-ae8a8e619b08",
+        "created_at": "2026-11-04T06:02:55.381974+00:00",
+        "updated_at": "2026-11-04T06:02:55.381974+00:00"
+      }
+    ],
+    "search_latency_ms": 124.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "pride and strength",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'pride and strength' does not contain the specific phrase 'Trans Lives Matter' from the gold answer, nor does it reference the specific entity or concept of trans lives, making it a completely different topic."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "pride and strength",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'pride and strength' does not contain the specific phrase 'Trans Lives Matter' from the gold answer, nor does it reference the specific entity or concept of trans lives, making it a completely different topic."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "pride and strength",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'pride and strength' does not contain the specific phrase 'Trans Lives Matter' from the gold answer, nor does it reference the specific entity or concept of trans lives, making it a completely different topic."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "pride and strength",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'pride and strength' does not contain the specific phrase 'Trans Lives Matter' from the gold answer, nor does it reference the specific entity or concept of trans lives, making it a completely different topic."
     }
   }
 }

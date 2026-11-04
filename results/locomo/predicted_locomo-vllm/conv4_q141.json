@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q141",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What book did John recently finish rereading that left him feeling inspired and hopeful about following dreams?",
+  "ground_truth_answer": "The Alchemist",
+  "evidence": [
+    "D19:20"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What book did John recently finish rereading that left him feeling inspired and hopeful about following dreams?",
+    "search_results": [
+      {
+        "memory": "John reread 'The Alchemist' around late November 2023, finding it inspiring and motivating for following dreams and trusting the process.",
+        "score": 0.7457964443030812,
+        "id": "029398e8-6e97-40e3-861d-6cd24bd0cbbc",
+        "created_at": "2026-11-03T09:28:43.319826+00:00",
+        "updated_at": "2026-11-03T09:28:43.319826+00:00"
+      },
+      {
+        "memory": "John recently reread 'The Alchemist' and found it inspiring, noting that it motivated him to think about following his dreams and searching for his personal legend, leaving him feeling hopeful.",
+        "score": 0.6671635692515315,
+        "id": "b8e57ea7-5e70-4b3e-be62-8b7b94a1c104",
+        "created_at": "2026-11-03T09:28:20.999792+00:00",
+        "updated_at": "2026-11-03T09:28:20.999792+00:00"
+      },
+      {
+        "memory": "John read 'The Alchemist' and loved it, noting that it made him think about life and the importance of following one's dreams, and he highly recommends it to others.",
+        "score": 0.6390732511521395,
+        "id": "2d4ab98a-f780-4268-914b-dd33c3619fd3",
+        "created_at": "2026-11-03T09:16:03.033348+00:00",
+        "updated_at": "2026-11-03T09:16:03.033348+00:00"
+      },
+      {
+        "memory": "John recently finished reading an unnamed fantasy series and described it as a wild ride with many twists, praising the author for creating awesome storylines and characters that allow him to get lost in fantasy worlds.",
+        "score": 0.6239971477466028,
+        "id": "af8248ed-c51f-4af7-b297-971a19843cbf",
+        "created_at": "2026-11-03T09:24:27.736763+00:00",
+        "updated_at": "2026-11-03T09:24:27.736763+00:00"
+      },
+      {
+        "memory": "John is a role model for young athletes and finds it fulfilling to use his experiences to shape their future and inspire them to pursue their dreams.",
+        "score": 0.623136489790974,
+        "id": "b4104ef0-f122-43ba-b9ea-02154085b32f",
+        "created_at": "2026-11-03T09:19:18.903430+00:00",
+        "updated_at": "2026-11-03T09:19:18.903430+00:00"
+      },
+      {
+        "memory": "John has read 'A Dance with Dragons' by George R. R. Martin and describes it as an inspiring book, having been recommended it by Tim who recently finished the novel.",
+        "score": 0.621062957672996,
+        "id": "808e9b7d-11cc-440b-853b-29c7739c5405",
+        "created_at": "2026-11-03T09:31:28.980306+00:00",
+        "updated_at": "2026-11-03T09:31:28.980306+00:00"
+      },
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.6189347309602329,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' a while back and found that it changed his perspective on his goals, resonating with the book's themes of following dreams.",
+        "score": 0.6144016086431584,
+        "id": "97d5012d-a9fb-4ab7-8e53-93074ece9272",
+        "created_at": "2026-11-03T09:28:25.578933+00:00",
+        "updated_at": "2026-11-03T09:28:25.578933+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.6110462024383043,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.6076834525666766,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "John traveled to Italy in December 2023, enjoying the food, history, and architecture, and purchased a book there that has inspired his cooking.",
+        "score": 0.587041024416927,
+        "id": "3f67c46d-4e43-4000-b91f-5f57977f6d2f",
+        "created_at": "2026-11-03T09:36:07.962232+00:00",
+        "updated_at": "2026-11-03T09:36:07.962232+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK which blew him away, and he dreams of visiting them one day.",
+        "score": 0.5850718069389922,
+        "id": "531ac964-a2a1-4ecf-9f3d-b25c92e2ac0a",
+        "created_at": "2026-11-03T09:19:51.809297+00:00",
+        "updated_at": "2026-11-03T09:19:51.809297+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
+        "score": 0.5769303271984252,
+        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
+        "created_at": "2026-11-03T09:36:03.650277+00:00",
+        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
+        "score": 0.5580680190330153,
+        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
+        "created_at": "2026-11-03T09:34:36.187606+00:00",
+        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+      },
+      {
+        "memory": "John has a favorite fantasy book, The Hobbit, and also enjoys another popular fantasy series, appreciating how these books allow him to escape reality and experience magical adventures in different worlds.",
+        "score": 0.5425827477525103,
+        "id": "991dd4e1-4a30-4659-b023-a17576639020",
+        "created_at": "2026-11-03T09:29:45.880997+00:00",
+        "updated_at": "2026-11-03T09:29:45.880997+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.539926105669604,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
+        "score": 0.5349444367041879,
+        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
+        "created_at": "2026-11-03T09:38:10.619051+00:00",
+        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
+        "score": 0.5284311245020986,
+        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
+        "created_at": "2026-11-03T09:38:08.169886+00:00",
+        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+      },
+      {
+        "memory": "John continued playing basketball through middle and high school before earning a college scholarship, and was drafted by a professional team after college, which he describes as his dream come true.",
+        "score": 0.5237093897160905,
+        "id": "5debabf9-1707-47f7-a97b-a6f8536cb8b2",
+        "created_at": "2026-11-03T09:07:35.943681+00:00",
+        "updated_at": "2026-11-03T09:07:35.943681+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.5180851935459079,
+        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
+        "created_at": "2026-11-03T09:38:17.827762+00:00",
+        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+      }
+    ],
+    "search_latency_ms": 200.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Alchemist",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Alchemist",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Alchemist",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Alchemist",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

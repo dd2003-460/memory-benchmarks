@@ -8,42 +8,183 @@
   "evidence": [
     "D13:7"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What activity did Caroline used to do with her dad?",
-    "search_results": [],
-    "search_latency_ms": 14.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.6929899854782893,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, an experience she found special and which sparked her lifelong love for horses.",
+        "score": 0.6890632041545006,
+        "id": "9e9c93c8-1e7d-4014-9490-85bb28a49771",
+        "created_at": "2026-11-04T05:56:54.257862+00:00",
+        "updated_at": "2026-11-04T05:56:54.257862+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, describing the experience of feeling the wind as special and stating she has always had a love for horses.",
+        "score": 0.6779378224131622,
+        "id": "408227fe-fe2a-4833-b559-990ca2d75e39",
+        "created_at": "2026-11-04T05:55:47.795048+00:00",
+        "updated_at": "2026-11-04T05:55:47.795048+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through fields as a child, which she describes as a special memory where she felt the wind, and she has always had a love for horses",
+        "score": 0.6760081051891143,
+        "id": "5b25e4d0-9fff-4b0c-b391-5a3db67ed570",
+        "created_at": "2026-11-04T05:56:24.912151+00:00",
+        "updated_at": "2026-11-04T05:56:24.912151+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through fields as a child, describing it as a special experience where they felt the wind, and states she has always had a love for horses.",
+        "score": 0.671249988454362,
+        "id": "cce15a6d-7333-4aa5-bff2-a7105c65932a",
+        "created_at": "2026-11-04T05:56:01.207764+00:00",
+        "updated_at": "2026-11-04T05:56:01.207764+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through fields as a child, describing it as a special experience where they felt the wind, and states she has always had a love for horses.",
+        "score": 0.671249988454362,
+        "id": "c67f58a1-8685-4b60-9866-70b46aec0e07",
+        "created_at": "2026-11-04T05:55:53.946760+00:00",
+        "updated_at": "2026-11-04T05:55:53.946760+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, an experience she found special and which sparked her lifelong love for horses",
+        "score": 0.6681614614960789,
+        "id": "7cd8bded-68ca-408b-b948-c61e1f2fa5d4",
+        "created_at": "2026-11-04T05:56:48.929932+00:00",
+        "updated_at": "2026-11-04T05:56:48.929932+00:00"
+      },
+      {
+        "memory": "Caroline is actively looking into counseling and mental health job opportunities, motivated by her own past struggles with mental health and the helpful support she received, which inspired her to help others on their journeys.",
+        "score": 0.6340158193820696,
+        "id": "af342220-e053-454e-8579-f16f4015bf72",
+        "created_at": "2026-11-04T05:22:21.038634+00:00",
+        "updated_at": "2026-11-04T05:22:21.038634+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who identifies with the LGBTQ community and is actively looking into careers in counseling and mental health to help others.",
+        "score": 0.6279908350237833,
+        "id": "1eaf9720-034e-40a4-aa8a-f0689cb2cfdd",
+        "created_at": "2026-11-04T05:22:26.616937+00:00",
+        "updated_at": "2026-11-04T05:22:26.616937+00:00"
+      },
+      {
+        "memory": "Caroline is currently learning to play the piano, which she describes as a creative activity she is getting into.",
+        "score": 0.6240514109162689,
+        "id": "0568cdb9-7e65-4460-b25e-890752540467",
+        "created_at": "2026-11-04T05:19:41.857760+00:00",
+        "updated_at": "2026-11-04T05:19:41.857760+00:00"
+      },
+      {
+        "memory": "Caroline is currently learning to play the piano, which she describes as a creative activity she is getting into.",
+        "score": 0.6240514109162689,
+        "id": "5d582124-6cd5-4049-a932-38f4d85df710",
+        "created_at": "2026-11-04T05:19:38.158099+00:00",
+        "updated_at": "2026-11-04T05:19:38.158099+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.5041196173493419,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.4745040026877329,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.470032153491728,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.43462818719596336,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline believes that pets bring a significant amount of joy to her life.",
+        "score": 0.4258927935161069,
+        "id": "3bf9d93d-80d3-48fe-a5a2-c3d11d0e89fa",
+        "created_at": "2026-11-04T05:22:29.179530+00:00",
+        "updated_at": "2026-11-04T05:22:29.179530+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.42463986138198295,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.40566700573421455,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.39255275187253247,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.38575372480651826,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      }
+    ],
+    "search_latency_ms": 115.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "horseback riding",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "horseback riding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "horseback riding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "horseback riding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

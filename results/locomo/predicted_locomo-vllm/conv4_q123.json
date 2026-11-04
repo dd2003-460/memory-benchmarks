@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q123",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What genre is the novel that Tim is writing?",
+  "ground_truth_answer": "Fantasy",
+  "evidence": [
+    "D15:3"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What genre is the novel that Tim is writing?",
+    "search_results": [
+      {
+        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
+        "score": 0.6933223411783975,
+        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
+        "created_at": "2026-11-03T09:19:36.424804+00:00",
+        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
+        "score": 0.6906234444987762,
+        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
+        "created_at": "2026-11-03T09:21:27.127661+00:00",
+        "updated_at": "2026-11-03T09:21:27.127661+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.6805450262540619,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off.",
+        "score": 0.677154195537726,
+        "id": "07726ce3-c976-4c10-8b70-c5c2f07d7e83",
+        "created_at": "2026-11-03T09:19:51.798483+00:00",
+        "updated_at": "2026-11-03T09:19:51.798483+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, describing it as really good.",
+        "score": 0.6696133269209785,
+        "id": "1b18e936-ef83-4d2f-b45d-2445ac84e12c",
+        "created_at": "2026-11-03T09:38:08.165227+00:00",
+        "updated_at": "2026-11-03T09:38:08.165227+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading fantasy novels because they fire up his imagination, take him to alternate realities, and serve as an escape from reality.",
+        "score": 0.6695975210803311,
+        "id": "555969aa-318a-47b0-9419-026ee8353911",
+        "created_at": "2026-11-03T09:17:03.537031+00:00",
+        "updated_at": "2026-11-03T09:17:03.537031+00:00"
+      },
+      {
+        "memory": "Tim enjoys fantasy novels, which he keeps on a bookshelf, and finds they fire up his imagination by taking him to alternate realities as an escape from reality.",
+        "score": 0.668388663075491,
+        "id": "60b2b8ac-a418-4617-b1ce-d91b98e68c2d",
+        "created_at": "2026-11-03T09:17:14.813586+00:00",
+        "updated_at": "2026-11-03T09:17:14.813586+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, who added it to his reading list.",
+        "score": 0.6662272647811767,
+        "id": "9191f56c-d8b6-40c3-b7fe-e0b705a4b9b0",
+        "created_at": "2026-11-03T09:38:13.160390+00:00",
+        "updated_at": "2026-11-03T09:38:13.160390+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and recommends it to John.",
+        "score": 0.6589274030177756,
+        "id": "55b8998c-d653-433b-a124-d26742ea5eb1",
+        "created_at": "2026-11-03T09:37:55.814264+00:00",
+        "updated_at": "2026-11-03T09:37:55.814264+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy novels, finding that he can learn a great deal from them.",
+        "score": 0.6508101625378038,
+        "id": "c1e3e55b-69f7-4580-923b-92950cdacfe4",
+        "created_at": "2026-11-03T09:28:08.188626+00:00",
+        "updated_at": "2026-11-03T09:28:08.188626+00:00"
+      },
+      {
+        "memory": "Tim is currently swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK because it did not go the way he wanted.",
+        "score": 0.6504122220508227,
+        "id": "ab6b1dc3-5c87-47df-a896-d861aad3e0c8",
+        "created_at": "2026-11-03T09:27:15.600620+00:00",
+        "updated_at": "2026-11-03T09:27:15.600620+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and describes it as really good",
+        "score": 0.650203494754476,
+        "id": "523d812e-0b61-4865-b693-967e37bfc14c",
+        "created_at": "2026-11-03T09:37:53.632079+00:00",
+        "updated_at": "2026-11-03T09:37:53.632079+00:00"
+      },
+      {
+        "memory": "Tim has never been on a sports team and prefers reading fantasy novels, enjoying the experience of sinking into different magical worlds",
+        "score": 0.6483903764228856,
+        "id": "efbc2ba0-cb4d-4e0f-a5b6-012a8b76b444",
+        "created_at": "2026-11-03T09:11:25.256718+00:00",
+        "updated_at": "2026-11-03T09:11:25.256718+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
+        "score": 0.6483744063213387,
+        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
+        "created_at": "2026-11-03T09:27:28.115475+00:00",
+        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with these interests to make writing more fun.",
+        "score": 0.6467977235536646,
+        "id": "8953bf23-5c3a-4dda-b9b4-b63beed67e32",
+        "created_at": "2026-11-03T09:19:41.440880+00:00",
+        "updated_at": "2026-11-03T09:19:41.440880+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
+        "score": 0.6439237648091825,
+        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
+        "created_at": "2026-11-03T09:20:07.698691+00:00",
+        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around late October 2023 while stuck on a plot twist, which he found frustrating but overcame by persisting until the ideas started flowing again.",
+        "score": 0.6427572575780746,
+        "id": "cdc7ee25-4459-452e-8e2c-5cc43ff59c85",
+        "created_at": "2026-11-03T09:21:29.590450+00:00",
+        "updated_at": "2026-11-03T09:21:29.590450+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around October 30, 2023, getting stuck on a plot twist but eventually overcame the frustration and got his ideas flowing again.",
+        "score": 0.6409508915300315,
+        "id": "bc7e97ea-5bd0-45e1-b321-494224ad650a",
+        "created_at": "2026-11-03T09:22:24.098436+00:00",
+        "updated_at": "2026-11-03T09:22:24.098436+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, specifically citing reading about castles in the UK as a source of ideas.",
+        "score": 0.6408032361670649,
+        "id": "28157729-a7fb-4d9e-bee4-c25ce4240e40",
+        "created_at": "2026-11-03T09:19:51.802288+00:00",
+        "updated_at": "2026-11-03T09:19:51.802288+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his collection of fantasy novels and movies on the wooden floor, describing them as companions on his growth journey in writing and reading.",
+        "score": 0.6407756632826037,
+        "id": "483fdd54-d202-4772-a0ed-31667366669e",
+        "created_at": "2026-11-03T09:27:39.698398+00:00",
+        "updated_at": "2026-11-03T09:27:39.698398+00:00"
+      }
+    ],
+    "search_latency_ms": 101.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fantasy",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'fantasy' is an exact match for the gold answer 'Fantasy'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fantasy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'fantasy' is an exact match for the gold answer 'Fantasy'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fantasy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'fantasy' is an exact match for the gold answer 'Fantasy'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fantasy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'fantasy' is an exact match for the gold answer 'Fantasy'."
+    }
+  }
+}

@@ -8,42 +8,183 @@
   "evidence": [
     "D18:7"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How did Melanie's children handle the accident?",
-    "search_results": [],
-    "search_latency_ms": 17.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.7271355988255923,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.7254470020796593,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.7245796388522601,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.7184411997675324,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.7142168083381926,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.7123036221186401,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.7120824018661788,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      },
+      {
+        "memory": "Melanie's two younger kids were scared during the car accident on the October 14-15, 2023 road trip but were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+        "score": 0.7044598240742831,
+        "id": "6ba61cbd-5530-49a7-8f1e-64f413258121",
+        "created_at": "2026-11-04T06:03:30.618266+00:00",
+        "updated_at": "2026-11-04T06:03:30.618266+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.6674051301537383,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.6576523435622612,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie described the car accident during her family road trip as a scary experience that served as a reminder that life is precious and to cherish her family.",
+        "score": 0.653132078765133,
+        "id": "fec6b83d-7987-41f2-9bab-e62f86456650",
+        "created_at": "2026-11-04T06:03:21.419222+00:00",
+        "updated_at": "2026-11-04T06:03:21.419222+00:00"
+      },
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.6423371223266494,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach with her kids recently, sharing a photo of three children playing with a kite on the sandy shore, noting that the kids had a blast.",
+        "score": 0.6343386629065152,
+        "id": "89ce89ea-57e4-4623-a44b-c6d01a5b099d",
+        "created_at": "2026-11-04T05:52:33.632847+00:00",
+        "updated_at": "2026-11-04T05:52:33.632847+00:00"
+      },
+      {
+        "memory": "Melanie describes her children as tough and resilient, noting that they give her the strength to keep going and are her biggest motivation and support.",
+        "score": 0.6328991811939402,
+        "id": "0a424348-c3f9-44b2-a32b-b3d22838282b",
+        "created_at": "2026-11-04T06:03:39.894465+00:00",
+        "updated_at": "2026-11-04T06:03:39.894465+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of herself and a child hiking on a mountain trail with Caroline on October 20, 2023, while discussing how her children handled a recent accident involving their brother.",
+        "score": 0.6310754234208578,
+        "id": "0fcabfa7-3314-4bac-9856-1f7e8186d018",
+        "created_at": "2026-11-04T06:03:50.702337+00:00",
+        "updated_at": "2026-11-04T06:03:50.702337+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6289849003249228,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6280257263963416,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6212254968135242,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6205908386773715,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and how lucky she is to share these moments.",
+        "score": 0.619694781233586,
+        "id": "685cb850-da10-408b-bb57-39a6bf6b5092",
+        "created_at": "2026-11-04T05:53:09.143096+00:00",
+        "updated_at": "2026-11-04T05:53:09.143096+00:00"
+      }
+    ],
+    "search_latency_ms": 111.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's children were scared but resilient; they were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly includes the exact phrase from the gold answer ('scared but resilient') and adds consistent supporting details."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's children were initially scared, but they were tough and resilient; they were reassured by their parents that their brother would be okay and went on to enjoy the rest of their trip.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states the children were 'scared' and 'resilient,' which directly matches the gold answer's core points."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's children were initially scared, but they proved to be tough and resilient; after being reassured by their parents, they enjoyed the rest of the trip.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states the children were 'scared' and 'resilient', which directly matches the core concepts in the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie's children were initially scared, but they proved to be tough and resilient. They were reassured by their parents that their brother would be okay, and they subsequently enjoyed the rest of their trip.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states the children were 'scared' and 'resilient', which directly matches the gold answer's core points."
     }
   }
 }

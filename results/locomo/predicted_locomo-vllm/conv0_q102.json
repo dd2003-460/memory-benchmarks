@@ -8,42 +8,183 @@
   "evidence": [
     "D6:9"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What kind of books does Caroline have in her library?",
-    "search_results": [],
-    "search_latency_ms": 21.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is creating a library of children's books, including classics, stories from different cultures, and educational books, in preparation for when she has kids so she can read to them and open their minds.",
+        "score": 0.7244851629397673,
+        "id": "36b2d538-1306-4def-8ba8-913a467e0881",
+        "created_at": "2026-11-04T05:21:46.426010+00:00",
+        "updated_at": "2026-11-04T05:21:46.426010+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library for future children, planning to read to them to open their minds, and has collected classics, stories from different cultures, and educational books.",
+        "score": 0.7164238140209706,
+        "id": "a9031786-2e2a-4afd-9b3e-8b16ccdbe1fd",
+        "created_at": "2026-11-04T05:21:52.372558+00:00",
+        "updated_at": "2026-11-04T05:21:52.372558+00:00"
+      },
+      {
+        "memory": "Caroline is creating a children's library for her future kids, stocking it with classics, stories from different cultures, and educational books to open their minds.",
+        "score": 0.708575490770235,
+        "id": "5051ae5a-7b56-47bb-80a0-707dbe0c664e",
+        "created_at": "2026-11-04T05:21:55.159215+00:00",
+        "updated_at": "2026-11-04T05:21:55.159215+00:00"
+      },
+      {
+        "memory": "Caroline is creating a children's library in preparation for having kids, which includes classics, stories from different cultures, and educational books, as she looks forward to reading to them and opening their minds.",
+        "score": 0.7081605853191125,
+        "id": "990561d3-40a8-43d1-b7a8-a0a5315267f0",
+        "created_at": "2026-11-04T05:21:49.344653+00:00",
+        "updated_at": "2026-11-04T05:21:49.344653+00:00"
+      },
+      {
+        "memory": "Caroline is creating a library of children's books and toys in preparation for having kids, looking forward to reading to them and opening their minds.",
+        "score": 0.6951039166364343,
+        "id": "c46ba813-41fa-440b-8ca2-e59ee5790bae",
+        "created_at": "2026-11-04T05:21:33.037876+00:00",
+        "updated_at": "2026-11-04T05:21:33.037876+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books, describing them as guides that motivate her and help her discover who she is, and considers them a huge part of her personal journey.",
+        "score": 0.6932839138929874,
+        "id": "b9f79b1b-4c66-4c9a-83ec-f0d276e42298",
+        "created_at": "2026-11-04T05:22:37.040877+00:00",
+        "updated_at": "2026-11-04T05:22:37.040877+00:00"
+      },
+      {
+        "memory": "Caroline's library of children's books includes classics, stories from different cultures, and educational books.",
+        "score": 0.6897639131459692,
+        "id": "f2c4baf3-92c5-400e-9e6a-e47e7794d583",
+        "created_at": "2026-11-04T05:21:38.037832+00:00",
+        "updated_at": "2026-11-04T05:21:38.037832+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6895212813825535,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6635010946460163,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Caroline loves reading books as they guide, motivate, and help her discover her identity; her favorite book is 'Becoming Nicole' by Amy Ellis Nutt, which she recommends for its inspiring true story about a trans girl and her family.",
+        "score": 0.6499161822610666,
+        "id": "01ff2706-a609-4a09-bc97-44787ac914e4",
+        "created_at": "2026-11-04T05:22:26.627474+00:00",
+        "updated_at": "2026-11-04T05:22:26.627474+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that she found inspiring and connected to her own path",
+        "score": 0.6247890388787367,
+        "id": "a8d85422-0d18-4ffb-b2ce-4dc1ecda3a39",
+        "created_at": "2026-11-04T05:22:23.929517+00:00",
+        "updated_at": "2026-11-04T05:22:23.929517+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, an inspiring true story about a trans girl and her family, which made her feel connected and gave her hope for her own path.",
+        "score": 0.6181364638046778,
+        "id": "a74966b5-57a7-49e8-ac2d-5169b2c18f3f",
+        "created_at": "2026-11-04T05:22:37.044312+00:00",
+        "updated_at": "2026-11-04T05:22:37.044312+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.6172269827290381,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that provided her with hope, connection, and lessons on self-acceptance and finding support.",
+        "score": 0.6147711930734538,
+        "id": "025687be-d1b6-42b9-b389-188a68493038",
+        "created_at": "2026-11-04T05:22:31.899149+00:00",
+        "updated_at": "2026-11-04T05:22:31.899149+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6124160101522979,
+        "id": "91b9209a-0887-4daf-928d-f95b6986065c",
+        "created_at": "2026-11-04T06:02:51.853727+00:00",
+        "updated_at": "2026-11-04T06:02:51.853727+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6124160101522979,
+        "id": "09cab859-e567-4bfb-88a4-360d4555f7ab",
+        "created_at": "2026-11-04T06:02:43.909765+00:00",
+        "updated_at": "2026-11-04T06:02:43.909765+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6124160101522979,
+        "id": "53d384a0-46ac-495d-9472-5c7a332ee26f",
+        "created_at": "2026-11-04T06:02:35.262773+00:00",
+        "updated_at": "2026-11-04T06:02:35.262773+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6124160101522979,
+        "id": "f8f5cc84-74ba-4c43-a952-28a9b52a9094",
+        "created_at": "2026-11-04T06:02:40.719060+00:00",
+        "updated_at": "2026-11-04T06:02:40.719060+00:00"
+      },
+      {
+        "memory": "While taking a break from pottery due to injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6064587605383053,
+        "id": "bac40d50-f329-4c9f-b6c9-edb1944e119b",
+        "created_at": "2026-11-04T06:02:32.146280+00:00",
+        "updated_at": "2026-11-04T06:02:32.146280+00:00"
+      },
+      {
+        "memory": "Caroline learned lessons of self-acceptance and finding support from the book 'Becoming Nicole', noting that tough times do not last and that hope and love exist.",
+        "score": 0.6036130322570348,
+        "id": "3c1ca0e9-dd9a-4e03-abe1-26479678abfb",
+        "created_at": "2026-11-04T05:22:37.047750+00:00",
+        "updated_at": "2026-11-04T05:22:37.047750+00:00"
+      }
+    ],
+    "search_latency_ms": 114.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "classics, stories from different cultures, and educational books",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all the specific types of books listed in the gold answer (classics, stories from different cultures, educational books), even though it omits the general category 'kids' books'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Classics, stories from different cultures, and educational books",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the specific types of books mentioned in the gold answer (classics, stories from different cultures, educational books), even though it omits the general category 'kids' books'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Classics, stories from different cultures, and educational books",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the specific types of books mentioned in the gold answer (classics, stories from different cultures, educational books), even though it omits the general category 'kids' books'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Classics, stories from different cultures, and educational books",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the specific types of books mentioned in the gold answer (classics, stories from different cultures, educational books), even though it omits the general category 'kids' books'."
     }
   }
 }

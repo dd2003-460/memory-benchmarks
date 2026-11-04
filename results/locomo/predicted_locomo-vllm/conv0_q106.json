@@ -8,42 +8,183 @@
   "evidence": [
     "D7:19"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What are the new shoes that Melanie got used for?",
-    "search_results": [],
-    "search_latency_ms": 28.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie recently purchased a new pair of shoes, which she shared with Caroline on July 12, 2023.",
+        "score": 0.6849164785839913,
+        "id": "75db6151-2455-4179-bfce-2d431c729a4c",
+        "created_at": "2026-11-04T05:22:41.848895+00:00",
+        "updated_at": "2026-11-04T05:22:41.848895+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new purple running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6811937787119858,
+        "id": "89b940f8-02a5-46a2-a1ce-700cb8b58fa5",
+        "created_at": "2026-11-04T05:23:00.638414+00:00",
+        "updated_at": "2026-11-04T05:23:00.638414+00:00"
+      },
+      {
+        "memory": "Melanie recently acquired new pink running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6692187074810121,
+        "id": "cd15e0b6-7060-4a57-82ae-ec088f0065de",
+        "created_at": "2026-11-04T05:22:56.206160+00:00",
+        "updated_at": "2026-11-04T05:22:56.206160+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new shoes that are purple in color, which she shared with Caroline on July 12, 2023.",
+        "score": 0.6683807270585148,
+        "id": "5dad8f03-671d-4f98-be68-99750c42a087",
+        "created_at": "2026-11-04T05:22:44.153732+00:00",
+        "updated_at": "2026-11-04T05:22:44.153732+00:00"
+      },
+      {
+        "memory": "Melanie recently bought new pink running shoes for running, which she uses as a way to destress and clear her mind; she has been running longer since their last chat.",
+        "score": 0.6612994673953436,
+        "id": "9b453aae-228d-40fb-a588-e5aa7c4ca08f",
+        "created_at": "2026-11-04T05:22:49.564195+00:00",
+        "updated_at": "2026-11-04T05:22:49.564195+00:00"
+      },
+      {
+        "memory": "Melanie's new shoes are specifically intended for running, as she clarified to Caroline on July 12, 2023.",
+        "score": 0.6467082498703671,
+        "id": "f76d1f90-2875-4be8-8bd3-ba8409ad28d5",
+        "created_at": "2026-11-04T05:22:46.733078+00:00",
+        "updated_at": "2026-11-04T05:22:46.733078+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.5961264487356034,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.5961264487356034,
+        "id": "bc35a852-f239-4dec-b238-af0c4540d435",
+        "created_at": "2026-11-04T06:02:51.850598+00:00",
+        "updated_at": "2026-11-04T06:02:51.850598+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses as a form of self-expression and peace.",
+        "score": 0.5913801173375479,
+        "id": "43ee7bde-bae5-43e7-8db9-c472274a26e7",
+        "created_at": "2026-11-04T06:02:43.907493+00:00",
+        "updated_at": "2026-11-04T06:02:43.907493+00:00"
+      },
+      {
+        "memory": "Melanie uses pottery as a form of self-expression and peace, but had to take a break from it after getting hurt in September 2023.",
+        "score": 0.5902231178627372,
+        "id": "cba492d6-f1d9-490b-92f8-e534c2b93c15",
+        "created_at": "2026-11-04T06:02:32.142480+00:00",
+        "updated_at": "2026-11-04T06:02:32.142480+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapeutic for expressing herself and getting creative.",
+        "score": 0.5730137613221185,
+        "id": "863acfdc-ed77-4159-9667-6ad88f7f4c0d",
+        "created_at": "2026-11-04T05:20:30.805646+00:00",
+        "updated_at": "2026-11-04T05:20:30.805646+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5681094140598467,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.38082292708729104,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.37708662761001427,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.37555459840279265,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's dog Oliver once hid his bone in her slipper, and Melanie also enjoyed feeding a horse a carrot during a recent experience.",
+        "score": 0.36889055114352515,
+        "id": "e0cc23a8-3865-4014-acd4-376847df8a90",
+        "created_at": "2026-11-04T05:56:01.204420+00:00",
+        "updated_at": "2026-11-04T05:56:01.204420+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.365527281884282,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.36014695301297606,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.35937191064471896,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie's cat Oliver once hid his bone in her slipper, which she finds hilarious and silly.",
+        "score": 0.3368078737741448,
+        "id": "8a55d2e3-365b-4795-aba9-f043774fa85a",
+        "created_at": "2026-11-04T05:55:45.072059+00:00",
+        "updated_at": "2026-11-04T05:55:45.072059+00:00"
+      }
+    ],
+    "search_latency_ms": 120.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "running (and to de-stress/clear her mind)",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the correct item 'running' from the gold answer, with additional context that is acceptable under the rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Running, to de-stress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item 'Running' from the gold answer, along with additional context that is acceptable under the rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Running, which she uses to de-stress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item 'Running' from the gold answer and adds extra detail about de-stressing, which is acceptable."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "running, to de-stress and clear her mind",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'running', which matches the gold answer, and adds extra details that are acceptable under the rules."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D10:18"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How did Melanie feel while watching the meteor shower?",
-    "search_results": [],
-    "search_latency_ms": 28.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "During a family camping trip in the summer of 2022, Melanie and her family watched the Perseid meteor shower, made wishes, and felt a profound sense of awe and connection to the universe.",
+        "score": 0.8309079799432564,
+        "id": "4fdec476-a2c2-4ad6-a8e4-29d19c960f47",
+        "created_at": "2026-11-04T05:53:09.140502+00:00",
+        "updated_at": "2026-11-04T05:53:09.140502+00:00"
+      },
+      {
+        "memory": "During a family camping trip in July 2022, Melanie and her kids watched the Perseid meteor shower, made wishes, and felt a sense of awe and connection to the universe.",
+        "score": 0.8269610282136753,
+        "id": "2a8e9a29-f2fa-4ec0-9dd1-c83cc6f4a71e",
+        "created_at": "2026-11-04T05:53:01.792372+00:00",
+        "updated_at": "2026-11-04T05:53:01.792372+00:00"
+      },
+      {
+        "memory": "Melanie recalled a camping trip in July 2022 where she and her family watched the Perseid meteor shower, describing it as an awe-inspiring moment that made them feel connected to the universe.",
+        "score": 0.8072022540585209,
+        "id": "54b77514-3773-4fdf-86df-da6f0c7e153f",
+        "created_at": "2026-11-04T05:53:15.163190+00:00",
+        "updated_at": "2026-11-04T05:53:15.163190+00:00"
+      },
+      {
+        "memory": "Melanie's best camping memory is from a trip in July 2022 when her family watched the Perseid meteor shower, lying together watching the sky light up and making wishes, which she describes as a moment of feeling at one with the universe.",
+        "score": 0.8049232056268592,
+        "id": "617a88a3-bafe-4a84-ba7d-19d1d66fc958",
+        "created_at": "2026-11-04T05:52:49.963303+00:00",
+        "updated_at": "2026-11-04T05:52:49.963303+00:00"
+      },
+      {
+        "memory": "Melanie described watching the Perseid meteor shower during a family camping trip in July 2022 as her best camping memory, noting that they made wishes and felt connected to the universe.",
+        "score": 0.801666639429113,
+        "id": "6dc32315-c0a4-40ab-96ca-7ba5b96f5350",
+        "created_at": "2026-11-04T05:53:11.696066+00:00",
+        "updated_at": "2026-11-04T05:53:11.696066+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6138254091959943,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and how lucky she is to share these moments.",
+        "score": 0.6088212969656153,
+        "id": "685cb850-da10-408b-bb57-39a6bf6b5092",
+        "created_at": "2026-11-04T05:53:09.143096+00:00",
+        "updated_at": "2026-11-04T05:53:09.143096+00:00"
+      },
+      {
+        "memory": "Melanie shared a cherished memory of watching her youngest child take their first steps, noting how the milestone highlighted the fleeting nature of life and her gratitude for sharing such moments with her family.",
+        "score": 0.5941769955053686,
+        "id": "45de943d-afce-45cf-a7fc-2ef1c8001f10",
+        "created_at": "2026-11-04T05:53:15.166113+00:00",
+        "updated_at": "2026-11-04T05:53:15.166113+00:00"
+      },
+      {
+        "memory": "Melanie described a recent family picnic as fun, noting that they played games, ate good food, and hung out together, which she feels makes life awesome.",
+        "score": 0.5741906492876006,
+        "id": "9cd19b6d-0f4b-4536-9d5d-f03e8c0a3210",
+        "created_at": "2026-11-04T05:17:06.071821+00:00",
+        "updated_at": "2026-11-04T05:17:06.071821+00:00"
+      },
+      {
+        "memory": "Melanie has always felt a strong connection to art, describing it as both a sanctuary and a source of comfort that brings her happiness and fulfillment",
+        "score": 0.5702805446184513,
+        "id": "5df0b65e-27fc-4cc2-b752-77ac09d18151",
+        "created_at": "2026-11-04T05:54:55.728308+00:00",
+        "updated_at": "2026-11-04T05:54:55.728308+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.5677974205255427,
+        "id": "b7bdfd7a-7c6e-44d1-bbe6-60dace627a17",
+        "created_at": "2026-11-04T05:57:38.759126+00:00",
+        "updated_at": "2026-11-04T05:57:38.759126+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.5677974205255427,
+        "id": "3acfcf1c-14eb-478d-8555-bd137a2a6aaa",
+        "created_at": "2026-11-04T05:58:39.157054+00:00",
+        "updated_at": "2026-11-04T05:58:39.157054+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.567785565286891,
+        "id": "7d60aa81-3e7e-4e1b-9b2b-55c556fb3234",
+        "created_at": "2026-11-04T05:58:44.944953+00:00",
+        "updated_at": "2026-11-04T05:58:44.944953+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.42078197192632805,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.41510373424651775,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.41163727294647573,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.4063976343168605,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.4015974419257267,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.39900996623315915,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.39474596952408153,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      }
+    ],
+    "search_latency_ms": 128.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt a profound sense of awe and connection to the universe, describing it as a moment of feeling at one with the universe.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states she felt 'awe' and 'connection to the universe,' which directly matches the gold answer's 'in awe of the universe.'"
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie felt a profound sense of awe and felt connected to the universe (or at one with the universe).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Melanie felt 'awe' and was 'connected to the universe,' which directly matches the gold answer's sentiment of being 'in awe of the universe.'"
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie felt a profound sense of awe and felt connected to the universe (or at one with the universe).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Melanie felt 'awe' and was 'connected to the universe,' which directly matches the gold answer's sentiment of being 'in awe of the universe.'"
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie felt a profound sense of awe and felt connected to the universe (or at one with the universe).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Melanie felt 'awe' and was 'connected to the universe,' which directly matches the gold answer's sentiment of being 'in awe of the universe.'"
     }
   }
 }

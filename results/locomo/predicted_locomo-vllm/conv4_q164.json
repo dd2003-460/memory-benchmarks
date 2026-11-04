@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q164",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What language does Tim know besides German?",
+  "ground_truth_answer": "Spanish",
+  "evidence": [
+    "D27:6"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What language does Tim know besides German?",
+    "search_results": [
+      {
+        "memory": "Tim is learning German and finds the structure of the language easier to grasp because he previously took French in high school.",
+        "score": 0.8723840009505317,
+        "id": "313d7fbb-a2a1-4686-ac51-87651279058e",
+        "created_at": "2026-11-03T09:36:07.957989+00:00",
+        "updated_at": "2026-11-03T09:36:07.957989+00:00"
+      },
+      {
+        "memory": "Tim is currently learning German and finds the structure of the language easier to grasp than French, which he studied in high school.",
+        "score": 0.8705204179569257,
+        "id": "fae5d0b7-25f2-4132-b7df-1f634fd4fe82",
+        "created_at": "2026-11-03T09:36:18.480612+00:00",
+        "updated_at": "2026-11-03T09:36:18.480612+00:00"
+      },
+      {
+        "memory": "Tim is currently learning German and finds the structure of the language easier to grasp than French, which he studied in high school.",
+        "score": 0.8705204179569257,
+        "id": "11b9a64e-f7e2-4dd3-b681-64f2eb5c4b6a",
+        "created_at": "2026-11-03T09:36:13.186043+00:00",
+        "updated_at": "2026-11-03T09:36:13.186043+00:00"
+      },
+      {
+        "memory": "Tim is currently learning German, finding it tough but fun due to its structure, which contrasts with his experience taking French in high school.",
+        "score": 0.8606635160738888,
+        "id": "d283dab4-9def-4114-aba8-54814dc02ec4",
+        "created_at": "2026-11-03T09:36:03.654061+00:00",
+        "updated_at": "2026-11-03T09:36:03.654061+00:00"
+      },
+      {
+        "memory": "Tim took French in high school and finds the structure of German much easier to learn compared to his previous experience with French.",
+        "score": 0.8479715457143644,
+        "id": "3952b3ef-af36-4920-9c90-7509d3e42536",
+        "created_at": "2026-11-03T09:35:56.822852+00:00",
+        "updated_at": "2026-11-03T09:35:56.822852+00:00"
+      },
+      {
+        "memory": "Tim is learning German as of January 2, 2024, finding the process tough but fun.",
+        "score": 0.8405675279697944,
+        "id": "bae65f09-a515-4d6a-9921-e6446d2ce01f",
+        "created_at": "2026-11-03T09:35:51.705592+00:00",
+        "updated_at": "2026-11-03T09:35:51.705592+00:00"
+      },
+      {
+        "memory": "John knows a bit of German and Spanish, noting that knowing these languages makes travel much easier.",
+        "score": 0.8165048704042178,
+        "id": "4f36319b-b0de-44ed-b6fa-6059e1f8970f",
+        "created_at": "2026-11-03T09:35:54.497954+00:00",
+        "updated_at": "2026-11-03T09:35:54.497954+00:00"
+      },
+      {
+        "memory": "John knows a bit of German and Spanish, noting that knowing multiple languages makes travel easier and opens up personal and professional opportunities.",
+        "score": 0.8104105541648021,
+        "id": "c6f6eb99-be90-46ed-8af1-d016e2b3b465",
+        "created_at": "2026-11-03T09:36:13.190095+00:00",
+        "updated_at": "2026-11-03T09:36:13.190095+00:00"
+      },
+      {
+        "memory": "John knows some German and Spanish, having started learning Spanish because he found it useful for personal and professional opportunities.",
+        "score": 0.802305026981536,
+        "id": "75289bd4-2844-466d-82ab-458850eb8e61",
+        "created_at": "2026-11-03T09:36:03.657136+00:00",
+        "updated_at": "2026-11-03T09:36:03.657136+00:00"
+      },
+      {
+        "memory": "Tim uses a mobile app for language learning, which John also uses on his phone to practice Spanish.",
+        "score": 0.7680171306802348,
+        "id": "92a432b0-2ab9-40e5-93ab-4db8c2793263",
+        "created_at": "2026-11-03T09:36:13.197460+00:00",
+        "updated_at": "2026-11-03T09:36:13.197460+00:00"
+      },
+      {
+        "memory": "Both John and Tim use the same mobile app for practicing their respective language studies (German and Spanish).",
+        "score": 0.7640862307669536,
+        "id": "72c950bb-5ad5-4558-a829-a6e2497991db",
+        "created_at": "2026-11-03T09:36:18.486643+00:00",
+        "updated_at": "2026-11-03T09:36:18.486643+00:00"
+      },
+      {
+        "memory": "Tim is using a language learning app to study Spanish, as of January 2, 2024.",
+        "score": 0.7393605789718266,
+        "id": "7f221eed-87d7-47db-9a9c-b85cbbc64e13",
+        "created_at": "2026-11-03T09:36:01.123235+00:00",
+        "updated_at": "2026-11-03T09:36:01.123235+00:00"
+      },
+      {
+        "memory": "John is learning Spanish because he believes it is a useful language that offers many personal and professional opportunities.",
+        "score": 0.6813193341917694,
+        "id": "ae5d4ffd-03e9-4097-b864-27c749a7189e",
+        "created_at": "2026-11-03T09:36:18.483472+00:00",
+        "updated_at": "2026-11-03T09:36:18.483472+00:00"
+      },
+      {
+        "memory": "John started learning Spanish because he found it a useful language that offers many personal and professional opportunities.",
+        "score": 0.6696009280735988,
+        "id": "b6ec8cf1-e733-4572-b263-94c32c04853a",
+        "created_at": "2026-11-03T09:35:59.029359+00:00",
+        "updated_at": "2026-11-03T09:35:59.029359+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, and chose the location because it is known for its arts scene, Irish music, and vibrant atmosphere.",
+        "score": 0.5751455399889716,
+        "id": "b67f6930-6f6a-46e1-aa4c-8b48e2a35dff",
+        "created_at": "2026-11-03T09:37:22.439558+00:00",
+        "updated_at": "2026-11-03T09:37:22.439558+00:00"
+      },
+      {
+        "memory": "Tim joined a group of globetrotters who share his interest in travel and has been enjoying getting to know them and hearing about their trips.",
+        "score": 0.5591412665369551,
+        "id": "799d2697-4502-42f9-bbf0-9168942cc838",
+        "created_at": "2026-11-03T09:35:47.068063+00:00",
+        "updated_at": "2026-11-03T09:35:47.068063+00:00"
+      },
+      {
+        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point in their friendship.",
+        "score": 0.3486323504002625,
+        "id": "b346756a-cefa-43be-a920-d556c2ea57c1",
+        "created_at": "2026-11-03T09:29:21.159362+00:00",
+        "updated_at": "2026-11-03T09:29:21.159362+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.3474243525243858,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
+        "score": 0.3150992047748463,
+        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
+        "created_at": "2026-11-03T09:35:54.494219+00:00",
+        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.3083758229170738,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      }
+    ],
+    "search_latency_ms": 128.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "French",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'French' does not match the gold answer 'Spanish' and does not contain any correct items from the gold list."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "French and Spanish",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Spanish', which is the correct item from the gold answer, satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "French and Spanish",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Spanish', which is the correct item from the gold answer, satisfying the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "French and Spanish",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Spanish', which is the correct item from the gold answer, satisfying the partial credit rule."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q63",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John organize a basketball camp for kids?",
+  "ground_truth_answer": "summer 2023",
+  "evidence": [
+    "D26:23"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When did John organize a basketball camp for kids?",
+    "search_results": [
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience filled with laughs, high-fives, and personal growth.",
+        "score": 0.9349826099647366,
+        "id": "3c228632-9d74-47df-90ce-5c19bd1525d0",
+        "created_at": "2026-11-03T09:35:02.374809+00:00",
+        "updated_at": "2026-11-03T09:35:02.374809+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he saw the children's faces light up and witnessed their personal growth.",
+        "score": 0.9340133137297306,
+        "id": "229bc0ba-9bb9-452b-a835-5ec82d8fe8d9",
+        "created_at": "2026-11-03T09:35:05.194570+00:00",
+        "updated_at": "2026-11-03T09:35:05.194570+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he inspired young athletes and saw their potential.",
+        "score": 0.9285204533266459,
+        "id": "807154bf-2885-4001-ba0a-6011b7e030c8",
+        "created_at": "2026-11-03T09:34:58.108399+00:00",
+        "updated_at": "2026-11-03T09:34:58.108399+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.7669393022323578,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.7549017398489495,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.7546955071292165,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.7537519528356024,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.7451107262457073,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.7430047035252919,
+        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
+        "created_at": "2026-11-03T09:07:35.938549+00:00",
+        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+      },
+      {
+        "memory": "John collaborates with organizations to create more opportunities for young athletes, believing it is important that every kid has access to good sports programs.",
+        "score": 0.7422876194812975,
+        "id": "8b2c74c4-52d1-4d62-8658-277f506452e4",
+        "created_at": "2026-11-03T09:34:53.936576+00:00",
+        "updated_at": "2026-11-03T09:34:53.936576+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game the week of January 1-7, 2024, sharing a photo of a boy dribbling a basketball on the court.",
+        "score": 0.7419001945894197,
+        "id": "d6ba52a2-94f3-43fb-bda7-98e67cf62b1b",
+        "created_at": "2026-11-03T09:37:35.159189+00:00",
+        "updated_at": "2026-11-03T09:37:35.159189+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game in the week preceding January 7, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.7344883203490317,
+        "id": "c1b070f9-df9c-483a-829b-25110148e8d2",
+        "created_at": "2026-11-03T09:37:55.809326+00:00",
+        "updated_at": "2026-11-03T09:37:55.809326+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
+        "score": 0.7341902655094477,
+        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
+        "created_at": "2026-11-03T09:37:42.890488+00:00",
+        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.7320110599692062,
+        "id": "fb290661-a188-443a-90cf-c33235e3cc73",
+        "created_at": "2026-11-03T09:37:40.349172+00:00",
+        "updated_at": "2026-11-03T09:37:40.349172+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on January 6, 2024, which was a total success with many attendees and raised money for charity.",
+        "score": 0.7288701890186019,
+        "id": "655cff05-852f-48b5-a447-14f19361118d",
+        "created_at": "2026-11-03T09:37:47.223081+00:00",
+        "updated_at": "2026-11-03T09:37:47.223081+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
+        "score": 0.7286972801681502,
+        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
+        "created_at": "2026-11-03T09:30:29.897962+00:00",
+        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+      },
+      {
+        "memory": "John recently found a new gym with a basketball court to maintain his fitness for professional basketball, noting that finding the right spot was difficult but essential for surviving pro ball.",
+        "score": 0.7269944534137924,
+        "id": "d0c7530c-9c04-4b79-b390-f0e552b65a0e",
+        "created_at": "2026-11-03T09:08:57.410650+00:00",
+        "updated_at": "2026-11-03T09:08:57.410650+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.7217513598867769,
+        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
+        "created_at": "2026-11-03T09:30:34.559013+00:00",
+        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.7217513598867769,
+        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
+        "created_at": "2026-11-03T09:30:37.455079+00:00",
+        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.7216857912761429,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      }
+    ],
+    "search_latency_ms": 136.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "during the summer of 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'during the summer of 2023' is a direct paraphrase of the gold answer 'summer 2023'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "during the summer of 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'during the summer of 2023' is a direct paraphrase of the gold answer 'summer 2023'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "during the summer of 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'during the summer of 2023' is a direct paraphrase of the gold answer 'summer 2023'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "during the summer of 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'during the summer of 2023' is a direct paraphrase of the gold answer 'summer 2023'."
+    }
+  }
+}

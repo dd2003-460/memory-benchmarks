@@ -9,42 +9,183 @@
     "D16:4",
     "D10:12"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Melanie do with her family on hikes?",
-    "search_results": [],
-    "search_latency_ms": 17.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.7090295155657915,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.7074725514085934,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.7060123454248985,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.7055234709504117,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.7055234709504117,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.7037519173430147,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.7006293057038288,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.6946652467081376,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she described the recent mountain camping trip as a special, unforgettable family moment.",
+        "score": 0.6900267916745417,
+        "id": "96545ebd-1edb-44bc-9f3e-0599bc0265b9",
+        "created_at": "2026-11-04T05:18:01.029864+00:00",
+        "updated_at": "2026-11-04T05:18:01.029864+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.6847424752904254,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.6823603739494294,
+        "id": "45eb6b64-6042-440a-b359-56b1245c66a1",
+        "created_at": "2026-11-04T05:24:23.379996+00:00",
+        "updated_at": "2026-11-04T05:24:23.379996+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.6823603739494294,
+        "id": "052f10c6-bafa-4336-964d-7bdf40e8e226",
+        "created_at": "2026-11-04T05:24:40.727420+00:00",
+        "updated_at": "2026-11-04T05:24:40.727420+00:00"
+      },
+      {
+        "memory": "Melanie enjoys hiking in the mountains and exploring forests with her family as a way to connect with nature and each other.",
+        "score": 0.6823603739494294,
+        "id": "cafdf2d8-58c0-42ff-8d83-58bf7a9393d4",
+        "created_at": "2026-11-04T05:24:43.454502+00:00",
+        "updated_at": "2026-11-04T05:24:43.454502+00:00"
+      },
+      {
+        "memory": "Melanie loves camping trips with her family because they allow her to be present and together, bonding over stories, campfires, and nature, and she finds waking up to birds and fresh air refreshing and peaceful.",
+        "score": 0.6794372870960712,
+        "id": "4ae9a9f6-ef0f-452f-9a28-2845abf5479b",
+        "created_at": "2026-11-04T06:04:09.786618+00:00",
+        "updated_at": "2026-11-04T06:04:09.786618+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.673950901947016,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 19-25, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6737883987553455,
+        "id": "53212d5a-b4e5-409a-bba5-a1491e57becd",
+        "created_at": "2026-11-04T05:18:35.280909+00:00",
+        "updated_at": "2026-11-04T05:18:35.280909+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.672405970778067,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6709959629932535,
+        "id": "d29f48d5-585b-4684-b9a2-493241214dcf",
+        "created_at": "2026-11-04T05:18:07.247890+00:00",
+        "updated_at": "2026-11-04T05:18:07.247890+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6709959629932535,
+        "id": "cc563d39-99cb-4b40-bf96-08c3f1ca6b96",
+        "created_at": "2026-11-04T05:18:01.027417+00:00",
+        "updated_at": "2026-11-04T05:18:01.027417+00:00"
+      },
+      {
+        "memory": "Melanie stated on June 9, 2023, that she is lucky to have her husband and kids who keep her motivated, and shared a photo of them hiking in nature near a waterfall.",
+        "score": 0.6670503251113677,
+        "id": "0d694607-70af-45fb-8f35-49e9a3c7b711",
+        "created_at": "2026-11-04T05:16:49.697509+00:00",
+        "updated_at": "2026-11-04T05:16:49.697509+00:00"
+      }
+    ],
+    "search_latency_ms": 100.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She bonds with them over stories and campfires.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions 'stories' and 'campfires', which semantically overlaps with the gold answer's 'tell stories' and 'roast marshmallows' (as roasting marshmallows is a standard campfire activity)."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie hikes in the mountains and explores forests with her family to connect with nature and each other.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes general hiking activities (exploring, connecting) but fails to mention the specific activities listed in the gold answer (roasting marshmallows, telling stories), resulting in zero correct items."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie hikes in the mountains and explores forests with her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes the general activity of hiking but fails to mention the specific activities (roasting marshmallows, telling stories) listed in the gold answer, resulting in zero correct items."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Melanie explores forests and connects with nature and her family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes general activities (exploring forests, connecting with nature) that do not match the specific actions in the gold answer (roasting marshmallows, telling stories), and contains zero correct items from the gold list."
     }
   }
 }

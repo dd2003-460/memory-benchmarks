@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q103",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of soup did John make recently?",
+  "ground_truth_answer": "tasty soup with sage",
+  "evidence": [
+    "D10:4",
+    "D10:8"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What kind of soup did John make recently?",
+    "search_results": [
+      {
+        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
+        "score": 0.6978097537470291,
+        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
+        "created_at": "2026-11-03T09:12:16.038675+00:00",
+        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+      },
+      {
+        "memory": "John has been trying out new cooking recipes recently and made a tasty chicken soup, sharing a photo of the beautifully plated dish with a butternut squash on a cutting board.",
+        "score": 0.6800680820359479,
+        "id": "415c70a9-b969-4b19-9a88-d1c3a3899199",
+        "created_at": "2026-11-03T09:11:48.094056+00:00",
+        "updated_at": "2026-11-03T09:11:48.094056+00:00"
+      },
+      {
+        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
+        "score": 0.6761403687045919,
+        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
+        "created_at": "2026-11-03T09:12:31.250600+00:00",
+        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices and is planning to look up recipes to try making the chicken soup John described.",
+        "score": 0.6729546553303614,
+        "id": "8d56cbf5-13ac-455d-bb8d-71cb600f4fc9",
+        "created_at": "2026-11-03T09:13:00.156049+00:00",
+        "updated_at": "2026-11-03T09:13:00.156049+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices and plans to look up recipes to try making John's chicken soup.",
+        "score": 0.6698339917915231,
+        "id": "a46892a0-86e2-48a3-acd9-1e49783a1916",
+        "created_at": "2026-11-03T09:12:53.926748+00:00",
+        "updated_at": "2026-11-03T09:12:53.926748+00:00"
+      },
+      {
+        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, adding sage for flavor.",
+        "score": 0.6685300599579842,
+        "id": "416aab1d-b6af-4daf-b3e5-2d26f073c7d4",
+        "created_at": "2026-11-03T09:13:05.375387+00:00",
+        "updated_at": "2026-11-03T09:13:05.375387+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, using sage for flavor.",
+        "score": 0.6632228833557445,
+        "id": "4bf4c5e4-0e77-4aa6-aa65-0707572c535c",
+        "created_at": "2026-11-03T09:13:00.153430+00:00",
+        "updated_at": "2026-11-03T09:13:00.153430+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in his cooking and was interested in learning which spices John used in his homemade soup.",
+        "score": 0.6573113713637775,
+        "id": "25fc92ec-9301-4d8f-8ced-6050e5cc20df",
+        "created_at": "2026-11-03T09:13:05.382821+00:00",
+        "updated_at": "2026-11-03T09:13:05.382821+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice for flavor.",
+        "score": 0.6537173639073596,
+        "id": "d8575b11-b33e-44f2-95e4-38c980b5225c",
+        "created_at": "2026-11-03T09:12:53.924273+00:00",
+        "updated_at": "2026-11-03T09:12:53.924273+00:00"
+      },
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.589483030571285,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in cooking, as he expressed excitement about trying a soup recipe that included sage.",
+        "score": 0.588099887961963,
+        "id": "4b91022e-329e-4fab-a3db-f6a32f3a9d6a",
+        "created_at": "2026-11-03T09:13:26.756021+00:00",
+        "updated_at": "2026-11-03T09:13:26.756021+00:00"
+      },
+      {
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
+        "score": 0.5313027961538067,
+        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
+        "created_at": "2026-11-03T09:31:10.118402+00:00",
+        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+      },
+      {
+        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
+        "score": 0.5310091575453726,
+        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
+        "created_at": "2026-11-03T09:11:02.805338+00:00",
+        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who recently found a new gym to maintain his fitness, noting that staying fit is essential for surviving in pro ball.",
+        "score": 0.5234455744567209,
+        "id": "11974f98-44e1-41d4-bc42-0a93888952bc",
+        "created_at": "2026-11-03T09:09:22.068324+00:00",
+        "updated_at": "2026-11-03T09:09:22.068324+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5231775483162128,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John recently won a basketball trophy, which he credits to his team's hard work and dedication.",
+        "score": 0.521055633662965,
+        "id": "07c3596e-5d6a-44aa-b9f5-8e94515b55fe",
+        "created_at": "2026-11-03T09:30:48.604695+00:00",
+        "updated_at": "2026-11-03T09:30:48.604695+00:00"
+      },
+      {
+        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
+        "score": 0.5138394837031318,
+        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
+        "created_at": "2026-11-03T09:34:49.170106+00:00",
+        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+      },
+      {
+        "memory": "John recently reread 'The Alchemist' and found it inspiring, noting that it motivated him to think about following his dreams and searching for his personal legend, leaving him feeling hopeful.",
+        "score": 0.5080704658959712,
+        "id": "b8e57ea7-5e70-4b3e-be62-8b7b94a1c104",
+        "created_at": "2026-11-03T09:28:20.999792+00:00",
+        "updated_at": "2026-11-03T09:28:20.999792+00:00"
+      },
+      {
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
+        "score": 0.2995188411954989,
+        "id": "bc91278f-9786-437b-b809-97133839c1c0",
+        "created_at": "2026-11-03T09:21:16.833195+00:00",
+        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+      },
+      {
+        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
+        "score": 0.2587730971557663,
+        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
+        "created_at": "2026-11-03T09:21:03.783333+00:00",
+        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+      }
+    ],
+    "search_latency_ms": 105.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "chicken soup",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'chicken soup' does not contain the specific ingredient 'sage' or the descriptor 'tasty' from the gold answer, and 'chicken soup' is a distinct type of soup that does not semantically overlap with 'soup with sage' in the context of identifying the specific dish made."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "chicken soup",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'chicken soup' does not contain the specific ingredient 'sage' or the descriptor 'tasty' from the gold answer, and 'chicken soup' is a distinct type of soup that does not semantically overlap with 'soup with sage' in the context of identifying the specific dish made."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "chicken soup",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'chicken soup' does not contain the specific ingredient 'sage' or the descriptor 'tasty' from the gold answer, and 'chicken soup' is a distinct type of soup that does not semantically overlap with 'soup with sage' in the context of identifying the specific dish made."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "chicken soup",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'chicken soup' does not contain the specific ingredient 'sage' or the descriptor 'tasty' from the gold answer, and 'chicken soup' is a distinct type of soup that does not semantically overlap with 'soup with sage' in the context of identifying the specific dish made."
+    }
+  }
+}

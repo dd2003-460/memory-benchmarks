@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q135",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does Tim stay motivated during difficult study sessions?",
+  "ground_truth_answer": "Visualizing goals and success",
+  "evidence": [
+    "D18:6"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How does Tim stay motivated during difficult study sessions?",
+    "search_results": [
+      {
+        "memory": "John stays motivated during difficult study sessions by visualizing his goals and success, a strategy he shared with Tim to help maintain focus.",
+        "score": 0.9026176092262548,
+        "id": "b22fad50-d8ca-45e8-971d-7896d9e4c488",
+        "created_at": "2026-11-03T09:26:53.051758+00:00",
+        "updated_at": "2026-11-03T09:26:53.051758+00:00"
+      },
+      {
+        "memory": "John stays motivated during difficult study or work sessions by visualizing his goals and success, a strategy he shared with Tim as advice for handling challenging periods.",
+        "score": 0.8568191990371572,
+        "id": "8f495df0-7445-4490-8418-583011ce9d2b",
+        "created_at": "2026-11-03T09:26:39.502209+00:00",
+        "updated_at": "2026-11-03T09:26:39.502209+00:00"
+      },
+      {
+        "memory": "John uses visualization of goals and success as a technique to stay focused and motivated during difficult study sessions",
+        "score": 0.8428589731047106,
+        "id": "b327633e-b46d-4ed5-95d0-00a2d1924bb6",
+        "created_at": "2026-11-03T09:26:25.480492+00:00",
+        "updated_at": "2026-11-03T09:26:25.480492+00:00"
+      },
+      {
+        "memory": "Tim uses a study technique of breaking sessions into smaller parts, specifically studying for 25 minutes followed by a 5-minute break for something fun, to keep himself on track and reduce overwhelm during exam preparation.",
+        "score": 0.822727407754177,
+        "id": "7785f371-34ce-441e-8f7c-deb245b757b6",
+        "created_at": "2026-11-03T09:26:53.048221+00:00",
+        "updated_at": "2026-11-03T09:26:53.048221+00:00"
+      },
+      {
+        "memory": "John uses visualization of his goals and success as a technique to maintain focus and motivation during difficult study sessions or challenging times.",
+        "score": 0.8203811818418332,
+        "id": "5bf2b92e-249b-49b2-875d-44a7df357749",
+        "created_at": "2026-11-03T09:25:39.146821+00:00",
+        "updated_at": "2026-11-03T09:25:39.146821+00:00"
+      },
+      {
+        "memory": "Tim is actively trying to find a way to balance his demanding study schedule with his fantasy reading hobby without giving up on either",
+        "score": 0.8143057912112287,
+        "id": "f91ac070-5f4d-4b2a-818d-cd8b646280bf",
+        "created_at": "2026-11-03T09:10:53.958076+00:00",
+        "updated_at": "2026-11-03T09:10:53.958076+00:00"
+      },
+      {
+        "memory": "Tim uses a study technique of breaking sessions into smaller parts, specifically 25 minutes of studying followed by a 5-minute break for something fun, to reduce overwhelm and stay on track.",
+        "score": 0.8098307222930258,
+        "id": "a7429591-8d9f-4a2b-b3ed-39e7b2ab7b16",
+        "created_at": "2026-11-03T09:25:54.227077+00:00",
+        "updated_at": "2026-11-03T09:25:54.227077+00:00"
+      },
+      {
+        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
+        "score": 0.7816116402393012,
+        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
+        "created_at": "2026-11-03T09:29:03.711964+00:00",
+        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.7691374378901513,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.7691374378901513,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.7682553638014876,
+        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
+        "created_at": "2026-11-03T09:28:43.322745+00:00",
+        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+      },
+      {
+        "memory": "Tim's study method involves breaking studying into smaller parts using a 25-minute work and 5-minute break cycle for something fun, which he finds less overwhelming and keeps him on track",
+        "score": 0.700876268631547,
+        "id": "9dc113fc-421b-483a-8fb4-3f5ba8ee725b",
+        "created_at": "2026-11-03T09:26:25.483299+00:00",
+        "updated_at": "2026-11-03T09:26:25.483299+00:00"
+      },
+      {
+        "memory": "Tim finds motivation to push himself to get better by remembering his love for writing and reading when things get tough.",
+        "score": 0.6834076726554983,
+        "id": "00b1ce5d-942d-49a7-a45e-1f99a8eaf246",
+        "created_at": "2026-11-03T09:27:28.119127+00:00",
+        "updated_at": "2026-11-03T09:27:28.119127+00:00"
+      },
+      {
+        "memory": "Tim finds writing and reading to be his primary sources of motivation when facing challenges, helping him stay focused and push himself to improve.",
+        "score": 0.6798013239114649,
+        "id": "55bd5a59-4b8f-4165-add4-876161749a6d",
+        "created_at": "2026-11-03T09:27:35.171169+00:00",
+        "updated_at": "2026-11-03T09:27:35.171169+00:00"
+      },
+      {
+        "memory": "Tim is a student who finds assignments and exams overwhelming but is determined not to give up, and he is trying to balance studying with his fantasy reading hobby.",
+        "score": 0.6757284439915019,
+        "id": "4df58466-77f0-4ad0-a8ad-779765352955",
+        "created_at": "2026-11-03T09:11:02.810349+00:00",
+        "updated_at": "2026-11-03T09:11:02.810349+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6749693177882646,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is doing well in school despite being busy with studies, and he maintains a good balance by finding time to relax with books.",
+        "score": 0.6748366889952196,
+        "id": "29b6bcc8-528a-4bec-b59e-a7beedb89838",
+        "created_at": "2026-11-03T09:19:15.449975+00:00",
+        "updated_at": "2026-11-03T09:19:15.449975+00:00"
+      },
+      {
+        "memory": "Tim is preparing for upcoming exams and uses the Pomodoro technique to study, breaking sessions into 25-minute focused intervals followed by 5-minute breaks to stay on track and reduce overwhelm.",
+        "score": 0.6313106695303966,
+        "id": "3dfc8b6d-867c-4bce-bffb-bb8066cb2c91",
+        "created_at": "2026-11-03T09:26:39.498093+00:00",
+        "updated_at": "2026-11-03T09:26:39.498093+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.6250253580135701,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim has been swamped with studies and projects as of November 21, 2023, indicating a busy academic or professional schedule.",
+        "score": 0.6200183003930683,
+        "id": "58b10661-5353-4ba4-af66-1332b5f6d8b2",
+        "created_at": "2026-11-03T09:27:06.130911+00:00",
+        "updated_at": "2026-11-03T09:27:06.130911+00:00"
+      }
+    ],
+    "search_latency_ms": 127.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Tim stays motivated by breaking his study sessions into smaller parts, specifically studying for 25 minutes followed by a 5-minute break for something fun, which helps him reduce overwhelm and stay on track.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a time-management technique (Pomodoro method) which is not mentioned in the gold answer (visualizing goals), and it does not contain any of the specific items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Tim stays motivated by remembering his love for writing and reading.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes motivation to a love for writing and reading, which is a different concept from the gold answer's 'visualizing goals and success', and does not contain any of the required items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Tim stays motivated by remembering his love for writing and reading.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes motivation to a love for writing and reading, which is a different concept from the gold answer's 'visualizing goals and success', and does not contain any of the required items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Tim stays motivated by remembering his love for writing and reading.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes motivation to a love for writing and reading, which is a different concept from the gold answer's 'visualizing goals and success', and does not contain any of the required items."
+    }
+  }
+}

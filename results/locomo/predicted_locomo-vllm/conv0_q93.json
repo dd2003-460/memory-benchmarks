@@ -8,42 +8,183 @@
   "evidence": [
     "D4:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What was grandma's gift to Caroline?",
-    "search_results": [],
-    "search_latency_ms": 25.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.668904017301337,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline owns a necklace with a cross and heart that was a gift from her grandmother in Sweden when she was young, which she treasures as a reminder of her roots, love, faith, and strength.",
+        "score": 0.6680737498934939,
+        "id": "abb8d797-8751-45d1-896a-273e3f4fa10f",
+        "created_at": "2026-11-04T05:18:07.238677+00:00",
+        "updated_at": "2026-11-04T05:18:07.238677+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.6637477824014388,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and owns a special necklace with a cross and heart that was a gift from her grandmother when she was young, symbolizing love, faith, strength, and her roots.",
+        "score": 0.6567261254141944,
+        "id": "f71f1647-fd45-4fe0-b066-1124b8bc4368",
+        "created_at": "2026-11-04T05:17:55.692771+00:00",
+        "updated_at": "2026-11-04T05:17:55.692771+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pass on the same support and love she received from her community to others, viewing this journey as a gift that allows her to help others with their own experiences.",
+        "score": 0.6401893997359163,
+        "id": "0b13f3bc-c62a-47e1-8a19-d1a37304765b",
+        "created_at": "2026-11-04T06:04:38.591426+00:00",
+        "updated_at": "2026-11-04T06:04:38.591426+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5777833553232589,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.48264791345851166,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.4606214725870058,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.4281515125684428,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.42269549223099345,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline believes that pets bring a significant amount of joy to her life.",
+        "score": 0.4204402369613809,
+        "id": "3bf9d93d-80d3-48fe-a5a2-c3d11d0e89fa",
+        "created_at": "2026-11-04T05:22:29.179530+00:00",
+        "updated_at": "2026-11-04T05:22:29.179530+00:00"
+      },
+      {
+        "memory": "Caroline loves the color blue, stating it is her favorite because it makes her feel relaxed.",
+        "score": 0.4199726688906565,
+        "id": "ac001b54-94b0-4b51-98c2-8ede1c499239",
+        "created_at": "2026-11-04T05:23:50.875439+00:00",
+        "updated_at": "2026-11-04T05:23:50.875439+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.41311007397689553,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the application process.",
+        "score": 0.40918589947599815,
+        "id": "4f83cd76-af98-4ebb-8eac-fffb6777b31c",
+        "created_at": "2026-11-04T05:55:39.032693+00:00",
+        "updated_at": "2026-11-04T05:55:39.032693+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.40854176839894174,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline received a special necklace from her grandmother in Sweden when she was young, which symbolizes love, faith, and strength and serves as a reminder of her roots and family support.",
+        "score": 0.2712047109067287,
+        "id": "6ccc01af-a12e-4e5e-9be6-aa32ae4ca84a",
+        "created_at": "2026-11-04T05:18:19.806351+00:00",
+        "updated_at": "2026-11-04T05:18:19.806351+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago (around 2013), which reminds her of art and self-expression.",
+        "score": 0.25602238000425687,
+        "id": "2a2971a4-f499-4ce9-81bd-5eb6d91237a2",
+        "created_at": "2026-11-04T05:18:19.809054+00:00",
+        "updated_at": "2026-11-04T05:18:19.809054+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago, which features awesome patterns and colors that remind her of art and self-expression.",
+        "score": 0.2532365340514203,
+        "id": "b67bf3a8-1698-4001-acf2-7fd3b1070a43",
+        "created_at": "2026-11-04T05:18:01.033355+00:00",
+        "updated_at": "2026-11-04T05:18:01.033355+00:00"
+      },
+      {
+        "memory": "Caroline received a necklace featuring a cross and a heart from her grandmother in Sweden when she was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.25309533376383897,
+        "id": "6e0f15fb-ec6b-4267-9d39-80dfebcb21a7",
+        "created_at": "2026-11-04T05:17:48.250489+00:00",
+        "updated_at": "2026-11-04T05:17:48.250489+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago (around 2013), which she associates with art and self-expression due to its pattern and colors.",
+        "score": 0.25242097207156355,
+        "id": "3cd41221-2dc3-4b8f-a1c8-0bb98977c4d7",
+        "created_at": "2026-11-04T05:18:14.158059+00:00",
+        "updated_at": "2026-11-04T05:18:14.158059+00:00"
+      }
+    ],
+    "search_latency_ms": 126.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A necklace featuring a cross and a heart",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the gift as a necklace, which matches the gold answer, and adds specific details about the design."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A necklace featuring a cross and a heart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the gift as a necklace, which matches the gold answer, and adds specific details about the design."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A necklace featuring a cross and a heart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the gift as a necklace, which matches the gold answer, and adds specific details about the design."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A necklace featuring a cross and a heart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the gift as a necklace, which matches the gold answer, and adds specific details about the design."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D8:6"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Mel and her kids paint in their latest project in July 2023?",
-    "search_results": [],
-    "search_latency_ms": 21.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie is planning to create several new paintings inspired by the autumn season in late August 2023.",
+        "score": 0.7296778655873428,
+        "id": "ea5c7ae1-889f-4f3f-96e7-27c89dc93922",
+        "created_at": "2026-11-04T05:59:56.629710+00:00",
+        "updated_at": "2026-11-04T05:59:56.629710+00:00"
+      },
+      {
+        "memory": "Melanie and her kids enjoy painting together, particularly nature-inspired pieces, and created a new painting of a sunset with a palm tree on the weekend of July 8-9, 2023.",
+        "score": 0.6670593336343354,
+        "id": "452741cc-f1a6-4688-b224-a74b0e809fd9",
+        "created_at": "2026-11-04T05:23:15.850712+00:00",
+        "updated_at": "2026-11-04T05:23:15.850712+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting nature-inspired artwork with her children, including a recent piece from July 8-9, 2023 featuring a sunset with a palm tree.",
+        "score": 0.6587185014164596,
+        "id": "2cf8bc8f-139b-416a-9875-e1097288fd3d",
+        "created_at": "2026-11-04T05:23:30.968905+00:00",
+        "updated_at": "2026-11-04T05:23:30.968905+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview image of a painting with a blue and yellow design for her upcoming LGBTQ art show with Melanie on July 17, 2023.",
+        "score": 0.6525901551668408,
+        "id": "8ce4d1fa-065a-43ee-bd82-db10c646b8fd",
+        "created_at": "2026-11-04T05:25:06.660545+00:00",
+        "updated_at": "2026-11-04T05:25:06.660545+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview painting for her upcoming art show with Melanie on July 17, 2023; the artwork depicts a tree with a bright sun in the background.",
+        "score": 0.6492187271777348,
+        "id": "33fb8af3-2947-4776-bdfa-51fce3c3344b",
+        "created_at": "2026-11-04T05:51:41.968582+00:00",
+        "updated_at": "2026-11-04T05:51:41.968582+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.6316668087252982,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.6310972275608516,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "During the July 14, 2023 pottery workshop, Melanie's kids were excited to get their hands dirty and created a cup with a dog face on it.",
+        "score": 0.6307338022935393,
+        "id": "984238f2-ee50-45fc-bc2c-2204a7d7f630",
+        "created_at": "2026-11-04T05:23:30.965264+00:00",
+        "updated_at": "2026-11-04T05:23:30.965264+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6305007905375682,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.6298094051778851,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie was feeling inspired by autumn in late August 2023 and was planning to create several new paintings based on the season.",
+        "score": 0.6298003971219657,
+        "id": "076f04d4-9606-4cd6-b1db-1f297543c4e9",
+        "created_at": "2026-11-04T06:00:01.346102+00:00",
+        "updated_at": "2026-11-04T06:00:01.346102+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.6251913578995026,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      },
+      {
+        "memory": "Melanie shared an image of a painted canvas with the message 'follow your dreams' in July 2023, stating it reminded her to always pursue her dreams",
+        "score": 0.6228545256574115,
+        "id": "d72afbae-544e-4f76-ba8d-aa183bfa1a8c",
+        "created_at": "2026-11-04T05:22:23.934371+00:00",
+        "updated_at": "2026-11-04T05:22:23.934371+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview of her painting for the upcoming LGBTQ art show on July 17, 2023, which depicts a tree with a bright sun in the background.",
+        "score": 0.6205946966464138,
+        "id": "4afc1b78-0e0b-4cc3-945f-52d946d34250",
+        "created_at": "2026-11-04T05:51:39.233709+00:00",
+        "updated_at": "2026-11-04T05:51:39.233709+00:00"
+      },
+      {
+        "memory": "One of Melanie's kids made a cup with a dog face design during the family pottery workshop on July 14, 2023.",
+        "score": 0.6195433142089204,
+        "id": "7af7659e-d352-48c1-9e68-a2ac46432133",
+        "created_at": "2026-11-04T05:23:11.566468+00:00",
+        "updated_at": "2026-11-04T05:23:11.566468+00:00"
+      },
+      {
+        "memory": "Melanie took her two younger kids to the museum on July 5, 2023, enjoying watching their eyes light up during the visit.",
+        "score": 0.6087854988480351,
+        "id": "d29eacf2-7177-43af-af2b-1f5599696b4b",
+        "created_at": "2026-11-04T05:21:25.448503+00:00",
+        "updated_at": "2026-11-04T05:21:25.448503+00:00"
+      },
+      {
+        "memory": "Melanie and her kids collaborated on a nature-inspired painting of a sunset with a palm tree, which they described as a bonding experience where they chatted about nature while working together.",
+        "score": 0.593006940531136,
+        "id": "bc11380b-afc4-46f2-8f4f-1576c4936cdd",
+        "created_at": "2026-11-04T05:23:20.330485+00:00",
+        "updated_at": "2026-11-04T05:23:20.330485+00:00"
+      },
+      {
+        "memory": "Melanie is planning several new art projects inspired by autumn, as discussed in a conversation with Caroline on August 25, 2023.",
+        "score": 0.591336238456966,
+        "id": "99647058-0b2d-41a9-ac16-ca80ce281361",
+        "created_at": "2026-11-04T05:59:37.358429+00:00",
+        "updated_at": "2026-11-04T05:59:37.358429+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.5906263773867367,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a vibrant sunset beach painting she just finished on August 25, 2023, noting that she has been busy painting and has not yet tried pottery",
+        "score": 0.5875540420501861,
+        "id": "96b1dd19-2e64-4061-bfb7-2141d5364996",
+        "created_at": "2026-11-04T05:57:20.954148+00:00",
+        "updated_at": "2026-11-04T05:57:20.954148+00:00"
+      }
+    ],
+    "search_latency_ms": 126.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a sunset with a palm tree",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is identical to the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a sunset with a palm tree",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a sunset with a palm tree",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a sunset with a palm tree",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is identical to the gold answer."
     }
   }
 }

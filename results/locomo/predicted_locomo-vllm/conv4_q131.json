@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q131",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Tim have that serves as a reminder of hard work and is his prized possession?",
+  "ground_truth_answer": "a basketball signed by his favorite player",
+  "evidence": [
+    "D16:7"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What does Tim have that serves as a reminder of hard work and is his prized possession?",
+    "search_results": [
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he keeps in a case as a reminder of his hard work.",
+        "score": 0.8609296890928855,
+        "id": "01b49816-8702-4563-bacf-37a64a09b384",
+        "created_at": "2026-11-03T09:22:17.833227+00:00",
+        "updated_at": "2026-11-03T09:22:17.833227+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, whom he admires for his determination and 'never give up' attitude.",
+        "score": 0.831202045441479,
+        "id": "b2c71cad-818f-4f63-b570-5add57710876",
+        "created_at": "2026-11-03T09:22:32.324062+00:00",
+        "updated_at": "2026-11-03T09:22:32.324062+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by LeBron James, his favorite player, whom he admires for his determination and heart.",
+        "score": 0.827783555205332,
+        "id": "247edbb1-1fc4-4d3e-b95f-42e5b0b85e07",
+        "created_at": "2026-11-03T09:22:52.056125+00:00",
+        "updated_at": "2026-11-03T09:22:52.056125+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by LeBron James, whom he admires for his determination and heart, particularly recalling an epic block in Game 7 of the 2016 NBA Finals against Iguodala.",
+        "score": 0.8260493329417373,
+        "id": "2b285de9-7edb-422d-8f37-74d1e75b2103",
+        "created_at": "2026-11-03T09:23:13.514276+00:00",
+        "updated_at": "2026-11-03T09:23:13.514276+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
+        "score": 0.8197312944344117,
+        "id": "31196cac-4beb-410d-8c13-010e32d84735",
+        "created_at": "2026-11-03T09:22:24.102935+00:00",
+        "updated_at": "2026-11-03T09:22:24.102935+00:00"
+      },
+      {
+        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off.",
+        "score": 0.8132686320746206,
+        "id": "07726ce3-c976-4c10-8b70-c5c2f07d7e83",
+        "created_at": "2026-11-03T09:19:51.798483+00:00",
+        "updated_at": "2026-11-03T09:19:51.798483+00:00"
+      },
+      {
+        "memory": "Tim's favorite basketball player is LeBron James, and he owns a prized possession: a basketball signed by LeBron. Tim was inspired by an epic block LeBron made in Game 7 of the 2016 NBA Finals against Iguodala, which changed the game and led to a win.",
+        "score": 0.8034324374457678,
+        "id": "dc1d134b-f3ad-4a0a-8cdb-cf5147aebb1d",
+        "created_at": "2026-11-03T09:22:55.801735+00:00",
+        "updated_at": "2026-11-03T09:22:55.801735+00:00"
+      },
+      {
+        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
+        "score": 0.798622110373189,
+        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
+        "created_at": "2026-11-03T09:19:36.424804+00:00",
+        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+      },
+      {
+        "memory": "Tim found the discussion about overcoming challenges to be a great reminder for his own work as a writer, following a recent experience where he got stuck on a plot twist but eventually pushed through it.",
+        "score": 0.7067732657146261,
+        "id": "3f055a98-bdc7-4f2e-988f-747a15904797",
+        "created_at": "2026-11-03T09:22:02.722438+00:00",
+        "updated_at": "2026-11-03T09:22:02.722438+00:00"
+      },
+      {
+        "memory": "Tim's study method involves breaking studying into smaller parts using a 25-minute work and 5-minute break cycle for something fun, which he finds less overwhelming and keeps him on track",
+        "score": 0.6371174842853166,
+        "id": "9dc113fc-421b-483a-8fb4-3f5ba8ee725b",
+        "created_at": "2026-11-03T09:26:25.483299+00:00",
+        "updated_at": "2026-11-03T09:26:25.483299+00:00"
+      },
+      {
+        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
+        "score": 0.614836738689019,
+        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
+        "created_at": "2026-11-03T09:29:03.711964+00:00",
+        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading fantasy novels because they fire up his imagination, take him to alternate realities, and serve as an escape from reality.",
+        "score": 0.5930121850586717,
+        "id": "555969aa-318a-47b0-9419-026ee8353911",
+        "created_at": "2026-11-03T09:17:03.537031+00:00",
+        "updated_at": "2026-11-03T09:17:03.537031+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.5871759139343646,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.5871759139343646,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.5783766351558559,
+        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
+        "created_at": "2026-11-03T09:28:43.322745+00:00",
+        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
+        "score": 0.5728659632683326,
+        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
+        "created_at": "2026-11-03T09:30:53.131364+00:00",
+        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+      },
+      {
+        "memory": "Tim is swamped with exams in November 2023 and is plowing through them while feeling optimistic and working diligently.",
+        "score": 0.5540542375924564,
+        "id": "79dd20b7-4ef7-4285-9d0e-7be1d1b6354c",
+        "created_at": "2026-11-03T09:25:39.144555+00:00",
+        "updated_at": "2026-11-03T09:25:39.144555+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
+        "score": 0.5500765037795464,
+        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
+        "created_at": "2026-11-03T09:20:07.698691+00:00",
+        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+      },
+      {
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
+        "score": 0.5492182501717077,
+        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
+        "created_at": "2026-11-03T09:21:27.127661+00:00",
+        "updated_at": "2026-11-03T09:21:27.127661+00:00"
+      },
+      {
+        "memory": "Tim states that he will always love reading, identifying it as a lifelong passion.",
+        "score": 0.2927174803300481,
+        "id": "a90184f9-79a2-42bb-ac05-77e9b6292f49",
+        "created_at": "2026-11-03T09:36:18.492247+00:00",
+        "updated_at": "2026-11-03T09:36:18.492247+00:00"
+      }
+    ],
+    "search_latency_ms": 155.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A basketball signed by LeBron James",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core object (a signed basketball) and specifies the player (LeBron James), which aligns with the gold answer's 'favorite player' and satisfies the partial credit and semantic overlap rules."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A basketball signed by LeBron James",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core object (a signed basketball) and specifies the player (LeBron James), which aligns with the gold answer's 'favorite player' and satisfies the partial credit and semantic overlap rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A basketball signed by LeBron James",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core object (a signed basketball) and specifies the player (LeBron James), which aligns with the gold answer's 'favorite player' and satisfies the partial credit and semantic overlap rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A basketball signed by LeBron James",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core object (a signed basketball) and specifies the player (LeBron James), which aligns with the gold answer's 'favorite player' and satisfies the partial credit and semantic overlap rules."
+    }
+  }
+}

@@ -8,42 +8,183 @@
   "evidence": [
     "D2:2"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did the charity race raise awareness for?",
-    "search_results": [],
-    "search_latency_ms": 27.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie ran a charity race for mental health on May 21, 2023, and found the experience rewarding as it made her reflect on the importance of taking care of their minds",
+        "score": 0.8102722233072412,
+        "id": "dee1aa03-dfaa-4293-affd-b0f743cc82a7",
+        "created_at": "2026-11-04T05:15:23.901063+00:00",
+        "updated_at": "2026-11-04T05:15:23.901063+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ conference on July 10, 2023, reinforced Caroline's commitment to fighting for trans rights and spreading awareness within the community.",
+        "score": 0.5451393191352802,
+        "id": "c70217a9-59b9-40ed-a70c-bb2c26baff79",
+        "created_at": "2026-11-04T05:22:00.063196+00:00",
+        "updated_at": "2026-11-04T05:22:00.063196+00:00"
+      },
+      {
+        "memory": "Caroline described an advocacy event as a cool experience characterized by love and support, sharing a photo of a concert poster featuring a man in the context of the conversation.",
+        "score": 0.1481887020622264,
+        "id": "1bb4bc08-5e0e-44b3-962a-31176ea0b078",
+        "created_at": "2026-11-04T05:53:22.829083+00:00",
+        "updated_at": "2026-11-04T05:53:22.829083+00:00"
+      },
+      {
+        "memory": "Melanie spent the day volunteering at a homeless shelter with her family on August 24, 2023, finding it hard to see neglected people but rewarding to feel like they could make a difference",
+        "score": 0.1481271096332269,
+        "id": "de00b8bb-88e9-4302-9397-54676071b6bd",
+        "created_at": "2026-11-04T05:57:49.622661+00:00",
+        "updated_at": "2026-11-04T05:57:49.622661+00:00"
+      },
+      {
+        "memory": "Melanie spent August 24, 2023, volunteering at a homeless shelter with her family, describing the experience as hard to see how neglected some people are but great to feel like they were making a difference.",
+        "score": 0.14791395169781982,
+        "id": "0ecdc590-3c29-4f90-ae14-418a350ed853",
+        "created_at": "2026-11-04T05:58:53.110551+00:00",
+        "updated_at": "2026-11-04T05:58:53.110551+00:00"
+      },
+      {
+        "memory": "Melanie spent the day with her family volunteering at a homeless shelter on August 24, 2023, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.14754293057559692,
+        "id": "2f596526-886e-4624-8c9f-fee9f7ab4a05",
+        "created_at": "2026-11-04T05:58:00.812063+00:00",
+        "updated_at": "2026-11-04T05:58:00.812063+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to have a platform to be herself, support others' rights, and make a real difference in the community.",
+        "score": 0.14693726576840463,
+        "id": "eb66f416-37d3-4361-b9b3-c82784a0691e",
+        "created_at": "2026-11-04T05:52:40.064137+00:00",
+        "updated_at": "2026-11-04T05:52:40.064137+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see how neglected some people are but great to feel like they could make a difference.",
+        "score": 0.14479002578352912,
+        "id": "f5f978bd-b125-42c9-9052-174ca73def27",
+        "created_at": "2026-11-04T05:57:44.100333+00:00",
+        "updated_at": "2026-11-04T05:57:44.100333+00:00"
+      },
+      {
+        "memory": "Caroline's activist group, 'Connected LGBTQ Activists', holds regular meetings and plans events and campaigns to promote positive change and inclusivity.",
+        "score": 0.1434222988380245,
+        "id": "a7d234e3-e4ee-4c27-957f-75e60cd1e242",
+        "created_at": "2026-11-04T05:52:44.898203+00:00",
+        "updated_at": "2026-11-04T05:52:44.898203+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.1419153883526222,
+        "id": "7d60aa81-3e7e-4e1b-9b2b-55c556fb3234",
+        "created_at": "2026-11-04T05:58:44.944953+00:00",
+        "updated_at": "2026-11-04T05:58:44.944953+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.1402295001770535,
+        "id": "3acfcf1c-14eb-478d-8555-bd137a2a6aaa",
+        "created_at": "2026-11-04T05:58:39.157054+00:00",
+        "updated_at": "2026-11-04T05:58:39.157054+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.1402295001770535,
+        "id": "b7bdfd7a-7c6e-44d1-bbe6-60dace627a17",
+        "created_at": "2026-11-04T05:57:38.759126+00:00",
+        "updated_at": "2026-11-04T05:57:38.759126+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.13971937754587646,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline volunteered at an LGBTQ+ youth center around late August 2023, finding it gratifying to support young people and share her personal story to help them feel less alone.",
+        "score": 0.13925192377483234,
+        "id": "5ed44491-1827-4c2c-a279-b946024b2c24",
+        "created_at": "2026-11-04T06:00:23.811079+00:00",
+        "updated_at": "2026-11-04T06:00:23.811079+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.13794314619012446,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "The 'Connected LGBTQ Activists' group holds regular meetings and plans events and campaigns to promote positive changes and support each other.",
+        "score": 0.13612286750651528,
+        "id": "7b07f33a-1b3e-4bb7-8b82-0cb242ffc4a7",
+        "created_at": "2026-11-04T05:52:40.066334+00:00",
+        "updated_at": "2026-11-04T05:52:40.066334+00:00"
+      },
+      {
+        "memory": "Caroline's LGBTQ activist group is named 'Connected LGBTQ Activists' and consists of diverse members who invest in positive changes, holding regular meetings to plan events and campaigns while supporting one another.",
+        "score": 0.1354330937101146,
+        "id": "1782a52f-5d41-46a1-9cb2-c4c85c15b9ec",
+        "created_at": "2026-11-04T05:52:14.917277+00:00",
+        "updated_at": "2026-11-04T05:52:14.917277+00:00"
+      },
+      {
+        "memory": "Caroline decided to continue volunteering at the LGBTQ+ youth center because she values community and supporting others, having made strong connections with the people there.",
+        "score": 0.13515109226638544,
+        "id": "76c8e730-b523-469b-9d5d-22c7152a97a6",
+        "created_at": "2026-11-04T06:00:34.437818+00:00",
+        "updated_at": "2026-11-04T06:00:34.437818+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.13295779266607943,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to speak her truth and support community rights.",
+        "score": 0.131909360469881,
+        "id": "2dfdc026-8371-4fcb-8ef4-015afc5afa30",
+        "created_at": "2026-11-04T05:52:44.894741+00:00",
+        "updated_at": "2026-11-04T05:52:44.894741+00:00"
+      }
+    ],
+    "search_latency_ms": 97.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "mental health",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

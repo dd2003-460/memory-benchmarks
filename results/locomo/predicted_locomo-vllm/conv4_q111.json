@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q111",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of venue did John and his girlfriend choose for their wedding ceremony?",
+  "ground_truth_answer": "Greenhouse",
+  "evidence": [
+    "D12:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What type of venue did John and his girlfriend choose for their wedding ceremony?",
+    "search_results": [
+      {
+        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe while celebrating with loved ones.",
+        "score": 0.8950423612825824,
+        "id": "88f2275c-52cc-4712-906b-49be797d7e81",
+        "created_at": "2026-11-03T09:16:21.061118+00:00",
+        "updated_at": "2026-11-03T09:16:21.061118+00:00"
+      },
+      {
+        "memory": "John and his girlfriend had an amazing and emotional wedding ceremony in a greenhouse venue around September 25, 2023, which was a smaller, intimate gathering where they followed safety protocols to ensure everyone felt safe.",
+        "score": 0.8589404449676585,
+        "id": "a9cea8af-5810-403f-bc51-d6ef7e891b58",
+        "created_at": "2026-11-03T09:16:27.180512+00:00",
+        "updated_at": "2026-11-03T09:16:27.180512+00:00"
+      },
+      {
+        "memory": "Some of John's hiking club friends attended his wedding ceremony in a greenhouse around September 25, 2023, even though he had only recently joined the club.",
+        "score": 0.8395796411786938,
+        "id": "7a694165-bc68-4d0d-9f8c-0646627fbae1",
+        "created_at": "2026-11-03T09:16:32.616110+00:00",
+        "updated_at": "2026-11-03T09:16:32.616110+00:00"
+      },
+      {
+        "memory": "John has recently joined a hiking club, and some of his friends from the club attended his wedding ceremony around September 25, 2023, despite him having just joined the group.",
+        "score": 0.8346234360201862,
+        "id": "53e38743-c8e5-4f4c-ad15-a3f9c2827da2",
+        "created_at": "2026-11-03T09:16:27.184379+00:00",
+        "updated_at": "2026-11-03T09:16:27.184379+00:00"
+      },
+      {
+        "memory": "John and his girlfriend had an amazing and emotional wedding ceremony in a greenhouse around September 25, 2023, where guests took pictures during the event.",
+        "score": 0.8334696989395571,
+        "id": "f90d5be9-60a8-456d-a856-27890c261b35",
+        "created_at": "2026-11-03T09:16:16.319210+00:00",
+        "updated_at": "2026-11-03T09:16:16.319210+00:00"
+      },
+      {
+        "memory": "John's favorite memory from his wedding on October 2, 2023, was seeing his wife walk down the aisle, a moment that made him emotional and choked up with happiness.",
+        "score": 0.6371935685405872,
+        "id": "3ce98b16-5e87-4fe6-bbec-e9c09b7e8bcb",
+        "created_at": "2026-11-03T09:16:32.611852+00:00",
+        "updated_at": "2026-11-03T09:16:32.611852+00:00"
+      },
+      {
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
+        "score": 0.6366125522161213,
+        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
+        "created_at": "2026-11-03T09:16:41.057223+00:00",
+        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+      },
+      {
+        "memory": "Tim saw a photo of John and his wife dancing at their wedding on October 2, 2023, and expressed interest in hearing more about the moment.",
+        "score": 0.6220289743747466,
+        "id": "1f86c352-2846-49a2-b271-a831d1110d74",
+        "created_at": "2026-11-03T09:16:37.125162+00:00",
+        "updated_at": "2026-11-03T09:16:37.125162+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.25649766401224605,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
+        "score": 0.21149519081452633,
+        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
+        "created_at": "2026-11-03T09:23:39.179743+00:00",
+        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.20224643300669123,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.20013527503570977,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.1999833272058294,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.19992821116793677,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
+        "score": 0.19504811406435368,
+        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
+        "created_at": "2026-11-03T09:33:32.675244+00:00",
+        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.19410904749325997,
+        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
+        "created_at": "2026-11-03T09:33:30.168403+00:00",
+        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.19410904749325997,
+        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
+        "created_at": "2026-11-03T09:33:27.522504+00:00",
+        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+      },
+      {
+        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
+        "score": 0.19359239755842778,
+        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
+        "created_at": "2026-11-03T09:20:44.106791+00:00",
+        "updated_at": "2026-11-03T09:20:44.106791+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
+        "score": 0.19240312660646172,
+        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
+        "created_at": "2026-11-03T09:33:20.568634+00:00",
+        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+      },
+      {
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.18234743251030536,
+        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
+        "created_at": "2026-11-03T09:29:57.860185+00:00",
+        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+      }
+    ],
+    "search_latency_ms": 138.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "greenhouse",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'greenhouse' is an exact match to the gold answer 'Greenhouse'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "greenhouse",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'greenhouse' is an exact match to the gold answer 'Greenhouse'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "greenhouse",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'greenhouse' is an exact match to the gold answer 'Greenhouse'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "greenhouse",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'greenhouse' is an exact match to the gold answer 'Greenhouse'."
+    }
+  }
+}

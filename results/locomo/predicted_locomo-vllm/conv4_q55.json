@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q55",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John start playing professionally?",
+  "ground_truth_answer": "May, 2023",
+  "evidence": [
+    "D1:3",
+    "D21:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When did John start playing professionally?",
+    "search_results": [
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.6727372974248632,
+        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
+        "created_at": "2026-11-03T09:30:37.455079+00:00",
+        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.6727372974248632,
+        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
+        "created_at": "2026-11-03T09:30:34.559013+00:00",
+        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
+        "score": 0.666501967060705,
+        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
+        "created_at": "2026-11-03T09:30:29.897962+00:00",
+        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing his first season in the pros as a wild ride.",
+        "score": 0.6664352812597263,
+        "id": "50475683-5fc9-49f0-bd54-be3712eb6feb",
+        "created_at": "2026-11-03T09:30:21.639635+00:00",
+        "updated_at": "2026-11-03T09:30:21.639635+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6544030434708848,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.6509188662644791,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.6486682211857733,
+        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
+        "created_at": "2026-11-03T09:07:35.938549+00:00",
+        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
+        "score": 0.6438835536934688,
+        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
+        "created_at": "2026-11-03T09:15:54.760026+00:00",
+        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.641407248131699,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.6367756599755295,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.6341929667520507,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who recently found a new gym to maintain his fitness, noting that staying fit is essential for surviving in pro ball.",
+        "score": 0.629870104633791,
+        "id": "11974f98-44e1-41d4-bc42-0a93888952bc",
+        "created_at": "2026-11-03T09:09:22.068324+00:00",
+        "updated_at": "2026-11-03T09:09:22.068324+00:00"
+      },
+      {
+        "memory": "John continued playing basketball through middle and high school before earning a college scholarship, and was drafted by a professional team after college, which he describes as his dream come true.",
+        "score": 0.6197781606124053,
+        "id": "5debabf9-1707-47f7-a97b-a6f8536cb8b2",
+        "created_at": "2026-11-03T09:07:35.943681+00:00",
+        "updated_at": "2026-11-03T09:07:35.943681+00:00"
+      },
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.6175719813678158,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improving his overall game on the court, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6163860219693074,
+        "id": "18996d25-1e0d-4d9f-9ace-c14339f29067",
+        "created_at": "2026-11-03T09:30:34.563515+00:00",
+        "updated_at": "2026-11-03T09:30:34.563515+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.6157289610987134,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.6157031751534151,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John suffered a major ankle injury last season (around 2022) that required time off and physical therapy, which was a frustrating mental and physical challenge because he could not play or help his team.",
+        "score": 0.611710789144203,
+        "id": "ffec463d-d335-4f51-acf0-e3bcfde5f165",
+        "created_at": "2026-11-03T09:27:28.123489+00:00",
+        "updated_at": "2026-11-03T09:27:28.123489+00:00"
+      },
+      {
+        "memory": "John started conducting seminars around late December 2023, helping people with their sports and marketing efforts, which he found to be an awesome experience.",
+        "score": 0.6090588552857568,
+        "id": "14e58c52-e9b9-4ffc-8b5b-f79534fa266c",
+        "created_at": "2026-11-03T09:34:11.776947+00:00",
+        "updated_at": "2026-11-03T09:34:11.776947+00:00"
+      },
+      {
+        "memory": "John started conducting seminars in late December 2023, helping aspiring professionals with sports and marketing, and found the experience rewarding as participants were eager and motivated.",
+        "score": 0.6026546919714758,
+        "id": "7cf9741e-fb76-485e-8fd6-63604bc46a05",
+        "created_at": "2026-11-03T09:34:23.205177+00:00",
+        "updated_at": "2026-11-03T09:34:23.205177+00:00"
+      }
+    ],
+    "search_latency_ms": 107.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John started playing professionally in late 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states 'late 2022', which is more than 14 days away from the gold answer 'May, 2023', and does not contain any correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "late 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'late 2022' is more than 14 days away from the gold answer 'May, 2023' and does not match the specific month or year."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "late 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'late 2022' is more than 14 days away from the gold answer 'May, 2023' and does not match the specific month or year."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "late 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'late 2022' is more than 14 days away from the gold answer 'May, 2023' and does not match the specific month or year."
+    }
+  }
+}

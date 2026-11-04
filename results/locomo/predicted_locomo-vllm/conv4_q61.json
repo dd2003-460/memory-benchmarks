@@ -1,0 +1,195 @@
+{
+  "question_id": "conv4_q61",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What books has John read?",
+  "ground_truth_answer": "inpsiring book on dreaming big, The Alchemist, fantasy series, non-fiction books on personal development, Dune",
+  "evidence": [
+    "D4:10",
+    "D11:26",
+    "D17:9",
+    "D19:16",
+    "D19:20",
+    "D22:12"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What books has John read?",
+    "search_results": [
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
+        "score": 0.6747355165236264,
+        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
+        "created_at": "2026-11-03T09:19:26.762706+00:00",
+        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+      },
+      {
+        "memory": "John enjoys reading non-fiction books about personal development and mindset, which he says help him know himself better.",
+        "score": 0.6694200992030602,
+        "id": "234e0a6a-299a-4214-96a3-6bf16309b929",
+        "created_at": "2026-11-03T09:28:05.932979+00:00",
+        "updated_at": "2026-11-03T09:28:05.932979+00:00"
+      },
+      {
+        "memory": "John has not yet read any of George R. R. Martin's books, including the Game of Thrones series, but expressed interest in checking them out after Tim mentioned reading 'A Dance with Dragons'.",
+        "score": 0.6533753459511413,
+        "id": "586ba2db-4398-4278-8e39-9418d8c27fd7",
+        "created_at": "2026-11-03T09:31:33.381912+00:00",
+        "updated_at": "2026-11-03T09:31:33.381912+00:00"
+      },
+      {
+        "memory": "John has a favorite fantasy book, The Hobbit, and also enjoys another popular fantasy series, appreciating how these books allow him to escape reality and experience magical adventures in different worlds.",
+        "score": 0.6476583293548528,
+        "id": "991dd4e1-4a30-4659-b023-a17576639020",
+        "created_at": "2026-11-03T09:29:45.880997+00:00",
+        "updated_at": "2026-11-03T09:29:45.880997+00:00"
+      },
+      {
+        "memory": "John has read 'The Hobbit' and considers it one of his favorite books, sharing this interest with Tim who also enjoys the series.",
+        "score": 0.6432279913243806,
+        "id": "360fd9ad-1cd1-4943-994d-7e688836cc44",
+        "created_at": "2026-11-03T09:29:29.495345+00:00",
+        "updated_at": "2026-11-03T09:29:29.495345+00:00"
+      },
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.6403263072160039,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies, and asked Tim if Harry Potter and Game of Thrones are still his favorites.",
+        "score": 0.633187670360191,
+        "id": "6d08c55c-f060-49b6-91a3-86c3f863454f",
+        "created_at": "2026-11-03T09:27:39.703564+00:00",
+        "updated_at": "2026-11-03T09:27:39.703564+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.627587763561836,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a worn copy of 'A Storm of Swords' from the Game of Thrones series with John on November 11, 2023, mentioning that he has been reading as usual.",
+        "score": 0.6241407642126748,
+        "id": "a5649d4d-332b-400d-91a5-f98bc2c66df4",
+        "created_at": "2026-11-03T09:23:39.184894+00:00",
+        "updated_at": "2026-11-03T09:23:39.184894+00:00"
+      },
+      {
+        "memory": "Tim has read the Game of Thrones (GoT) series by George R. R. Martin but has not read any other books by the author.",
+        "score": 0.6238893637131824,
+        "id": "868caca8-d8f9-43d5-b778-93c98ee077bd",
+        "created_at": "2026-11-03T09:31:36.074747+00:00",
+        "updated_at": "2026-11-03T09:31:36.074747+00:00"
+      },
+      {
+        "memory": "John recently finished reading an unnamed fantasy series and described it as a wild ride with many twists, praising the author for creating awesome storylines and characters that allow him to get lost in fantasy worlds.",
+        "score": 0.6230676656772766,
+        "id": "af8248ed-c51f-4af7-b297-971a19843cbf",
+        "created_at": "2026-11-03T09:24:27.736763+00:00",
+        "updated_at": "2026-11-03T09:24:27.736763+00:00"
+      },
+      {
+        "memory": "John enjoys reading books as a way to relax and unwind, describing it as his 'chill time' when he is away from the basketball court.",
+        "score": 0.6193378391124376,
+        "id": "0ea6b895-c851-4b97-aa63-ab9530453852",
+        "created_at": "2026-11-03T09:21:03.778822+00:00",
+        "updated_at": "2026-11-03T09:21:03.778822+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, describing it as really good.",
+        "score": 0.6180366766847315,
+        "id": "1b18e936-ef83-4d2f-b45d-2445ac84e12c",
+        "created_at": "2026-11-03T09:38:08.165227+00:00",
+        "updated_at": "2026-11-03T09:38:08.165227+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, who added it to his reading list.",
+        "score": 0.6124693712023297,
+        "id": "9191f56c-d8b6-40c3-b7fe-e0b705a4b9b0",
+        "created_at": "2026-11-03T09:38:13.160390+00:00",
+        "updated_at": "2026-11-03T09:38:13.160390+00:00"
+      },
+      {
+        "memory": "John is currently reading 'Dune' by Frank Herbert, describing it as a great story about religion and human control over ecology.",
+        "score": 0.610931716684206,
+        "id": "5336285c-6acb-44e3-8f19-c2fe200963d5",
+        "created_at": "2026-11-03T09:31:24.371703+00:00",
+        "updated_at": "2026-11-03T09:31:24.371703+00:00"
+      },
+      {
+        "memory": "John is currently reading 'Dune' by Frank Herbert, describing it as a great story about religion and human control over ecology.",
+        "score": 0.610931716684206,
+        "id": "579c2993-636b-4b00-b9bb-a10f8aba3301",
+        "created_at": "2026-11-03T09:31:45.163085+00:00",
+        "updated_at": "2026-11-03T09:31:45.163085+00:00"
+      },
+      {
+        "memory": "Tim recommended the fantasy novel 'The Name of the Wind' by Patrick Rothfuss to John as a great book to read while traveling, noting it takes readers to a different world.",
+        "score": 0.6082695300647003,
+        "id": "abbb4a41-55a5-40e9-8c70-b03dbf4fd9ac",
+        "created_at": "2026-11-03T09:15:54.776779+00:00",
+        "updated_at": "2026-11-03T09:15:54.776779+00:00"
+      },
+      {
+        "memory": "John read 'The Alchemist' and loved it, noting that it made him think about life and the importance of following one's dreams, and he highly recommends it to others.",
+        "score": 0.6071894148315049,
+        "id": "2d4ab98a-f780-4268-914b-dd33c3619fd3",
+        "created_at": "2026-11-03T09:16:03.033348+00:00",
+        "updated_at": "2026-11-03T09:16:03.033348+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and recommends it to John.",
+        "score": 0.6066995586357063,
+        "id": "55b8998c-d653-433b-a124-d26742ea5eb1",
+        "created_at": "2026-11-03T09:37:55.814264+00:00",
+        "updated_at": "2026-11-03T09:37:55.814264+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.6050623213955916,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      }
+    ],
+    "search_latency_ms": 102.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The Hobbit",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'The Hobbit' is not present in the gold answer list, which includes 'The Alchemist', 'Dune', and general categories like 'fantasy series' or 'non-fiction books on personal development'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has read 'The Alchemist' and 'The Hobbit'. He is currently reading 'Dune'. He also recently finished reading an unnamed fantasy series and is reading a cooking book he purchased in Italy.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies 'The Alchemist', 'Dune', and a 'fantasy series' from the gold answer list, satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has read 'The Alchemist' and 'The Hobbit', and is currently reading 'Dune'.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'The Alchemist' and 'Dune', which are both present in the gold answer list, satisfying the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has read 'The Alchemist' and 'The Hobbit', and is currently reading 'Dune'.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'The Alchemist' and 'Dune', which are both present in the gold answer list, satisfying the partial credit rule."
+    }
+  }
+}

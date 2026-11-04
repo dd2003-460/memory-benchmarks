@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q158",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "In which area has John's team seen the most growth during training?",
+  "ground_truth_answer": "Communication and bonding",
+  "evidence": [
+    "D25:14"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "In which area has John's team seen the most growth during training?",
+    "search_results": [
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.7495981419422828,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.7471321664505567,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
+        "score": 0.6828916984024926,
+        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
+        "created_at": "2026-11-03T09:34:16.754297+00:00",
+        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+      },
+      {
+        "memory": "John's team participated in a scrimmage the week of December 18-24, 2023, where they gave it their all and observed significant growth in communication and bonding, which improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6408358926274981,
+        "id": "dc92065d-f7a7-418d-8dff-2f97ad60067e",
+        "created_at": "2026-11-03T09:34:11.783377+00:00",
+        "updated_at": "2026-11-03T09:34:11.783377+00:00"
+      },
+      {
+        "memory": "John's basketball team has seen the most growth in communication and bonding, which has improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6324042666334486,
+        "id": "0faf66fb-99c5-4663-ab4b-c85bbb363304",
+        "created_at": "2026-11-03T09:34:01.061702+00:00",
+        "updated_at": "2026-11-03T09:34:01.061702+00:00"
+      },
+      {
+        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
+        "score": 0.6277713261191492,
+        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
+        "created_at": "2026-11-03T09:33:56.779906+00:00",
+        "updated_at": "2026-11-03T09:33:56.779906+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.6266270584627243,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "Incorporating strength training improved John's shooting accuracy, agility, and speed, giving him an upper hand over opponents and boosting his confidence on the court.",
+        "score": 0.6243392303103006,
+        "id": "40ed420c-7fb1-4a10-a571-a9cbbd00809e",
+        "created_at": "2026-11-03T09:09:22.083167+00:00",
+        "updated_at": "2026-11-03T09:09:22.083167+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, emphasizing listening to his body and ensuring adequate rest to maintain performance during practice.",
+        "score": 0.6237527890936029,
+        "id": "1790bd58-3e4f-41bc-90f1-9f3b0c2934e9",
+        "created_at": "2026-11-03T09:09:06.580424+00:00",
+        "updated_at": "2026-11-03T09:09:06.580424+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6206293647441623,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout routine combining basketball-specific training and strength training after some trial and error, emphasizing listening to his body and ensuring adequate rest.",
+        "score": 0.6203925773019404,
+        "id": "eac7f40e-7544-4a93-a5ca-21602394cb2d",
+        "created_at": "2026-11-03T09:09:22.073753+00:00",
+        "updated_at": "2026-11-03T09:09:22.073753+00:00"
+      },
+      {
+        "memory": "John states that incorporating strength training significantly improved his basketball performance by enhancing shooting accuracy, agility, and speed, giving him a competitive edge over opponents and boosting his confidence.",
+        "score": 0.6185791616228667,
+        "id": "f3d32b27-0235-4e7a-ac3d-d61246baade6",
+        "created_at": "2026-11-03T09:09:15.444097+00:00",
+        "updated_at": "2026-11-03T09:09:15.444097+00:00"
+      },
+      {
+        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
+        "score": 0.6149827189116652,
+        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
+        "created_at": "2026-11-03T09:00:00.851565+00:00",
+        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+      },
+      {
+        "memory": "John found adapting to his new gym routine challenging, noting that finding the right balance was tricky but he eventually got the hang of it while training for professional basketball.",
+        "score": 0.6143442771932432,
+        "id": "134a230e-c71e-47f7-9a83-62510121b0f8",
+        "created_at": "2026-11-03T09:09:02.227075+00:00",
+        "updated_at": "2026-11-03T09:09:02.227075+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he saw the children's faces light up and witnessed their personal growth.",
+        "score": 0.6092837555718787,
+        "id": "229bc0ba-9bb9-452b-a835-5ec82d8fe8d9",
+        "created_at": "2026-11-03T09:35:05.194570+00:00",
+        "updated_at": "2026-11-03T09:35:05.194570+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
+        "score": 0.604946473847378,
+        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
+        "created_at": "2026-11-03T09:30:29.897962+00:00",
+        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience where he inspired young athletes and saw their potential.",
+        "score": 0.5994169180973627,
+        "id": "807154bf-2885-4001-ba0a-6011b7e030c8",
+        "created_at": "2026-11-03T09:34:58.108399+00:00",
+        "updated_at": "2026-11-03T09:34:58.108399+00:00"
+      },
+      {
+        "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience filled with laughs, high-fives, and personal growth.",
+        "score": 0.5994059237488281,
+        "id": "3c228632-9d74-47df-90ce-5c19bd1525d0",
+        "created_at": "2026-11-03T09:35:02.374809+00:00",
+        "updated_at": "2026-11-03T09:35:02.374809+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5960730147515325,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.5936157359637065,
+        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
+        "created_at": "2026-11-03T09:30:37.455079+00:00",
+        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+      }
+    ],
+    "search_latency_ms": 96.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "communication and bonding",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "communication and bonding",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

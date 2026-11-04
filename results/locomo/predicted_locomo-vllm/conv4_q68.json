@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q68",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "What day did Tim get into his study abroad program?",
+  "ground_truth_answer": "Januarty 5, 2024",
+  "evidence": [
+    "D28:1"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What day did Tim get into his study abroad program?",
+    "search_results": [
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on Friday, January 5, 2024.",
+        "score": 0.6967314328947971,
+        "id": "1f1ebad6-c86a-411a-90e5-0bf206943695",
+        "created_at": "2026-11-03T09:37:25.182040+00:00",
+        "updated_at": "2026-11-03T09:37:25.182040+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program on January 5, 2024, and is scheduled to depart for Ireland in February 2024 for a semester.",
+        "score": 0.692821753588251,
+        "id": "5291c00c-977f-4711-a9e5-0ef1d1ea5bdf",
+        "created_at": "2026-11-03T09:37:13.456011+00:00",
+        "updated_at": "2026-11-03T09:37:13.456011+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program on January 5, 2024, and is scheduled to depart for Ireland in February 2024 for a semester.",
+        "score": 0.692821753588251,
+        "id": "fbf43b7f-89d9-4e13-ba44-10eb5e69dfad",
+        "created_at": "2026-11-03T09:37:15.720604+00:00",
+        "updated_at": "2026-11-03T09:37:15.720604+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on January 5, 2024.",
+        "score": 0.692373346478224,
+        "id": "349c3729-8f11-4d89-827c-abf4b48d4fdd",
+        "created_at": "2026-11-03T09:37:32.363734+00:00",
+        "updated_at": "2026-11-03T09:37:32.363734+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, chosen for its vibrant arts scene and Irish music.",
+        "score": 0.6762377182645863,
+        "id": "1dce8c63-c37d-400b-993e-9831515230a8",
+        "created_at": "2026-11-03T09:37:37.759260+00:00",
+        "updated_at": "2026-11-03T09:37:37.759260+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
+        "score": 0.6701565398134527,
+        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
+        "created_at": "2026-11-03T09:37:29.774123+00:00",
+        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+      },
+      {
+        "memory": "Tim is going to Ireland for a semester in February 2024 as part of a study abroad program he was accepted into on January 5, 2024.",
+        "score": 0.6695281930539323,
+        "id": "e31538a1-2758-4c27-abfa-09e60b7c04c1",
+        "created_at": "2026-11-03T09:37:22.434213+00:00",
+        "updated_at": "2026-11-03T09:37:22.434213+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
+        "score": 0.6623666803593183,
+        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
+        "created_at": "2026-11-03T09:30:53.131364+00:00",
+        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
+        "score": 0.6565129644719475,
+        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
+        "created_at": "2026-11-03T09:27:28.115475+00:00",
+        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+      },
+      {
+        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
+        "score": 0.6494229838956803,
+        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
+        "created_at": "2026-11-03T09:29:03.711964+00:00",
+        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.648545428655464,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, planning to stay in Galway because of its vibrant arts scene and Irish music.",
+        "score": 0.6479617260204888,
+        "id": "6e945bcf-deb7-4c5c-932b-7eaa4f2f2eff",
+        "created_at": "2026-11-03T09:37:35.150665+00:00",
+        "updated_at": "2026-11-03T09:37:35.150665+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6394159074583728,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6394159074583728,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6352663740842798,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.6338496766913847,
+        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
+        "created_at": "2026-11-03T09:28:43.322745+00:00",
+        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+      },
+      {
+        "memory": "Tim will stay in Galway, Ireland during his study abroad semester starting February 2024, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.6332016310368864,
+        "id": "b01950c9-53b4-4504-bf85-018bebce82c5",
+        "created_at": "2026-11-03T09:37:17.942644+00:00",
+        "updated_at": "2026-11-03T09:37:17.942644+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is doing well in school despite being busy with studies, and he maintains a good balance by finding time to relax with books.",
+        "score": 0.6328029839583439,
+        "id": "29b6bcc8-528a-4bec-b59e-a7beedb89838",
+        "created_at": "2026-11-03T09:19:15.449975+00:00",
+        "updated_at": "2026-11-03T09:19:15.449975+00:00"
+      },
+      {
+        "memory": "Tim is a student who finds assignments and exams overwhelming but is determined not to give up, and he is trying to balance studying with his fantasy reading hobby.",
+        "score": 0.6301368842475044,
+        "id": "4df58466-77f0-4ad0-a8ad-779765352955",
+        "created_at": "2026-11-03T09:11:02.810349+00:00",
+        "updated_at": "2026-11-03T09:11:02.810349+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.6273613142347532,
+        "id": "de60b8d0-d9ad-4109-b7e6-8e1e7d59d70d",
+        "created_at": "2026-11-03T09:37:32.366376+00:00",
+        "updated_at": "2026-11-03T09:37:32.366376+00:00"
+      }
+    ],
+    "search_latency_ms": 123.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Friday, January 5, 2024",
+      "memories_evaluated": 10,
+      "reason": "The generated answer provides the exact same date (January 5, 2024) as the gold answer, with the addition of the day of the week, which is acceptable extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Friday, January 5, 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date (January 5, 2024) as the gold answer, with the addition of the day of the week, which is acceptable extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Friday, January 5, 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date (January 5, 2024) as the gold answer, with the addition of the day of the week, which is acceptable extra detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Friday, January 5, 2024",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date (January 5, 2024) as the gold answer, with the addition of the day of the week, which is acceptable extra detail."
+    }
+  }
+}

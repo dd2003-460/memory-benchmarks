@@ -9,42 +9,183 @@
     "D19:1",
     "D19:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Caroline want to move back to her home country soon?",
-    "search_results": [],
-    "search_latency_ms": 18.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline moved from her home country approximately 4 years before June 9, 2023, and has known her current group of friends since that move; their support was especially important to her after a tough breakup.",
+        "score": 0.8905435977654363,
+        "id": "2f091231-881d-4a99-94fc-17cb81f1495d",
+        "created_at": "2026-11-04T05:16:59.923269+00:00",
+        "updated_at": "2026-11-04T05:16:59.923269+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.8735711799992814,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline has known her close friends for four years, since moving from her home country around June 2019, and credits their support for helping her through a tough breakup.",
+        "score": 0.8633952844220261,
+        "id": "8ff376f8-3c34-4e46-8366-611fbee245e4",
+        "created_at": "2026-11-04T05:16:46.760429+00:00",
+        "updated_at": "2026-11-04T05:16:46.760429+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.7503862363156274,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.7316986506250455,
+        "id": "daa5251d-0c22-40d6-8695-dfc7b114716f",
+        "created_at": "2026-11-04T06:04:38.583531+00:00",
+        "updated_at": "2026-11-04T06:04:38.583531+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.7316986506250455,
+        "id": "e459fc93-eb8a-4833-affd-0490b31c8c20",
+        "created_at": "2026-11-04T06:04:35.562351+00:00",
+        "updated_at": "2026-11-04T06:04:35.562351+00:00"
+      },
+      {
+        "memory": "Caroline is researching adoption agencies because having a family and providing a loving home to children in need has been a dream of hers, as she mentioned to Melanie on May 25, 2023.",
+        "score": 0.7293918214954667,
+        "id": "e7fab20d-f39e-4e7a-9577-413c4bb5d006",
+        "created_at": "2026-11-04T05:15:43.918342+00:00",
+        "updated_at": "2026-11-04T05:15:43.918342+00:00"
+      },
+      {
+        "memory": "Caroline passed the adoption agency interviews on October 13, 2023, and is excited to build a family through adoption as a way to give back and provide a safe home for children who have not had one.",
+        "score": 0.7130921486777104,
+        "id": "b3ecf981-55c3-4eff-8472-121f71ce5128",
+        "created_at": "2026-11-04T06:04:27.140966+00:00",
+        "updated_at": "2026-11-04T06:04:27.140966+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.6560965633728837,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, feeling ready to be a mom and provide a safe, loving home for children who need it, and contacted her mentor for advice on the process in October 2023.",
+        "score": 0.6339579324366269,
+        "id": "f1f420e8-1004-476e-8987-b7c059967622",
+        "created_at": "2026-11-04T06:02:32.133675+00:00",
+        "updated_at": "2026-11-04T06:02:32.133675+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same, emphasizing the importance of promoting LGBTQ rights and having supportive people around her.",
+        "score": 0.6291075033574534,
+        "id": "e6f89271-d691-4554-94f7-7814812fe823",
+        "created_at": "2026-11-04T05:56:59.718324+00:00",
+        "updated_at": "2026-11-04T05:56:59.718324+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, with the specific dream of creating a safe and loving home for children who have not previously had a roof over their heads.",
+        "score": 0.6208122700194887,
+        "id": "80faced2-08ca-498c-8ce4-f6d6ff4d381c",
+        "created_at": "2026-11-04T06:04:23.998298+00:00",
+        "updated_at": "2026-11-04T06:04:23.998298+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.6193112011234121,
+        "id": "bf3cdf07-20e4-4905-8b4d-e8e3307c6f7d",
+        "created_at": "2026-11-04T06:02:29.189110+00:00",
+        "updated_at": "2026-11-04T06:02:29.189110+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.6193112011234121,
+        "id": "a1f53685-6a27-4c3a-93f5-09dc79eb4c66",
+        "created_at": "2026-11-04T06:02:15.980555+00:00",
+        "updated_at": "2026-11-04T06:02:15.980555+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way of giving back and showing love and acceptance, with the goal of building her own family and providing a home for children who have not had one before.",
+        "score": 0.6163997394152478,
+        "id": "1567f291-668a-466e-8448-02291d1173ef",
+        "created_at": "2026-11-04T06:04:16.839824+00:00",
+        "updated_at": "2026-11-04T06:04:16.839824+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe and loving home where children can experience these values.",
+        "score": 0.6153313223908986,
+        "id": "30e36e98-2292-45e6-a6d1-d9eba650a546",
+        "created_at": "2026-11-04T06:04:27.152384+00:00",
+        "updated_at": "2026-11-04T06:04:27.152384+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption and contacted her mentor for advice, expressing a strong desire to be a mom and provide a safe, loving home for children who need it.",
+        "score": 0.6149553308655014,
+        "id": "76d6badb-0737-4f30-b0ff-ba69aa5fbebc",
+        "created_at": "2026-11-04T06:02:24.070122+00:00",
+        "updated_at": "2026-11-04T06:02:24.070122+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6130309986324852,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had that experience, viewing it as a way to give back and show love and acceptance.",
+        "score": 0.6116560956449069,
+        "id": "3d6b6d01-065c-4803-87ed-737c6424c941",
+        "created_at": "2026-11-04T06:04:32.771393+00:00",
+        "updated_at": "2026-11-04T06:04:32.771393+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had one, viewing it as a way to give back and show love and acceptance to those in need.",
+        "score": 0.6104462608470252,
+        "id": "97e8d851-559a-4acc-ae6f-160c33d1fd2b",
+        "created_at": "2026-11-04T06:04:29.748515+00:00",
+        "updated_at": "2026-11-04T06:04:29.748515+00:00"
+      }
+    ],
+    "search_latency_ms": 85.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline would likely not want to move back to her home country soon because she is currently focused on the adoption process and has established a strong support network of close friends in her current location.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that Caroline would not want to move back soon, matching the gold answer's 'No'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline is unlikely to want to move back to her home country (Sweden) soon. Her memories indicate she is deeply focused on her current life, specifically pursuing adoption (having passed interviews in October 2023), a career in counseling, and relying on the support of friends she has known since moving there in 2019. Her goals are centered on building a family and living authentically in her current environment, with no mention of a desire to return to Sweden.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states 'No', which matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline would likely not want to move back to her home country soon, as she has established a strong support system with friends, is actively in the process of adopting a child, and is pursuing a career in counseling in her current location.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Caroline would not want to move back, matching the gold answer's 'No'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline is unlikely to want to move back to her home country (Sweden) soon. She has established a strong support system with close friends in her current location who helped her through a tough breakup, and she is currently focused on building a stable life there by pursuing adoption and counseling. Her emphasis on having supportive people around her and living authentically suggests she values her current community and stability.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states 'No', which matches the gold answer exactly."
     }
   }
 }

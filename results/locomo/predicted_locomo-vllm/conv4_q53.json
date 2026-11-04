@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q53",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What other exercises can help John with his basketball performance?",
+  "ground_truth_answer": "Sprinting, long-distance running, and boxing.",
+  "evidence": [
+    "D8:5",
+    "D20:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What other exercises can help John with his basketball performance?",
+    "search_results": [
+      {
+        "memory": "John states that incorporating strength training significantly improved his basketball performance by enhancing shooting accuracy, agility, and speed, giving him a competitive edge over opponents and boosting his confidence.",
+        "score": 0.8822835430563524,
+        "id": "f3d32b27-0235-4e7a-ac3d-d61246baade6",
+        "created_at": "2026-11-03T09:09:15.444097+00:00",
+        "updated_at": "2026-11-03T09:09:15.444097+00:00"
+      },
+      {
+        "memory": "John explains that strength training is important for his basketball performance because it builds muscle, increases power, prevents injuries, and enhances explosiveness and overall athleticism.",
+        "score": 0.8617509345751099,
+        "id": "d9b07dd7-65a9-4e4a-8cc5-a5c190ee6cc6",
+        "created_at": "2026-11-03T09:09:10.940379+00:00",
+        "updated_at": "2026-11-03T09:09:10.940379+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, emphasizing listening to his body and ensuring adequate rest to maintain performance during practice.",
+        "score": 0.7986902488867456,
+        "id": "1790bd58-3e4f-41bc-90f1-9f3b0c2934e9",
+        "created_at": "2026-11-03T09:09:06.580424+00:00",
+        "updated_at": "2026-11-03T09:09:06.580424+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.797094228798531,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.7921325255709778,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John recently found a new gym with a basketball court to maintain his fitness for professional basketball, noting that finding the right spot was difficult but essential for surviving pro ball.",
+        "score": 0.7879005290885399,
+        "id": "d0c7530c-9c04-4b79-b390-f0e552b65a0e",
+        "created_at": "2026-11-03T09:08:57.410650+00:00",
+        "updated_at": "2026-11-03T09:08:57.410650+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.779472953875712,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.7662272804619751,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John believes strength training is crucial for basketball because it builds muscle, increases power, prevents injuries, and enhances explosiveness and overall athleticism.",
+        "score": 0.7581464763090123,
+        "id": "bb9a0ee8-4c4f-410f-b9ad-bf4c9e61ddb4",
+        "created_at": "2026-11-03T09:09:22.078322+00:00",
+        "updated_at": "2026-11-03T09:09:22.078322+00:00"
+      },
+      {
+        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
+        "score": 0.7486670865146847,
+        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
+        "created_at": "2026-11-03T09:33:53.682920+00:00",
+        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+      },
+      {
+        "memory": "John describes his basketball team's approach to tough opponents as a driving force for improvement, emphasizing that they back each other up and refuse to quit",
+        "score": 0.7454963616131312,
+        "id": "1fb5d4b2-59ba-4028-a4dd-b3658ee9ac5b",
+        "created_at": "2026-11-03T09:17:50.506398+00:00",
+        "updated_at": "2026-11-03T09:17:50.506398+00:00"
+      },
+      {
+        "memory": "John shared a photo of a basketball hoop at sunset during a morning workout as a reminder that his athletic journey can be awesome.",
+        "score": 0.7424057704926971,
+        "id": "4797181d-dac4-40ec-80b3-a2d20cbfad97",
+        "created_at": "2026-11-03T09:33:05.375543+00:00",
+        "updated_at": "2026-11-03T09:33:05.375543+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
+        "score": 0.7391465106607569,
+        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
+        "created_at": "2026-11-03T09:15:20.574099+00:00",
+        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
+        "score": 0.7375195381364062,
+        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
+        "created_at": "2026-11-03T09:30:29.897962+00:00",
+        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.7267795990791698,
+        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
+        "created_at": "2026-11-03T09:30:34.559013+00:00",
+        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
+        "score": 0.7267795990791698,
+        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
+        "created_at": "2026-11-03T09:30:37.455079+00:00",
+        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.7266966353858912,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      },
+      {
+        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
+        "score": 0.7252309281986768,
+        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
+        "created_at": "2026-11-03T09:14:58.691644+00:00",
+        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
+        "score": 0.7248689978871097,
+        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
+        "created_at": "2026-11-03T09:18:54.870502+00:00",
+        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+      },
+      {
+        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.722323019826369,
+        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
+        "created_at": "2026-11-03T09:07:35.938549+00:00",
+        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+      }
+    ],
+    "search_latency_ms": 117.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Strength training",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Strength training' is not included in the gold answer's list of 'Sprinting, long-distance running, and boxing', and does not semantically overlap with any of the specific exercises mentioned."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Strength training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Strength training' is not included in the gold answer's list of 'Sprinting, long-distance running, and boxing', and does not semantically overlap with any of the specific exercises mentioned."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Strength training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Strength training' is not included in the gold answer's list of 'Sprinting, long-distance running, and boxing', and does not semantically overlap with any of the specific exercises mentioned."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Strength training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Strength training' is not included in the gold answer's list of 'Sprinting, long-distance running, and boxing', and does not semantically overlap with any of the specific exercises mentioned."
+    }
+  }
+}

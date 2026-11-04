@@ -8,42 +8,183 @@
   "evidence": [
     "D6:10"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What was Melanie's favorite book from her childhood?",
-    "search_results": [],
-    "search_latency_ms": 12.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.7127055233165012,
+        "id": "819a0668-f44e-49e7-a357-42166d57b564",
+        "created_at": "2026-11-04T05:21:52.375784+00:00",
+        "updated_at": "2026-11-04T05:21:52.375784+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.7127055233165012,
+        "id": "3709dd54-5124-4ae0-b23f-902e410a41bd",
+        "created_at": "2026-11-04T05:21:49.354675+00:00",
+        "updated_at": "2026-11-04T05:21:49.354675+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.7122026361053833,
+        "id": "691ed905-3a9e-4b3f-8658-d52678fcd57b",
+        "created_at": "2026-11-04T05:21:43.001513+00:00",
+        "updated_at": "2026-11-04T05:21:43.001513+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.7122026361053833,
+        "id": "296d29d9-3159-4d2e-9f94-ea6737ad8a78",
+        "created_at": "2026-11-04T05:21:46.429600+00:00",
+        "updated_at": "2026-11-04T05:21:46.429600+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book is 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.7117422606899354,
+        "id": "123ed668-743d-419b-9492-7a384bcdafaf",
+        "created_at": "2026-11-04T05:21:40.488085+00:00",
+        "updated_at": "2026-11-04T05:21:40.488085+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.688494726661864,
+        "id": "09cab859-e567-4bfb-88a4-360d4555f7ab",
+        "created_at": "2026-11-04T06:02:43.909765+00:00",
+        "updated_at": "2026-11-04T06:02:43.909765+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.688494726661864,
+        "id": "91b9209a-0887-4daf-928d-f95b6986065c",
+        "created_at": "2026-11-04T06:02:51.853727+00:00",
+        "updated_at": "2026-11-04T06:02:51.853727+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.688494726661864,
+        "id": "53d384a0-46ac-495d-9472-5c7a332ee26f",
+        "created_at": "2026-11-04T06:02:35.262773+00:00",
+        "updated_at": "2026-11-04T06:02:35.262773+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.688494726661864,
+        "id": "f8f5cc84-74ba-4c43-a952-28a9b52a9094",
+        "created_at": "2026-11-04T06:02:40.719060+00:00",
+        "updated_at": "2026-11-04T06:02:40.719060+00:00"
+      },
+      {
+        "memory": "While taking a break from pottery due to injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6711471992485343,
+        "id": "bac40d50-f329-4c9f-b6c9-edb1944e119b",
+        "created_at": "2026-11-04T06:02:32.146280+00:00",
+        "updated_at": "2026-11-04T06:02:32.146280+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.6514536696502378,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Melanie is recovering from her injury, keeping busy by reading a book Caroline recommended previously and painting.",
+        "score": 0.6457067720648852,
+        "id": "e991e95e-40d0-4a2d-9b0d-4bcc7338c13a",
+        "created_at": "2026-11-04T06:02:29.204377+00:00",
+        "updated_at": "2026-11-04T06:02:29.204377+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.6401376012759094,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Melanie has been taking a break from pottery due to personal difficulties but is coping by reading a book recommended by Caroline and painting",
+        "score": 0.6380382295701591,
+        "id": "c4c0cec8-7bb6-4dce-82b7-ae8a8e619b08",
+        "created_at": "2026-11-04T06:02:55.381974+00:00",
+        "updated_at": "2026-11-04T06:02:55.381974+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.4434164474537786,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.4326725160205885,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.4295319721718884,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.4218718987996352,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.419755431508936,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.41960048820150614,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      }
+    ],
+    "search_latency_ms": 97.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Charlotte's Web",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Charlotte's Web",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Charlotte's Web",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Charlotte's Web",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D3:16"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How long have Mel and her husband been married?",
-    "search_results": [],
-    "search_latency_ms": 26.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "User's name is Caroline and she has a friend or acquaintance named Mel whom she greeted on May 8, 2023",
+        "score": 0.7983515721850827,
+        "id": "6f81a3aa-d83f-4e84-a45a-950cf2eca70b",
+        "created_at": "2026-11-04T05:14:16.590371+00:00",
+        "updated_at": "2026-11-04T05:14:16.590371+00:00"
+      },
+      {
+        "memory": "Melanie has been married for 5 years as of June 27, 2023, and shared a photo of herself in her wedding dress holding a bouquet with Caroline.",
+        "score": 0.632226757257762,
+        "id": "5b262c22-4992-4865-8693-edd236afa7bc",
+        "created_at": "2026-11-04T05:17:18.024813+00:00",
+        "updated_at": "2026-11-04T05:17:18.024813+00:00"
+      },
+      {
+        "memory": "Melanie has been married for 5 years as of June 9, 2023, and shared a photo of herself in her wedding dress holding a bouquet with Caroline.",
+        "score": 0.6311553568976507,
+        "id": "af59b7aa-2465-4bce-a950-edc540e24c64",
+        "created_at": "2026-11-04T05:16:59.919987+00:00",
+        "updated_at": "2026-11-04T05:16:59.919987+00:00"
+      },
+      {
+        "memory": "Melanie has been married for 5 years as of June 9, 2023, and shared a photo of herself in her wedding dress holding a bouquet with Caroline.",
+        "score": 0.6311553568976507,
+        "id": "429a5605-caa7-44af-9a52-ca5fa37e9eba",
+        "created_at": "2026-11-04T05:17:03.267886+00:00",
+        "updated_at": "2026-11-04T05:17:03.267886+00:00"
+      },
+      {
+        "memory": "Melanie has been married for 5 years as of June 9, 2023, and shared a photo of herself in her wedding dress holding a bouquet while reminiscing about the day.",
+        "score": 0.6264999347689848,
+        "id": "db117bba-3b3a-4bbd-b03e-39663e78a2b6",
+        "created_at": "2026-11-04T05:16:54.441730+00:00",
+        "updated_at": "2026-11-04T05:16:54.441730+00:00"
+      },
+      {
+        "memory": "Melanie stated that her favorite part of her wedding was marrying her partner and promising to be together forever.",
+        "score": 0.6221395887661099,
+        "id": "40c05d68-88db-4f54-af7b-68a9db1e780a",
+        "created_at": "2026-11-04T05:23:55.929311+00:00",
+        "updated_at": "2026-11-04T05:23:55.929311+00:00"
+      },
+      {
+        "memory": "Melanie stated that the best part of her wedding was marrying her partner and promising to be together forever, and shared a photo of a man and woman standing on a beach.",
+        "score": 0.6040572227411003,
+        "id": "86cff971-ed24-4a43-9513-b9aa8ab3b78e",
+        "created_at": "2026-11-04T05:23:39.876747+00:00",
+        "updated_at": "2026-11-04T05:23:39.876747+00:00"
+      },
+      {
+        "memory": "Melanie got married to her partner in a ceremony held in a greenhouse, describing the day as full of love and joy with everyone they love present to celebrate.",
+        "score": 0.5919780683609275,
+        "id": "6aee6163-dfd8-4b59-988a-ff3e048a0520",
+        "created_at": "2026-11-04T05:24:00.640805+00:00",
+        "updated_at": "2026-11-04T05:24:00.640805+00:00"
+      },
+      {
+        "memory": "Melanie described her wedding as an amazing day full of love and joy where everyone they love was present to celebrate, identifying marrying her partner and promising to be together forever as her favorite part.",
+        "score": 0.5836317064553329,
+        "id": "cfaab9ce-7e6c-40b2-9fec-8ff354728ccf",
+        "created_at": "2026-11-04T05:23:48.368793+00:00",
+        "updated_at": "2026-11-04T05:23:48.368793+00:00"
+      },
+      {
+        "memory": "Melanie stated on June 9, 2023, that she is lucky to have her husband and kids who keep her motivated, and shared a photo of them hiking in nature near a waterfall.",
+        "score": 0.5784921208858492,
+        "id": "0d694607-70af-45fb-8f35-49e9a3c7b711",
+        "created_at": "2026-11-04T05:16:49.697509+00:00",
+        "updated_at": "2026-11-04T05:16:49.697509+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.5722554476484176,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5426157334586742,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5415940136061426,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5391918665535196,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.5365123603822549,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.5335317925310773,
+        "id": "bb1995bd-bb07-4650-817b-5866292e11c6",
+        "created_at": "2026-11-04T06:02:15.985633+00:00",
+        "updated_at": "2026-11-04T06:02:15.985633+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022 or early 2023, describing the process as long but resulting in a happy family, which inspired Melanie to consider adopting herself.",
+        "score": 0.5335317925310773,
+        "id": "2bc47d0a-3c29-4725-a725-80df11e1227e",
+        "created_at": "2026-11-04T06:02:29.193621+00:00",
+        "updated_at": "2026-11-04T06:02:29.193621+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.19344144734509253,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that her family has been supportive during her move, helping out and showing lots of love and support.",
+        "score": 0.18628861528162768,
+        "id": "e3d2bd47-f198-4fe2-9f8d-35ddc9f7a63e",
+        "created_at": "2026-11-04T05:24:14.276540+00:00",
+        "updated_at": "2026-11-04T05:24:14.276540+00:00"
+      },
+      {
+        "memory": "Melanie went on a road trip with her family the weekend of October 14-15, 2023, during which her son was involved in a car accident that deployed airbags; although it was a scary experience, they were lucky he was okay.",
+        "score": 0.18066389778368444,
+        "id": "3e7796fa-5ede-4d25-9a22-484d00da8034",
+        "created_at": "2026-11-04T06:03:16.779553+00:00",
+        "updated_at": "2026-11-04T06:03:16.779553+00:00"
+      }
+    ],
+    "search_latency_ms": 98.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "5 years",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '5 years' exactly matches the duration specified in the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "5 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '5 years' exactly matches the duration specified in the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "5 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '5 years' exactly matches the duration specified in the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "5 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '5 years' exactly matches the duration specified in the gold answer."
     }
   }
 }

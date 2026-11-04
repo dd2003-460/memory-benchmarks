@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q165",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What book did Tim get in Italy that inspired him to cook?",
+  "ground_truth_answer": "a cooking book",
+  "evidence": [
+    "D27:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What book did Tim get in Italy that inspired him to cook?",
+    "search_results": [
+      {
+        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
+        "score": 0.8763971887089811,
+        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
+        "created_at": "2026-11-03T09:36:13.194440+00:00",
+        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
+        "score": 0.8472663598973582,
+        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
+        "created_at": "2026-11-03T09:36:03.650277+00:00",
+        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+      },
+      {
+        "memory": "John traveled to Italy in December 2023, enjoying the food, history, and architecture, and purchased a book there that has inspired his cooking.",
+        "score": 0.8416797034148582,
+        "id": "3f67c46d-4e43-4000-b91f-5f57977f6d2f",
+        "created_at": "2026-11-03T09:36:07.962232+00:00",
+        "updated_at": "2026-11-03T09:36:07.962232+00:00"
+      },
+      {
+        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
+        "score": 0.840180686418892,
+        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
+        "created_at": "2026-11-03T09:35:49.565672+00:00",
+        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.8313331941999881,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
+        "score": 0.8181123971260561,
+        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
+        "created_at": "2026-11-03T09:35:54.494219+00:00",
+        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
+        "score": 0.8027193993237279,
+        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
+        "created_at": "2026-11-03T09:35:47.080548+00:00",
+        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.7814148005052312,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "John found his trip to Italy in December 2023 awesome, specifically highlighting the food, history, and architecture as amazing experiences.",
+        "score": 0.7722325492941311,
+        "id": "655f3003-5f3e-4deb-8503-146721eaa74b",
+        "created_at": "2026-11-03T09:35:49.561716+00:00",
+        "updated_at": "2026-11-03T09:35:49.561716+00:00"
+      },
+      {
+        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK sparked many ideas for his stories.",
+        "score": 0.6327360583479869,
+        "id": "84d7f1ec-a151-41a3-aa19-b541fe4e33d3",
+        "created_at": "2026-11-03T09:20:07.690643+00:00",
+        "updated_at": "2026-11-03T09:20:07.690643+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.6279166614979169,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices in his cooking and was interested in learning which spices John used in his homemade soup.",
+        "score": 0.6254833404004276,
+        "id": "25fc92ec-9301-4d8f-8ced-6050e5cc20df",
+        "created_at": "2026-11-03T09:13:05.382821+00:00",
+        "updated_at": "2026-11-03T09:13:05.382821+00:00"
+      },
+      {
+        "memory": "Tim likes to curl up with a good book in his free time, finding it an escape from reality that allows him to get lost in different worlds.",
+        "score": 0.6172480065300541,
+        "id": "fb773c3a-63a2-4040-8b56-e1c53442f9a5",
+        "created_at": "2026-11-03T09:21:00.680159+00:00",
+        "updated_at": "2026-11-03T09:21:00.680159+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' a while back and found that it changed his perspective on his goals, resonating with the book's themes of following dreams.",
+        "score": 0.6113440425683103,
+        "id": "97d5012d-a9fb-4ab7-8e53-93074ece9272",
+        "created_at": "2026-11-03T09:28:25.578933+00:00",
+        "updated_at": "2026-11-03T09:28:25.578933+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, specifically citing reading about castles in the UK as a source of ideas.",
+        "score": 0.608248088026803,
+        "id": "28157729-a7fb-4d9e-bee4-c25ce4240e40",
+        "created_at": "2026-11-03T09:19:51.802288+00:00",
+        "updated_at": "2026-11-03T09:19:51.802288+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
+        "score": 0.6075265499411249,
+        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
+        "created_at": "2026-11-03T09:34:36.187606+00:00",
+        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with these interests to make writing more fun.",
+        "score": 0.6057235240036933,
+        "id": "8953bf23-5c3a-4dda-b9b4-b63beed67e32",
+        "created_at": "2026-11-03T09:19:41.440880+00:00",
+        "updated_at": "2026-11-03T09:19:41.440880+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.6045199860443834,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
+        "score": 0.5971187521571091,
+        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
+        "created_at": "2026-11-03T09:19:26.762706+00:00",
+        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+      },
+      {
+        "memory": "Tim recently read a book about how small changes can make big differences, which significantly changed his approach to doing things.",
+        "score": 0.5934752592348842,
+        "id": "4835b558-d3eb-4bdc-88e9-2e4872dcd1bc",
+        "created_at": "2026-11-03T09:28:43.315373+00:00",
+        "updated_at": "2026-11-03T09:28:43.315373+00:00"
+      }
+    ],
+    "search_latency_ms": 125.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories indicate that **John** (not Tim) purchased a book in Italy that inspired his cooking; the specific title of the book is not mentioned.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer incorrectly identifies the person as John instead of Tim and fails to state that the book was a cooking book, thus missing the core facts of the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories indicate that it was **John** who visited Italy and purchased a book that inspired his cooking, not Tim. The specific title of the book is not provided in the memories.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer incorrectly identifies the person as John instead of Tim and fails to identify the book as a cooking book, providing no correct items from the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories indicate that it was **John** who visited Italy and purchased a book that inspired his cooking, not Tim. The specific title of the book is not provided in the memories.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer incorrectly identifies the person as John instead of Tim and fails to identify the book as a cooking book, providing no correct items from the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories indicate that it was **John** who visited Italy and purchased a book that inspired his cooking, not Tim. The specific title of the book is not provided in the memories.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer incorrectly identifies the person as John instead of Tim and fails to identify the book as a cooking book, providing no correct items from the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q174",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What charity event did John organize recently in 2024?",
+  "ground_truth_answer": "benefit basketball game",
+  "evidence": [
+    "D28:10"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What charity event did John organize recently in 2024?",
+    "search_results": [
+      {
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
+        "score": 0.8632021233491229,
+        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
+        "created_at": "2026-11-03T09:30:59.620007+00:00",
+        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+      },
+      {
+        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
+        "score": 0.8306760458846423,
+        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
+        "created_at": "2026-11-03T09:34:49.170106+00:00",
+        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+      },
+      {
+        "memory": "John plans to use his platform after his basketball career to make a positive difference, potentially by starting a foundation and engaging in charity work to leave a meaningful legacy.",
+        "score": 0.7565909170452804,
+        "id": "c245376c-77f4-48d4-a9d2-19c027470929",
+        "created_at": "2026-11-03T09:15:20.582582+00:00",
+        "updated_at": "2026-11-03T09:15:20.582582+00:00"
+      },
+      {
+        "memory": "For life after basketball, John plans to use his platform to make a positive difference by starting a foundation and doing charity work to inspire others and leave a meaningful legacy.",
+        "score": 0.7547528875854926,
+        "id": "15bf69a7-82da-4b3d-8591-b0cc242ef1e1",
+        "created_at": "2026-11-03T09:15:54.769248+00:00",
+        "updated_at": "2026-11-03T09:15:54.769248+00:00"
+      },
+      {
+        "memory": "John plans to use his platform after basketball to make a positive difference and inspire others, with specific ideas including starting a foundation and doing charity work to leave a meaningful legacy.",
+        "score": 0.7469364233566104,
+        "id": "7fc76cf9-f0a4-463b-be0b-f47f82f50375",
+        "created_at": "2026-11-03T09:15:06.709750+00:00",
+        "updated_at": "2026-11-03T09:15:06.709750+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on January 6, 2024, which was a total success with many attendees and raised money for charity.",
+        "score": 0.6413503383129446,
+        "id": "655cff05-852f-48b5-a447-14f19361118d",
+        "created_at": "2026-11-03T09:37:47.223081+00:00",
+        "updated_at": "2026-11-03T09:37:47.223081+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
+        "score": 0.6382832982803118,
+        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
+        "created_at": "2026-11-03T09:37:42.890488+00:00",
+        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.6374047522398876,
+        "id": "fb290661-a188-443a-90cf-c33235e3cc73",
+        "created_at": "2026-11-03T09:37:40.349172+00:00",
+        "updated_at": "2026-11-03T09:37:40.349172+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game in the week preceding January 7, 2024, which was a total success with high attendance and raised money for charity.",
+        "score": 0.6347945098409784,
+        "id": "c1b070f9-df9c-483a-829b-25110148e8d2",
+        "created_at": "2026-11-03T09:37:55.809326+00:00",
+        "updated_at": "2026-11-03T09:37:55.809326+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game on the week of January 1, 2024, which was a total success with high attendance and raised money for charity",
+        "score": 0.6322155142757432,
+        "id": "dad32b42-9aac-4257-a16b-5d7e13f5e4e1",
+        "created_at": "2026-11-03T09:37:53.627113+00:00",
+        "updated_at": "2026-11-03T09:37:53.627113+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.6240441125047675,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
+        "score": 0.6208043000270099,
+        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
+        "created_at": "2026-11-03T09:37:49.462726+00:00",
+        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
+        "score": 0.6207700508977105,
+        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
+        "created_at": "2026-11-03T09:38:10.619051+00:00",
+        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
+        "score": 0.6114207317062607,
+        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
+        "created_at": "2026-11-03T09:38:15.519591+00:00",
+        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6113961274513978,
+        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
+        "created_at": "2026-11-03T09:38:36.414205+00:00",
+        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
+        "score": 0.6094067826652142,
+        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
+        "created_at": "2026-11-03T09:35:44.324677+00:00",
+        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
+        "score": 0.6058699259965897,
+        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
+        "created_at": "2026-11-03T09:38:08.169886+00:00",
+        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+      },
+      {
+        "memory": "Some of John's hiking club friends attended his wedding ceremony in a greenhouse around September 25, 2023, even though he had only recently joined the club.",
+        "score": 0.6042965691032249,
+        "id": "7a694165-bc68-4d0d-9f8c-0646627fbae1",
+        "created_at": "2026-11-03T09:16:32.616110+00:00",
+        "updated_at": "2026-11-03T09:16:32.616110+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6040150262435124,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6036080539602405,
+        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
+        "created_at": "2026-11-03T09:38:17.827762+00:00",
+        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+      }
+    ],
+    "search_latency_ms": 131.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a benefit basketball game",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a benefit basketball game",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a benefit basketball game",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a benefit basketball game",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

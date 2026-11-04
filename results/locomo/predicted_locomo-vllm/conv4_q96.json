@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q96",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which movie's theme is Tim's favorite to play on the piano?",
+  "ground_truth_answer": "\"Harry Potter and the Philosopher's Stone\"",
+  "evidence": [
+    "D8:14",
+    "D8:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which movie's theme is Tim's favorite to play on the piano?",
+    "search_results": [
+      {
+        "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
+        "score": 0.7525123614976815,
+        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
+        "created_at": "2026-11-03T09:09:50.772054+00:00",
+        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
+        "score": 0.6502149505174863,
+        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
+        "created_at": "2026-11-03T09:30:41.679787+00:00",
+        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.646011841753588,
+        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
+        "created_at": "2026-11-03T09:30:48.601783+00:00",
+        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.646011841753588,
+        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
+        "created_at": "2026-11-03T09:30:53.143666+00:00",
+        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+      },
+      {
+        "memory": "Tim's favorite movie is 'Harry Potter and the Philosopher's Stone', which he describes as special because it was the first film in the series and watching it with his family brings back great, magical memories.",
+        "score": 0.6393654170122174,
+        "id": "a59bbe00-b6f4-4eba-9901-1f3101b5473c",
+        "created_at": "2026-11-03T09:09:57.780700+00:00",
+        "updated_at": "2026-11-03T09:09:57.780700+00:00"
+      },
+      {
+        "memory": "Tim loves the movie 'The Santa Clause', describing it as heartwarming and a way to get his family feeling festive.",
+        "score": 0.6278248669733285,
+        "id": "e0c8c425-7a6b-4ae5-8742-58c67df1f506",
+        "created_at": "2026-11-03T09:10:46.392092+00:00",
+        "updated_at": "2026-11-03T09:10:46.392092+00:00"
+      },
+      {
+        "memory": "Tim's favorite movie genre is epic adventures and magical worlds, with Lord of the Rings being his all-time favorite film.",
+        "score": 0.6272891235101454,
+        "id": "9195b9f7-f1e5-4994-a79e-2b31fbd06507",
+        "created_at": "2026-11-03T09:35:37.281340+00:00",
+        "updated_at": "2026-11-03T09:35:37.281340+00:00"
+      },
+      {
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
+        "score": 0.6252338865306573,
+        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
+        "created_at": "2026-11-03T09:09:46.067003+00:00",
+        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+      },
+      {
+        "memory": "Tim is learning to play the violin, focusing primarily on classical music while also being keen to explore jazz and film scores as a creative way to relax.",
+        "score": 0.6216072123563035,
+        "id": "11f6dc3b-f107-4fce-8259-1c1fa309231f",
+        "created_at": "2026-11-03T09:30:48.597830+00:00",
+        "updated_at": "2026-11-03T09:30:48.597830+00:00"
+      },
+      {
+        "memory": "Tim is currently learning to play the violin, focusing primarily on classical music while also being keen to try jazz and film scores, viewing it as a way to relax and be creative.",
+        "score": 0.6211273845837113,
+        "id": "b1a7377e-83b9-435e-9e41-b755320dc433",
+        "created_at": "2026-11-03T09:30:37.463488+00:00",
+        "updated_at": "2026-11-03T09:30:37.463488+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of the fantasy genre, specifically epic adventures and magical worlds, and considers Lord of the Rings his favorite movie.",
+        "score": 0.6161234553441259,
+        "id": "637867c0-496b-470c-a743-3ed7cba9e893",
+        "created_at": "2026-11-03T09:35:47.072486+00:00",
+        "updated_at": "2026-11-03T09:35:47.072486+00:00"
+      },
+      {
+        "memory": "Tim enjoys having movie marathons with friends, often watching fantasy genres like Lord of the Rings which he considers his favorite epic adventure film.",
+        "score": 0.6154801674887156,
+        "id": "7915845c-a750-4b42-a0c0-e4c0b27a3f46",
+        "created_at": "2026-11-03T09:35:32.392565+00:00",
+        "updated_at": "2026-11-03T09:35:32.392565+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
+        "score": 0.611312184218379,
+        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
+        "created_at": "2026-11-03T09:35:25.860608+00:00",
+        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+      },
+      {
+        "memory": "Tim's favorite book series is Harry Potter, which he finds immersive, and his favorite fantasy movie franchise is Star Wars, which he says never gets old.",
+        "score": 0.6096517616254707,
+        "id": "4b60eadc-38a8-4c64-9bdf-a72cd8c419c5",
+        "created_at": "2026-11-03T09:36:46.251633+00:00",
+        "updated_at": "2026-11-03T09:36:46.251633+00:00"
+      },
+      {
+        "memory": "Tim's family also enjoys watching the movie 'The Santa Clause' during the holidays, describing it as heartwarming and a film that gets them all feeling festive.",
+        "score": 0.6019491133000748,
+        "id": "8a5a5bee-65b8-4ea7-87eb-f004082c901c",
+        "created_at": "2026-11-03T09:10:28.844972+00:00",
+        "updated_at": "2026-11-03T09:10:28.844972+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of epic adventures and magical worlds, citing Lord of the Rings as his favorite film",
+        "score": 0.5997703577437735,
+        "id": "c44e0f98-78e9-4b4d-9fef-18b6341f848e",
+        "created_at": "2026-11-03T09:35:39.819590+00:00",
+        "updated_at": "2026-11-03T09:35:39.819590+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.598784516125302,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.5972135709871298,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
+        "score": 0.5966814166789296,
+        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
+        "created_at": "2026-11-03T09:28:21.002140+00:00",
+        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+      },
+      {
+        "memory": "Tim personally decorated his family's Harry Potter-themed Christmas tree, describing the process as a blast and noting he went all out with the theme.",
+        "score": 0.5955508338850156,
+        "id": "7222bd40-6d58-4296-bbd1-43ca824f9cce",
+        "created_at": "2026-11-03T09:10:39.205102+00:00",
+        "updated_at": "2026-11-03T09:10:39.205102+00:00"
+      }
+    ],
+    "search_latency_ms": 110.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter and the Philosopher's Stone",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter and the Philosopher's Stone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter and the Philosopher's Stone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter and the Philosopher's Stone",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

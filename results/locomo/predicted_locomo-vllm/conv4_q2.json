@@ -17,45 +17,66 @@
     "search_results": [
       {
         "memory": "John collects basketball jerseys and is a fan of the Minnesota Timberwolves (the Wolves) and LeBron James, admiring his skills, leadership, work ethic, and dedication to the game.",
-        "score": 0.5962213993585023,
+        "score": 0.59664912229692,
         "id": "22716c15-769a-41b9-a83d-6f4b19bbcd5c",
         "created_at": "2026-11-03T09:17:14.819468+00:00",
         "updated_at": "2026-11-03T09:17:14.819468+00:00"
       },
       {
         "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
-        "score": 0.5920419262915517,
+        "score": 0.5923920344816376,
         "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
         "created_at": "2026-11-03T09:17:03.539957+00:00",
         "updated_at": "2026-11-03T09:17:03.539957+00:00"
       },
       {
         "memory": "Tim shared a photo of his desk with a bookcase full of books and various other items on October 2, 2023, while catching up with John.",
-        "score": 0.5904296462056613,
+        "score": 0.5904410958574025,
         "id": "611124a2-13c1-4a6e-b75c-1ea7a1fa2b3f",
         "created_at": "2026-11-03T09:16:37.128451+00:00",
         "updated_at": "2026-11-03T09:16:37.128451+00:00"
       },
       {
         "memory": "John shared a photo of his fantasy movie collection, which includes Star Wars movies displayed on a table, and asked Tim about his favorite fantasy films.",
-        "score": 0.5825388211271979,
+        "score": 0.5829561707334286,
         "id": "1e9c6e3a-bd29-495c-8bd2-9224ee861eb8",
         "created_at": "2026-11-03T09:36:26.688406+00:00",
         "updated_at": "2026-11-03T09:36:26.688406+00:00"
       },
       {
         "memory": "John enjoys collecting basketball jerseys and shared a photo of his collection laying on a bed with Tim on October 2, 2023.",
-        "score": 0.579800307014789,
+        "score": 0.5798716235077686,
         "id": "ae6d04a8-ad51-4954-a1e0-2e2a6e087911",
         "created_at": "2026-11-03T09:16:56.241611+00:00",
         "updated_at": "2026-11-03T09:16:56.241611+00:00"
       },
       {
         "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
-        "score": 0.5760117446136334,
+        "score": 0.5764829789115811,
         "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
         "created_at": "2026-11-03T09:27:37.386687+00:00",
         "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
+        "score": 0.3552210645904913,
+        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
+        "created_at": "2026-11-03T09:20:51.673633+00:00",
+        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+      },
+      {
+        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
+        "score": 0.3376075779344539,
+        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
+        "created_at": "2026-11-03T09:20:44.106791+00:00",
+        "updated_at": "2026-11-03T09:20:44.106791+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.3335290582247586,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
       },
       {
         "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
@@ -65,6 +86,41 @@
         "updated_at": "2026-11-03T09:20:44.094230+00:00"
       },
       {
+        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true and be a leader in everything he does",
+        "score": 0.316532308002185,
+        "id": "a046755f-c797-4e51-b612-7544641eadfd",
+        "created_at": "2026-11-03T09:36:57.767478+00:00",
+        "updated_at": "2026-11-03T09:36:57.767478+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.3156130088512462,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.3153652888999342,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
+        "score": 0.31444625871173315,
+        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
+        "created_at": "2026-11-03T09:36:46.263022+00:00",
+        "updated_at": "2026-11-03T09:36:46.263022+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.3142352745411705,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
         "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
         "score": 0.3117262197522357,
         "id": "f912f982-e28b-4b6d-a879-6595597039c8",
@@ -72,121 +128,65 @@
         "updated_at": "2026-11-03T09:20:12.772496+00:00"
       },
       {
-        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
-        "score": 0.29883188782860903,
-        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
-        "created_at": "2026-11-03T09:20:51.673633+00:00",
-        "updated_at": "2026-11-03T09:20:51.673633+00:00"
-      },
-      {
-        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
-        "score": 0.2802193057460224,
-        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
-        "created_at": "2026-11-03T09:20:44.106791+00:00",
-        "updated_at": "2026-11-03T09:20:44.106791+00:00"
-      },
-      {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.26021606694774446,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
-      },
-      {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true and be a leader in everything he does",
-        "score": 0.25914403560782845,
-        "id": "a046755f-c797-4e51-b612-7544641eadfd",
-        "created_at": "2026-11-03T09:36:57.767478+00:00",
-        "updated_at": "2026-11-03T09:36:57.767478+00:00"
-      },
-      {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
-        "score": 0.2570579865233017,
-        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
-        "created_at": "2026-11-03T09:36:46.263022+00:00",
-        "updated_at": "2026-11-03T09:36:46.263022+00:00"
-      },
-      {
         "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
-        "score": 0.25372569663881606,
+        "score": 0.3101148734006983,
         "id": "bc91278f-9786-437b-b809-97133839c1c0",
         "created_at": "2026-11-03T09:21:16.833195+00:00",
         "updated_at": "2026-11-03T09:21:16.833195+00:00"
       },
       {
-        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
-        "score": 0.25240187954974164,
-        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
-        "created_at": "2026-11-03T09:20:44.104295+00:00",
-        "updated_at": "2026-11-03T09:20:44.104295+00:00"
-      },
-      {
         "memory": "John is a huge fan of Lord of the Rings, praising its adventure, world-building, and characters as awesome.",
-        "score": 0.2522014781996216,
+        "score": 0.3085906549615039,
         "id": "dbe4b6d6-9246-4a25-af03-be2e9695ec02",
         "created_at": "2026-11-03T09:36:31.115238+00:00",
         "updated_at": "2026-11-03T09:36:31.115238+00:00"
       },
       {
+        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
+        "score": 0.30846327837566023,
+        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
+        "created_at": "2026-11-03T09:20:44.104295+00:00",
+        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+      },
+      {
         "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
-        "score": 0.24884548539457163,
+        "score": 0.3049068842204902,
         "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
         "created_at": "2026-11-03T09:19:26.762706+00:00",
         "updated_at": "2026-11-03T09:19:26.762706+00:00"
-      },
-      {
-        "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
-        "score": 0.24473062620841954,
-        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
-        "created_at": "2026-11-03T09:35:49.565672+00:00",
-        "updated_at": "2026-11-03T09:35:49.565672+00:00"
-      },
-      {
-        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
-        "score": 0.24256262308525586,
-        "id": "31196cac-4beb-410d-8c13-010e32d84735",
-        "created_at": "2026-11-03T09:22:24.102935+00:00",
-        "updated_at": "2026-11-03T09:22:24.102935+00:00"
-      },
-      {
-        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
-        "score": 0.24033728773298688,
-        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
-        "created_at": "2026-11-03T09:16:12.165487+00:00",
-        "updated_at": "2026-11-03T09:16:12.165487+00:00"
       }
     ],
-    "search_latency_ms": 109.0,
+    "search_latency_ms": 103.3,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "basketball jerseys and fantasy movies",
       "memories_evaluated": 10,
-      "reason": ""
+      "reason": "The generated answer includes 'basketball jerseys' and 'fantasy movies', which match the gold answer's 'jerseys' and 'fantasy movie DVDs'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "basketball jerseys and fantasy movies",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes 'basketball jerseys' and 'fantasy movies', which match the gold answer's 'jerseys' and 'fantasy movie DVDs'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "basketball jerseys and fantasy movies",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes 'basketball jerseys' and 'fantasy movies', which match the gold answer's 'jerseys' and 'fantasy movie DVDs'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "basketball jerseys and fantasy movies",
       "memories_evaluated": 20,
-      "reason": ""
+      "reason": "The generated answer includes 'basketball jerseys' and 'fantasy movies', which match the gold answer's 'jerseys' and 'fantasy movie DVDs'."
     }
   }
 }

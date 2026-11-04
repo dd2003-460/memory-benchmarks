@@ -8,42 +8,183 @@
   "evidence": [
     "D10:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Melanie and her family see during their camping trip last year?",
-    "search_results": [],
-    "search_latency_ms": 693.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.8829607874675138,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie loves camping trips with her family because they allow her to be present and together, bonding over stories, campfires, and nature, and she finds waking up to birds and fresh air refreshing and peaceful.",
+        "score": 0.8825689584819727,
+        "id": "4ae9a9f6-ef0f-452f-9a28-2845abf5479b",
+        "created_at": "2026-11-04T06:04:09.786618+00:00",
+        "updated_at": "2026-11-04T06:04:09.786618+00:00"
+      },
+      {
+        "memory": "Melanie values camping trips with her family for the opportunity to be present and bond over stories, campfires, and nature, finding the experience of waking up to birdsong and fresh air refreshing for her soul.",
+        "score": 0.8785473090563289,
+        "id": "14c032f4-4fc7-4afe-aa46-6800968580ee",
+        "created_at": "2026-11-04T06:04:02.845376+00:00",
+        "updated_at": "2026-11-04T06:04:02.845376+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family because they allow for bonding over stories and campfires, and she finds waking up to birdsong and fresh air refreshing and peaceful.",
+        "score": 0.87730451853504,
+        "id": "32116ffc-62f1-4f32-93b8-5fbe9299d18d",
+        "created_at": "2026-11-04T06:04:19.394070+00:00",
+        "updated_at": "2026-11-04T06:04:19.394070+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip in the forest two weeks before July 17, 2023, where she unplugged and spent time with her kids",
+        "score": 0.8741156179917334,
+        "id": "1b45ab31-25c7-49fe-8299-dcd1009e1f02",
+        "created_at": "2026-11-04T05:24:37.879863+00:00",
+        "updated_at": "2026-11-04T05:24:37.879863+00:00"
+      },
+      {
+        "memory": "Melanie enjoys camping trips with her family, valuing the peaceful bonding over stories, campfires, and nature, which she finds refreshing for her soul.",
+        "score": 0.8685823437214502,
+        "id": "4e133138-b91f-46f3-baab-aa057460cfe5",
+        "created_at": "2026-11-04T06:04:27.144866+00:00",
+        "updated_at": "2026-11-04T06:04:27.144866+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.8673165546679403,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie's family has a summer tradition of going on camping trips where they roast marshmallows and tell stories around the campfire, which she considers the highlight of their summer.",
+        "score": 0.8623495775330342,
+        "id": "88480c3d-5ce6-4e17-a44a-e231cac4f06f",
+        "created_at": "2026-11-04T05:53:01.789569+00:00",
+        "updated_at": "2026-11-04T05:53:01.789569+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.8622641628611516,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she described the recent mountain camping trip as a special, unforgettable family moment.",
+        "score": 0.8612185722132137,
+        "id": "96545ebd-1edb-44bc-9f3e-0599bc0265b9",
+        "created_at": "2026-11-04T05:18:01.029864+00:00",
+        "updated_at": "2026-11-04T05:18:01.029864+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip where they explored nature, roasted marshmallows around the campfire, and hiked to a scenic viewpoint, noting that her two younger kids love nature and she found the experience special and unforgettable",
+        "score": 0.8607451268731682,
+        "id": "95a16d20-82a9-4474-8901-a7331bcdb754",
+        "created_at": "2026-11-04T05:18:40.779615+00:00",
+        "updated_at": "2026-11-04T05:18:40.779615+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 19-25, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.8589275074195151,
+        "id": "53212d5a-b4e5-409a-bba5-a1491e57becd",
+        "created_at": "2026-11-04T05:18:35.280909+00:00",
+        "updated_at": "2026-11-04T05:18:35.280909+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.8567111218634839,
+        "id": "d29f48d5-585b-4684-b9a2-493241214dcf",
+        "created_at": "2026-11-04T05:18:07.247890+00:00",
+        "updated_at": "2026-11-04T05:18:07.247890+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.8567111218634839,
+        "id": "cc563d39-99cb-4b40-bf96-08c3f1ca6b96",
+        "created_at": "2026-11-04T05:18:01.027417+00:00",
+        "updated_at": "2026-11-04T05:18:01.027417+00:00"
+      },
+      {
+        "memory": "Melanie went on another camping trip in the forest with her family, where they roasted marshmallows around a campfire.",
+        "score": 0.8551085172466557,
+        "id": "f02b67f9-a6b3-4f1a-a275-3ca4d0783845",
+        "created_at": "2026-11-04T05:24:18.764523+00:00",
+        "updated_at": "2026-11-04T05:24:18.764523+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her family camping at the beach around a campfire, noting that they love the activity because it brings them closer together.",
+        "score": 0.8550779175830693,
+        "id": "6daa4393-adda-49c6-814f-d47692c43283",
+        "created_at": "2026-11-04T05:22:11.279520+00:00",
+        "updated_at": "2026-11-04T05:22:11.279520+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves camping trips with her family because nature brings peace and serenity, helping her reset, recharge, and refresh her soul by being present and waking up to birds and fresh air.",
+        "score": 0.8542088294772627,
+        "id": "d77307ab-ca94-4a9c-848f-0966549656ca",
+        "created_at": "2026-11-04T06:04:07.346441+00:00",
+        "updated_at": "2026-11-04T06:04:07.346441+00:00"
+      },
+      {
+        "memory": "During her family camping trip in the mountains around June 20, 2023, Melanie explored nature, roasted marshmallows around a campfire, went on a hike with an amazing view from the top, and noted that her two younger kids love nature.",
+        "score": 0.8534243723753304,
+        "id": "4e5b801b-5289-4fd1-88bf-6fb41449ddc7",
+        "created_at": "2026-11-04T05:17:55.700693+00:00",
+        "updated_at": "2026-11-04T05:17:55.700693+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.85214755076612,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.8512272768428059,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      }
+    ],
+    "search_latency_ms": 494.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "birds",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'birds' does not match the gold answer 'Perseid meteor shower' and addresses a completely different topic."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "an amazing view from the top of a hike",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a view from a hike, which is a completely different event from the Perseid meteor shower mentioned in the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "An amazing view from the top of a hike",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a view from a hike, which is a completely different event from the Perseid meteor shower mentioned in the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "During their camping trip, Melanie and her family explored nature, hiked to a scenic viewpoint where they saw an amazing view from the top, and observed birds.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes general activities like hiking and bird watching but completely omits the specific event mentioned in the gold answer, the Perseid meteor shower."
     }
   }
 }

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q154",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John feel about the atmosphere during the big game against the rival team?",
+  "ground_truth_answer": "electric and intense",
+  "evidence": [
+    "D23:5"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John feel about the atmosphere during the big game against the rival team?",
+    "search_results": [
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.771469941690526,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.7602152510250426,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.7555242799453338,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.7236516201230618,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.6987088588489552,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.6344921853827347,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6340253254624415,
+        "id": "352a6cae-8749-47c6-8fba-36228a556495",
+        "created_at": "2026-11-03T09:31:59.602804+00:00",
+        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+      },
+      {
+        "memory": "John considers his basketball team to be like a second family, noting that being with them brings him happiness and helps him remember what is important in life.",
+        "score": 0.6318607274195551,
+        "id": "a63408f7-2db7-4a35-aef4-b9da53609d6e",
+        "created_at": "2026-11-03T09:20:51.671504+00:00",
+        "updated_at": "2026-11-03T09:20:51.671504+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.628264314718264,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.6242926534615248,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be when he hit a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.6093409498800326,
+        "id": "75a2a2e3-e6c5-4259-b4cf-19d97f2b314a",
+        "created_at": "2026-11-03T09:31:54.815580+00:00",
+        "updated_at": "2026-11-03T09:31:54.815580+00:00"
+      },
+      {
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
+        "score": 0.6062571903062055,
+        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
+        "created_at": "2026-11-03T09:31:10.118402+00:00",
+        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+      },
+      {
+        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.6038699473223075,
+        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
+        "created_at": "2026-11-03T09:32:06.205210+00:00",
+        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.6028734979236137,
+        "id": "969be255-a1ca-4d01-b397-74f2a6b0309d",
+        "created_at": "2026-11-03T09:32:06.200820+00:00",
+        "updated_at": "2026-11-03T09:32:06.200820+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
+        "score": 0.6008221855765362,
+        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
+        "created_at": "2026-11-03T09:08:04.819221+00:00",
+        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+      },
+      {
+        "memory": "John recalled a basketball game from late 2022 where his team was trailing significantly in the fourth quarter but managed to overturn the deficit, describing the final buzzer as an unforgettable feeling.",
+        "score": 0.5957165534198394,
+        "id": "240311a0-ad98-4c79-8404-ae18d5cbbcdb",
+        "created_at": "2026-11-03T09:22:07.683408+00:00",
+        "updated_at": "2026-11-03T09:22:07.683408+00:00"
+      },
+      {
+        "memory": "John shared that he faced a tough time in basketball when he made a significant mistake during a big game, which was hard to accept but taught him the importance of resilience and owning up to mistakes to keep growing as a player and teammate.",
+        "score": 0.595014293792871,
+        "id": "c3942134-7fe7-4303-a64e-0d0e42748b71",
+        "created_at": "2026-11-03T09:27:30.848083+00:00",
+        "updated_at": "2026-11-03T09:27:30.848083+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
+        "score": 0.5948790662572073,
+        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
+        "created_at": "2026-11-03T09:08:28.250746+00:00",
+        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+      },
+      {
+        "memory": "John recalls a basketball game last year (around 2022) where his team was trailing significantly in the 4th quarter but dug deep to overturn the deficit, describing the final buzzer as an unforgettable feeling of satisfaction.",
+        "score": 0.5943003551833567,
+        "id": "aea9e827-291b-4c73-8b57-b943f847b4df",
+        "created_at": "2026-11-03T09:22:52.051450+00:00",
+        "updated_at": "2026-11-03T09:22:52.051450+00:00"
+      },
+      {
+        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
+        "score": 0.5916397258079462,
+        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
+        "created_at": "2026-11-03T09:31:59.607323+00:00",
+        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+      }
+    ],
+    "search_latency_ms": 128.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described the arena atmosphere as electric.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the key descriptor 'electric' from the gold answer, which satisfies the partial credit rule."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described the atmosphere as electric, noting that the rivalry match added extra intensity.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key descriptors from the gold answer ('electric' and 'intensity'), accurately reflecting the atmosphere described."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described the atmosphere as electric, noting that the rivalry match added extra intensity.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key descriptors from the gold answer ('electric' and 'intensity'), accurately reflecting the atmosphere described."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described the atmosphere as electric, noting that the rivalry match added extra intensity.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both key descriptors from the gold answer ('electric' and 'intensity'), accurately reflecting the atmosphere described."
+    }
+  }
+}

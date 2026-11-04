@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q87",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John describe the team bond?",
+  "ground_truth_answer": "Awesome",
+  "evidence": [
+    "D5:6"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How did John describe the team bond?",
+    "search_results": [
+      {
+        "memory": "John describes his basketball team as his second family, emphasizing the close bond and happiness derived from being with both his biological family and teammates.",
+        "score": 0.7338867581101405,
+        "id": "568c2ce7-d73a-4bff-b69f-45e070731488",
+        "created_at": "2026-11-03T09:20:44.109250+00:00",
+        "updated_at": "2026-11-03T09:20:44.109250+00:00"
+      },
+      {
+        "memory": "John states that his team's bond is awesome and makes all the hard work worth it, following a discussion about winning a tough game.",
+        "score": 0.6807213216453551,
+        "id": "54c1cf8a-c6ec-4186-adb0-72a172596712",
+        "created_at": "2026-11-03T08:56:51.137212+00:00",
+        "updated_at": "2026-11-03T08:56:51.137212+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.6791145374321591,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "Tim is currently reading an inspiring series about the power of friendship and loyalty and asked John how his team maintains their bond.",
+        "score": 0.63471668731903,
+        "id": "af75bdef-c061-416c-93f1-43dfb357328a",
+        "created_at": "2026-11-03T09:31:15.577396+00:00",
+        "updated_at": "2026-11-03T09:31:15.577396+00:00"
+      },
+      {
+        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
+        "score": 0.6300873673845702,
+        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
+        "created_at": "2026-11-03T09:34:16.754297+00:00",
+        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+      },
+      {
+        "memory": "John's team participated in a scrimmage the week of December 18-24, 2023, where they gave it their all and observed significant growth in communication and bonding, which improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6224334534484877,
+        "id": "dc92065d-f7a7-418d-8dff-2f97ad60067e",
+        "created_at": "2026-11-03T09:34:11.783377+00:00",
+        "updated_at": "2026-11-03T09:34:11.783377+00:00"
+      },
+      {
+        "memory": "John's basketball team has seen the most growth in communication and bonding, which has improved their performance by helping them understand each other's strengths and weaknesses.",
+        "score": 0.6074328446607962,
+        "id": "0faf66fb-99c5-4663-ab4b-c85bbb363304",
+        "created_at": "2026-11-03T09:34:01.061702+00:00",
+        "updated_at": "2026-11-03T09:34:01.061702+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.595400674668708,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.5913318122638228,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5844931108932209,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.5826094820537897,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      },
+      {
+        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
+        "score": 0.5819701008993982,
+        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
+        "created_at": "2026-11-03T09:00:00.851565+00:00",
+        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.5816896514406659,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
+        "score": 0.5792957829932995,
+        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
+        "created_at": "2026-11-03T09:31:36.065792+00:00",
+        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.5776246463328206,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
+        "score": 0.5745690850091442,
+        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
+        "created_at": "2026-11-03T09:31:10.118402+00:00",
+        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+      },
+      {
+        "memory": "John suffered a sprained ankle injury that required him to miss games and use a cast, which he described as frustrating because it prevented him from helping his team.",
+        "score": 0.5705691671728347,
+        "id": "0066e99b-7570-4293-bb36-09414c61c012",
+        "created_at": "2026-11-03T09:33:27.511616+00:00",
+        "updated_at": "2026-11-03T09:33:27.511616+00:00"
+      },
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.57019456903514,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
+        "score": 0.5678431931815477,
+        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
+        "created_at": "2026-11-03T09:31:15.581413+00:00",
+        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+      },
+      {
+        "memory": "John shared a photo of a soccer team posing with a trophy while discussing his basketball team's resilience against tough opponents",
+        "score": 0.5660254850748064,
+        "id": "676b6ee4-5cac-4f4f-8e4e-a80b747926bf",
+        "created_at": "2026-11-03T09:17:50.515252+00:00",
+        "updated_at": "2026-11-03T09:17:50.515252+00:00"
+      }
+    ],
+    "search_latency_ms": 140.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described the team bond as \"awesome\" and likened his basketball team to his \"second family,\" emphasizing the \"close bond\" and \"strong camaraderie\" that makes the hard work worth it.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly includes the word 'awesome', which matches the gold answer exactly, and adds supporting details that do not contradict the core sentiment."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "second family",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'second family' is a specific metaphor for a strong bond, whereas the gold answer 'Awesome' is a general positive adjective; they do not share the same semantic meaning or refer to the same specific description."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "second family",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'second family' is a specific metaphor for a strong bond, whereas the gold answer 'Awesome' is a general positive adjective; they do not share the same semantic meaning or refer to the same specific description."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "second family",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'second family' is a specific metaphor for a strong bond, whereas the gold answer 'Awesome' is a general positive adjective; they do not share the same semantic meaning or refer to the same specific description."
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q50",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Which book was John reading during his recovery from an ankle injury?",
+  "ground_truth_answer": "The Alchemist",
+  "evidence": [
+    "D19:20",
+    "D18:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which book was John reading during his recovery from an ankle injury?",
+    "search_results": [
+      {
+        "memory": "John sustained an ankle injury around mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery",
+        "score": 0.8417762076614352,
+        "id": "f6722ccc-a90d-48e0-a21e-5e77ecbe6ee1",
+        "created_at": "2026-11-03T09:25:27.751522+00:00",
+        "updated_at": "2026-11-03T09:25:27.751522+00:00"
+      },
+      {
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
+        "score": 0.8409454430462319,
+        "id": "c8cb7b1c-f738-48a0-b413-f6fc90a653c6",
+        "created_at": "2026-11-03T09:25:00.270438+00:00",
+        "updated_at": "2026-11-03T09:25:00.270438+00:00"
+      },
+      {
+        "memory": "John shared that last season he suffered a major ankle injury requiring time off and physical therapy, which was a tough mental and physical challenge as he could not play or help his team.",
+        "score": 0.8396085951902865,
+        "id": "8457f3c1-cc4d-47c5-9cc9-e16a0d9278a8",
+        "created_at": "2026-11-03T09:27:35.176156+00:00",
+        "updated_at": "2026-11-03T09:27:35.176156+00:00"
+      },
+      {
+        "memory": "John shared a photo of his ankle injury wrapped in bandages while discussing how rough the week has been due to the injury, though he remains positive about recovery.",
+        "score": 0.8383484202689717,
+        "id": "a6de2a7c-9ff8-4cf1-9c82-31a6e12f40b2",
+        "created_at": "2026-11-03T09:25:14.038576+00:00",
+        "updated_at": "2026-11-03T09:25:14.038576+00:00"
+      },
+      {
+        "memory": "John is currently dealing with an ankle injury as of mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
+        "score": 0.8382276122514559,
+        "id": "8bd4fd03-3bf7-43dd-8f6e-4abd9e40edb6",
+        "created_at": "2026-11-03T09:25:39.142562+00:00",
+        "updated_at": "2026-11-03T09:25:39.142562+00:00"
+      },
+      {
+        "memory": "John suffered a major ankle injury last season (around 2022) that required time off and physical therapy, which was a frustrating mental and physical challenge because he could not play or help his team.",
+        "score": 0.8350400434247913,
+        "id": "ffec463d-d335-4f51-acf0-e3bcfde5f165",
+        "created_at": "2026-11-03T09:27:28.123489+00:00",
+        "updated_at": "2026-11-03T09:27:28.123489+00:00"
+      },
+      {
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making the week tough but remains positive about it.",
+        "score": 0.834259362171435,
+        "id": "4ab884ec-cd7c-4fa3-a73a-93d4a6dbd5ee",
+        "created_at": "2026-11-03T09:25:54.231060+00:00",
+        "updated_at": "2026-11-03T09:25:54.231060+00:00"
+      },
+      {
+        "memory": "John suffered an ankle injury around mid-November 2023 that he describes as rough but not too serious according to his doctor",
+        "score": 0.832765718522845,
+        "id": "7eb80dbf-bec5-4d47-94d2-9d8aa584b9ed",
+        "created_at": "2026-11-03T09:26:25.476199+00:00",
+        "updated_at": "2026-11-03T09:26:25.476199+00:00"
+      },
+      {
+        "memory": "John is undergoing daily physical therapy exercises to recover from his ankle injury and has been working hard on his rehab routine.",
+        "score": 0.8246645845573758,
+        "id": "46a759f1-c9e1-4c8d-87a5-a598cd2d3442",
+        "created_at": "2026-11-03T09:33:30.161658+00:00",
+        "updated_at": "2026-11-03T09:33:30.161658+00:00"
+      },
+      {
+        "memory": "John's doctor stated that his ankle injury is not too serious, providing reassurance about the severity of the condition as of November 16, 2023.",
+        "score": 0.8214922979259214,
+        "id": "dce409c3-1d07-46df-9a36-8f0b08cbae1c",
+        "created_at": "2026-11-03T09:26:14.501778+00:00",
+        "updated_at": "2026-11-03T09:26:14.501778+00:00"
+      },
+      {
+        "memory": "John is recovering from his ankle injury by performing physical therapy exercises every day to stay active during rehab.",
+        "score": 0.8202401284886742,
+        "id": "844fadb9-6bfd-47e7-8c25-e02529617cb8",
+        "created_at": "2026-11-03T09:33:27.514833+00:00",
+        "updated_at": "2026-11-03T09:33:27.514833+00:00"
+      },
+      {
+        "memory": "John suffered a sprained ankle injury that required him to miss games and use a cast, which he described as frustrating because it prevented him from helping his team.",
+        "score": 0.8077320781168226,
+        "id": "0066e99b-7570-4293-bb36-09414c61c012",
+        "created_at": "2026-11-03T09:33:27.511616+00:00",
+        "updated_at": "2026-11-03T09:33:27.511616+00:00"
+      },
+      {
+        "memory": "John suffered a sprained ankle injury that required him to miss games and use crutches, which he described as frustrating because he could not help his team.",
+        "score": 0.8048428096661213,
+        "id": "de115d76-af16-48d3-b44a-3d528fbf13e8",
+        "created_at": "2026-11-03T09:33:30.158406+00:00",
+        "updated_at": "2026-11-03T09:33:30.158406+00:00"
+      },
+      {
+        "memory": "John identified his toughest challenge in basketball as an ankle injury last season that required time off and physical therapy, which was frustrating but taught him the importance of patience and perseverance.",
+        "score": 0.7960799183384722,
+        "id": "d79981a4-f3e4-49e3-8019-b2d00417dc94",
+        "created_at": "2026-11-03T09:27:15.606846+00:00",
+        "updated_at": "2026-11-03T09:27:15.606846+00:00"
+      },
+      {
+        "memory": "John is currently dealing with a sports injury that prevents him from playing on the court, which he finds frustrating, but the doctor indicated it is not too serious and he remains positive about his recovery.",
+        "score": 0.7902130242231599,
+        "id": "99868cae-315a-42b9-afdc-b33ac2f99980",
+        "created_at": "2026-11-03T09:26:39.492860+00:00",
+        "updated_at": "2026-11-03T09:26:39.492860+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.7611935510847546,
+        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
+        "created_at": "2026-11-03T09:33:27.522504+00:00",
+        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.7611935510847546,
+        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
+        "created_at": "2026-11-03T09:33:30.168403+00:00",
+        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+      },
+      {
+        "memory": "John is undergoing daily physical therapy exercises to stay active and recover from his recent sports injury, which he finds tough but necessary.",
+        "score": 0.7467006310078834,
+        "id": "0d2592b5-77bd-4859-b20a-a350ab8f8b40",
+        "created_at": "2026-11-03T09:33:12.733423+00:00",
+        "updated_at": "2026-11-03T09:33:12.733423+00:00"
+      },
+      {
+        "memory": "John injured his ankle recently, which required him to miss games and prevented him from helping his team. He is currently recovering by doing physical therapy exercises every day.",
+        "score": 0.6697748068125923,
+        "id": "4c98f7b4-8531-4fe4-a249-30612852c5bb",
+        "created_at": "2026-11-03T09:33:23.059024+00:00",
+        "updated_at": "2026-11-03T09:33:23.059024+00:00"
+      },
+      {
+        "memory": "John is currently recovering from an injury that prevents him from playing soccer, which he describes as difficult to handle since he hates not being on the court. The doctor indicated the injury is not too serious, and John remains optimistic about his recovery.",
+        "score": 0.6226676525139989,
+        "id": "7317d05e-a7f7-4b43-8148-f210720819eb",
+        "created_at": "2026-11-03T09:26:53.043169+00:00",
+        "updated_at": "2026-11-03T09:26:53.043169+00:00"
+      }
+    ],
+    "search_latency_ms": 168.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories describe John undergoing daily physical therapy exercises and staying positive about his recovery, but they do not identify a specific book he was reading.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states that the memories do not identify a specific book, failing to recall the correct title 'The Alchemist' provided in the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not mention a specific book John was reading; they focus on his physical therapy, doctor's visits, and return to jogging.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the memories do not mention a specific book, failing to recall the correct title 'The Alchemist' provided in the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not mention a specific book John was reading; they focus on his physical therapy, doctor's visits, and return to jogging.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the memories do not mention a specific book, failing to recall the correct title 'The Alchemist' provided in the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not mention a specific book John was reading; they focus on his physical therapy, doctor's visits, and return to jogging.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the memories do not mention a specific book, failing to recall the correct title 'The Alchemist' provided in the gold answer."
+    }
+  }
+}

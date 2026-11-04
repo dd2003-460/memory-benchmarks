@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q51",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What kind of yoga for building core strength might John benefit from?",
+  "ground_truth_answer": "Hatha Yoga",
+  "evidence": [
+    "D20:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What kind of yoga for building core strength might John benefit from?",
+    "search_results": [
+      {
+        "memory": "John is trying out yoga to build extra strength and flexibility, finding the practice challenging but worthwhile.",
+        "score": 0.8548032526303266,
+        "id": "b1593dbd-2bf7-4f4f-9bcd-b209c9a216e5",
+        "created_at": "2026-11-03T09:29:08.079406+00:00",
+        "updated_at": "2026-11-03T09:29:08.079406+00:00"
+      },
+      {
+        "memory": "John is trying out yoga to gain extra strength and flexibility, finding the practice challenging but worth it as of December 1, 2023.",
+        "score": 0.8078810598341173,
+        "id": "c7ab2140-9e9c-4f2d-b6d5-21ec2be3820b",
+        "created_at": "2026-11-03T09:28:35.442088+00:00",
+        "updated_at": "2026-11-03T09:28:35.442088+00:00"
+      },
+      {
+        "memory": "John has started practicing yoga to improve strength, flexibility, focus, and balance during workouts, finding the practice challenging but worthwhile.",
+        "score": 0.7189145767748394,
+        "id": "ce0ca4c9-b225-47a9-af34-7ab090c58a08",
+        "created_at": "2026-11-03T09:29:03.715424+00:00",
+        "updated_at": "2026-11-03T09:29:03.715424+00:00"
+      },
+      {
+        "memory": "John explains that strength training is important for his basketball performance because it builds muscle, increases power, prevents injuries, and enhances explosiveness and overall athleticism.",
+        "score": 0.7009998934203437,
+        "id": "d9b07dd7-65a9-4e4a-8cc5-a5c190ee6cc6",
+        "created_at": "2026-11-03T09:09:10.940379+00:00",
+        "updated_at": "2026-11-03T09:09:10.940379+00:00"
+      },
+      {
+        "memory": "John believes strength training is crucial for basketball because it builds muscle, increases power, prevents injuries, and enhances explosiveness and overall athleticism.",
+        "score": 0.6924713105365544,
+        "id": "bb9a0ee8-4c4f-410f-b9ad-bf4c9e61ddb4",
+        "created_at": "2026-11-03T09:09:22.078322+00:00",
+        "updated_at": "2026-11-03T09:09:22.078322+00:00"
+      },
+      {
+        "memory": "John reported that yoga has improved his strength, flexibility, focus, and balance during workouts as of December 1, 2023.",
+        "score": 0.6885929080874915,
+        "id": "0ba6dffb-8ab2-4e93-a57f-300138c6eda6",
+        "created_at": "2026-11-03T09:28:43.324640+00:00",
+        "updated_at": "2026-11-03T09:28:43.324640+00:00"
+      },
+      {
+        "memory": "John states that incorporating strength training significantly improved his basketball performance by enhancing shooting accuracy, agility, and speed, giving him a competitive edge over opponents and boosting his confidence.",
+        "score": 0.6871427582089098,
+        "id": "f3d32b27-0235-4e7a-ac3d-d61246baade6",
+        "created_at": "2026-11-03T09:09:15.444097+00:00",
+        "updated_at": "2026-11-03T09:09:15.444097+00:00"
+      },
+      {
+        "memory": "John typically holds the Warrior II yoga pose for 30-60 seconds to build strength and stability.",
+        "score": 0.6669480373374592,
+        "id": "bfa58b48-cad3-4bde-b2c3-3da3889d4de2",
+        "created_at": "2026-11-03T09:29:08.087263+00:00",
+        "updated_at": "2026-11-03T09:29:08.087263+00:00"
+      },
+      {
+        "memory": "Incorporating strength training improved John's shooting accuracy, agility, and speed, giving him an upper hand over opponents and boosting his confidence on the court.",
+        "score": 0.6658754611343553,
+        "id": "40ed420c-7fb1-4a10-a571-a9cbbd00809e",
+        "created_at": "2026-11-03T09:09:22.083167+00:00",
+        "updated_at": "2026-11-03T09:09:22.083167+00:00"
+      },
+      {
+        "memory": "John typically holds the Warrior II yoga pose for 30-60 seconds, noting that it helps build strength and stability in his legs and core.",
+        "score": 0.6628503600263073,
+        "id": "5e420670-7076-4f22-ad68-3ca1b59b0b2c",
+        "created_at": "2026-11-03T09:28:58.405908+00:00",
+        "updated_at": "2026-11-03T09:28:58.405908+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II and a balance-focused pose in his yoga routine, noting that these poses make him feel strong and challenge both his body and mind.",
+        "score": 0.6533268875057281,
+        "id": "0175b5bd-39c1-4a7f-958d-d06376373c75",
+        "created_at": "2026-11-03T09:28:48.196046+00:00",
+        "updated_at": "2026-11-03T09:28:48.196046+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II pose in his yoga routine because it makes him feel strong, and he also practices a balance-focused pose for stability.",
+        "score": 0.6376075052874645,
+        "id": "de5206c2-eecb-469f-a680-702e86c051d8",
+        "created_at": "2026-11-03T09:29:08.084144+00:00",
+        "updated_at": "2026-11-03T09:29:08.084144+00:00"
+      },
+      {
+        "memory": "Tim plans to try the Warrior II yoga pose after John shared a photo of himself performing it on a blue mat.",
+        "score": 0.6068489868291533,
+        "id": "19f371e0-ac6c-47d9-b011-9dac094f1c2e",
+        "created_at": "2026-11-03T09:29:08.090564+00:00",
+        "updated_at": "2026-11-03T09:29:08.090564+00:00"
+      },
+      {
+        "memory": "John enjoys practicing Warrior II pose for strength and another balance-focused pose for stability, typically holding poses for 30-60 seconds to build strength and stability.",
+        "score": 0.6018683528584498,
+        "id": "9af2da00-0d21-44e6-bb47-1257bee9d523",
+        "created_at": "2026-11-03T09:29:03.719053+00:00",
+        "updated_at": "2026-11-03T09:29:03.719053+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout routine combining basketball-specific training and strength training after some trial and error, emphasizing listening to his body and ensuring adequate rest.",
+        "score": 0.5802407413490045,
+        "id": "eac7f40e-7544-4a93-a5ca-21602394cb2d",
+        "created_at": "2026-11-03T09:09:22.073753+00:00",
+        "updated_at": "2026-11-03T09:09:22.073753+00:00"
+      },
+      {
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, emphasizing listening to his body and ensuring adequate rest to maintain performance during practice.",
+        "score": 0.5717111726154924,
+        "id": "1790bd58-3e4f-41bc-90f1-9f3b0c2934e9",
+        "created_at": "2026-11-03T09:09:06.580424+00:00",
+        "updated_at": "2026-11-03T09:09:06.580424+00:00"
+      },
+      {
+        "memory": "Off the court, John is actively looking into securing more endorsements and building his personal brand to prepare for life after basketball.",
+        "score": 0.5314027663820823,
+        "id": "ca31824b-a0fe-49cf-add5-3a0cc05771a3",
+        "created_at": "2026-11-03T09:15:54.765932+00:00",
+        "updated_at": "2026-11-03T09:15:54.765932+00:00"
+      },
+      {
+        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
+        "score": 0.5313802572521074,
+        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
+        "created_at": "2026-11-03T09:14:58.691644+00:00",
+        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
+        "score": 0.3246154668725083,
+        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
+        "created_at": "2026-11-03T09:36:13.201951+00:00",
+        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+      },
+      {
+        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
+        "score": 0.31488238388260487,
+        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
+        "created_at": "2026-11-03T09:36:18.490072+00:00",
+        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+      }
+    ],
+    "search_latency_ms": 136.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Warrior II",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Warrior II' is a specific yoga pose, whereas the gold answer 'Hatha Yoga' is a style of yoga; they are not the same concept and the generated answer does not contain the correct item."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Yoga for strength and flexibility (specifically involving Warrior II and balance-focused poses)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a general type of yoga focusing on strength and specific poses, but it does not mention or reference the specific style 'Hatha Yoga' required by the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Yoga for strength and flexibility (specifically involving Warrior II and balance-focused poses)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a general type of yoga focusing on strength and specific poses, but it does not mention or reference the specific style 'Hatha Yoga' required by the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Yoga for strength and flexibility (specifically involving Warrior II and balance-focused poses)",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a general type of yoga focusing on strength and specific poses, but it does not mention or reference the specific style 'Hatha Yoga' required by the gold answer."
+    }
+  }
+}

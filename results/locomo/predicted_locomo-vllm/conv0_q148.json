@@ -8,42 +8,183 @@
   "evidence": [
     "D18:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What was Melanie's reaction to her children enjoying the Grand Canyon?",
-    "search_results": [],
-    "search_latency_ms": 22.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's family visited the Grand Canyon during their road trip in mid-October 2023, and her children enjoyed the experience despite being initially scared by the earlier car accident.",
+        "score": 0.930066130226807,
+        "id": "10797fc7-5083-494d-9c54-5e7413718dfb",
+        "created_at": "2026-11-04T06:03:39.890420+00:00",
+        "updated_at": "2026-11-04T06:03:39.890420+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.915956474139613,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.9035870284037554,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of two children standing on a rocky cliff overlooking the Grand Canyon, noting that her family enjoyed visiting the Grand Canyon during their recent road trip.",
+        "score": 0.8916647580593249,
+        "id": "5ab6cd8b-4b5d-4de0-bff5-3215324bd03b",
+        "created_at": "2026-11-04T06:03:25.851653+00:00",
+        "updated_at": "2026-11-04T06:03:25.851653+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.6606705060087823,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6520012542918056,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6520012542918056,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.6465992288149193,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors.",
+        "score": 0.6459314290466752,
+        "id": "e1e3aa63-b6f9-4b51-b2a1-0ac3573761bb",
+        "created_at": "2026-11-04T06:00:29.005627+00:00",
+        "updated_at": "2026-11-04T06:00:29.005627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the playground.",
+        "score": 0.6366983656837851,
+        "id": "b8ade876-9899-44a0-afad-863850ad3837",
+        "created_at": "2026-11-04T06:00:23.805891+00:00",
+        "updated_at": "2026-11-04T06:00:23.805891+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the playground equipment like climbing nets and slides.",
+        "score": 0.6362801360847568,
+        "id": "05248bf6-162b-4bac-a0ca-31a3e64bf012",
+        "created_at": "2026-11-04T06:00:01.354836+00:00",
+        "updated_at": "2026-11-04T06:00:01.354836+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the jungle gym outdoors.",
+        "score": 0.6301151804706475,
+        "id": "454fba23-cae9-4c21-94bf-4405ff75ed32",
+        "created_at": "2026-11-04T06:00:34.430100+00:00",
+        "updated_at": "2026-11-04T06:00:34.430100+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.6300911945752845,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach with her kids recently, sharing a photo of three children playing with a kite on the sandy shore, noting that the kids had a blast.",
+        "score": 0.6285401348305183,
+        "id": "89ce89ea-57e4-4623-a44b-c6d01a5b099d",
+        "created_at": "2026-11-04T05:52:33.632847+00:00",
+        "updated_at": "2026-11-04T05:52:33.632847+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit; Melanie noted that seeing their excitement reminded her why she loves being a mom.",
+        "score": 0.6282085773095065,
+        "id": "155c2dad-9198-4ded-86e3-15261877ae41",
+        "created_at": "2026-11-04T05:21:46.421198+00:00",
+        "updated_at": "2026-11-04T05:21:46.421198+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and made her feel lucky to share such moments.",
+        "score": 0.6279914027645013,
+        "id": "5e916563-28a6-4ffa-8fe8-462314da6aac",
+        "created_at": "2026-11-04T05:53:04.141412+00:00",
+        "updated_at": "2026-11-04T05:53:04.141412+00:00"
+      },
+      {
+        "memory": "Melanie cherishes the memory of her youngest child taking their first steps, noting that watching them wobble put into perspective how fleeting life is and how lucky she is to share these moments.",
+        "score": 0.627241616673566,
+        "id": "685cb850-da10-408b-bb57-39a6bf6b5092",
+        "created_at": "2026-11-04T05:53:09.143096+00:00",
+        "updated_at": "2026-11-04T05:53:09.143096+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.6258623581356286,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie has children who enjoyed playing on a jungle gym at a park around August 27, 2023.",
+        "score": 0.6226914059199455,
+        "id": "965fd577-3992-42ee-b3a3-28547b4082c2",
+        "created_at": "2026-11-04T06:00:04.636095+00:00",
+        "updated_at": "2026-11-04T06:00:04.636095+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of herself and a child hiking on a mountain trail with Caroline on October 20, 2023, while discussing how her children handled a recent accident involving their brother.",
+        "score": 0.6169460853612395,
+        "id": "0fcabfa7-3314-4bac-9856-1f7e8186d018",
+        "created_at": "2026-11-04T06:03:50.702337+00:00",
+        "updated_at": "2026-11-04T06:03:50.702337+00:00"
+      }
+    ],
+    "search_latency_ms": 125.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie noted that her family enjoyed visiting the Grand Canyon and shared photos of her children there.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states the family enjoyed the visit, which aligns with the positive sentiment of the gold answer (happy and thankful), satisfying the semantic overlap and emotion valence rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie noted that her family enjoyed visiting the Grand Canyon.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states the family enjoyed the visit, which aligns with the positive sentiment of the gold answer (happy and thankful), satisfying the semantic overlap and same referent rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie noted that her family enjoyed visiting the Grand Canyon.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states the family enjoyed the visit, which aligns with the positive sentiment of the gold answer (happy and thankful), satisfying the semantic overlap and same referent rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie noted that her family enjoyed visiting the Grand Canyon.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states the family enjoyed the visit, which aligns with the positive sentiment of the gold answer (happy and thankful), satisfying the semantic overlap and same referent rules."
     }
   }
 }

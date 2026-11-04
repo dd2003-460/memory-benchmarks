@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q74",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What aspects of the Harry Potter universe will be discussed in John's fan project collaborations?",
+  "ground_truth_answer": "characters, spells, magical creatures",
+  "evidence": [
+    "D1:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What aspects of the Harry Potter universe will be discussed in John's fan project collaborations?",
+    "search_results": [
+      {
+        "memory": "John loves the first Harry Potter movie and owns the entire collection, sharing a photo of his DVD set on August 21, 2023.",
+        "score": 0.7929373978050732,
+        "id": "a41b1086-00af-4c6b-a1c8-d0fe0ee44b34",
+        "created_at": "2026-11-03T09:10:00.603750+00:00",
+        "updated_at": "2026-11-03T09:10:00.603750+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.7830920145963182,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.7769710846038738,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
+        "score": 0.7713833726745021,
+        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
+        "created_at": "2026-11-03T09:30:59.620007+00:00",
+        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+      },
+      {
+        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.7655899413891253,
+        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
+        "created_at": "2026-11-03T09:35:14.098792+00:00",
+        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling inspired like he got a new lease of life among a magical family of fans",
+        "score": 0.7592759301039551,
+        "id": "e4a06a7c-b597-439b-aa84-c6fc61a73461",
+        "created_at": "2026-11-03T09:17:50.511805+00:00",
+        "updated_at": "2026-11-03T09:17:50.511805+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
+        "score": 0.7497538666322983,
+        "id": "aa1733f2-a816-4079-bc52-d96a40636724",
+        "created_at": "2026-11-03T09:17:34.445242+00:00",
+        "updated_at": "2026-11-03T09:17:34.445242+00:00"
+      },
+      {
+        "memory": "Tim is going to Universal Studios for the first time and is particularly excited about the Harry Potter attractions there.",
+        "score": 0.7495720543707386,
+        "id": "795851d2-4ad6-4f3e-bb4f-b6aee65c35ac",
+        "created_at": "2026-11-03T09:12:56.886443+00:00",
+        "updated_at": "2026-11-03T09:12:56.886443+00:00"
+      },
+      {
+        "memory": "John is a fan of fantasy literature, specifically citing The Hobbit and another popular fantasy series (implied to be Harry Potter or Game of Thrones) as favorites that provide an escape from reality.",
+        "score": 0.7486546256070431,
+        "id": "f28a8fcf-26b1-48df-96b3-f8c5c20937d0",
+        "created_at": "2026-11-03T09:29:41.604619+00:00",
+        "updated_at": "2026-11-03T09:29:41.604619+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling like he was part of a magical family with others who shared his passion for fantasy.",
+        "score": 0.7453261041355628,
+        "id": "ff933eb6-aa95-48a9-a4d8-481e0dfc0fdc",
+        "created_at": "2026-11-03T09:17:29.418179+00:00",
+        "updated_at": "2026-11-03T09:17:29.418179+00:00"
+      },
+      {
+        "memory": "Tim is planning his first trip to Universal Studios in September 2023 and is particularly excited about the Harry Potter attractions.",
+        "score": 0.7450769574489547,
+        "id": "48dedacd-a512-4713-b6bf-1f72140928ab",
+        "created_at": "2026-11-03T09:13:05.379106+00:00",
+        "updated_at": "2026-11-03T09:13:05.379106+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party around December 8, 2023, describing it as the coolest experience where he met many people who shared his interest in the franchise and had a lot of fun.",
+        "score": 0.7321159029467408,
+        "id": "5d3e9f19-e271-4c6f-8b55-1ee7640fec9b",
+        "created_at": "2026-11-03T09:30:57.354701+00:00",
+        "updated_at": "2026-11-03T09:30:57.354701+00:00"
+      },
+      {
+        "memory": "Tim felt inspired by the Harry Potter conference and described gaining a new lease of life, noting that his passion for fantasy brings him closer to people from all over the world.",
+        "score": 0.7308729280226635,
+        "id": "1d3d0ec2-c0c9-4a5f-9d35-f492b8538a45",
+        "created_at": "2026-11-03T09:17:29.424332+00:00",
+        "updated_at": "2026-11-03T09:17:29.424332+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf around December 1, 2023, which is filled with fantasy novels including Game of Thrones and Harry Potter series, as well as DVDs and games.",
+        "score": 0.7301440114946056,
+        "id": "c444b778-8aff-43bc-a1e8-fd584e249a92",
+        "created_at": "2026-11-03T09:29:21.154703+00:00",
+        "updated_at": "2026-11-03T09:29:21.154703+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in October 2023, which will be his first time visiting the park, and he is particularly excited about the Harry Potter attractions.",
+        "score": 0.7297910976036609,
+        "id": "4ac47a99-a30c-4dd3-a031-222a2bea001e",
+        "created_at": "2026-11-03T09:13:40.595721+00:00",
+        "updated_at": "2026-11-03T09:13:40.595721+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023, which will be his first time visiting the park. He is particularly excited about the Harry Potter attractions and looks forward to sharing how the experience goes.",
+        "score": 0.7231741660611622,
+        "id": "86c14756-7e7d-427e-a939-15558dfa26d0",
+        "created_at": "2026-11-03T09:13:26.752987+00:00",
+        "updated_at": "2026-11-03T09:13:26.752987+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in early December 2023, where he met many people with similar interests and enjoyed the experience significantly.",
+        "score": 0.7206547476033274,
+        "id": "330d0a11-9e8a-4591-999e-8c902afc9501",
+        "created_at": "2026-11-03T09:31:10.110533+00:00",
+        "updated_at": "2026-11-03T09:31:10.110533+00:00"
+      },
+      {
+        "memory": "Tim decorated a Christmas tree with a Harry Potter theme himself, describing it as a fun project he is really happy with how it turned out.",
+        "score": 0.718331666939749,
+        "id": "df433231-a812-4ea0-9b88-400b8dc56224",
+        "created_at": "2026-11-03T09:10:46.396552+00:00",
+        "updated_at": "2026-11-03T09:10:46.396552+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.7096680208622118,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      },
+      {
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
+        "score": 0.7086228722138647,
+        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
+        "created_at": "2026-11-03T09:31:15.570485+00:00",
+        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+      }
+    ],
+    "search_latency_ms": 151.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Harry Potter trivia",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Harry Potter trivia' is a general category that does not specifically mention or clearly encompass the distinct items listed in the gold answer (characters, spells, magical creatures), failing to demonstrate recall of the specific aspects requested."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not explicitly mention a \"fan project collaboration\" for John. However, based on his stated interests, the aspects of the Harry Potter universe he focuses on and discusses are the **movies** (specifically the **first Harry Potter movie** and the **entire film collection**) and **trivia** (as evidenced by his attendance at a Harry Potter trivia charity event).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies 'movies' and 'trivia' as the aspects, whereas the gold answer specifies 'characters, spells, magical creatures'; none of the specific items in the gold answer are present in the generated response."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not explicitly mention a \"fan project collaboration\" for John. However, based on his stated interests, the aspects of the Harry Potter universe he focuses on and discusses are the **movies** (specifically the **first Harry Potter movie** and the **entire film collection**) and **trivia** (as evidenced by his attendance at a Harry Potter trivia charity event).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies 'movies' and 'trivia' as the aspects, whereas the gold answer specifies 'characters, spells, magical creatures'; none of the specific items in the gold answer are present in the generated response."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not explicitly mention a \"fan project collaboration\" for John. However, based on his stated interests, the aspects of the Harry Potter universe he focuses on and discusses are the **movies** (specifically the **first Harry Potter movie** and the **entire film collection**) and **trivia** (as evidenced by his attendance at a Harry Potter trivia charity event).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies 'movies' and 'trivia' as the aspects, whereas the gold answer specifies 'characters, spells, magical creatures'; none of the specific items in the gold answer are present in the generated response."
+    }
+  }
+}

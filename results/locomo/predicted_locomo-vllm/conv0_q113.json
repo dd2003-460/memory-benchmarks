@@ -8,42 +8,183 @@
   "evidence": [
     "D8:9"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Caroline see at the council meeting for adoption?",
-    "search_results": [],
-    "search_latency_ms": 18.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional, reinforcing her determination to adopt children in need.",
+        "score": 0.940703144061267,
+        "id": "91a5c49d-e3dc-4062-8af0-2933d05d3f0a",
+        "created_at": "2026-11-04T05:23:44.940082+00:00",
+        "updated_at": "2026-11-04T05:23:44.940082+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional, reinforcing her determination to adopt children in need.",
+        "score": 0.940703144061267,
+        "id": "fcdf5327-8b90-45e2-a38a-478c167a1987",
+        "created_at": "2026-11-04T05:23:25.365466+00:00",
+        "updated_at": "2026-11-04T05:23:25.365466+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional, strengthening her determination to adopt.",
+        "score": 0.9345287384347276,
+        "id": "a4d6046e-66e5-4048-8ae4-bf74b9791a64",
+        "created_at": "2026-11-04T05:23:30.972014+00:00",
+        "updated_at": "2026-11-04T05:23:30.972014+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional due to the presence of many people wanting to create loving homes for children in need, further strengthening her determination to adopt.",
+        "score": 0.9317947265094372,
+        "id": "f29019dd-87dd-4f68-a3d1-4052bd3dd91c",
+        "created_at": "2026-11-04T05:23:22.678623+00:00",
+        "updated_at": "2026-11-04T05:23:22.678623+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional due to the many people wanting to create loving homes for children in need, further strengthening her determination to adopt.",
+        "score": 0.931250506393664,
+        "id": "3c2b1def-40bd-4910-be29-688548039352",
+        "created_at": "2026-11-04T05:23:48.356613+00:00",
+        "updated_at": "2026-11-04T05:23:48.356613+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Caroline contacted her mentor for adoption advice, expressing readiness to become a mother and share her love and family.",
+        "score": 0.7037945873012508,
+        "id": "d43ff30e-22e9-4b51-a9ea-d323afe31b46",
+        "created_at": "2026-11-04T06:02:09.175425+00:00",
+        "updated_at": "2026-11-04T06:02:09.175425+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption and contacted her mentor for advice, expressing a strong desire to be a mom and provide a safe, loving home for children who need it.",
+        "score": 0.7028794800883147,
+        "id": "76d6badb-0737-4f30-b0ff-ba69aa5fbebc",
+        "created_at": "2026-11-04T06:02:24.070122+00:00",
+        "updated_at": "2026-11-04T06:02:24.070122+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice around October 13, 2023, expressing readiness to adopt and provide a safe, loving home for children who need it.",
+        "score": 0.7023963433293509,
+        "id": "b4bc5223-1ed6-4592-8c67-d6c49ed26c62",
+        "created_at": "2026-11-04T06:02:18.577808+00:00",
+        "updated_at": "2026-11-04T06:02:18.577808+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.701552024033126,
+        "id": "a1f53685-6a27-4c3a-93f5-09dc79eb4c66",
+        "created_at": "2026-11-04T06:02:15.980555+00:00",
+        "updated_at": "2026-11-04T06:02:15.980555+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, having contacted her mentor for advice on October 13, 2023, and describes it as a dream to provide a safe, loving home for children who need it.",
+        "score": 0.701552024033126,
+        "id": "bf3cdf07-20e4-4905-8b4d-e8e3307c6f7d",
+        "created_at": "2026-11-04T06:02:29.189110+00:00",
+        "updated_at": "2026-11-04T06:02:29.189110+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, feeling ready to be a mom and provide a safe, loving home for children who need it, and contacted her mentor for advice on the process in October 2023.",
+        "score": 0.7010936874589254,
+        "id": "f1f420e8-1004-476e-8987-b7c059967622",
+        "created_at": "2026-11-04T06:02:32.133675+00:00",
+        "updated_at": "2026-11-04T06:02:32.133675+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6984608452909222,
+        "id": "daa5251d-0c22-40d6-8695-dfc7b114716f",
+        "created_at": "2026-11-04T06:04:38.583531+00:00",
+        "updated_at": "2026-11-04T06:04:38.583531+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe home for children who have not previously had one.",
+        "score": 0.6984608452909222,
+        "id": "e459fc93-eb8a-4833-affd-0490b31c8c20",
+        "created_at": "2026-11-04T06:04:35.562351+00:00",
+        "updated_at": "2026-11-04T06:04:35.562351+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had that experience, viewing it as a way to give back and show love and acceptance.",
+        "score": 0.697165432147525,
+        "id": "3d6b6d01-065c-4803-87ed-737c6424c941",
+        "created_at": "2026-11-04T06:04:32.771393+00:00",
+        "updated_at": "2026-11-04T06:04:32.771393+00:00"
+      },
+      {
+        "memory": "Caroline's vision for adoption is to create a safe and loving home for children who have not had one, viewing it as a way to give back and show love and acceptance to those in need.",
+        "score": 0.6965049372051512,
+        "id": "97e8d851-559a-4acc-ae6f-160c33d1fd2b",
+        "created_at": "2026-11-04T06:04:29.748515+00:00",
+        "updated_at": "2026-11-04T06:04:29.748515+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice on October 13, 2023, expressing readiness to become a mom and share her love and family.",
+        "score": 0.6962805156826243,
+        "id": "8c3c22ad-820e-42ab-838a-eea5b593d9f5",
+        "created_at": "2026-11-04T06:02:06.124501+00:00",
+        "updated_at": "2026-11-04T06:02:06.124501+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the decision to apply for adoption.",
+        "score": 0.6956423094552524,
+        "id": "6ed84bfe-0e9f-4cca-b64e-ea8386e11d40",
+        "created_at": "2026-11-04T05:55:31.484018+00:00",
+        "updated_at": "2026-11-04T05:55:31.484018+00:00"
+      },
+      {
+        "memory": "Caroline passed the adoption agency interviews on October 13, 2023, and is excited to build a family through adoption as a way to give back and provide a safe home for children who have not had one.",
+        "score": 0.6946930830111786,
+        "id": "b3ecf981-55c3-4eff-8472-121f71ce5128",
+        "created_at": "2026-11-04T06:04:27.140966+00:00",
+        "updated_at": "2026-11-04T06:04:27.140966+00:00"
+      },
+      {
+        "memory": "Caroline applied to adoption agencies in August 2023, taking the first step towards becoming a mom, and found the decision exciting but nerve-wracking due to the responsibility of parenting.",
+        "score": 0.6942551946042782,
+        "id": "92eaebe0-63ea-411e-835a-39f8a9671f1a",
+        "created_at": "2026-11-04T05:55:39.030405+00:00",
+        "updated_at": "2026-11-04T05:55:39.030405+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe and loving home where children can experience these values.",
+        "score": 0.6926007724681229,
+        "id": "30e36e98-2292-45e6-a6d1-d9eba650a546",
+        "created_at": "2026-11-04T06:04:27.152384+00:00",
+        "updated_at": "2026-11-04T06:04:27.152384+00:00"
+      }
+    ],
+    "search_latency_ms": 122.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "many people wanting to create loving homes for children in need",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "many people wanting to create loving homes for children in need",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "many people wanting to create loving homes for children in need",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "many people wanting to create loving homes for children in need",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is an exact match to the gold answer."
     }
   }
 }

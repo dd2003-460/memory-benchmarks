@@ -8,42 +8,183 @@
   "evidence": [
     "D4:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What does Caroline's necklace symbolize?",
-    "search_results": [],
-    "search_latency_ms": 20.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline received a special necklace from her grandmother in Sweden when she was young, which symbolizes love, faith, and strength and serves as a reminder of her roots and family support.",
+        "score": 0.7283310148061835,
+        "id": "6ccc01af-a12e-4e5e-9be6-aa32ae4ca84a",
+        "created_at": "2026-11-04T05:18:19.806351+00:00",
+        "updated_at": "2026-11-04T05:18:19.806351+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.7262146999238628,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline received a necklace featuring a cross and a heart from her grandmother in Sweden when she was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.7250113183472835,
+        "id": "6e0f15fb-ec6b-4267-9d39-80dfebcb21a7",
+        "created_at": "2026-11-04T05:17:48.250489+00:00",
+        "updated_at": "2026-11-04T05:17:48.250489+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.7185523274296198,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and received a necklace with a cross and heart from her grandmother when she was young; it stands for love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.7170274016932954,
+        "id": "34143b53-748f-46a0-8147-af770ddeeb3d",
+        "created_at": "2026-11-04T05:18:01.036617+00:00",
+        "updated_at": "2026-11-04T05:18:01.036617+00:00"
+      },
+      {
+        "memory": "Caroline owns a necklace with a cross and heart that was a gift from her grandmother in Sweden when she was young, which she treasures as a reminder of her roots, love, faith, and strength.",
+        "score": 0.7157131092385399,
+        "id": "abb8d797-8751-45d1-896a-273e3f4fa10f",
+        "created_at": "2026-11-04T05:18:07.238677+00:00",
+        "updated_at": "2026-11-04T05:18:07.238677+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and owns a special necklace with a cross and heart that was a gift from her grandmother when she was young, symbolizing love, faith, strength, and her roots.",
+        "score": 0.7150535459135525,
+        "id": "f71f1647-fd45-4fe0-b066-1124b8bc4368",
+        "created_at": "2026-11-04T05:17:55.692771+00:00",
+        "updated_at": "2026-11-04T05:17:55.692771+00:00"
+      },
+      {
+        "memory": "Caroline views art as a symbol of togetherness that celebrates differences and brings people closer, and she expressed interest in creating similar works in the future.",
+        "score": 0.6666402836039169,
+        "id": "52ae85ca-6c23-49b2-b5b7-815481956acd",
+        "created_at": "2026-11-04T05:59:26.157146+00:00",
+        "updated_at": "2026-11-04T05:59:26.157146+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to create art similar to a painted sidewalk with a rainbow design, viewing it as a symbol of togetherness that celebrates differences and brings people closer together.",
+        "score": 0.6599436777299489,
+        "id": "c54209e6-f3ab-4202-bb46-36ae0f781840",
+        "created_at": "2026-11-04T05:59:01.075387+00:00",
+        "updated_at": "2026-11-04T05:59:01.075387+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking. She describes it as a reminder to love her authentic self, noting that while it took time, she is finally proud of who she is.",
+        "score": 0.6596693249488864,
+        "id": "fdcf5ad1-0d61-452f-a8fc-0e820e1ce570",
+        "created_at": "2026-11-04T06:01:43.676483+00:00",
+        "updated_at": "2026-11-04T06:01:43.676483+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a necklace featuring a cross and a heart with Melanie on June 27, 2023, noting that a lot has been going on in her life since they last spoke.",
+        "score": 0.6590932094682278,
+        "id": "1776f4a8-f886-44ce-96c7-f6f066c24976",
+        "created_at": "2026-11-04T05:17:15.144107+00:00",
+        "updated_at": "2026-11-04T05:17:15.144107+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting using red and blue to represent the binary gender system, with mixed colors symbolizing the rejection of rigid thinking and her pride in being her authentic self.",
+        "score": 0.6537946004149474,
+        "id": "14852e9d-332a-4c62-bc2f-4c4ca30438a7",
+        "created_at": "2026-11-04T06:02:09.163880+00:00",
+        "updated_at": "2026-11-04T06:02:09.163880+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting with red and blue brush strokes to represent her journey, using the colors to symbolize smashing the rigid binary gender system and celebrating her authentic self.",
+        "score": 0.6524206423594229,
+        "id": "b644f069-3ac7-4956-bd52-eacc26d224f1",
+        "created_at": "2026-11-04T06:02:06.111279+00:00",
+        "updated_at": "2026-11-04T06:02:06.111279+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6446733142906177,
+        "id": "356d6a17-ce10-4959-9e13-f050103dff94",
+        "created_at": "2026-11-04T05:23:48.359902+00:00",
+        "updated_at": "2026-11-04T05:23:48.359902+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6446733142906177,
+        "id": "ba3d2efc-d758-495e-9078-d3c8e14312d3",
+        "created_at": "2026-11-04T05:23:27.589481+00:00",
+        "updated_at": "2026-11-04T05:23:27.589481+00:00"
+      },
+      {
+        "memory": "Caroline expressed interest in creating art that symbolizes togetherness and celebrating differences, inspired by a painted sidewalk with a rainbow design.",
+        "score": 0.6422965632162033,
+        "id": "6664aa0c-3359-4c58-a773-b46591c8f90d",
+        "created_at": "2026-11-04T05:59:07.221868+00:00",
+        "updated_at": "2026-11-04T05:59:07.221868+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6388188919796651,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline created a drawing of a woman in a dress featuring a transgender flag, which she describes as symbolizing freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6368544264500804,
+        "id": "ae24f12b-4f7d-4576-9f7f-7d977d6499b9",
+        "created_at": "2026-11-04T06:03:21.414907+00:00",
+        "updated_at": "2026-11-04T06:03:21.414907+00:00"
+      },
+      {
+        "memory": "Caroline describes her drawing of a woman in a dress featuring the transgender flag as symbolizing freedom and authenticity, serving as a reminder to stay true to herself and embrace her womanhood.",
+        "score": 0.6356446174037791,
+        "id": "3ed73239-3169-411f-af57-534d7d0520c6",
+        "created_at": "2026-11-04T06:03:07.071302+00:00",
+        "updated_at": "2026-11-04T06:03:07.071302+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes on a canvas to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking in favor of authentic self-love.",
+        "score": 0.6342002109938748,
+        "id": "0bcc5f2a-2de3-47d0-9d9d-99772b5fc237",
+        "created_at": "2026-11-04T06:01:46.612735+00:00",
+        "updated_at": "2026-11-04T06:01:46.612735+00:00"
+      }
+    ],
+    "search_latency_ms": 113.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline's necklace symbolizes love, faith, and strength, and serves as a reminder of her roots and family support.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all the key elements from the gold answer (love, faith, and strength) and adds extra detail, which is acceptable."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Love, faith, and strength, serving as a reminder of her roots and family support.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all three key elements from the gold answer (love, faith, and strength) and adds extra context, which is acceptable under the rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Love, faith, and strength, serving as a reminder of her roots and family support.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the key elements from the gold answer (love, faith, and strength) and adds extra context, which is acceptable under the rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Love, faith, and strength, serving as a reminder of her roots and family support.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all three key elements from the gold answer (love, faith, and strength) and adds extra context, which is acceptable under the rules."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D18:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How did Melanie feel about her family supporting her?",
-    "search_results": [],
-    "search_latency_ms": 21.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.7701187612922886,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie's family has been supportive during her move, helping out and showing love and support through tough times.",
+        "score": 0.7345038993989433,
+        "id": "930ecc95-4e59-469f-865b-b1513ae34237",
+        "created_at": "2026-11-04T05:24:18.761536+00:00",
+        "updated_at": "2026-11-04T05:24:18.761536+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that her family has been supportive during her move, helping out and showing lots of love and support.",
+        "score": 0.7060363354730508,
+        "id": "e3d2bd47-f198-4fe2-9f8d-35ddc9f7a63e",
+        "created_at": "2026-11-04T05:24:14.276540+00:00",
+        "updated_at": "2026-11-04T05:24:14.276540+00:00"
+      },
+      {
+        "memory": "Melanie was involved in a car accident during a family trip around October 20, 2023, which left her scared but relieved that her son was okay; the incident reinforced her belief that life is precious and she should cherish her family.",
+        "score": 0.6759113559155427,
+        "id": "75e21bc2-9d1b-4edf-90d2-c0d6a89eedc2",
+        "created_at": "2026-11-04T06:03:44.677421+00:00",
+        "updated_at": "2026-11-04T06:03:44.677421+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.6692863476428236,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.6596460753240586,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.6590888162746273,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie describes her children as tough and resilient, noting that they give her the strength to keep going and are her biggest motivation and support.",
+        "score": 0.6540357562477465,
+        "id": "0a424348-c3f9-44b2-a32b-b3d22838282b",
+        "created_at": "2026-11-04T06:03:39.894465+00:00",
+        "updated_at": "2026-11-04T06:03:39.894465+00:00"
+      },
+      {
+        "memory": "Melanie described a recent family picnic as fun, noting that they played games, ate good food, and hung out together, which she feels makes life awesome.",
+        "score": 0.6464425831630719,
+        "id": "9cd19b6d-0f4b-4536-9d5d-f03e8c0a3210",
+        "created_at": "2026-11-04T05:17:06.071821+00:00",
+        "updated_at": "2026-11-04T05:17:06.071821+00:00"
+      },
+      {
+        "memory": "Melanie described the car accident during her family road trip as a scary experience that served as a reminder that life is precious and to cherish her family.",
+        "score": 0.641608468059043,
+        "id": "fec6b83d-7987-41f2-9bab-e62f86456650",
+        "created_at": "2026-11-04T06:03:21.419222+00:00",
+        "updated_at": "2026-11-04T06:03:21.419222+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.6342468969042856,
+        "id": "b7bdfd7a-7c6e-44d1-bbe6-60dace627a17",
+        "created_at": "2026-11-04T05:57:38.759126+00:00",
+        "updated_at": "2026-11-04T05:57:38.759126+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering with her family at a homeless shelter, finding it hard to see neglected people but rewarding to feel like they could make a difference.",
+        "score": 0.6342468969042856,
+        "id": "3acfcf1c-14eb-478d-8555-bd137a2a6aaa",
+        "created_at": "2026-11-04T05:58:39.157054+00:00",
+        "updated_at": "2026-11-04T05:58:39.157054+00:00"
+      },
+      {
+        "memory": "Melanie spent the day volunteering at a homeless shelter with her family on August 24, 2023, finding it hard to see neglected people but rewarding to feel like they could make a difference",
+        "score": 0.6327963080787,
+        "id": "de00b8bb-88e9-4302-9397-54676071b6bd",
+        "created_at": "2026-11-04T05:57:49.622661+00:00",
+        "updated_at": "2026-11-04T05:57:49.622661+00:00"
+      },
+      {
+        "memory": "Melanie spent the day with her family volunteering at a homeless shelter on August 24, 2023, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.6289005075973185,
+        "id": "2f596526-886e-4624-8c9f-fee9f7ab4a05",
+        "created_at": "2026-11-04T05:58:00.812063+00:00",
+        "updated_at": "2026-11-04T05:58:00.812063+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see how neglected some people are but great to feel like they could make a difference.",
+        "score": 0.6278237194395337,
+        "id": "f5f978bd-b125-42c9-9052-174ca73def27",
+        "created_at": "2026-11-04T05:57:44.100333+00:00",
+        "updated_at": "2026-11-04T05:57:44.100333+00:00"
+      },
+      {
+        "memory": "Melanie spent the day on August 24, 2023, volunteering at a homeless shelter with her family, finding it hard to see neglected people but great to feel like they could make a difference.",
+        "score": 0.6275612735222709,
+        "id": "7d60aa81-3e7e-4e1b-9b2b-55c556fb3234",
+        "created_at": "2026-11-04T05:58:44.944953+00:00",
+        "updated_at": "2026-11-04T05:58:44.944953+00:00"
+      },
+      {
+        "memory": "Melanie recalled watching her youngest child take their first steps, noting that the moment highlighted how fleeting life is and how lucky she feels to share such milestones with her family.",
+        "score": 0.6186249292110093,
+        "id": "f758fc57-fa8e-4f6f-88a2-805d0f359d70",
+        "created_at": "2026-11-04T05:53:34.133373+00:00",
+        "updated_at": "2026-11-04T05:53:34.133373+00:00"
+      },
+      {
+        "memory": "Melanie spent August 24, 2023, volunteering at a homeless shelter with her family, describing the experience as hard to see how neglected some people are but great to feel like they were making a difference.",
+        "score": 0.6184681401006162,
+        "id": "0ecdc590-3c29-4f90-ae14-418a350ed853",
+        "created_at": "2026-11-04T05:58:53.110551+00:00",
+        "updated_at": "2026-11-04T05:58:53.110551+00:00"
+      },
+      {
+        "memory": "Melanie stated on July 15, 2023, that creativity and family keep her at peace.",
+        "score": 0.6169093572916784,
+        "id": "b928af57-72a0-4136-bc90-906235c3c124",
+        "created_at": "2026-11-04T05:24:10.251602+00:00",
+        "updated_at": "2026-11-04T05:24:10.251602+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.6162584576905965,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      }
+    ],
+    "search_latency_ms": 125.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie feels that her family is her biggest motivation and support, noting that they give her the strength to keep going. She appreciates their help and love during tough times, such as her move and the car accident, which reinforced her belief that she should cherish her family.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states that Melanie appreciates her family's help and love, which directly matches the gold answer's sentiment that she appreciated them a lot."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie felt that her family kept her at peace, gave her the strength to keep going, and were her biggest motivation and support. She also expressed feeling lucky to share milestones with them and emphasized the importance of cherishing her family, particularly after a car accident.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes Melanie's feelings as positive (peace, strength, motivation, lucky), which aligns with the gold answer's statement that she 'appreciated them a lot,' satisfying the semantic overlap and sentiment rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie felt that her family kept her at peace, gave her the strength to keep going, and were her biggest motivation and support. She also felt lucky to share life's milestones with them and cherishes them deeply, especially after a recent car accident reinforced how precious life is.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that Melanie cherishes her family deeply and views them as her biggest support, which semantically aligns with the gold answer's statement that she appreciated them a lot."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie feels that her family gives her the strength to keep going, serves as her biggest motivation and support, and keeps her at peace. She also feels lucky to share life's milestones with them and cherishes them deeply.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses that Melanie cherishes her family and feels lucky to have their support, which is semantically equivalent to appreciating them a lot."
     }
   }
 }
