@@ -40,6 +40,7 @@
 ## Conv4 rerun #2（entity guard）进度快照 @ 21:35
 
 - run-id `full01-eg`，PID 30338，ingestion 680/680 ✅（21:26 完成，0 failed）
-- 答题 5/178，~1.5min/题 → 预计 ~02:00 出分
-- 检索已验证正常：q0 命中 championship memory score 0.93
+- 答题 8/178（21:35），~1.1min/题 → 预计 ~01:30 出分
+- **早期 OD 信号**：q3 baseline WRONG→rerun CORRECT ✅（模型正确关联 Tim fantasy 偏好→C.S.Lewis，entity guard 生效）；q5 仍 WRONG（检索层问题，非 guard 可修）
+- 已答 7 题 5/7 CORRECT（multi-hop 4/4 保持高位）
 - Baseline: conv4 OD 2/14 (14.3%)；预期 entity guard 修 3 题 → ~29-43%
