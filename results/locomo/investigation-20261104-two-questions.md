@@ -127,3 +127,31 @@ Entity guard 对 OD 的提升是真实的（+28.6pp），但远未达到预测�
 - **Comprehension 才是主瓶颈**（6/8）：模型看到了相关记忆但未能正确综合/推理出完整答案
 - **Pure reasoning 仅 2/8**（q53, q70）：需要跨记忆综合或外部知识，非本框架可解
 - **下一步优先级**：推理层改进（CoT / multi-step prompt / answer synthesis）>> retrieval 策略改进
+
+### OD 诊断二次修正（@ 11-04 深夜 · prompt smoke test + mem0 search 验证）
+
+用新 prompt（含 Step 8 Answer Synthesis）对 q5 和 q66 做 smoke test，并用 mem0 search API 验证答案实体是否存在于数据库中：
+
+| 题目 | 答案实体 | 在 mem0 中？ | 在 top_10 检索中？ | 旧诊断 | 修正后诊断 |
+|---|---|---|---|---|---|
+| q5 (House of MinaLima) | MinaLima | ✅ 存在（rank #9） | ✅ rank #9 | COMPREHENSION | **REASONING**（多步推理链断裂：HP→MinaLima→NYC shop） |
+| q66 (Star Wars Jedi Apprentice) | Jedi Apprentice by Judy Blundell | ❌ **不存在** | ❌ 不在 top_20 | COMPREHENSION | **INGESTION LOSS**（书名未被 mem0 extraction 捕获） |
+
+**关键发现**：
+1. q66 的 "Jedi Apprentice" 在 mem0 数据库中完全不存在——mem0 search API 返回 0 匹配。这是 ingestion 层丢失，不是 comprehension 或 retrieval 问题。
+2. q5 的 "MinaLima" 在 mem0 中存在且被检索到（rank #9），但即使 top_200 包含该记忆，模型仍无法完成 "Tim collects HP → MinaLima made HP props → House of MinaLima in NYC" 的多步推理。这是纯 reasoning 瓶颈。
+3. **Prompt 改进（Step 8 Answer Synthesis）对这两题均无效**——smoke test 确认模型做了完整推理但仍答错。
+
+**OD 8 题最终分类（三次修正后）**：
+
+| 类型 | 题目 | 数量 | 可修复性 |
+|---|---|---|---|
+| INGESTION LOSS（实体/书名未入库） | q66 (Jedi Apprentice), 可能还有 q19/q34/q51 中部分 | ~2-4 | 需改 extraction prompt 或 entity guard 扩展 |
+| REASONING（多步推理/外部知识） | q5 (MinaLima→NYC), q53, q70 | 3 | 模型能力瓶颈，prompt 无法修复 |
+| COMPREHENSION（看到但未综合） | 剩余 | ~1-3 | prompt 改进可能有效，需全量验证 |
+
+**下一步优先级修正**：
+1. ~~Retrieval 层改进~~（收益有限，多数失败不是 ranking 问题）
+2. ~~Prompt 改进~~（smoke test 显示对 reasoning/ingestion 类无效）
+3. **Ingestion 层改进**（entity guard 扩展到更多实体类型：书名、品牌名、地名）→ 修 q66 类
+4. **换更强 answerer model**（reasoning 类需要更强的多步推理能力）→ 修 q5/q53/q70
