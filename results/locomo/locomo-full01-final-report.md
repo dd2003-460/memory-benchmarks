@@ -86,7 +86,18 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 
 conv1 按类别：single-hop 70.5%→75.0%, temporal 80.8%→84.6%, multi-hop 72.7%→81.8%。
 
-**判定更新**：temporal ≥50% 目标线达标 ✅（五 conv 合并 81.4%）；overall top_10 五 conv 75.3%，仍超 full-context baseline（72.9%）。**open-domain 是明确短板**（54.3%），conv4 的 open-domain 尤其弱——这类问题依赖长尾细节，top_10 截断丢信息严重，是后续优化首要方向（加大 cutoff / 改检索策略 / 针对 open-domain 做 query rewriting）。
+**判定更新**：temporal ≥50% 目标线达标 ✅（五 conv 合并 81.4%）；overall top_10 五 conv 75.3%，仍超 full-context baseline（72.9%）。**open-domain 是明确短板**（54.3%），conv4 的 open-domain 尤其弱——这类问题依赖长尾细节，top_10 截断丢信息严重。
+
+**cutoff 敏感性分析（零成本实验，用已有数据）**：
+
+| cutoff | overall | open-domain | single-hop | multi-hop | temporal |
+|---|---|---|---|---|---|
+| top_10 | 75.3% | **54.3%** | 73.9% | 79.6% | 81.4% |
+| top_20 | 78.7% | 56.5% | 76.3% | 82.4% | 81.4% |
+| top_50 | **79.0%** | **58.7%** | 77.8% | 84.5% | 82.1% |
+| top_200 | 78.6% | 54.3% | 78.2% | 83.8% | 82.1% |
+
+结论：**加大 cutoff 救不了 open-domain**。top_50 是 overall 最优（79.0%），但 open-domain 从 top_10 到 top_200 只在 54-59% 间波动，说明瓶颈不是"检索池太小"而是"检索到的记忆本身不含答案所需细节"（ingestion 时丢失或从未写入）。后续方向应是 ingestion 侧（保留更多细节/改分块策略）+ query rewriting，而非扩大检索窗口。
 
 ## 外部参照系（2026-11-04 调研，conf: 中——各家协议不完全一致，仅量级对比）
 
