@@ -1,0 +1,302 @@
+[
+  {
+    "memory": "FACT: John mentioned 'Tim' — Hey Tim, nice to meet you! What's up?...",
+    "source": "session_1[0]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Harry Potter' — ...scussing collaborations for a Harry Potter fan project I am working on -...",
+    "source": "session_1[1]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'John' — Hey John! Great to meet you. Been disc...",
+    "source": "session_1[1]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Minnesota Wolves' — The Minnesota Wolves! I can't wait to play with th...",
+    "source": "session_1[4]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'London' — I went to a place in London a few years ago - it was like...",
+    "source": "session_1[17]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Potter' — ...was like walking into a Harry Potter movie! I also went on a tour...",
+    "source": "session_1[17]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Nike' — ...onsidering sports brands like Nike and Under Armour. It would be...",
+    "source": "session_2[3]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Under Armour' — ...g sports brands like Nike and Under Armour. It would be great to collabo...",
+    "source": "session_2[3]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'MinaLima' — Thanks! That picture is from MinaLima. They created all the props f...",
+    "source": "session_2[8]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'California' — ...at with a Harry Potter fan in California. It was magical!",
+    "source": "session_3[1]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Gatorade' — ...deal. I'm also in talks with Gatorade about a potential sponsorship...",
+    "source": "session_3[12]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Congrats' — Wow, Congrats on those deals with Nike and...",
+    "source": "session_3[13]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Gatorade' — ...on those deals with Nike and Gatorade! You're killing it! Any other...",
+    "source": "session_3[13]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Nike' — ...Congrats on those deals with Nike and Gatorade! You're killing...",
+    "source": "session_3[13]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Seattle' — It's Seattle, I'm stoked for my game there...",
+    "source": "session_3[18]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Seattle' — Cool! What do you love about Seattle?",
+    "source": "session_3[19]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Game' — For sure! Harry Potter and Game of Thrones are amazing - I'm...",
+    "source": "session_4[6]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Thrones' — ...ure! Harry Potter and Game of Thrones are amazing - I'm totally hoo...",
+    "source": "session_4[6]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Anthony' — ...tter! I've got a funny story. Anthony and I went to this charity th...",
+    "source": "session_4[7]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Harry Potter' — ...remember you telling me about Harry Potter! I've got a funny story. Anth...",
+    "source": "session_4[7]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Patrick Rothfuss' — It's a book by Patrick Rothfuss and it's awesome! The way the...",
+    "source": "session_5[14]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Chicago' — I was in Chicago, it was awesome! It had so mu...",
+    "source": "session_6[2]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Chicago' — Wow, Chicago sounds great! It's refreshing...",
+    "source": "session_6[3]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Name' — Thanks! \"The Name of the Wind\" is great. It's a...",
+    "source": "session_6[7]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Thanksgiving' — ...day! Do you have any favorite Thanksgiving traditions?",
+    "source": "session_8[20]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Thanksgiving' — During Thanksgiving, we usually watch a few movie...",
+    "source": "session_8[23]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Santa' — We love \"The Santa Clause\" too- it's so heartwar...",
+    "source": "session_8[27]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Christmas' — ...sweet and really captures the Christmas magic. It's just one of those...",
+    "source": "session_8[28]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Santa' — \"The Santa Clause\" is a classic! It's so...",
+    "source": "session_8[28]"
+  },
+  {
+    "memory": "FACT: John mentioned 'New York City' — ...s pic from one of my trips to New York City!",
+    "source": "session_9[5]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Universal Studios' — ...By the way, have you been to Universal Studios? Planning a trip there next m.",
+    "source": "session_10[8]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Universal Studios' — ...I've heard great things about Universal Studios. It's definitely on my bucket",
+    "source": "session_10[9]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Scotland' — Edinburgh, Scotland would be great for a magical...",
+    "source": "session_11[9]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Edinburgh' — ...great idea! I haven't been to Edinburgh yet, but it definitely sounds...",
+    "source": "session_11[10]"
+  },
+  {
+    "memory": "FACT: John mentioned 'LeBron' — ...ves are my team for sure. And LeBron is the man - love his skills...",
+    "source": "session_12[19]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'LeBron' — The Wolves are solid and LeBron's skills and leadership are a...",
+    "source": "session_12[20]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Wolves' — The Wolves are solid and LeBron's skills...",
+    "source": "session_12[20]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Smoky Mountains' — ...ed that pic on my trip to the Smoky Mountains last year. It was incredible...",
+    "source": "session_14[15]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Finals' — ...tching LeBron. There was this Finals game a few years back with an...",
+    "source": "session_16[8]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Finals' — ...ic block in Game 7 of the '16 Finals? He chased down Iguodala and...",
+    "source": "session_16[9]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Game' — Remember that epic block in Game 7 of the '16 Finals? He chase...",
+    "source": "session_16[9]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Iguodala' — ...he '16 Finals? He chased down Iguodala and pinned the ball against t...",
+    "source": "session_16[9]"
+  },
+  {
+    "memory": "FACT: John mentioned 'European' — ...wife and I just left for our European vacation! It will be short bu...",
+    "source": "session_16[13]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Rocky Mountains' — ...calming the soul. This was my Rocky Mountains trip last year and it was stu..",
+    "source": "session_20[39]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Gryffindor' — ...any character, but I wore my Gryffindor scarf. Everyone had cool cost...",
+    "source": "session_22[2]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Frank Herbert' — I'm reading \"Dune\" by Frank Herbert. It's a great story about rel...",
+    "source": "session_22[11]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Dance' — ...reat things! Just finished \"A Dance with Dragons\" and it's a real...",
+    "source": "session_22[12]"
+  },
+  {
+    "memory": "FACT: John mentioned 'George' — ...ng book. Have you read all of George R. R. Martin's books?",
+    "source": "session_22[13]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'English' — ...n, I had a tough time with my English lit class. Did an analysis on...",
+    "source": "session_23[1]"
+  },
+  {
+    "memory": "FACT: John mentioned 'English' — ...nks! It's a bummer about your English lit class, but you did your b...",
+    "source": "session_23[2]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Himalayas' — ...ikers who trekked through the Himalayas, sounds awesome!",
+    "source": "session_26[7]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Himalayas' — ...ging was the trek through the Himalayas?",
+    "source": "session_26[8]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Watson' — Emma Watson, she's a big supporter of gen...",
+    "source": "session_26[15]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Lord' — ...Here's a pic of my favorite, Lord of the Rings!",
+    "source": "session_26[31]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Rings' — ...c of my favorite, Lord of the Rings!",
+    "source": "session_26[31]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Wheel' — ...that's coming out called \"The Wheel of Time\". It's based on a boo...",
+    "source": "session_26[35]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Italy' — ...By the way, have you been to Italy? I had a blast there last mon...",
+    "source": "session_27[1]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'German' — ...azing, isn't it? I'm learning German now - tough but fun. Do you k...",
+    "source": "session_27[4]"
+  },
+  {
+    "memory": "FACT: John mentioned 'German' — ...w! Impressive you're learning German. I know a bit of it myself an...",
+    "source": "session_27[5]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Spanish' — ...I know a bit of it myself and Spanish, it makes travel so much easi...",
+    "source": "session_27[5]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'French' — ...it's much easier when I took French in high school. What made you...",
+    "source": "session_27[6]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Spanish' — ...What made you decide to learn Spanish?",
+    "source": "session_27[6]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Star Wars' — Definitely Star Wars! It's my favorite and never g...",
+    "source": "session_27[20]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Lord' — I'm a huge fan of Lord of the Rings! The adventure,...",
+    "source": "session_27[21]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Rings' — I'm a huge fan of Lord of the Rings! The adventure, the world, an...",
+    "source": "session_27[21]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Aragorn' — ...ing. My favorite character is Aragorn, he grows so much throughout...",
+    "source": "session_27[23]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Gondor' — ...ng - from a ranger to king of Gondor. It's amazing how he grows an...",
+    "source": "session_27[26]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Paris' — ...is awesome. Have you been to Paris? The Eiffel Tower is so cool!",
+    "source": "session_27[36]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Ireland' — ...d for! Next month, I'm off to Ireland for a semester.",
+    "source": "session_28[0]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Galway' — Thanks! I'm gonna stay in Galway, it's great for its arts and...",
+    "source": "session_28[2]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Irish' — ..., it's great for its arts and Irish music. This place has such a...",
+    "source": "session_28[2]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Galway' — Awesome, Galway looks amazing! Is there anyth...",
+    "source": "session_28[3]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'Moher' — I want to visit The Cliffs of Moher. It has amazing ocean views a...",
+    "source": "session_28[6]"
+  },
+  {
+    "memory": "FACT: Tim mentioned 'The Cliffs' — I want to visit The Cliffs of Moher. It has amazing ocea...",
+    "source": "session_28[6]"
+  },
+  {
+    "memory": "FACT: John mentioned 'Name' — \"The Name of the Wind\" sounds cool. I'l...",
+    "source": "session_28[17]"
+  }
+]
