@@ -49,13 +49,14 @@
 
 | 类型 | 题目 | 根因 | Guard 可修？ |
 |---|---|---|---|
-| A: 实体 ingestion 丢 | q5 (MinaLima), q8 (Under Armour) | 专有名词被泛化抽取 | ❌ 需改 extraction prompt |
+| A: 实体 ingestion 丢 | q5 (MinaLima) | 专有名词被泛化抽取 | ❌ 需改 extraction prompt |
+| A': 实体在源文本, guard 可修 | q8 (Under Armour) | guard 保留实体名→模型推理成功 | ✅ 已验证修复 |
 | B: 需世界知识推理 | q3 (C.S.Lewis←fantasy), q27 (Pomodoro←"25min on/5min off"), q51 (Hatha Yoga) | 源文本无答案词，需模型推断 | ✅ guard 保留素材助推理 |
 | C: 多跳/常识 | q15,q19,q28,q32,q34,q53,q66,q67,q70 | 跨记忆综合或外部常识 | ⚠️ 部分可修 |
 
 - **q27 关键发现**："Pomodoro" 在源文本中 0 次出现，Tim 只说 "25 minutes on, then 5 minutes off"——纯推理题
 - **q51**："Hatha" 0 次出现，只有 "trying out yoga to get extra strength"
-- **预测**：guard 主要修 B 类（3 题），A 类（2 题）修不了 → OD 上限约 5-7/14 (36-50%)
+- **预测修正**（11 题早期数据）：q8 Under Armour 被 guard 修复 → A 类真失败仅 q5 (MinaLima)；OD 上限可能到 8-9/14 (57-64%)
 
 ### Entity Guard 正则覆盖验证（@ 21:48）
 
