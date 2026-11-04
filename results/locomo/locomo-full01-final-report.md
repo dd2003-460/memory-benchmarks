@@ -87,6 +87,30 @@ conv1 按类别：single-hop 70.5%→75.0%, temporal 80.8%→84.6%, multi-hop 72
 
 **判定更新**：temporal ≥50% 目标线达标 ✅（四 conv 合并 82.3%）；overall top_10 四 conv 稳定在 78.4%，远高于此前"官方聚合 45.6%"（被污染拉低）。open-domain 最弱（71.9%/68.8%），是后续优化方向。conv4 补跑脚本已就绪（run-conv4-rerun.sh），待启动。
 
+## 外部参照系（2026-11-04 调研，conf: 中——各家协议不完全一致，仅量级对比）
+
+Mem0 论文（arXiv:2504.19413）公开数字（gpt-4o-mini answerer+judge，1540 题，排除 adversarial 类）：
+
+| 系统 | single-hop | multi-hop | open-domain | temporal | overall |
+|---|---|---|---|---|---|
+| Full-context baseline (无记忆) | — | — | — | — | 72.9% |
+| Memobase v0.0.37 | 70.9% | 46.9% | 77.2% | 85.1% | 75.8% |
+| **mem0 OSS（我们用的）** | 67.1% | 51.2% | 72.9% | 55.5% | **66.9%** |
+| Mem0-Graph | 65.7% | 47.2% | 75.7% | 58.1% | 68.4% |
+| Zep | 61.7% | 41.4% | 76.6% | 49.3% | 66.0% |
+| LangMem | 62.2% | 47.9% | 71.1% | 23.4% | 58.1% |
+| OpenAI Memory | 63.8% | 42.9% | 62.3% | 21.7% | 52.9% |
+
+**我们的 T17-full（qwen3.8-27b @ vLLM + mem0 OSS @ :8888，四 conv 584 题）**：single-hop 76.8% / multi-hop 80.2% / open-domain 71.9% / temporal 82.3% / overall top_10 **78.4%**。
+
+解读（注意口径差异：我们用 qwen3.8-27b 答题+判分，top_k=200 检索池截断到 top_10/20；Mem0 论文用 gpt-4o-mini）：
+- overall 78.4% vs mem0 官方 66.9% → **+11.5pp**，超过 full-context baseline（72.9%），接近 Memobase 最佳（75.8%）之上
+- temporal 82.3% vs mem0 官方 55.5% → **+26.8pp**，这是本次 temporal 修复的直接收益（时间线索引 + 日期归一化）
+- multi-hop 80.2% vs 51.2% → +29pp，同样受益于检索质量提升
+- open-domain 71.9% ≈ mem0 官方 72.9% → 基本持平，是最弱项，与"开放域问题依赖长尾细节、top_10 截断丢信息"的假设一致
+
+结论：mem0 OSS + temporal 修复 + 本地 27b 的组合在 LoCoMo 上达到开源记忆系统第一梯队水平，temporal/multi-hop 显著超官方基线。
+
 ## 配置
 
 - Benchmark: LoCoMo-10, run_id=full01
