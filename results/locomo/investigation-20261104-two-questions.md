@@ -89,7 +89,7 @@
 
 **OD 修复 4/14 题**（q3 C.S.Lewis, q8 Under Armour, q15 Anthony, q28 John Williams）
 **OD 仍错 8/14 题**：
-- A类（实体丢失）：q5 MinaLima — guard 无法修复，需 extraction prompt 改进
+- A类（~~实体丢失~~ → **retrieval ranking 问题**）：q5 MinaLima — 实体在 mem0 中存在且被检索到（rank #9, score=0.544），但被 NYC 旅行记忆（score 0.78-0.80）压制。模型未能跨 rank 推理：Tim 收藏 HP → MinaLima 做 HP 道具 → House of MinaLima 在 NYC。根因 = retrieval ranking + 多步推理链断裂，非 ingestion 丢失。
 - B类（世界知识推理）：q19 Good Sports, q34 basketball coach, q51 Hatha Yoga — guard 保留了上下文但模型推理不足
 - C类（多跳/常识）：q53, q66, q67, q70 — 跨记忆综合或外部知识
 
