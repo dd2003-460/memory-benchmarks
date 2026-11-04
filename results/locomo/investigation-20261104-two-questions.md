@@ -44,3 +44,9 @@
 - **早期 OD 信号**：q3 baseline WRONG→rerun CORRECT ✅（模型正确关联 Tim fantasy 偏好→C.S.Lewis，entity guard 生效）；q5 仍 WRONG（检索层问题，非 guard 可修）
 - 已答 7 题 5/7 CORRECT（multi-hop 4/4 保持高位）
 - Baseline: conv4 OD 2/14 (14.3%)；预期 entity guard 修 3 题 → ~29-43%
+
+### q5 失败根因（检索 gap 分析 @ 21:38）
+
+- D2:9 原文含 "MinaLima"（Harry Potter props 公司），但 680 chunks 中 **零条 memory 含 MinaLima**
+- Ingestion 抽取时专有名词丢失（同 q3 的 Under Armour→"a renowned outdoor gear company" 模式）
+- **结论**：entity guard 只修"实体保留但推理错"的题（如 q3）；"实体 ingestion 就丢"的题（如 q5）需要改 extraction prompt 保留专有名词
