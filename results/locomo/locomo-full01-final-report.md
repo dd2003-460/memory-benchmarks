@@ -161,3 +161,20 @@ Mem0 论文（arXiv:2504.19413）公开数字（gpt-4o-mini answerer+judge，154
 - Conversations: 0-9 (实际完成 conv0-4, conv5-9 未启动即 runner 退出)
 - 总题数: 610 (conv0:152, conv1:81, conv2:152, conv3:199, conv4:26)
 - Runner 运行时间: 2026-11-03 ~16:10 → 2026-11-04 00:19 (~8h)
+
+
+## 追加：Entity Guard 效果（2026-11-04 rerun #2）
+
+conv4 在 entity guard 开启后重跑（rerun #2，178 题）：
+
+| 指标 | rerun#1 (无 guard) | rerun#2 (有 guard) | Δ |
+|---|---|---|---|
+| top_50 overall | 71.3% (127/178) | **82.0%** (146/178) | **+10.7pp** |
+| multi-hop | — | 90.3% (28/31) | |
+| single-hop | — | 83.2% (89/107) | |
+| temporal | — | 88.5% (23/26) | |
+| open-domain | — | 42.9% (6/14) | OD ceiling ~43-50% |
+
+OD 诊断闭环：5/8 OD 失败题为数据集标注问题（答案实体不在源文本中），非系统缺陷。详见 `ENTITY-GUARD-STATUS.md`。
+
+**注**：主报告中的五 conv 合并数字（75.3% top_10）基于 rerun#1 的 conv4 数据（65.2%）。若用 rerun#2 替换 conv4，五 conv top_50 约 79.0%→~81%（估算）。精确重算需重跑判官（待成璐确认是否值得）。
