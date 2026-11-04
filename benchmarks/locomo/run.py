@@ -604,7 +604,14 @@ def locomo_predict_outputs_complete(
     output_dir: str,
     expected_items: list[tuple[str, int, int, dict]],
 ) -> tuple[bool, list[str]]:
-    """True if every expected question has JSON with retrieval.search_results."""
+    """True if every expected question has JSON with non-empty retrieval.search_results.
+
+    空检索校验（T17 full01 污染事故修复, 2026-11-04）：
+    旧版只检查 search_results key 是否存在，smoke01 checkpoint 残留导致的
+    空检索文件（key 存在但列表为空）会被当作"已完成"跳过重跑，污染数据
+    混入指标。现在要求列表非空才视为完成，空检索的题会被标记 missing
+    并在 --resume 时重新执行。
+    """
     missing: list[str] = []
     for qid, _, _, _ in expected_items:
         path = os.path.join(output_dir, f"{qid}.json")
@@ -617,8 +624,9 @@ def locomo_predict_outputs_complete(
             missing.append(f"{qid} (unreadable)")
             continue
         retr = data.get("retrieval") or {}
-        if "search_results" not in retr:
-            missing.append(f"{qid} (no search_results)")
+        sr = retr.get("search_results")
+        if not sr:  # None / 缺失 / 空列表 都视为未完成
+            missing.append(f"{qid} (empty search_results)")
     return len(missing) == 0, missing
 
 
