@@ -1,0 +1,113 @@
+{
+  "question_id": "conv1_q13",
+  "conversation_idx": 1,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Gina open her online clothing store?",
+  "ground_truth_answer": "16 March, 2023",
+  "evidence": [
+    "D6:6"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "When did Gina open her online clothing store?",
+    "search_results": [
+      {
+        "memory": "Jon agreed to accept Gina's offer for help with creating content and managing social media accounts for his dance studio, planning to collaborate with her to enhance the studio's online presence.",
+        "score": 0.5033684312575515,
+        "id": "b1cc54a4-266a-4ea1-87e9-70f7dccf62d7",
+        "created_at": "2026-11-02T19:36:42.770237+00:00",
+        "updated_at": "2026-11-02T19:36:42.770237+00:00"
+      },
+      {
+        "memory": "Gina offered to help Jon with creating marketing content or managing his social media accounts for the dance studio.",
+        "score": 0.39354784874004545,
+        "id": "34008eb9-1865-4045-88c8-eca033fceef2",
+        "created_at": "2026-11-02T19:36:41.090923+00:00",
+        "updated_at": "2026-11-02T19:36:41.090923+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.39012488855654825,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.35858364969190715,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips, and suggested collaborating with local influencers or dance communities to raise awareness.",
+        "score": 0.3334593801974558,
+        "id": "b4ad7832-b3a5-476b-b651-f2e84f1221d2",
+        "created_at": "2026-11-02T19:36:41.086686+00:00",
+        "updated_at": "2026-11-02T19:36:41.086686+00:00"
+      },
+      {
+        "memory": "Jon is working on an online platform to showcase his dance studio's content and offerings, as part of his efforts to spruce up his business plan and tweak his pitch to investors following a networking event.",
+        "score": 0.10788920314358807,
+        "id": "f41d86f9-0708-495c-bdec-12488876710b",
+        "created_at": "2026-11-02T19:36:36.716432+00:00",
+        "updated_at": "2026-11-02T19:36:36.716432+00:00"
+      },
+      {
+        "memory": "Jon is seeking marketing strategy advice to reach his target audience and raise awareness for his dance studio, following a networking event where he met investors.",
+        "score": 0.05927988579238737,
+        "id": "6a6a391d-aabf-4e61-9213-6f19c892284d",
+        "created_at": "2026-11-02T19:36:38.950118+00:00",
+        "updated_at": "2026-11-02T19:36:38.950118+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.054839986650136195,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Jon attended a networking event around July 21, 2023, where he met investors and received good advice, finding the energy motivating for pursuing his goals",
+        "score": 0.047619311798304226,
+        "id": "1387ec2a-8eb4-48a9-a06e-25197e818133",
+        "created_at": "2026-11-02T19:36:29.582734+00:00",
+        "updated_at": "2026-11-02T19:36:29.582734+00:00"
+      }
+    ],
+    "search_latency_ms": 33.6,
+    "total_results": 9
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: Scanned all memories. Relevant Gina memories: she recommended Instagram/TikTok for Jon’s dance studio, offered to help with content/social media, Jon accepted, she attended a dance class on July 21, 2023, and she encouraged Jon’s studio. None mention an online clothing store.\n\nStep 2: Entity verification: the relevant memories are correctly about Gina, but none describe her opening a clothing store.\n\nStep 3: Combine and cross-reference: the",
+      "memories_evaluated": 9,
+      "reason": "The generated answer does not provide the correct date and instead states there is no mention of the online clothing store."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 9,
+      "reason": "The generated answer is empty and does not include the gold answer's date."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The only dated Gina event in the memories is July 21, 2023, when she attended a dance class; no date is given for her opening an online clothing store.",
+      "memories_evaluated": 9,
+      "reason": "The generated answer does not include the correct date of 16 March, 2023 and instead states no date is given."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories only date Gina to July 21, 2023, when she attended a dance class; the online-platform detail belongs to Jon’s dance studio, not to a Gina online clothing store.",
+      "memories_evaluated": 9,
+      "reason": "The generated answer does not include the gold answer's date or any correct item and instead denies the premise."
+    }
+  }
+}

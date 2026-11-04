@@ -1,0 +1,193 @@
+{
+  "question_id": "conv4_q9",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Which endorsement deals has John been offered?",
+  "ground_truth_answer": "basketball shoes and gear deal with Nike, potential sponsorship with Gatorade, Moxie a popular beverage company, outdoor gear company",
+  "evidence": [
+    "D3:13",
+    "D3:15",
+    "D25:2",
+    "D29:4"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which endorsement deals has John been offered?",
+    "search_results": [
+      {
+        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.852471639884641,
+        "id": "83663438-89cc-48f0-b163-8b0987850701",
+        "created_at": "2026-11-03T09:33:56.767555+00:00",
+        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in mid-December 2023, which included receiving hiking equipment and participating in a photoshoot.",
+        "score": 0.8478459724373941,
+        "id": "f5b62400-d2b3-43a2-9685-e4e6585c534f",
+        "created_at": "2026-11-03T09:33:53.669453+00:00",
+        "updated_at": "2026-11-03T09:33:53.669453+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week of December 12, 2023, and shared a photo from the associated photoshoot showing him wearing a backpack while walking down a path.",
+        "score": 0.8422354080397527,
+        "id": "8da39e80-34cb-4725-8e28-42f6c711e96d",
+        "created_at": "2026-11-03T09:33:34.908869+00:00",
+        "updated_at": "2026-11-03T09:33:34.908869+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.840123067705693,
+        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
+        "created_at": "2026-11-03T09:38:36.414205+00:00",
+        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.8380756388265402,
+        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
+        "created_at": "2026-11-03T09:38:17.827762+00:00",
+        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
+        "score": 0.836790910889157,
+        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
+        "created_at": "2026-11-03T09:38:15.519591+00:00",
+        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
+        "score": 0.8362776463893192,
+        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
+        "created_at": "2026-11-03T09:38:22.270742+00:00",
+        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he describes as a dream come true that validated his hard work and training hours.",
+        "score": 0.833160435103004,
+        "id": "99ac9b47-0eff-4b9e-873a-163cde5e3d00",
+        "created_at": "2026-11-03T09:38:13.164949+00:00",
+        "updated_at": "2026-11-03T09:38:13.164949+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
+        "score": 0.8310780497881648,
+        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
+        "created_at": "2026-11-03T09:38:08.169886+00:00",
+        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.827783875600419,
+        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
+        "created_at": "2026-11-03T09:38:30.184443+00:00",
+        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
+        "score": 0.8172890242053805,
+        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
+        "created_at": "2026-11-03T09:38:10.619051+00:00",
+        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+      },
+      {
+        "memory": "John received top-notch hiking and outdoor gear as part of his endorsement deal with a renowned outdoor gear company, and the associated photoshoot was held in a gorgeous forest where the photographer captured epic shots of him.",
+        "score": 0.7695690807781709,
+        "id": "536266b6-0bbb-4b29-ac5d-ac11c11f838b",
+        "created_at": "2026-11-03T09:33:39.113465+00:00",
+        "updated_at": "2026-11-03T09:33:39.113465+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improvements in his overall court game, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.7623577441150949,
+        "id": "21f6f0ca-f952-491c-ab39-d84191d2296b",
+        "created_at": "2026-11-03T09:30:37.459160+00:00",
+        "updated_at": "2026-11-03T09:30:37.459160+00:00"
+      },
+      {
+        "memory": "John's professional basketball journey includes improving his overall game on the court, securing endorsement deals, and learning how to market himself and boost his personal brand.",
+        "score": 0.7583825421022552,
+        "id": "18996d25-1e0d-4d9f-9ace-c14339f29067",
+        "created_at": "2026-11-03T09:30:34.563515+00:00",
+        "updated_at": "2026-11-03T09:30:34.563515+00:00"
+      },
+      {
+        "memory": "Off the court, John is actively looking into securing more endorsements and building his personal brand to prepare for life after basketball.",
+        "score": 0.6542576926916295,
+        "id": "ca31824b-a0fe-49cf-add5-3a0cc05771a3",
+        "created_at": "2026-11-03T09:15:54.765932+00:00",
+        "updated_at": "2026-11-03T09:15:54.765932+00:00"
+      },
+      {
+        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
+        "score": 0.6541870951385399,
+        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
+        "created_at": "2026-11-03T09:14:58.691644+00:00",
+        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+      },
+      {
+        "memory": "Tim advised John to select endorsements that align with his personal values and brand, ensuring they feel authentic to his followers and share his desire to help others.",
+        "score": 0.6421524190929588,
+        "id": "0d1ed51a-ea3b-426c-9b53-b89ce4da2a84",
+        "created_at": "2026-11-03T09:15:20.586087+00:00",
+        "updated_at": "2026-11-03T09:15:20.586087+00:00"
+      },
+      {
+        "memory": "Tim advised John that when picking endorsements, he should ensure they align with his values and brand, seeking companies that share his desire to help others so the partnership feels authentic to his followers.",
+        "score": 0.6402491819712849,
+        "id": "d4a6a7a0-877d-466c-92de-775f6e888465",
+        "created_at": "2026-11-03T09:15:54.772940+00:00",
+        "updated_at": "2026-11-03T09:15:54.772940+00:00"
+      },
+      {
+        "memory": "Tim advised John to select endorsements that align with his personal values and brand, specifically recommending companies that share his desire to make a positive change and help others, ensuring the partnerships feel authentic to his followers.",
+        "score": 0.6368861652594006,
+        "id": "e7beb822-bd4f-4fc0-b20f-ee9d111b66a7",
+        "created_at": "2026-11-03T09:15:14.825355+00:00",
+        "updated_at": "2026-11-03T09:15:14.825355+00:00"
+      },
+      {
+        "memory": "John's current goals include improving his shooting consistency, making a greater impact on the court, and building his brand through endorsements to prepare for life after basketball.",
+        "score": 0.5689521716060774,
+        "id": "66c99c75-98d1-4a55-b0da-1927df588440",
+        "created_at": "2026-11-03T09:15:20.578490+00:00",
+        "updated_at": "2026-11-03T09:15:20.578490+00:00"
+      }
+    ],
+    "search_latency_ms": 129.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q19",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many times has Joanna found new hiking trails?",
+  "ground_truth_answer": "twice",
+  "evidence": [
+    "D8:4",
+    "D11:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many times has Joanna found new hiking trails?",
+    "search_results": [
+      {
+        "memory": "Joanna found an awesome hiking trail in her hometown on April 16, 2022, describing it as gorgeous and noting that nature is inspiring and a great way to reset",
+        "score": 0.8858027480988676,
+        "id": "17564146-609a-4d1b-863e-7a75d2101be6",
+        "created_at": "2026-11-03T03:03:13.174526+00:00",
+        "updated_at": "2026-11-03T03:03:13.174526+00:00"
+      },
+      {
+        "memory": "Joanna went hiking around May 12, 2022, discovered new amazing trails in her town, and described herself as an expert hiker after the experience.",
+        "score": 0.8148273922767334,
+        "id": "b72e441f-126c-4b5c-9d58-4cd6605b1fb7",
+        "created_at": "2026-11-03T03:06:02.499585+00:00",
+        "updated_at": "2026-11-03T03:06:02.499585+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and found more amazing trails, describing the experience as awesome and joking that she is now an expert hiker",
+        "score": 0.8138355315298147,
+        "id": "17f461f1-290d-44fb-ab1b-f40c485f44de",
+        "created_at": "2026-11-03T03:05:58.701156+00:00",
+        "updated_at": "2026-11-03T03:05:58.701156+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town on May 12, 2022, and discovered new amazing trails, feeling confident enough to describe herself as an expert hiker.",
+        "score": 0.8126541474647155,
+        "id": "aecb4f88-2b11-4790-bbe3-4ed1fa9c477c",
+        "created_at": "2026-11-03T03:06:28.197173+00:00",
+        "updated_at": "2026-11-03T03:06:28.197173+00:00"
+      },
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.7355398199058538,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and discovered new amazing trails, feeling so accomplished that she considers herself an expert hiker now.",
+        "score": 0.715479874301886,
+        "id": "6bfac284-8c82-4d0a-a89c-6001abcc7235",
+        "created_at": "2026-11-03T03:06:19.952341+00:00",
+        "updated_at": "2026-11-03T03:06:19.952341+00:00"
+      },
+      {
+        "memory": "Joanna is hiking with friends on the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall.",
+        "score": 0.6769639981389906,
+        "id": "44807ace-4361-4f03-a82b-31a6e239a510",
+        "created_at": "2026-11-03T03:09:52.146198+00:00",
+        "updated_at": "2026-11-03T03:09:52.146198+00:00"
+      },
+      {
+        "memory": "Joanna is hiking with some buddies the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall.",
+        "score": 0.6712252170562263,
+        "id": "5463dba0-9b17-4792-b8ca-17b3efa0a664",
+        "created_at": "2026-11-03T03:09:48.761074+00:00",
+        "updated_at": "2026-11-03T03:09:48.761074+00:00"
+      },
+      {
+        "memory": "Joanna is planning to go hiking with some buddies on the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall.",
+        "score": 0.6687196269520286,
+        "id": "e4b65a18-9d81-4f7c-8369-fb47d558e49b",
+        "created_at": "2026-11-03T03:09:29.935900+00:00",
+        "updated_at": "2026-11-03T03:09:29.935900+00:00"
+      },
+      {
+        "memory": "Nate is not really into hiking but expressed curiosity about seeing what Joanna's trail looks like, and mentioned hearing about a nice trail just north of where he lives",
+        "score": 0.6564211690741756,
+        "id": "7a46f9ff-3a02-4d8d-9831-3a12ecccafdf",
+        "created_at": "2026-11-03T03:03:15.901351+00:00",
+        "updated_at": "2026-11-03T03:03:15.901351+00:00"
+      },
+      {
+        "memory": "Joanna feels that hiking has opened up a whole new world for her and that she feels like a different person now due to the calming effect of being surrounded by nature's beauty.",
+        "score": 0.6549652980196666,
+        "id": "6a9b9892-dabe-456c-96ad-b8aa55b3cd0f",
+        "created_at": "2026-11-03T03:06:28.210077+00:00",
+        "updated_at": "2026-11-03T03:06:28.210077+00:00"
+      },
+      {
+        "memory": "Joanna finds hiking in nature deeply calming and peaceful, stating that it makes her feel like a different person and inspires her to write movies or dramas while on the trails.",
+        "score": 0.6338228776330836,
+        "id": "eef23b9f-fe4d-45c8-ad31-e02a6bac1fea",
+        "created_at": "2026-11-03T03:06:45.446674+00:00",
+        "updated_at": "2026-11-03T03:06:45.446674+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.6135543494705341,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Joanna saw a gorgeous sunset while hiking around April 8-14, 2022, which inspired her to reflect on the importance of showing the world who we are",
+        "score": 0.5998270681558748,
+        "id": "8d0ebd5e-eb72-4e22-bb2c-9aa651132b89",
+        "created_at": "2026-11-03T03:02:41.859069+00:00",
+        "updated_at": "2026-11-03T03:02:41.859069+00:00"
+      },
+      {
+        "memory": "Joanna stated that being in cool places like hiking trails makes her feel inspired enough to write a whole movie or drama, distinguishing this creative surge from Nate's tendency to think about life or new recipes.",
+        "score": 0.5950174751731175,
+        "id": "08e54bce-eea0-4a47-8305-49e3eeafc974",
+        "created_at": "2026-11-03T03:06:34.371833+00:00",
+        "updated_at": "2026-11-03T03:06:34.371833+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls during her hike on May 12, 2022, where she took a photo of a waterfall with lush greenery and a dark sky background.",
+        "score": 0.5948886250733089,
+        "id": "4c2fea8d-6c93-4169-97ad-362582fcfd7f",
+        "created_at": "2026-11-03T03:06:28.201957+00:00",
+        "updated_at": "2026-11-03T03:06:28.201957+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of Whispering Falls, a beautiful and peaceful location in her town, during a hike around May 12, 2022, describing the spot as serene with soothing rushing water and lush greenery.",
+        "score": 0.5756063163251836,
+        "id": "02e6d5b3-c0b0-437c-a869-ab63613aba02",
+        "created_at": "2026-11-03T03:06:14.681243+00:00",
+        "updated_at": "2026-11-03T03:06:14.681243+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls during her hike on May 12, 2022, describing it as peaceful and serene with soothing water sounds that helped her feel calm and present.",
+        "score": 0.5749279693236624,
+        "id": "91ba942c-f74a-4310-a4e2-fd1aee0057af",
+        "created_at": "2026-11-03T03:06:19.957510+00:00",
+        "updated_at": "2026-11-03T03:06:19.957510+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a waterfall with lush greenery and a dark sky background from her hike on May 12, 2022, noting that the rush of the water was soothing at that spot.",
+        "score": 0.5742945832260035,
+        "id": "331975d3-d9c6-4c7e-a7bc-90793db20496",
+        "created_at": "2026-11-03T03:06:05.208085+00:00",
+        "updated_at": "2026-11-03T03:06:05.208085+00:00"
+      },
+      {
+        "memory": "Joanna identified the location of her waterfall photo as Whispering Falls, describing it as a beautiful, peaceful, and serene spot where she hiked on May 12, 2022.",
+        "score": 0.5678435470542852,
+        "id": "514015b2-e76f-43fc-b111-73c130a9d098",
+        "created_at": "2026-11-03T03:06:11.780432+00:00",
+        "updated_at": "2026-11-03T03:06:11.780432+00:00"
+      }
+    ],
+    "search_latency_ms": 87.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'twice'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'twice'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'twice'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'twice'."
+    }
+  }
+}

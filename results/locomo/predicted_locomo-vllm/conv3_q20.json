@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q20",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Nate adopt Max?",
+  "ground_truth_answer": "May 2022",
+  "evidence": [
+    "D12:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate adopt Max?",
+    "search_results": [
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.8807858698406072,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate adopted a dog named Max around May 20, 2022, who is described as full of energy and brings him joy while keeping his other pets active",
+        "score": 0.8707081612820351,
+        "id": "e05f9dc5-5080-48a9-bed9-f4cf22ea254c",
+        "created_at": "2026-11-03T03:07:15.194718+00:00",
+        "updated_at": "2026-11-03T03:07:15.194718+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.8705564110031476,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate got a new dog named Max around May 20, 2022, and shared a photo of the dog laying on a couch in his living room with Joanna",
+        "score": 0.8291063683114915,
+        "id": "53c195f6-a615-4837-94e3-8dfbb11b9bef",
+        "created_at": "2026-11-03T03:06:56.786029+00:00",
+        "updated_at": "2026-11-03T03:06:56.786029+00:00"
+      },
+      {
+        "memory": "Nate's dog Max enjoys playing with the other dog from the neighboring couple he met on a walk in late May 2022.",
+        "score": 0.8135491710014531,
+        "id": "00cebeda-ec5e-4b27-9005-86ecffeab6e7",
+        "created_at": "2026-11-03T03:07:53.804328+00:00",
+        "updated_at": "2026-11-03T03:07:53.804328+00:00"
+      },
+      {
+        "memory": "Nate took his dog Max for a walk around May 23, 2022, and met a friendly couple with a dog who live nearby; they decided to arrange regular dog playdates so their pets can socialize.",
+        "score": 0.8078575525807331,
+        "id": "00cdfe16-1e5f-41cd-9ab1-62f822ccfddd",
+        "created_at": "2026-11-03T03:07:53.799146+00:00",
+        "updated_at": "2026-11-03T03:07:53.799146+00:00"
+      },
+      {
+        "memory": "Nate met a couple who lives nearby while walking his dog Max around May 25, 2022, and they decided to arrange regular dog playdates for their pets.",
+        "score": 0.7915573376104862,
+        "id": "990d4fc9-0140-4f68-b2f0-44b5fa4294f1",
+        "created_at": "2026-11-03T03:08:09.582768+00:00",
+        "updated_at": "2026-11-03T03:08:09.582768+00:00"
+      },
+      {
+        "memory": "Nate met a friendly couple with a dog while walking his dog Max around May 23, 2022, and they decided to arrange regular doggy playdates since they live close by.",
+        "score": 0.7915508300710828,
+        "id": "21fbbbc5-024b-4778-8b5a-ae048492124d",
+        "created_at": "2026-11-03T03:07:46.819420+00:00",
+        "updated_at": "2026-11-03T03:07:46.819420+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.3206685608294955,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.30080286736994594,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.30080286736994594,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.2999703555342734,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.29688512019761404,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate is very happy with the decision to get a third turtle, stating he would not have it any other way.",
+        "score": 0.29546127713233217,
+        "id": "716e76e5-5433-4f1d-8b74-f3409bd15715",
+        "created_at": "2026-11-03T03:31:46.574276+00:00",
+        "updated_at": "2026-11-03T03:31:46.574276+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.2925884380463687,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.29163558444916104,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.28732635390449124,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.28360952647705584,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets",
+        "score": 0.28324183007165205,
+        "id": "e0393ced-a07a-4c03-bd21-093d3754d8ac",
+        "created_at": "2026-11-03T03:14:40.193337+00:00",
+        "updated_at": "2026-11-03T03:14:40.193337+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.27878842463849457,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      }
+    ],
+    "search_latency_ms": 104.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 20, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies May 20, 2022, which is consistent with the gold answer's May 2022."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 20, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies May 20, 2022, which is consistent with the gold answer's May 2022."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 20, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies May 20, 2022, which is consistent with the gold answer's May 2022."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 20, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies May 20, 2022, which is consistent with the gold answer's May 2022."
+    }
+  }
+}

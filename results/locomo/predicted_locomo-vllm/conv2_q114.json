@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q114",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does John describe the support he received during his journey to becoming assistant manager?",
+  "ground_truth_answer": "having support at home and his own grit",
+  "evidence": [
+    "D19:12"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How does John describe the support he received during his journey to becoming assistant manager?",
+    "search_results": [
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work after a long time coming.",
+        "score": 0.8855948658032242,
+        "id": "574b5cef-028b-4c2c-b1d6-03a6357e665c",
+        "created_at": "2026-11-03T00:33:24.936820+00:00",
+        "updated_at": "2026-11-03T00:33:24.936820+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work.",
+        "score": 0.8845878894588068,
+        "id": "2d2daa38-d6f2-45bd-aa62-1c956e8da4d4",
+        "created_at": "2026-11-03T00:34:22.868576+00:00",
+        "updated_at": "2026-11-03T00:34:22.868576+00:00"
+      },
+      {
+        "memory": "John was promoted to the position of assistant manager at work, a role he views as a stepping stone for bigger things and feels has paid off after a long time of hard work.",
+        "score": 0.8757222536277963,
+        "id": "6e2fbc39-1386-4961-96fc-a754e0bdcf60",
+        "created_at": "2026-11-03T00:33:00.755854+00:00",
+        "updated_at": "2026-11-03T00:33:00.755854+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he describes as a long time coming and feels over the moon about, viewing it as a stepping stone for bigger things.",
+        "score": 0.8460913546077629,
+        "id": "0423c9c1-d7fe-48b3-b5eb-b16ffc56a98c",
+        "created_at": "2026-11-03T00:33:49.885439+00:00",
+        "updated_at": "2026-11-03T00:33:49.885439+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around mid-June 2023, a milestone he describes as a long time coming and a stepping stone for bigger things.",
+        "score": 0.8431465129184712,
+        "id": "55038e72-68ad-4377-bde0-2b6b036eee11",
+        "created_at": "2026-11-03T00:33:17.584646+00:00",
+        "updated_at": "2026-11-03T00:33:17.584646+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around mid-June 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.8414146767439583,
+        "id": "11916ca6-0097-4ca1-9c12-10ae48570ab5",
+        "created_at": "2026-11-03T00:33:10.485735+00:00",
+        "updated_at": "2026-11-03T00:33:10.485735+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.8405506208508944,
+        "id": "9739b3ae-96b0-4315-aa32-ac04a65164dd",
+        "created_at": "2026-11-03T00:33:57.491210+00:00",
+        "updated_at": "2026-11-03T00:33:57.491210+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.8405506208508944,
+        "id": "e649036e-713b-4c60-b715-f74180cd33f9",
+        "created_at": "2026-11-03T00:33:31.655941+00:00",
+        "updated_at": "2026-11-03T00:33:31.655941+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.8405506208508944,
+        "id": "f93ff361-c508-4a6e-a5b1-74f89d80a9d5",
+        "created_at": "2026-11-03T00:34:11.113022+00:00",
+        "updated_at": "2026-11-03T00:34:11.113022+00:00"
+      },
+      {
+        "memory": "John received a golden trophy commemorating his journey to becoming an assistant manager, which he views as a symbol of the obstacles he had to overcome.",
+        "score": 0.8344078782817836,
+        "id": "24f58549-acdb-4399-814e-b478ce11a9e7",
+        "created_at": "2026-11-03T00:33:17.588746+00:00",
+        "updated_at": "2026-11-03T00:33:17.588746+00:00"
+      },
+      {
+        "memory": "John received a golden trophy commemorating his journey to the assistant manager promotion, which symbolizes the obstacles he overcame including technical challenges, workplace issues, and self-doubt.",
+        "score": 0.8205539647677755,
+        "id": "7c61548e-780d-4b69-a702-7900f046f862",
+        "created_at": "2026-11-03T00:33:24.939450+00:00",
+        "updated_at": "2026-11-03T00:33:24.939450+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base commemorating his journey to becoming an assistant manager, which he views as a symbol of the obstacles he overcame.",
+        "score": 0.8067973575464663,
+        "id": "01be6605-b703-47b1-b0fc-f44f43adfecc",
+        "created_at": "2026-11-03T00:33:57.493856+00:00",
+        "updated_at": "2026-11-03T00:33:57.493856+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base that commemorates his journey to becoming an assistant manager, symbolizing the obstacles he overcame.",
+        "score": 0.8035003351239538,
+        "id": "5143e33c-22dc-4575-bb3d-5d12b156d11a",
+        "created_at": "2026-11-03T00:33:31.659993+00:00",
+        "updated_at": "2026-11-03T00:33:31.659993+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base to commemorate his journey to becoming an assistant manager, which he views as a symbol of the obstacles he overcame.",
+        "score": 0.7916504806758736,
+        "id": "d823a4aa-f122-470a-a94e-8090e8631f3d",
+        "created_at": "2026-11-03T00:34:11.116782+00:00",
+        "updated_at": "2026-11-03T00:34:11.116782+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base to commemorate his journey to becoming an assistant manager, which he views as a symbol of all the obstacles he had to overcome.",
+        "score": 0.7906494888366628,
+        "id": "1b7a71f7-bfca-4cce-9225-6a5e2eba6a6c",
+        "created_at": "2026-11-03T00:33:49.890102+00:00",
+        "updated_at": "2026-11-03T00:33:49.890102+00:00"
+      },
+      {
+        "memory": "John received a trophy commemorating his journey to promotion, which he views as a symbol of the obstacles and self-doubt he overcame with family support and personal grit.",
+        "score": 0.6158943675073447,
+        "id": "111c1e3a-815d-4d1d-b018-1c07d3b7e674",
+        "created_at": "2026-11-03T00:34:36.360768+00:00",
+        "updated_at": "2026-11-03T00:34:36.360768+00:00"
+      },
+      {
+        "memory": "John considers family support vital to his success and feels lucky to have his wife and kids involved in his professional journey.",
+        "score": 0.6115787142618849,
+        "id": "845f4c4b-26fa-466c-b218-e1ca6a1bd046",
+        "created_at": "2026-11-03T00:34:22.878289+00:00",
+        "updated_at": "2026-11-03T00:34:22.878289+00:00"
+      },
+      {
+        "memory": "John considers himself lucky to have his family supporting him on his professional journey, viewing their trust and presence as vital to his ability to achieve goals.",
+        "score": 0.5983057300718683,
+        "id": "7ded02c8-aa0e-4616-b645-4011dc1bbb8b",
+        "created_at": "2026-11-03T00:34:11.124189+00:00",
+        "updated_at": "2026-11-03T00:34:11.124189+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.5832501438009017,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.5755135647521109,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      }
+    ],
+    "search_latency_ms": 70.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John describes the journey as a long time coming and a reward for his hard work, viewing the golden trophy he received as a symbol of the obstacles he had to overcome.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer focuses on the trophy and hard work, failing to mention the specific support at home or his grit as requested in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the support as vital and something he feels lucky to have. He says his family—especially his wife and kids—supported his professional journey, and that their trust and presence were essential to his ability to achieve the assistant manager role. He also describes his work/community organization as being like a family of passionate people who always support one another, and he credits family support and personal grit for helping him overcome obstacles and self-doubt.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both support at home/family and personal grit, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the support as vital and something he feels lucky to have. He says his family—especially his wife and kids—supported his professional journey, and that their trust and presence were essential to his ability to achieve the assistant manager role. He also describes his work/community organization as being like a family of passionate people who always support one another, and he credits family support and personal grit for helping him overcome obstacles and self-doubt.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both support at home/family and personal grit, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the support as vital and something he feels lucky to have. He says his family—especially his wife and kids—supported his professional journey, and that their trust and presence were essential to his ability to achieve the assistant manager role. He also describes his work/community organization as being like a family of passionate people who always support one another, and he credits family support and personal grit for helping him overcome obstacles and self-doubt.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both support at home/family and personal grit, matching the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q163",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What movie has Nate recently seen that blew his mind?",
+  "ground_truth_answer": "\"Inception\"",
+  "evidence": [
+    "D23:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What movie has Nate recently seen that blew his mind?",
+    "search_results": [
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.6830658799646894,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.6773134180003717,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.6752233463048227,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6697824862132071,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6576343037913526,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6574450676999155,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6522976133919723,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate has two published movies and Joanna is aiming for her third published movie with her recent script submissions.",
+        "score": 0.6182624113802982,
+        "id": "7e36fded-ec5d-4211-8bfb-86f17d8e92ef",
+        "created_at": "2026-11-03T03:28:53.462942+00:00",
+        "updated_at": "2026-11-03T03:28:53.462942+00:00"
+      },
+      {
+        "memory": "Nate expressed confidence that at least one of Joanna's recently submitted scripts would make it to the screens, referring to it as her third published movie.",
+        "score": 0.6114094836914735,
+        "id": "75edc400-20fd-4232-b026-e3fe269f0b64",
+        "created_at": "2026-11-03T03:28:25.862975+00:00",
+        "updated_at": "2026-11-03T03:28:25.862975+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.6090231984350238,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.5939220135406473,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.5860001051297401,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate's favorite movie trilogy is The Lord of the Rings, which he admires for its world building, battles, and storytelling, and he shared a photo of his bookshelf with Joanna on April 21, 2022.",
+        "score": 0.585337761018222,
+        "id": "04006fca-0e17-442e-82ec-7294bb184bb1",
+        "created_at": "2026-11-03T03:04:46.617743+00:00",
+        "updated_at": "2026-11-03T03:04:46.617743+00:00"
+      },
+      {
+        "memory": "Nate has two previously published movies, making his next potential success his third published film according to Joanna's encouragement.",
+        "score": 0.5816838884680685,
+        "id": "b8f41d77-6aa1-48b5-b133-fe0d6863206d",
+        "created_at": "2026-11-03T03:28:36.473078+00:00",
+        "updated_at": "2026-11-03T03:28:36.473078+00:00"
+      },
+      {
+        "memory": "Nate has pets that he takes to the park, and he finds their happy faces memorable, describing a recent trip to the park with them as a special day",
+        "score": 0.5806455556275998,
+        "id": "0a4426fd-dabe-4d2f-b7ff-af059804174d",
+        "created_at": "2026-11-03T03:29:49.160223+00:00",
+        "updated_at": "2026-11-03T03:29:49.160223+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.5786197756359314,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.5776326204305042,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate unwinds by playing video games or watching movies at home, and owns a collection of DVDs and movies stored on a bookcase.",
+        "score": 0.5717316611078267,
+        "id": "1d1ba0da-c6fe-43f4-83fb-a756ea6590bc",
+        "created_at": "2026-11-03T03:21:47.502587+00:00",
+        "updated_at": "2026-11-03T03:21:47.502587+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.5650560644073358,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.5631083291827493,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      }
+    ],
+    "search_latency_ms": 40.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inception",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inception",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inception",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inception",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

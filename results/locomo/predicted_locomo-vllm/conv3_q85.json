@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q85",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+  "ground_truth_answer": "filmmaker.",
+  "evidence": [
+    "D29:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+    "search_results": [
+      {
+        "memory": "Joanna submitted several more movie scripts in the week of November 1, 2022, hoping to hear back soon while expecting some rejections, and is determined not to give up on her goal of becoming a published filmmaker.",
+        "score": 0.8487752004457564,
+        "id": "3ce0f293-0b1a-4c65-9f8a-791160112fb9",
+        "created_at": "2026-11-03T03:29:07.053783+00:00",
+        "updated_at": "2026-11-03T03:29:07.053783+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week prior to November 7, 2022, and is hoping to hear back from them soon while expecting some rejections.",
+        "score": 0.8448865367920257,
+        "id": "571788f2-fb22-4a4a-a736-e267ee5c3c80",
+        "created_at": "2026-11-03T03:28:29.338719+00:00",
+        "updated_at": "2026-11-03T03:28:29.338719+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts during the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.8404303603985642,
+        "id": "77cae654-82d5-49f3-a6a4-a02fd887c662",
+        "created_at": "2026-11-03T03:28:42.610116+00:00",
+        "updated_at": "2026-11-03T03:28:42.610116+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week preceding November 7, 2022, and is hoping to hear back from them soon while anticipating that some will be rejected.",
+        "score": 0.8395816029238915,
+        "id": "f8b1d4d5-1da6-46e5-aea6-577e3b4719e7",
+        "created_at": "2026-11-03T03:28:25.857860+00:00",
+        "updated_at": "2026-11-03T03:28:25.857860+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.8389380001171967,
+        "id": "216c1077-a638-41ad-b9f3-e642f9515f43",
+        "created_at": "2026-11-03T03:28:36.470026+00:00",
+        "updated_at": "2026-11-03T03:28:36.470026+00:00"
+      },
+      {
+        "memory": "Joanna submitted a few more movie scripts in the week of November 1-7, 2022, hoping to hear back soon but expecting some rejections.",
+        "score": 0.8218857054155126,
+        "id": "ffa46728-e4c9-4bf2-ae85-9f7cd2555239",
+        "created_at": "2026-11-03T03:28:22.535157+00:00",
+        "updated_at": "2026-11-03T03:28:22.535157+00:00"
+      },
+      {
+        "memory": "Joanna worked hard on another movie script and created a plan for getting it made into a movie, describing the process as a ton of work but satisfying.",
+        "score": 0.808022994546066,
+        "id": "70edd90e-63bc-4bae-8234-7727b77f6df8",
+        "created_at": "2026-11-03T03:30:26.592696+00:00",
+        "updated_at": "2026-11-03T03:30:26.592696+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.804670201433358,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.8021051072210372,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.7995541674019307,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had two published movies and recently submitted several new scripts in early November 2022, hoping for positive responses while anticipating some rejections.",
+        "score": 0.7982325452386517,
+        "id": "5370a444-5c1e-42fe-ae73-aa250d43f35d",
+        "created_at": "2026-11-03T03:28:47.519730+00:00",
+        "updated_at": "2026-11-03T03:28:47.519730+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.7960282607564168,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as a surreal and satisfying moment after waiting a long time, feeling rewarded by the hard work and determination she put into writing the characters and dialogue.",
+        "score": 0.795390108625355,
+        "id": "f341af1c-7d53-4946-bad7-19bd26813f52",
+        "created_at": "2026-11-03T03:24:21.099313+00:00",
+        "updated_at": "2026-11-03T03:24:21.099313+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges, and she hopes to get it on the big screen.",
+        "score": 0.7916532732342813,
+        "id": "c4fd8862-553e-4342-a812-3e646204a52e",
+        "created_at": "2026-11-03T03:28:17.705007+00:00",
+        "updated_at": "2026-11-03T03:28:17.705007+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.7913862446072092,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7899046895989097,
+        "id": "523cebcb-fda9-404a-bf74-0af468a36ca3",
+        "created_at": "2026-11-03T03:28:36.462947+00:00",
+        "updated_at": "2026-11-03T03:28:36.462947+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7899046895989097,
+        "id": "9fa29063-d116-4fcb-a7da-c63a50961373",
+        "created_at": "2026-11-03T03:28:42.599730+00:00",
+        "updated_at": "2026-11-03T03:28:42.599730+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.7850490207234202,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as an amazing experience, noting it was the third time this has happened and that watching her characters and dialogue acted out made her hard work feel rewarding.",
+        "score": 0.7789727226697237,
+        "id": "66a203cd-3881-4ef6-86b1-553d8702e56e",
+        "created_at": "2026-11-03T03:24:18.234826+00:00",
+        "updated_at": "2026-11-03T03:24:18.234826+00:00"
+      },
+      {
+        "memory": "Joanna is writing a movie script that is a love story with lots of challenges, which she hopes to get on the big screen; she got the idea for this script from a dream and describes writing as a long-standing passion.",
+        "score": 0.7788738181755888,
+        "id": "2cf3db00-0da3-406f-a068-2110457654fb",
+        "created_at": "2026-11-03T03:27:31.240908+00:00",
+        "updated_at": "2026-11-03T03:27:31.240908+00:00"
+      }
+    ],
+    "search_latency_ms": 89.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "screenwriter",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'screenwriter' is a specific role within the broader category of 'filmmaker' and directly relates to the context of writing movie scripts, so it captures the core concept of the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "screenwriter",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a related but different film-industry role, not the gold answer's core job of filmmaker."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "screenwriter",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a related but different film-industry role, not the gold answer's core job of filmmaker."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "screenwriter",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a related but different film-industry role, not the gold answer's core job of filmmaker."
+    }
+  }
+}

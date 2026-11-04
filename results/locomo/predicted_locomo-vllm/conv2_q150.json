@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q150",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What activities does John's family enjoy doing together?",
+  "ground_truth_answer": "going for hikes, hanging out at the park, having picnics, playing board games, having movie nights",
+  "evidence": [
+    "D31:19"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What activities does John's family enjoy doing together?",
+    "search_results": [
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.7098398562754973,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John's family also enjoys indoor activities such as playing board games and having movie nights at home.",
+        "score": 0.7015957198244408,
+        "id": "085db9c6-b5b6-42b4-9b7e-bcd1a724eb50",
+        "created_at": "2026-11-03T00:49:10.175312+00:00",
+        "updated_at": "2026-11-03T00:49:10.175312+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics. He also enjoys playing board games and having movie nights at home.",
+        "score": 0.690655468920043,
+        "id": "5b518877-b53f-4eb1-a464-3841811d7425",
+        "created_at": "2026-11-03T00:49:21.205807+00:00",
+        "updated_at": "2026-11-03T00:49:21.205807+00:00"
+      },
+      {
+        "memory": "John and his family enjoy playing board games and having movie nights at home.",
+        "score": 0.6886685210520154,
+        "id": "25922cc6-90ed-4170-9b99-9f951b8f599a",
+        "created_at": "2026-11-03T00:49:18.805132+00:00",
+        "updated_at": "2026-11-03T00:49:18.805132+00:00"
+      },
+      {
+        "memory": "John enjoys indoor family activities such as playing board games and having movie nights at home.",
+        "score": 0.68638317015258,
+        "id": "e00fbf84-626c-46a9-938e-1910548242fb",
+        "created_at": "2026-11-03T00:49:26.782658+00:00",
+        "updated_at": "2026-11-03T00:49:26.782658+00:00"
+      },
+      {
+        "memory": "John enjoys outdoor activities with his family, including hiking, hanging out at the park, and having picnics.",
+        "score": 0.6744018221565622,
+        "id": "20f01f59-76fd-4e3b-9fa2-8f62ece78125",
+        "created_at": "2026-11-03T00:49:26.779964+00:00",
+        "updated_at": "2026-11-03T00:49:26.779964+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6613065009495,
+        "id": "f9a5244f-d04f-473e-a818-2436a7e3a986",
+        "created_at": "2026-11-03T00:49:10.171499+00:00",
+        "updated_at": "2026-11-03T00:49:10.171499+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6613065009495,
+        "id": "1c3ac6d6-35e6-4252-acbf-62410e6dda9b",
+        "created_at": "2026-11-03T00:49:18.801762+00:00",
+        "updated_at": "2026-11-03T00:49:18.801762+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.6418002958719429,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.6353108786912582,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.6345395213656333,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John has two children who enjoy playing board games together as a family activity.",
+        "score": 0.6327873089789999,
+        "id": "5eeff062-f7fa-4a3d-87da-4f21d9a6cc29",
+        "created_at": "2026-11-03T00:49:34.884718+00:00",
+        "updated_at": "2026-11-03T00:49:34.884718+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.6301376486415223,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "User's name is John and he enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+        "score": 0.625090630846524,
+        "id": "bc788396-063d-4996-b9e4-1f17ad95f3cb",
+        "created_at": "2026-11-03T00:49:34.881293+00:00",
+        "updated_at": "2026-11-03T00:49:34.881293+00:00"
+      },
+      {
+        "memory": "John took a special vacation to California with his family, where they enjoyed a gorgeous sunset and an awesome night strolling the shore together, creating memories.",
+        "score": 0.6250703426731425,
+        "id": "ec2e08e2-b4f4-4595-ab14-3754e283041d",
+        "created_at": "2026-11-03T00:34:53.411032+00:00",
+        "updated_at": "2026-11-03T00:34:53.411032+00:00"
+      },
+      {
+        "memory": "John's kids are getting excited about staying active as a result of the family's participation in boot camps.",
+        "score": 0.6245217185399277,
+        "id": "ec1b3f67-9a91-405f-9ff6-922c819e23af",
+        "created_at": "2026-11-03T00:28:02.235088+00:00",
+        "updated_at": "2026-11-03T00:28:02.235088+00:00"
+      },
+      {
+        "memory": "John is planning to set up a family game day similar to Maria's picnic for his kids soon, inspired by the fun activities he saw at a community event in June 2023.",
+        "score": 0.618732470479736,
+        "id": "1566f7f2-bac6-41a8-a3f1-0213181ca298",
+        "created_at": "2026-11-03T00:42:42.392900+00:00",
+        "updated_at": "2026-11-03T00:42:42.392900+00:00"
+      },
+      {
+        "memory": "John plans to set up arts and crafts activities for his kids soon, inspired by a community event he attended in June 2023 that featured fun games and activities for families.",
+        "score": 0.6156285925969194,
+        "id": "76de7e2e-d4bc-47af-8ee4-e3d46bf86d7e",
+        "created_at": "2026-11-03T00:42:37.033585+00:00",
+        "updated_at": "2026-11-03T00:42:37.033585+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.5981753327395394,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      },
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.5916950044987864,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      }
+    ],
+    "search_latency_ms": 55.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s family enjoys working out together three times a week, going for hikes, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all of the gold answer's activities and adds an extra detail, so it is correct."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories mention: John and his family working out together three times a week; family participation in boot camps; John enjoying outdoor time with his family, including hikes, hanging out at",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least one gold item, 'hikes', so it receives partial credit."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories mention: John and his family working out together three times a week; family participation in boot camps; John enjoying outdoor time with his family, including hikes, hanging out at the park, and picnics; family enjoying indoor activities such as board games and movie nights; a family day at the park with playground fun; a family vacation in California with sunset and shore strolling; and a live music event where John’s family danced and had fun.\n\nStep 2: ENTITY VERIFICATION  \nAll relevant memories are about John and his family, so they can be used to answer what John’s family enjoys doing together.\n\nStep 3: COMBINE AND",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's activities—hikes, hanging out at the park, picnics, board games, and movie nights—along with additional details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s family enjoys working out together, hiking, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all of the gold answer's activities and adds an extra one, so it is correct."
+    }
+  }
+}

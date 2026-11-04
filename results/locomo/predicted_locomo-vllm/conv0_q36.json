@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q36",
+  "conversation_idx": 0,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Caroline join a mentorship program?",
+  "ground_truth_answer": "The weekend before 17 July 2023",
+  "evidence": [
+    "D9:2"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "When did Caroline join a mentorship program?",
+    "search_results": [],
+    "search_latency_ms": 35.1,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    }
+  }
+}

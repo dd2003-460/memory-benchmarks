@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q58",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Maria get Coco?",
+  "ground_truth_answer": "Two weeks before 11 August 2023",
+  "evidence": [
+    "D30:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did Maria get Coco?",
+    "search_results": [
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, which she describes as adorable and a source of joy that greets her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.8817321011175195,
+        "id": "75562fa8-e150-4df8-a00d-f1a42f5864f2",
+        "created_at": "2026-11-03T00:47:32.012256+00:00",
+        "updated_at": "2026-11-03T00:47:32.012256+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, and finds that Coco brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.8816124843478924,
+        "id": "2d0aa051-f0b0-41a9-9b2b-5f1d6e20a9c1",
+        "created_at": "2026-11-03T00:47:28.411865+00:00",
+        "updated_at": "2026-11-03T00:47:28.411865+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, and finds that having her brings joy to her life, though it has been an adjustment to take care of her.",
+        "score": 0.8787408942527023,
+        "id": "558bbdb0-fbe3-4e2e-8b63-38a54566b692",
+        "created_at": "2026-11-03T00:47:45.939812+00:00",
+        "updated_at": "2026-11-03T00:47:45.939812+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), and finds that Coco brings her joy by greeting her when she comes home, though taking care of the puppy has been an adjustment.",
+        "score": 0.8744416891051625,
+        "id": "801ea204-5d15-47d6-806d-a80b8c9306eb",
+        "created_at": "2026-11-03T00:47:37.294516+00:00",
+        "updated_at": "2026-11-03T00:47:37.294516+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.8711450992687186,
+        "id": "4ba39e46-659e-4861-8718-c97aa84b4006",
+        "created_at": "2026-11-03T00:47:34.807969+00:00",
+        "updated_at": "2026-11-03T00:47:34.807969+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), who is a white dog.",
+        "score": 0.8642051483002706,
+        "id": "1df4ed28-f34f-473e-8432-50e07700ede9",
+        "created_at": "2026-11-03T00:47:23.451375+00:00",
+        "updated_at": "2026-11-03T00:47:23.451375+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that enjoys playing with a baseball and brings her joy by greeting her when she comes home.",
+        "score": 0.859203751533336,
+        "id": "12857a65-f566-4963-82fc-ff6db20daa54",
+        "created_at": "2026-11-03T00:47:43.293411+00:00",
+        "updated_at": "2026-11-03T00:47:43.293411+00:00"
+      },
+      {
+        "memory": "Maria got a new puppy named Coco around July 28, 2023, and shared a photo of the white dog laying in the grass with a baseball.",
+        "score": 0.8476023738057963,
+        "id": "e8e8d2c9-3b27-414d-8053-d664d7485e7e",
+        "created_at": "2026-11-03T00:47:21.214055+00:00",
+        "updated_at": "2026-11-03T00:47:21.214055+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy and gets along great with Maria's other dog, Coco.",
+        "score": 0.8035597723620189,
+        "id": "45911fab-6b6a-4ecc-8fad-efa8761de338",
+        "created_at": "2026-11-03T00:48:33.489158+00:00",
+        "updated_at": "2026-11-03T00:48:33.489158+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.463759650066251,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.3102857259880057,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.3050709392833827,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.29724942861381837,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.2954296572977949,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023. Shadow is full of energy and gets along well with Maria's other dog.",
+        "score": 0.2878718104818694,
+        "id": "2747eacc-4c8e-443f-bdb2-57dbacee41a2",
+        "created_at": "2026-11-03T00:48:41.841677+00:00",
+        "updated_at": "2026-11-03T00:48:41.841677+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023, and describes her as full of energy and a source of joy; Shadow gets along well with Maria's other dog.",
+        "score": 0.2842642044668397,
+        "id": "56c90cd6-8948-403e-aa95-27375d23873f",
+        "created_at": "2026-11-03T00:48:54.951566+00:00",
+        "updated_at": "2026-11-03T00:48:54.951566+00:00"
+      },
+      {
+        "memory": "Maria has a new puppy that is doing well, currently learning commands and undergoing house training as of mid-August 2023.",
+        "score": 0.2807505260046809,
+        "id": "d3e7d23c-6c01-4779-a659-52cdb7fbb1f1",
+        "created_at": "2026-11-03T00:49:03.798282+00:00",
+        "updated_at": "2026-11-03T00:49:03.798282+00:00"
+      },
+      {
+        "memory": "Maria adopted a new puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings her joy, and gets along well with Maria's other dog.",
+        "score": 0.28074758561148155,
+        "id": "773194b0-1399-4a40-851b-f1a03c7eafb7",
+        "created_at": "2026-11-03T00:48:44.668018+00:00",
+        "updated_at": "2026-11-03T00:48:44.668018+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.2787582085850847,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.2787582085850847,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      }
+    ],
+    "search_latency_ms": 100.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria got Coco around July 28, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer's date of around July 28, 2023 matches the gold answer's two weeks before August 11, 2023."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria got Coco around July 28, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date of around July 28, 2023 matches the gold answer's two weeks before August 11, 2023."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria got Coco around July 28, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date of around July 28, 2023 matches the gold answer's two weeks before August 11, 2023."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria got Coco around July 28, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date of around July 28, 2023 matches the gold answer's two weeks before August 11, 2023."
+    }
+  }
+}

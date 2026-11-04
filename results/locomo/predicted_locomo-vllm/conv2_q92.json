@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q92",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How often does John work out with his family?",
+  "ground_truth_answer": "Three times a week",
+  "evidence": [
+    "D13:7"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How often does John work out with his family?",
+    "search_results": [
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.7141067214113151,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, working out three times a week to stay on track, which has increased their energy, strength, and endurance while making his kids excited about staying active.",
+        "score": 0.6514591449070481,
+        "id": "dcbb0b65-12d2-4845-80c1-123a22a83b00",
+        "created_at": "2026-11-03T00:28:06.181709+00:00",
+        "updated_at": "2026-11-03T00:28:06.181709+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.6292693985282473,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.6181569474335975,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.6138741927354057,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John manages the challenge of balancing work and family by organizing his time to ensure he is present for important moments, aiming to make those moments count.",
+        "score": 0.6037600087872625,
+        "id": "3af59a69-8a91-4738-8e19-8c812da403cf",
+        "created_at": "2026-11-03T00:34:43.963676+00:00",
+        "updated_at": "2026-11-03T00:34:43.963676+00:00"
+      },
+      {
+        "memory": "John shared a family photo taken on a train track in the fall around July 5, 2023, noting that his family motivates him and reminds him why he is doing his community work.",
+        "score": 0.5988555692171131,
+        "id": "150eb870-4602-4150-a2b5-75bfd84748f2",
+        "created_at": "2026-11-03T00:39:34.289443+00:00",
+        "updated_at": "2026-11-03T00:39:34.289443+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach on May 25, 2023, showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community work with Maria.",
+        "score": 0.5794805832222204,
+        "id": "8176ec01-edd3-4cb4-9f09-821fa4814e87",
+        "created_at": "2026-11-03T00:31:05.207069+00:00",
+        "updated_at": "2026-11-03T00:31:05.207069+00:00"
+      },
+      {
+        "memory": "John works with a group of veterans in an organization he describes as family-like, where members always support each other, and he finds their stories inspiring and heartbreaking yet hopeful.",
+        "score": 0.5789663115738946,
+        "id": "367cd2eb-b82b-403a-9097-8d6ee89590c1",
+        "created_at": "2026-11-03T00:42:37.023899+00:00",
+        "updated_at": "2026-11-03T00:42:37.023899+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family on July 5, 2023, stating that they motivate him and remind him why he is doing his activism work.",
+        "score": 0.5750377597339291,
+        "id": "ddf645f8-4ce8-4477-bb40-1a39efdb549c",
+        "created_at": "2026-11-03T00:39:40.570797+00:00",
+        "updated_at": "2026-11-03T00:39:40.570797+00:00"
+      },
+      {
+        "memory": "John feels that his activism work is an uphill battle and sometimes doubts if he is making a difference, but he stays motivated by the support of people who understand his work and by his family.",
+        "score": 0.5727705355394836,
+        "id": "495be396-b329-4767-b44b-0e709d7c346d",
+        "created_at": "2026-11-03T00:39:40.567046+00:00",
+        "updated_at": "2026-11-03T00:39:40.567046+00:00"
+      },
+      {
+        "memory": "John works during regular work hours but sometimes brings work home, maintaining a workspace at home with a computer, keyboard, and notebook.",
+        "score": 0.5407426399561917,
+        "id": "a63cb582-2bf2-4ca7-871d-54548adaf0c4",
+        "created_at": "2026-11-03T00:34:36.363336+00:00",
+        "updated_at": "2026-11-03T00:34:36.363336+00:00"
+      },
+      {
+        "memory": "John works during regular work hours but sometimes brings work home, and he shared a photo of his office desk setup featuring a computer, keyboard, and notebook.",
+        "score": 0.5032702225668103,
+        "id": "73452027-2826-42bd-b67e-9680841e480b",
+        "created_at": "2026-11-03T00:34:33.793879+00:00",
+        "updated_at": "2026-11-03T00:34:33.793879+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023 to improve fitness and strengthen family bonding, noting that the experience has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.4913195686298363,
+        "id": "00d5e8c1-8f90-469d-bfe4-d1e28a7edd94",
+        "created_at": "2026-11-03T00:28:12.083685+00:00",
+        "updated_at": "2026-11-03T00:28:12.083685+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, finding the activity beneficial for both family bonding and getting fit.",
+        "score": 0.49093239387755644,
+        "id": "582bc98f-8922-4a4a-8368-7e1f53fd3b6e",
+        "created_at": "2026-11-03T00:27:58.239546+00:00",
+        "updated_at": "2026-11-03T00:27:58.239546+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times. He shared a photo of his family posing in the park on August 13, 2023.",
+        "score": 0.49089420234406084,
+        "id": "df3421f7-76f4-4d86-b98f-5b5c6c4d7b00",
+        "created_at": "2026-11-03T00:49:21.202861+00:00",
+        "updated_at": "2026-11-03T00:49:21.202861+00:00"
+      },
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.4575517406634413,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      },
+      {
+        "memory": "John believes that his late pet Max taught his family a lot about love and loyalty, and he feels grateful to have had him as part of their family despite the heartbreak of his passing.",
+        "score": 0.4531971117615058,
+        "id": "ca7e3875-71b9-4848-8f6f-4d128e21cbd3",
+        "created_at": "2026-11-03T00:31:34.249159+00:00",
+        "updated_at": "2026-11-03T00:31:34.249159+00:00"
+      },
+      {
+        "memory": "John sometimes doubts whether he is making a real difference in his community work but finds motivation and encouragement from knowing that people like Maria understand the value of his efforts.",
+        "score": 0.43419112151253325,
+        "id": "df17df94-e66a-425d-bf7e-a9e03df06865",
+        "created_at": "2026-11-03T00:39:53.008084+00:00",
+        "updated_at": "2026-11-03T00:39:53.008084+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.4310053451254851,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      }
+    ],
+    "search_latency_ms": 77.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Three times a week.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Three times a week",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Three times a week",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Three times a week",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

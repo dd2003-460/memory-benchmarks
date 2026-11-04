@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q21",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "Who was the new addition to Nate's family in May 2022?",
+  "ground_truth_answer": "Max",
+  "evidence": [
+    "D12:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Who was the new addition to Nate's family in May 2022?",
+    "search_results": [
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.635737354712533,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention on October 7, 2022, who share his interest in games, and they have already planned a gaming session together.",
+        "score": 0.6353351201715192,
+        "id": "1a9ef031-4fb4-4f3a-9e47-81776a1a6d00",
+        "created_at": "2026-11-03T03:20:46.724645+00:00",
+        "updated_at": "2026-11-03T03:20:46.724645+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games.",
+        "score": 0.6258386584021968,
+        "id": "b23005e4-62f5-406d-945a-35f8b73c0d87",
+        "created_at": "2026-11-03T03:21:11.592514+00:00",
+        "updated_at": "2026-11-03T03:21:11.592514+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.6208541886422082,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate participated in a gaming tournament around early November 2022 but did not make it to the finals, and he is considering joining a new gaming team after his next tournament based on several offers he has received.",
+        "score": 0.6200389689707877,
+        "id": "826340bd-3d03-437e-953b-2151cf604cca",
+        "created_at": "2026-11-03T03:30:44.510122+00:00",
+        "updated_at": "2026-11-03T03:30:44.510122+00:00"
+      },
+      {
+        "memory": "Nate attended a gaming convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games, planning a future gaming session together.",
+        "score": 0.6189450162085574,
+        "id": "6d13d644-40e4-4423-9806-285ca64994b7",
+        "created_at": "2026-11-03T03:21:14.435936+00:00",
+        "updated_at": "2026-11-03T03:21:14.435936+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.6187919821362763,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      },
+      {
+        "memory": "Nate got a new dog named Max around May 20, 2022, and shared a photo of the dog laying on a couch in his living room with Joanna",
+        "score": 0.6167124384746703,
+        "id": "53c195f6-a615-4837-94e3-8dfbb11b9bef",
+        "created_at": "2026-11-03T03:06:56.786029+00:00",
+        "updated_at": "2026-11-03T03:06:56.786029+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games",
+        "score": 0.6146198662994067,
+        "id": "dd518a5a-9e91-47df-a04c-0a0f2211d146",
+        "created_at": "2026-11-03T03:21:24.577604+00:00",
+        "updated_at": "2026-11-03T03:21:24.577604+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle, found the experience overwhelming but rewarding, and made friends who share his interest in games.",
+        "score": 0.6144583158549562,
+        "id": "c588b354-3471-4126-8b26-99771a611a1b",
+        "created_at": "2026-11-03T03:20:54.696364+00:00",
+        "updated_at": "2026-11-03T03:20:54.696364+00:00"
+      },
+      {
+        "memory": "Nate won another regional video game tournament in the week preceding June 3, 2022, and enjoyed meeting new people and connecting with fellow gamers during the event.",
+        "score": 0.6134081551147724,
+        "id": "22e2d865-a8f0-4994-957d-e7062d217e55",
+        "created_at": "2026-11-03T03:08:58.979037+00:00",
+        "updated_at": "2026-11-03T03:08:58.979037+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his usual social circle; the experience was overwhelming but reminded him of the positive aspects of gaming.",
+        "score": 0.6069539328070159,
+        "id": "d160a8f2-ff73-454e-be22-07e32224c27d",
+        "created_at": "2026-11-03T03:20:31.938645+00:00",
+        "updated_at": "2026-11-03T03:20:31.938645+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.6064403100576663,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a picture frame containing a family photo with Nate on June 5, 2022, which she keeps on her cork board among quotes and mementos",
+        "score": 0.6061282450031586,
+        "id": "ebb0d797-28d8-4640-977a-66d3c4591b54",
+        "created_at": "2026-11-03T03:10:30.628150+00:00",
+        "updated_at": "2026-11-03T03:10:30.628150+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles and shared a photo of the setup with Joanna on August 22, 2022, expressing pride in his hard work paying off.",
+        "score": 0.6055015511471262,
+        "id": "32b648df-82b0-45bc-b7d0-af9c2ec9d67a",
+        "created_at": "2026-11-03T03:13:55.812100+00:00",
+        "updated_at": "2026-11-03T03:13:55.812100+00:00"
+      },
+      {
+        "memory": "Nate got a new turtle to join his existing pets, bringing the total count of turtles he keeps to three, and shared a photo of them basking in the sun on November 9, 2022.",
+        "score": 0.6019454956860965,
+        "id": "e753854f-16d6-4b5f-846d-5e9657cf2ac2",
+        "created_at": "2026-11-03T03:31:35.177863+00:00",
+        "updated_at": "2026-11-03T03:31:35.177863+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.5720839041523582,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.5642967444816993,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "Nate is considering joining a new gaming team after his next tournament, having received several offers but not yet decided, viewing the move as a significant step and a desired shake-up in his career.",
+        "score": 0.5530063389391761,
+        "id": "e5c23ff2-2d3b-4540-80bc-f5b4b6df4663",
+        "created_at": "2026-11-03T03:30:20.377923+00:00",
+        "updated_at": "2026-11-03T03:30:20.377923+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party in mid-June 2022, two weekends after June 3, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.46496394016623555,
+        "id": "be3c86f2-6d34-48e1-a989-2be2a45dd5a2",
+        "created_at": "2026-11-03T03:09:48.753824+00:00",
+        "updated_at": "2026-11-03T03:09:48.753824+00:00"
+      }
+    ],
+    "search_latency_ms": 71.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max, Nate’s new dog.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key entity, Max."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max, Nate’s new dog.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key entity, Max."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max, Nate’s new dog.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key entity, Max."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max, Nate’s new dog.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key entity, Max."
+    }
+  }
+}

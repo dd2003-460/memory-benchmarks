@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q147",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is the name of Maria's second puppy?",
+  "ground_truth_answer": "Shadow",
+  "evidence": [
+    "D31:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What is the name of Maria's second puppy?",
+    "search_results": [
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.8248158563041634,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.6876109694833483,
+        "id": "4ba39e46-659e-4861-8718-c97aa84b4006",
+        "created_at": "2026-11-03T00:47:34.807969+00:00",
+        "updated_at": "2026-11-03T00:47:34.807969+00:00"
+      },
+      {
+        "memory": "Maria has a new puppy that is doing well, currently learning commands and undergoing house training as of mid-August 2023.",
+        "score": 0.686911051940659,
+        "id": "d3e7d23c-6c01-4779-a659-52cdb7fbb1f1",
+        "created_at": "2026-11-03T00:49:03.798282+00:00",
+        "updated_at": "2026-11-03T00:49:03.798282+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), who is a white dog.",
+        "score": 0.6821624513869956,
+        "id": "1df4ed28-f34f-473e-8432-50e07700ede9",
+        "created_at": "2026-11-03T00:47:23.451375+00:00",
+        "updated_at": "2026-11-03T00:47:23.451375+00:00"
+      },
+      {
+        "memory": "Maria has a new puppy that is learning commands and house training, which she describes as an amazing learner that brings her much joy.",
+        "score": 0.6804035114933413,
+        "id": "cfd15f5f-103e-42cc-a2c3-6647bfab883a",
+        "created_at": "2026-11-03T00:49:08.018821+00:00",
+        "updated_at": "2026-11-03T00:49:08.018821+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that enjoys playing with a baseball and brings her joy by greeting her when she comes home.",
+        "score": 0.6765491236938763,
+        "id": "12857a65-f566-4963-82fc-ff6db20daa54",
+        "created_at": "2026-11-03T00:47:43.293411+00:00",
+        "updated_at": "2026-11-03T00:47:43.293411+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, which she describes as adorable and a source of joy that greets her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.673350999159552,
+        "id": "75562fa8-e150-4df8-a00d-f1a42f5864f2",
+        "created_at": "2026-11-03T00:47:32.012256+00:00",
+        "updated_at": "2026-11-03T00:47:32.012256+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), and finds that Coco brings her joy by greeting her when she comes home, though taking care of the puppy has been an adjustment.",
+        "score": 0.667882156106734,
+        "id": "801ea204-5d15-47d6-806d-a80b8c9306eb",
+        "created_at": "2026-11-03T00:47:37.294516+00:00",
+        "updated_at": "2026-11-03T00:47:37.294516+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, and finds that having her brings joy to her life, though it has been an adjustment to take care of her.",
+        "score": 0.6657950378588767,
+        "id": "558bbdb0-fbe3-4e2e-8b63-38a54566b692",
+        "created_at": "2026-11-03T00:47:45.939812+00:00",
+        "updated_at": "2026-11-03T00:47:45.939812+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, and finds that Coco brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.6616869339074791,
+        "id": "2d0aa051-f0b0-41a9-9b2b-5f1d6e20a9c1",
+        "created_at": "2026-11-03T00:47:28.411865+00:00",
+        "updated_at": "2026-11-03T00:47:28.411865+00:00"
+      },
+      {
+        "memory": "Maria adopted a black puppy from a shelter around August 6, 2023, describing the experience as bringing her joy and feeling blessed to give the dog a home.",
+        "score": 0.6590164463156294,
+        "id": "c8f1989f-410b-45fb-a83d-5d9d4ae27365",
+        "created_at": "2026-11-03T00:48:28.732864+00:00",
+        "updated_at": "2026-11-03T00:48:28.732864+00:00"
+      },
+      {
+        "memory": "Maria got a new puppy named Coco around July 28, 2023, and shared a photo of the white dog laying in the grass with a baseball.",
+        "score": 0.6579033018194496,
+        "id": "e8e8d2c9-3b27-414d-8053-d664d7485e7e",
+        "created_at": "2026-11-03T00:47:21.214055+00:00",
+        "updated_at": "2026-11-03T00:47:21.214055+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023, and describes her as full of energy and a source of joy; Shadow gets along well with Maria's other dog.",
+        "score": 0.657650159169158,
+        "id": "56c90cd6-8948-403e-aa95-27375d23873f",
+        "created_at": "2026-11-03T00:48:54.951566+00:00",
+        "updated_at": "2026-11-03T00:48:54.951566+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023. Shadow is full of energy and gets along well with Maria's other dog.",
+        "score": 0.6561059484998681,
+        "id": "2747eacc-4c8e-443f-bdb2-57dbacee41a2",
+        "created_at": "2026-11-03T00:48:41.841677+00:00",
+        "updated_at": "2026-11-03T00:48:41.841677+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy and gets along great with Maria's other dog, Coco.",
+        "score": 0.6518332250288212,
+        "id": "45911fab-6b6a-4ecc-8fad-efa8761de338",
+        "created_at": "2026-11-03T00:48:33.489158+00:00",
+        "updated_at": "2026-11-03T00:48:33.489158+00:00"
+      },
+      {
+        "memory": "Maria adopted a new puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings her joy, and gets along well with Maria's other dog.",
+        "score": 0.6492986408213287,
+        "id": "773194b0-1399-4a40-851b-f1a03c7eafb7",
+        "created_at": "2026-11-03T00:48:44.668018+00:00",
+        "updated_at": "2026-11-03T00:48:44.668018+00:00"
+      },
+      {
+        "memory": "Maria's new puppy Shadow is doing well, currently learning commands and undergoing house training as of August 13, 2023",
+        "score": 0.642745536741373,
+        "id": "cb3fadbe-87f3-4037-ac4e-d6464d91c4b6",
+        "created_at": "2026-11-03T00:48:46.799616+00:00",
+        "updated_at": "2026-11-03T00:48:46.799616+00:00"
+      },
+      {
+        "memory": "John is considering adopting a new puppy from a shelter near him after being inspired by Maria's recent adoption experience.",
+        "score": 0.6070331152452575,
+        "id": "10d4ac91-1041-454c-b9b0-f80d6dc38925",
+        "created_at": "2026-11-03T00:48:54.955150+00:00",
+        "updated_at": "2026-11-03T00:48:54.955150+00:00"
+      },
+      {
+        "memory": "John plans to look into local shelters soon to adopt a new puppy for his family, expressing that it would be great to have a new pup in the house.",
+        "score": 0.5234802059715389,
+        "id": "76a8f119-3d06-4986-9864-b2aa4134fc4b",
+        "created_at": "2026-11-03T00:48:39.688426+00:00",
+        "updated_at": "2026-11-03T00:48:39.688426+00:00"
+      },
+      {
+        "memory": "Maria did not have any pets growing up, but notes that having a furry companion brightens her days.",
+        "score": 0.30431039823600575,
+        "id": "1985e380-3bb6-48c3-97ce-d0d178b31fcc",
+        "created_at": "2026-11-03T00:48:44.671695+00:00",
+        "updated_at": "2026-11-03T00:48:44.671695+00:00"
+      }
+    ],
+    "search_latency_ms": 60.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Shadow",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

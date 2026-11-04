@@ -1,0 +1,196 @@
+{
+  "question_id": "conv3_q1",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What kind of interests do Joanna and Nate share?",
+  "ground_truth_answer": "Watching movies, making desserts",
+  "evidence": [
+    "D1:10",
+    "D1:11",
+    "D1:12",
+    "D3:4",
+    "D4:9",
+    "D10:9",
+    "D20:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of interests do Joanna and Nate share?",
+    "search_results": [
+      {
+        "memory": "Nate expressed interest in joining Joanna for a cooking or baking session on September 5, 2022, stating that the activity brings them together, and shared a photo of a pile of cookies with sprinkles on a wooden table.",
+        "score": 0.6639035888756182,
+        "id": "83384277-b63a-47bc-9f60-1772d1ced054",
+        "created_at": "2026-11-03T03:16:08.952067+00:00",
+        "updated_at": "2026-11-03T03:16:08.952067+00:00"
+      },
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.6611003176962421,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.6572119382156569,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      },
+      {
+        "memory": "Nate agreed to share his new creamy, rich, dairy-free recipe with Joanna on August 14, 2022, after she expressed interest in trying it.",
+        "score": 0.6465333197269689,
+        "id": "1bc797eb-f092-4a67-997c-ba061383c1de",
+        "created_at": "2026-11-03T03:13:40.694805+00:00",
+        "updated_at": "2026-11-03T03:13:40.694805+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.641310619536415,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Joanna has a chocolate and raspberry cake recipe that she has been wanting to share with Nate, who has expressed interest in trying it",
+        "score": 0.6390384591963838,
+        "id": "024d0a86-64bc-490d-bbe5-b617e4225080",
+        "created_at": "2026-11-03T03:26:58.947748+00:00",
+        "updated_at": "2026-11-03T03:26:58.947748+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in starting his own cork board after seeing Joanna's, viewing it as a valuable way to stay motivated and inspired.",
+        "score": 0.636476499097596,
+        "id": "e94e9c8b-db13-4ae9-a945-de021962d438",
+        "created_at": "2026-11-03T03:10:43.264475+00:00",
+        "updated_at": "2026-11-03T03:10:43.264475+00:00"
+      },
+      {
+        "memory": "Joanna is interested in attending a writing convention after Nate suggested it, noting that she will look into the idea as it could be fun.",
+        "score": 0.6364674822839395,
+        "id": "c6abad35-680c-457f-84ca-94e01e41a489",
+        "created_at": "2026-11-03T03:21:42.055000+00:00",
+        "updated_at": "2026-11-03T03:21:42.055000+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers with Joanna while discussing his current gaming interests on November 7, 2022.",
+        "score": 0.6360943996087194,
+        "id": "0f085430-93ce-46c2-9ec1-8df356d65d2b",
+        "created_at": "2026-11-03T03:29:10.396330+00:00",
+        "updated_at": "2026-11-03T03:29:10.396330+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.6300533858475792,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate to watch him play with them from a distance.",
+        "score": 0.6221826196069711,
+        "id": "fa4f4d06-a5bb-40f1-96bf-a21fd9a8849e",
+        "created_at": "2026-11-03T03:32:14.041189+00:00",
+        "updated_at": "2026-11-03T03:32:14.041189+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate's home to watch him play with them from a distance.",
+        "score": 0.6197371944029568,
+        "id": "efeb0380-a5a1-4ff2-a597-6e22595ee09c",
+        "created_at": "2026-11-03T03:32:33.625816+00:00",
+        "updated_at": "2026-11-03T03:32:33.625816+00:00"
+      },
+      {
+        "memory": "Joanna's third completed screenplay, shared with Nate on May 20, 2022, is a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6120294069699953,
+        "id": "d06355ff-424f-4a74-a51f-60977ae02a02",
+        "created_at": "2026-11-03T03:07:33.475009+00:00",
+        "updated_at": "2026-11-03T03:07:33.475009+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6017421402043301,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a whiteboard with motivational quotes, arrows, and words with Joanna on October 6, 2022, as a gesture of support for her goals.",
+        "score": 0.598811068251757,
+        "id": "f6a63be5-6e15-4fdc-bedc-d0a3341799ec",
+        "created_at": "2026-11-03T03:19:49.798536+00:00",
+        "updated_at": "2026-11-03T03:19:49.798536+00:00"
+      },
+      {
+        "memory": "Joanna confirmed she is the person in the theater stage photo shared with Nate, identifying it as a moment from her acting career.",
+        "score": 0.5985427637798015,
+        "id": "a2d98a7c-3095-4264-9bb5-6fb742be395c",
+        "created_at": "2026-11-03T03:04:32.965136+00:00",
+        "updated_at": "2026-11-03T03:04:32.965136+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a picture frame containing a family photo with Nate on June 5, 2022, which she keeps on her cork board among quotes and mementos",
+        "score": 0.5981468678520535,
+        "id": "ebb0d797-28d8-4640-977a-66d3c4591b54",
+        "created_at": "2026-11-03T03:10:30.628150+00:00",
+        "updated_at": "2026-11-03T03:10:30.628150+00:00"
+      },
+      {
+        "memory": "Joanna makes various dairy-free desserts including cookies, pies, and cakes that accommodate different dietary needs, and plans to share more recipes with Nate soon.",
+        "score": 0.597968277205736,
+        "id": "f4c7f8ea-5a10-4664-b007-c5fea1c38349",
+        "created_at": "2026-11-03T03:16:58.589406+00:00",
+        "updated_at": "2026-11-03T03:16:58.589406+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.5950584988584524,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.5923256424435158,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      }
+    ],
+    "search_latency_ms": 95.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna and Nate share interests in cooking and baking (including vegan ice cream and cake recipes), hiking (specifically to scenic locations like Whispering Falls), and writing (such as attending a writing convention).",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions cooking and baking, which semantically overlaps with the gold answer's 'making desserts', satisfying the partial credit rule."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna and Nate share interests in cooking and baking (especially dairy-free desserts), hiking, writing, and using motivational displays like cork boards.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'baking (especially dairy-free desserts)', which is a specific instance of the gold answer's 'making desserts', satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna and Nate share interests in cooking and baking (especially dairy-free desserts), hiking, writing, and using motivational displays like cork boards.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'baking (especially dairy-free desserts)', which is a specific instance of the gold answer's 'making desserts', satisfying the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna and Nate share interests in cooking and baking (especially dairy-free desserts), hiking, writing, and using motivational displays like cork boards.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'baking (especially dairy-free desserts)', which is a specific instance of the gold answer's 'making desserts', satisfying the partial credit rule."
+    }
+  }
+}

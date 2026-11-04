@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q168",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What helps Joanna stay focused and brings her joy?",
+  "ground_truth_answer": "stuffed animal dog named Tilly",
+  "evidence": [
+    "D24:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What helps Joanna stay focused and brings her joy?",
+    "search_results": [
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6492277181860229,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who creates visual character designs to help bring her characters alive in her head, which she uses as a tool to write better.",
+        "score": 0.6405627311077409,
+        "id": "284d3c16-1b31-4e48-938c-176df7fa3412",
+        "created_at": "2026-11-03T03:25:06.483251+00:00",
+        "updated_at": "2026-11-03T03:25:06.483251+00:00"
+      },
+      {
+        "memory": "Joanna's stuffed animal named Tilly helps her stay focused and brings her joy.",
+        "score": 0.6400377650689657,
+        "id": "02d80c76-be11-400c-95bd-aaf0559c72ee",
+        "created_at": "2026-11-03T03:23:55.198947+00:00",
+        "updated_at": "2026-11-03T03:23:55.198947+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches and visual drawings to help bring her characters alive in her head, which she uses as a tool to write better. She draws inspiration for these characters from people she knows, things she sees, and her imagination.",
+        "score": 0.6288125270395397,
+        "id": "730beb6b-31ba-48da-b1ac-82e1e52b4303",
+        "created_at": "2026-11-03T03:24:58.329719+00:00",
+        "updated_at": "2026-11-03T03:24:58.329719+00:00"
+      },
+      {
+        "memory": "Joanna draws character sketches to help visualize her characters and bring them alive in her head, which she uses as a tool to write better dialogue and actions.",
+        "score": 0.6254829246158107,
+        "id": "5d453725-664b-4c08-971b-7f382458acd4",
+        "created_at": "2026-11-03T03:24:41.832216+00:00",
+        "updated_at": "2026-11-03T03:24:41.832216+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches as visual aids to help bring her characters alive in her mind, which she uses to improve the quality of her writing.",
+        "score": 0.624649586011133,
+        "id": "8d852e60-4ce3-4c1b-bf75-85de47a4690e",
+        "created_at": "2026-11-03T03:24:32.623867+00:00",
+        "updated_at": "2026-11-03T03:24:32.623867+00:00"
+      },
+      {
+        "memory": "Joanna performed in her first play and was so nervous that she forgot her lines, an experience she found embarrassing but which taught her the importance of preparation and staying in the moment.",
+        "score": 0.6205202554581194,
+        "id": "ddc7bf39-2657-43dd-8ae7-c183dc865c59",
+        "created_at": "2026-11-03T03:04:27.834605+00:00",
+        "updated_at": "2026-11-03T03:04:27.834605+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.6095115695023037,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.6043323950222297,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps make something good out of difficult emotions and that words have a magical healing power.",
+        "score": 0.5736113940472266,
+        "id": "79b05508-cf27-4619-9d2d-a513ec113a8a",
+        "created_at": "2026-11-03T03:13:36.340320+00:00",
+        "updated_at": "2026-11-03T03:13:36.340320+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps heal and create something positive from difficult emotions.",
+        "score": 0.5725995785800857,
+        "id": "df5a5cf2-65ab-4d71-a019-7f6c5639f487",
+        "created_at": "2026-11-03T03:13:32.623734+00:00",
+        "updated_at": "2026-11-03T03:13:32.623734+00:00"
+      },
+      {
+        "memory": "Joanna stated that acting was her first passion but she now shines in writing, which helps her express herself in a new way, though she remains open to returning to acting someday.",
+        "score": 0.5406146837739096,
+        "id": "d566cc10-6790-4843-816b-f6537b10c104",
+        "created_at": "2026-11-03T03:04:32.970634+00:00",
+        "updated_at": "2026-11-03T03:04:32.970634+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.3873442955583627,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.2790761371691471,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.27772721422886226,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna believes that taking breaks and looking after herself are important for maintaining her inspiration and mental health, emphasizing the need for balance",
+        "score": 0.2720655477029402,
+        "id": "0b7fcc5b-2301-471d-9357-6c73c5588c13",
+        "created_at": "2026-11-03T03:14:40.198405+00:00",
+        "updated_at": "2026-11-03T03:14:40.198405+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.2698817042473461,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna finds it rewarding to see how an idea takes shape into a person with their own wants, worries, and wishes, drawing inspiration for her characters from people she knows, things she sees, and her imagination.",
+        "score": 0.26670584196227887,
+        "id": "72ee7da9-8bb3-4786-bfec-346425d1f715",
+        "created_at": "2026-11-03T03:24:41.840834+00:00",
+        "updated_at": "2026-11-03T03:24:41.840834+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope with her current mood.",
+        "score": 0.2654597400867245,
+        "id": "a7098c55-1bfb-44f9-ac4e-194257bfb93f",
+        "created_at": "2026-11-03T03:15:53.709150+00:00",
+        "updated_at": "2026-11-03T03:15:53.709150+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she has seen, and her own imagination, finding it cool to see how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.26504244125984877,
+        "id": "dc413a00-87fe-4433-94d0-e3f41eeda790",
+        "created_at": "2026-11-03T03:25:06.488661+00:00",
+        "updated_at": "2026-11-03T03:25:06.488661+00:00"
+      }
+    ],
+    "search_latency_ms": 70.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her stuffed animal named Tilly helps Joanna stay focused and brings her joy.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core entity, a stuffed animal named Tilly, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her stuffed animal named Tilly helps Joanna stay focused and brings her joy.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, a stuffed animal named Tilly, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her stuffed animal named Tilly",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, a stuffed animal named Tilly, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her stuffed animal named Tilly",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, a stuffed animal named Tilly, matching the gold answer."
+    }
+  }
+}

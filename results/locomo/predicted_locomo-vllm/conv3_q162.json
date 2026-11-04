@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q162",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What game did Nate play at the game convention he attended on 9 October, 2022?",
+  "ground_truth_answer": "Catan",
+  "evidence": [
+    "D23:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What game did Nate play at the game convention he attended on 9 October, 2022?",
+    "search_results": [
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.8963836675166054,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.8941649436873951,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games.",
+        "score": 0.8913485056248444,
+        "id": "b23005e4-62f5-406d-945a-35f8b73c0d87",
+        "created_at": "2026-11-03T03:21:11.592514+00:00",
+        "updated_at": "2026-11-03T03:21:11.592514+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games",
+        "score": 0.8910713877014642,
+        "id": "dd518a5a-9e91-47df-a04c-0a0f2211d146",
+        "created_at": "2026-11-03T03:21:24.577604+00:00",
+        "updated_at": "2026-11-03T03:21:24.577604+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle, found the experience overwhelming but rewarding, and made friends who share his interest in games.",
+        "score": 0.8862570390118402,
+        "id": "c588b354-3471-4126-8b26-99771a611a1b",
+        "created_at": "2026-11-03T03:20:54.696364+00:00",
+        "updated_at": "2026-11-03T03:20:54.696364+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his usual social circle; the experience was overwhelming but reminded him of the positive aspects of gaming.",
+        "score": 0.8794139447121235,
+        "id": "d160a8f2-ff73-454e-be22-07e32224c27d",
+        "created_at": "2026-11-03T03:20:31.938645+00:00",
+        "updated_at": "2026-11-03T03:20:31.938645+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention on October 7, 2022, who share his interest in games, and they have already planned a gaming session together.",
+        "score": 0.8663939037081863,
+        "id": "1a9ef031-4fb4-4f3a-9e47-81776a1a6d00",
+        "created_at": "2026-11-03T03:20:46.724645+00:00",
+        "updated_at": "2026-11-03T03:20:46.724645+00:00"
+      },
+      {
+        "memory": "Nate attended a gaming convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games, planning a future gaming session together.",
+        "score": 0.8600735193118496,
+        "id": "6d13d644-40e4-4423-9806-285ca64994b7",
+        "created_at": "2026-11-03T03:21:14.435936+00:00",
+        "updated_at": "2026-11-03T03:21:14.435936+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.8590935738641956,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.8572316838013126,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate attended a video game convention where he met new friends who share his interest in games and they planned a gaming session together",
+        "score": 0.8433277057621158,
+        "id": "c21babf7-62bd-465a-9d07-fcaa781d6825",
+        "created_at": "2026-11-03T03:21:30.264339+00:00",
+        "updated_at": "2026-11-03T03:21:30.264339+00:00"
+      },
+      {
+        "memory": "Nate played the strategy board game Catan at the game convention on October 7, 2022, describing it as a great game where you build settlements and trade resources, and stated that he loves it.",
+        "score": 0.835499621549489,
+        "id": "beb9deba-fd63-4fce-9672-c01cf76b4b9c",
+        "created_at": "2026-11-03T03:21:08.056530+00:00",
+        "updated_at": "2026-11-03T03:21:08.056530+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7903094736864723,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7903094736864723,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, where he won his second tournament after discovering he is really good at the game, which he often plays with friends.",
+        "score": 0.7879519604783497,
+        "id": "e46f8254-3be8-423f-9cd3-228e333fd1b2",
+        "created_at": "2026-11-03T03:05:18.607840+00:00",
+        "updated_at": "2026-11-03T03:05:18.607840+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, because he frequently plays that game with friends and discovered he is very skilled at it.",
+        "score": 0.7845831476189248,
+        "id": "3b10eb18-a11a-4961-a82f-f372c9cae223",
+        "created_at": "2026-11-03T03:05:21.778239+00:00",
+        "updated_at": "2026-11-03T03:05:21.778239+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.773199062954621,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.7709406322464031,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around November 9, 2022, but did not make it to the finals; he described it as tough but expressed determination to win next time.",
+        "score": 0.7709007356443124,
+        "id": "6cd64262-36b5-4e0b-a66b-0317946c2ef2",
+        "created_at": "2026-11-03T03:30:12.291294+00:00",
+        "updated_at": "2026-11-03T03:30:12.291294+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.7651307648375764,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      }
+    ],
+    "search_latency_ms": 63.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A boardgame he loves.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer does not identify Catan or any specific game from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Catan",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Catan",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Catan",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

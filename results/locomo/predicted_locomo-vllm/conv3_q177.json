@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q177",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What inspires Joanna to create drawings of her characters?",
+  "ground_truth_answer": "visuals to help bring the characters alive in her head so she can write better",
+  "evidence": [
+    "D25:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What inspires Joanna to create drawings of her characters?",
+    "search_results": [
+      {
+        "memory": "Joanna creates character sketches and visual drawings to help bring her characters alive in her head, which she uses as a tool to write better. She draws inspiration for these characters from people she knows, things she sees, and her imagination.",
+        "score": 0.7612617122654987,
+        "id": "730beb6b-31ba-48da-b1ac-82e1e52b4303",
+        "created_at": "2026-11-03T03:24:58.329719+00:00",
+        "updated_at": "2026-11-03T03:24:58.329719+00:00"
+      },
+      {
+        "memory": "Joanna creates visual character sketches in a drawing book to help bring her characters alive in her mind, which she uses as a tool to write better dialogue and develop their personalities.",
+        "score": 0.744352101757306,
+        "id": "eea87060-5259-4b4f-b8b9-c1d5e9943920",
+        "created_at": "2026-11-03T03:24:38.024659+00:00",
+        "updated_at": "2026-11-03T03:24:38.024659+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches in a drawing book to help visualize her characters and bring them alive in her head, which aids her writing process.",
+        "score": 0.7429542428272071,
+        "id": "3a9c6c55-ecfa-41bd-a36d-3a76e9efe153",
+        "created_at": "2026-11-03T03:24:52.409212+00:00",
+        "updated_at": "2026-11-03T03:24:52.409212+00:00"
+      },
+      {
+        "memory": "Joanna draws character sketches to help visualize her characters and bring them alive in her head, which she uses as a tool to write better dialogue and actions.",
+        "score": 0.735589217089111,
+        "id": "5d453725-664b-4c08-971b-7f382458acd4",
+        "created_at": "2026-11-03T03:24:41.832216+00:00",
+        "updated_at": "2026-11-03T03:24:41.832216+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches as visual aids to help bring her characters alive in her mind, which she uses to improve the quality of her writing.",
+        "score": 0.7345074525237247,
+        "id": "8d852e60-4ce3-4c1b-bf75-85de47a4690e",
+        "created_at": "2026-11-03T03:24:32.623867+00:00",
+        "updated_at": "2026-11-03T03:24:32.623867+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.732026153087684,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she has seen, and her own imagination, finding it cool to see how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.7294584752749891,
+        "id": "dc413a00-87fe-4433-94d0-e3f41eeda790",
+        "created_at": "2026-11-03T03:25:06.488661+00:00",
+        "updated_at": "2026-11-03T03:25:06.488661+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who creates visual character designs to help bring her characters alive in her head, which she uses as a tool to write better.",
+        "score": 0.7214165592070789,
+        "id": "284d3c16-1b31-4e48-938c-176df7fa3412",
+        "created_at": "2026-11-03T03:25:06.483251+00:00",
+        "updated_at": "2026-11-03T03:25:06.483251+00:00"
+      },
+      {
+        "memory": "Joanna finds it rewarding to see how an idea takes shape into a person with their own wants, worries, and wishes, drawing inspiration for her characters from people she knows, things she sees, and her imagination.",
+        "score": 0.7199804237883213,
+        "id": "72ee7da9-8bb3-4786-bfec-346425d1f715",
+        "created_at": "2026-11-03T03:24:41.840834+00:00",
+        "updated_at": "2026-11-03T03:24:41.840834+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a passion and a blessing that she got the idea for her current script from a dream.",
+        "score": 0.6419921885867177,
+        "id": "4fd19a89-048d-4330-8b43-373dc126690c",
+        "created_at": "2026-11-03T03:28:47.523156+00:00",
+        "updated_at": "2026-11-03T03:28:47.523156+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.6418609214348113,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing and a long-standing passion.",
+        "score": 0.63692176647661,
+        "id": "1c1e9a75-f321-400b-911e-1dfa7c841b15",
+        "created_at": "2026-11-03T03:28:17.712828+00:00",
+        "updated_at": "2026-11-03T03:28:17.712828+00:00"
+      },
+      {
+        "memory": "Joanna found it rewarding to see her characters and dialogue acted out on screen, noting that seeing her hard work pay off was a cool feeling and that this was the third time a project of hers had been filmed.",
+        "score": 0.6348464343632878,
+        "id": "eea68f45-3a1d-4a26-9e02-5e7d6889ac33",
+        "created_at": "2026-11-03T03:24:30.595676+00:00",
+        "updated_at": "2026-11-03T03:24:30.595676+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing for her.",
+        "score": 0.6332975911375152,
+        "id": "f453d72e-cd68-4e3a-a63f-1baf10165bce",
+        "created_at": "2026-11-03T03:28:29.343165+00:00",
+        "updated_at": "2026-11-03T03:28:29.343165+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna as a source of encouragement, noting that his own gaming career was built on encouragement from others.",
+        "score": 0.6317089569194314,
+        "id": "2cfdf6f4-c8b0-491c-bb88-248885a41c9a",
+        "created_at": "2026-11-03T03:20:27.570976+00:00",
+        "updated_at": "2026-11-03T03:20:27.570976+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing for her life.",
+        "score": 0.6316387809958809,
+        "id": "4b55dc23-43dc-4f31-a9a0-8e3a47672e4b",
+        "created_at": "2026-11-03T03:28:12.951169+00:00",
+        "updated_at": "2026-11-03T03:28:12.951169+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing.",
+        "score": 0.6295344908288805,
+        "id": "95b57ab9-220c-4c81-aa3c-2807ce41294e",
+        "created_at": "2026-11-03T03:28:42.607253+00:00",
+        "updated_at": "2026-11-03T03:28:42.607253+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board in her room filled with inspiring quotes and pictures that serve as her corner of motivation and creativity",
+        "score": 0.626345019550622,
+        "id": "dfa7eeb8-ef94-4111-8029-243121cc46d3",
+        "created_at": "2026-11-03T03:10:25.137009+00:00",
+        "updated_at": "2026-11-03T03:10:25.137009+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as a surreal and satisfying moment after waiting a long time, feeling rewarded by the hard work and determination she put into writing the characters and dialogue.",
+        "score": 0.6250127380910235,
+        "id": "f341af1c-7d53-4946-bad7-19bd26813f52",
+        "created_at": "2026-11-03T03:24:21.099313+00:00",
+        "updated_at": "2026-11-03T03:24:21.099313+00:00"
+      },
+      {
+        "memory": "Joanna describes writing as an escape and a way to express her feelings, noting that it allows her to put thoughts down and create something positive, and she believes words have a magical way of healing.",
+        "score": 0.6203093732790487,
+        "id": "bdb48122-d007-4830-aa27-f61d2aa2ef09",
+        "created_at": "2026-11-03T03:13:05.480399+00:00",
+        "updated_at": "2026-11-03T03:13:05.480399+00:00"
+      }
+    ],
+    "search_latency_ms": 39.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by people she knows, things she sees, and her imagination.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions visual inspiration through 'things she sees,' which partially overlaps with the gold answer's focus on visuals, even though it omits the purpose of bringing characters alive for writing."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by people she knows, things she sees, and her imagination, and she creates the drawings to help bring her characters alive in her mind.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core idea that the drawings help bring the characters alive in her mind, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by people she knows, things she sees, and her imagination, and she creates the drawings to help bring her characters alive in her mind.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core idea that the drawings help bring the characters alive in her mind, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by people she knows, things she sees, and her imagination, and she creates the drawings to help bring her characters alive in her mind.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the core idea that the drawings help bring the characters alive in her mind, matching the gold answer."
+    }
+  }
+}

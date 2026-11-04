@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q31",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "What month did Tim plan on going to Universal Studios?",
+  "ground_truth_answer": "September, 2023",
+  "evidence": [
+    "D10:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What month did Tim plan on going to Universal Studios?",
+    "search_results": [
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023.",
+        "score": 0.9281095966473367,
+        "id": "ad4dde23-5d0c-4f71-a8ce-9f03f3e6a0f1",
+        "created_at": "2026-11-03T09:12:40.253573+00:00",
+        "updated_at": "2026-11-03T09:12:40.253573+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023, which will be his first time visiting the park. He is particularly excited about the Harry Potter attractions and looks forward to sharing how the experience goes.",
+        "score": 0.8930030079468037,
+        "id": "86c14756-7e7d-427e-a939-15558dfa26d0",
+        "created_at": "2026-11-03T09:13:26.752987+00:00",
+        "updated_at": "2026-11-03T09:13:26.752987+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in October 2023, which will be his first time visiting the park, and he is particularly excited about the Harry Potter attractions.",
+        "score": 0.8838711557901165,
+        "id": "4ac47a99-a30c-4dd3-a031-222a2bea001e",
+        "created_at": "2026-11-03T09:13:40.595721+00:00",
+        "updated_at": "2026-11-03T09:13:40.595721+00:00"
+      },
+      {
+        "memory": "Tim is planning his first trip to Universal Studios in September 2023 and is particularly excited about the Harry Potter attractions.",
+        "score": 0.8822877980351574,
+        "id": "48dedacd-a512-4713-b6bf-1f72140928ab",
+        "created_at": "2026-11-03T09:13:05.379106+00:00",
+        "updated_at": "2026-11-03T09:13:05.379106+00:00"
+      },
+      {
+        "memory": "Tim is going to Universal Studios for the first time and is particularly excited about the Harry Potter attractions there.",
+        "score": 0.8790751094512173,
+        "id": "795851d2-4ad6-4f3e-bb4f-b6aee65c35ac",
+        "created_at": "2026-11-03T09:12:56.886443+00:00",
+        "updated_at": "2026-11-03T09:12:56.886443+00:00"
+      },
+      {
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
+        "score": 0.6144779579510248,
+        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
+        "created_at": "2026-11-03T09:35:32.397758+00:00",
+        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+      },
+      {
+        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
+        "score": 0.5918789253595602,
+        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
+        "created_at": "2026-11-03T09:31:05.110299+00:00",
+        "updated_at": "2026-11-03T09:31:05.110299+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
+        "score": 0.589921793480194,
+        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
+        "created_at": "2026-11-03T09:30:41.679787+00:00",
+        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.5889301068392292,
+        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
+        "created_at": "2026-11-03T09:30:48.601783+00:00",
+        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
+        "score": 0.5889301068392292,
+        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
+        "created_at": "2026-11-03T09:30:53.143666+00:00",
+        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+      },
+      {
+        "memory": "Tim went on a trip to the Smoky Mountains in 2022 and found the experience incredible, describing nature as refreshing and a good break from school.",
+        "score": 0.5793128881580212,
+        "id": "b0fb5f0c-5aa0-417d-af7f-52c2bffffd10",
+        "created_at": "2026-11-03T09:19:26.756015+00:00",
+        "updated_at": "2026-11-03T09:19:26.756015+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.5712800772288952,
+        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
+        "created_at": "2026-11-03T09:21:16.840236+00:00",
+        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+      },
+      {
+        "memory": "Tim is going to Ireland for a semester in February 2024 as part of a study abroad program he was accepted into on January 5, 2024.",
+        "score": 0.570073470575001,
+        "id": "e31538a1-2758-4c27-abfa-09e60b7c04c1",
+        "created_at": "2026-11-03T09:37:22.434213+00:00",
+        "updated_at": "2026-11-03T09:37:22.434213+00:00"
+      },
+      {
+        "memory": "Tim went to a castle in the UK on November 10, 2023, and found the architecture and history unbelievable",
+        "score": 0.5631866196672366,
+        "id": "a8f0ea6d-e584-4e3b-b723-5ddc4b9ab43b",
+        "created_at": "2026-11-03T09:26:25.473422+00:00",
+        "updated_at": "2026-11-03T09:26:25.473422+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
+        "score": 0.5578824746779029,
+        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
+        "created_at": "2026-11-03T09:34:38.576853+00:00",
+        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+      },
+      {
+        "memory": "Tim went to a castle in the UK on November 10, 2023, and found the architecture and history amazing, sharing a photo of the castle with lush greenery and a river running through it.",
+        "score": 0.554247523210669,
+        "id": "a9b3c68b-e9cc-445d-b233-9cbdff65d832",
+        "created_at": "2026-11-03T09:25:03.757287+00:00",
+        "updated_at": "2026-11-03T09:25:03.757287+00:00"
+      },
+      {
+        "memory": "Tim went to a castle in the UK on November 10, 2023, describing the architecture and history as unbelievable and amazing, and shared a photo of a castle with a river running through it surrounded by lush greenery.",
+        "score": 0.5524183961858584,
+        "id": "3a92b0ea-e422-4d85-a031-1a48b138920a",
+        "created_at": "2026-11-03T09:25:00.264625+00:00",
+        "updated_at": "2026-11-03T09:25:00.264625+00:00"
+      },
+      {
+        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
+        "score": 0.5396951432761373,
+        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
+        "created_at": "2026-11-03T09:14:13.745108+00:00",
+        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.5274143159507159,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on or before December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.24323124503677676,
+        "id": "23ba5800-02f8-4123-adfc-ac99dc60b17c",
+        "created_at": "2026-11-03T09:34:36.196147+00:00",
+        "updated_at": "2026-11-03T09:34:36.196147+00:00"
+      }
+    ],
+    "search_latency_ms": 71.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "question_id": "conv0_q38",
+  "conversation_idx": 0,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What activities has Melanie done with her family?",
+  "ground_truth_answer": "Pottery, painting, camping, museum, swimming, hiking",
+  "evidence": [
+    "D8:4",
+    "D8:6",
+    "D9:1",
+    "D6:4",
+    "D1:18",
+    "D3:14"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What activities has Melanie done with her family?",
+    "search_results": [],
+    "search_latency_ms": 24.7,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    }
+  }
+}

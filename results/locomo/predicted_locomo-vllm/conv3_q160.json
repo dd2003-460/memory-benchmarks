@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q160",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What movie did Nate recently watch and enjoy on October 6, 2022?",
+  "ground_truth_answer": "Little Women",
+  "evidence": [
+    "D22:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What movie did Nate recently watch and enjoy on October 6, 2022?",
+    "search_results": [
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.7740605905026791,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.7657465441874087,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.7506273842022321,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop as of October 9, 2022, praising its futuristic setting and gameplay.",
+        "score": 0.7042639387326064,
+        "id": "976f7861-d003-4c41-b084-df944f8f8b23",
+        "created_at": "2026-11-03T03:21:53.166096+00:00",
+        "updated_at": "2026-11-03T03:21:53.166096+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.7041117301602947,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7028251091306323,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7028251091306323,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.7000511983276533,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.6934669880091634,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.6911491229168606,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate's gaming party held on June 17, 2022, was a great success with 7 people attending, and 6 of them expressed interest in doing it again the following month.",
+        "score": 0.6899947177928625,
+        "id": "8287e95e-faf9-4f26-9b08-b448a985361b",
+        "created_at": "2026-11-03T03:11:06.983162+00:00",
+        "updated_at": "2026-11-03T03:11:06.983162+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.6857541806551656,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.6854096661279192,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate won a major video game tournament in the week preceding October 6, 2022, and expressed amazement at the significant amount of money he earned from the prize.",
+        "score": 0.6836092154479575,
+        "id": "afbc3792-b004-4e4e-927a-c1ee5bf0bf60",
+        "created_at": "2026-11-03T03:18:52.356015+00:00",
+        "updated_at": "2026-11-03T03:18:52.356015+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.6830249619478835,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a box containing a videogame controller with Joanna on October 25, 2022, while congratulating her on her film screening.",
+        "score": 0.6762481863853296,
+        "id": "c35e33ca-ff34-42d2-bfee-be0885833574",
+        "created_at": "2026-11-03T03:24:14.992891+00:00",
+        "updated_at": "2026-11-03T03:24:14.992891+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.6747067596671419,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.6740987414032915,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.6627346773011862,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle, found the experience overwhelming but rewarding, and made friends who share his interest in games.",
+        "score": 0.6598464867831593,
+        "id": "c588b354-3471-4126-8b26-99771a611a1b",
+        "created_at": "2026-11-03T03:20:54.696364+00:00",
+        "updated_at": "2026-11-03T03:20:54.696364+00:00"
+      }
+    ],
+    "search_latency_ms": 50.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

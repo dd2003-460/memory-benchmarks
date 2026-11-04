@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q16",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John get his degree?",
+  "ground_truth_answer": "The week before 2 April 2023",
+  "evidence": [
+    "D9:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did John get his degree?",
+    "search_results": [
+      {
+        "memory": "John is considering a career in policymaking, motivated by his academic degree and a passion for making a positive impact through improvements in the field.",
+        "score": 0.6187768016868068,
+        "id": "429977d2-a59b-458a-b4e6-3e43da51a1ab",
+        "created_at": "2026-11-03T00:24:04.894325+00:00",
+        "updated_at": "2026-11-03T00:24:04.894325+00:00"
+      },
+      {
+        "memory": "John mentors students in a program where he observed significant improvements in their confidence and skills, including a proud moment when a student excitedly showed him an essay in early August 2023.",
+        "score": 0.29402124952506387,
+        "id": "e64512c5-6f38-4013-b317-04eaca5b15df",
+        "created_at": "2026-11-03T00:48:54.959574+00:00",
+        "updated_at": "2026-11-03T00:48:54.959574+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.23611740274776166,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      },
+      {
+        "memory": "John's mentoring program students have shown real improvement in confidence and skills, highlighted by a student excitedly showing John their essay around August 6-12, 2023, which was a proud moment for him.",
+        "score": 0.2195017805610185,
+        "id": "3c2cc0d8-f97e-47a4-a454-bb7cb5fe5305",
+        "created_at": "2026-11-03T00:49:03.794603+00:00",
+        "updated_at": "2026-11-03T00:49:03.794603+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work.",
+        "score": 0.21612598815266412,
+        "id": "2d2daa38-d6f2-45bd-aa62-1c956e8da4d4",
+        "created_at": "2026-11-03T00:34:22.868576+00:00",
+        "updated_at": "2026-11-03T00:34:22.868576+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21470380512293596,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21470380512293596,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.21256611730091285,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.21053364307323297,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.21053364307323297,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.21046648317742225,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he describes as a long time coming and feels over the moon about, viewing it as a stepping stone for bigger things.",
+        "score": 0.20880544670185747,
+        "id": "0423c9c1-d7fe-48b3-b5eb-b16ffc56a98c",
+        "created_at": "2026-11-03T00:33:49.885439+00:00",
+        "updated_at": "2026-11-03T00:33:49.885439+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.20722277513375306,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.2062222682501215,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.20600173002959185,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.20421052272158285,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.20404996153710017,
+        "id": "f93ff361-c508-4a6e-a5b1-74f89d80a9d5",
+        "created_at": "2026-11-03T00:34:11.113022+00:00",
+        "updated_at": "2026-11-03T00:34:11.113022+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.20404996153710017,
+        "id": "e649036e-713b-4c60-b715-f74180cd33f9",
+        "created_at": "2026-11-03T00:33:31.655941+00:00",
+        "updated_at": "2026-11-03T00:33:31.655941+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.20404996153710017,
+        "id": "9739b3ae-96b0-4315-aa32-ac04a65164dd",
+        "created_at": "2026-11-03T00:33:57.491210+00:00",
+        "updated_at": "2026-11-03T00:33:57.491210+00:00"
+      },
+      {
+        "memory": "John is particularly interested in improving education and infrastructure within his community as specific areas for his future work in policymaking.",
+        "score": 0.20266946671777647,
+        "id": "1a5d3c06-c997-4f79-bf03-6542432b3d3d",
+        "created_at": "2026-11-03T00:24:07.566594+00:00",
+        "updated_at": "2026-11-03T00:24:07.566594+00:00"
+      }
+    ],
+    "search_latency_ms": 40.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John had already earned his degree by 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly places John earning his degree in 2023, which is consistent with the gold answer's specific date in early April 2023."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories confirm that John has an academic degree that motivates his interest in a career in policymaking, but they do not specify when he received it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the memories do not specify when John received his degree, failing to provide the correct timeframe found in the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories confirm that John has an academic degree that motivates his interest in a career in policymaking, but they do not specify when he received it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the memories do not specify when John received his degree, failing to provide the correct timeframe found in the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He had already earned his degree by 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly places the degree in 2023, which is consistent with the gold answer's specific 2023 date."
+    }
+  }
+}

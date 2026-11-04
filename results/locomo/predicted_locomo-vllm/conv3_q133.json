@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q133",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How many people attended the gaming party hosted by Nate in June 2022?",
+  "ground_truth_answer": "7",
+  "evidence": [
+    "D16:6"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many people attended the gaming party hosted by Nate in June 2022?",
+    "search_results": [
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.9173070927268183,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.9151579800896468,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.9130582286414677,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party on June 17, 2022 (two weekends after June 3, 2022), and anticipates the event will be hectic but fun.",
+        "score": 0.88028551884568,
+        "id": "d1da9b87-9215-41c3-82aa-6d6354880ef9",
+        "created_at": "2026-11-03T03:09:34.648166+00:00",
+        "updated_at": "2026-11-03T03:09:34.648166+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.8737650940017734,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party in mid-June 2022, two weekends after June 3, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.8734854791674007,
+        "id": "be3c86f2-6d34-48e1-a989-2be2a45dd5a2",
+        "created_at": "2026-11-03T03:09:48.753824+00:00",
+        "updated_at": "2026-11-03T03:09:48.753824+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.8620837722810469,
+        "id": "3ffff6c6-5368-4618-a41c-1e20a47e8a8d",
+        "created_at": "2026-11-03T03:09:52.150987+00:00",
+        "updated_at": "2026-11-03T03:09:52.150987+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where attendees played games and then Chess afterward for fun",
+        "score": 0.8525067905607232,
+        "id": "10c2ef6a-5353-401f-ad30-1ccd1e6914a8",
+        "created_at": "2026-11-03T03:11:10.684631+00:00",
+        "updated_at": "2026-11-03T03:11:10.684631+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.8427265142033213,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate attended a gaming convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games, planning a future gaming session together.",
+        "score": 0.8192878958286134,
+        "id": "6d13d644-40e4-4423-9806-285ca64994b7",
+        "created_at": "2026-11-03T03:21:14.435936+00:00",
+        "updated_at": "2026-11-03T03:21:14.435936+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.8115187742701355,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate is providing custom controller decorations as a gift for everyone attending his gaming party on June 17, 2022.",
+        "score": 0.8075313553961042,
+        "id": "35432357-8e80-4626-9729-b07bf30150c2",
+        "created_at": "2026-11-03T03:09:43.342913+00:00",
+        "updated_at": "2026-11-03T03:09:43.342913+00:00"
+      },
+      {
+        "memory": "Nate provided controller accessories at his gaming party, which most of the friends liked",
+        "score": 0.7941652214431069,
+        "id": "d1c67079-fc2f-4f8c-a0b4-0e4473162b5b",
+        "created_at": "2026-11-03T03:11:10.691469+00:00",
+        "updated_at": "2026-11-03T03:11:10.691469+00:00"
+      },
+      {
+        "memory": "Nate won another regional video game tournament in the week preceding June 3, 2022, and enjoyed meeting new people and connecting with fellow gamers during the event.",
+        "score": 0.7906508904382099,
+        "id": "22e2d865-a8f0-4994-957d-e7062d217e55",
+        "created_at": "2026-11-03T03:08:58.979037+00:00",
+        "updated_at": "2026-11-03T03:08:58.979037+00:00"
+      },
+      {
+        "memory": "After winning the tournament, Nate met new people and connected with fellow gamers, noting that connecting with others in the gaming community is always awesome to him.",
+        "score": 0.7865532577645888,
+        "id": "c74b9100-933d-45a1-bfb3-b90d5dad6b7f",
+        "created_at": "2026-11-03T03:09:24.251180+00:00",
+        "updated_at": "2026-11-03T03:09:24.251180+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention on October 7, 2022, who share his interest in games, and they have already planned a gaming session together.",
+        "score": 0.7799198492029562,
+        "id": "1a9ef031-4fb4-4f3a-9e47-81776a1a6d00",
+        "created_at": "2026-11-03T03:20:46.724645+00:00",
+        "updated_at": "2026-11-03T03:20:46.724645+00:00"
+      },
+      {
+        "memory": "Nate attended a video game convention where he met new friends who share his interest in games and they planned a gaming session together",
+        "score": 0.7792989655000098,
+        "id": "c21babf7-62bd-465a-9d07-fcaa781d6825",
+        "created_at": "2026-11-03T03:21:30.264339+00:00",
+        "updated_at": "2026-11-03T03:21:30.264339+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on.",
+        "score": 0.7549804515804472,
+        "id": "57760e30-8d36-408e-8eeb-acdd40156d5e",
+        "created_at": "2026-11-03T03:31:26.577729+00:00",
+        "updated_at": "2026-11-03T03:31:26.577729+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, hoping to share his love of gaming and connect with others.",
+        "score": 0.7546335553136442,
+        "id": "b4c894d6-1540-42be-99f5-4b6be1f3d142",
+        "created_at": "2026-11-03T03:31:14.937482+00:00",
+        "updated_at": "2026-11-03T03:31:14.937482+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.7535561414407705,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      }
+    ],
+    "search_latency_ms": 90.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7 people",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by stating 7 people."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7 people",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by stating 7 people."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7 people",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by stating 7 people."
+    }
+  }
+}

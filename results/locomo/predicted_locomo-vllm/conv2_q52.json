@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q52",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Who have written notes of gratitude to Maria?",
+  "ground_truth_answer": "Cindy, Laura",
+  "evidence": [
+    "D27:8",
+    "D21:19"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Who have written notes of gratitude to Maria?",
+    "search_results": [
+      {
+        "memory": "A resident named Cindy at the shelter where Maria volunteers wrote a handwritten thank you note expressing heartfelt gratitude for the support received, which Maria shared as evidence of the impact of her work.",
+        "score": 0.8319085228732375,
+        "id": "0b0b9a00-f09c-4796-b74f-eb6b71a70663",
+        "created_at": "2026-11-03T00:45:16.521123+00:00",
+        "updated_at": "2026-11-03T00:45:16.521123+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.8235169685609709,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a handwritten thank-you note expressing heartfelt gratitude for the support received, which Maria shared on August 3, 2023.",
+        "score": 0.8183511591191828,
+        "id": "2dfa8ad9-875b-4e79-97bb-812603d157b4",
+        "created_at": "2026-11-03T00:44:53.526971+00:00",
+        "updated_at": "2026-11-03T00:44:53.526971+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote her a handwritten thank-you note expressing heartfelt gratitude for the support they receive.",
+        "score": 0.8167774411232929,
+        "id": "0e86e5b3-3b0d-430d-b9ea-a07d139733fa",
+        "created_at": "2026-11-03T00:44:59.848863+00:00",
+        "updated_at": "2026-11-03T00:44:59.848863+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.8160333966624691,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7927880292064513,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.789697227588616,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "A resident named Cindy wrote Maria a handwritten thank you note expressing heartfelt gratitude for the support received at the shelter.",
+        "score": 0.6848905573936936,
+        "id": "8592b30a-e4cd-4e4e-9002-950085164c5d",
+        "created_at": "2026-11-03T00:45:12.563880+00:00",
+        "updated_at": "2026-11-03T00:45:12.563880+00:00"
+      },
+      {
+        "memory": "Maria describes the people at the homeless shelter where she volunteers as feeling like family to her, and she feels blessed to know them, finding joy in seeing their impact and hearing their gratitude.",
+        "score": 0.6333674926921358,
+        "id": "24ee00b3-30f4-442b-b85b-90afd802e9aa",
+        "created_at": "2026-11-03T00:26:34.638564+00:00",
+        "updated_at": "2026-11-03T00:26:34.638564+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.6313055960281693,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "Maria describes her family as her rock during her current period of struggle, noting they provide words of encouragement and remind her she is not alone, which brings her relief.",
+        "score": 0.5609219277710439,
+        "id": "ea926964-0a3d-4f22-abb3-a66a193c4089",
+        "created_at": "2026-11-03T00:35:50.481276+00:00",
+        "updated_at": "2026-11-03T00:35:50.481276+00:00"
+      },
+      {
+        "memory": "Maria met three children at a shelter and shared a photo of them sitting on a step smiling, noting that their smiles warmed her heart.",
+        "score": 0.522510838070972,
+        "id": "db403a0c-db85-4b76-8c5b-98a25ff5151f",
+        "created_at": "2026-11-03T00:37:28.989831+00:00",
+        "updated_at": "2026-11-03T00:37:28.989831+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she notes has made a big impact on her well-being and ability to detach from life's craziness.",
+        "score": 0.4926683905980255,
+        "id": "7221bd37-d957-4026-8adc-4b317699e0ed",
+        "created_at": "2026-11-03T00:40:15.663430+00:00",
+        "updated_at": "2026-11-03T00:40:15.663430+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.2817548270793627,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.2526067788968829,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.2519216137263531,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria was inspired to go on the hike with her church friends by a desire to make connections, laugh together, and take in nature's beauty.",
+        "score": 0.22674263901115116,
+        "id": "1b36821b-2d18-4e2f-b3b1-5de0ef5b5861",
+        "created_at": "2026-11-03T00:42:55.735648+00:00",
+        "updated_at": "2026-11-03T00:42:55.735648+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.2262631888395891,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria finds balance in her life by taking care of herself physically, emotionally, and mentally through exercise, music, and spending time with loved ones, which helps her stay positive",
+        "score": 0.2242445180810358,
+        "id": "26a922f5-5f00-479b-947d-e8d00ee34c63",
+        "created_at": "2026-11-03T00:28:37.045766+00:00",
+        "updated_at": "2026-11-03T00:28:37.045766+00:00"
+      },
+      {
+        "memory": "Maria maintains balance in her life by taking care of herself physically, emotionally, and mentally through exercise, music, and spending time with loved ones to stay positive.",
+        "score": 0.22178766688119816,
+        "id": "bd2df52b-d046-4699-bb33-948af9837e47",
+        "created_at": "2026-11-03T00:28:43.736848+00:00",
+        "updated_at": "2026-11-03T00:28:43.736848+00:00"
+      }
+    ],
+    "search_latency_ms": 43.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Laura and Cindy",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both names from the gold answer, Laura and Cindy."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Laura and Cindy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both names from the gold answer, Laura and Cindy."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Laura and Cindy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both names from the gold answer, Laura and Cindy."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Laura and Cindy",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both names from the gold answer, Laura and Cindy."
+    }
+  }
+}

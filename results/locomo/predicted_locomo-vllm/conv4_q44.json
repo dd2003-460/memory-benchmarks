@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q44",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John and his wife go on a European vacation?",
+  "ground_truth_answer": "November, 2023.",
+  "evidence": [
+    "D16:14"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When did John and his wife go on a European vacation?",
+    "search_results": [
+      {
+        "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
+        "score": 0.9254264182800682,
+        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
+        "created_at": "2026-11-03T09:23:39.179743+00:00",
+        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
+        "score": 0.8920911925140992,
+        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
+        "created_at": "2026-11-03T09:23:02.543590+00:00",
+        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.8861539456485514,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.8854676174047071,
+        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
+        "created_at": "2026-11-03T09:23:09.545331+00:00",
+        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
+        "score": 0.8690120192347257,
+        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
+        "created_at": "2026-11-03T09:23:36.618818+00:00",
+        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, planning to visit castles as recommended by Tim.",
+        "score": 0.8580503417453171,
+        "id": "f5c151f5-6cd5-4091-ae0a-c193e3ebc2cb",
+        "created_at": "2026-11-03T09:23:13.504620+00:00",
+        "updated_at": "2026-11-03T09:23:13.504620+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.7941165921979494,
+        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
+        "created_at": "2026-11-03T09:23:09.548575+00:00",
+        "updated_at": "2026-11-03T09:23:09.548575+00:00"
+      },
+      {
+        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
+        "score": 0.7941165921979494,
+        "id": "cfab7623-73b0-4b8e-9804-724ccc2b0c35",
+        "created_at": "2026-11-03T09:23:22.658071+00:00",
+        "updated_at": "2026-11-03T09:23:22.658071+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
+        "score": 0.6916191211069209,
+        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
+        "created_at": "2026-11-03T09:23:48.294094+00:00",
+        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
+        "score": 0.623459378771406,
+        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
+        "created_at": "2026-11-03T09:33:32.675244+00:00",
+        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
+        "score": 0.6103203924095055,
+        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
+        "created_at": "2026-11-03T09:33:20.568634+00:00",
+        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.6079573258493343,
+        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
+        "created_at": "2026-11-03T09:33:27.522504+00:00",
+        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
+        "score": 0.6079573258493343,
+        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
+        "created_at": "2026-11-03T09:33:30.168403+00:00",
+        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
+        "score": 0.6018144502240621,
+        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
+        "created_at": "2026-11-03T09:33:23.067593+00:00",
+        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+      },
+      {
+        "memory": "John's favorite memory from his wedding on October 2, 2023, was seeing his wife walk down the aisle, a moment that made him emotional and choked up with happiness.",
+        "score": 0.5952815352591494,
+        "id": "3ce98b16-5e87-4fe6-bbec-e9c09b7e8bcb",
+        "created_at": "2026-11-03T09:16:32.611852+00:00",
+        "updated_at": "2026-11-03T09:16:32.611852+00:00"
+      },
+      {
+        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe while celebrating with loved ones.",
+        "score": 0.5925288929672045,
+        "id": "88f2275c-52cc-4712-906b-49be797d7e81",
+        "created_at": "2026-11-03T09:16:21.061118+00:00",
+        "updated_at": "2026-11-03T09:16:21.061118+00:00"
+      },
+      {
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
+        "score": 0.5846109725806264,
+        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
+        "created_at": "2026-11-03T09:16:41.057223+00:00",
+        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+      },
+      {
+        "memory": "Tim saw a photo of John and his wife dancing at their wedding on October 2, 2023, and expressed interest in hearing more about the moment.",
+        "score": 0.5648818689021338,
+        "id": "1f86c352-2846-49a2-b271-a831d1110d74",
+        "created_at": "2026-11-03T09:16:37.125162+00:00",
+        "updated_at": "2026-11-03T09:16:37.125162+00:00"
+      },
+      {
+        "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
+        "score": 0.25212799356567783,
+        "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
+        "created_at": "2026-11-03T09:10:57.495438+00:00",
+        "updated_at": "2026-11-03T09:10:57.495438+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
+        "score": 0.23609099389331614,
+        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
+        "created_at": "2026-11-03T09:35:47.080548+00:00",
+        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+      }
+    ],
+    "search_latency_ms": 69.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

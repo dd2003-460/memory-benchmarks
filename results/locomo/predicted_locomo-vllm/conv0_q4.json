@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q4",
+  "conversation_idx": 0,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What is Caroline's identity?",
+  "ground_truth_answer": "Transgender woman",
+  "evidence": [
+    "D1:5"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What is Caroline's identity?",
+    "search_results": [],
+    "search_latency_ms": 14.2,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+    }
+  }
+}

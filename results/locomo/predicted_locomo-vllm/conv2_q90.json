@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q90",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What was the focus of John's recent research and writing on his blog?",
+  "ground_truth_answer": "education reform and infrastructure development",
+  "evidence": [
+    "D12:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What was the focus of John's recent research and writing on his blog?",
+    "search_results": [
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.6939517052979494,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.6648352394961845,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John has been writing blog posts about his work, including one on education reform, and has received good feedback on them so far.",
+        "score": 0.6588558787330709,
+        "id": "1e16aa1f-8e48-4aaf-8f58-4d2be74967c7",
+        "created_at": "2026-11-03T00:27:34.296472+00:00",
+        "updated_at": "2026-11-03T00:27:34.296472+00:00"
+      },
+      {
+        "memory": "John writes blog posts about education reform and has received good feedback on them so far, viewing his work as a small but meaningful step toward making a difference.",
+        "score": 0.6506720575582214,
+        "id": "f788a374-023c-4743-a81f-2ee2090e119e",
+        "created_at": "2026-11-03T00:27:38.968305+00:00",
+        "updated_at": "2026-11-03T00:27:38.968305+00:00"
+      },
+      {
+        "memory": "John is currently focusing his political blogging on education reform and infrastructure development, believing that good access to quality education and updated infrastructure are key to a thriving community.",
+        "score": 0.6484429798773175,
+        "id": "96f1bfee-baf6-4439-a40d-c5d61813f1cd",
+        "created_at": "2026-11-03T00:27:11.431386+00:00",
+        "updated_at": "2026-11-03T00:27:11.431386+00:00"
+      },
+      {
+        "memory": "John has been blogging about politics and the government since their last conversation, finding the experience satisfying and driven by a desire to make a real impact on issues like education and infrastructure.",
+        "score": 0.6366798866437307,
+        "id": "a5253421-11a5-4753-b2c5-a720cefcb00a",
+        "created_at": "2026-11-03T00:27:00.171005+00:00",
+        "updated_at": "2026-11-03T00:27:00.171005+00:00"
+      },
+      {
+        "memory": "John has received positive feedback on his political blog posts, which he views as a small but meaningful step toward making an impact on community issues like education and infrastructure.",
+        "score": 0.601733067672033,
+        "id": "4d88bc6e-ad4e-4dc0-865f-83743bac7ffa",
+        "created_at": "2026-11-03T00:27:18.417988+00:00",
+        "updated_at": "2026-11-03T00:27:18.417988+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.5713125316180969,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.49811360267400173,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 focused on using technology for good in the community, where he connected with like-minded individuals and brainstormed ideas.",
+        "score": 0.4702103613688909,
+        "id": "d9fa0071-6ea6-471d-b201-3e8d253b7e21",
+        "created_at": "2026-11-03T00:27:36.566771+00:00",
+        "updated_at": "2026-11-03T00:27:36.566771+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.4677202169902026,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John feels stuck in his activism work despite wanting to positively affect people and the world, and is seeking a better way to focus his passion and enthusiasm.",
+        "score": 0.46113791248571606,
+        "id": "59823800-2341-436e-9fcf-ae5a05d311d6",
+        "created_at": "2026-11-03T00:48:05.336643+00:00",
+        "updated_at": "2026-11-03T00:48:05.336643+00:00"
+      },
+      {
+        "memory": "John focuses on education reform and infrastructure development as key policies for a thriving community, aiming to get conversations going and involve people by sharing ideas and taking action.",
+        "score": 0.4570602214612869,
+        "id": "315d5eda-7399-4d8d-ab55-60b1bc44b750",
+        "created_at": "2026-11-03T00:27:34.292068+00:00",
+        "updated_at": "2026-11-03T00:27:34.292068+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.44696296249166234,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John is a veteran who joined the military and recently visited a veterans' organization where he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, which reinforced his sense of hope and resilience.",
+        "score": 0.39299242940306217,
+        "id": "6b39b3bf-7ed7-4d10-8d95-9bf2356a92bb",
+        "created_at": "2026-11-03T00:42:29.559421+00:00",
+        "updated_at": "2026-11-03T00:42:29.559421+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.38470733988904876,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it was awesome seeing people come together to support those serving the nation.",
+        "score": 0.3841335392976394,
+        "id": "6bbf222b-e921-4aa2-8252-9a9e3cc6d08d",
+        "created_at": "2026-11-03T00:44:57.050065+00:00",
+        "updated_at": "2026-11-03T00:44:57.050065+00:00"
+      },
+      {
+        "memory": "John aims to get conversations going and involve people by sharing ideas and taking action regarding community issues, finding it empowering to know he can help make a difference in people's lives.",
+        "score": 0.25715337471859734,
+        "id": "333684a6-8496-4269-b370-53af9a8149df",
+        "created_at": "2026-11-03T00:27:11.435802+00:00",
+        "updated_at": "2026-11-03T00:27:11.435802+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.2389320128481669,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.23203544459337042,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      }
+    ],
+    "search_latency_ms": 56.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s recent research and writing on his blog focused on education reform and infrastructure development.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's focus on education reform and infrastructure development."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s recent research and writing on his blog focused on political policies, especially education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, education reform and infrastructure development."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s recent research and writing on his blog focused on political policies, especially education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, education reform and infrastructure development."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s recent research and writing on his blog focused on political policies, especially education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, education reform and infrastructure development."
+    }
+  }
+}

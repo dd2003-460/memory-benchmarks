@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q139",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did John do to help his community last year in his hometown?",
+  "ground_truth_answer": "Helped renovate a rundown community center.",
+  "evidence": [
+    "D28:11"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John do to help his community last year in his hometown?",
+    "search_results": [
+      {
+        "memory": "John helped renovate a rundown community center in his hometown during 2022, finding the hard work worthwhile due to the positive impact it had on the community.",
+        "score": 0.6643151295725728,
+        "id": "43bfd818-714a-4f18-aefe-0b92a6c37e8c",
+        "created_at": "2026-11-03T00:46:22.534990+00:00",
+        "updated_at": "2026-11-03T00:46:22.534990+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center in his hometown during 2022, finding the effort rewarding because it brought the community together and resulted in the center becoming very busy.",
+        "score": 0.6637432359977576,
+        "id": "5524e0dc-fa4e-434a-84ca-ecde06882778",
+        "created_at": "2026-11-03T00:46:25.110938+00:00",
+        "updated_at": "2026-11-03T00:46:25.110938+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center in his hometown during 2022, finding the hard work worth it due to the positive impact on the community.",
+        "score": 0.657407797586276,
+        "id": "274fb200-0fff-4639-a0e8-142cca9e4937",
+        "created_at": "2026-11-03T00:46:13.487715+00:00",
+        "updated_at": "2026-11-03T00:46:13.487715+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, noting that while it took a lot of work, seeing the positive impact on the community was worth it.",
+        "score": 0.6276923685242981,
+        "id": "8c52c6e8-8f0f-4ee4-ae8d-d734fcd7cfd6",
+        "created_at": "2026-11-03T00:46:11.139442+00:00",
+        "updated_at": "2026-11-03T00:46:11.139442+00:00"
+      },
+      {
+        "memory": "In 2022, John helped renovate a rundown community center back home, noting that while it took a lot of work, seeing the impact on the community was worth it.",
+        "score": 0.6262189496843995,
+        "id": "46aa092b-7938-414a-9a6b-bc1d360002ca",
+        "created_at": "2026-11-03T00:45:55.017066+00:00",
+        "updated_at": "2026-11-03T00:45:55.017066+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the impact on the community worth the hard work despite not being able to volunteer much lately.",
+        "score": 0.6196092977381562,
+        "id": "fe45fa05-a9e9-4921-9527-d4a02af6fa64",
+        "created_at": "2026-11-03T00:46:02.855260+00:00",
+        "updated_at": "2026-11-03T00:46:02.855260+00:00"
+      },
+      {
+        "memory": "John feels that his involvement in community service and helping others is his true calling, giving him a strong sense of purpose and passion.",
+        "score": 0.6188853699436272,
+        "id": "a10e07bc-1a4a-444e-83b3-aafe3017ed54",
+        "created_at": "2026-11-03T00:50:06.778628+00:00",
+        "updated_at": "2026-11-03T00:50:06.778628+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and feels it is his true calling, finding a strong sense of purpose and passion in helping out his community.",
+        "score": 0.6176900093728506,
+        "id": "bacb8588-e0e8-44a9-95f7-25ddf6f847ea",
+        "created_at": "2026-11-03T00:49:46.168939+00:00",
+        "updated_at": "2026-11-03T00:49:46.168939+00:00"
+      },
+      {
+        "memory": "In 2022, John helped renovate a rundown community center back home, finding it worthwhile to see the impact on the community and noting how busy the center has become since everyone came together to help.",
+        "score": 0.6160628701076568,
+        "id": "f177fc61-fe8b-4b9a-8aae-aaf2029b9661",
+        "created_at": "2026-11-03T00:46:08.719299+00:00",
+        "updated_at": "2026-11-03T00:46:08.719299+00:00"
+      },
+      {
+        "memory": "John aims to get conversations going and involve people by sharing ideas and taking action regarding community issues, finding it empowering to know he can help make a difference in people's lives.",
+        "score": 0.6086371257819969,
+        "id": "333684a6-8496-4269-b370-53af9a8149df",
+        "created_at": "2026-11-03T00:27:11.435802+00:00",
+        "updated_at": "2026-11-03T00:27:11.435802+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and is super excited to be involved in helping his community, noting that he was impressed by their dedication and teamwork.",
+        "score": 0.6066457887693156,
+        "id": "def3d70b-87ca-4220-b610-e24ad53e2261",
+        "created_at": "2026-11-03T00:49:41.151228+00:00",
+        "updated_at": "2026-11-03T00:49:41.151228+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the hard work worthwhile because of its positive impact on the community.",
+        "score": 0.6061463226420297,
+        "id": "6c916fe9-47f4-4efc-9e8d-13465f6c67a1",
+        "created_at": "2026-11-03T00:46:19.143281+00:00",
+        "updated_at": "2026-11-03T00:46:19.143281+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the significant effort worth it due to the positive impact on the community.",
+        "score": 0.6050340770268523,
+        "id": "9ee5c43f-9210-43a2-9b5c-c2871a944606",
+        "created_at": "2026-11-03T00:45:57.512537+00:00",
+        "updated_at": "2026-11-03T00:45:57.512537+00:00"
+      },
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.6024251959562378,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help students, having started this role after previously exploring ways to channel his passion into meaningful community impact.",
+        "score": 0.6023078281409321,
+        "id": "016a3ca5-8250-4719-bddd-2abb5a3953e5",
+        "created_at": "2026-11-03T00:48:28.726808+00:00",
+        "updated_at": "2026-11-03T00:48:28.726808+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, expressing excitement about helping his community.",
+        "score": 0.5897522034057266,
+        "id": "26f68b32-8daa-440f-a7c3-ae60ef55ed54",
+        "created_at": "2026-11-03T00:49:26.785358+00:00",
+        "updated_at": "2026-11-03T00:49:26.785358+00:00"
+      },
+      {
+        "memory": "John noted that after the renovation, the community center became very busy, which he found amazing as it showed everyone coming together to help out.",
+        "score": 0.5888306538456518,
+        "id": "550d90b7-fe41-44c2-93e8-2339138b1546",
+        "created_at": "2026-11-03T00:46:19.147490+00:00",
+        "updated_at": "2026-11-03T00:46:19.147490+00:00"
+      },
+      {
+        "memory": "John completed intense training for a rescue role, which changed his view on helping others, and had his first call-out on July 30, 2023, where he helped save a family from a burning building.",
+        "score": 0.43130274717936173,
+        "id": "d5ab0099-5b4b-46ac-9e5e-89b79e20a47d",
+        "created_at": "2026-11-03T00:44:23.665958+00:00",
+        "updated_at": "2026-11-03T00:44:23.665958+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.417188178964696,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade, finding the training intense and taxing but rewarding, as it changed his view on helping others.",
+        "score": 0.4077736194855192,
+        "id": "8b9039d6-66b6-4b5b-aab3-5791a9bda4d6",
+        "created_at": "2026-11-03T00:43:59.684427+00:00",
+        "updated_at": "2026-11-03T00:43:59.684427+00:00"
+      }
+    ],
+    "search_latency_ms": 60.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He helped renovate a rundown community center in his hometown.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer by stating John helped renovate a rundown community center in his hometown."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He helped renovate a rundown community center in his hometown in 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer, helping renovate a rundown community center."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He helped renovate a rundown community center in his hometown in 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer, helping renovate a rundown community center."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He helped renovate a rundown community center in his hometown in 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact core action from the gold answer, helping renovate a rundown community center."
+    }
+  }
+}

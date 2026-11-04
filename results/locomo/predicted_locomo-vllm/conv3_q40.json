@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q40",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna's laptop crash?",
+  "ground_truth_answer": "The week before 14September, 2022",
+  "evidence": [
+    "D21:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna's laptop crash?",
+    "search_results": [
+      {
+        "memory": "Joanna's laptop crashed in the week of September 5-11, 2022, causing her to lose all her work, which she described as a major blow since her laptop is essential to her writing career.",
+        "score": 0.751194146878851,
+        "id": "9d0e6188-784c-4df7-846d-5a2048dbe0a4",
+        "created_at": "2026-11-03T03:17:14.098557+00:00",
+        "updated_at": "2026-11-03T03:17:14.098557+00:00"
+      },
+      {
+        "memory": "Joanna's laptop crashed around September 7, 2022, resulting in the total loss of all her unrecovered work, which she found super frustrating and a major blow.",
+        "score": 0.750764444090491,
+        "id": "7de67ded-70d1-48ad-84a3-80f330ab38c6",
+        "created_at": "2026-11-03T03:17:30.875868+00:00",
+        "updated_at": "2026-11-03T03:17:30.875868+00:00"
+      },
+      {
+        "memory": "Joanna's laptop crashed on September 7, 2022, causing her to lose all unrecovered work, which was a major blow as a writer who relies on it for her livelihood.",
+        "score": 0.7457860755817056,
+        "id": "c3afb095-012d-4fb1-8e0d-e5121e46df12",
+        "created_at": "2026-11-03T03:17:49.194990+00:00",
+        "updated_at": "2026-11-03T03:17:49.194990+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 6, 2022, resulting in the total loss of her work with no recovery possible.",
+        "score": 0.743365089850158,
+        "id": "50930a82-e345-4b40-a3f8-b4f9961bdd11",
+        "created_at": "2026-11-03T03:17:45.162738+00:00",
+        "updated_at": "2026-11-03T03:17:45.162738+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 7, 2022, resulting in the total loss of her work with no recovery possible, which she described as a major blow to her lifeline.",
+        "score": 0.7408673873641003,
+        "id": "0846255e-a441-4beb-bf8b-ce13f8046bb1",
+        "created_at": "2026-11-03T03:17:35.093202+00:00",
+        "updated_at": "2026-11-03T03:17:35.093202+00:00"
+      },
+      {
+        "memory": "Joanna confirmed that no work was recoverable after her laptop crashed in the week of September 5-11, 2022, and she has since acquired an external drive for backups to prevent future data loss.",
+        "score": 0.6897622705752087,
+        "id": "f7e30dc8-4236-412c-8fa5-65cc6fc2ff7a",
+        "created_at": "2026-11-03T03:17:18.536801+00:00",
+        "updated_at": "2026-11-03T03:17:18.536801+00:00"
+      },
+      {
+        "memory": "After losing all work in the September 2022 laptop crash, Joanna purchased an external drive to back up her files and prevent future data loss.",
+        "score": 0.6673103651449239,
+        "id": "8f8694bc-dcf6-4715-91f5-eeca4462e578",
+        "created_at": "2026-11-03T03:17:49.197771+00:00",
+        "updated_at": "2026-11-03T03:17:49.197771+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who considers her laptop essential to her work, describing it as half of her lifeline.",
+        "score": 0.6609122217816638,
+        "id": "7c1c2837-ae47-4cb1-a97e-6980c6a06459",
+        "created_at": "2026-11-03T03:17:30.871396+00:00",
+        "updated_at": "2026-11-03T03:17:30.871396+00:00"
+      },
+      {
+        "memory": "After losing all her work due to a laptop crash, Joanna purchased an external drive for backups to prevent future data loss.",
+        "score": 0.6530820778553895,
+        "id": "1885ee59-f59d-4767-8903-39397938a27e",
+        "created_at": "2026-11-03T03:17:30.879280+00:00",
+        "updated_at": "2026-11-03T03:17:30.879280+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.29913666016255125,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.2829492557650123,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.2652275301556112,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.26053725594858795,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story movie script from a dream.",
+        "score": 0.2586141369133154,
+        "id": "b04a7385-bbde-42c5-af1e-e1c9cbe63872",
+        "created_at": "2026-11-03T03:28:42.602024+00:00",
+        "updated_at": "2026-11-03T03:28:42.602024+00:00"
+      },
+      {
+        "memory": "Joanna began filming her own movie based on a road-trip script around November 11, 2022.",
+        "score": 0.2570895033918457,
+        "id": "bc499559-1898-4317-9a74-b99e940ee7b8",
+        "created_at": "2026-11-03T03:32:33.632358+00:00",
+        "updated_at": "2026-11-03T03:32:33.632358+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.2559146933376376,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.2514137564994141,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Following the data loss incident on September 6, 2022, Joanna acquired an external drive to back up her work and ensure she never loses progress again.",
+        "score": 0.23060042267325379,
+        "id": "6ae0b7d5-c67e-4bf9-a19c-a35bea6e6758",
+        "created_at": "2026-11-03T03:17:45.167256+00:00",
+        "updated_at": "2026-11-03T03:17:45.167256+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.21815248044700927,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Following the data loss incident in September 2022, Joanna acquired an external drive for backups and expressed a strong desire to never experience such a loss again.",
+        "score": 0.217273599739846,
+        "id": "05b6c3f0-a800-4e64-8b96-d72e5569fbd1",
+        "created_at": "2026-11-03T03:17:35.095967+00:00",
+        "updated_at": "2026-11-03T03:17:35.095967+00:00"
+      }
+    ],
+    "search_latency_ms": 40.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 7, 2022",
+      "memories_evaluated": 10,
+      "reason": "September 7, 2022 falls within the week before September 14, 2022, so it matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 7, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 7, 2022 falls within the week before September 14, 2022, so it matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 7, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 7, 2022 falls within the week before September 14, 2022, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 7, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 7, 2022 falls within the week before September 14, 2022, so it matches the gold answer."
+    }
+  }
+}

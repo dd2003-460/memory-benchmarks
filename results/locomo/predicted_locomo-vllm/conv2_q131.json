@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q131",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+  "ground_truth_answer": "volunteered at a homeless shelter",
+  "evidence": [
+    "D26:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+    "search_results": [
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about continuing her community involvement.",
+        "score": 0.7822675837110796,
+        "id": "92c54323-c998-4850-9fc2-a1750ecd03cc",
+        "created_at": "2026-11-03T00:43:06.600033+00:00",
+        "updated_at": "2026-11-03T00:43:06.600033+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.7259699004341963,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone was okay despite the damage.",
+        "score": 0.6624963944339086,
+        "id": "af0142b8-5313-425c-a774-9fb49a70cd6f",
+        "created_at": "2026-11-03T00:37:42.371763+00:00",
+        "updated_at": "2026-11-03T00:37:42.371763+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage.",
+        "score": 0.6621449341839097,
+        "id": "bff42be2-7f99-42b8-b453-38afd851512d",
+        "created_at": "2026-11-03T00:37:45.107914+00:00",
+        "updated_at": "2026-11-03T00:37:45.107914+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 31, 2023, of a group of people standing around a table at a homeless shelter, emphasizing that being kind matters while volunteering.",
+        "score": 0.6619151156776383,
+        "id": "945290ae-dacb-4716-b8f8-2c37540a7c07",
+        "created_at": "2026-11-03T00:44:23.676750+00:00",
+        "updated_at": "2026-11-03T00:44:23.676750+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit them, though everyone was unharmed.",
+        "score": 0.6594899993795623,
+        "id": "075ef4bd-dc73-4363-b37d-576b22e599b2",
+        "created_at": "2026-11-03T00:37:47.373446+00:00",
+        "updated_at": "2026-11-03T00:37:47.373446+00:00"
+      },
+      {
+        "memory": "Maria's car accident on July 2, 2023 was caused by another vehicle running a red light and hitting her car, though she confirmed that everyone involved is okay.",
+        "score": 0.6591887671198566,
+        "id": "89a93962-cee4-407e-ba9e-cd729e039ed1",
+        "created_at": "2026-11-03T00:37:40.111595+00:00",
+        "updated_at": "2026-11-03T00:37:40.111595+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.6581775994430832,
+        "id": "c1afbd5c-62fd-4e8c-9ff0-034e7e2083d2",
+        "created_at": "2026-11-03T00:47:01.150437+00:00",
+        "updated_at": "2026-11-03T00:47:01.150437+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.655363655976089,
+        "id": "bce5658f-83cf-4094-b6c0-41071ef282f7",
+        "created_at": "2026-11-03T00:46:52.202536+00:00",
+        "updated_at": "2026-11-03T00:46:52.202536+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.655363655976089,
+        "id": "22c93572-589d-448d-a61f-afbe3cc538c7",
+        "created_at": "2026-11-03T00:46:44.138258+00:00",
+        "updated_at": "2026-11-03T00:46:44.138258+00:00"
+      },
+      {
+        "memory": "Maria was in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone involved was okay despite the damage.",
+        "score": 0.6552954581892372,
+        "id": "3ddb84f4-e74a-423c-b915-8440247663b0",
+        "created_at": "2026-11-03T00:38:00.206367+00:00",
+        "updated_at": "2026-11-03T00:38:00.206367+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week preceding August 9, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.6542388905555592,
+        "id": "869dd96c-0d2b-44c6-9250-18cffa33177b",
+        "created_at": "2026-11-03T00:46:31.870650+00:00",
+        "updated_at": "2026-11-03T00:46:31.870650+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around July 31, 2023, inspired by Maria's work at the homeless shelter and his own desire to give back to his community.",
+        "score": 0.650391367378213,
+        "id": "45ad3c37-df98-4c04-ae81-33e79ab7c660",
+        "created_at": "2026-11-03T00:43:44.787875+00:00",
+        "updated_at": "2026-11-03T00:43:44.787875+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage shown in a photo of the damaged car on a flatbed.",
+        "score": 0.6459613001025364,
+        "id": "07794eb0-ec1b-4700-9581-65f0d51095e8",
+        "created_at": "2026-11-03T00:38:21.695230+00:00",
+        "updated_at": "2026-11-03T00:38:21.695230+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6223876855430135,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6223876855430135,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.620627062533947,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.5731496725976786,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.5613393132366188,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had a tough time recently around early July 2023.",
+        "score": 0.545961204683462,
+        "id": "32bef39a-ecdc-4c60-af4e-9a0e779b3564",
+        "created_at": "2026-11-03T00:37:40.115578+00:00",
+        "updated_at": "2026-11-03T00:37:40.115578+00:00"
+      }
+    ],
+    "search_latency_ms": 89.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Volunteering at a homeless shelter.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer directly matches the gold answer by identifying volunteering at a homeless shelter."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Volunteering at a homeless shelter.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying volunteering at a homeless shelter."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Volunteering at a homeless shelter.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying volunteering at a homeless shelter."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Volunteering at a homeless shelter.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying volunteering at a homeless shelter."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q94",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+  "ground_truth_answer": "Salads, sandwiches, homemade desserts",
+  "evidence": [
+    "D13:18"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What kind of food did Maria have on her dinner spread iwth her mother?",
+    "search_results": [
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.6524802866585906,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.6513330083126897,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, featuring salads, sandwiches, and homemade desserts, with her favorite being a banana split sundae she enjoys after volunteering.",
+        "score": 0.6472940857784619,
+        "id": "1c98aead-0e43-4a15-a2ea-6ff9a9c8aaf1",
+        "created_at": "2026-11-03T00:28:34.584729+00:00",
+        "updated_at": "2026-11-03T00:28:34.584729+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.63531733979483,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they relaxed under trees, played games, and ate food together.",
+        "score": 0.5876283597071454,
+        "id": "881a97a5-e3cb-42be-a6cf-f376c23b8173",
+        "created_at": "2026-11-03T00:42:01.937767+00:00",
+        "updated_at": "2026-11-03T00:42:01.937767+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 15-16, 2023, where they relaxed under trees, played games, and ate food.",
+        "score": 0.5839544503621668,
+        "id": "d5dfcc70-c2b3-4462-bc0d-a363804dc8d2",
+        "created_at": "2026-11-03T00:41:59.464574+00:00",
+        "updated_at": "2026-11-03T00:41:59.464574+00:00"
+      },
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.5605295236800159,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.5091912235554785,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.5086438467188681,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "John and Maria organized a community donation drive that collected canned food, toiletries, and clothes to support the local fire station, which helped them acquire a brand new fire truck.",
+        "score": 0.5061446132864358,
+        "id": "81a65d81-065e-4c32-805d-f04523892f0b",
+        "created_at": "2026-11-03T00:50:06.774706+00:00",
+        "updated_at": "2026-11-03T00:50:06.774706+00:00"
+      },
+      {
+        "memory": "Maria volunteered at the front desk of the homeless shelter on August 11, 2023, finding it rewarding to see residents' smiles when they received food or a bed.",
+        "score": 0.504310512489708,
+        "id": "4af3a6a7-2426-4544-8d3e-de1f25289bcd",
+        "created_at": "2026-11-03T00:49:57.098389+00:00",
+        "updated_at": "2026-11-03T00:49:57.098389+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.22358480162439315,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on July 15-16, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.21873706307004878,
+        "id": "e192afd9-65f5-4d71-857e-96dce4e53b6f",
+        "created_at": "2026-11-03T00:42:29.564797+00:00",
+        "updated_at": "2026-11-03T00:42:29.564797+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.20800880475898845,
+        "id": "4c31882d-0bcd-4a5e-9b3a-d301239ea817",
+        "created_at": "2026-11-03T00:42:37.028010+00:00",
+        "updated_at": "2026-11-03T00:42:37.028010+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.20800880475898845,
+        "id": "1d59bbde-6832-46a1-bce7-a9ae7670f209",
+        "created_at": "2026-11-03T00:42:10.794427+00:00",
+        "updated_at": "2026-11-03T00:42:10.794427+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.20800880475898845,
+        "id": "0fbe1af9-5fd1-4cd1-9854-a11b66a9e636",
+        "created_at": "2026-11-03T00:42:17.347730+00:00",
+        "updated_at": "2026-11-03T00:42:17.347730+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from church on the weekend of July 14-15, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.20489808835103268,
+        "id": "6666572d-1fee-40f9-be38-521df634d963",
+        "created_at": "2026-11-03T00:42:42.387438+00:00",
+        "updated_at": "2026-11-03T00:42:42.387438+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.20484670325583934,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.20374546980873073,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.20066415649511327,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      }
+    ],
+    "search_latency_ms": 69.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Salads, sandwiches, and homemade desserts, including a banana split sundae.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all items from the gold answer and adds an extra detail, which is acceptable."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Salads, sandwiches, and homemade desserts, including a banana split sundae.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all items from the gold answer and adds an extra detail, which is acceptable."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Salads, sandwiches, and homemade desserts, including a banana split sundae.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all items from the gold answer and adds an extra detail, which is acceptable."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Salads, sandwiches, and homemade desserts, including a banana split sundae.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all items from the gold answer and adds an extra detail, which is acceptable."
+    }
+  }
+}

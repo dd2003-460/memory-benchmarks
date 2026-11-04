@@ -1,0 +1,193 @@
+{
+  "question_id": "conv4_q25",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What similar sports collectible do Tim and John own?",
+  "ground_truth_answer": "signed basketball",
+  "evidence": [
+    "D7:7",
+    "D7:9",
+    "D16:7",
+    "D16:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What similar sports collectible do Tim and John own?",
+    "search_results": [
+      {
+        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
+        "score": 0.7571888577684989,
+        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
+        "created_at": "2026-11-03T09:17:03.539957+00:00",
+        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+      },
+      {
+        "memory": "John enjoys collecting basketball jerseys and shared a photo of his collection laying on a bed with Tim on October 2, 2023.",
+        "score": 0.7457412824521306,
+        "id": "ae6d04a8-ad51-4954-a1e0-2e2a6e087911",
+        "created_at": "2026-11-03T09:16:56.241611+00:00",
+        "updated_at": "2026-11-03T09:16:56.241611+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys and is a fan of the Minnesota Timberwolves (the Wolves) and LeBron James, admiring his skills, leadership, work ethic, and dedication to the game.",
+        "score": 0.7352219449143378,
+        "id": "22716c15-769a-41b9-a83d-6f4b19bbcd5c",
+        "created_at": "2026-11-03T09:17:14.819468+00:00",
+        "updated_at": "2026-11-03T09:17:14.819468+00:00"
+      },
+      {
+        "memory": "John works on supporting youth sports and fighting for fair chances in sports for underserved communities, collaborating with organizations to create opportunities for young athletes.",
+        "score": 0.7175407291858916,
+        "id": "48b9a0d7-1ae8-4d1b-959d-fee23c829471",
+        "created_at": "2026-11-03T09:35:02.369837+00:00",
+        "updated_at": "2026-11-03T09:35:02.369837+00:00"
+      },
+      {
+        "memory": "John collaborates with organizations to create more opportunities for young athletes, believing it is important that every kid has access to good sports programs.",
+        "score": 0.7142226207914159,
+        "id": "8b2c74c4-52d1-4d62-8658-277f506452e4",
+        "created_at": "2026-11-03T09:34:53.936576+00:00",
+        "updated_at": "2026-11-03T09:34:53.936576+00:00"
+      },
+      {
+        "memory": "Tim has never been on a sports team and prefers reading fantasy novels, enjoying the experience of sinking into different magical worlds",
+        "score": 0.705596523338143,
+        "id": "efbc2ba0-cb4d-4e0f-a5b6-012a8b76b444",
+        "created_at": "2026-11-03T09:11:25.256718+00:00",
+        "updated_at": "2026-11-03T09:11:25.256718+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.7009666179889713,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
+        "score": 0.609882144441374,
+        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
+        "created_at": "2026-11-03T09:00:00.851565+00:00",
+        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+      },
+      {
+        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
+        "score": 0.6054498341404776,
+        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
+        "created_at": "2026-11-03T09:15:54.760026+00:00",
+        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+      },
+      {
+        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
+        "score": 0.6035196072187254,
+        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
+        "created_at": "2026-11-03T09:20:44.101606+00:00",
+        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a group of people hiking through a forest while asking John if he has a support network outside of sports to lean on during challenging times.",
+        "score": 0.5928822750620601,
+        "id": "1d08d9d8-2c2f-4830-ae36-033bb3ad4873",
+        "created_at": "2026-11-03T09:20:24.408102+00:00",
+        "updated_at": "2026-11-03T09:20:24.408102+00:00"
+      },
+      {
+        "memory": "John shared a photo of his fantasy movie collection, which includes Star Wars movies displayed on a table, and asked Tim about his favorite fantasy films.",
+        "score": 0.5827274835005961,
+        "id": "1e9c6e3a-bd29-495c-8bd2-9224ee861eb8",
+        "created_at": "2026-11-03T09:36:26.688406+00:00",
+        "updated_at": "2026-11-03T09:36:26.688406+00:00"
+      },
+      {
+        "memory": "John is teaming up with a local organization that helps disadvantaged kids with sports and school, hoping to use his platform to have a positive impact on the community and inspire others.",
+        "score": 0.5794503115725952,
+        "id": "5f312398-34f3-4fb8-83be-b214628f8161",
+        "created_at": "2026-11-03T09:07:48.407542+00:00",
+        "updated_at": "2026-11-03T09:07:48.407542+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.5697598573754559,
+        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
+        "created_at": "2026-11-03T09:07:43.089742+00:00",
+        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
+        "score": 0.4782288209006479,
+        "id": "31196cac-4beb-410d-8c13-010e32d84735",
+        "created_at": "2026-11-03T09:22:24.102935+00:00",
+        "updated_at": "2026-11-03T09:22:24.102935+00:00"
+      },
+      {
+        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point in their friendship.",
+        "score": 0.4666417329404878,
+        "id": "b346756a-cefa-43be-a920-d556c2ea57c1",
+        "created_at": "2026-11-03T09:29:21.159362+00:00",
+        "updated_at": "2026-11-03T09:29:21.159362+00:00"
+      },
+      {
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
+        "score": 0.41686821205198915,
+        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
+        "created_at": "2026-11-03T09:21:06.470537+00:00",
+        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+      },
+      {
+        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
+        "score": 0.4100570538242618,
+        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
+        "created_at": "2026-11-03T09:20:44.104295+00:00",
+        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+      },
+      {
+        "memory": "Tim is currently reading an inspiring series about the power of friendship and loyalty and asked John how his team maintains their bond.",
+        "score": 0.4044309001931465,
+        "id": "af75bdef-c061-416c-93f1-43dfb357328a",
+        "created_at": "2026-11-03T09:31:15.577396+00:00",
+        "updated_at": "2026-11-03T09:31:15.577396+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
+        "score": 0.3943190771662299,
+        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
+        "created_at": "2026-11-03T09:16:12.165487+00:00",
+        "updated_at": "2026-11-03T09:16:12.165487+00:00"
+      }
+    ],
+    "search_latency_ms": 119.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

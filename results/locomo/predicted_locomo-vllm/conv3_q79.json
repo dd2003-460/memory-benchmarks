@@ -1,0 +1,194 @@
+{
+  "question_id": "conv3_q79",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many screenplays has Joanna written?",
+  "ground_truth_answer": "three",
+  "evidence": [
+    "D2:3",
+    "D4:10",
+    "D5:1",
+    "D12:13",
+    "D12:14"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many screenplays has Joanna written?",
+    "search_results": [
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.6988578513718792,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna completed her third handwritten screenplay around May 25, 2022, a personal story about loss, identity, and connection that she had been developing for years but finally felt brave enough to write.",
+        "score": 0.6861204013337935,
+        "id": "d0629d3d-fec3-4a2c-ba02-7b879ee18e77",
+        "created_at": "2026-11-03T03:07:46.810297+00:00",
+        "updated_at": "2026-11-03T03:07:46.810297+00:00"
+      },
+      {
+        "memory": "Joanna completed her third screenplay, which she described as a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.684562528039302,
+        "id": "e24fe053-ef54-4635-99e6-33cd9ee416e1",
+        "created_at": "2026-11-03T03:07:28.708016+00:00",
+        "updated_at": "2026-11-03T03:07:28.708016+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.6841126740543854,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6830233548871927,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest to gauge how others might receive it.",
+        "score": 0.6731941572864888,
+        "id": "f73cbaf7-511b-4989-9111-b0bc13b5e428",
+        "created_at": "2026-11-03T03:11:22.964477+00:00",
+        "updated_at": "2026-11-03T03:11:22.964477+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that was released in theaters on June 4, 2022, and described the experience as nerve-wracking but inspiring to see her words come alive on the big screen.",
+        "score": 0.6722949785585267,
+        "id": "ff584b90-36c2-4bcc-b4de-e9b4ef78b826",
+        "created_at": "2026-11-03T03:10:01.624285+00:00",
+        "updated_at": "2026-11-03T03:10:01.624285+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.6675122514742362,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.6643187158243286,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.6638892430101566,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna's third completed screenplay, shared with Nate on May 20, 2022, is a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6616527299231426,
+        "id": "d06355ff-424f-4a74-a51f-60977ae02a02",
+        "created_at": "2026-11-03T03:07:33.475009+00:00",
+        "updated_at": "2026-11-03T03:07:33.475009+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.661236997980575,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges, and she hopes to get it on the big screen.",
+        "score": 0.6546453075632817,
+        "id": "c4fd8862-553e-4342-a812-3e646204a52e",
+        "created_at": "2026-11-03T03:28:17.705007+00:00",
+        "updated_at": "2026-11-03T03:28:17.705007+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.6546115568865777,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, a love story with lots of challenges, inspired by a dream, and hopes to get it on the big screen.",
+        "score": 0.6545000944349246,
+        "id": "7705c919-c377-453b-a697-b6b22e82c63d",
+        "created_at": "2026-11-03T03:28:12.961555+00:00",
+        "updated_at": "2026-11-03T03:28:12.961555+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.6543455697549789,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6539830606045662,
+        "id": "ad0104cc-cfa8-44b2-8a68-5e466dd6d0e3",
+        "created_at": "2026-11-03T03:10:19.033326+00:00",
+        "updated_at": "2026-11-03T03:10:19.033326+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.6534531397708834,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, inspired by a dream she had, and hopes to get it on the big screen.",
+        "score": 0.6523438237653946,
+        "id": "5be40d1c-6b79-4010-a6e2-d8cb2fdab1e3",
+        "created_at": "2026-11-03T03:28:29.335853+00:00",
+        "updated_at": "2026-11-03T03:28:29.335853+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared in theaters on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6519990575054991,
+        "id": "f68f1e47-294d-458d-8825-61f9a2e09f0c",
+        "created_at": "2026-11-03T03:10:25.124799+00:00",
+        "updated_at": "2026-11-03T03:10:25.124799+00:00"
+      }
+    ],
+    "search_latency_ms": 150.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '3' is numerically equivalent to the gold answer 'three'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '3' is numerically equivalent to the gold answer 'three'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '3' is numerically equivalent to the gold answer 'three'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '3' is numerically equivalent to the gold answer 'three'."
+    }
+  }
+}

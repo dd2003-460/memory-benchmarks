@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q22",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna start writing her third screenplay?",
+  "ground_truth_answer": "May 2022",
+  "evidence": [
+    "D12:13",
+    "D12:14"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna start writing her third screenplay?",
+    "search_results": [
+      {
+        "memory": "Joanna completed her third screenplay, which she described as a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.9223140688825863,
+        "id": "e24fe053-ef54-4635-99e6-33cd9ee416e1",
+        "created_at": "2026-11-03T03:07:28.708016+00:00",
+        "updated_at": "2026-11-03T03:07:28.708016+00:00"
+      },
+      {
+        "memory": "Joanna completed her third handwritten screenplay around May 25, 2022, a personal story about loss, identity, and connection that she had been developing for years but finally felt brave enough to write.",
+        "score": 0.8873882684686457,
+        "id": "d0629d3d-fec3-4a2c-ba02-7b879ee18e77",
+        "created_at": "2026-11-03T03:07:46.810297+00:00",
+        "updated_at": "2026-11-03T03:07:46.810297+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.7654647379342,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.7646866149425535,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a handwritten screenplay notebook with Nate on May 20, 2022, indicating it was her third completed project after a difficult journey",
+        "score": 0.7465856771730577,
+        "id": "528847f6-cf5d-46c8-8d39-0c23f050b320",
+        "created_at": "2026-11-03T03:07:26.503483+00:00",
+        "updated_at": "2026-11-03T03:07:26.503483+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.731446335365487,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.7267534416983497,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.7175147690201691,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges, and she hopes to get it on the big screen.",
+        "score": 0.7169370344395293,
+        "id": "c4fd8862-553e-4342-a812-3e646204a52e",
+        "created_at": "2026-11-03T03:28:17.705007+00:00",
+        "updated_at": "2026-11-03T03:28:17.705007+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, inspired by a dream she had, and hopes to get it on the big screen.",
+        "score": 0.7140795310537476,
+        "id": "5be40d1c-6b79-4010-a6e2-d8cb2fdab1e3",
+        "created_at": "2026-11-03T03:28:29.335853+00:00",
+        "updated_at": "2026-11-03T03:28:29.335853+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, a love story with lots of challenges, inspired by a dream, and hopes to get it on the big screen.",
+        "score": 0.712815504923182,
+        "id": "7705c919-c377-453b-a697-b6b22e82c63d",
+        "created_at": "2026-11-03T03:28:12.961555+00:00",
+        "updated_at": "2026-11-03T03:28:12.961555+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7121356985874638,
+        "id": "9fa29063-d116-4fcb-a7da-c63a50961373",
+        "created_at": "2026-11-03T03:28:42.599730+00:00",
+        "updated_at": "2026-11-03T03:28:42.599730+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7121356985874638,
+        "id": "523cebcb-fda9-404a-bf74-0af468a36ca3",
+        "created_at": "2026-11-03T03:28:36.462947+00:00",
+        "updated_at": "2026-11-03T03:28:36.462947+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing a new movie script that is a love story featuring lots of challenges, and she hopes to get it adapted for the big screen.",
+        "score": 0.7054664024392465,
+        "id": "0fd682f6-d07d-4eff-a0f1-fe108515171c",
+        "created_at": "2026-11-03T03:27:21.927559+00:00",
+        "updated_at": "2026-11-03T03:27:21.927559+00:00"
+      },
+      {
+        "memory": "Joanna is writing a movie script that is a love story with lots of challenges, which she hopes to get on the big screen; she got the idea for this script from a dream and describes writing as a long-standing passion.",
+        "score": 0.699229375457268,
+        "id": "2cf3db00-0da3-406f-a068-2110457654fb",
+        "created_at": "2026-11-03T03:27:31.240908+00:00",
+        "updated_at": "2026-11-03T03:27:31.240908+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.6848731889049886,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna's third completed screenplay, shared with Nate on May 20, 2022, is a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6834569066875575,
+        "id": "d06355ff-424f-4a74-a51f-60977ae02a02",
+        "created_at": "2026-11-03T03:07:33.475009+00:00",
+        "updated_at": "2026-11-03T03:07:33.475009+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.6826688729109084,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.6796654233571997,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6759424296211987,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      }
+    ],
+    "search_latency_ms": 83.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Years before May 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states the event happened 'years before May 2022', which contradicts the gold answer of 'May 2022' and falls outside the 14-day date tolerance."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date within the allowed tolerance."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date within the allowed tolerance."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around May 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date within the allowed tolerance."
+    }
+  }
+}

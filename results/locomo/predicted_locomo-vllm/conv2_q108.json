@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q108",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Maria say it was like being at the waterfall in Oregon?",
+  "ground_truth_answer": "Like being in a fairy tale",
+  "evidence": [
+    "D18:7"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did Maria say it was like being at the waterfall in Oregon?",
+    "search_results": [
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.9050628297348485,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.8777223963604506,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person standing on a cliff overlooking a canyon while discussing a road trip to Oregon she took with her family when she was younger.",
+        "score": 0.8212964026517916,
+        "id": "119a5fa4-cd0c-43df-9814-52d75e188a27",
+        "created_at": "2026-11-03T00:32:00.865294+00:00",
+        "updated_at": "2026-11-03T00:32:00.865294+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.7022671785892651,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "Maria describes the people at the homeless shelter where she volunteers as feeling like family to her, and she feels blessed to know them, finding joy in seeing their impact and hearing their gratitude.",
+        "score": 0.5621015501144194,
+        "id": "24ee00b3-30f4-442b-b85b-90afd802e9aa",
+        "created_at": "2026-11-03T00:26:34.638564+00:00",
+        "updated_at": "2026-11-03T00:26:34.638564+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.3619036790792761,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.35560640013261835,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.3275050464120546,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.3258908555948246,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "Maria was inspired to go on the hike with her church friends by a desire to make connections, laugh together, and take in nature's beauty.",
+        "score": 0.282711072407899,
+        "id": "1b36821b-2d18-4e2f-b3b1-5de0ef5b5861",
+        "created_at": "2026-11-03T00:42:55.735648+00:00",
+        "updated_at": "2026-11-03T00:42:55.735648+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.26107001544308217,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.2574073407972661,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.25619771024587834,
+        "id": "c27435e1-2255-4694-a24d-78870c326663",
+        "created_at": "2026-11-03T00:40:23.101472+00:00",
+        "updated_at": "2026-11-03T00:40:23.101472+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.25619771024587834,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.2486103603206052,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria found the view from the top of the mountain during her hike with church friends on July 15-16, 2023, to be breathtaking and felt a sense of peace and connection to something special while taking in the scenery.",
+        "score": 0.23570703749895258,
+        "id": "b0e57f39-9fd8-463a-b5d9-71aec73f8faf",
+        "created_at": "2026-11-03T00:43:00.236396+00:00",
+        "updated_at": "2026-11-03T00:43:00.236396+00:00"
+      },
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.23096484051499094,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2300403070202337,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2300403070202337,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2300403070202337,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      }
+    ],
+    "search_latency_ms": 106.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It felt like a fairy tale, with calming water sounds and magical surroundings.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states it felt like a fairy tale, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria said it felt like a fairy tale, with calming water sounds and magical surroundings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core idea that it felt like a fairy tale."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria said it felt like a fairy tale, with calming water sounds and magical surroundings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core idea that it felt like a fairy tale."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria said it felt like a fairy tale, with calming water sounds and magical surroundings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core idea that it felt like a fairy tale."
+    }
+  }
+}

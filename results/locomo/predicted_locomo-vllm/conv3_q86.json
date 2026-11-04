@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q86",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Nate take his turtles to the beach?",
+  "ground_truth_answer": "10 November, 2022",
+  "evidence": [
+    "D29:6"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate take his turtles to the beach?",
+    "search_results": [
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, noting that they bring him peace during the craziness of life.",
+        "score": 0.7256255802250248,
+        "id": "212caf7a-7c74-4213-9787-fb426cfe664b",
+        "created_at": "2026-11-03T03:32:51.749020+00:00",
+        "updated_at": "2026-11-03T03:32:51.749020+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, noting that they bring him peace during life's craziness.",
+        "score": 0.7250302550261835,
+        "id": "6901c237-dd0a-4362-b2d8-d0d53478d644",
+        "created_at": "2026-11-03T03:33:05.331955+00:00",
+        "updated_at": "2026-11-03T03:33:05.331955+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, stating that they bring him peace in the craziness of life.",
+        "score": 0.7168654376083822,
+        "id": "39860416-06bf-4b9e-ae67-5dbd3147d950",
+        "created_at": "2026-11-03T03:33:01.275380+00:00",
+        "updated_at": "2026-11-03T03:33:01.275380+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.7054418519320979,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate owns pet turtles that he takes out for walks when bored; on October 25, 2022, he shared photos of his two turtles sitting on a log in a pond and later relaxing in their tank after walking.",
+        "score": 0.702301817281728,
+        "id": "2f84e572-30aa-49b4-ad81-58153151eb61",
+        "created_at": "2026-11-03T03:25:06.493652+00:00",
+        "updated_at": "2026-11-03T03:25:06.493652+00:00"
+      },
+      {
+        "memory": "Nate got a new turtle to join his existing pets, bringing the total count of turtles he keeps to three, and shared a photo of them basking in the sun on November 9, 2022.",
+        "score": 0.6921552885610178,
+        "id": "e753854f-16d6-4b5f-846d-5e9657cf2ac2",
+        "created_at": "2026-11-03T03:31:35.177863+00:00",
+        "updated_at": "2026-11-03T03:31:35.177863+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two turtles sitting on a rock in a pond with Joanna on September 5, 2022, noting that spending time with them has been a significant help recently.",
+        "score": 0.6791507092729708,
+        "id": "abadbeeb-4305-461c-88da-45e1da5eb373",
+        "created_at": "2026-11-03T03:15:17.580710+00:00",
+        "updated_at": "2026-11-03T03:15:17.580710+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.6790353104507509,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.6777173153944722,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate acquired a third pet turtle on November 9, 2022, after seeing one at a pet store and deciding to get it because his tank was large enough to accommodate three turtles.",
+        "score": 0.671449356425573,
+        "id": "2ab5e849-d028-4245-baa8-155e4cd64a9c",
+        "created_at": "2026-11-03T03:31:42.077852+00:00",
+        "updated_at": "2026-11-03T03:31:42.077852+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when bored, and they currently relax in a tank with a heat lamp after their outings.",
+        "score": 0.6657777202256997,
+        "id": "c112b5da-61de-49b5-a45e-397f44355ca1",
+        "created_at": "2026-11-03T03:25:19.557967+00:00",
+        "updated_at": "2026-11-03T03:25:19.557967+00:00"
+      },
+      {
+        "memory": "Nate has three turtles in his tank and considers them best buddies that bring him joy and peace; he got the third one after seeing it at a pet store and deciding the tank was big enough for all three",
+        "score": 0.6638537768341698,
+        "id": "89c4058d-3895-4bd1-9e88-d7d9f5d01893",
+        "created_at": "2026-11-03T03:32:29.040731+00:00",
+        "updated_at": "2026-11-03T03:32:29.040731+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.6634719400113475,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate loves watching his pet turtles eat fruit, noting that they get very excited and it is cute to see, as he shared with Joanna on October 25, 2022 while showing a photo of a turtle with strawberries.",
+        "score": 0.663104840728862,
+        "id": "3464a499-a73f-4c86-ae3d-c61fac0979d1",
+        "created_at": "2026-11-03T03:25:16.132293+00:00",
+        "updated_at": "2026-11-03T03:25:16.132293+00:00"
+      },
+      {
+        "memory": "Nate has three turtles, having recently adopted a third one from a pet store because the tank was large enough to accommodate them all.",
+        "score": 0.6615348461095486,
+        "id": "afa5494f-26c3-488b-b7e8-791dcbce54c3",
+        "created_at": "2026-11-03T03:32:33.622273+00:00",
+        "updated_at": "2026-11-03T03:32:33.622273+00:00"
+      },
+      {
+        "memory": "Nate keeps turtles as pets, finding watching them calming and fascinating, and has grown fond of them for bringing joy to his life.",
+        "score": 0.6612798295054545,
+        "id": "16156dd1-59fe-4388-8775-b9d7418e9caa",
+        "created_at": "2026-11-03T03:28:12.964566+00:00",
+        "updated_at": "2026-11-03T03:28:12.964566+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.6590421286118334,
+        "id": "b673c42f-33ed-4154-ab27-510852da0724",
+        "created_at": "2026-11-03T03:28:17.710092+00:00",
+        "updated_at": "2026-11-03T03:28:17.710092+00:00"
+      },
+      {
+        "memory": "Nate owns turtles that he finds comforting and happy when watching them slowly walk around, especially during stressful times.",
+        "score": 0.6588822349670068,
+        "id": "2beea1c6-4c5d-474c-94a4-cac6702c897f",
+        "created_at": "2026-11-03T03:23:43.417901+00:00",
+        "updated_at": "2026-11-03T03:23:43.417901+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his pet turtle with Joanna on April 17, 2022, showing the turtle in a bowl next to a strawberry",
+        "score": 0.657301631191743,
+        "id": "ae84de42-35ae-44b2-85e2-944fb1278a41",
+        "created_at": "2026-11-03T03:03:41.904747+00:00",
+        "updated_at": "2026-11-03T03:03:41.904747+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and considers himself knowledgeable about them, stating 'I know all about them' when discussing his pet turtles with Joanna on October 25, 2022.",
+        "score": 0.6572139356161499,
+        "id": "46bceb2c-9d23-4519-935e-595f5eb2de8c",
+        "created_at": "2026-11-03T03:25:33.526756+00:00",
+        "updated_at": "2026-11-03T03:25:33.526756+00:00"
+      }
+    ],
+    "search_latency_ms": 110.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "November 10, 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer's date exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "November 10, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "November 10, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "November 10, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date exactly."
+    }
+  }
+}

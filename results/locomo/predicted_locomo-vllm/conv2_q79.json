@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q79",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How often does John take his kids to the park?",
+  "ground_truth_answer": "A few times a week",
+  "evidence": [
+    "D8:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How often does John take his kids to the park?",
+    "search_results": [
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.6431643060804639,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6381452445234955,
+        "id": "f9a5244f-d04f-473e-a818-2436a7e3a986",
+        "created_at": "2026-11-03T00:49:10.171499+00:00",
+        "updated_at": "2026-11-03T00:49:10.171499+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6381452445234954,
+        "id": "1c3ac6d6-35e6-4252-acbf-62410e6dda9b",
+        "created_at": "2026-11-03T00:49:18.801762+00:00",
+        "updated_at": "2026-11-03T00:49:18.801762+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times. He shared a photo of his family posing in the park on August 13, 2023.",
+        "score": 0.6367352401785682,
+        "id": "df3421f7-76f4-4d86-b98f-5b5c6c4d7b00",
+        "created_at": "2026-11-03T00:49:21.202861+00:00",
+        "updated_at": "2026-11-03T00:49:21.202861+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.6342161867056255,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park where the kids had fun on the playground, describing it as an awesome day with nice family time.",
+        "score": 0.6336830053820345,
+        "id": "e15b655d-b216-4ea0-a58f-438e55002740",
+        "created_at": "2026-11-03T00:32:53.468645+00:00",
+        "updated_at": "2026-11-03T00:32:53.468645+00:00"
+      },
+      {
+        "memory": "John enjoys outdoor activities with his family, including hiking, hanging out at the park, and having picnics.",
+        "score": 0.6296464528629612,
+        "id": "20f01f59-76fd-4e3b-9fa2-8f62ece78125",
+        "created_at": "2026-11-03T00:49:26.779964+00:00",
+        "updated_at": "2026-11-03T00:49:26.779964+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.6273710547321796,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics. He also enjoys playing board games and having movie nights at home.",
+        "score": 0.6261579144146202,
+        "id": "5b518877-b53f-4eb1-a464-3841811d7425",
+        "created_at": "2026-11-03T00:49:21.205807+00:00",
+        "updated_at": "2026-11-03T00:49:21.205807+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family having fun on a playground at the park, describing it as an awesome day with nice family time.",
+        "score": 0.6161122205167979,
+        "id": "4ae463d0-dad9-470f-8e61-7db6d2815d2a",
+        "created_at": "2026-11-03T00:32:56.340626+00:00",
+        "updated_at": "2026-11-03T00:32:56.340626+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.6140913509663957,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "User's name is John and he enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+        "score": 0.6099912342411743,
+        "id": "bc788396-063d-4996-b9e4-1f17ad95f3cb",
+        "created_at": "2026-11-03T00:49:34.881293+00:00",
+        "updated_at": "2026-11-03T00:49:34.881293+00:00"
+      },
+      {
+        "memory": "John's kids are getting excited about staying active as a result of the family's participation in boot camps.",
+        "score": 0.5678034884069294,
+        "id": "ec1b3f67-9a91-405f-9ff6-922c819e23af",
+        "created_at": "2026-11-03T00:28:02.235088+00:00",
+        "updated_at": "2026-11-03T00:28:02.235088+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, working out three times a week to stay on track, which has increased their energy, strength, and endurance while making his kids excited about staying active.",
+        "score": 0.562339457265417,
+        "id": "dcbb0b65-12d2-4845-80c1-123a22a83b00",
+        "created_at": "2026-11-03T00:28:06.181709+00:00",
+        "updated_at": "2026-11-03T00:28:06.181709+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.5549212246803833,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.553706778481246,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in late July 2023, an experience that made a significant impact on them, leaving the children awestruck and humbled.",
+        "score": 0.553583905973219,
+        "id": "ed561359-aa0c-476e-9ecc-aac20f2bae4a",
+        "created_at": "2026-11-03T00:45:02.573349+00:00",
+        "updated_at": "2026-11-03T00:45:02.573349+00:00"
+      },
+      {
+        "memory": "John visited a military memorial with his kids the week of July 24, 2023, finding it a moving experience that made them awestruck and humbled while teaching them to respect those who served",
+        "score": 0.5525611195104609,
+        "id": "1b2fbf8a-7286-408e-b00e-6a5c6b747dc7",
+        "created_at": "2026-11-03T00:45:09.363909+00:00",
+        "updated_at": "2026-11-03T00:45:09.363909+00:00"
+      },
+      {
+        "memory": "John plans to set up a game night for his kids soon, inspired by Maria's recent picnic where friends played charades and a scavenger hunt.",
+        "score": 0.551800013421596,
+        "id": "c9b9d1ef-a548-4d3d-8737-b94c371de2c5",
+        "created_at": "2026-11-03T00:42:14.410637+00:00",
+        "updated_at": "2026-11-03T00:42:14.410637+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.5513048525586772,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      }
+    ],
+    "search_latency_ms": 59.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John takes his kids to the park regularly/often, as part of his usual outdoor family time; the memories show at least two park outings in 2023, on June 12 and August 13.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer conveys that John takes his kids to the park regularly/often, which semantically overlaps with the gold answer's frequency of a few times a week."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John takes his kids to the park regularly, as part of his family’s outdoor activities.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's statement that John takes his kids to the park regularly is a vague but compatible paraphrase of the gold answer's frequency of a few times a week."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John takes his kids to the park regularly, as part of his family’s outdoor time; the memories show park outings on June 12, 2023 and August 13, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer conveys that John takes his kids to the park regularly, which semantically overlaps with the gold answer's frequent 'a few times a week' frequency."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John takes his kids to the park regularly, with documented visits on June 12, 2023 and August 13, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says John takes his kids to the park regularly, which is a general paraphrase of the gold answer's frequency of a few times a week."
+    }
+  }
+}

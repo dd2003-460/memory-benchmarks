@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q8",
+  "conversation_idx": 0,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Caroline give a speech at a school?",
+  "ground_truth_answer": "The week before 9 June 2023",
+  "evidence": [
+    "D3:1"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "When did Caroline give a speech at a school?",
+    "search_results": [],
+    "search_latency_ms": 26.1,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline giving a speech at a school.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline giving a speech at a school.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline giving a speech at a school.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline giving a speech at a school.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+    }
+  }
+}

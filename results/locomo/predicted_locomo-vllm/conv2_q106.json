@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q106",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What important values does John want to teach his kids through adopting a rescue dog?",
+  "ground_truth_answer": "Responsibility and compassion",
+  "evidence": [
+    "D17:11"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What important values does John want to teach his kids through adopting a rescue dog?",
+    "search_results": [
+      {
+        "memory": "John is considering adopting a rescue dog to provide a loving home and to teach his kids responsibility and compassion.",
+        "score": 0.9250608408439016,
+        "id": "7519d061-b948-4e64-8aad-865b3ce58397",
+        "created_at": "2026-11-03T00:31:54.022740+00:00",
+        "updated_at": "2026-11-03T00:31:54.022740+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to provide a loving home and to teach his kids responsibility and compassion.",
+        "score": 0.9250608408439016,
+        "id": "156b0f89-d013-4cf8-9d44-cd28855d00b3",
+        "created_at": "2026-11-03T00:31:47.154969+00:00",
+        "updated_at": "2026-11-03T00:31:47.154969+00:00"
+      },
+      {
+        "memory": "John and his family are considering adopting a rescue dog to teach their kids responsibility and compassion, motivated by the love they felt for their late pet Max.",
+        "score": 0.9242891338657442,
+        "id": "c0b2796f-b1ad-4b2a-b689-72f8200ebe9a",
+        "created_at": "2026-11-03T00:31:42.310320+00:00",
+        "updated_at": "2026-11-03T00:31:42.310320+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to give it a loving home and to teach his children responsibility and compassion.",
+        "score": 0.9230874795776927,
+        "id": "6823f33d-c505-4486-b52f-eeaf8e0955f4",
+        "created_at": "2026-11-03T00:31:49.701644+00:00",
+        "updated_at": "2026-11-03T00:31:49.701644+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023 and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.8325790013089802,
+        "id": "e98eedd6-c57d-4f97-b841-6e9804670ec9",
+        "created_at": "2026-11-03T00:31:47.159168+00:00",
+        "updated_at": "2026-11-03T00:31:47.159168+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.8297023526587965,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "John wants to teach his kids the importance of unconditional love and loyalty, values he learned from his bond with his late dog Max.",
+        "score": 0.8178483076132931,
+        "id": "5bbffebf-8110-410e-83f6-6cb13af4ff09",
+        "created_at": "2026-11-03T00:31:54.019700+00:00",
+        "updated_at": "2026-11-03T00:31:54.019700+00:00"
+      },
+      {
+        "memory": "John's late dog Max was a golden retriever who brought the family joy and taught John and his kids about unconditional love, loyalty, and responsibility.",
+        "score": 0.7715297788090443,
+        "id": "cb5cce34-98b6-4f22-aade-98d9724718e5",
+        "created_at": "2026-11-03T00:31:49.698043+00:00",
+        "updated_at": "2026-11-03T00:31:49.698043+00:00"
+      },
+      {
+        "memory": "John's dog Max has passed away, and John cherishes the memory of him as peaceful and happy, noting that Max brought the family joy and taught them about love and loyalty.",
+        "score": 0.7259609844402419,
+        "id": "daf48ba8-040f-41ed-8629-5f8ad06a8b41",
+        "created_at": "2026-11-03T00:31:54.015827+00:00",
+        "updated_at": "2026-11-03T00:31:54.015827+00:00"
+      },
+      {
+        "memory": "John has children and wants to teach them the importance of unconditional love and loyalty, values he learned from his late pet Max.",
+        "score": 0.6957832161881488,
+        "id": "fa931643-9ec4-414a-831d-085200a10bdc",
+        "created_at": "2026-11-03T00:31:38.157128+00:00",
+        "updated_at": "2026-11-03T00:31:38.157128+00:00"
+      },
+      {
+        "memory": "Maria adopted a black puppy from a shelter around August 6, 2023, describing the experience as bringing her joy and feeling blessed to give the dog a home.",
+        "score": 0.6679144294462265,
+        "id": "c8f1989f-410b-45fb-a83d-5d9d4ae27365",
+        "created_at": "2026-11-03T00:48:28.732864+00:00",
+        "updated_at": "2026-11-03T00:48:28.732864+00:00"
+      },
+      {
+        "memory": "John believes his bond with Max taught him and his kids important lessons about unconditional love and loyalty, which he wants to pass on to them.",
+        "score": 0.6259019858374607,
+        "id": "83fa5ac3-77ab-43f1-a4c4-707810e1b9d8",
+        "created_at": "2026-11-03T00:31:47.149874+00:00",
+        "updated_at": "2026-11-03T00:31:47.149874+00:00"
+      },
+      {
+        "memory": "John describes his rescue team as having become like family to him, noting that the strong bond they share is similar to what he experienced during his time in the military.",
+        "score": 0.622711085766637,
+        "id": "ebacaf04-2424-41ed-9a2e-39c1f710c207",
+        "created_at": "2026-11-03T00:44:23.670995+00:00",
+        "updated_at": "2026-11-03T00:44:23.670995+00:00"
+      },
+      {
+        "memory": "John shared a photo of his late dog Max playing fetch with a young kid, noting that he is still thinking about Max and finds comfort in pets lifting spirits.",
+        "score": 0.6138462916043782,
+        "id": "0292aee0-5a23-4a45-8b01-0a63bfcbc1bf",
+        "created_at": "2026-11-03T00:47:32.019484+00:00",
+        "updated_at": "2026-11-03T00:47:32.019484+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.5913933145372792,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John is considering adopting a new puppy from a shelter near him after being inspired by Maria's recent adoption experience.",
+        "score": 0.5904311836356108,
+        "id": "10d4ac91-1041-454c-b9b0-f80d6dc38925",
+        "created_at": "2026-11-03T00:48:54.955150+00:00",
+        "updated_at": "2026-11-03T00:48:54.955150+00:00"
+      },
+      {
+        "memory": "John completed intense training for a rescue role, which changed his view on helping others, and had his first call-out on July 30, 2023, where he helped save a family from a burning building.",
+        "score": 0.5839259305076482,
+        "id": "d5ab0099-5b4b-46ac-9e5e-89b79e20a47d",
+        "created_at": "2026-11-03T00:44:23.665958+00:00",
+        "updated_at": "2026-11-03T00:44:23.665958+00:00"
+      },
+      {
+        "memory": "John is planning to look into animal shelters near him soon with the goal of adopting a new puppy for his household.",
+        "score": 0.5775186506460303,
+        "id": "a8cef82a-a94d-41ec-b584-c4fd60d577aa",
+        "created_at": "2026-11-03T00:49:03.788683+00:00",
+        "updated_at": "2026-11-03T00:49:03.788683+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.5735863486433352,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.5571078656419466,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      }
+    ],
+    "search_latency_ms": 37.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Responsibility and compassion.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's values of responsibility and compassion."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "unconditional love, loyalty, responsibility, and compassion",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both 'responsibility' and 'compassion' from the gold answer, along with additional values, which satisfies the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "responsibility and compassion",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's values of responsibility and compassion."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "unconditional love, loyalty, responsibility, and compassion",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both 'responsibility' and 'compassion' from the gold answer, along with additional values, which satisfies the partial credit rule."
+    }
+  }
+}

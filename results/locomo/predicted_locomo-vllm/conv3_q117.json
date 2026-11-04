@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q117",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What filling did Joanna use in the cake she made recently in May 2022?",
+  "ground_truth_answer": "strawberry",
+  "evidence": [
+    "D10:11"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What filling did Joanna use in the cake she made recently in May 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting, which she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.67790834163923,
+        "id": "20f1b68a-ef1c-40e4-8224-57fb5adfec0b",
+        "created_at": "2026-11-03T03:05:35.434706+00:00",
+        "updated_at": "2026-11-03T03:05:35.434706+00:00"
+      },
+      {
+        "memory": "Joanna revised one of her old recipes and made a dairy-free chocolate cake with pink frosting, sharing a photo of the cake with strawberries and chocolate with Nate on September 5, 2022.",
+        "score": 0.6642444801056041,
+        "id": "21d208fe-4b55-42f5-b6b3-ed502ca2381a",
+        "created_at": "2026-11-03T03:15:20.830022+00:00",
+        "updated_at": "2026-11-03T03:15:20.830022+00:00"
+      },
+      {
+        "memory": "Joanna made a dairy-free chocolate cake with pink frosting and strawberries on September 5, 2022, after revising an old recipe, and shared a photo of it with Nate.",
+        "score": 0.6626827841005555,
+        "id": "919f2e92-942a-44dd-b0a1-2c598e57f0d5",
+        "created_at": "2026-11-03T03:15:37.919622+00:00",
+        "updated_at": "2026-11-03T03:15:37.919622+00:00"
+      },
+      {
+        "memory": "Joanna revised one of her old recipes and made a dairy-free chocolate cake with pink frosting, strawberries, and chocolate, sharing a photo of it with Nate on September 5, 2022.",
+        "score": 0.6614875900170618,
+        "id": "559c7ac6-c0e9-4659-8ccd-dc5577b2abdb",
+        "created_at": "2026-11-03T03:15:28.829939+00:00",
+        "updated_at": "2026-11-03T03:15:28.829939+00:00"
+      },
+      {
+        "memory": "Joanna revised an old recipe and made a dairy-free chocolate cake with pink frosting and strawberries on September 5, 2022, sharing a photo of it with Nate.",
+        "score": 0.6592816502789227,
+        "id": "be1bffe7-4a12-455b-9968-9bdb4d5f8505",
+        "created_at": "2026-11-03T03:15:53.706255+00:00",
+        "updated_at": "2026-11-03T03:15:53.706255+00:00"
+      },
+      {
+        "memory": "Joanna has a chocolate and raspberry cake recipe that she has been wanting to share with Nate, who has expressed interest in trying it",
+        "score": 0.6416626665021785,
+        "id": "024d0a86-64bc-490d-bbe5-b617e4225080",
+        "created_at": "2026-11-03T03:26:58.947748+00:00",
+        "updated_at": "2026-11-03T03:26:58.947748+00:00"
+      },
+      {
+        "memory": "Joanna is working on a screenplay and has been testing dairy-free dessert recipes for friends and family, recently making a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+        "score": 0.637193269215203,
+        "id": "161a6a6f-d580-458c-805f-c19dd31dd970",
+        "created_at": "2026-11-03T03:05:51.311774+00:00",
+        "updated_at": "2026-11-03T03:05:51.311774+00:00"
+      },
+      {
+        "memory": "Joanna has been testing out dairy-free dessert recipes for friends and family, recently making a cake with white frosting that she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.6362426675575548,
+        "id": "9a61a0d8-4593-4162-8ee1-087485816739",
+        "created_at": "2026-11-03T03:05:29.077837+00:00",
+        "updated_at": "2026-11-03T03:05:29.077837+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, which she considers her favorite for birthdays and special days.",
+        "score": 0.6211031162910455,
+        "id": "cc514326-e177-496a-9ef6-45763eb741aa",
+        "created_at": "2026-11-03T03:18:37.391895+00:00",
+        "updated_at": "2026-11-03T03:18:37.391895+00:00"
+      },
+      {
+        "memory": "Joanna makes her favorite dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and fresh raspberries, and considers it her go-to dessert for birthdays and special occasions.",
+        "score": 0.6184283884460371,
+        "id": "47f6d4eb-8749-4e2d-a002-195a82038ea2",
+        "created_at": "2026-11-03T03:18:21.698003+00:00",
+        "updated_at": "2026-11-03T03:18:21.698003+00:00"
+      },
+      {
+        "memory": "Joanna makes dairy-free desserts, specifically a vanilla cake with strawberry filling and coconut cream frosting, and credits Nate's previous recommendation for using coconut in her baking.",
+        "score": 0.615837058584008,
+        "id": "cbf202cb-5b51-4700-8d72-3dcd652724a0",
+        "created_at": "2026-11-03T03:06:02.492220+00:00",
+        "updated_at": "2026-11-03T03:06:02.492220+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.6065751648999865,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, describing it as moist and delicious with perfect sweetness, and considers it her favorite for birthdays and special days.",
+        "score": 0.6055892231391431,
+        "id": "5cd4a18d-a561-4c7e-ae4a-36cf30f6fc53",
+        "created_at": "2026-11-03T03:18:25.102538+00:00",
+        "updated_at": "2026-11-03T03:18:25.102538+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and uses dairy-free alternatives like coconut or almond milk in her baking, creating desserts such as cookies, pies, cakes, and chocolate coconut cupcakes with raspberry frosting that are accessible to various diets.",
+        "score": 0.5941493180726003,
+        "id": "b1be2635-c56c-4949-8895-de15e05a4bdc",
+        "created_at": "2026-11-03T03:16:08.948018+00:00",
+        "updated_at": "2026-11-03T03:16:08.948018+00:00"
+      },
+      {
+        "memory": "Joanna makes various dairy-free desserts including cookies, pies, and cakes that accommodate different dietary needs, and plans to share more recipes with Nate soon.",
+        "score": 0.5875565872299987,
+        "id": "f4c7f8ea-5a10-4664-b007-c5fea1c38349",
+        "created_at": "2026-11-03T03:16:58.589406+00:00",
+        "updated_at": "2026-11-03T03:16:58.589406+00:00"
+      },
+      {
+        "memory": "Nate has been wanting to try Joanna's chocolate and raspberry cake for a while, expressing interest in tasting it during their upcoming dessert-sharing meetup.",
+        "score": 0.5776779433669591,
+        "id": "e55c5615-584e-4a15-9dfd-28ea9a0031cf",
+        "created_at": "2026-11-03T03:26:54.977776+00:00",
+        "updated_at": "2026-11-03T03:26:54.977776+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.5768668810647612,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.5753190030570271,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described her recent period as 'quite a ride' in a good way",
+        "score": 0.5730148112181195,
+        "id": "371c0525-93cb-4756-b89b-212be6548a81",
+        "created_at": "2026-11-03T03:01:46.274984+00:00",
+        "updated_at": "2026-11-03T03:01:46.274984+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.5713549936713885,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      }
+    ],
+    "search_latency_ms": 78.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "strawberry filling",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states strawberry filling, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Strawberry filling",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states strawberry filling, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Strawberry filling",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states strawberry filling, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Strawberry filling",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states strawberry filling, matching the gold answer."
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "question_id": "conv4_q17",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many games has John mentioned winning?",
+  "ground_truth_answer": "6",
+  "evidence": [
+    "D3:3",
+    "D5:2",
+    "D22:4",
+    "D23:7",
+    "D24:2"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "How many games has John mentioned winning?",
+    "search_results": [
+      {
+        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
+        "score": 0.6613781836963046,
+        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
+        "created_at": "2026-11-03T09:31:05.121555+00:00",
+        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+      },
+      {
+        "memory": "John's basketball team won a close game against another team in the week before December 16, 2023, with the outcome decided at the final buzzer.",
+        "score": 0.634315658545187,
+        "id": "5e07c7f1-715b-4ac1-8c8b-54b4b0a3f059",
+        "created_at": "2026-11-03T09:32:47.737172+00:00",
+        "updated_at": "2026-11-03T09:32:47.737172+00:00"
+      },
+      {
+        "memory": "John's basketball team won a close game against another team in the week preceding December 16, 2023, with the outcome decided at the final buzzer.",
+        "score": 0.6340386344060842,
+        "id": "12bf53fb-eb9d-498c-a30f-9a380f3f1d29",
+        "created_at": "2026-11-03T09:33:05.367969+00:00",
+        "updated_at": "2026-11-03T09:33:05.367969+00:00"
+      },
+      {
+        "memory": "John's basketball team had a close game against another team the week of December 9, 2023, which they won at the final buzzer, and he shared a photo of women's basketball players holding up a trophy to celebrate.",
+        "score": 0.6272231236425581,
+        "id": "a90f938c-f5b2-4c39-8693-7fb6eb35a8b7",
+        "created_at": "2026-11-03T09:32:44.179083+00:00",
+        "updated_at": "2026-11-03T09:32:44.179083+00:00"
+      },
+      {
+        "memory": "John recently won a basketball trophy, which he credits to his team's hard work and dedication.",
+        "score": 0.6143396809375694,
+        "id": "07c3596e-5d6a-44aa-b9f5-8e94515b55fe",
+        "created_at": "2026-11-03T09:30:48.604695+00:00",
+        "updated_at": "2026-11-03T09:30:48.604695+00:00"
+      },
+      {
+        "memory": "John described the basketball season leading up to October 13, 2023, as intense with both tough losses and great wins, stating that his team did pretty well overall.",
+        "score": 0.613973527581525,
+        "id": "91dc4068-7f07-4c56-8891-c12905c018e0",
+        "created_at": "2026-11-03T09:17:44.836620+00:00",
+        "updated_at": "2026-11-03T09:17:44.836620+00:00"
+      },
+      {
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6133606933377561,
+        "id": "352a6cae-8749-47c6-8fba-36228a556495",
+        "created_at": "2026-11-03T09:31:59.602804+00:00",
+        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+      },
+      {
+        "memory": "John's basketball team won a championship trophy during the 2023 season, which he described as making all their hard work and effort totally worth it.",
+        "score": 0.6076968051156856,
+        "id": "43dca886-2070-4f48-8334-d0977d527214",
+        "created_at": "2026-11-03T09:17:55.029084+00:00",
+        "updated_at": "2026-11-03T09:17:55.029084+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be when he hit a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.6052819979212856,
+        "id": "75a2a2e3-e6c5-4259-b4cf-19d97f2b314a",
+        "created_at": "2026-11-03T09:31:54.815580+00:00",
+        "updated_at": "2026-11-03T09:31:54.815580+00:00"
+      },
+      {
+        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
+        "score": 0.603694950621634,
+        "id": "969be255-a1ca-4d01-b397-74f2a6b0309d",
+        "created_at": "2026-11-03T09:32:06.200820+00:00",
+        "updated_at": "2026-11-03T09:32:06.200820+00:00"
+      },
+      {
+        "memory": "John states that his team's bond is awesome and makes all the hard work worth it, following a discussion about winning a tough game.",
+        "score": 0.6010007009919967,
+        "id": "54c1cf8a-c6ec-4186-adb0-72a172596712",
+        "created_at": "2026-11-03T08:56:51.137212+00:00",
+        "updated_at": "2026-11-03T08:56:51.137212+00:00"
+      },
+      {
+        "memory": "John finds that winning basketball games provides a significant confidence boost and keeps him motivated to put in effort, making difficult times feel worthwhile.",
+        "score": 0.5915344262892478,
+        "id": "a071754c-83dd-49bb-a129-574feb614012",
+        "created_at": "2026-11-03T09:33:05.371864+00:00",
+        "updated_at": "2026-11-03T09:33:05.371864+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.5894141968948732,
+        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
+        "created_at": "2026-11-03T09:07:43.089742+00:00",
+        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+      },
+      {
+        "memory": "John stated on October 13, 2023, that he needs new shoes after playing many games during an intense season where his team won a trophy.",
+        "score": 0.5851494722325332,
+        "id": "b24931b3-6765-4801-87ba-39fe4329f66e",
+        "created_at": "2026-11-03T09:18:07.604522+00:00",
+        "updated_at": "2026-11-03T09:18:07.604522+00:00"
+      },
+      {
+        "memory": "John values the camaraderie built both on and off the court with his teammates, stating that winning against a strong opponent felt amazing and was worth all the hard work.",
+        "score": 0.5592519243911263,
+        "id": "1851ffd7-63ea-4756-a967-3322a543cf96",
+        "created_at": "2026-11-03T09:31:10.122167+00:00",
+        "updated_at": "2026-11-03T09:31:10.122167+00:00"
+      },
+      {
+        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.5077713696768656,
+        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
+        "created_at": "2026-11-03T09:32:06.195896+00:00",
+        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+      },
+      {
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
+        "score": 0.5011903762957255,
+        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
+        "created_at": "2026-11-03T09:31:15.574811+00:00",
+        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
+        "score": 0.5000564473137172,
+        "id": "d1039026-4d93-4509-8073-e15282f740f7",
+        "created_at": "2026-11-03T09:31:54.807142+00:00",
+        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.49787007642054204,
+        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
+        "created_at": "2026-11-03T09:31:49.895597+00:00",
+        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.496965173991559,
+        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
+        "created_at": "2026-11-03T09:31:59.597097+00:00",
+        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+      }
+    ],
+    "search_latency_ms": 82.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

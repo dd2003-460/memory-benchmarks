@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q0",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Is it likely that Nate has friends besides Joanna?",
+  "ground_truth_answer": "Yesteammates on hisvideo game team.",
+  "evidence": [
+    "D1:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Is it likely that Nate has friends besides Joanna?",
+    "search_results": [
+      {
+        "memory": "User's name is Nate and he has a friend or contact named Joanna with whom he had not spoken in a long time as of March 24, 2022",
+        "score": 0.6528922470005952,
+        "id": "41fcd61a-71b0-467a-8996-097fa2437b2a",
+        "created_at": "2026-11-03T03:01:43.788400+00:00",
+        "updated_at": "2026-11-03T03:01:43.788400+00:00"
+      },
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.6427684860525873,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over random choices, stating that he usually likes her suggestions much more.",
+        "score": 0.6328911857595858,
+        "id": "bc3427a6-cb5a-44d9-b3c9-9ec69e791478",
+        "created_at": "2026-11-03T03:29:23.397245+00:00",
+        "updated_at": "2026-11-03T03:29:23.397245+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other creators' videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.6327152794174192,
+        "id": "b1a9cab6-c29a-4eed-853a-6c8b9cc6cc5a",
+        "created_at": "2026-11-03T03:31:26.585383+00:00",
+        "updated_at": "2026-11-03T03:31:26.585383+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.6320783287257643,
+        "id": "84f63adb-d762-4a49-b683-e68b956b3448",
+        "created_at": "2026-11-03T03:31:42.070165+00:00",
+        "updated_at": "2026-11-03T03:31:42.070165+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.6320783287257643,
+        "id": "48dc7a29-d8d3-47cd-bd40-539d981642c2",
+        "created_at": "2026-11-03T03:31:21.139979+00:00",
+        "updated_at": "2026-11-03T03:31:21.139979+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what his audience likes, so that his gaming YouTube videos do not flop when posted",
+        "score": 0.6255108362307833,
+        "id": "2c519351-9fa4-4923-8bd6-e1e00a23ad07",
+        "created_at": "2026-11-03T03:31:17.459494+00:00",
+        "updated_at": "2026-11-03T03:31:17.459494+00:00"
+      },
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.6254255322814909,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.6175219981438862,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Nate is not really into hiking but expressed curiosity about seeing what Joanna's trail looks like, and mentioned hearing about a nice trail just north of where he lives",
+        "score": 0.6174553724177294,
+        "id": "7a46f9ff-3a02-4d8d-9831-3a12ecccafdf",
+        "created_at": "2026-11-03T03:03:15.901351+00:00",
+        "updated_at": "2026-11-03T03:03:15.901351+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.6142908547355073,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.6116562133834159,
+        "id": "3ffff6c6-5368-4618-a41c-1e20a47e8a8d",
+        "created_at": "2026-11-03T03:09:52.150987+00:00",
+        "updated_at": "2026-11-03T03:09:52.150987+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.6071983635508027,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party in mid-June 2022, two weekends after June 3, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.6064327969571486,
+        "id": "be3c86f2-6d34-48e1-a989-2be2a45dd5a2",
+        "created_at": "2026-11-03T03:09:48.753824+00:00",
+        "updated_at": "2026-11-03T03:09:48.753824+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.6052047329289255,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.6051072953002292,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention on October 7, 2022, who share his interest in games, and they have already planned a gaming session together.",
+        "score": 0.6042650346070904,
+        "id": "1a9ef031-4fb4-4f3a-9e47-81776a1a6d00",
+        "created_at": "2026-11-03T03:20:46.724645+00:00",
+        "updated_at": "2026-11-03T03:20:46.724645+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.591932944244407,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.5886348107731136,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate has been helping friends reset their high scores at an international tournament recently, describing the experience as fun.",
+        "score": 0.5856924738320582,
+        "id": "cd25b420-8223-4714-ae9c-3ab6af18cae5",
+        "created_at": "2026-11-03T03:26:24.079163+00:00",
+        "updated_at": "2026-11-03T03:26:24.079163+00:00"
+      }
+    ],
+    "search_latency_ms": 75.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, it is likely that Nate has friends besides Joanna.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly affirms that Nate likely has friends besides Joanna, matching the gold answer's affirmative response even though it omits the specific teammates detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, it is likely that Nate has friends besides Joanna, because the memories mention his tournament friends, old friends/teammates, and new friends from the game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Nate likely has friends besides Joanna by mentioning teammates, which matches the gold answer's core item."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, it is likely that Nate has friends besides Joanna, because the memories explicitly mention his tournament friends, old friends/teammates, and new friends from the game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that Nate has friends besides Joanna, including teammates, which matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, it is likely. Nate has friends besides Joanna, including tournament friends, old friends/teammates, and new friends he met at a game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly says yes and includes teammates, matching the gold answer's key item."
+    }
+  }
+}

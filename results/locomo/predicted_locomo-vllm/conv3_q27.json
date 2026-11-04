@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q27",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What places has Joanna submitted her work to?",
+  "ground_truth_answer": "film contest, film festival.",
+  "evidence": [
+    "D2:7",
+    "D16:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What places has Joanna submitted her work to?",
+    "search_results": [
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.6765012848793164,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had two published movies and recently submitted several new scripts in early November 2022, hoping for positive responses while anticipating some rejections.",
+        "score": 0.6597533215238219,
+        "id": "5370a444-5c1e-42fe-ae73-aa250d43f35d",
+        "created_at": "2026-11-03T03:28:47.519730+00:00",
+        "updated_at": "2026-11-03T03:28:47.519730+00:00"
+      },
+      {
+        "memory": "Joanna submitted several new scripts in the week of November 1, 2022, and is hoping to hear back from them soon while expecting some rejections.",
+        "score": 0.646939388429752,
+        "id": "4f372d74-80ed-4fa0-aae8-ccc641cc1551",
+        "created_at": "2026-11-03T03:28:53.458281+00:00",
+        "updated_at": "2026-11-03T03:28:53.458281+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6389247819843207,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.6308901354127221,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts during the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6291356454907236,
+        "id": "77cae654-82d5-49f3-a6a4-a02fd887c662",
+        "created_at": "2026-11-03T03:28:42.610116+00:00",
+        "updated_at": "2026-11-03T03:28:42.610116+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6270975438949876,
+        "id": "216c1077-a638-41ad-b9f3-e642f9515f43",
+        "created_at": "2026-11-03T03:28:36.470026+00:00",
+        "updated_at": "2026-11-03T03:28:36.470026+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.6018764001993557,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet.",
+        "score": 0.5953818148454549,
+        "id": "964f5375-cf0d-42ea-b4be-5084a557a71e",
+        "created_at": "2026-11-03T03:31:14.933116+00:00",
+        "updated_at": "2026-11-03T03:31:14.933116+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and its notable past residents, noting that it is different from her previous work but has potential to be something awesome.",
+        "score": 0.5932238572631113,
+        "id": "29c7cf57-3134-4e73-a6cb-4f164cffd2fd",
+        "created_at": "2026-11-03T03:12:34.851897+00:00",
+        "updated_at": "2026-11-03T03:12:34.851897+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.592097913195844,
+        "id": "98225ef3-fcd6-42b2-880a-dd4e9afb63b5",
+        "created_at": "2026-11-03T03:30:50.640223+00:00",
+        "updated_at": "2026-11-03T03:30:50.640223+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.592097913195844,
+        "id": "4985278d-7c47-4d8f-a849-20e676af8baa",
+        "created_at": "2026-11-03T03:30:44.504642+00:00",
+        "updated_at": "2026-11-03T03:30:44.504642+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.592097913195844,
+        "id": "b6393fff-e1fe-43d2-a73d-619944b48ff1",
+        "created_at": "2026-11-03T03:31:26.574834+00:00",
+        "updated_at": "2026-11-03T03:31:26.574834+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.592097913195844,
+        "id": "daf03fdc-f376-4148-bec0-52588b653f59",
+        "created_at": "2026-11-03T03:31:21.128994+00:00",
+        "updated_at": "2026-11-03T03:31:21.128994+00:00"
+      },
+      {
+        "memory": "Joanna is working on a challenging but fulfilling project in addition to her recent producer meetings, which she found validating and inspiring.",
+        "score": 0.5907613225563042,
+        "id": "976396c6-87dc-4918-949f-98b8c7fd5dbb",
+        "created_at": "2026-11-03T03:26:24.066841+00:00",
+        "updated_at": "2026-11-03T03:26:24.066841+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet.",
+        "score": 0.589411950662609,
+        "id": "d1b5bdab-a8ac-45a5-ad19-7f281d25161d",
+        "created_at": "2026-11-03T03:31:09.701960+00:00",
+        "updated_at": "2026-11-03T03:31:09.701960+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and the changes it has undergone, noting that this project is different from her previous work but has great potential.",
+        "score": 0.587991763004468,
+        "id": "b8071fac-7a98-4cdf-b673-ce5d05dd9da0",
+        "created_at": "2026-11-03T03:12:29.473780+00:00",
+        "updated_at": "2026-11-03T03:12:29.473780+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.5795997032854655,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna is working on a script called 'Finding Home' with her writers group, which depicts a girl's journey to find her true home; she finds the project rewarding and emotional.",
+        "score": 0.5681267254058344,
+        "id": "65b3785f-c1a4-413b-8ab3-e0c44e2c258d",
+        "created_at": "2026-11-03T03:04:16.522617+00:00",
+        "updated_at": "2026-11-03T03:04:16.522617+00:00"
+      },
+      {
+        "memory": "Joanna stated that her writing is currently consuming all her time and energy, preventing her from taking a vacation, and she is hoping for some good news soon regarding her work",
+        "score": 0.5590722009279496,
+        "id": "5bee6ab4-8c90-4527-ae21-305691feee57",
+        "created_at": "2026-11-03T03:02:46.189597+00:00",
+        "updated_at": "2026-11-03T03:02:46.189597+00:00"
+      }
+    ],
+    "search_latency_ms": 99.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A film contest — Joanna submitted a screenplay to a film contest on June 24, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the correct item 'film contest' from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A film contest.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item 'film contest' from the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A film contest.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item 'film contest' from the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A film contest.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item 'film contest' from the gold answer."
+    }
+  }
+}

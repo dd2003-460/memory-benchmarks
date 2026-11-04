@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q81",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where did Maria get the idea for the castle shadow box in her home?",
+  "ground_truth_answer": "England",
+  "evidence": [
+    "D8:15"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Where did Maria get the idea for the castle shadow box in her home?",
+    "search_results": [
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.7918144348046954,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023, and describes her as full of energy and a source of joy; Shadow gets along well with Maria's other dog.",
+        "score": 0.7507565406463828,
+        "id": "56c90cd6-8948-403e-aa95-27375d23873f",
+        "created_at": "2026-11-03T00:48:54.951566+00:00",
+        "updated_at": "2026-11-03T00:48:54.951566+00:00"
+      },
+      {
+        "memory": "Maria adopted a new puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings her joy, and gets along well with Maria's other dog.",
+        "score": 0.7441130312179118,
+        "id": "773194b0-1399-4a40-851b-f1a03c7eafb7",
+        "created_at": "2026-11-03T00:48:44.668018+00:00",
+        "updated_at": "2026-11-03T00:48:44.668018+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023. Shadow is full of energy and gets along well with Maria's other dog.",
+        "score": 0.7431205769494953,
+        "id": "2747eacc-4c8e-443f-bdb2-57dbacee41a2",
+        "created_at": "2026-11-03T00:48:41.841677+00:00",
+        "updated_at": "2026-11-03T00:48:41.841677+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy and gets along great with Maria's other dog, Coco.",
+        "score": 0.7429683777021172,
+        "id": "45911fab-6b6a-4ecc-8fad-efa8761de338",
+        "created_at": "2026-11-03T00:48:33.489158+00:00",
+        "updated_at": "2026-11-03T00:48:33.489158+00:00"
+      },
+      {
+        "memory": "Maria's new puppy Shadow is doing well, currently learning commands and undergoing house training as of August 13, 2023",
+        "score": 0.698798534473162,
+        "id": "cb3fadbe-87f3-4037-ac4e-d6464d91c4b6",
+        "created_at": "2026-11-03T00:48:46.799616+00:00",
+        "updated_at": "2026-11-03T00:48:46.799616+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.5338608167889662,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had to leave her previous home in a hurry due to recent difficulties, which has been stressful but is making progress.",
+        "score": 0.5042518916149379,
+        "id": "1f6bc244-6c28-46a2-8e58-bdbd43fe5fb9",
+        "created_at": "2026-11-03T00:38:21.700071+00:00",
+        "updated_at": "2026-11-03T00:38:21.700071+00:00"
+      },
+      {
+        "memory": "Maria adopted a black puppy from a shelter around August 6, 2023, describing the experience as bringing her joy and feeling blessed to give the dog a home.",
+        "score": 0.4974830223689891,
+        "id": "c8f1989f-410b-45fb-a83d-5d9d4ae27365",
+        "created_at": "2026-11-03T00:48:28.732864+00:00",
+        "updated_at": "2026-11-03T00:48:28.732864+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.4907758202041384,
+        "id": "4ba39e46-659e-4861-8718-c97aa84b4006",
+        "created_at": "2026-11-03T00:47:34.807969+00:00",
+        "updated_at": "2026-11-03T00:47:34.807969+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.21460766441946508,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.21182510927277284,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.19604213703240825,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.1924605135989539,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.18797642174689488,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "During her trip, Maria shared that she realized the importance of valuing different perspectives, the power of solitude, and letting go to trust life.",
+        "score": 0.18590220792835477,
+        "id": "e1ac1471-89b0-4141-8396-8c07f74df70b",
+        "created_at": "2026-11-03T00:29:11.470167+00:00",
+        "updated_at": "2026-11-03T00:29:11.470167+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.18545594085789824,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "Maria did not have any pets growing up, but notes that having a furry companion brightens her days.",
+        "score": 0.1853457029955065,
+        "id": "1985e380-3bb6-48c3-97ce-d0d178b31fcc",
+        "created_at": "2026-11-03T00:48:44.671695+00:00",
+        "updated_at": "2026-11-03T00:48:44.671695+00:00"
+      },
+      {
+        "memory": "Maria realized during her solo trip to Spain in 2022 that it is important to value different perspectives and the power of solitude, and that the experience reminded her of the importance of letting go and trusting life.",
+        "score": 0.18292835042874797,
+        "id": "8802ea54-3bd5-425f-bced-2ca03aff77a5",
+        "created_at": "2026-11-03T00:28:53.364596+00:00",
+        "updated_at": "2026-11-03T00:28:53.364596+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church the weekend of June 9-10, 2023, and described the experience as a blast that helped take her mind off things.",
+        "score": 0.17871932531419182,
+        "id": "df377abe-a270-4096-85ba-b0542604fef2",
+        "created_at": "2026-11-03T00:31:56.181489+00:00",
+        "updated_at": "2026-11-03T00:31:56.181489+00:00"
+      }
+    ],
+    "search_latency_ms": 37.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain information about a castle shadow box or where Maria got the idea for it.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states that the information is not available, whereas the gold answer provides the specific location 'England', meaning no correct items from the gold answer are present."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain information about a castle shadow box or where Maria got the idea for it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that the information is not available, whereas the gold answer provides the specific location 'England', meaning no correct items from the gold answer are present."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria got the idea from her solo trip to Spain in 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says Spain, which does not match the gold answer's England."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria got the idea from her solo trip to Spain in 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says Spain, which does not match the gold answer's England."
+    }
+  }
+}

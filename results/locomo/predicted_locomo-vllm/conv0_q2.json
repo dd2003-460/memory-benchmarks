@@ -1,0 +1,50 @@
+{
+  "question_id": "conv0_q2",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What fields would Caroline be likely to pursue in her educaton?",
+  "ground_truth_answer": "Psychology, counseling certification",
+  "evidence": [
+    "D1:9",
+    "D1:11"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What fields would Caroline be likely to pursue in her educaton?",
+    "search_results": [],
+    "search_latency_ms": 17.3,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+    }
+  }
+}

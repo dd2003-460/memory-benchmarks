@@ -1,0 +1,192 @@
+{
+  "question_id": "conv2_q33",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What types of yoga has Maria practiced?",
+  "ground_truth_answer": "Aerial, kundalini",
+  "evidence": [
+    "D1:3",
+    "D18:15",
+    "D19:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What types of yoga has Maria practiced?",
+    "search_results": [
+      {
+        "memory": "Maria enjoys practicing aerial yoga as a method to switch off mentally and focus on her body, valuing the freedom and connection it brings.",
+        "score": 0.698229379442022,
+        "id": "d0a44b0e-06dc-479a-a338-08970b4811c5",
+        "created_at": "2026-11-03T00:32:38.031700+00:00",
+        "updated_at": "2026-11-03T00:32:38.031700+00:00"
+      },
+      {
+        "memory": "Maria enjoys finding peaceful moments through quiet time with her favorite music and practicing aerial yoga, which she finds helps her switch off and focus on her body.",
+        "score": 0.6793356855871014,
+        "id": "d32a6268-5228-444f-8e84-ea560cb5553e",
+        "created_at": "2026-11-03T00:32:42.640579+00:00",
+        "updated_at": "2026-11-03T00:32:42.640579+00:00"
+      },
+      {
+        "memory": "Maria finds her Zen through a mix of having a moment to herself with favorite tunes and practicing aerial yoga, which she enjoys as a way to switch off and focus on her body.",
+        "score": 0.6764031022805771,
+        "id": "6f2d3569-c328-451c-a88b-ea773195029b",
+        "created_at": "2026-11-03T00:32:25.997908+00:00",
+        "updated_at": "2026-11-03T00:32:25.997908+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.6728736999607372,
+        "id": "b6e9033f-7b0a-44e1-971e-5ec6f94a8b62",
+        "created_at": "2026-11-03T00:33:10.479310+00:00",
+        "updated_at": "2026-11-03T00:33:10.479310+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.6728736999607372,
+        "id": "31eb43d2-18f7-4b81-8894-c318d9cee637",
+        "created_at": "2026-11-03T00:32:56.332798+00:00",
+        "updated_at": "2026-11-03T00:32:56.332798+00:00"
+      },
+      {
+        "memory": "Maria wants to get stronger and improve her endurance, and is currently trying kundalini yoga.",
+        "score": 0.6719880162605559,
+        "id": "7a6ca6ab-b3c8-44d7-a3bc-64de5b0d660c",
+        "created_at": "2026-11-03T00:33:31.651422+00:00",
+        "updated_at": "2026-11-03T00:33:31.651422+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.66862918098179,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga in addition to her gym routine.",
+        "score": 0.6663155957383843,
+        "id": "9ea556c1-738a-4f19-bbf9-eb914dda6a57",
+        "created_at": "2026-11-03T00:32:48.863898+00:00",
+        "updated_at": "2026-11-03T00:32:48.863898+00:00"
+      },
+      {
+        "memory": "Maria's favorite type of yoga pose is upside-down poses, as they make her feel free and light.",
+        "score": 0.6660656699833705,
+        "id": "c1d78ff3-414e-4eca-b778-b90b937c0637",
+        "created_at": "2026-11-03T00:32:42.644588+00:00",
+        "updated_at": "2026-11-03T00:32:42.644588+00:00"
+      },
+      {
+        "memory": "Maria's favorite type of yoga pose is upside-down poses because they make her feel free and light.",
+        "score": 0.6617169830626911,
+        "id": "84b0c79d-b1b5-4c30-9004-c7a98dbeaa35",
+        "created_at": "2026-11-03T00:32:38.034766+00:00",
+        "updated_at": "2026-11-03T00:32:38.034766+00:00"
+      },
+      {
+        "memory": "Maria's favorite yoga poses are the upside-down ones, which she enjoys because they make her feel free and light.",
+        "score": 0.6506736353887084,
+        "id": "a32e5d96-02c2-4977-b1ed-3ee7af6ac2bf",
+        "created_at": "2026-11-03T00:32:29.929655+00:00",
+        "updated_at": "2026-11-03T00:32:29.929655+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.6506328453202095,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.6166830052851096,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.5504564968059954,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he appreciates for keeping his workouts interesting.",
+        "score": 0.5434354837542988,
+        "id": "e64dc561-374b-4a0c-b96f-f4e561210a1b",
+        "created_at": "2026-11-03T00:43:19.545653+00:00",
+        "updated_at": "2026-11-03T00:43:19.545653+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.542526440384305,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, which he describes as having a chill vibe and awesome instructors.",
+        "score": 0.5400450123956102,
+        "id": "1f228ad6-aaf9-47b5-aa17-031274aebe3d",
+        "created_at": "2026-11-03T00:43:29.354272+00:00",
+        "updated_at": "2026-11-03T00:43:29.354272+00:00"
+      },
+      {
+        "memory": "John frequently attends a local yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, describing the vibe as chill with awesome instructors.",
+        "score": 0.5374009032413627,
+        "id": "b09c38ee-71b4-4895-b071-74b44b528ba4",
+        "created_at": "2026-11-03T00:43:35.573582+00:00",
+        "updated_at": "2026-11-03T00:43:35.573582+00:00"
+      },
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.5245974939343833,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John has integrated his weekend yoga class into his daily routine, valuing it not only for physical benefits but also for the peace of mind and mindfulness it provides.",
+        "score": 0.5157291317541997,
+        "id": "5b126329-e38e-4944-b96e-ce18a07a5a8a",
+        "created_at": "2026-11-03T00:25:08.100970+00:00",
+        "updated_at": "2026-11-03T00:25:08.100970+00:00"
+      }
+    ],
+    "search_latency_ms": 58.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Aerial yoga and kundalini yoga.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both gold answer items, aerial and kundalini yoga."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Aerial yoga and kundalini yoga.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, aerial and kundalini yoga."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Aerial yoga and kundalini yoga.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, aerial and kundalini yoga."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Aerial yoga and kundalini yoga.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, aerial and kundalini yoga."
+    }
+  }
+}

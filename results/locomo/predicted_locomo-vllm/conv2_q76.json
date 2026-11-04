@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q76",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did John decide to run for office again?",
+  "ground_truth_answer": "saw the impact he could make in the community through politics",
+  "evidence": [
+    "D7:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why did John decide to run for office again?",
+    "search_results": [
+      {
+        "memory": "John decided to run for office again in the week of April 30, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community.",
+        "score": 0.6917095469069532,
+        "id": "c3f75b03-3956-4acd-bb33-fce3105976ae",
+        "created_at": "2026-11-03T00:29:15.968626+00:00",
+        "updated_at": "2026-11-03T00:29:15.968626+00:00"
+      },
+      {
+        "memory": "John decided to run for office again around April 29, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community and feeling it was like a dream come true.",
+        "score": 0.689600431815464,
+        "id": "db8789a9-456c-4e5c-8c3a-48a6aafcca59",
+        "created_at": "2026-11-03T00:29:34.049975+00:00",
+        "updated_at": "2026-11-03T00:29:34.049975+00:00"
+      },
+      {
+        "memory": "John decided to run for office again around April 29, 2023, despite previous unsuccessful attempts, driven by his persistent dream to make a difference in his community and feeling it was like a dream come true.",
+        "score": 0.6889649264625284,
+        "id": "71c12725-537e-43c8-ba80-da5a1b7d69b5",
+        "created_at": "2026-11-03T00:29:13.740764+00:00",
+        "updated_at": "2026-11-03T00:29:13.740764+00:00"
+      },
+      {
+        "memory": "Maria expressed strong support for John's decision to run for office again, stating she is proud of him for sticking with it and encouraging him not to be afraid to take risks.",
+        "score": 0.640284090563504,
+        "id": "08f16eb1-133e-431e-93e4-8086b5322659",
+        "created_at": "2026-11-03T00:29:15.975372+00:00",
+        "updated_at": "2026-11-03T00:29:15.975372+00:00"
+      },
+      {
+        "memory": "Maria expressed strong support for John's decision to run for office, encouraging him not to be afraid to take risks and stating she is 100% behind him.",
+        "score": 0.6108624201889328,
+        "id": "2e0ea47a-3c8b-491b-a3a9-a436380ab228",
+        "created_at": "2026-11-03T00:29:34.053933+00:00",
+        "updated_at": "2026-11-03T00:29:34.053933+00:00"
+      },
+      {
+        "memory": "John was inspired by motivated people around him, which gave him renewed energy and a purpose to make a bigger difference in his community",
+        "score": 0.2035274534636417,
+        "id": "6082fbf4-e51c-4869-970d-982ad66ea696",
+        "created_at": "2026-11-03T00:27:56.119627+00:00",
+        "updated_at": "2026-11-03T00:27:56.119627+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.2027282772881517,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.2027282772881517,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.20188893705047728,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.20188893705047728,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with support from home and personal grit.",
+        "score": 0.19783266978650987,
+        "id": "dcd2448f-9b0c-4f3b-bc48-9c3558d04744",
+        "created_at": "2026-11-03T00:33:57.497007+00:00",
+        "updated_at": "2026-11-03T00:33:57.497007+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.1969681203361412,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.1969681203361412,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.1941374448954178,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.1941374448954178,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles including technical challenges, workplace issues, and self-doubt, but powered through with support from home and personal grit.",
+        "score": 0.19368919906109,
+        "id": "6824c2ac-4b0b-4bba-bbce-5d3742d22611",
+        "created_at": "2026-11-03T00:34:22.875314+00:00",
+        "updated_at": "2026-11-03T00:34:22.875314+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work after a long time coming.",
+        "score": 0.19281576255596455,
+        "id": "574b5cef-028b-4c2c-b1d6-03a6357e665c",
+        "created_at": "2026-11-03T00:33:24.936820+00:00",
+        "updated_at": "2026-11-03T00:33:24.936820+00:00"
+      },
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.19270116953658126,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John was promoted to the position of assistant manager at work, a role he views as a stepping stone for bigger things and feels has paid off after a long time of hard work.",
+        "score": 0.19251614427206107,
+        "id": "6e2fbc39-1386-4961-96fc-a754e0bdcf60",
+        "created_at": "2026-11-03T00:33:00.755854+00:00",
+        "updated_at": "2026-11-03T00:33:00.755854+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work.",
+        "score": 0.192475252459606,
+        "id": "2d2daa38-d6f2-45bd-aa62-1c956e8da4d4",
+        "created_at": "2026-11-03T00:34:22.868576+00:00",
+        "updated_at": "2026-11-03T00:34:22.868576+00:00"
+      }
+    ],
+    "search_latency_ms": 68.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John decided to run for office again because he was inspired by motivated people around him, which gave him renewed energy and a sense of purpose, and because he had a persistent dream to make a bigger difference in his community—something he felt was like a dream come true, even after previous unsuccessful attempts.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core idea that John wanted to make a bigger difference in his community, which matches the gold answer's focus on community impact."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John decided to run for office again because he had a persistent dream to make a real difference in his community, and he felt renewed energy and purpose from the motivated people around him and his own work researching political policies and writing to create positive change.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea that John wanted to make a positive impact in his community through political action."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John decided to run for office again because he had a persistent dream to make a real difference in his community, and he felt renewed energy and purpose from the motivated people around him and his own work researching political policies and writing to create positive change.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea that John wanted to make a positive impact in his community through political action."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John decided to run for office again because he had a persistent dream to make a real difference in his community, and he felt renewed energy and purpose from the motivated people around him and his own efforts to research political policies, write about his ideas, and create positive change.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core idea that John wanted to make a positive impact in his community through political action."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q14",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What nickname does Nate use for Joanna?",
+  "ground_truth_answer": "Jo",
+  "evidence": [
+    "D7:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What nickname does Nate use for Joanna?",
+    "search_results": [
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna to use for encouragement, stating that encouragement is what got him so far in his gaming career.",
+        "score": 0.6152797796461781,
+        "id": "a3f4f782-7899-47a0-9885-c8bfad47c1ea",
+        "created_at": "2026-11-03T03:20:10.713436+00:00",
+        "updated_at": "2026-11-03T03:20:10.713436+00:00"
+      },
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.5063084141180022,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.4342469102053452,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.4331917841590662,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.43101534318168594,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.41288607820101453,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "User's name is Nate and he has a friend or contact named Joanna with whom he had not spoken in a long time as of March 24, 2022",
+        "score": 0.40678498418858,
+        "id": "41fcd61a-71b0-467a-8996-097fa2437b2a",
+        "created_at": "2026-11-03T03:01:43.788400+00:00",
+        "updated_at": "2026-11-03T03:01:43.788400+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.40257596547718233,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.39827540331510375,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Joanna confirmed she is the person in the theater stage photo shared with Nate, identifying it as a moment from her acting career.",
+        "score": 0.397376493661155,
+        "id": "a2d98a7c-3095-4264-9bb5-6fb742be395c",
+        "created_at": "2026-11-03T03:04:32.965136+00:00",
+        "updated_at": "2026-11-03T03:04:32.965136+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could come over to watch him play with his turtles, specifying that she would keep a distance because of her allergies",
+        "score": 0.3905007017288312,
+        "id": "7f099c35-a380-4073-960a-2614074c2ef6",
+        "created_at": "2026-11-03T03:31:50.662431+00:00",
+        "updated_at": "2026-11-03T03:31:50.662431+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.390481354617988,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.3896982063384965,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.38458492438164243,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.38428670330335635,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.3835428923922419,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.3773780056467376,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Joanna expressed that she loves Nate's coconut milk ice cream and finds it delicious.",
+        "score": 0.3762134600671445,
+        "id": "3ff330e0-2c83-4f38-a56c-3198057b9e51",
+        "created_at": "2026-11-03T03:13:32.633641+00:00",
+        "updated_at": "2026-11-03T03:13:32.633641+00:00"
+      },
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.37620224543565256,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.37465755762563135,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      }
+    ],
+    "search_latency_ms": 62.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 10,
+      "reason": "The generated answer references the same person as the gold answer, satisfying the same-referent rule."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer references the same person as the gold answer, even though it uses the full name instead of the nickname."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer references the same person as the gold answer, satisfying the same-referent rule."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the full name 'Joanna' instead of the specific nickname 'Jo' requested in the question, failing to identify the correct item from the gold answer."
+    }
+  }
+}

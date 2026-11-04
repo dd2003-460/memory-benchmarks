@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q14",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would John be considered a patriotic person?",
+  "ground_truth_answer": "Yes",
+  "evidence": [
+    "D8:18",
+    "D8:20"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Would John be considered a patriotic person?",
+    "search_results": [
+      {
+        "memory": "John received a trophy commemorating his journey to promotion, which he views as a symbol of the obstacles and self-doubt he overcame with family support and personal grit.",
+        "score": 0.5695582127936286,
+        "id": "111c1e3a-815d-4d1d-b018-1c07d3b7e674",
+        "created_at": "2026-11-03T00:34:36.360768+00:00",
+        "updated_at": "2026-11-03T00:34:36.360768+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.547937415489922,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.547937415489922,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "John considers family the most important thing in his life, viewing them as his biggest support system who have each other's back through good times and bad.",
+        "score": 0.5343776604899837,
+        "id": "96052ff5-0fc3-45b2-b651-460af56977b4",
+        "created_at": "2026-11-03T00:28:20.117307+00:00",
+        "updated_at": "2026-11-03T00:28:20.117307+00:00"
+      },
+      {
+        "memory": "John considers family the most important thing in his life, viewing them as his biggest support system who have each other's back through good times and bad.",
+        "score": 0.5343776604899837,
+        "id": "c149a470-3b6a-4db9-9549-3029babedeb0",
+        "created_at": "2026-11-03T00:28:43.722178+00:00",
+        "updated_at": "2026-11-03T00:28:43.722178+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with support from home and personal grit.",
+        "score": 0.5333926075363775,
+        "id": "dcd2448f-9b0c-4f3b-bc48-9c3558d04744",
+        "created_at": "2026-11-03T00:33:57.497007+00:00",
+        "updated_at": "2026-11-03T00:33:57.497007+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.22500298251667683,
+        "id": "30b61ab0-fa41-4175-a947-149a18422c9c",
+        "created_at": "2026-11-03T00:39:10.030159+00:00",
+        "updated_at": "2026-11-03T00:39:10.030159+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, motivating his participation in veterans' rights activism.",
+        "score": 0.22352397302754815,
+        "id": "e413e8da-100b-4bbe-a263-5338c862250b",
+        "created_at": "2026-11-03T00:39:28.692960+00:00",
+        "updated_at": "2026-11-03T00:39:28.692960+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what he believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.22091029581740157,
+        "id": "265a9203-9c11-4cdd-b646-7eae4b46c0ff",
+        "created_at": "2026-11-03T00:39:05.955384+00:00",
+        "updated_at": "2026-11-03T00:39:05.955384+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.21708502371668265,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.2107217824262971,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.20638198132442928,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.202544793001359,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it was awesome seeing people come together to support those serving the nation.",
+        "score": 0.1996144189530736,
+        "id": "6bbf222b-e921-4aa2-8252-9a9e3cc6d08d",
+        "created_at": "2026-11-03T00:44:57.050065+00:00",
+        "updated_at": "2026-11-03T00:44:57.050065+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.19650650269190578,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.19257866578300836,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.19257866578300836,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John feels a strong bond with his current team that he has not felt since his time in the military, finding their collective effort to serve and protect the community fulfilling and meaningful",
+        "score": 0.19160981259472043,
+        "id": "4208c136-767f-4b84-a720-ec8f1f955265",
+        "created_at": "2026-11-03T00:44:38.662900+00:00",
+        "updated_at": "2026-11-03T00:44:38.662900+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.1910625641862827,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.19062333579809554,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      }
+    ],
+    "search_latency_ms": 64.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, somewhat; John would likely be considered somewhat patriotic because he shows respect for the military and supports veterans’ rights through activism.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer affirms that John would be considered patriotic, matching the gold answer's 'Yes' while adding supporting detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, John would be considered a patriotic person.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by affirming that John would be considered patriotic."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, John would be considered a patriotic person.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by affirming that John would be considered patriotic."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, John would be considered a patriotic person.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by affirming that John would be considered patriotic."
+    }
+  }
+}

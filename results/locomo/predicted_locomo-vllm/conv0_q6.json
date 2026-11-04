@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q6",
+  "conversation_idx": 0,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When is Melanie planning on going camping?",
+  "ground_truth_answer": "June 2023",
+  "evidence": [
+    "D2:7"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "When is Melanie planning on going camping?",
+    "search_results": [],
+    "search_latency_ms": 25.2,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to answer this question.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), meaning the generated answer contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to answer this question.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), so it contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to answer this question.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), so it contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "There are no relevant memories provided to answer this question.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), meaning the generated answer contains zero correct items."
+    }
+  }
+}

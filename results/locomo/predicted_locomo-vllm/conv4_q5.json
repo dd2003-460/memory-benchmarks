@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q5",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Based on Tim's collections, what is a shop that he would enjoy visiting in New York city?",
+  "ground_truth_answer": "House of MinaLima",
+  "evidence": [
+    "D2:9"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Based on Tim's collections, what is a shop that he would enjoy visiting in New York city?",
+    "search_results": [
+      {
+        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
+        "score": 0.8419993414907709,
+        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
+        "created_at": "2026-11-03T09:11:25.262586+00:00",
+        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+      },
+      {
+        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
+        "score": 0.8231176550428116,
+        "id": "54464271-2eb0-415f-bf0b-663e30178077",
+        "created_at": "2026-11-03T09:11:12.594530+00:00",
+        "updated_at": "2026-11-03T09:11:12.594530+00:00"
+      },
+      {
+        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
+        "score": 0.7957982939632324,
+        "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
+        "created_at": "2026-11-03T09:11:15.445268+00:00",
+        "updated_at": "2026-11-03T09:11:15.445268+00:00"
+      },
+      {
+        "memory": "John shared a photo of the New York City skyline from one of his trips, noting that he loves discovering new cities.",
+        "score": 0.7858782225456235,
+        "id": "b4c39f25-25cd-4693-9b64-0c7680c286f4",
+        "created_at": "2026-11-03T09:11:10.061156+00:00",
+        "updated_at": "2026-11-03T09:11:10.061156+00:00"
+      },
+      {
+        "memory": "Tim loves traveling to new places to experience a different kind of magic, which is one of the reasons he enjoys travel.",
+        "score": 0.600970099638782,
+        "id": "c2ebd929-b46d-4d38-8804-b2dcd345ecdd",
+        "created_at": "2026-11-03T09:11:05.967989+00:00",
+        "updated_at": "2026-11-03T09:11:05.967989+00:00"
+      },
+      {
+        "memory": "Tim stated that Harry Potter is his favorite book because he finds it very immersive, and shared a photo of his collection of movies and DVDs on the carpet.",
+        "score": 0.5550951027342507,
+        "id": "5ca7384b-6029-4b83-bb01-108c90f8be4f",
+        "created_at": "2026-11-03T09:36:24.605289+00:00",
+        "updated_at": "2026-11-03T09:36:24.605289+00:00"
+      },
+      {
+        "memory": "Tim recommended Edinburgh, Scotland as a destination for John's upcoming team trip, citing it as the birthplace of Harry Potter with awesome history, architecture, and a beautiful city atmosphere.",
+        "score": 0.5528217779462964,
+        "id": "3f2f1f72-e9aa-4c5c-8a67-19356a0e9f89",
+        "created_at": "2026-11-03T09:14:41.118578+00:00",
+        "updated_at": "2026-11-03T09:14:41.118578+00:00"
+      },
+      {
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
+        "score": 0.5517692994624831,
+        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
+        "created_at": "2026-11-03T09:27:35.166100+00:00",
+        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+      },
+      {
+        "memory": "Tim is staying in Galway, Ireland, and appreciates the city for its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5498231811644242,
+        "id": "9c3c5fae-4610-4339-a9a1-bc4a956286f6",
+        "created_at": "2026-11-03T09:37:42.882881+00:00",
+        "updated_at": "2026-11-03T09:37:42.882881+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.5408078278661155,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Tim loves traveling and expressed enthusiasm for the Eiffel Tower in Paris, asking John if he has been to the city.",
+        "score": 0.5403315704454443,
+        "id": "b3915565-6af7-4990-be5c-91bbd2a049f9",
+        "created_at": "2026-11-03T09:37:04.382943+00:00",
+        "updated_at": "2026-11-03T09:37:04.382943+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his collection of fantasy novels and movies on the wooden floor, describing them as companions on his growth journey in writing and reading.",
+        "score": 0.5376132109829708,
+        "id": "483fdd54-d202-4772-a0ed-31667366669e",
+        "created_at": "2026-11-03T09:27:39.698398+00:00",
+        "updated_at": "2026-11-03T09:27:39.698398+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in October 2023, which will be his first time visiting the park, and he is particularly excited about the Harry Potter attractions.",
+        "score": 0.5366752484739086,
+        "id": "4ac47a99-a30c-4dd3-a031-222a2bea001e",
+        "created_at": "2026-11-03T09:13:40.595721+00:00",
+        "updated_at": "2026-11-03T09:13:40.595721+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023, which will be his first time visiting the park. He is particularly excited about the Harry Potter attractions and looks forward to sharing how the experience goes.",
+        "score": 0.5357337678930942,
+        "id": "86c14756-7e7d-427e-a939-15558dfa26d0",
+        "created_at": "2026-11-03T09:13:26.752987+00:00",
+        "updated_at": "2026-11-03T09:13:26.752987+00:00"
+      },
+      {
+        "memory": "Tim read an awesome book about castles in the UK which blew him away, and he dreams of visiting them one day.",
+        "score": 0.5340459438556273,
+        "id": "531ac964-a2a1-4ecf-9f3d-b25c92e2ac0a",
+        "created_at": "2026-11-03T09:19:51.809297+00:00",
+        "updated_at": "2026-11-03T09:19:51.809297+00:00"
+      },
+      {
+        "memory": "Tim is excited to explore nature while in Ireland and specifically expressed interest in visiting the Cliffs of Moher.",
+        "score": 0.527775422351013,
+        "id": "9cec7e19-eb2f-4e25-be7d-6eaab774486e",
+        "created_at": "2026-11-03T09:37:25.189146+00:00",
+        "updated_at": "2026-11-03T09:37:25.189146+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
+        "score": 0.524299972404394,
+        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
+        "created_at": "2026-11-03T09:34:38.576853+00:00",
+        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
+        "score": 0.5153736816944975,
+        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
+        "created_at": "2026-11-03T09:35:54.494219+00:00",
+        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+      },
+      {
+        "memory": "John recommended Barcelona as a must-visit destination for Tim, highlighting its culture, architecture, food in each neighborhood, and nearby beaches for sunbathing.",
+        "score": 0.5025196146297601,
+        "id": "603e136f-46ba-4216-a132-379858e1bda6",
+        "created_at": "2026-11-03T09:38:36.420056+00:00",
+        "updated_at": "2026-11-03T09:38:36.420056+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.5022518682689621,
+        "id": "b5124faa-db7c-4acd-a8ea-3851b5d27b5c",
+        "created_at": "2026-11-03T09:34:53.923371+00:00",
+        "updated_at": "2026-11-03T09:34:53.923371+00:00"
+      }
+    ],
+    "search_latency_ms": 121.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

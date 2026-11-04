@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q149",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is John currently doing as a volunteer in August 2023?",
+  "ground_truth_answer": "mentoring students at a local school",
+  "evidence": [
+    "D31:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What is John currently doing as a volunteer in August 2023?",
+    "search_results": [
+      {
+        "memory": "John volunteered at a career fair at a local school around April 1-2, 2023, finding the experience rewarding and impactful as it highlighted how lack of resources affects students' dreams.",
+        "score": 0.6626623459961097,
+        "id": "08e0d5b1-76f8-44ce-b676-d5c4eac5acb4",
+        "created_at": "2026-11-03T00:25:16.637673+00:00",
+        "updated_at": "2026-11-03T00:25:16.637673+00:00"
+      },
+      {
+        "memory": "John participated in a community fundraising event on the weekend of August 5-6, 2023, which had a great turnout and was surrounded by supportive people.",
+        "score": 0.611460346768485,
+        "id": "48241daf-b28c-4939-af23-425ae644c394",
+        "created_at": "2026-11-03T00:46:31.875034+00:00",
+        "updated_at": "2026-11-03T00:46:31.875034+00:00"
+      },
+      {
+        "memory": "As of August 2023, John is going through some tough times lately and uses photography to help him take a step back and appreciate the little things in life",
+        "score": 0.6101511077696053,
+        "id": "f22b074b-3207-4a6f-a739-37e89f33cdb7",
+        "created_at": "2026-11-03T00:47:56.106663+00:00",
+        "updated_at": "2026-11-03T00:47:56.106663+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, expressing excitement about helping his community.",
+        "score": 0.601763422395681,
+        "id": "26f68b32-8daa-440f-a7c3-ae60ef55ed54",
+        "created_at": "2026-11-03T00:49:26.785358+00:00",
+        "updated_at": "2026-11-03T00:49:26.785358+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and finds the experience fulfilling and meaningful for giving back to his community.",
+        "score": 0.6010940533085357,
+        "id": "21057a03-3e39-4baf-88db-3d6df2c3e864",
+        "created_at": "2026-11-03T00:44:15.969929+00:00",
+        "updated_at": "2026-11-03T00:44:15.969929+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around August 16, 2023, expressing excitement about being involved and helping out his community.",
+        "score": 0.6002562179157215,
+        "id": "17b2a8a4-b8d6-48d7-8bd3-30c4efc33126",
+        "created_at": "2026-11-03T00:49:34.888744+00:00",
+        "updated_at": "2026-11-03T00:49:34.888744+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.5867654760943198,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on August 6, 2023, to raise awareness and funds for veterans and their families, working with a local organization that helps victims of domestic abuse.",
+        "score": 0.5866939526493626,
+        "id": "d47e3066-a2dd-44ed-88bb-0d8fe5aa89e7",
+        "created_at": "2026-11-03T00:46:57.594478+00:00",
+        "updated_at": "2026-11-03T00:46:57.594478+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.5859056661393862,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.585603874742137,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.5840912546210469,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, and feels it is his true calling because it gives him a sense of purpose and passion for helping his community.",
+        "score": 0.580590737005661,
+        "id": "833ecd8a-c6d2-4325-bef0-37a0dfd19a73",
+        "created_at": "2026-11-03T00:49:48.406646+00:00",
+        "updated_at": "2026-11-03T00:49:48.406646+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood around August 6, 2023, to raise funds for veterans and their families, which featured a great turnout of supportive people.",
+        "score": 0.5798072926148095,
+        "id": "b3c8ffbf-9c55-43e3-ada3-438ac802bdfe",
+        "created_at": "2026-11-03T00:47:03.613670+00:00",
+        "updated_at": "2026-11-03T00:47:03.613670+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.5795309616251155,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.5752249276350572,
+        "id": "53e4cccb-e4af-48e2-92d7-f2676fe382ef",
+        "created_at": "2026-11-03T00:46:44.142482+00:00",
+        "updated_at": "2026-11-03T00:46:44.142482+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.5752249276350572,
+        "id": "1e5c2f69-cc19-46d4-a437-73bbbff59687",
+        "created_at": "2026-11-03T00:46:52.205259+00:00",
+        "updated_at": "2026-11-03T00:46:52.205259+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that the event had a great turnout and was supported by many people.",
+        "score": 0.5740282759682045,
+        "id": "c7220246-c1f6-443b-8c3e-e20243849b50",
+        "created_at": "2026-11-03T00:46:36.104430+00:00",
+        "updated_at": "2026-11-03T00:46:36.104430+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that it required significant effort to secure sponsors and coordinate with the city.",
+        "score": 0.5722229504020198,
+        "id": "10dac2f7-8be9-4c75-84d9-8c5921bcb6ba",
+        "created_at": "2026-11-03T00:47:01.153836+00:00",
+        "updated_at": "2026-11-03T00:47:01.153836+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times. He shared a photo of his family posing in the park on August 13, 2023.",
+        "score": 0.5694082132839082,
+        "id": "df3421f7-76f4-4d86-b98f-5b5c6c4d7b00",
+        "created_at": "2026-11-03T00:49:21.202861+00:00",
+        "updated_at": "2026-11-03T00:49:21.202861+00:00"
+      },
+      {
+        "memory": "John participated in a community donation drive for the local fire station around August 16, 2023, where the group collected canned food, toiletries, and clothes over two hours of work.",
+        "score": 0.5689705739113585,
+        "id": "9895e042-4485-4771-a0a3-7dfffcc2a98a",
+        "created_at": "2026-11-03T00:49:52.687612+00:00",
+        "updated_at": "2026-11-03T00:49:52.687612+00:00"
+      }
+    ],
+    "search_latency_ms": 69.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is currently **mentoring students** in a mentoring program, **volunteering with a fire-fighting brigade** (which he joined around August 16, 2023), and **advocating for a virtual support group for the military**. He also recently **organized a 5K charity run** and **participated in a community fundraising event** in early August.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'mentoring students', which matches the core activity in the gold answer, satisfying the partial credit rule."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John is volunteering with a fire-fighting brigade, helping his community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes volunteering with a fire-fighting brigade, which does not match the gold answer's mentoring students at a local school."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John is volunteering with a fire-fighting brigade, helping his community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes volunteering with a fire-fighting brigade, which does not match the gold answer's mentoring students at a local school."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John is volunteering with a fire-fighting brigade, helping his community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes volunteering with a fire-fighting brigade, which does not match the gold answer's mentoring students at a local school."
+    }
+  }
+}

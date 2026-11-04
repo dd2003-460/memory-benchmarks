@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q65",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is John's main focus in local politics?",
+  "ground_truth_answer": "Improving education and infrastructure",
+  "evidence": [
+    "D1:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What is John's main focus in local politics?",
+    "search_results": [
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.7895089746995028,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.7687918298109153,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John has been blogging about politics and the government since their last conversation, finding the experience satisfying and driven by a desire to make a real impact on issues like education and infrastructure.",
+        "score": 0.6282738673129693,
+        "id": "a5253421-11a5-4753-b2c5-a720cefcb00a",
+        "created_at": "2026-11-03T00:27:00.171005+00:00",
+        "updated_at": "2026-11-03T00:27:00.171005+00:00"
+      },
+      {
+        "memory": "John is currently focusing his political blogging on education reform and infrastructure development, believing that good access to quality education and updated infrastructure are key to a thriving community.",
+        "score": 0.6076656192483826,
+        "id": "96f1bfee-baf6-4439-a40d-c5d61813f1cd",
+        "created_at": "2026-11-03T00:27:11.431386+00:00",
+        "updated_at": "2026-11-03T00:27:11.431386+00:00"
+      },
+      {
+        "memory": "John is exploring options to channel his passion into something meaningful, specifically considering joining local organizations or volunteering programs.",
+        "score": 0.6015500173353444,
+        "id": "300e489a-ccc3-4146-af52-3f5940594ec8",
+        "created_at": "2026-11-03T00:48:11.001080+00:00",
+        "updated_at": "2026-11-03T00:48:11.001080+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.5992856929424268,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John's participation in community meetings and local involvement has deepened his understanding of the specific challenges facing education and infrastructure systems, highlighting the direct impact these issues have on neighbors and reinforcing his belief in the need for collaborative solutions.",
+        "score": 0.5948766058074169,
+        "id": "76b68640-b874-4209-882c-fe4b9af390e5",
+        "created_at": "2026-11-03T00:24:15.562361+00:00",
+        "updated_at": "2026-11-03T00:24:15.562361+00:00"
+      },
+      {
+        "memory": "John plans to join local organizations or volunteering programs to channel his energy into something meaningful and make a difference in his community.",
+        "score": 0.594830946450079,
+        "id": "cf78e815-25db-4611-9e76-7d46dc8f96a9",
+        "created_at": "2026-11-03T00:48:17.458717+00:00",
+        "updated_at": "2026-11-03T00:48:17.458717+00:00"
+      },
+      {
+        "memory": "John plans to join local organizations or volunteering programs to channel his passion into meaningful work and make a positive difference in the world.",
+        "score": 0.5928205629703595,
+        "id": "948b76c8-94c0-40e9-be9d-08e14bc0a3c4",
+        "created_at": "2026-11-03T00:48:14.923038+00:00",
+        "updated_at": "2026-11-03T00:48:14.923038+00:00"
+      },
+      {
+        "memory": "John has received positive feedback on his political blog posts, which he views as a small but meaningful step toward making an impact on community issues like education and infrastructure.",
+        "score": 0.583779149934913,
+        "id": "4d88bc6e-ad4e-4dc0-865f-83743bac7ffa",
+        "created_at": "2026-11-03T00:27:18.417988+00:00",
+        "updated_at": "2026-11-03T00:27:18.417988+00:00"
+      },
+      {
+        "memory": "John focuses on education reform and infrastructure development as key policies for a thriving community, aiming to get conversations going and involve people by sharing ideas and taking action.",
+        "score": 0.583006250093492,
+        "id": "315d5eda-7399-4d8d-ab55-60b1bc44b750",
+        "created_at": "2026-11-03T00:27:34.292068+00:00",
+        "updated_at": "2026-11-03T00:27:34.292068+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with local residents to discuss solutions for the recent flood damage and invited Maria to join and contribute her thoughts.",
+        "score": 0.5793504713059479,
+        "id": "0907493e-d12a-4d8e-977b-5054c9c65f4c",
+        "created_at": "2026-11-03T00:41:23.245628+00:00",
+        "updated_at": "2026-11-03T00:41:23.245628+00:00"
+      },
+      {
+        "memory": "John intends to create a list of local organizations and volunteering programs that align with his beliefs and reach out to them for more information.",
+        "score": 0.5702936540518807,
+        "id": "f4cdde9f-eabf-4ae9-9e07-ad6b0a72c80b",
+        "created_at": "2026-11-03T00:48:14.927507+00:00",
+        "updated_at": "2026-11-03T00:48:14.927507+00:00"
+      },
+      {
+        "memory": "John intends to create a list of local organizations and volunteering programs that align with his beliefs and reach out to them for more information.",
+        "score": 0.5702936540518807,
+        "id": "40b1e410-df52-41a9-bdcf-01d4380140bc",
+        "created_at": "2026-11-03T00:48:17.462138+00:00",
+        "updated_at": "2026-11-03T00:48:17.462138+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.5638051106568318,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John feels stuck in his activism work despite wanting to positively affect people and the world, and is seeking a better way to focus his passion and enthusiasm.",
+        "score": 0.5599795073700076,
+        "id": "59823800-2341-436e-9fcf-ae5a05d311d6",
+        "created_at": "2026-11-03T00:48:05.336643+00:00",
+        "updated_at": "2026-11-03T00:48:05.336643+00:00"
+      },
+      {
+        "memory": "John is working on a community project focused on infrastructure to gain neighborhood backing, and he specifically wants to improve his old area, West County.",
+        "score": 0.5562087354888068,
+        "id": "b2daa2a3-5c1c-49d6-a5ae-602efcf552f2",
+        "created_at": "2026-11-03T00:30:09.657421+00:00",
+        "updated_at": "2026-11-03T00:30:09.657421+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.5533763081997637,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help students, having started this role after previously exploring ways to channel his passion into meaningful community impact.",
+        "score": 0.5470994898029936,
+        "id": "016a3ca5-8250-4719-bddd-2abb5a3953e5",
+        "created_at": "2026-11-03T00:48:28.726808+00:00",
+        "updated_at": "2026-11-03T00:48:28.726808+00:00"
+      },
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.5446985456089639,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      }
+    ],
+    "search_latency_ms": 70.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s main focus in local politics is education reform and infrastructure development, especially improving access to quality education and updating community infrastructure.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both education and infrastructure, matching the gold answer's core focus."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s main focus in local politics is education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by identifying education reform and infrastructure development as John's main focus."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s main focus in local politics is education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by identifying education reform and infrastructure development as John's main focus."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s main focus in local politics is education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by identifying education reform and infrastructure development as John's main focus."
+    }
+  }
+}

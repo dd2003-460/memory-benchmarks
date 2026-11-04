@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q46",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Maria go hiking with her church friends?",
+  "ground_truth_answer": "The weekend before 22 July 2023",
+  "evidence": [
+    "D25:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did Maria go hiking with her church friends?",
+    "search_results": [
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, finding the experience refreshing and enjoyable due to being surrounded by supportive people in nature.",
+        "score": 0.930671501780548,
+        "id": "59f9b246-c649-42c6-8c64-56ab8703d635",
+        "created_at": "2026-11-03T00:42:48.353229+00:00",
+        "updated_at": "2026-11-03T00:42:48.353229+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, which she found refreshing due to the supportive people and nature.",
+        "score": 0.929844718268423,
+        "id": "5d9630cd-73b2-4cb6-96b5-5f649fb5ffe0",
+        "created_at": "2026-11-03T00:42:55.730971+00:00",
+        "updated_at": "2026-11-03T00:42:55.730971+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends the weekend of July 15-16, 2023, finding the experience refreshing and uplifting due to the supportive company and nature.",
+        "score": 0.9283645012224906,
+        "id": "86a84c0f-71c5-47b8-acd3-d7a5b427dd73",
+        "created_at": "2026-11-03T00:43:13.176185+00:00",
+        "updated_at": "2026-11-03T00:43:13.176185+00:00"
+      },
+      {
+        "memory": "Maria found the view from the top of the mountain during her hike with church friends on July 15-16, 2023, to be breathtaking and felt a sense of peace and connection to something special while taking in the scenery.",
+        "score": 0.8932876860759403,
+        "id": "b0e57f39-9fd8-463a-b5d9-71aec73f8faf",
+        "created_at": "2026-11-03T00:43:00.236396+00:00",
+        "updated_at": "2026-11-03T00:43:00.236396+00:00"
+      },
+      {
+        "memory": "Maria was inspired to go on the hike with her church friends by a desire to make connections, laugh together, and take in nature's beauty.",
+        "score": 0.884794397493384,
+        "id": "1b36821b-2d18-4e2f-b3b1-5de0ef5b5861",
+        "created_at": "2026-11-03T00:42:55.735648+00:00",
+        "updated_at": "2026-11-03T00:42:55.735648+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, to feel closer to her community and faith, finding the experience really great so far.",
+        "score": 0.7434221799166637,
+        "id": "61248418-c168-473d-aebf-562858266eff",
+        "created_at": "2026-11-03T00:29:31.325441+00:00",
+        "updated_at": "2026-11-03T00:29:31.325441+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience to be really great so far.",
+        "score": 0.7415447715164742,
+        "id": "a40f9e03-20bb-4693-9c2f-e2a2617ed824",
+        "created_at": "2026-11-03T00:29:40.949781+00:00",
+        "updated_at": "2026-11-03T00:29:40.949781+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience so far to be really great.",
+        "score": 0.7412263167068687,
+        "id": "9baa5723-50c8-4508-aee6-21a2eafbc8f7",
+        "created_at": "2026-11-03T00:29:49.971153+00:00",
+        "updated_at": "2026-11-03T00:29:49.971153+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church around May 5, 2023, seeking to feel closer to her community and faith, and described the experience as really great so far.",
+        "score": 0.7368311110687855,
+        "id": "34220fc0-de91-477b-a779-90d1f7098df3",
+        "created_at": "2026-11-03T00:29:36.412731+00:00",
+        "updated_at": "2026-11-03T00:29:36.412731+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from church the weekend of June 9-10, 2023, describing it as a blast that helped take her mind off things.",
+        "score": 0.6964207440931511,
+        "id": "15839955-9dfe-401a-a656-a73e536a05cf",
+        "created_at": "2026-11-03T00:32:13.534830+00:00",
+        "updated_at": "2026-11-03T00:32:13.534830+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church the weekend of June 9-10, 2023, and described the experience as a blast that helped take her mind off things.",
+        "score": 0.6899951762959714,
+        "id": "df377abe-a270-4096-85ba-b0542604fef2",
+        "created_at": "2026-11-03T00:31:56.181489+00:00",
+        "updated_at": "2026-11-03T00:31:56.181489+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they relaxed under trees, played games, and ate food together.",
+        "score": 0.656888686577498,
+        "id": "881a97a5-e3cb-42be-a6cf-f376c23b8173",
+        "created_at": "2026-11-03T00:42:01.937767+00:00",
+        "updated_at": "2026-11-03T00:42:01.937767+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 15-16, 2023, where they relaxed under trees, played games, and ate food.",
+        "score": 0.6555279811713891,
+        "id": "d5dfcc70-c2b3-4462-bc0d-a363804dc8d2",
+        "created_at": "2026-11-03T00:41:59.464574+00:00",
+        "updated_at": "2026-11-03T00:41:59.464574+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6519774809655842,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6519774809655842,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6519774809655842,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6519774809655842,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.6518346937093629,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.6517062392775322,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.6517062392775322,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      }
+    ],
+    "search_latency_ms": 84.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \n- Relevant: Maria went hiking with church friends on the weekend of July 21–22, 2023.  \n- Relevant: Maria went hiking with church friends on the weekend of July 15–16, 2023.  \n- Relevant: Maria was inspired to go on a hike with church friends, but no new date is given.  \n- Not relevant to the hiking date: joining church and camping.\n\nStep 2: ENTITY VERIFICATION  \nAll relevant memories are about Maria and her church friends, so they match the question.\n\nStep 3: COMBINE AND CROSS-REFERENCE  \nThere are two distinct hiking events with church friends:\n1. July 15–16, 2023  \n2. July 21–22, 2023  \n\nStep 4: SELECT THE BEST ANSWER  \nBoth memories directly state that Maria went hiking with her church friends on those weekends. The question does not ask for only the most recent hike, so both dates should be included.\n\nStep 5: TEMPORAL GROUNDING  \nBoth dates are before the reference date of August 16, 2023. July 21–22, 2023 is the more recent hike, while July 15–16, 2023 is the earlier one.\n\nStep 6: IN",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the weekend of July 21–22, 2023, which matches the gold answer's weekend before 22 July 2023 within the allowed date tolerance."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria went hiking with her church friends on the weekend of July 21–22, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer places the hike on July 21–22, 2023, which is within 14 days of the gold answer's weekend before July 22, 2023."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria went hiking with her church friends on the weekend of July 21–22, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer places the hike on July 21–22, 2023, which is within 14 days of the gold answer's weekend before July 22, 2023."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria went hiking with her church friends on the weekend of July 21–22, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer places the hike on July 21–22, 2023, which is within 14 days of the gold answer's weekend before July 22, 2023."
+    }
+  }
+}

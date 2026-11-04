@@ -1,0 +1,93 @@
+{
+  "question_id": "conv1_q76",
+  "conversation_idx": 1,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is the general sentiment about the upcoming grand opening?",
+  "ground_truth_answer": "excitement",
+  "evidence": [
+    "D15:18",
+    "D15:19"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "What is the general sentiment about the upcoming grand opening?",
+    "search_results": [
+      {
+        "memory": "Jon is excited for his dance studio to start welcoming dancers of all ages and backgrounds, viewing this inclusivity as a key goal for the business.",
+        "score": 0.208804413338537,
+        "id": "eb6c2d0e-0237-4155-9f9c-5dbc35d615c2",
+        "created_at": "2026-11-02T19:37:09.287321+00:00",
+        "updated_at": "2026-11-02T19:37:09.287321+00:00"
+      },
+      {
+        "memory": "Jon attended a networking event around July 21, 2023, where he met investors and received good advice, finding the energy motivating for pursuing his goals",
+        "score": 0.19564693800473557,
+        "id": "1387ec2a-8eb4-48a9-a06e-25197e818133",
+        "created_at": "2026-11-02T19:36:29.582734+00:00",
+        "updated_at": "2026-11-02T19:36:29.582734+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.17471630591162796,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.16496762151828107,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.12668583915334936,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Jon is seeking marketing strategy advice to reach his target audience and raise awareness for his dance studio, following a networking event where he met investors.",
+        "score": 0.10359877244061531,
+        "id": "6a6a391d-aabf-4e61-9213-6f19c892284d",
+        "created_at": "2026-11-02T19:36:38.950118+00:00",
+        "updated_at": "2026-11-02T19:36:38.950118+00:00"
+      }
+    ],
+    "search_latency_ms": 45.5,
+    "total_results": 6
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The general sentiment is positive and excited, with strong optimism and support for the grand opening, though Jon is also feeling some stress from the hard work and preparation.",
+      "memories_evaluated": 6,
+      "reason": "The generated answer includes 'excited' and positive sentiment, matching the gold answer's 'excitement'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The general sentiment is positive and excited, with strong optimism and support for the grand opening, though Jon is also feeling some stress from the hard work and preparation.",
+      "memories_evaluated": 6,
+      "reason": "The generated answer includes 'excited' and positive sentiment, matching the gold answer's 'excitement'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The general sentiment is positive and excited, with strong optimism and support for the grand opening, though Jon is also feeling some stress from the hard work and preparation.",
+      "memories_evaluated": 6,
+      "reason": "The generated answer includes 'excited' and positive sentiment, matching the gold answer's 'excitement'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The general sentiment is positive and excited, with strong optimism and support for the grand opening, though Jon is also feeling some stress from the hard work and preparation.",
+      "memories_evaluated": 6,
+      "reason": "The generated answer includes 'excited' and positive sentiment, matching the gold answer's 'excitement'."
+    }
+  }
+}

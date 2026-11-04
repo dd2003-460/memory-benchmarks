@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q111",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What yoga activity has Maria been trying to improve her strength and endurance?",
+  "ground_truth_answer": "kundalini yoga",
+  "evidence": [
+    "D19:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What yoga activity has Maria been trying to improve her strength and endurance?",
+    "search_results": [
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.8794953836519215,
+        "id": "b6e9033f-7b0a-44e1-971e-5ec6f94a8b62",
+        "created_at": "2026-11-03T00:33:10.479310+00:00",
+        "updated_at": "2026-11-03T00:33:10.479310+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.8794953836519215,
+        "id": "31eb43d2-18f7-4b81-8894-c318d9cee637",
+        "created_at": "2026-11-03T00:32:56.332798+00:00",
+        "updated_at": "2026-11-03T00:32:56.332798+00:00"
+      },
+      {
+        "memory": "Maria wants to get stronger and improve her endurance, and is currently trying kundalini yoga.",
+        "score": 0.8769904105946352,
+        "id": "7a6ca6ab-b3c8-44d7-a3bc-64de5b0d660c",
+        "created_at": "2026-11-03T00:33:31.651422+00:00",
+        "updated_at": "2026-11-03T00:33:31.651422+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga in addition to her gym routine.",
+        "score": 0.8701914061473218,
+        "id": "9ea556c1-738a-4f19-bbf9-eb914dda6a57",
+        "created_at": "2026-11-03T00:32:48.863898+00:00",
+        "updated_at": "2026-11-03T00:32:48.863898+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.8556475078560647,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.8424966796736936,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.7719521995405422,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "Maria enjoys practicing aerial yoga as a method to switch off mentally and focus on her body, valuing the freedom and connection it brings.",
+        "score": 0.7563469687015388,
+        "id": "d0a44b0e-06dc-479a-a338-08970b4811c5",
+        "created_at": "2026-11-03T00:32:38.031700+00:00",
+        "updated_at": "2026-11-03T00:32:38.031700+00:00"
+      },
+      {
+        "memory": "Maria enjoys finding peaceful moments through quiet time with her favorite music and practicing aerial yoga, which she finds helps her switch off and focus on her body.",
+        "score": 0.7485583499330399,
+        "id": "d32a6268-5228-444f-8e84-ea560cb5553e",
+        "created_at": "2026-11-03T00:32:42.640579+00:00",
+        "updated_at": "2026-11-03T00:32:42.640579+00:00"
+      },
+      {
+        "memory": "Maria finds her Zen through a mix of having a moment to herself with favorite tunes and practicing aerial yoga, which she enjoys as a way to switch off and focus on her body.",
+        "score": 0.7301215820577742,
+        "id": "6f2d3569-c328-451c-a88b-ea773195029b",
+        "created_at": "2026-11-03T00:32:25.997908+00:00",
+        "updated_at": "2026-11-03T00:32:25.997908+00:00"
+      },
+      {
+        "memory": "Maria's favorite type of yoga pose is upside-down poses, as they make her feel free and light.",
+        "score": 0.7083259057789988,
+        "id": "c1d78ff3-414e-4eca-b778-b90b937c0637",
+        "created_at": "2026-11-03T00:32:42.644588+00:00",
+        "updated_at": "2026-11-03T00:32:42.644588+00:00"
+      },
+      {
+        "memory": "Maria's favorite type of yoga pose is upside-down poses because they make her feel free and light.",
+        "score": 0.7042708889953413,
+        "id": "84b0c79d-b1b5-4c30-9004-c7a98dbeaa35",
+        "created_at": "2026-11-03T00:32:38.034766+00:00",
+        "updated_at": "2026-11-03T00:32:38.034766+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving her endurance.",
+        "score": 0.6826123681633256,
+        "id": "d8291517-f991-4aaf-944b-6a1220d6bbcc",
+        "created_at": "2026-11-03T00:32:53.460368+00:00",
+        "updated_at": "2026-11-03T00:32:53.460368+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.6684683115532132,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.6130596686630498,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "Maria has a small family that she relies on for strength during tough times, viewing them as an essential support system for staying motivated and reaching her goals.",
+        "score": 0.6008420077537174,
+        "id": "881a4322-e847-46bc-a920-dce58dc6896c",
+        "created_at": "2026-11-03T00:28:16.020980+00:00",
+        "updated_at": "2026-11-03T00:28:16.020980+00:00"
+      },
+      {
+        "memory": "John is currently trying out different workout regimes and is interested in rock climbing as a way to push his limits, asking Maria if she has ever tried it.",
+        "score": 0.5944629515307746,
+        "id": "7b1405df-655a-46ad-98b6-0d57d2eeea2c",
+        "created_at": "2026-11-03T00:32:51.013847+00:00",
+        "updated_at": "2026-11-03T00:32:51.013847+00:00"
+      },
+      {
+        "memory": "Maria went on a vacation where she tried surfing for the first time, finding it exciting despite falling off repeatedly, and learned about the power of not giving up and trying new things.",
+        "score": 0.5739604911815129,
+        "id": "e5ae2e27-1674-4732-bf29-b2309a6ace97",
+        "created_at": "2026-11-03T00:29:11.467110+00:00",
+        "updated_at": "2026-11-03T00:29:11.467110+00:00"
+      },
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.5682826098801389,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "Maria learned the importance of self-care the hard way in 2022, stating that taking care of oneself helps build strength for life's tough times.",
+        "score": 0.5638999601123913,
+        "id": "57a86168-f306-47ea-87ad-db6447e334e6",
+        "created_at": "2026-11-03T00:28:43.739818+00:00",
+        "updated_at": "2026-11-03T00:28:43.739818+00:00"
+      }
+    ],
+    "search_latency_ms": 107.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

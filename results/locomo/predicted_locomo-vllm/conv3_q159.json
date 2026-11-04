@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q159",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What two main ingredients are part of the dessert Joanna shared a photo of with blueberries, coconut milk, and a gluten-free crust?",
+  "ground_truth_answer": "blueberries and coconut milk",
+  "evidence": [
+    "D21:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What two main ingredients are part of the dessert Joanna shared a photo of with blueberries, coconut milk, and a gluten-free crust?",
+    "search_results": [
+      {
+        "memory": "Joanna shares a recipe for dairy-free blueberry cheesecake bars featuring blueberries, coconut milk, and a gluten-free crust, describing them as creamy and delicious.",
+        "score": 0.8768608515754044,
+        "id": "ff78544d-e75d-4079-a4f9-fab74ae248b2",
+        "created_at": "2026-11-03T03:18:33.393477+00:00",
+        "updated_at": "2026-11-03T03:18:33.393477+00:00"
+      },
+      {
+        "memory": "Joanna enjoys making a creamy dairy-free blueberry cheesecake bar recipe that includes blueberries, coconut milk, and a gluten-free crust.",
+        "score": 0.8695878212072523,
+        "id": "8e2b2f40-1e74-4d8c-a243-272ab059266c",
+        "created_at": "2026-11-03T03:18:37.395666+00:00",
+        "updated_at": "2026-11-03T03:18:37.395666+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and bakes dairy-free desserts using alternatives like coconut or almond milk, experimenting with flavors such as chocolate, raspberry, and coconut.",
+        "score": 0.816334777828329,
+        "id": "a171a859-e77e-4acc-ac00-54ff57d564fa",
+        "created_at": "2026-11-03T03:16:58.584579+00:00",
+        "updated_at": "2026-11-03T03:16:58.584579+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and uses dairy-free alternatives like coconut or almond milk in her baking, creating desserts such as cookies, pies, cakes, and chocolate coconut cupcakes with raspberry frosting that are accessible to various diets.",
+        "score": 0.8147814893581986,
+        "id": "b1be2635-c56c-4949-8895-de15e05a4bdc",
+        "created_at": "2026-11-03T03:16:08.948018+00:00",
+        "updated_at": "2026-11-03T03:16:08.948018+00:00"
+      },
+      {
+        "memory": "Joanna is experimenting with chocolate, raspberry, and coconut flavors in her dairy-free dessert recipes, finding the process enjoyable.",
+        "score": 0.7948108129045333,
+        "id": "87354262-cc14-49e7-a6b9-2fc5dabfb759",
+        "created_at": "2026-11-03T03:15:48.943544+00:00",
+        "updated_at": "2026-11-03T03:15:48.943544+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, which she considers her favorite for birthdays and special days.",
+        "score": 0.7768677895216759,
+        "id": "cc514326-e177-496a-9ef6-45763eb741aa",
+        "created_at": "2026-11-03T03:18:37.391895+00:00",
+        "updated_at": "2026-11-03T03:18:37.391895+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.7757256954345108,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna makes her favorite dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and fresh raspberries, and considers it her go-to dessert for birthdays and special occasions.",
+        "score": 0.7733829749551109,
+        "id": "47f6d4eb-8749-4e2d-a002-195a82038ea2",
+        "created_at": "2026-11-03T03:18:21.698003+00:00",
+        "updated_at": "2026-11-03T03:18:21.698003+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, describing it as moist and delicious with perfect sweetness, and considers it her favorite for birthdays and special days.",
+        "score": 0.7720173482854124,
+        "id": "5cd4a18d-a561-4c7e-ae4a-36cf30f6fc53",
+        "created_at": "2026-11-03T03:18:25.102538+00:00",
+        "updated_at": "2026-11-03T03:18:25.102538+00:00"
+      },
+      {
+        "memory": "Joanna made a delicious dessert using almond milk on September 9, 2022, and emphasized that dairy-free options are a must for her, particularly for desserts.",
+        "score": 0.7482542714896588,
+        "id": "8c4be8ba-ec2c-4fd4-b7e5-3772ed16ead1",
+        "created_at": "2026-11-03T03:17:57.645040+00:00",
+        "updated_at": "2026-11-03T03:17:57.645040+00:00"
+      },
+      {
+        "memory": "Nate's dairy-free coconut milk ice cream recipe consists of coconut milk, vanilla extract, sugar, and a pinch of salt, which he chills in the fridge before freezing in an ice cream maker until scoopable",
+        "score": 0.7462390953134797,
+        "id": "4076c960-97f7-4df2-8c82-5aee7e18c488",
+        "created_at": "2026-11-03T03:04:03.565670+00:00",
+        "updated_at": "2026-11-03T03:04:03.565670+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.7459109459835784,
+        "id": "03b82469-2282-49e2-8ccd-bb3ed742d428",
+        "created_at": "2026-11-03T03:18:25.097056+00:00",
+        "updated_at": "2026-11-03T03:18:25.097056+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.7459109459835784,
+        "id": "60a889ad-b306-4d47-9ae5-e432f910626f",
+        "created_at": "2026-11-03T03:18:37.387015+00:00",
+        "updated_at": "2026-11-03T03:18:37.387015+00:00"
+      },
+      {
+        "memory": "Joanna makes dairy-free desserts, specifically a vanilla cake with strawberry filling and coconut cream frosting, and credits Nate's previous recommendation for using coconut in her baking.",
+        "score": 0.7423865733248991,
+        "id": "cbf202cb-5b51-4700-8d72-3dcd652724a0",
+        "created_at": "2026-11-03T03:06:02.492220+00:00",
+        "updated_at": "2026-11-03T03:06:02.492220+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free treat is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.7396356217824529,
+        "id": "a2d92a57-38d9-4322-9908-f1c4c281d6cd",
+        "created_at": "2026-11-03T03:18:04.046077+00:00",
+        "updated_at": "2026-11-03T03:18:04.046077+00:00"
+      },
+      {
+        "memory": "Joanna made a dessert with almond milk on September 9, 2022 (the Friday before the conversation), which she described as delicious.",
+        "score": 0.7360293554038564,
+        "id": "12321783-bb23-49dd-9c5b-502f96626cf5",
+        "created_at": "2026-11-03T03:18:25.106131+00:00",
+        "updated_at": "2026-11-03T03:18:25.106131+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna use dairy-free margarine or coconut oil instead of butter for her baking and advised checking labels to ensure ingredients are dairy-free.",
+        "score": 0.7353730737664971,
+        "id": "380d7bd2-c6ab-4d0a-8c30-20f71741f40d",
+        "created_at": "2026-11-03T03:16:52.322647+00:00",
+        "updated_at": "2026-11-03T03:16:52.322647+00:00"
+      },
+      {
+        "memory": "Joanna made dairy-free chocolate coconut cupcakes with raspberry frosting and shared a photo of them on September 5, 2022.",
+        "score": 0.7337128782533553,
+        "id": "6a67aa11-5884-4030-93ab-97889af73b57",
+        "created_at": "2026-11-03T03:16:58.586872+00:00",
+        "updated_at": "2026-11-03T03:16:58.586872+00:00"
+      },
+      {
+        "memory": "Joanna is working on a screenplay and has been testing dairy-free dessert recipes for friends and family, recently making a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+        "score": 0.7296035849748053,
+        "id": "161a6a6f-d580-458c-805f-c19dd31dd970",
+        "created_at": "2026-11-03T03:05:51.311774+00:00",
+        "updated_at": "2026-11-03T03:05:51.311774+00:00"
+      },
+      {
+        "memory": "Joanna made dairy-free chocolate coconut cupcakes with raspberry frosting on September 5, 2022, using alternatives like coconut or almond milk to accommodate lactose intolerance and shareable diets.",
+        "score": 0.7274304786236031,
+        "id": "50b033fa-c1bb-47a6-8de6-202f79f38127",
+        "created_at": "2026-11-03T03:16:01.484945+00:00",
+        "updated_at": "2026-11-03T03:16:01.484945+00:00"
+      }
+    ],
+    "search_latency_ms": 70.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Blueberries and coconut milk",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's two ingredients."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Blueberries and coconut milk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's two ingredients."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Blueberries and coconut milk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's two ingredients."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Blueberries and coconut milk",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's two ingredients."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q180",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of diet do Nate's turtles have?",
+  "ground_truth_answer": "combination of vegetables, fruits, and insects",
+  "evidence": [
+    "D25:19"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What type of diet do Nate's turtles have?",
+    "search_results": [
+      {
+        "memory": "Nate's pet turtles eat a varied diet consisting of vegetables, fruits, and insects.",
+        "score": 0.7349586279466832,
+        "id": "cc903618-f150-4307-810e-39e64f07c9f0",
+        "created_at": "2026-11-03T03:25:19.561293+00:00",
+        "updated_at": "2026-11-03T03:25:19.561293+00:00"
+      },
+      {
+        "memory": "Nate's pet turtles eat a varied diet consisting of a combination of vegetables, fruits, and insects, as he explained to Joanna on October 25, 2022 while sharing a photo of lettuce and greens.",
+        "score": 0.7225913060578963,
+        "id": "d6ec7a78-e606-42c3-a9e5-c32392232584",
+        "created_at": "2026-11-03T03:25:09.310493+00:00",
+        "updated_at": "2026-11-03T03:25:09.310493+00:00"
+      },
+      {
+        "memory": "Nate loves watching his pet turtles eat fruit, noting that they get very excited and it is cute to see, as he shared with Joanna on October 25, 2022 while showing a photo of a turtle with strawberries.",
+        "score": 0.6401852015796767,
+        "id": "3464a499-a73f-4c86-ae3d-c61fac0979d1",
+        "created_at": "2026-11-03T03:25:16.132293+00:00",
+        "updated_at": "2026-11-03T03:25:16.132293+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.6360989700423281,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate has three turtles, having recently adopted a third one from a pet store because the tank was large enough to accommodate them all.",
+        "score": 0.6244748843380826,
+        "id": "afa5494f-26c3-488b-b7e8-791dcbce54c3",
+        "created_at": "2026-11-03T03:32:33.622273+00:00",
+        "updated_at": "2026-11-03T03:32:33.622273+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.621690518879229,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.6195118183623358,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.6184820719727203,
+        "id": "79091a04-7650-4fa4-bc12-98c8dbd91d05",
+        "created_at": "2026-11-03T03:31:50.665104+00:00",
+        "updated_at": "2026-11-03T03:31:50.665104+00:00"
+      },
+      {
+        "memory": "Nate got a new turtle to join his existing pets, bringing the total count of turtles he keeps to three, and shared a photo of them basking in the sun on November 9, 2022.",
+        "score": 0.6172156584918151,
+        "id": "e753854f-16d6-4b5f-846d-5e9657cf2ac2",
+        "created_at": "2026-11-03T03:31:35.177863+00:00",
+        "updated_at": "2026-11-03T03:31:35.177863+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.6165505821040884,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate enjoys holding his pet turtles in addition to watching them eat, describing the experience of seeing them enjoy their favorite snacks as fun and adorable.",
+        "score": 0.6164618718030301,
+        "id": "5acb4a20-de13-4b50-a634-1e1c66408ff8",
+        "created_at": "2026-11-03T03:25:22.154217+00:00",
+        "updated_at": "2026-11-03T03:25:22.154217+00:00"
+      },
+      {
+        "memory": "Nate owns pet turtles that he takes out for walks when bored; on October 25, 2022, he shared photos of his two turtles sitting on a log in a pond and later relaxing in their tank after walking.",
+        "score": 0.6159282379618622,
+        "id": "2f84e572-30aa-49b4-ad81-58153151eb61",
+        "created_at": "2026-11-03T03:25:06.493652+00:00",
+        "updated_at": "2026-11-03T03:25:06.493652+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third pet turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.6137482500643846,
+        "id": "43e6c01d-ac0d-405c-8bfb-97af63e56163",
+        "created_at": "2026-11-03T03:31:54.712656+00:00",
+        "updated_at": "2026-11-03T03:31:54.712656+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.6126297506869371,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate keeps turtles as pets, finding watching them calming and fascinating, and has grown fond of them for bringing joy to his life.",
+        "score": 0.6093350019921444,
+        "id": "16156dd1-59fe-4388-8775-b9d7418e9caa",
+        "created_at": "2026-11-03T03:28:12.964566+00:00",
+        "updated_at": "2026-11-03T03:28:12.964566+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when bored, and they currently relax in a tank with a heat lamp after their outings.",
+        "score": 0.6091723991428768,
+        "id": "c112b5da-61de-49b5-a45e-397f44355ca1",
+        "created_at": "2026-11-03T03:25:19.557967+00:00",
+        "updated_at": "2026-11-03T03:25:19.557967+00:00"
+      },
+      {
+        "memory": "Nate has a pet turtle that he enjoys spending time with, finding the companionship helpful during difficult times.",
+        "score": 0.6090251069192939,
+        "id": "c6d73195-6bfe-40a3-b3a5-d77a557c2801",
+        "created_at": "2026-11-03T03:15:53.697923+00:00",
+        "updated_at": "2026-11-03T03:15:53.697923+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.6082789343208302,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "Nate acquired a third pet turtle on November 9, 2022, after seeing one at a pet store and deciding to get it because his tank was large enough to accommodate three turtles.",
+        "score": 0.6073097355380661,
+        "id": "2ab5e849-d028-4245-baa8-155e4cd64a9c",
+        "created_at": "2026-11-03T03:31:42.077852+00:00",
+        "updated_at": "2026-11-03T03:31:42.077852+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and considers himself knowledgeable about them, stating 'I know all about them' when discussing his pet turtles with Joanna on October 25, 2022.",
+        "score": 0.6064772766635615,
+        "id": "46bceb2c-9d23-4519-935e-595f5eb2de8c",
+        "created_at": "2026-11-03T03:25:33.526756+00:00",
+        "updated_at": "2026-11-03T03:25:33.526756+00:00"
+      }
+    ],
+    "search_latency_ms": 39.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s turtles have a varied diet consisting of vegetables, fruits, and insects.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly includes the gold answer's core items: vegetables, fruits, and insects."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s turtles have a varied diet consisting of vegetables, fruits, and insects.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's core items: vegetables, fruits, and insects."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s turtles have a varied diet consisting of vegetables, fruits, and insects.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's core items: vegetables, fruits, and insects."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s turtles have a varied diet consisting of vegetables, fruits, and insects.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's core items: vegetables, fruits, and insects."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q164",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What game has Nate been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
+  "ground_truth_answer": "Cyberpunk 2077",
+  "evidence": [
+    "D23:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What game has Nate been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
+    "search_results": [
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop as of October 9, 2022, praising its futuristic setting and gameplay.",
+        "score": 0.921324332330444,
+        "id": "976f7861-d003-4c41-b084-df944f8f8b23",
+        "created_at": "2026-11-03T03:21:53.166096+00:00",
+        "updated_at": "2026-11-03T03:21:53.166096+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop, appreciating its futuristic setting and gameplay.",
+        "score": 0.9180567841014385,
+        "id": "ba517128-023d-4e82-9820-87e36f9899bb",
+        "created_at": "2026-11-03T03:22:35.343231+00:00",
+        "updated_at": "2026-11-03T03:22:35.343231+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.8151267488560858,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, because he frequently plays that game with friends and discovered he is very skilled at it.",
+        "score": 0.7593867823329087,
+        "id": "3b10eb18-a11a-4961-a82f-f372c9cae223",
+        "created_at": "2026-11-03T03:05:21.778239+00:00",
+        "updated_at": "2026-11-03T03:05:21.778239+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, where he won his second tournament after discovering he is really good at the game, which he often plays with friends.",
+        "score": 0.7528164111325055,
+        "id": "e46f8254-3be8-423f-9cd3-228e333fd1b2",
+        "created_at": "2026-11-03T03:05:18.607840+00:00",
+        "updated_at": "2026-11-03T03:05:18.607840+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7409156022438506,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.7409156022438506,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.7376386673887683,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.7374365336388382,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.7374153680959807,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.7351287784118424,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.7267693857061659,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.717629601458279,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.7092673641593763,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.7082762097360862,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and describes it as an awesome game that has been a blast, recommending it to Joanna on November 7, 2022.",
+        "score": 0.7061124216943281,
+        "id": "713c2a33-8b97-4cdd-bb2b-1b8127b53446",
+        "created_at": "2026-11-03T03:29:10.393537+00:00",
+        "updated_at": "2026-11-03T03:29:10.393537+00:00"
+      },
+      {
+        "memory": "Nate played the strategy board game Catan at the game convention on October 7, 2022, describing it as a great game where you build settlements and trade resources, and stated that he loves it.",
+        "score": 0.7055133641381384,
+        "id": "beb9deba-fd63-4fce-9672-c01cf76b4b9c",
+        "created_at": "2026-11-03T03:21:08.056530+00:00",
+        "updated_at": "2026-11-03T03:21:08.056530+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.703464021174317,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate won a major video game tournament in the week preceding October 6, 2022, and expressed amazement at the significant amount of money he earned from the prize.",
+        "score": 0.7018769591096722,
+        "id": "afbc3792-b004-4e4e-927a-c1ee5bf0bf60",
+        "created_at": "2026-11-03T03:18:52.356015+00:00",
+        "updated_at": "2026-11-03T03:18:52.356015+00:00"
+      },
+      {
+        "memory": "Nate loves the board game Catan, describing it as a great strategy game involving building settlements and trading resources, and played it with new friends at a convention on October 7, 2022.",
+        "score": 0.7015989098518307,
+        "id": "4f2aa7f0-f356-4396-bced-c6947b38d738",
+        "created_at": "2026-11-03T03:21:14.438663+00:00",
+        "updated_at": "2026-11-03T03:21:14.438663+00:00"
+      }
+    ],
+    "search_latency_ms": 65.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

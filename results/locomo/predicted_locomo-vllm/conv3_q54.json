@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q54",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When was Joanna's second movie script shown on the big screens?",
+  "ground_truth_answer": "The Sunday before 25October, 2022.",
+  "evidence": [
+    "D25:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When was Joanna's second movie script shown on the big screens?",
+    "search_results": [
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.8208961932493972,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.8208201459404444,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.7411084115313853,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Joanna's third movie script was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.7343626182957114,
+        "id": "33acbf6e-5f44-451a-b2d1-738ce304072b",
+        "created_at": "2026-11-03T03:24:30.590140+00:00",
+        "updated_at": "2026-11-03T03:24:30.590140+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time her work has been featured in a film. She described the experience as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.7333662249558743,
+        "id": "2c60d06f-4b11-4c0d-bc91-6e9089ff420b",
+        "created_at": "2026-11-03T03:24:38.018257+00:00",
+        "updated_at": "2026-11-03T03:24:38.018257+00:00"
+      },
+      {
+        "memory": "Joanna contributed to another movie script that was shown on the big screen for the first time on October 23, 2022, describing the experience as surreal and satisfying after waiting a long time.",
+        "score": 0.7254374264298984,
+        "id": "34490e46-5555-4258-94e1-b6d727c6ffea",
+        "created_at": "2026-11-03T03:24:09.315611+00:00",
+        "updated_at": "2026-11-03T03:24:09.315611+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges, and she hopes to get it on the big screen.",
+        "score": 0.7216100933471288,
+        "id": "c4fd8862-553e-4342-a812-3e646204a52e",
+        "created_at": "2026-11-03T03:28:17.705007+00:00",
+        "updated_at": "2026-11-03T03:28:17.705007+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time.",
+        "score": 0.721371247200481,
+        "id": "027462ab-0b4e-4865-9f7d-76a3827249dc",
+        "created_at": "2026-11-03T03:24:14.988086+00:00",
+        "updated_at": "2026-11-03T03:24:14.988086+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.7203864183666169,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.7175933902812832,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as an amazing experience, noting it was the third time this has happened and that watching her characters and dialogue acted out made her hard work feel rewarding.",
+        "score": 0.7085614144852015,
+        "id": "66a203cd-3881-4ef6-86b1-553d8702e56e",
+        "created_at": "2026-11-03T03:24:18.234826+00:00",
+        "updated_at": "2026-11-03T03:24:18.234826+00:00"
+      },
+      {
+        "memory": "Joanna pitched a script to some producers on November 8, 2022, and they really liked it, giving her a big confidence boost after she created a plan for getting it made into a movie.",
+        "score": 0.702560343359806,
+        "id": "7b18ad6f-c414-4837-9046-ed9eb5900bdc",
+        "created_at": "2026-11-03T03:30:50.645944+00:00",
+        "updated_at": "2026-11-03T03:30:50.645944+00:00"
+      },
+      {
+        "memory": "Joanna pitched her script to some producers on November 8, 2022, and they really liked it, giving her a big confidence boost after she created a plan for getting it made into a movie.",
+        "score": 0.7020044127169197,
+        "id": "05fb8bad-4109-4b53-a805-30c1172abae5",
+        "created_at": "2026-11-03T03:30:37.340874+00:00",
+        "updated_at": "2026-11-03T03:30:37.340874+00:00"
+      },
+      {
+        "memory": "Joanna pitched her new movie script to some producers on November 8, 2022, and they really liked it, which gave her a big confidence boost.",
+        "score": 0.7007823688637809,
+        "id": "3ecabc91-15af-4a53-ae38-26050c39cb39",
+        "created_at": "2026-11-03T03:30:26.595737+00:00",
+        "updated_at": "2026-11-03T03:30:26.595737+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7006864882284561,
+        "id": "523cebcb-fda9-404a-bf74-0af468a36ca3",
+        "created_at": "2026-11-03T03:28:36.462947+00:00",
+        "updated_at": "2026-11-03T03:28:36.462947+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.7006864882284561,
+        "id": "9fa29063-d116-4fcb-a7da-c63a50961373",
+        "created_at": "2026-11-03T03:28:42.599730+00:00",
+        "updated_at": "2026-11-03T03:28:42.599730+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts during the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6988813436009524,
+        "id": "77cae654-82d5-49f3-a6a4-a02fd887c662",
+        "created_at": "2026-11-03T03:28:42.610116+00:00",
+        "updated_at": "2026-11-03T03:28:42.610116+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6987301722993016,
+        "id": "216c1077-a638-41ad-b9f3-e642f9515f43",
+        "created_at": "2026-11-03T03:28:36.470026+00:00",
+        "updated_at": "2026-11-03T03:28:36.470026+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, a love story with lots of challenges, inspired by a dream, and hopes to get it on the big screen.",
+        "score": 0.6982491453818711,
+        "id": "7705c919-c377-453b-a697-b6b22e82c63d",
+        "created_at": "2026-11-03T03:28:12.961555+00:00",
+        "updated_at": "2026-11-03T03:28:12.961555+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.698063376478814,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      }
+    ],
+    "search_latency_ms": 81.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Before October 23, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer references the same late-October 2022 date window, specifically around October 23, 2022, which is within the allowed date tolerance."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "June 4, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (June 4, 2022) is approximately 4.5 months away from the gold answer (late October 2022), which far exceeds the 14-day date tolerance specified in the rules."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "June 4, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (June 4, 2022) is approximately 4.5 months away from the gold answer (late October 2022), which far exceeds the 14-day date tolerance specified in the rules."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "June 4, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated date of June 4, 2022 is far outside the 14-day tolerance of the gold answer's October 23, 2022 date."
+    }
+  }
+}

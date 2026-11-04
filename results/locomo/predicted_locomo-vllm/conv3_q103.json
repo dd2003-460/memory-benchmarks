@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q103",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Joanna recently watch and recommend to Nate on February 7, 2022?",
+  "ground_truth_answer": "\"Little Women\"",
+  "evidence": [
+    "D3:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Joanna recently watch and recommend to Nate on February 7, 2022?",
+    "search_results": [
+      {
+        "memory": "Nate recommended a space opera book series to Joanna on August 22, 2022, describing it as having awesome battles and interesting characters, and shared a photo of a poster showing a man falling off a cliff.",
+        "score": 0.752907602423089,
+        "id": "2d3e571e-7339-4b29-83ee-02fd4a714cc0",
+        "created_at": "2026-11-03T03:14:55.519672+00:00",
+        "updated_at": "2026-11-03T03:14:55.519672+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.7217623127459174,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, stating that his experience at the gaming convention on October 7, 2022 was unforgettable.",
+        "score": 0.7040191684142225,
+        "id": "ac28529a-ddb0-433f-8cbf-82b69bec034c",
+        "created_at": "2026-11-03T03:21:39.020138+00:00",
+        "updated_at": "2026-11-03T03:21:39.020138+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.7019987449722735,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and describes it as an awesome game that has been a blast, recommending it to Joanna on November 7, 2022.",
+        "score": 0.6941581654676436,
+        "id": "713c2a33-8b97-4cdd-bb2b-1b8127b53446",
+        "created_at": "2026-11-03T03:29:10.393537+00:00",
+        "updated_at": "2026-11-03T03:29:10.393537+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.6917492400458112,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.6861960264042742,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna is seeking movie recommendations on October 6, 2022, noting that she could use some suggestions for good films to watch recently.",
+        "score": 0.6807939336867495,
+        "id": "d4d71e22-1886-4bb3-87d1-62c762793eef",
+        "created_at": "2026-11-03T03:19:13.013572+00:00",
+        "updated_at": "2026-11-03T03:19:13.013572+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.677436740958482,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6753520008857343,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6752328227245813,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6736697890398846,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6734753157716782,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a pair of headphones and a video game controller with Joanna on November 7, 2022, as part of his upgraded home equipment.",
+        "score": 0.6714319892772295,
+        "id": "9e3b8b3d-4102-4b17-ad5a-9b22ebeb5a8e",
+        "created_at": "2026-11-03T03:29:00.093203+00:00",
+        "updated_at": "2026-11-03T03:29:00.093203+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers with Joanna while discussing his current gaming interests on November 7, 2022.",
+        "score": 0.6703892434847255,
+        "id": "0f085430-93ce-46c2-9ec1-8df356d65d2b",
+        "created_at": "2026-11-03T03:29:10.396330+00:00",
+        "updated_at": "2026-11-03T03:29:10.396330+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on the evening of May 1, 2022, following Nate's recommendation, and found it awesome",
+        "score": 0.6686023366213951,
+        "id": "731ec201-bbf8-4b1c-b133-5b86a76c8941",
+        "created_at": "2026-11-03T03:05:32.540943+00:00",
+        "updated_at": "2026-11-03T03:05:32.540943+00:00"
+      },
+      {
+        "memory": "Joanna watched The Lord of the Rings trilogy on May 1, 2022, after taking Nate's recommendation, and described the experience as awesome.",
+        "score": 0.6673480761791887,
+        "id": "66b2dc99-b405-48d0-ad36-24cf3aa1dbb3",
+        "created_at": "2026-11-03T03:05:03.020021+00:00",
+        "updated_at": "2026-11-03T03:05:03.020021+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on May 1, 2022, after taking Nate's recommendation, and described it as awesome",
+        "score": 0.6668779532410019,
+        "id": "85ea0016-0b6e-43ed-ad6f-35e02ee93a7e",
+        "created_at": "2026-11-03T03:05:10.675921+00:00",
+        "updated_at": "2026-11-03T03:05:10.675921+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook around November 7, 2022, sharing a photo of the handwritten list with Nate.",
+        "score": 0.6639777877426556,
+        "id": "38f2339b-9a72-4680-962e-a7d5453bbc26",
+        "created_at": "2026-11-03T03:29:46.491568+00:00",
+        "updated_at": "2026-11-03T03:29:46.491568+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.6608982302858953,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      }
+    ],
+    "search_latency_ms": 121.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

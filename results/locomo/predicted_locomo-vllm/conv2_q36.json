@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q36",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What music events has John attended?",
+  "ground_truth_answer": "Live music event, violin concert",
+  "evidence": [
+    "D20:4",
+    "D8:12"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What music events has John attended?",
+    "search_results": [
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.8492986120713789,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.7395322606653462,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.7223826783224297,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.7168390078209621,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John plans to set up arts and crafts activities for his kids soon, inspired by a community event he attended in June 2023 that featured fun games and activities for families.",
+        "score": 0.6768233194783133,
+        "id": "76de7e2e-d4bc-47af-8ee4-e3d46bf86d7e",
+        "created_at": "2026-11-03T00:42:37.033585+00:00",
+        "updated_at": "2026-11-03T00:42:37.033585+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.582561917872027,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      },
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.555779423755314,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.5504526093158622,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues around March 2023 where they connected over their shared passion for using technology for good in the community.",
+        "score": 0.5187019498109763,
+        "id": "96248ea4-444b-4256-9db5-722712bde4c4",
+        "created_at": "2026-11-03T00:27:30.267684+00:00",
+        "updated_at": "2026-11-03T00:27:30.267684+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.5136712599597946,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John participated in a community fundraising event on the weekend of August 5-6, 2023, which had a great turnout and was surrounded by supportive people.",
+        "score": 0.5106823559683831,
+        "id": "48241daf-b28c-4939-af23-425ae644c394",
+        "created_at": "2026-11-03T00:46:31.875034+00:00",
+        "updated_at": "2026-11-03T00:46:31.875034+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.48105679636226756,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.4803144102447144,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.4767332061997502,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.47167757927216414,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.4650482032749327,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John organized a charity run for veterans in downtown, which involved significant effort to secure sponsors and coordinate with the city, and he shared a map of the downtown streets used for the event.",
+        "score": 0.46093623866574174,
+        "id": "202327bd-7925-4a4b-aa41-d7ae957d8b41",
+        "created_at": "2026-11-03T00:47:12.938873+00:00",
+        "updated_at": "2026-11-03T00:47:12.938873+00:00"
+      },
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and motivating.",
+        "score": 0.21719247345576784,
+        "id": "60a148f6-694b-423d-938a-f91874f0bff6",
+        "created_at": "2026-11-03T00:30:32.327409+00:00",
+        "updated_at": "2026-11-03T00:30:32.327409+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.2110039003356202,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.2110039003356202,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      }
+    ],
+    "search_latency_ms": 66.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a live music event with his family during the week of June 19, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's item 'live music event', so it receives partial credit."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a live music event with his family the week of June 19, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's item 'live music event', so it receives partial credit."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a live music event with his family the week of June 19, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's item 'live music event', so it receives partial credit."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a live music event with his family the week of June 19, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's item 'live music event', so it receives partial credit."
+    }
+  }
+}

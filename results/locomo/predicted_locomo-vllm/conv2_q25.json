@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q25",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What European countries has Maria been to?",
+  "ground_truth_answer": "Spain, England",
+  "evidence": [
+    "D13:24",
+    "D8:15"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What European countries has Maria been to?",
+    "search_results": [
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.34994273431923667,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "Maria realized during her solo trip to Spain in 2022 that it is important to value different perspectives and the power of solitude, and that the experience reminded her of the importance of letting go and trusting life.",
+        "score": 0.3365531766951908,
+        "id": "8802ea54-3bd5-425f-bced-2ca03aff77a5",
+        "created_at": "2026-11-03T00:28:53.364596+00:00",
+        "updated_at": "2026-11-03T00:28:53.364596+00:00"
+      },
+      {
+        "memory": "Maria tried surfing for the first time during her solo trip to Spain in 2022, finding it exciting despite falling off repeatedly, and learned the value of perseverance and trying new things from the experience.",
+        "score": 0.3226326248643282,
+        "id": "97f95ea8-7bb4-488c-9162-f1ad71fb024e",
+        "created_at": "2026-11-03T00:28:57.272928+00:00",
+        "updated_at": "2026-11-03T00:28:57.272928+00:00"
+      },
+      {
+        "memory": "Maria tried surfing for the first time during her solo trip to Spain in 2022, finding it exciting and a lesson in perseverance despite falling off repeatedly.",
+        "score": 0.32089518660251354,
+        "id": "0f06bdf7-9cb6-4aef-9af3-e314619e862f",
+        "created_at": "2026-11-03T00:28:59.597119+00:00",
+        "updated_at": "2026-11-03T00:28:59.597119+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.29627910778080124,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.294841810886451,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.2770808283663529,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.2699188955916391,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.2609023205176115,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.2602142215320066,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.2596459741357897,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.2585538484644665,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.2575743018403244,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.2573833579849373,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.2573833579849373,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2549568475476181,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2549568475476181,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2549568475476181,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2549568475476181,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.2547102860601481,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      }
+    ],
+    "search_latency_ms": 82.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spain",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes Spain, which is one of the correct countries in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spain",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes Spain, which is one of the correct countries in the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spain",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes Spain, which is one of the correct countries in the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spain",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes Spain, which is one of the correct countries in the gold answer."
+    }
+  }
+}

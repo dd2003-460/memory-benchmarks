@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q4",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What pets wouldn't cause any discomfort to Joanna?",
+  "ground_truth_answer": "Hairless cats or pigs,since they don't have fur, which is one of the main causes of Joanna's allergy.",
+  "evidence": [
+    "D2:23"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What pets wouldn't cause any discomfort to Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna has allergies that prevent her from owning pets, and she is too lazy to research alternative pet options suitable for her condition",
+        "score": 0.6753281186872937,
+        "id": "4557254b-7084-47c8-a413-12d9f06cfc50",
+        "created_at": "2026-11-03T03:07:26.492506+00:00",
+        "updated_at": "2026-11-03T03:07:26.492506+00:00"
+      },
+      {
+        "memory": "Joanna has allergies that prevent her from getting pets and she feels too lazy to research alternative pet options suitable for her condition",
+        "score": 0.6661160116424839,
+        "id": "157230e4-271f-4e0f-9761-36bee6460805",
+        "created_at": "2026-11-03T03:07:15.199145+00:00",
+        "updated_at": "2026-11-03T03:07:15.199145+00:00"
+      },
+      {
+        "memory": "Joanna has allergies that prevent her from getting a pet and she is too lazy to research alternative pets suitable for her allergies, as stated on May 20, 2022",
+        "score": 0.665915080586422,
+        "id": "0d8b223a-e499-4be6-bdbe-14460b393e14",
+        "created_at": "2026-11-03T03:07:09.558418+00:00",
+        "updated_at": "2026-11-03T03:07:09.558418+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.5853701164221188,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Nate plans to give his pet turtles a bath before Joanna visits, as they agreed to hang out together around November 9, 2022",
+        "score": 0.5166934645761943,
+        "id": "54476d08-3e9f-4c56-b4a0-b0e59b637bb8",
+        "created_at": "2026-11-03T03:32:16.947372+00:00",
+        "updated_at": "2026-11-03T03:32:16.947372+00:00"
+      },
+      {
+        "memory": "Nate plans to give his pet turtles a bath before Joanna visits so they are ready to play, as discussed in their conversation on November 11, 2022.",
+        "score": 0.5137879160562264,
+        "id": "ad71e632-82e4-40fd-b351-dbc5ab13cbf8",
+        "created_at": "2026-11-03T03:32:45.259195+00:00",
+        "updated_at": "2026-11-03T03:32:45.259195+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.34542329773430525,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "Joanna used to have a dog in Michigan with the same name as her current stuffed animal, but had to give her up due to allergies; she keeps the stuffed animal to remember the dog and the time she could hold animals without allergic reactions.",
+        "score": 0.25603797320343047,
+        "id": "62a6a26f-44a2-4242-98a5-7f0b9d5b6269",
+        "created_at": "2026-11-03T03:23:55.196975+00:00",
+        "updated_at": "2026-11-03T03:23:55.196975+00:00"
+      },
+      {
+        "memory": "Joanna previously owned a dog named Tilly in Michigan, but had to give her up after developing allergies that prevented her from holding or squeezing animals without an allergic reaction.",
+        "score": 0.2542445250727673,
+        "id": "7c13f773-1117-47ca-9ff5-c3a014e49489",
+        "created_at": "2026-11-03T03:23:17.049186+00:00",
+        "updated_at": "2026-11-03T03:23:17.049186+00:00"
+      },
+      {
+        "memory": "Joanna previously had a real dog named Tilly in Michigan, but had to give her up after developing an allergic reaction; the name of her stuffed animal serves as a reminder of when she could hold animals without allergies.",
+        "score": 0.23997991899954169,
+        "id": "67b47fd2-f482-4687-ac46-9cbc0f8dc56e",
+        "created_at": "2026-11-03T03:23:40.600946+00:00",
+        "updated_at": "2026-11-03T03:23:40.600946+00:00"
+      },
+      {
+        "memory": "Joanna previously lived in Michigan where she had a dog named Tilly, but had to give the dog away after developing an allergy; she named her stuffed animal Tilly to remember the real dog from when she could hold animals without allergic reactions.",
+        "score": 0.23583341037276195,
+        "id": "8ecf1274-1458-43b6-b580-d933947cc951",
+        "created_at": "2026-11-03T03:23:20.155263+00:00",
+        "updated_at": "2026-11-03T03:23:20.155263+00:00"
+      },
+      {
+        "memory": "Joanna has a stuffed animal dog named Tilly that she keeps with her while writing; the name honors a real dog she had in Michigan whom she had to give up due to allergies.",
+        "score": 0.2275342272767579,
+        "id": "f3618634-f2ea-4752-bdbe-c6cc599dc368",
+        "created_at": "2026-11-03T03:23:49.476568+00:00",
+        "updated_at": "2026-11-03T03:23:49.476568+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who keeps a stuffed animal dog named Tilly with her while she writes, finding that it helps her stay focused and brings her joy.",
+        "score": 0.2215170851458311,
+        "id": "fd1a725c-ce3a-40bc-96d4-a7e4a8fc6898",
+        "created_at": "2026-11-03T03:23:32.279052+00:00",
+        "updated_at": "2026-11-03T03:23:32.279052+00:00"
+      },
+      {
+        "memory": "Joanna previously lived in Michigan where she had a real dog named Tilly, but had to give the dog up after developing an allergic reaction; she named her current stuffed animal Tilly to remember the original dog.",
+        "score": 0.21192991389322305,
+        "id": "2335d3c2-07b6-41b4-a15c-bef13750025b",
+        "created_at": "2026-11-03T03:23:32.283980+00:00",
+        "updated_at": "2026-11-03T03:23:32.283980+00:00"
+      },
+      {
+        "memory": "Joanna's stuffed animal named Tilly helps her stay focused and brings her joy.",
+        "score": 0.20868396640101214,
+        "id": "02d80c76-be11-400c-95bd-aaf0559c72ee",
+        "created_at": "2026-11-03T03:23:55.198947+00:00",
+        "updated_at": "2026-11-03T03:23:55.198947+00:00"
+      },
+      {
+        "memory": "Joanna describes nature as her haven, finding it calming because walking in it and hearing the sounds makes worries and stress vanish, leaving her with just the beauty around her",
+        "score": 0.19924177435479973,
+        "id": "44533e8d-6c5a-46f4-bae7-d063fbbe0bed",
+        "created_at": "2026-11-03T03:03:25.132814+00:00",
+        "updated_at": "2026-11-03T03:03:25.132814+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to animals but wants to visit Nate's home to watch him play with his turtles from a distance",
+        "score": 0.19758324629504928,
+        "id": "9f282d80-9026-4e17-b199-d953c53b3d00",
+        "created_at": "2026-11-03T03:32:29.043806+00:00",
+        "updated_at": "2026-11-03T03:32:29.043806+00:00"
+      },
+      {
+        "memory": "Joanna is currently revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.18836555849128916,
+        "id": "9b0a9623-7978-4b58-be35-dd045df726b5",
+        "created_at": "2026-11-03T03:23:20.149010+00:00",
+        "updated_at": "2026-11-03T03:23:20.149010+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.1857869820179435,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.18548731302400892,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      }
+    ],
+    "search_latency_ms": 94.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "None",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'None' contradicts the gold answer, which identifies hairless cats or pigs as suitable pets, meaning the generated answer contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s pet turtles, which she plans to watch from a distance.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions turtles, which are not among the gold answer's correct pets (hairless cats or pigs), so it contains no correct item."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s pet turtles, which she plans to watch from a distance.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions turtles, which are not among the gold answer's correct pets (hairless cats or pigs), so it contains no correct item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s pet turtles, which she plans to watch from a distance.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions turtles, which are not among the gold answer's correct pets (hairless cats or pigs), so it contains no correct item."
+    }
+  }
+}

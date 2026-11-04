@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q71",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of online group did John join?",
+  "ground_truth_answer": "service-focused online group",
+  "evidence": [
+    "D3:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What kind of online group did John join?",
+    "search_results": [
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it was awesome seeing people come together to support those serving the nation.",
+        "score": 0.7906070911021518,
+        "id": "6bbf222b-e921-4aa2-8252-9a9e3cc6d08d",
+        "created_at": "2026-11-03T00:44:57.050065+00:00",
+        "updated_at": "2026-11-03T00:44:57.050065+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.7874153789267953,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it has been awesome seeing people come together to support service members.",
+        "score": 0.7819065198300272,
+        "id": "abcfd7c8-93ff-463c-9f40-db41e7b9ac40",
+        "created_at": "2026-11-03T00:45:02.562225+00:00",
+        "updated_at": "2026-11-03T00:45:02.562225+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group and recently asked his family and friends to join as advocates for the military, noting it has been rewarding to see people come together to support service members.",
+        "score": 0.7811321597879106,
+        "id": "40c843f5-ac20-419a-b262-387fbe5a8a27",
+        "created_at": "2026-11-03T00:44:59.840785+00:00",
+        "updated_at": "2026-11-03T00:44:59.840785+00:00"
+      },
+      {
+        "memory": "John asked family and friends to join the virtual support group he is a part of and become advocates for the military, noting it has been awesome seeing people come together to support those serving the nation",
+        "score": 0.7695164736897601,
+        "id": "70cbd844-132c-4e46-ac99-794ab5a7475f",
+        "created_at": "2026-11-03T00:44:38.657820+00:00",
+        "updated_at": "2026-11-03T00:44:38.657820+00:00"
+      },
+      {
+        "memory": "John asked family and friends to join the virtual support group he is a part of and become advocates for the military, finding it rewarding to see people come together to support service members.",
+        "score": 0.7567098177740995,
+        "id": "d7a6708b-486d-4951-8bd9-b47429cad6d5",
+        "created_at": "2026-11-03T00:44:43.420226+00:00",
+        "updated_at": "2026-11-03T00:44:43.420226+00:00"
+      },
+      {
+        "memory": "John describes his veterans' organization as a family-like group of passionate people who always support each other.",
+        "score": 0.6342191975301181,
+        "id": "d49bbf35-a1ba-410d-a6d2-6806b1c402ee",
+        "created_at": "2026-11-03T00:42:29.561899+00:00",
+        "updated_at": "2026-11-03T00:42:29.561899+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.5961312398546694,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John found the collaborative effort of his fire-fighting brigade to be satisfying, noting that the group succeeded at an important task in just two hours and worked hard together.",
+        "score": 0.5479280991962765,
+        "id": "7af9f741-5e6e-4ac7-ae9e-c090769e10a4",
+        "created_at": "2026-11-03T00:49:32.266446+00:00",
+        "updated_at": "2026-11-03T00:49:32.266446+00:00"
+      },
+      {
+        "memory": "John participated in a two-hour group effort with the fire-fighting brigade to load a truck with supplies, finding the hard work satisfying as they did something good for the community.",
+        "score": 0.5255056459147969,
+        "id": "43e902a5-17f0-459d-ba32-6bbfc90eccee",
+        "created_at": "2026-11-03T00:49:41.157556+00:00",
+        "updated_at": "2026-11-03T00:49:41.157556+00:00"
+      },
+      {
+        "memory": "John works with a group of veterans in an organization he describes as family-like, where members always support each other, and he finds their stories inspiring and heartbreaking yet hopeful.",
+        "score": 0.5243964883255892,
+        "id": "367cd2eb-b82b-403a-9097-8d6ee89590c1",
+        "created_at": "2026-11-03T00:42:37.023899+00:00",
+        "updated_at": "2026-11-03T00:42:37.023899+00:00"
+      },
+      {
+        "memory": "John participated in a community donation drive for the local fire station around August 16, 2023, where the group collected canned food, toiletries, and clothes over two hours of work.",
+        "score": 0.5239687185498128,
+        "id": "9895e042-4485-4771-a0a3-7dfffcc2a98a",
+        "created_at": "2026-11-03T00:49:52.687612+00:00",
+        "updated_at": "2026-11-03T00:49:52.687612+00:00"
+      },
+      {
+        "memory": "John is exploring options to channel his passion into something meaningful, specifically considering joining local organizations or volunteering programs.",
+        "score": 0.5036046573003579,
+        "id": "300e489a-ccc3-4146-af52-3f5940594ec8",
+        "created_at": "2026-11-03T00:48:11.001080+00:00",
+        "updated_at": "2026-11-03T00:48:11.001080+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and feels it is his true calling, finding a strong sense of purpose and passion in helping out his community.",
+        "score": 0.46407435142308684,
+        "id": "bacb8588-e0e8-44a9-95f7-25ddf6f847ea",
+        "created_at": "2026-11-03T00:49:46.168939+00:00",
+        "updated_at": "2026-11-03T00:49:46.168939+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and is super excited to be involved in helping his community, noting that he was impressed by their dedication and teamwork.",
+        "score": 0.4620540605270376,
+        "id": "def3d70b-87ca-4220-b610-e24ad53e2261",
+        "created_at": "2026-11-03T00:49:41.151228+00:00",
+        "updated_at": "2026-11-03T00:49:41.151228+00:00"
+      },
+      {
+        "memory": "John plans to join local organizations or volunteering programs to channel his passion into meaningful work and make a positive difference in the world.",
+        "score": 0.45847938731739013,
+        "id": "948b76c8-94c0-40e9-be9d-08e14bc0a3c4",
+        "created_at": "2026-11-03T00:48:14.923038+00:00",
+        "updated_at": "2026-11-03T00:48:14.923038+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around August 16, 2023, expressing excitement about being involved and helping out his community.",
+        "score": 0.4545478317389281,
+        "id": "17b2a8a4-b8d6-48d7-8bd3-30c4efc33126",
+        "created_at": "2026-11-03T00:49:34.888744+00:00",
+        "updated_at": "2026-11-03T00:49:34.888744+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, and feels it is his true calling because it gives him a sense of purpose and passion for helping his community.",
+        "score": 0.4502899879427589,
+        "id": "833ecd8a-c6d2-4325-bef0-37a0dfd19a73",
+        "created_at": "2026-11-03T00:49:48.406646+00:00",
+        "updated_at": "2026-11-03T00:49:48.406646+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, expressing excitement about helping his community.",
+        "score": 0.4468266713249055,
+        "id": "26f68b32-8daa-440f-a7c3-ae60ef55ed54",
+        "created_at": "2026-11-03T00:49:26.785358+00:00",
+        "updated_at": "2026-11-03T00:49:26.785358+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with local residents to discuss solutions for the recent flood damage and invited Maria to join and contribute her thoughts.",
+        "score": 0.44643379211969547,
+        "id": "0907493e-d12a-4d8e-977b-5054c9c65f4c",
+        "created_at": "2026-11-03T00:41:23.245628+00:00",
+        "updated_at": "2026-11-03T00:41:23.245628+00:00"
+      }
+    ],
+    "search_latency_ms": 96.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A virtual support group for the military.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a military support group rather than the gold answer's service-focused online group, so it does not capture the core fact."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A virtual support group for the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a military support group rather than the gold answer's service-focused online group, so it does not capture the core fact."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A virtual support group for the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a military support group rather than the gold answer's service-focused online group, so it does not capture the core fact."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A virtual support group for the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a military support group rather than the gold answer's service-focused online group, so it does not capture the core fact."
+    }
+  }
+}

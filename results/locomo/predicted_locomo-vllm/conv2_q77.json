@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q77",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What activity did John's colleague, Rob, invite him to?",
+  "ground_truth_answer": "beginner's yoga class",
+  "evidence": [
+    "D7:16"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What activity did John's colleague, Rob, invite him to?",
+    "search_results": [
+      {
+        "memory": "John shared a photo of a party invitation on a table with a pen and paper while discussing plans to get people together to address community issues following the recent flood.",
+        "score": 0.5949128066358058,
+        "id": "e9f45214-7877-407d-9ada-fce4e73b11d9",
+        "created_at": "2026-11-03T00:40:35.432858+00:00",
+        "updated_at": "2026-11-03T00:40:35.432858+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues around March 2023 where they connected over their shared passion for using technology for good in the community.",
+        "score": 0.5937116108835877,
+        "id": "96248ea4-444b-4256-9db5-722712bde4c4",
+        "created_at": "2026-11-03T00:27:30.267684+00:00",
+        "updated_at": "2026-11-03T00:27:30.267684+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 focused on using technology for good in the community, where he connected with like-minded individuals and brainstormed ideas.",
+        "score": 0.587643757699637,
+        "id": "d9fa0071-6ea6-471d-b201-3e8d253b7e21",
+        "created_at": "2026-11-03T00:27:36.566771+00:00",
+        "updated_at": "2026-11-03T00:27:36.566771+00:00"
+      },
+      {
+        "memory": "John is organizing a community gathering to discuss solutions for the infrastructure damage caused by the flood that hit his old area in early July 2023, and he has invited Maria to contribute her thoughts.",
+        "score": 0.5809934420826912,
+        "id": "727a0574-95a8-41f3-a8a6-89281a6a9cbc",
+        "created_at": "2026-11-03T00:40:35.427740+00:00",
+        "updated_at": "2026-11-03T00:40:35.427740+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.5781418307377362,
+        "id": "42e649da-e294-4f0f-b44c-c052acb77fbf",
+        "created_at": "2026-11-03T00:27:34.300683+00:00",
+        "updated_at": "2026-11-03T00:27:34.300683+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.5781418307377362,
+        "id": "4147e09c-771b-45b2-82d5-f5c4359c7d1d",
+        "created_at": "2026-11-03T00:27:38.970983+00:00",
+        "updated_at": "2026-11-03T00:27:38.970983+00:00"
+      },
+      {
+        "memory": "John and his colleagues attended a convention together in March 2023, where they connected with like-minded individuals passionate about using technology for good in their community and exchanged ideas.",
+        "score": 0.5770155358574977,
+        "id": "554f7f69-775e-40e4-9d64-6d7ef3348bf9",
+        "created_at": "2026-11-03T00:27:24.445409+00:00",
+        "updated_at": "2026-11-03T00:27:24.445409+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with local residents to discuss solutions for the recent flood damage and invited Maria to join and contribute her thoughts.",
+        "score": 0.5722017090908875,
+        "id": "0907493e-d12a-4d8e-977b-5054c9c65f4c",
+        "created_at": "2026-11-03T00:41:23.245628+00:00",
+        "updated_at": "2026-11-03T00:41:23.245628+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.5385866193671225,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.5288819787434933,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John has children and is planning to set up a fun activity similar to a picnic for them soon.",
+        "score": 0.4939568296100803,
+        "id": "701ba690-d77d-48e4-941d-902e1b24267d",
+        "created_at": "2026-11-03T00:42:17.344007+00:00",
+        "updated_at": "2026-11-03T00:42:17.344007+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.49185020484602565,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.48492181956899055,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John enjoys indoor family activities such as playing board games and having movie nights at home.",
+        "score": 0.4825720853718689,
+        "id": "e00fbf84-626c-46a9-938e-1910548242fb",
+        "created_at": "2026-11-03T00:49:26.782658+00:00",
+        "updated_at": "2026-11-03T00:49:26.782658+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.47753850688329375,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John sees his friends at least once a week, finding it a good way to disconnect, think, and find peace in a crazy world",
+        "score": 0.22589860486321817,
+        "id": "39d819dc-16d5-4992-8cd2-76c1317c98a8",
+        "created_at": "2026-11-03T00:40:54.957317+00:00",
+        "updated_at": "2026-11-03T00:40:54.957317+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.216913925125002,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.216913925125002,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.21327103452293636,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John participated in a community donation drive for the local fire station around August 16, 2023, where the group collected canned food, toiletries, and clothes over two hours of work.",
+        "score": 0.2108761176965622,
+        "id": "9895e042-4485-4771-a0a3-7dfffcc2a98a",
+        "created_at": "2026-11-03T00:49:52.687612+00:00",
+        "updated_at": "2026-11-03T00:49:52.687612+00:00"
+      }
+    ],
+    "search_latency_ms": 76.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A convention focused on using technology for good in the community.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a technology convention, which does not match the gold answer's beginner's yoga class."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A convention focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a technology convention, which does not match the gold answer's beginner's yoga class."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A convention focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a technology convention, which does not match the gold answer's beginner's yoga class."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A convention in March 2023 focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a technology convention, which does not match the gold answer's beginner's yoga class."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "conv0_q27",
+  "conversation_idx": 0,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Caroline pursue writing as a career option?",
+  "ground_truth_answer": "LIkely no; though she likes reading, she wants to be a counselor",
+  "evidence": [
+    "D7:5",
+    "D7:9"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Would Caroline pursue writing as a career option?",
+    "search_results": [],
+    "search_latency_ms": 1554380.1,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No",
+      "memories_evaluated": 0,
+      "reason": "The generated answer 'No' aligns with the core sentiment of the gold answer 'Likely no', correctly identifying that Caroline would not pursue writing as a career."
+    }
+  }
+}

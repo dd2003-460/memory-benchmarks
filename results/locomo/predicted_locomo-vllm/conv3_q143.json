@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q143",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did Joanna feel when someone wrote her a letter after reading her blog post?",
+  "ground_truth_answer": "Touched",
+  "evidence": [
+    "D18:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How did Joanna feel when someone wrote her a letter after reading her blog post?",
+    "search_results": [
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.888898806564851,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.8859847904857354,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a hard moment in her life, which reinforced her love for writing and its impact.",
+        "score": 0.8841642776725817,
+        "id": "0e337284-9d98-4bc5-9ee4-d10c8d38272a",
+        "created_at": "2026-11-03T03:13:36.345095+00:00",
+        "updated_at": "2026-11-03T03:13:36.345095+00:00"
+      },
+      {
+        "memory": "Joanna received a letter around August 7, 2022 from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing and its power to help others.",
+        "score": 0.8825598540581598,
+        "id": "8d96dfe2-b46f-4316-a791-aca891a241d7",
+        "created_at": "2026-11-03T03:13:10.254340+00:00",
+        "updated_at": "2026-11-03T03:13:10.254340+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.8812651965407344,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "Joanna writes an online blog where she shares stories about hard moments in her life, using writing as an escape and a way to express feelings and find healing.",
+        "score": 0.7936161066597587,
+        "id": "949ed9db-97ed-4855-95ef-950f9e9ad63d",
+        "created_at": "2026-11-03T03:13:40.681079+00:00",
+        "updated_at": "2026-11-03T03:13:40.681079+00:00"
+      },
+      {
+        "memory": "Joanna describes writing as an escape and a way to express her feelings, noting that it allows her to put thoughts down and create something positive, and she believes words have a magical way of healing.",
+        "score": 0.6780180366594135,
+        "id": "bdb48122-d007-4830-aa27-f61d2aa2ef09",
+        "created_at": "2026-11-03T03:13:05.480399+00:00",
+        "updated_at": "2026-11-03T03:13:05.480399+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.660869688100649,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna believes that meaningful stories come from personal experiences and feelings, finding that she writes best when being true to herself even if it is difficult or scary",
+        "score": 0.6590803316573326,
+        "id": "0b8e87b9-2dbd-4398-b601-87d6334097b6",
+        "created_at": "2026-11-03T03:07:36.117838+00:00",
+        "updated_at": "2026-11-03T03:07:36.117838+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps make something good out of difficult emotions and that words have a magical healing power.",
+        "score": 0.6546352906650557,
+        "id": "79b05508-cf27-4619-9d2d-a513ec113a8a",
+        "created_at": "2026-11-03T03:13:36.340320+00:00",
+        "updated_at": "2026-11-03T03:13:36.340320+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps heal and create something positive from difficult emotions.",
+        "score": 0.6518826765166582,
+        "id": "df5a5cf2-65ab-4d71-a019-7f6c5639f487",
+        "created_at": "2026-11-03T03:13:32.623734+00:00",
+        "updated_at": "2026-11-03T03:13:32.623734+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6483168500553375,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.6467605969056798,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.6449350910350745,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her third screenplay, which significantly discouraged her and made her feel bummed out.",
+        "score": 0.6413248476859794,
+        "id": "62bbfecd-688d-40e2-8046-b9cbde34430a",
+        "created_at": "2026-11-03T03:08:40.405113+00:00",
+        "updated_at": "2026-11-03T03:08:40.405113+00:00"
+      },
+      {
+        "memory": "Joanna believes meaningful stories come from personal experiences and feelings, finding that she writes best when being true to herself even if it requires vulnerability and exploring difficult topics like sadness and loss.",
+        "score": 0.6375487302539891,
+        "id": "2d96f1aa-fa59-49b7-b4a1-833adc9a6cb5",
+        "created_at": "2026-11-03T03:07:46.815181+00:00",
+        "updated_at": "2026-11-03T03:07:46.815181+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.6328347278282046,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna has been reading a lot in the week preceding April 17, 2022, rediscovering and enjoying several good books she had forgotten she owned",
+        "score": 0.6290354424866839,
+        "id": "26ccb71f-43c5-4638-9cff-0351385c1f11",
+        "created_at": "2026-11-03T03:02:59.068229+00:00",
+        "updated_at": "2026-11-03T03:02:59.068229+00:00"
+      },
+      {
+        "memory": "Joanna included a handwritten letter from her childhood in the introduction of her next movie script, which was originally written by her brother.",
+        "score": 0.6262080264656947,
+        "id": "e91d8714-96e4-46d5-a7a8-a582eb62a0e9",
+        "created_at": "2026-11-03T03:29:33.489615+00:00",
+        "updated_at": "2026-11-03T03:29:33.489615+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.6254329415626395,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      }
+    ],
+    "search_latency_ms": 73.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna felt encouraged and affirmed; the letter reinforced her love for writing and motivated her to keep writing because it could comfort and help others.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer expresses positive feelings about the same event, which is acceptable as a paraphrase of being touched."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt encouraged and inspired; the letter reinforced her love for writing and motivated her to keep writing.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses a positive emotional response to the same letter, which is in the same sentiment family as 'touched'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt encouraged and reaffirmed in her love for writing; the letter reinforced her motivation to keep writing and showed her that her words could help others.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses a positive emotional response to the letter, which is in the same sentiment family as being touched."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She felt encouraged and motivated; the letter reinforced her love for writing and its power to help others.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses a positive emotional response to the letter, which aligns with the gold answer's sentiment of being touched."
+    }
+  }
+}

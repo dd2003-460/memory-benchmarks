@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q196",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Nate take to the beach in Tampa?",
+  "ground_truth_answer": "turtles",
+  "evidence": [
+    "D29:6"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Nate take to the beach in Tampa?",
+    "search_results": [
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, noting that they bring him peace during life's craziness.",
+        "score": 0.8596869279401188,
+        "id": "6901c237-dd0a-4362-b2d8-d0d53478d644",
+        "created_at": "2026-11-03T03:33:05.331955+00:00",
+        "updated_at": "2026-11-03T03:33:05.331955+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, noting that they bring him peace during the craziness of life.",
+        "score": 0.859604837496353,
+        "id": "212caf7a-7c74-4213-9787-fb426cfe664b",
+        "created_at": "2026-11-03T03:32:51.749020+00:00",
+        "updated_at": "2026-11-03T03:32:51.749020+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, stating that they bring him peace in the craziness of life.",
+        "score": 0.8581373169093727,
+        "id": "39860416-06bf-4b9e-ae67-5dbd3147d950",
+        "created_at": "2026-11-03T03:33:01.275380+00:00",
+        "updated_at": "2026-11-03T03:33:01.275380+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.3347978168597602,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate plans to give his turtles a bath before Joanna visits so they are ready to play, and suggested they could also watch one of her movies together or go to the park",
+        "score": 0.3132732595931941,
+        "id": "0060af9e-3059-470b-a5b7-3144b51ad259",
+        "created_at": "2026-11-03T03:32:29.047689+00:00",
+        "updated_at": "2026-11-03T03:32:29.047689+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.30943032556539307,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.30579833556227465,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could come over to watch him play with his turtles, specifying that she would keep a distance because of her allergies",
+        "score": 0.29378653668404364,
+        "id": "7f099c35-a380-4073-960a-2614074c2ef6",
+        "created_at": "2026-11-03T03:31:50.662431+00:00",
+        "updated_at": "2026-11-03T03:31:50.662431+00:00"
+      },
+      {
+        "memory": "Nate took his pets to the park for a special day where they were amazed and happy, which he described as a memorable experience",
+        "score": 0.2893946721480326,
+        "id": "84648782-3271-4b58-a382-de040653cab1",
+        "created_at": "2026-11-03T03:30:09.373013+00:00",
+        "updated_at": "2026-11-03T03:30:09.373013+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to animals but wants to visit Nate's home to watch him play with his turtles from a distance",
+        "score": 0.28887996415666495,
+        "id": "9f282d80-9026-4e17-b199-d953c53b3d00",
+        "created_at": "2026-11-03T03:32:29.043806+00:00",
+        "updated_at": "2026-11-03T03:32:29.043806+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.2873188536605152,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when bored, and they currently relax in a tank with a heat lamp after their outings.",
+        "score": 0.28687920833770014,
+        "id": "c112b5da-61de-49b5-a45e-397f44355ca1",
+        "created_at": "2026-11-03T03:25:19.557967+00:00",
+        "updated_at": "2026-11-03T03:25:19.557967+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate to watch him play with them from a distance.",
+        "score": 0.2841415907536482,
+        "id": "fa4f4d06-a5bb-40f1-96bf-a21fd9a8849e",
+        "created_at": "2026-11-03T03:32:14.041189+00:00",
+        "updated_at": "2026-11-03T03:32:14.041189+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.28201993543286297,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.2787435743565259,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets",
+        "score": 0.2772958120099375,
+        "id": "e0393ced-a07a-4c03-bd21-093d3754d8ac",
+        "created_at": "2026-11-03T03:14:40.193337+00:00",
+        "updated_at": "2026-11-03T03:14:40.193337+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate's home to watch him play with them from a distance.",
+        "score": 0.27724984553180804,
+        "id": "efeb0380-a5a1-4ff2-a597-6e22595ee09c",
+        "created_at": "2026-11-03T03:32:33.625816+00:00",
+        "updated_at": "2026-11-03T03:32:33.625816+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.274627076725287,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.274627076725287,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate plans to give his pet turtles a bath before Joanna visits, as they agreed to hang out together around November 9, 2022",
+        "score": 0.27322794104369097,
+        "id": "54476d08-3e9f-4c56-b4a0-b0e59b637bb8",
+        "created_at": "2026-11-03T03:32:16.947372+00:00",
+        "updated_at": "2026-11-03T03:32:16.947372+00:00"
+      }
+    ],
+    "search_latency_ms": 79.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "his turtles",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'his turtles' correctly identifies the same core entity as the gold answer 'turtles', with the addition of a possessive pronoun which is acceptable under the rules."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "his turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his turtles' correctly identifies the same core entity as the gold answer 'turtles', with the addition of a possessive pronoun which is acceptable under the rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "his turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his turtles' correctly identifies the same core entity as the gold answer 'turtles', with the addition of a possessive pronoun which is acceptable under the rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "his turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'his turtles' correctly identifies the same core entity as the gold answer 'turtles', with the addition of a possessive pronoun which is acceptable under the rules."
+    }
+  }
+}

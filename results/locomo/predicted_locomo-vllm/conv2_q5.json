@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q5",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Maria go to the beach?",
+  "ground_truth_answer": "December 2022",
+  "evidence": [
+    "D3:15"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did Maria go to the beach?",
+    "search_results": [
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.6727026212692584,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach on May 25, 2023, showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community work with Maria.",
+        "score": 0.6313341638255296,
+        "id": "8176ec01-edd3-4cb4-9f09-821fa4814e87",
+        "created_at": "2026-11-03T00:31:05.207069+00:00",
+        "updated_at": "2026-11-03T00:31:05.207069+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.3269906473166925,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.31966199749342805,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.3107775841528503,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.3107444976706713,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.3073240527910189,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.30089463975885866,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.3008586308308716,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from church on the weekend of July 14-15, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.29982638733225436,
+        "id": "6666572d-1fee-40f9-be38-521df634d963",
+        "created_at": "2026-11-03T00:42:42.387438+00:00",
+        "updated_at": "2026-11-03T00:42:42.387438+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.29916215349012176,
+        "id": "4c31882d-0bcd-4a5e-9b3a-d301239ea817",
+        "created_at": "2026-11-03T00:42:37.028010+00:00",
+        "updated_at": "2026-11-03T00:42:37.028010+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.29916215349012176,
+        "id": "0fbe1af9-5fd1-4cd1-9854-a11b66a9e636",
+        "created_at": "2026-11-03T00:42:17.347730+00:00",
+        "updated_at": "2026-11-03T00:42:17.347730+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.29916215349012176,
+        "id": "1d59bbde-6832-46a1-bce7-a9ae7670f209",
+        "created_at": "2026-11-03T00:42:10.794427+00:00",
+        "updated_at": "2026-11-03T00:42:10.794427+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on July 15-16, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.2962983489850563,
+        "id": "e192afd9-65f5-4d71-857e-96dce4e53b6f",
+        "created_at": "2026-11-03T00:42:29.564797+00:00",
+        "updated_at": "2026-11-03T00:42:29.564797+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.29029028312966487,
+        "id": "c27435e1-2255-4694-a24d-78870c326663",
+        "created_at": "2026-11-03T00:40:23.101472+00:00",
+        "updated_at": "2026-11-03T00:40:23.101472+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.29029028312966487,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2895899411211545,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2895899411211545,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2895899411211545,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2895899411211545,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      }
+    ],
+    "search_latency_ms": 54.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '2022' correctly identifies the year from the gold answer 'December 2022', satisfying the requirement to include at least one correct item."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2022' correctly identifies the year from the gold answer 'December 2022', satisfying the requirement to include at least one correct item."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2022' correctly identifies the year from the gold answer 'December 2022', satisfying the requirement to include at least one correct item."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2022' correctly identifies the year from the gold answer 'December 2022', satisfying the requirement to include at least one correct item."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q103",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What was the name of the pet that John had to say goodbye to on 3 June, 2023?",
+  "ground_truth_answer": "Max",
+  "evidence": [
+    "D17:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What was the name of the pet that John had to say goodbye to on 3 June, 2023?",
+    "search_results": [
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.7747173390886349,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.7327709597427188,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.7135499646171715,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.6884199305928534,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.6825713246897893,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6724252673996081,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.671928193566288,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.6652068844853245,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      },
+      {
+        "memory": "John shared a photo of a sunset over the ocean from a walk he took around June 28, 2023, noting it reminds him to take a break, breathe, and appreciate nature.",
+        "score": 0.6648106085166485,
+        "id": "3cede85f-d96f-48a8-a2b3-163d23a5b332",
+        "created_at": "2026-11-03T00:40:23.098108+00:00",
+        "updated_at": "2026-11-03T00:40:23.098108+00:00"
+      },
+      {
+        "memory": "John cherishes a photo of his late pet Max, a golden retriever, sitting peacefully in the grass in the backyard under tree shade, and views this image as a way to remember him as peaceful and happy.",
+        "score": 0.6641714939483261,
+        "id": "1bbeda42-76b8-4f97-984f-39ff4baca5ac",
+        "created_at": "2026-11-03T00:31:34.243262+00:00",
+        "updated_at": "2026-11-03T00:31:34.243262+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.6550723578980915,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.6536117968914639,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.6496123624076303,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      },
+      {
+        "memory": "John went on a camping trip with his late pet Max, a golden retriever, in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience that made great memories.",
+        "score": 0.6495084124325509,
+        "id": "3a1a84ed-ace9-4d8e-a430-e09f4696ab7f",
+        "created_at": "2026-11-03T00:47:37.300437+00:00",
+        "updated_at": "2026-11-03T00:47:37.300437+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.6487775811776008,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he describes as a long time coming and feels over the moon about, viewing it as a stepping stone for bigger things.",
+        "score": 0.6401155608974207,
+        "id": "0423c9c1-d7fe-48b3-b5eb-b16ffc56a98c",
+        "created_at": "2026-11-03T00:33:49.885439+00:00",
+        "updated_at": "2026-11-03T00:33:49.885439+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the view stunning despite the difficulty, noting it helped clear his head.",
+        "score": 0.6399734864961202,
+        "id": "707b3516-0152-47d5-8120-38e63a930ea2",
+        "created_at": "2026-11-03T00:32:03.062423+00:00",
+        "updated_at": "2026-11-03T00:32:03.062423+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.6381061569464712,
+        "id": "e649036e-713b-4c60-b715-f74180cd33f9",
+        "created_at": "2026-11-03T00:33:31.655941+00:00",
+        "updated_at": "2026-11-03T00:33:31.655941+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.6381061569464712,
+        "id": "9739b3ae-96b0-4315-aa32-ac04a65164dd",
+        "created_at": "2026-11-03T00:33:57.491210+00:00",
+        "updated_at": "2026-11-03T00:33:57.491210+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he described as a long time coming and a stepping stone for bigger things.",
+        "score": 0.6381061569464712,
+        "id": "f93ff361-c508-4a6e-a5b1-74f89d80a9d5",
+        "created_at": "2026-11-03T00:34:11.113022+00:00",
+        "updated_at": "2026-11-03T00:34:11.113022+00:00"
+      }
+    ],
+    "search_latency_ms": 57.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Max",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

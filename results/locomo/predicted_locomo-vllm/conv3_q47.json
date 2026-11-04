@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q47",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What places has Nate met new people?",
+  "ground_truth_answer": "A tournament and agaming convention.",
+  "evidence": [
+    "D14:8",
+    "D23:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What places has Nate met new people?",
+    "search_results": [
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.6836960040379829,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games.",
+        "score": 0.6802061994539248,
+        "id": "b23005e4-62f5-406d-945a-35f8b73c0d87",
+        "created_at": "2026-11-03T03:21:11.592514+00:00",
+        "updated_at": "2026-11-03T03:21:11.592514+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.6761456932334765,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate attended a gaming convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games, planning a future gaming session together.",
+        "score": 0.6729862058464913,
+        "id": "6d13d644-40e4-4423-9806-285ca64994b7",
+        "created_at": "2026-11-03T03:21:14.435936+00:00",
+        "updated_at": "2026-11-03T03:21:14.435936+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle, found the experience overwhelming but rewarding, and made friends who share his interest in games.",
+        "score": 0.6725322975055016,
+        "id": "c588b354-3471-4126-8b26-99771a611a1b",
+        "created_at": "2026-11-03T03:20:54.696364+00:00",
+        "updated_at": "2026-11-03T03:20:54.696364+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games",
+        "score": 0.6673084553645293,
+        "id": "dd518a5a-9e91-47df-a04c-0a0f2211d146",
+        "created_at": "2026-11-03T03:21:24.577604+00:00",
+        "updated_at": "2026-11-03T03:21:24.577604+00:00"
+      },
+      {
+        "memory": "After winning the tournament, Nate met new people and connected with fellow gamers, noting that connecting with others in the gaming community is always awesome to him.",
+        "score": 0.6666645477434396,
+        "id": "c74b9100-933d-45a1-bfb3-b90d5dad6b7f",
+        "created_at": "2026-11-03T03:09:24.251180+00:00",
+        "updated_at": "2026-11-03T03:09:24.251180+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his usual social circle; the experience was overwhelming but reminded him of the positive aspects of gaming.",
+        "score": 0.6645604840592754,
+        "id": "d160a8f2-ff73-454e-be22-07e32224c27d",
+        "created_at": "2026-11-03T03:20:31.938645+00:00",
+        "updated_at": "2026-11-03T03:20:31.938645+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.6606829804459838,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate attended a video game convention where he met new friends who share his interest in games and they planned a gaming session together",
+        "score": 0.646438295885427,
+        "id": "c21babf7-62bd-465a-9d07-fcaa781d6825",
+        "created_at": "2026-11-03T03:21:30.264339+00:00",
+        "updated_at": "2026-11-03T03:21:30.264339+00:00"
+      },
+      {
+        "memory": "Nate won another regional video game tournament in the week preceding June 3, 2022, and enjoyed meeting new people and connecting with fellow gamers during the event.",
+        "score": 0.6324540668000477,
+        "id": "22e2d865-a8f0-4994-957d-e7062d217e55",
+        "created_at": "2026-11-03T03:08:58.979037+00:00",
+        "updated_at": "2026-11-03T03:08:58.979037+00:00"
+      },
+      {
+        "memory": "Nate met a couple who lives nearby while walking his dog Max around May 25, 2022, and they decided to arrange regular dog playdates for their pets.",
+        "score": 0.6169901257367094,
+        "id": "990d4fc9-0140-4f68-b2f0-44b5fa4294f1",
+        "created_at": "2026-11-03T03:08:09.582768+00:00",
+        "updated_at": "2026-11-03T03:08:09.582768+00:00"
+      },
+      {
+        "memory": "Nate met a friendly couple with a dog while walking his dog Max around May 23, 2022, and they decided to arrange regular doggy playdates since they live close by.",
+        "score": 0.6125869992028986,
+        "id": "21fbbbc5-024b-4778-8b5a-ae048492124d",
+        "created_at": "2026-11-03T03:07:46.819420+00:00",
+        "updated_at": "2026-11-03T03:07:46.819420+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament in the week preceding June 3, 2022, describing the victory as a huge confidence boost that validated his hard work and allowed him to meet new people.",
+        "score": 0.6098171109082849,
+        "id": "1f222f62-c291-4d10-aacf-2e1def25d55c",
+        "created_at": "2026-11-03T03:09:16.496939+00:00",
+        "updated_at": "2026-11-03T03:09:16.496939+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.6069277521956951,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.6042862674721099,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, where he taught people vegan ice cream recipes, describing the experience as nerve-wracking but a blast and noting that he picked up a few new recipes.",
+        "score": 0.6041427021121918,
+        "id": "96eac831-b7b2-47d0-bb22-8efcd49819ab",
+        "created_at": "2026-11-03T03:17:20.945746+00:00",
+        "updated_at": "2026-11-03T03:17:20.945746+00:00"
+      },
+      {
+        "memory": "Nate took his dog Max for a walk around May 23, 2022, and met a friendly couple with a dog who live nearby; they decided to arrange regular dog playdates so their pets can socialize.",
+        "score": 0.6023675742260781,
+        "id": "00cdfe16-1e5f-41cd-9ab1-62f822ccfddd",
+        "created_at": "2026-11-03T03:07:53.799146+00:00",
+        "updated_at": "2026-11-03T03:07:53.799146+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention on October 7, 2022, who share his interest in games, and they have already planned a gaming session together.",
+        "score": 0.5945073107313458,
+        "id": "1a9ef031-4fb4-4f3a-9e47-81776a1a6d00",
+        "created_at": "2026-11-03T03:20:46.724645+00:00",
+        "updated_at": "2026-11-03T03:20:46.724645+00:00"
+      },
+      {
+        "memory": "Nate's gaming party held on June 17, 2022, was a great success with 7 people attending, and 6 of them expressed interest in doing it again the following month.",
+        "score": 0.5934036914858647,
+        "id": "8287e95e-faf9-4f26-9b08-b448a985361b",
+        "created_at": "2026-11-03T03:11:06.983162+00:00",
+        "updated_at": "2026-11-03T03:11:06.983162+00:00"
+      }
+    ],
+    "search_latency_ms": 85.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a tournament and a game convention",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies both locations mentioned in the gold answer (a tournament and a gaming convention), with only minor typos that do not affect the semantic meaning."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate met new people while walking his dog Max, at a regional video game tournament, and at a game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both the tournament and the gaming convention from the gold answer, with additional detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate met new people while walking his dog Max, at a regional video game tournament, and at a game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both the tournament and the gaming convention from the gold answer, with additional detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate met new people while walking his dog Max, at a regional video game tournament, and at a game convention.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both the tournament and the gaming convention from the gold answer, with additional detail."
+    }
+  }
+}

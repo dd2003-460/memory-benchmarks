@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q120",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What natural disaster affected John's old area on 7 July, 2023?",
+  "ground_truth_answer": "Flood",
+  "evidence": [
+    "D23:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What natural disaster affected John's old area on 7 July, 2023?",
+    "search_results": [
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted John to organize community meetings to discuss solutions.",
+        "score": 0.8212899687550227,
+        "id": "be8273cf-23c1-474b-a8ea-7905379a1654",
+        "created_at": "2026-11-03T00:40:57.997547+00:00",
+        "updated_at": "2026-11-03T00:40:57.997547+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a nasty flood around July 1-3, 2023, where poor infrastructure led to many homes being ruined, prompting him to focus on community improvements",
+        "score": 0.8205928310765375,
+        "id": "98e9c398-8de0-4e2c-bcc5-c52a9bc79e24",
+        "created_at": "2026-11-03T00:40:54.963901+00:00",
+        "updated_at": "2026-11-03T00:40:54.963901+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around July 1-3, 2023, causing significant damage to homes due to poor infrastructure, which motivated him to advocate for community improvements.",
+        "score": 0.8203611022912277,
+        "id": "b2156975-f39e-4f6a-a9df-9d422f0058a6",
+        "created_at": "2026-11-03T00:40:33.180125+00:00",
+        "updated_at": "2026-11-03T00:40:33.180125+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure, prompting John to organize community meetings to discuss solutions and improve local conditions.",
+        "score": 0.8190371443674987,
+        "id": "83e9a088-f67b-4b3a-a75a-ca66a16611e0",
+        "created_at": "2026-11-03T00:40:39.374168+00:00",
+        "updated_at": "2026-11-03T00:40:39.374168+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and reinforced his belief that community infrastructure needs fixing.",
+        "score": 0.816836486295357,
+        "id": "1a0494fe-133c-4f0d-ad68-a0b5d7ac47bc",
+        "created_at": "2026-11-03T00:41:23.241365+00:00",
+        "updated_at": "2026-11-03T00:41:23.241365+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around July 1, 2023, which ruined many homes due to poor infrastructure, reinforcing his belief that the community needs to fix and upgrade local systems.",
+        "score": 0.8154104930109103,
+        "id": "d32d67af-169e-4a0d-ac06-26d234da5005",
+        "created_at": "2026-11-03T00:40:29.510782+00:00",
+        "updated_at": "2026-11-03T00:40:29.510782+00:00"
+      },
+      {
+        "memory": "John's area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted him to organize community meetings to discuss solutions.",
+        "score": 0.8045094462296636,
+        "id": "70aae366-3d80-4676-bccc-91f17a43f051",
+        "created_at": "2026-11-03T00:41:13.885468+00:00",
+        "updated_at": "2026-11-03T00:41:13.885468+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around April 29, 2023, which led him to realize the importance of upgrading local infrastructure to ensure stable services for the community.",
+        "score": 0.6706495835482263,
+        "id": "10b39278-b76e-4e1d-947c-34b48060d141",
+        "created_at": "2026-11-03T00:29:40.944425+00:00",
+        "updated_at": "2026-11-03T00:29:40.944425+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around April 29, 2023, which led him to realize the importance of upgrading local infrastructure for stable services.",
+        "score": 0.6670030925952067,
+        "id": "28d55b91-8da9-466d-ae86-515c62fed100",
+        "created_at": "2026-11-03T00:29:49.980230+00:00",
+        "updated_at": "2026-11-03T00:29:49.980230+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area the week of April 30, 2023, which reinforced his belief in the importance of upgrading infrastructure to ensure stable services for everyone.",
+        "score": 0.6654537021372077,
+        "id": "7c7f820a-cebc-450d-a678-68be5e415148",
+        "created_at": "2026-11-03T00:29:38.596246+00:00",
+        "updated_at": "2026-11-03T00:29:38.596246+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.6262566697686069,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John is organizing a community gathering to discuss solutions for the infrastructure damage caused by the flood that hit his old area in early July 2023, and he has invited Maria to contribute her thoughts.",
+        "score": 0.6158226438801855,
+        "id": "727a0574-95a8-41f3-a8a6-89281a6a9cbc",
+        "created_at": "2026-11-03T00:40:35.427740+00:00",
+        "updated_at": "2026-11-03T00:40:35.427740+00:00"
+      },
+      {
+        "memory": "John shared a photo of a sunset over the ocean from a walk he took around June 28, 2023, noting it reminds him to take a break, breathe, and appreciate nature.",
+        "score": 0.6137209426650186,
+        "id": "3cede85f-d96f-48a8-a2b3-163d23a5b332",
+        "created_at": "2026-11-03T00:40:23.098108+00:00",
+        "updated_at": "2026-11-03T00:40:23.098108+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.4581487539410617,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.4534828598293735,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he helped save a family from a burning building, describing it as chaotic but purposeful.",
+        "score": 0.4251901440771926,
+        "id": "638b61ca-8a6b-4f6a-b872-da2e92825be4",
+        "created_at": "2026-11-03T00:44:08.629599+00:00",
+        "updated_at": "2026-11-03T00:44:08.629599+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he and his team saved a family from a burning building, an event he described as chaotic yet purposeful.",
+        "score": 0.4204563580577994,
+        "id": "6388b4f5-013c-4fc1-8ff2-68afb8d6b73e",
+        "created_at": "2026-11-03T00:44:13.359861+00:00",
+        "updated_at": "2026-11-03T00:44:13.359861+00:00"
+      },
+      {
+        "memory": "John completed intense training for a rescue role, which changed his view on helping others, and had his first call-out on July 30, 2023, where he helped save a family from a burning building.",
+        "score": 0.4182367960330818,
+        "id": "d5ab0099-5b4b-46ac-9e5e-89b79e20a47d",
+        "created_at": "2026-11-03T00:44:23.665958+00:00",
+        "updated_at": "2026-11-03T00:44:23.665958+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire-fighting brigade, where he and his team worked together to save a family from a burning building.",
+        "score": 0.4150287651866341,
+        "id": "943aef1b-4e8d-42be-9508-b77267ad6fd0",
+        "created_at": "2026-11-03T00:43:59.687261+00:00",
+        "updated_at": "2026-11-03T00:43:59.687261+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in late July 2023, an experience that made a significant impact on them, leaving the children awestruck and humbled.",
+        "score": 0.409721179801105,
+        "id": "ed561359-aa0c-476e-9ecc-aac20f2bae4a",
+        "created_at": "2026-11-03T00:45:02.573349+00:00",
+        "updated_at": "2026-11-03T00:45:02.573349+00:00"
+      }
+    ],
+    "search_latency_ms": 75.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A severe flood.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same natural disaster as the gold answer, a flood."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A severe flood.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same natural disaster as the gold answer, a flood."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A severe flood.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same natural disaster as the gold answer, a flood."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A severe flood.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same natural disaster as the gold answer, a flood."
+    }
+  }
+}

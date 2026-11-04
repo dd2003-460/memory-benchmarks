@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q138",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Joanna discover at the library in Woodhaven?",
+  "ground_truth_answer": "cool old book collection",
+  "evidence": [
+    "D17:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Joanna discover at the library in Woodhaven?",
+    "search_results": [
+      {
+        "memory": "Joanna discovered a book from the 1900s in the Woodhaven library containing stories and sketches about the town and its residents, which she found super cool to read.",
+        "score": 0.8588961236582426,
+        "id": "5193cb97-1e1c-4da5-9ef4-8b834e7210b4",
+        "created_at": "2026-11-03T03:12:21.940155+00:00",
+        "updated_at": "2026-11-03T03:12:21.940155+00:00"
+      },
+      {
+        "memory": "Joanna discovered a book from the 1900s in the Woodhaven library containing stories and sketches about the town and its residents, which she found super cool to read.",
+        "score": 0.8588961236582426,
+        "id": "1a878ee5-e02b-4a0b-9ce1-ccea4b33cd99",
+        "created_at": "2026-11-03T03:12:12.342822+00:00",
+        "updated_at": "2026-11-03T03:12:12.342822+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna visited the local library and discovered a book from the 1900s containing stories and sketches about the town and its people.",
+        "score": 0.8582383288520232,
+        "id": "779e8b98-c436-46c5-b91f-994eb956bbe5",
+        "created_at": "2026-11-03T03:12:02.424265+00:00",
+        "updated_at": "2026-11-03T03:12:02.424265+00:00"
+      },
+      {
+        "memory": "During her visit to Woodhaven, Joanna explored historic buildings and scenery, and checked out the local library which featured a cool old book collection.",
+        "score": 0.8516808693321545,
+        "id": "4e744566-76be-4cb7-b093-ff8651df6c64",
+        "created_at": "2026-11-03T03:12:21.937088+00:00",
+        "updated_at": "2026-11-03T03:12:21.937088+00:00"
+      },
+      {
+        "memory": "During her visit to Woodhaven, Joanna explored historic buildings and scenery, and checked out the local library which featured a cool old book collection.",
+        "score": 0.8516808693321545,
+        "id": "532d2027-d011-464a-b818-4b9f043f30f0",
+        "created_at": "2026-11-03T03:12:12.338586+00:00",
+        "updated_at": "2026-11-03T03:12:12.338586+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, where she enjoyed the scenery and historic buildings and visited the local library which featured an old book collection.",
+        "score": 0.8475916156160167,
+        "id": "0560e8b2-c088-4cda-ae06-1a5580003380",
+        "created_at": "2026-11-03T03:12:29.464738+00:00",
+        "updated_at": "2026-11-03T03:12:29.464738+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna saw lovely scenery and historic buildings, and visited the local library which featured a cool old book collection.",
+        "score": 0.8464172977774318,
+        "id": "893775b8-0d09-4f2d-a4ce-e946de4057a8",
+        "created_at": "2026-11-03T03:11:55.365921+00:00",
+        "updated_at": "2026-11-03T03:11:55.365921+00:00"
+      },
+      {
+        "memory": "While at the Woodhaven library, Joanna found a book from the 1900s containing stories and sketches about the town and its residents, which she found inspiring.",
+        "score": 0.8451332559264056,
+        "id": "be822878-0cd7-4d36-8535-24cc0cfd05c4",
+        "created_at": "2026-11-03T03:12:29.469081+00:00",
+        "updated_at": "2026-11-03T03:12:29.469081+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna found a book from the 1900s containing stories and sketches about the town and its residents, which she found super cool to read.",
+        "score": 0.8258204022843065,
+        "id": "9add2bab-facc-4f6e-b9fa-2b25a3ff9aec",
+        "created_at": "2026-11-03T03:11:59.928629+00:00",
+        "updated_at": "2026-11-03T03:11:59.928629+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and the changes it has undergone, noting that this project is different from her previous work but has great potential.",
+        "score": 0.8175464657539214,
+        "id": "b8071fac-7a98-4cdf-b673-ce5d05dd9da0",
+        "created_at": "2026-11-03T03:12:29.473780+00:00",
+        "updated_at": "2026-11-03T03:12:29.473780+00:00"
+      },
+      {
+        "memory": "Joanna found a book from the 1900s containing stories and sketches about Woodhaven, which she described as super cool and inspiring for her next script.",
+        "score": 0.8140892130749661,
+        "id": "0d335feb-d1ae-402e-9d46-a01b5b6df399",
+        "created_at": "2026-11-03T03:12:34.849160+00:00",
+        "updated_at": "2026-11-03T03:12:34.849160+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and its notable past residents, noting that it is different from her previous work but has potential to be something awesome.",
+        "score": 0.8104988802022073,
+        "id": "29c7cf57-3134-4e73-a6cb-4f164cffd2fd",
+        "created_at": "2026-11-03T03:12:34.851897+00:00",
+        "updated_at": "2026-11-03T03:12:34.851897+00:00"
+      },
+      {
+        "memory": "Joanna's exploration of Woodhaven's interesting past and how the town changed over time sparked ideas for her next script, which she describes as different from her previous work but with potential to be something awesome.",
+        "score": 0.8080332016954263,
+        "id": "fe8c56cd-8948-4ca6-a157-f03db376fc7b",
+        "created_at": "2026-11-03T03:12:21.943758+00:00",
+        "updated_at": "2026-11-03T03:12:21.943758+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie, viewing it as a much-needed break to explore new places.",
+        "score": 0.7992070090436646,
+        "id": "ddda09b7-a1b6-4d93-89ce-ca0b1da30e63",
+        "created_at": "2026-11-03T03:12:21.933984+00:00",
+        "updated_at": "2026-11-03T03:12:21.933984+00:00"
+      },
+      {
+        "memory": "Joanna noted that Woodhaven has an interesting past with many notable people, and observing how much the town has changed sparked ideas for her next script.",
+        "score": 0.7938568910103855,
+        "id": "ce19edaf-74bc-4bc5-83e7-908d7cabfd9f",
+        "created_at": "2026-11-03T03:12:07.215663+00:00",
+        "updated_at": "2026-11-03T03:12:07.215663+00:00"
+      },
+      {
+        "memory": "Joanna noted that Woodhaven's interesting past and notable people sparked ideas for her next script, highlighting how seeing the town's changes inspired her creative work.",
+        "score": 0.7883929334228932,
+        "id": "ae402aad-20a7-4b13-b992-c184da21db7a",
+        "created_at": "2026-11-03T03:12:12.345787+00:00",
+        "updated_at": "2026-11-03T03:12:12.345787+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.7867375311505689,
+        "id": "dda9b0a1-3306-43cc-b5fe-182a369230c3",
+        "created_at": "2026-11-03T03:12:02.421560+00:00",
+        "updated_at": "2026-11-03T03:12:02.421560+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.7867375311505689,
+        "id": "270d82d0-352c-4421-abf0-10abbd121662",
+        "created_at": "2026-11-03T03:11:55.361581+00:00",
+        "updated_at": "2026-11-03T03:11:55.361581+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie around July 10, 2022, viewing it as a much-needed break to explore new places.",
+        "score": 0.7810704850463133,
+        "id": "e258a629-1aa4-466c-81bf-99877a8e4ba8",
+        "created_at": "2026-11-03T03:12:12.333829+00:00",
+        "updated_at": "2026-11-03T03:12:12.333829+00:00"
+      },
+      {
+        "memory": "Joanna is excited about her new script inspired by Woodhaven, noting that it is different from her previous work but has the potential to be something awesome, and she plans to keep Nate posted on its progress.",
+        "score": 0.7521878236974205,
+        "id": "6a3dd29d-e443-4bd7-babb-0d73959dc896",
+        "created_at": "2026-11-03T03:12:17.134694+00:00",
+        "updated_at": "2026-11-03T03:12:17.134694+00:00"
+      }
+    ],
+    "search_latency_ms": 93.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A book from the 1900s containing stories and sketches about Woodhaven and its residents.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies an old book from the 1900s, which semantically overlaps with the gold answer's core idea of a cool old book collection."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna discovered a book from the 1900s containing stories and sketches about Woodhaven and its residents.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies an old book related to Woodhaven, which overlaps with the gold answer's core idea of an old book collection."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A book from the 1900s containing stories and sketches about Woodhaven and its residents.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies an old book related to Woodhaven, which semantically overlaps with the gold answer's old book collection."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A book from the 1900s containing stories and sketches about Woodhaven and its residents.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies an old book from the 1900s, which semantically overlaps with the gold answer's old book collection."
+    }
+  }
+}

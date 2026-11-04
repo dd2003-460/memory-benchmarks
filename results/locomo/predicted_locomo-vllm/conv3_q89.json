@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q89",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What color did Nate choose for his hair?",
+  "ground_truth_answer": "purple",
+  "evidence": [
+    "D7:1",
+    "D7:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What color did Nate choose for his hair?",
+    "search_results": [
+      {
+        "memory": "Nate chose to dye his hair purple because he wanted a bright and bold color that stands out from regular options, describing the choice as reflecting his personality",
+        "score": 0.7215678549995422,
+        "id": "07dff758-1845-491a-9d35-b205acddd619",
+        "created_at": "2026-11-03T03:02:39.371472+00:00",
+        "updated_at": "2026-11-03T03:02:39.371472+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.6616325593614932,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.6434086040048285,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, so he tried out cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6163537917389357,
+        "id": "18b5654c-a1b4-49d2-86fc-aa1d461a3de4",
+        "created_at": "2026-11-03T03:30:37.343236+00:00",
+        "updated_at": "2026-11-03T03:30:37.343236+00:00"
+      },
+      {
+        "memory": "Nate participated in a game tournament that was pushed back, during which he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.615200442874116,
+        "id": "e09485e3-7687-4a5a-8bd5-f8e635366795",
+        "created_at": "2026-11-03T03:30:17.364371+00:00",
+        "updated_at": "2026-11-03T03:30:17.364371+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.6050102682378884,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.595439557839227,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, prompting him to try cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.5925622844678524,
+        "id": "fa557a45-cc31-4369-8968-71f8228b5751",
+        "created_at": "2026-11-03T03:30:33.301448+00:00",
+        "updated_at": "2026-11-03T03:30:33.301448+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.24236084080956885,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.2351155444723625,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.2317171975059818,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate is very happy with the decision to get a third turtle, stating he would not have it any other way.",
+        "score": 0.2312894745695923,
+        "id": "716e76e5-5433-4f1d-8b74-f3409bd15715",
+        "created_at": "2026-11-03T03:31:46.574276+00:00",
+        "updated_at": "2026-11-03T03:31:46.574276+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.2295727920011358,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.22760221266855293,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "After winning the tournament around June 3, 2022, Nate spoke with other participants who expressed interest in hanging out later, and he shared a photo of a purple and blue controller with a star field design.",
+        "score": 0.22273311198864545,
+        "id": "913ba860-997e-4a34-a4ae-c6c2c9a5ec0d",
+        "created_at": "2026-11-03T03:09:16.502293+00:00",
+        "updated_at": "2026-11-03T03:09:16.502293+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.22153346645962263,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his purple and blue controller with a star field design on June 3, 2022, after mentioning that players from the regional tournament he won wanted to hang out with him.",
+        "score": 0.21681071233300647,
+        "id": "44bcf9bc-8d91-4529-a926-7132e8ce543f",
+        "created_at": "2026-11-03T03:09:12.760827+00:00",
+        "updated_at": "2026-11-03T03:09:12.760827+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.21463008664790792,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.21211011932957682,
+        "id": "db581681-c9fe-43e6-bed8-0ae2d0d7a53a",
+        "created_at": "2026-11-03T03:11:22.968659+00:00",
+        "updated_at": "2026-11-03T03:11:22.968659+00:00"
+      },
+      {
+        "memory": "Nate did not make it to the finals in his recent game tournament but remains positive about competing again next time.",
+        "score": 0.21149258337089383,
+        "id": "fedb6665-18b8-4a74-9c46-bee8c6effe9b",
+        "created_at": "2026-11-03T03:30:37.345239+00:00",
+        "updated_at": "2026-11-03T03:30:37.345239+00:00"
+      }
+    ],
+    "search_latency_ms": 44.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Purple",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Purple",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Purple",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Purple",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
+    }
+  }
+}

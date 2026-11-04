@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q32",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "Where did Joanna travel to in July 2022?",
+  "ground_truth_answer": "Woodhaven",
+  "evidence": [
+    "D17:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Where did Joanna travel to in July 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna took a road trip for research for her next movie around July 10, 2022, describing it as a much-needed break and an opportunity to explore new places and get inspired.",
+        "score": 0.8546859210256473,
+        "id": "b21d8d21-4e48-4b63-a3e1-f7d6ed847503",
+        "created_at": "2026-11-03T03:11:47.749127+00:00",
+        "updated_at": "2026-11-03T03:11:47.749127+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.8157995198060967,
+        "id": "dda9b0a1-3306-43cc-b5fe-182a369230c3",
+        "created_at": "2026-11-03T03:12:02.421560+00:00",
+        "updated_at": "2026-11-03T03:12:02.421560+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.8157995198060967,
+        "id": "270d82d0-352c-4421-abf0-10abbd121662",
+        "created_at": "2026-11-03T03:11:55.361581+00:00",
+        "updated_at": "2026-11-03T03:11:55.361581+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie around July 10, 2022, viewing it as a much-needed break to explore new places.",
+        "score": 0.8151723294505198,
+        "id": "e258a629-1aa4-466c-81bf-99877a8e4ba8",
+        "created_at": "2026-11-03T03:12:12.333829+00:00",
+        "updated_at": "2026-11-03T03:12:12.333829+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.7805840872976485,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in early July 2022, inspired by the success of her recent movie project",
+        "score": 0.776341690228522,
+        "id": "b05c8843-7437-4ec4-bf99-f74499d4a15f",
+        "created_at": "2026-11-03T03:12:32.038044+00:00",
+        "updated_at": "2026-11-03T03:12:32.038044+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.7729133448905484,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.7708100839188172,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described her recent period as 'quite a ride' in a good way",
+        "score": 0.5544178652666989,
+        "id": "371c0525-93cb-4756-b89b-212be6548a81",
+        "created_at": "2026-11-03T03:01:46.274984+00:00",
+        "updated_at": "2026-11-03T03:01:46.274984+00:00"
+      },
+      {
+        "memory": "Joanna plans to relax and recharge the weekend of August 27-28, 2022, by going for a long walk and reading",
+        "score": 0.5225376112350457,
+        "id": "5276295d-c343-43a8-8fa2-b88bfecddddc",
+        "created_at": "2026-11-03T03:14:40.195901+00:00",
+        "updated_at": "2026-11-03T03:14:40.195901+00:00"
+      },
+      {
+        "memory": "Joanna plans to spend the weekend of August 27-28, 2022, relaxing and recharging with a long walk and some reading.",
+        "score": 0.5211328825519809,
+        "id": "43401bcc-1d22-4463-a060-eb17bd838d23",
+        "created_at": "2026-11-03T03:14:18.197405+00:00",
+        "updated_at": "2026-11-03T03:14:18.197405+00:00"
+      },
+      {
+        "memory": "Joanna is hiking with some buddies the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall.",
+        "score": 0.4719272391776072,
+        "id": "5463dba0-9b17-4792-b8ca-17b3efa0a664",
+        "created_at": "2026-11-03T03:09:48.761074+00:00",
+        "updated_at": "2026-11-03T03:09:48.761074+00:00"
+      },
+      {
+        "memory": "Joanna is hiking with friends on the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall.",
+        "score": 0.4718690187425924,
+        "id": "44807ace-4361-4f03-a82b-31a6e239a510",
+        "created_at": "2026-11-03T03:09:52.146198+00:00",
+        "updated_at": "2026-11-03T03:09:52.146198+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.4668261594556891,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.46614251384201844,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.46529106624507266,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.4559097521351303,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 6, 2022, resulting in the total loss of her work with no recovery possible.",
+        "score": 0.45212622038989964,
+        "id": "50930a82-e345-4b40-a3f8-b4f9961bdd11",
+        "created_at": "2026-11-03T03:17:45.162738+00:00",
+        "updated_at": "2026-11-03T03:17:45.162738+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.4469981502037112,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.4429962799547956,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      }
+    ],
+    "search_latency_ms": 108.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q95",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What activity did Maria and her mom do together in May 2023?",
+  "ground_truth_answer": "Made dinner together",
+  "evidence": [
+    "D13:16"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What activity did Maria and her mom do together in May 2023?",
+    "search_results": [
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.6830731786808928,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.6719323912659849,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.6583642290780577,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, featuring salads, sandwiches, and homemade desserts, with her favorite being a banana split sundae she enjoys after volunteering.",
+        "score": 0.6550165598381468,
+        "id": "1c98aead-0e43-4a15-a2ea-6ff9a9c8aaf1",
+        "created_at": "2026-11-03T00:28:34.584729+00:00",
+        "updated_at": "2026-11-03T00:28:34.584729+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.40792614671231675,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.39420677642735946,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.3763667923201983,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.3763667923201983,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.3755032675824794,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.3754921765122804,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.3754921765122804,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.3754921765122804,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.3754921765122804,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.3731830070125036,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "Maria described life as being a bit rough around May 6, 2023, but stated she is doing alright by taking time to reflect and find balance.",
+        "score": 0.37317557008687435,
+        "id": "7671bd99-b8a5-4b68-a0c1-812bdc2c3154",
+        "created_at": "2026-11-03T00:29:49.976240+00:00",
+        "updated_at": "2026-11-03T00:29:49.976240+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.37240778270041,
+        "id": "3f977a53-ef09-408d-8427-3d949a05cda6",
+        "created_at": "2026-11-03T00:46:11.135457+00:00",
+        "updated_at": "2026-11-03T00:46:11.135457+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.37199911529717083,
+        "id": "74af6cc9-2c08-4d7e-a223-66e32157b738",
+        "created_at": "2026-11-03T00:45:52.371236+00:00",
+        "updated_at": "2026-11-03T00:45:52.371236+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.37199911529717083,
+        "id": "4eff48af-c367-4c2b-89b8-0d80549556b1",
+        "created_at": "2026-11-03T00:45:55.012553+00:00",
+        "updated_at": "2026-11-03T00:45:55.012553+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, to feel closer to her community and faith, finding the experience really great so far.",
+        "score": 0.3705242652448336,
+        "id": "61248418-c168-473d-aebf-562858266eff",
+        "created_at": "2026-11-03T00:29:31.325441+00:00",
+        "updated_at": "2026-11-03T00:29:31.325441+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had a tough time recently around early July 2023.",
+        "score": 0.3595323246553602,
+        "id": "32bef39a-ecdc-4c60-af4e-9a0e779b3564",
+        "created_at": "2026-11-03T00:37:40.115578+00:00",
+        "updated_at": "2026-11-03T00:37:40.115578+00:00"
+      }
+    ],
+    "search_latency_ms": 91.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria and her mom made dinner together on May 3, 2023, with the meal including salads, sandwiches, and homemade desserts.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core activity, making dinner together, with additional acceptable details."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria and her mom made dinner together on May 3, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core activity, making dinner together, and adds a specific date."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria and her mom made dinner together on May 3, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core activity, making dinner together, and adds a specific date."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria and her mom made dinner together on May 3, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core activity, making dinner together, and adds a specific date."
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q26",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What has Maria done to feel closer to her faith?",
+  "ground_truth_answer": "Join a local church, buy a cross necklace",
+  "evidence": [
+    "D14:10",
+    "D11:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What has Maria done to feel closer to her faith?",
+    "search_results": [
+      {
+        "memory": "Maria joined a nearby church around May 5, 2023, seeking to feel closer to her community and faith, and described the experience as really great so far.",
+        "score": 0.6840324344438447,
+        "id": "34220fc0-de91-477b-a779-90d1f7098df3",
+        "created_at": "2026-11-03T00:29:36.412731+00:00",
+        "updated_at": "2026-11-03T00:29:36.412731+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience so far to be really great.",
+        "score": 0.6840191957266845,
+        "id": "9baa5723-50c8-4508-aee6-21a2eafbc8f7",
+        "created_at": "2026-11-03T00:29:49.971153+00:00",
+        "updated_at": "2026-11-03T00:29:49.971153+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.6837066317151155,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience to be really great so far.",
+        "score": 0.6836652215851631,
+        "id": "a40f9e03-20bb-4693-9c2f-e2a2617ed824",
+        "created_at": "2026-11-03T00:29:40.949781+00:00",
+        "updated_at": "2026-11-03T00:29:40.949781+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, to feel closer to her community and faith, finding the experience really great so far.",
+        "score": 0.6832845058696436,
+        "id": "61248418-c168-473d-aebf-562858266eff",
+        "created_at": "2026-11-03T00:29:31.325441+00:00",
+        "updated_at": "2026-11-03T00:29:31.325441+00:00"
+      },
+      {
+        "memory": "John feels that Maria's encouragement gives him the strength to keep going when things feel overwhelming, though he acknowledges he still has a lot to learn but remains determined to make a difference.",
+        "score": 0.5783506253890056,
+        "id": "d687563f-ff24-4bc9-b79e-18af1912026b",
+        "created_at": "2026-11-03T00:29:34.058131+00:00",
+        "updated_at": "2026-11-03T00:29:34.058131+00:00"
+      },
+      {
+        "memory": "Maria describes the people at the homeless shelter where she volunteers as feeling like family to her, and she feels blessed to know them, finding joy in seeing their impact and hearing their gratitude.",
+        "score": 0.5660189153234366,
+        "id": "24ee00b3-30f4-442b-b85b-90afd802e9aa",
+        "created_at": "2026-11-03T00:26:34.638564+00:00",
+        "updated_at": "2026-11-03T00:26:34.638564+00:00"
+      },
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.5604284111791429,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "Maria found the view from the top of the mountain during her hike with church friends on July 15-16, 2023, to be breathtaking and felt a sense of peace and connection to something special while taking in the scenery.",
+        "score": 0.5450441433801684,
+        "id": "b0e57f39-9fd8-463a-b5d9-71aec73f8faf",
+        "created_at": "2026-11-03T00:43:00.236396+00:00",
+        "updated_at": "2026-11-03T00:43:00.236396+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.519497018941799,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.5153133046436686,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.2688028290178788,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.26849073656904626,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.26434621419141613,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.2552947476441787,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria was inspired to go on the hike with her church friends by a desire to make connections, laugh together, and take in nature's beauty.",
+        "score": 0.25243303777697196,
+        "id": "1b36821b-2d18-4e2f-b3b1-5de0ef5b5861",
+        "created_at": "2026-11-03T00:42:55.735648+00:00",
+        "updated_at": "2026-11-03T00:42:55.735648+00:00"
+      },
+      {
+        "memory": "As of June 27, 2023, Maria is going through a period of struggle but is focusing on the positive and relying on her friends and family for support.",
+        "score": 0.25192298183159545,
+        "id": "27289836-54df-465e-861c-955c8a045a51",
+        "created_at": "2026-11-03T00:35:38.450697+00:00",
+        "updated_at": "2026-11-03T00:35:38.450697+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.24928180309473538,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.24616096685920646,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "During her trip, Maria shared that she realized the importance of valuing different perspectives, the power of solitude, and letting go to trust life.",
+        "score": 0.2425449955675564,
+        "id": "e1ac1471-89b0-4141-8396-8c07f74df70b",
+        "created_at": "2026-11-03T00:29:11.470167+00:00",
+        "updated_at": "2026-11-03T00:29:11.470167+00:00"
+      }
+    ],
+    "search_latency_ms": 82.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria bought a cross necklace and joined a nearby church to feel closer to her faith.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both gold items, buying a cross necklace and joining a nearby/local church."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria bought a cross necklace and joined a nearby church on May 5, 2023, to feel closer to her faith.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold items, buying a cross necklace and joining a nearby church, with an extra date."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria bought a cross necklace and joined a nearby church on May 5, 2023, to feel closer to her faith.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold items, buying a cross necklace and joining a nearby church, with an extra date."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria bought a cross necklace and joined a nearby church on May 5, 2023, to feel closer to her faith.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold items, buying a cross necklace and joining a nearby church, with an extra date."
+    }
+  }
+}

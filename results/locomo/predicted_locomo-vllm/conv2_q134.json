@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q134",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did John describe his kids' reaction at the military memorial?",
+  "ground_truth_answer": "awestruck and humbled",
+  "evidence": [
+    "D27:11"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How did John describe his kids' reaction at the military memorial?",
+    "search_results": [
+      {
+        "memory": "John visited a military memorial with his kids the week of July 24, 2023, finding it a moving experience that made them awestruck and humbled while teaching them to respect those who served",
+        "score": 0.8944816112222977,
+        "id": "1b2fbf8a-7286-408e-b00e-6a5c6b747dc7",
+        "created_at": "2026-11-03T00:45:09.363909+00:00",
+        "updated_at": "2026-11-03T00:45:09.363909+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.8912487922452561,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in late July 2023, an experience that made a significant impact on them, leaving the children awestruck and humbled.",
+        "score": 0.888491927575776,
+        "id": "ed561359-aa0c-476e-9ecc-aac20f2bae4a",
+        "created_at": "2026-11-03T00:45:02.573349+00:00",
+        "updated_at": "2026-11-03T00:45:02.573349+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in late July 2023, where they were awestruck and humbled by the experience.",
+        "score": 0.8850796588395451,
+        "id": "38698765-2a98-401f-a1cb-da3fde1da56b",
+        "created_at": "2026-11-03T00:45:24.722116+00:00",
+        "updated_at": "2026-11-03T00:45:24.722116+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.8820982712437427,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.8716948205617838,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial the week before August 3, 2023, describing it as a meaningful experience that made an impact on them, and shared a photo of a young boy holding a flag in a cemetery.",
+        "score": 0.8615331383909423,
+        "id": "b43934bd-5f91-460b-a6ad-629a37eae44d",
+        "created_at": "2026-11-03T00:44:57.064698+00:00",
+        "updated_at": "2026-11-03T00:44:57.064698+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.7239113675216589,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John describes his rescue team as having become like family to him, noting that the strong bond they share is similar to what he experienced during his time in the military.",
+        "score": 0.6344655538190639,
+        "id": "ebacaf04-2424-41ed-9a2e-39c1f710c207",
+        "created_at": "2026-11-03T00:44:23.670995+00:00",
+        "updated_at": "2026-11-03T00:44:23.670995+00:00"
+      },
+      {
+        "memory": "John feels a strong bond of trust and reliance with his fire-fighting brigade teammates, describing them as like family, a connection he has not felt since his time in the military.",
+        "score": 0.6253486888931727,
+        "id": "34c769c5-09b2-4065-8d89-76929b659aa1",
+        "created_at": "2026-11-03T00:44:15.981618+00:00",
+        "updated_at": "2026-11-03T00:44:15.981618+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park where the kids had fun on the playground, describing it as an awesome day with nice family time.",
+        "score": 0.5951623397282226,
+        "id": "e15b655d-b216-4ea0-a58f-438e55002740",
+        "created_at": "2026-11-03T00:32:53.468645+00:00",
+        "updated_at": "2026-11-03T00:32:53.468645+00:00"
+      },
+      {
+        "memory": "John is highly motivated by the positive reactions and camaraderie shown by veterans involved in his support project, viewing their excitement as key to his continued dedication.",
+        "score": 0.5930192074674935,
+        "id": "9e5def09-3bdb-4483-b926-fb63a576b8c4",
+        "created_at": "2026-11-03T00:30:36.698213+00:00",
+        "updated_at": "2026-11-03T00:30:36.698213+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.5898116230792697,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.584397910139924,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.5807139125961438,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his military veteran support project and petition effort, expressing her commitment to making a difference together.",
+        "score": 0.5688019797738704,
+        "id": "d0032eb3-4ae9-481c-8816-789a37e7be36",
+        "created_at": "2026-11-03T00:30:23.127351+00:00",
+        "updated_at": "2026-11-03T00:30:23.127351+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.5667851731631154,
+        "id": "e63d7985-3111-4e45-b0c6-30985da284b7",
+        "created_at": "2026-11-03T00:30:23.118723+00:00",
+        "updated_at": "2026-11-03T00:30:23.118723+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.5667851731631154,
+        "id": "237b6fe1-05b1-400b-86d0-0e8c767177fb",
+        "created_at": "2026-11-03T00:30:14.179096+00:00",
+        "updated_at": "2026-11-03T00:30:14.179096+00:00"
+      },
+      {
+        "memory": "John shared a photo from a community event showing a young girl holding a sign, with the context involving family, military veterans, and patriotic individuals.",
+        "score": 0.5625951809178994,
+        "id": "5cee4ba5-92e3-4522-b287-f45df293b140",
+        "created_at": "2026-11-03T00:46:29.696175+00:00",
+        "updated_at": "2026-11-03T00:46:29.696175+00:00"
+      },
+      {
+        "memory": "As of May 20, 2023, John is busy tackling a project to support military veterans, which involves getting a petition going; he finds it rewarding but stressful.",
+        "score": 0.5574940622676735,
+        "id": "541e891d-da83-424e-a751-85457b92b7a1",
+        "created_at": "2026-11-03T00:30:09.667342+00:00",
+        "updated_at": "2026-11-03T00:30:09.667342+00:00"
+      }
+    ],
+    "search_latency_ms": 69.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described his kids as being awestruck and humbled.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's key descriptors."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described his kids as being awestruck and humbled by the experience.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact gold answer phrases 'awestruck and humbled'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described his kids as being awestruck and humbled.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's key descriptors."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John described his kids as being awestruck and humbled, and said the experience was meaningful and impactful for them.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact gold answer items 'awestruck and humbled' and adds extra detail."
+    }
+  }
+}

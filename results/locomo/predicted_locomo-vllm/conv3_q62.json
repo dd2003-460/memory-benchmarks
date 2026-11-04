@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q62",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many letters has Joanna recieved?",
+  "ground_truth_answer": "Two",
+  "evidence": [
+    "D14:1",
+    "D18:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many letters has Joanna recieved?",
+    "search_results": [
+      {
+        "memory": "Joanna received a letter around August 7, 2022 from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing and its power to help others.",
+        "score": 0.6640937813251869,
+        "id": "8d96dfe2-b46f-4316-a791-aca891a241d7",
+        "created_at": "2026-11-03T03:13:10.254340+00:00",
+        "updated_at": "2026-11-03T03:13:10.254340+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.649130799302122,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.6484234774680652,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6427419610515774,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.6419710318657734,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a hard moment in her life, which reinforced her love for writing and its impact.",
+        "score": 0.6416608981450896,
+        "id": "0e337284-9d98-4bc5-9ee4-d10c8d38272a",
+        "created_at": "2026-11-03T03:13:36.345095+00:00",
+        "updated_at": "2026-11-03T03:13:36.345095+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.6293875350759796,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of the film.",
+        "score": 0.6221180766736123,
+        "id": "9bea47dc-752d-45b0-a690-008dbf67b43f",
+        "created_at": "2026-11-03T03:29:28.415084+00:00",
+        "updated_at": "2026-11-03T03:29:28.415084+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of it.",
+        "score": 0.6219924608129117,
+        "id": "81af8359-44cc-450b-9cd7-0a9a0fedb3ae",
+        "created_at": "2026-11-03T03:29:57.302915+00:00",
+        "updated_at": "2026-11-03T03:29:57.302915+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.6204355521120214,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna included a handwritten letter from her childhood in the introduction of her next movie script, which was originally written by her brother.",
+        "score": 0.6196973633188698,
+        "id": "e91d8714-96e4-46d5-a7a8-a582eb62a0e9",
+        "created_at": "2026-11-03T03:29:33.489615+00:00",
+        "updated_at": "2026-11-03T03:29:33.489615+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.6045008399134819,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her third screenplay, which significantly discouraged her and made her feel bummed out.",
+        "score": 0.6031690580083761,
+        "id": "62bbfecd-688d-40e2-8046-b9cbde34430a",
+        "created_at": "2026-11-03T03:08:40.405113+00:00",
+        "updated_at": "2026-11-03T03:08:40.405113+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.6014219788533914,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.34571590050013484,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.31277710383577995,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.2914092098896964,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.28345155195759203,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.2830221445160116,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.2803151396110054,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      }
+    ],
+    "search_latency_ms": 45.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'Two'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories mention:\n- Joanna received a rejection letter from a major company for her screenplay.\n- Joanna received a letter from a reader who was comforted by her blog post.\n- Joanna included a handwritten letter in her next movie script, but this is not described as a letter she received.\n- Her brother used to write her cute notes, but these are notes, not explicitly letters.\n\nStep 2: ENTITY VERIFICATION  \nAll relevant",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies two letters Joanna received, matching the gold answer's count."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'Two'."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '2' is numerically equivalent to the gold answer 'Two'."
+    }
+  }
+}

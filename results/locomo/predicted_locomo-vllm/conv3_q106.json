@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q106",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What inspired Joanna's new screenplay on 25 February, 2022?",
+  "ground_truth_answer": "personal experiences and her own journey of self-discovery",
+  "evidence": [
+    "D4:16"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What inspired Joanna's new screenplay on 25 February, 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7793103593376856,
+        "id": "ad0104cc-cfa8-44b2-8a68-5e466dd6d0e3",
+        "created_at": "2026-11-03T03:10:19.033326+00:00",
+        "updated_at": "2026-11-03T03:10:19.033326+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.7755168548222778,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that was released in theaters on June 4, 2022, and described the experience as nerve-wracking but inspiring to see her words come alive on the big screen.",
+        "score": 0.7751438725410512,
+        "id": "ff584b90-36c2-4bcc-b4de-e9b4ef78b826",
+        "created_at": "2026-11-03T03:10:01.624285+00:00",
+        "updated_at": "2026-11-03T03:10:01.624285+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.7743458195158932,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.7735385757300037,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.7728086332060329,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.7727725006455758,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip for research for her next movie around July 10, 2022, describing it as a much-needed break and an opportunity to explore new places and get inspired.",
+        "score": 0.769911576595855,
+        "id": "b21d8d21-4e48-4b63-a3e1-f7d6ed847503",
+        "created_at": "2026-11-03T03:11:47.749127+00:00",
+        "updated_at": "2026-11-03T03:11:47.749127+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7693515817510841,
+        "id": "98232f51-cabc-47e2-ac65-24c05b88f66d",
+        "created_at": "2026-11-03T03:10:37.194689+00:00",
+        "updated_at": "2026-11-03T03:10:37.194689+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7693515817510841,
+        "id": "93d419b1-d161-4865-bfe3-9008f4a963ca",
+        "created_at": "2026-11-03T03:10:30.620142+00:00",
+        "updated_at": "2026-11-03T03:10:30.620142+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7693515817510841,
+        "id": "ed09fcdc-d943-4cf4-8c21-d03868508c42",
+        "created_at": "2026-11-03T03:10:14.636066+00:00",
+        "updated_at": "2026-11-03T03:10:14.636066+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared in theaters on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7678093117000176,
+        "id": "f68f1e47-294d-458d-8825-61f9a2e09f0c",
+        "created_at": "2026-11-03T03:10:25.124799+00:00",
+        "updated_at": "2026-11-03T03:10:25.124799+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in early July 2022, inspired by the success of her recent movie project",
+        "score": 0.7657669578835816,
+        "id": "b05c8843-7437-4ec4-bf99-f74499d4a15f",
+        "created_at": "2026-11-03T03:12:32.038044+00:00",
+        "updated_at": "2026-11-03T03:12:32.038044+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.7579201530003836,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.7567885228303199,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which made her feel motivated and like she finally belongs somewhere",
+        "score": 0.7383981579340894,
+        "id": "02ee203f-d412-43ad-8ae2-d3fd64dc7987",
+        "created_at": "2026-11-03T03:04:12.598846+00:00",
+        "updated_at": "2026-11-03T03:04:12.598846+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.7370129756124969,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna completed her third handwritten screenplay around May 25, 2022, a personal story about loss, identity, and connection that she had been developing for years but finally felt brave enough to write.",
+        "score": 0.7246800676354073,
+        "id": "d0629d3d-fec3-4a2c-ba02-7b879ee18e77",
+        "created_at": "2026-11-03T03:07:46.810297+00:00",
+        "updated_at": "2026-11-03T03:07:46.810297+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.7131562599803064,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna pitched her new movie script to some producers on November 8, 2022, and they really liked it, which gave her a big confidence boost.",
+        "score": 0.6968416243917186,
+        "id": "3ecabc91-15af-4a53-ae38-26050c39cb39",
+        "created_at": "2026-11-03T03:30:26.595737+00:00",
+        "updated_at": "2026-11-03T03:30:26.595737+00:00"
+      }
+    ],
+    "search_latency_ms": 83.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A road trip that let her explore new places and get inspired.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a different specific inspiration (a road trip) and does not mention personal experiences or self-discovery."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a personal story about loss, identity, and connection",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's mention of a 'personal story' aligns with the gold answer's 'personal experiences,' and 'identity' is a valid paraphrase for 'self-discovery,' satisfying the partial credit and semantic overlap rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a personal story about loss, identity, and connection",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's mention of a 'personal story' aligns with the gold answer's 'personal experiences,' and 'identity' is a valid paraphrase for 'self-discovery,' satisfying the partial credit and semantic overlap rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "a personal story about loss, identity, and connection",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's mention of a 'personal story' aligns with the gold answer's 'personal experiences,' and 'identity' is a valid paraphrase for 'self-discovery,' satisfying the partial credit and semantic overlap rules."
+    }
+  }
+}

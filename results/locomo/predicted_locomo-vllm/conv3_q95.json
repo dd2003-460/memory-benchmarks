@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q95",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Nate's favorite video game?",
+  "ground_truth_answer": "Xenoblade Chronicles",
+  "evidence": [
+    "D27:22",
+    "D27:23"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Nate's favorite video game?",
+    "search_results": [
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.6896093038905364,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.6869893436099009,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming while connecting with other enthusiasts.",
+        "score": 0.6839825776250147,
+        "id": "7030d9ff-f80e-4e4e-9bf4-41ce73353bad",
+        "created_at": "2026-11-03T03:31:26.581866+00:00",
+        "updated_at": "2026-11-03T03:31:26.581866+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.6820707626560993,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      },
+      {
+        "memory": "Nate started making gaming videos to share his love of gaming and connect with others who enjoy it, noting that it is a new endeavor for him but he is excited to get started.",
+        "score": 0.6808893853823377,
+        "id": "a8cc4e45-2df2-478e-b7b1-d94570bb55fb",
+        "created_at": "2026-11-03T03:31:42.066863+00:00",
+        "updated_at": "2026-11-03T03:31:42.066863+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, hoping to share his love of gaming and connect with others.",
+        "score": 0.6782436712042487,
+        "id": "b4c894d6-1540-42be-99f5-4b6be1f3d142",
+        "created_at": "2026-11-03T03:31:14.937482+00:00",
+        "updated_at": "2026-11-03T03:31:14.937482+00:00"
+      },
+      {
+        "memory": "Nate creates gaming content for YouTube to entertain people and satisfy his video game cravings during periods when there are no tournaments going on.",
+        "score": 0.6724720495028461,
+        "id": "ff0f5f86-5f27-4775-a51d-6ad963e71723",
+        "created_at": "2026-11-03T03:30:50.642599+00:00",
+        "updated_at": "2026-11-03T03:30:50.642599+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on.",
+        "score": 0.6724189032269217,
+        "id": "3fc1ee0a-6c80-4d92-8fd0-89875b364c01",
+        "created_at": "2026-11-03T03:31:21.132721+00:00",
+        "updated_at": "2026-11-03T03:31:21.132721+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube as a way to entertain others and satisfy his video game cravings during periods when there are no tournaments.",
+        "score": 0.6718522156735018,
+        "id": "723cdded-1710-48c2-838f-55e79af01cac",
+        "created_at": "2026-11-03T03:30:47.956982+00:00",
+        "updated_at": "2026-11-03T03:30:47.956982+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on.",
+        "score": 0.6672599137623103,
+        "id": "57760e30-8d36-408e-8eeb-acdd40156d5e",
+        "created_at": "2026-11-03T03:31:26.577729+00:00",
+        "updated_at": "2026-11-03T03:31:26.577729+00:00"
+      },
+      {
+        "memory": "Nate won an international video game tournament on August 21, 2022, describing the experience as wild and noting that gaming has brought him success and allows him to make a living doing what he is passionate about.",
+        "score": 0.6643407943355986,
+        "id": "6d120716-6036-4b0c-9b87-0035b8f72ade",
+        "created_at": "2026-11-03T03:13:50.656428+00:00",
+        "updated_at": "2026-11-03T03:13:50.656428+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop, appreciating its futuristic setting and gameplay.",
+        "score": 0.6631893516920647,
+        "id": "ba517128-023d-4e82-9820-87e36f9899bb",
+        "created_at": "2026-11-03T03:22:35.343231+00:00",
+        "updated_at": "2026-11-03T03:22:35.343231+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, describing the victory as indescribable and expressing pride in making money doing what he loves.",
+        "score": 0.6602301212370955,
+        "id": "f1df5fbb-011a-4010-bee9-cbbb60825bc2",
+        "created_at": "2026-11-03T03:12:21.929702+00:00",
+        "updated_at": "2026-11-03T03:12:21.929702+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, noting that the competition was online and he is proud to make money doing what he loves.",
+        "score": 0.658375741884861,
+        "id": "33a16bfd-50d9-49b7-875f-3f18c1fcb47e",
+        "created_at": "2026-11-03T03:11:55.369946+00:00",
+        "updated_at": "2026-11-03T03:11:55.369946+00:00"
+      },
+      {
+        "memory": "Nate has been participating in video game tournaments for several years, noting that it has been a while since his first tournament, and he values connecting with fellow gamers.",
+        "score": 0.6576282844074236,
+        "id": "bb58676e-b181-421f-8efd-e204cef09d12",
+        "created_at": "2026-11-03T03:09:16.499442+00:00",
+        "updated_at": "2026-11-03T03:09:16.499442+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, which was held online. He described the victory as indescribable and expressed pride in making money doing what he loves.",
+        "score": 0.6568752587779347,
+        "id": "a2ebf346-b839-4676-bfce-8af36f7c1164",
+        "created_at": "2026-11-03T03:12:02.418021+00:00",
+        "updated_at": "2026-11-03T03:12:02.418021+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.6562309307622025,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, expressing pride in making money from his passion and describing the victory as indescribable.",
+        "score": 0.6527330766914801,
+        "id": "6856bad4-ab0b-4c4e-9df5-b90bd0a7be49",
+        "created_at": "2026-11-03T03:12:12.320908+00:00",
+        "updated_at": "2026-11-03T03:12:12.320908+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.652210331257393,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Nate attended a video game convention where he met new friends who share his interest in games and they planned a gaming session together",
+        "score": 0.6521126351230248,
+        "id": "c21babf7-62bd-465a-9d07-fcaa781d6825",
+        "created_at": "2026-11-03T03:21:30.264339+00:00",
+        "updated_at": "2026-11-03T03:21:30.264339+00:00"
+      }
+    ],
+    "search_latency_ms": 57.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Video games in general.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer does not mention Xenoblade Chronicles or any specific game from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different video game than the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different video game than the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Cyberpunk 2077",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different video game than the gold answer."
+    }
+  }
+}

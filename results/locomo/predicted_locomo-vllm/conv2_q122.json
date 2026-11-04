@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q122",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+  "ground_truth_answer": "Flood in John's old area",
+  "evidence": [
+    "D23:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+    "search_results": [
+      {
+        "memory": "John is organizing a community gathering to discuss solutions for the infrastructure damage caused by the flood that hit his old area in early July 2023, and he has invited Maria to contribute her thoughts.",
+        "score": 0.710278886861188,
+        "id": "727a0574-95a8-41f3-a8a6-89281a6a9cbc",
+        "created_at": "2026-11-03T00:40:35.427740+00:00",
+        "updated_at": "2026-11-03T00:40:35.427740+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with people to discuss potential solutions for the flood damage and community infrastructure issues, and Maria agreed to join and contribute her thoughts",
+        "score": 0.6897449956180848,
+        "id": "38b97f24-15a5-42d8-b84d-2dd7c1ccb8bf",
+        "created_at": "2026-11-03T00:40:54.967205+00:00",
+        "updated_at": "2026-11-03T00:40:54.967205+00:00"
+      },
+      {
+        "memory": "Maria agreed to join John's community meeting regarding the recent flood damage and contribute her thoughts on potential solutions for improving local infrastructure.",
+        "score": 0.6760075456417991,
+        "id": "9a7ac0fa-5698-475c-9c07-2d02706f1fe9",
+        "created_at": "2026-11-03T00:40:57.999736+00:00",
+        "updated_at": "2026-11-03T00:40:57.999736+00:00"
+      },
+      {
+        "memory": "Maria agreed to join John's community meeting regarding the recent flood damage and contribute her thoughts on potential solutions for improving local infrastructure.",
+        "score": 0.6760075456417991,
+        "id": "4b6c1b02-328e-4498-8b7c-2947cb5d1250",
+        "created_at": "2026-11-03T00:41:13.889909+00:00",
+        "updated_at": "2026-11-03T00:41:13.889909+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around July 31, 2023, inspired by Maria's work at the homeless shelter and his own desire to give back to his community.",
+        "score": 0.6602003328493866,
+        "id": "45ad3c37-df98-4c04-ae81-33e79ab7c660",
+        "created_at": "2026-11-03T00:43:44.787875+00:00",
+        "updated_at": "2026-11-03T00:43:44.787875+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with local residents to discuss solutions for the recent flood damage and invited Maria to join and contribute her thoughts.",
+        "score": 0.6572829881345856,
+        "id": "0907493e-d12a-4d8e-977b-5054c9c65f4c",
+        "created_at": "2026-11-03T00:41:23.245628+00:00",
+        "updated_at": "2026-11-03T00:41:23.245628+00:00"
+      },
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.6507882066304791,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and finds the experience fulfilling and meaningful for giving back to his community.",
+        "score": 0.6492053447342891,
+        "id": "21057a03-3e39-4baf-88db-3d6df2c3e864",
+        "created_at": "2026-11-03T00:44:15.969929+00:00",
+        "updated_at": "2026-11-03T00:44:15.969929+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on May 4, 2023 showing a table with a map of a city on it while discussing her inspiration from motivated people",
+        "score": 0.6248627371877052,
+        "id": "4c805b2d-c206-42f2-8ca8-f2f4777a15c1",
+        "created_at": "2026-11-03T00:27:56.123835+00:00",
+        "updated_at": "2026-11-03T00:27:56.123835+00:00"
+      },
+      {
+        "memory": "John sometimes doubts whether he is making a real difference in his community work but finds motivation and encouragement from knowing that people like Maria understand the value of his efforts.",
+        "score": 0.6196634155040522,
+        "id": "df17df94-e66a-425d-bf7e-a9e03df06865",
+        "created_at": "2026-11-03T00:39:53.008084+00:00",
+        "updated_at": "2026-11-03T00:39:53.008084+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.6162865108492124,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "John sometimes doubts if he is making a difference in his activism work, but finds it uplifting and motivating to know that people like Maria understand and support his efforts.",
+        "score": 0.5252826961450433,
+        "id": "eebf9a78-877d-452f-ac3f-77ca8fbdb076",
+        "created_at": "2026-11-03T00:39:34.284028+00:00",
+        "updated_at": "2026-11-03T00:39:34.284028+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.5243028807556288,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.510705765786481,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.5097044655247975,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "John is planning to set up a family game day similar to Maria's picnic for his kids soon, inspired by the fun activities he saw at a community event in June 2023.",
+        "score": 0.504091892279427,
+        "id": "1566f7f2-bac6-41a8-a3f1-0213181ca298",
+        "created_at": "2026-11-03T00:42:42.392900+00:00",
+        "updated_at": "2026-11-03T00:42:42.392900+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in late July 2023 after being inspired by Maria's work at the homeless shelter, finding the training intense but rewarding.",
+        "score": 0.5016298766993298,
+        "id": "a96996be-afd3-43d6-96bc-7ac99fec50d1",
+        "created_at": "2026-11-03T00:44:08.625430+00:00",
+        "updated_at": "2026-11-03T00:44:08.625430+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.4941951125276418,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had a tough time recently around early July 2023.",
+        "score": 0.47567323069537093,
+        "id": "32bef39a-ecdc-4c60-af4e-9a0e779b3564",
+        "created_at": "2026-11-03T00:37:40.115578+00:00",
+        "updated_at": "2026-11-03T00:37:40.115578+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, which she found refreshing due to the supportive people and nature.",
+        "score": 0.4722077255530939,
+        "id": "5d9630cd-73b2-4cb6-96b5-5f649fb5ffe0",
+        "created_at": "2026-11-03T00:42:55.730971+00:00",
+        "updated_at": "2026-11-03T00:42:55.730971+00:00"
+      }
+    ],
+    "search_latency_ms": 68.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The recent flood that hit John’s old area in early July 2023 and the resulting infrastructure damage motivated Maria and John to discuss potential solutions for their community.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies the flood in John's old area as the motivating factor, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The recent flood that hit John’s old area in early July 2023 and the resulting infrastructure damage motivated Maria and John to discuss potential community solutions.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the flood in John's old area as the motivation, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The recent flood that hit John’s old area in early July 2023 and the resulting damage to community infrastructure motivated them to discuss potential solutions.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the flood in John's old area as the motivation, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The recent flood that hit John’s old area in early July 2023 and the resulting damage to community infrastructure motivated them to discuss potential solutions.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the flood in John's old area as the motivation, matching the gold answer."
+    }
+  }
+}

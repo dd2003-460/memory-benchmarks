@@ -1,0 +1,106 @@
+{
+  "question_id": "conv1_q77",
+  "conversation_idx": 1,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Gina make a limited edition line of?",
+  "ground_truth_answer": "Hoodies",
+  "evidence": [
+    "D16:3"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "What did Gina make a limited edition line of?",
+    "search_results": [
+      {
+        "memory": "Jon agreed to accept Gina's offer for help with creating content and managing social media accounts for his dance studio, planning to collaborate with her to enhance the studio's online presence.",
+        "score": 0.41345411674160515,
+        "id": "b1cc54a4-266a-4ea1-87e9-70f7dccf62d7",
+        "created_at": "2026-11-02T19:36:42.770237+00:00",
+        "updated_at": "2026-11-02T19:36:42.770237+00:00"
+      },
+      {
+        "memory": "Gina offered to help Jon with creating marketing content or managing his social media accounts for the dance studio.",
+        "score": 0.4078071876798887,
+        "id": "34008eb9-1865-4045-88c8-eca033fceef2",
+        "created_at": "2026-11-02T19:36:41.090923+00:00",
+        "updated_at": "2026-11-02T19:36:41.090923+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.3974774793368904,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.39416967797765057,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips, and suggested collaborating with local influencers or dance communities to raise awareness.",
+        "score": 0.33676455446602543,
+        "id": "b4ad7832-b3a5-476b-b651-f2e84f1221d2",
+        "created_at": "2026-11-02T19:36:41.086686+00:00",
+        "updated_at": "2026-11-02T19:36:41.086686+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.06385925987482335,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Jon is excited for his dance studio to start welcoming dancers of all ages and backgrounds, viewing this inclusivity as a key goal for the business.",
+        "score": 0.04494375490810464,
+        "id": "eb6c2d0e-0237-4155-9f9c-5dbc35d615c2",
+        "created_at": "2026-11-02T19:37:09.287321+00:00",
+        "updated_at": "2026-11-02T19:37:09.287321+00:00"
+      },
+      {
+        "memory": "Jon is working on an online platform to showcase his dance studio's content and offerings, as part of his efforts to spruce up his business plan and tweak his pitch to investors following a networking event.",
+        "score": 0.04321203123157398,
+        "id": "f41d86f9-0708-495c-bdec-12488876710b",
+        "created_at": "2026-11-02T19:36:36.716432+00:00",
+        "updated_at": "2026-11-02T19:36:36.716432+00:00"
+      }
+    ],
+    "search_latency_ms": 44.7,
+    "total_results": 8
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dance studio marketing and social media content.",
+      "memories_evaluated": 8,
+      "reason": "The generated answer does not mention hoodies or any related item from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: Scanning all memories, the Gina-relevant details are that she recommended Instagram/TikTok and influencer collaborations for Jon’s dance studio, offered to help create marketing content and manage social media, Jon accepted her help, she attended a dance class on July 21, 2023, and she encouraged Jon’s studio as a creative space.\n\nStep 2: These memories are correctly attributed to Gina.\n\nStep 3: Combining them, Gina’s concrete creative contribution is tied to dance-studio marketing and social media content.\n\nStep 4: The most specific supported item is marketing content for Jon’s dance studio.\n\nStep 5: The relevant time frame is around July 2023.\n\nStep 6: No additional distinct",
+      "memories_evaluated": 8,
+      "reason": "The generated answer does not mention hoodies or a limited edition line, instead discussing dance-studio marketing and social media content."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "dance clips",
+      "memories_evaluated": 8,
+      "reason": "The generated answer 'dance clips' does not match the gold answer 'Hoodies' and addresses a different item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories show Gina recommending that Jon post dance clips, offering to help create marketing content, and being connected to Jon’s dance studio and creative self-expression.\n\nStep 2: ENTITY VERIFICATION  \nThe",
+      "memories_evaluated": 8,
+      "reason": "The generated answer does not mention hoodies or any correct item from the gold answer."
+    }
+  }
+}

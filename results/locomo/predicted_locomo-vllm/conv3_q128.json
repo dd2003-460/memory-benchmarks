@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q128",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What superhero is Joanna a fan of?",
+  "ground_truth_answer": "Spider-Man",
+  "evidence": [
+    "D15:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What superhero is Joanna a fan of?",
+    "search_results": [
+      {
+        "memory": "Joanna is a fan of Spider-Man, appreciating Peter Parker's struggles between being a hero and a person, and generally enjoys all superheroes",
+        "score": 0.7104257995361896,
+        "id": "a1e5b1e8-805a-4d57-831f-b59cdade70f2",
+        "created_at": "2026-11-03T03:10:30.622507+00:00",
+        "updated_at": "2026-11-03T03:10:30.622507+00:00"
+      },
+      {
+        "memory": "Joanna's favorite superhero is Spider-Man, specifically admiring Peter Parker's struggles between being a hero and being a person, though she enjoys all superheroes",
+        "score": 0.6965723926329127,
+        "id": "23ae58af-2be6-4178-b727-3413da529dd6",
+        "created_at": "2026-11-03T03:10:37.198942+00:00",
+        "updated_at": "2026-11-03T03:10:37.198942+00:00"
+      },
+      {
+        "memory": "Joanna has Spider-Man as her favorite superhero, appreciating Peter Parker's struggles between being a hero and a person, though she enjoys all superheroes",
+        "score": 0.693610215488596,
+        "id": "14b88af9-977d-4f30-8944-0c2d973f5bad",
+        "created_at": "2026-11-03T03:10:14.640419+00:00",
+        "updated_at": "2026-11-03T03:10:14.640419+00:00"
+      },
+      {
+        "memory": "Joanna is a fan of Spider-Man, appreciating Peter Parker's struggles between being a hero and a person, and owns a Spider-Man pin on her purse",
+        "score": 0.685259403169376,
+        "id": "b45df25c-260e-47d0-9693-2597b20498a8",
+        "created_at": "2026-11-03T03:10:19.036909+00:00",
+        "updated_at": "2026-11-03T03:10:19.036909+00:00"
+      },
+      {
+        "memory": "Spider-Man is Joanna's favorite superhero, and she appreciates Peter Parker's struggles between being a hero and being a person, though she enjoys all superheroes",
+        "score": 0.6702413478169575,
+        "id": "db3c3673-0867-49ef-8bda-72fdf3c12785",
+        "created_at": "2026-11-03T03:10:25.129453+00:00",
+        "updated_at": "2026-11-03T03:10:25.129453+00:00"
+      },
+      {
+        "memory": "Joanna stated that Spider-Man has always been her favorite superhero, specifically admiring Peter Parker's struggles between being a hero and a person, though she enjoys all superheroes for their unique stories.",
+        "score": 0.6663562089545674,
+        "id": "21d268aa-62cc-4a9d-bfce-8128583b975a",
+        "created_at": "2026-11-03T03:10:04.453225+00:00",
+        "updated_at": "2026-11-03T03:10:04.453225+00:00"
+      },
+      {
+        "memory": "Nate noticed a Spider-Man pin on Joanna's purse during their last meeting and asked if Spider-Man is her favorite superhero or if she has another preference.",
+        "score": 0.6340498926007515,
+        "id": "11a311a8-4183-4085-a0f6-65feb1ffb3f9",
+        "created_at": "2026-11-03T03:10:01.628428+00:00",
+        "updated_at": "2026-11-03T03:10:01.628428+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.45361105950545133,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.35197202466519295,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.29804112778493347,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      },
+      {
+        "memory": "Joanna keeps a journal which she describes as her 'rock' during the highs and lows of her busy writing projects.",
+        "score": 0.29410849506098824,
+        "id": "5dee9fd0-e872-4d95-9aa3-281877f0e305",
+        "created_at": "2026-11-03T03:13:20.712893+00:00",
+        "updated_at": "2026-11-03T03:13:20.712893+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.2922311478538582,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story movie script from a dream.",
+        "score": 0.2912411456148577,
+        "id": "b04a7385-bbde-42c5-af1e-e1c9cbe63872",
+        "created_at": "2026-11-03T03:28:42.602024+00:00",
+        "updated_at": "2026-11-03T03:28:42.602024+00:00"
+      },
+      {
+        "memory": "Joanna is currently revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.28769121266755426,
+        "id": "9b0a9623-7978-4b58-be35-dd045df726b5",
+        "created_at": "2026-11-03T03:23:20.149010+00:00",
+        "updated_at": "2026-11-03T03:23:20.149010+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.2867766537077056,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna described every day on set as awesome and full of potential, expressing that being able to show her vision is a rewarding experience.",
+        "score": 0.286419803042946,
+        "id": "13a0adc0-bca7-44fe-88bf-7a9cf1f3502b",
+        "created_at": "2026-11-03T03:33:01.267811+00:00",
+        "updated_at": "2026-11-03T03:33:01.267811+00:00"
+      },
+      {
+        "memory": "During filming of her movie, Joanna had an exciting moment when an actor approached her to say how much they liked her script, which gave her chills.",
+        "score": 0.28049529175769383,
+        "id": "38f38bdd-d564-468d-9202-ebce37e0b3b7",
+        "created_at": "2026-11-03T03:32:51.746416+00:00",
+        "updated_at": "2026-11-03T03:32:51.746416+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.27969725485500907,
+        "id": "92e538e9-ecd3-461e-9f57-6e43a1a551ed",
+        "created_at": "2026-11-03T03:23:12.071344+00:00",
+        "updated_at": "2026-11-03T03:23:12.071344+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.27969725485500907,
+        "id": "09f5ba7f-f94a-415c-a003-4d6d21cfde4d",
+        "created_at": "2026-11-03T03:23:40.592770+00:00",
+        "updated_at": "2026-11-03T03:23:40.592770+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.2776712179656964,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      }
+    ],
+    "search_latency_ms": 78.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spider-Man",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spider-Man",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spider-Man",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Spider-Man",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

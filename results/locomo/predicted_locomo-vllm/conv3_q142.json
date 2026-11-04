@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q142",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Nate do that he loves and can make money from?",
+  "ground_truth_answer": "Competing in video game tournaments",
+  "evidence": [
+    "D17:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Nate do that he loves and can make money from?",
+    "search_results": [
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.6458395841177735,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming while connecting with other enthusiasts.",
+        "score": 0.6448360896383136,
+        "id": "7030d9ff-f80e-4e4e-9bf4-41ce73353bad",
+        "created_at": "2026-11-03T03:31:26.581866+00:00",
+        "updated_at": "2026-11-03T03:31:26.581866+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.6426449298635805,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      },
+      {
+        "memory": "Nate started making gaming videos to share his love of gaming and connect with others who enjoy it, noting that it is a new endeavor for him but he is excited to get started.",
+        "score": 0.641794295679921,
+        "id": "a8cc4e45-2df2-478e-b7b1-d94570bb55fb",
+        "created_at": "2026-11-03T03:31:42.066863+00:00",
+        "updated_at": "2026-11-03T03:31:42.066863+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.6407140873478234,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, hoping to share his love of gaming and connect with others.",
+        "score": 0.6381414591514382,
+        "id": "b4c894d6-1540-42be-99f5-4b6be1f3d142",
+        "created_at": "2026-11-03T03:31:14.937482+00:00",
+        "updated_at": "2026-11-03T03:31:14.937482+00:00"
+      },
+      {
+        "memory": "Nate won a major video game tournament in the week preceding October 6, 2022, and expressed amazement at the significant amount of money he earned from the prize.",
+        "score": 0.6377633045038615,
+        "id": "afbc3792-b004-4e4e-927a-c1ee5bf0bf60",
+        "created_at": "2026-11-03T03:18:52.356015+00:00",
+        "updated_at": "2026-11-03T03:18:52.356015+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.6359210818662698,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, noting that the competition was online and he is proud to make money doing what he loves.",
+        "score": 0.6306933630914157,
+        "id": "33a16bfd-50d9-49b7-875f-3f18c1fcb47e",
+        "created_at": "2026-11-03T03:11:55.369946+00:00",
+        "updated_at": "2026-11-03T03:11:55.369946+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, describing the victory as indescribable and expressing pride in making money doing what he loves.",
+        "score": 0.6222430339816534,
+        "id": "f1df5fbb-011a-4010-bee9-cbbb60825bc2",
+        "created_at": "2026-11-03T03:12:21.929702+00:00",
+        "updated_at": "2026-11-03T03:12:21.929702+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.6219768701181058,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, expressing pride in making money from his passion and describing the victory as indescribable.",
+        "score": 0.6135993483562574,
+        "id": "6856bad4-ab0b-4c4e-9df5-b90bd0a7be49",
+        "created_at": "2026-11-03T03:12:12.320908+00:00",
+        "updated_at": "2026-11-03T03:12:12.320908+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience of sharing his love for them as fun and rewarding.",
+        "score": 0.6101316218564945,
+        "id": "dc4c894f-07bd-47fd-88dd-9317bbaf7373",
+        "created_at": "2026-11-03T03:13:20.720303+00:00",
+        "updated_at": "2026-11-03T03:13:20.720303+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, which was held online. He described the victory as indescribable and expressed pride in making money doing what he loves.",
+        "score": 0.6100857468952057,
+        "id": "a2ebf346-b839-4676-bfce-8af36f7c1164",
+        "created_at": "2026-11-03T03:12:02.418021+00:00",
+        "updated_at": "2026-11-03T03:12:02.418021+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.6091408545573012,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Nate's top pick superhero is Iron Man, whom he loves for his tech and sarcastic humor, and he owns an Iron Man action figure that serves as a reminder to keep working on his goals",
+        "score": 0.6091378737471541,
+        "id": "5f56ee66-9791-457f-a70b-8ad5825365af",
+        "created_at": "2026-11-03T03:10:37.203858+00:00",
+        "updated_at": "2026-11-03T03:10:37.203858+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.6090746725465317,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate played the board game Catan at the convention with new acquaintances, describing it as a strategy game involving building settlements and trading resources that he loves.",
+        "score": 0.6090437066432037,
+        "id": "af797f35-a91b-4064-b087-b742dc7b89f3",
+        "created_at": "2026-11-03T03:21:11.600453+00:00",
+        "updated_at": "2026-11-03T03:21:11.600453+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.3537025519074184,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.34575452349068836,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      }
+    ],
+    "search_latency_ms": 76.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Competing in video game tournaments.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate loves competing in video game tournaments, and he can make money from them.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly states that Nate loves competing in video game tournaments and can make money from them, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate competes in video game tournaments, which he loves and can make money from.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly states that Nate competes in video game tournaments, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Winning video game tournaments.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer references the same core activity, video game tournaments, as the gold answer."
+    }
+  }
+}

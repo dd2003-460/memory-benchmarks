@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q123",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Maria plan to do later on the evening of 7 July, 2023?",
+  "ground_truth_answer": "have dinner with friends from the gym",
+  "evidence": [
+    "D23:14"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did Maria plan to do later on the evening of 7 July, 2023?",
+    "search_results": [
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.6996168970986631,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.6223802194667675,
+        "id": "c1afbd5c-62fd-4e8c-9ff0-034e7e2083d2",
+        "created_at": "2026-11-03T00:47:01.150437+00:00",
+        "updated_at": "2026-11-03T00:47:01.150437+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about continuing her community involvement.",
+        "score": 0.622244946140333,
+        "id": "92c54323-c998-4850-9fc2-a1750ecd03cc",
+        "created_at": "2026-11-03T00:43:06.600033+00:00",
+        "updated_at": "2026-11-03T00:43:06.600033+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about putting her positivity out there.",
+        "score": 0.6221581886262931,
+        "id": "de91b2fc-614f-45e8-8987-b680fb40e6e2",
+        "created_at": "2026-11-03T00:43:29.358706+00:00",
+        "updated_at": "2026-11-03T00:43:29.358706+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.6220346483580579,
+        "id": "22c93572-589d-448d-a61f-afbe3cc538c7",
+        "created_at": "2026-11-03T00:46:44.138258+00:00",
+        "updated_at": "2026-11-03T00:46:44.138258+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.6220346483580579,
+        "id": "bce5658f-83cf-4094-b6c0-41071ef282f7",
+        "created_at": "2026-11-03T00:46:52.202536+00:00",
+        "updated_at": "2026-11-03T00:46:52.202536+00:00"
+      },
+      {
+        "memory": "Maria plans to volunteer at shelters next month (August 2023) as part of her next adventure after enjoying a recent hike.",
+        "score": 0.6170023631886106,
+        "id": "2707e960-028a-4c56-8b27-8fcd7367d073",
+        "created_at": "2026-11-03T00:43:13.180154+00:00",
+        "updated_at": "2026-11-03T00:43:13.180154+00:00"
+      },
+      {
+        "memory": "Maria is planning a ring-toss tournament for the homeless shelter's fundraiser in late May 2023 and is excited about its potential impact.",
+        "score": 0.5870518956827991,
+        "id": "20c122a4-0f3c-47c0-b684-c4378fc3113f",
+        "created_at": "2026-11-03T00:30:40.714293+00:00",
+        "updated_at": "2026-11-03T00:30:40.714293+00:00"
+      },
+      {
+        "memory": "Maria is planning a ring-toss tournament for the homeless shelter's fundraiser in late May 2023 and expressed excitement about its potential impact.",
+        "score": 0.5848014389007782,
+        "id": "09fa188b-bc6e-4042-ab90-4f5e998b6d7e",
+        "created_at": "2026-11-03T00:30:42.770509+00:00",
+        "updated_at": "2026-11-03T00:30:42.770509+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.5683755447615555,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.5544079067337522,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, which she found refreshing due to the supportive people and nature.",
+        "score": 0.5438025678170801,
+        "id": "5d9630cd-73b2-4cb6-96b5-5f649fb5ffe0",
+        "created_at": "2026-11-03T00:42:55.730971+00:00",
+        "updated_at": "2026-11-03T00:42:55.730971+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they relaxed under trees, played games, and ate food together.",
+        "score": 0.541872984767686,
+        "id": "881a97a5-e3cb-42be-a6cf-f376c23b8173",
+        "created_at": "2026-11-03T00:42:01.937767+00:00",
+        "updated_at": "2026-11-03T00:42:01.937767+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 15-16, 2023, where they relaxed under trees, played games, and ate food.",
+        "score": 0.5399996225809647,
+        "id": "d5dfcc70-c2b3-4462-bc0d-a363804dc8d2",
+        "created_at": "2026-11-03T00:41:59.464574+00:00",
+        "updated_at": "2026-11-03T00:41:59.464574+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, finding the experience refreshing and enjoyable due to being surrounded by supportive people in nature.",
+        "score": 0.5337205200452236,
+        "id": "59f9b246-c649-42c6-8c64-56ab8703d635",
+        "created_at": "2026-11-03T00:42:48.353229+00:00",
+        "updated_at": "2026-11-03T00:42:48.353229+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.5316355690708402,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.525310028228816,
+        "id": "4c31882d-0bcd-4a5e-9b3a-d301239ea817",
+        "created_at": "2026-11-03T00:42:37.028010+00:00",
+        "updated_at": "2026-11-03T00:42:37.028010+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.525310028228816,
+        "id": "0fbe1af9-5fd1-4cd1-9854-a11b66a9e636",
+        "created_at": "2026-11-03T00:42:17.347730+00:00",
+        "updated_at": "2026-11-03T00:42:17.347730+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.525310028228816,
+        "id": "1d59bbde-6832-46a1-bce7-a9ae7670f209",
+        "created_at": "2026-11-03T00:42:10.794427+00:00",
+        "updated_at": "2026-11-03T00:42:10.794427+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from church on the weekend of July 14-15, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.5238182732856773,
+        "id": "6666572d-1fee-40f9-be38-521df634d963",
+        "created_at": "2026-11-03T00:42:42.387438+00:00",
+        "updated_at": "2026-11-03T00:42:42.387438+00:00"
+      }
+    ],
+    "search_latency_ms": 86.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria planned to have dinner with friends from the gym.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's core fact."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria planned to have dinner with friends from the gym.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core fact."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria planned to have dinner with friends from the gym.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core fact."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria planned to have dinner with friends from the gym.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core fact."
+    }
+  }
+}

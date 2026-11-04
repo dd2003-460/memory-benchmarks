@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q12",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What test has John taken multiple times?",
+  "ground_truth_answer": "The military aptitude test",
+  "evidence": [
+    "D8:18",
+    "D3:11"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What test has John taken multiple times?",
+    "search_results": [
+      {
+        "memory": "John has been experiencing some tough times lately, around August 2023, and finds that taking photos helps him take a step back to appreciate the little things in life during this difficult period.",
+        "score": 0.5535475139913734,
+        "id": "e77d229d-4150-4ef1-b18d-437266249b21",
+        "created_at": "2026-11-03T00:47:53.007202+00:00",
+        "updated_at": "2026-11-03T00:47:53.007202+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.5411646302035125,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      },
+      {
+        "memory": "John aims to get conversations going and involve people by sharing ideas and taking action regarding community issues, finding it empowering to know he can help make a difference in people's lives.",
+        "score": 0.423735239946625,
+        "id": "333684a6-8496-4269-b370-53af9a8149df",
+        "created_at": "2026-11-03T00:27:11.435802+00:00",
+        "updated_at": "2026-11-03T00:27:11.435802+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.411614576086816,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.411614576086816,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.3927152879785618,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.3927152879785618,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John takes walks at least once a week to see sunsets, which he uses as a way to disconnect, think, and find peace in nature.",
+        "score": 0.3860383014681567,
+        "id": "ed0316c4-d1bc-4458-964c-c401fa3a6e15",
+        "created_at": "2026-11-03T00:40:33.171426+00:00",
+        "updated_at": "2026-11-03T00:40:33.171426+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.38356034972764635,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times.",
+        "score": 0.380514445404791,
+        "id": "101fede8-6cfe-41da-8469-13a0f6687352",
+        "created_at": "2026-11-03T00:49:26.776427+00:00",
+        "updated_at": "2026-11-03T00:49:26.776427+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as supportive and the best thing in his life, even during hard times.",
+        "score": 0.3711840614952494,
+        "id": "14c21488-0a72-46f3-8e36-0a0f221f77d1",
+        "created_at": "2026-11-03T00:49:15.627079+00:00",
+        "updated_at": "2026-11-03T00:49:15.627079+00:00"
+      },
+      {
+        "memory": "John found the dedication and teamwork of the fire-fighting brigade inspiring, noting that it only took the group two hours to complete their task, which he described as hard work but really satisfying.",
+        "score": 0.37011430162333675,
+        "id": "566209ce-7442-483e-a26f-8b973ae0ef48",
+        "created_at": "2026-11-03T00:49:34.894323+00:00",
+        "updated_at": "2026-11-03T00:49:34.894323+00:00"
+      },
+      {
+        "memory": "John manages the challenge of balancing work and family by organizing his time to ensure he is present for important moments, aiming to make those moments count.",
+        "score": 0.3612756599920873,
+        "id": "3af59a69-8a91-4738-8e19-8c812da403cf",
+        "created_at": "2026-11-03T00:34:43.963676+00:00",
+        "updated_at": "2026-11-03T00:34:43.963676+00:00"
+      },
+      {
+        "memory": "As of August 2023, John is going through some tough times lately and uses photography to help him take a step back and appreciate the little things in life",
+        "score": 0.3587851407893241,
+        "id": "f22b074b-3207-4a6f-a739-37e89f33cdb7",
+        "created_at": "2026-11-03T00:47:56.106663+00:00",
+        "updated_at": "2026-11-03T00:47:56.106663+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.3578610345852208,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John describes nature experiences, such as mountaineering and camping, as feeling like a 'reset button' that helps him clear his head and find calm during difficult times.",
+        "score": 0.3562686860046317,
+        "id": "c20f3801-1bf3-449b-88c2-82a2830c4a5e",
+        "created_at": "2026-11-03T00:32:15.831840+00:00",
+        "updated_at": "2026-11-03T00:32:15.831840+00:00"
+      },
+      {
+        "memory": "John has been experiencing tough times lately and uses photography to capture peaceful moments in nature to help him step back and appreciate the little things in life.",
+        "score": 0.3541384875143472,
+        "id": "e2e510ea-1652-4fd9-8ef2-1139b46417e1",
+        "created_at": "2026-11-03T00:48:10.996816+00:00",
+        "updated_at": "2026-11-03T00:48:10.996816+00:00"
+      },
+      {
+        "memory": "John describes his rescue team as having become like family to him, noting that the strong bond they share is similar to what he experienced during his time in the military.",
+        "score": 0.350016027878418,
+        "id": "ebacaf04-2424-41ed-9a2e-39c1f710c207",
+        "created_at": "2026-11-03T00:44:23.670995+00:00",
+        "updated_at": "2026-11-03T00:44:23.670995+00:00"
+      },
+      {
+        "memory": "John considers family the most important thing in his life, viewing them as his biggest support system who have each other's back through good times and bad.",
+        "score": 0.3475922376239422,
+        "id": "c149a470-3b6a-4db9-9549-3029babedeb0",
+        "created_at": "2026-11-03T00:28:43.722178+00:00",
+        "updated_at": "2026-11-03T00:28:43.722178+00:00"
+      },
+      {
+        "memory": "John considers family the most important thing in his life, viewing them as his biggest support system who have each other's back through good times and bad.",
+        "score": 0.3475922376239422,
+        "id": "96052ff5-0fc3-45b2-b651-460af56977b4",
+        "created_at": "2026-11-03T00:28:20.117307+00:00",
+        "updated_at": "2026-11-03T00:28:20.117307+00:00"
+      }
+    ],
+    "search_latency_ms": 77.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not explicitly mention a specific test John has taken, but they note that he works out with his family three times a week, which has increased their energy, strength, and endurance.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer fails to identify the military aptitude test and instead provides irrelevant information about working out, containing zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Physical fitness tests",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Physical fitness tests' is a different type of test from the gold answer 'The military aptitude test', and there is no semantic overlap or shared referent between the two."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Physical fitness tests",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Physical fitness tests' is a different type of test from the gold answer 'The military aptitude test', and no items from the gold answer are present."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Physical fitness tests",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Physical fitness tests' is a different type of test from the gold answer 'The military aptitude test', and no items from the gold answer are present."
+    }
+  }
+}

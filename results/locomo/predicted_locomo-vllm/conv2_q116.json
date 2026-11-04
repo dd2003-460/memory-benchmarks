@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q116",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did Maria need to help her cousin find a new place to live?",
+  "ground_truth_answer": "Her cousin had to leave and find a new place in a hurry.",
+  "evidence": [
+    "D21:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why did Maria need to help her cousin find a new place to live?",
+    "search_results": [
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin recently went through a difficult time.",
+        "score": 0.7402947914025567,
+        "id": "d7ab66bb-e265-4d83-a06a-26de5836cab4",
+        "created_at": "2026-11-03T00:37:42.374713+00:00",
+        "updated_at": "2026-11-03T00:37:42.374713+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had a tough time recently around early July 2023.",
+        "score": 0.7291745587707796,
+        "id": "32bef39a-ecdc-4c60-af4e-9a0e779b3564",
+        "created_at": "2026-11-03T00:37:40.115578+00:00",
+        "updated_at": "2026-11-03T00:37:40.115578+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had to leave her previous home in a hurry due to recent difficulties, which has been stressful but is making progress.",
+        "score": 0.7271193885075315,
+        "id": "1f6bc244-6c28-46a2-8e58-bdbd43fe5fb9",
+        "created_at": "2026-11-03T00:38:21.700071+00:00",
+        "updated_at": "2026-11-03T00:38:21.700071+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.7178115780446928,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had to leave her previous residence in a hurry due to recent difficulties, which has been stressful but is making progress as of early July 2023.",
+        "score": 0.7171972204805963,
+        "id": "d0c7408f-c582-44b8-9e41-b5fa2c1c1a6d",
+        "created_at": "2026-11-03T00:38:00.210319+00:00",
+        "updated_at": "2026-11-03T00:38:00.210319+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.699550409327396,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.698708812374273,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "Maria finds her volunteering at the homeless shelter rewarding but also tough, noting that while it is fulfilling, the growing need for help can be overwhelming.",
+        "score": 0.618072272898465,
+        "id": "7fdf98d7-ea07-4bab-90af-8e2c571437bb",
+        "created_at": "2026-11-03T00:27:46.474493+00:00",
+        "updated_at": "2026-11-03T00:27:46.474493+00:00"
+      },
+      {
+        "memory": "Maria emphasized the importance of affordable housing access and joined John in a plan to mobilize the community to fight for better living standards in their neighborhood.",
+        "score": 0.6035962005231278,
+        "id": "3a8a3542-d02b-48ed-a8dd-a8ab901d9d83",
+        "created_at": "2026-11-03T00:29:54.233712+00:00",
+        "updated_at": "2026-11-03T00:29:54.233712+00:00"
+      },
+      {
+        "memory": "John and Maria agreed to work together to get the community involved in fighting for better housing, living conditions, and affordable housing standards in their neighborhood.",
+        "score": 0.6024435432218095,
+        "id": "cf5ef170-2e77-4a79-afb6-57ee4a156b51",
+        "created_at": "2026-11-03T00:30:09.662614+00:00",
+        "updated_at": "2026-11-03T00:30:09.662614+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023 and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.5865753862897675,
+        "id": "e98eedd6-c57d-4f97-b841-6e9804670ec9",
+        "created_at": "2026-11-03T00:31:47.159168+00:00",
+        "updated_at": "2026-11-03T00:31:47.159168+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.5848697078809038,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria went on a vacation where she tried surfing for the first time, finding it exciting despite falling off repeatedly, and learned about the power of not giving up and trying new things.",
+        "score": 0.5794845150926896,
+        "id": "e5ae2e27-1674-4732-bf29-b2309a6ace97",
+        "created_at": "2026-11-03T00:29:11.467110+00:00",
+        "updated_at": "2026-11-03T00:29:11.467110+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.5756704653134597,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria recently gave a few talks at the homeless shelter where she volunteers, finding the experience fulfilling and receiving compliments from other volunteers, which reinforced her belief in the importance of connecting with and helping others.",
+        "score": 0.5408151049988803,
+        "id": "e67fe79b-7f44-4751-a544-3c5de4bbe7d5",
+        "created_at": "2026-11-03T00:26:30.908847+00:00",
+        "updated_at": "2026-11-03T00:26:30.908847+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter where she volunteers around July 24, 2023, and found the experience great, which increased her motivation to help people.",
+        "score": 0.5183882140019772,
+        "id": "616d44f0-c737-470d-b86c-1149d346c5e9",
+        "created_at": "2026-11-03T00:43:42.120696+00:00",
+        "updated_at": "2026-11-03T00:43:42.120696+00:00"
+      },
+      {
+        "memory": "Maria finds balance in her life by taking care of herself physically, emotionally, and mentally through exercise, music, and spending time with loved ones, which helps her stay positive",
+        "score": 0.507680771792544,
+        "id": "26a922f5-5f00-479b-947d-e8d00ee34c63",
+        "created_at": "2026-11-03T00:28:37.045766+00:00",
+        "updated_at": "2026-11-03T00:28:37.045766+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his veteran support project, stating she is in to help make a difference together.",
+        "score": 0.41267417726220745,
+        "id": "c4d3edae-d328-41b5-ad7d-f16f714359cb",
+        "created_at": "2026-11-03T00:30:28.031152+00:00",
+        "updated_at": "2026-11-03T00:30:28.031152+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.3502391452420886,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.34478953094921927,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      }
+    ],
+    "search_latency_ms": 56.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria needed to help her cousin because her cousin had to leave her previous residence in a hurry after going through a difficult time around early July 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core reason that the cousin had to leave and find a new place in a hurry, with acceptable extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria needed to help her cousin because her cousin had to leave her previous home/residence in a hurry after going through a difficult time, so she needed to find a new place to live.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that the cousin had to leave and find a new place in a hurry, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria needed to help her cousin because her cousin had to leave her previous home/residence in a hurry after going through a difficult time, so she needed to find a new place to live.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that the cousin had to leave and find a new place in a hurry, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria needed to help her cousin because her cousin had to leave her previous home/residence in a hurry after going through a difficult time, so she needed to find a new place to live.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that the cousin had to leave and find a new place in a hurry, matching the gold answer."
+    }
+  }
+}

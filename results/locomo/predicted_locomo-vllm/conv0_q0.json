@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q0",
+  "conversation_idx": 0,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Caroline go to the LGBTQ support group?",
+  "ground_truth_answer": "7 May 2023",
+  "evidence": [
+    "D1:3"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "When did Caroline go to the LGBTQ support group?",
+    "search_results": [],
+    "search_latency_ms": 1344.5,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her attendance at an LGBTQ support group.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, failing to provide the correct date found in the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her attendance at an LGBTQ support group.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, failing to provide the correct date found in the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her attendance at an LGBTQ support group.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, failing to provide the correct date found in the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her attendance at an LGBTQ support group.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about the event, failing to provide the correct date found in the gold answer."
+    }
+  }
+}

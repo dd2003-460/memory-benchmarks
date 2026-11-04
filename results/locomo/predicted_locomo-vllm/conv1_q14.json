@@ -1,0 +1,120 @@
+{
+  "question_id": "conv1_q14",
+  "conversation_idx": 1,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Jon start expanding his studio's social media presence?",
+  "ground_truth_answer": "April, 2023",
+  "evidence": [
+    "D8:13"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "When did Jon start expanding his studio's social media presence?",
+    "search_results": [
+      {
+        "memory": "Jon agreed to accept Gina's offer for help with creating content and managing social media accounts for his dance studio, planning to collaborate with her to enhance the studio's online presence.",
+        "score": 0.6481742833529114,
+        "id": "b1cc54a4-266a-4ea1-87e9-70f7dccf62d7",
+        "created_at": "2026-11-02T19:36:42.770237+00:00",
+        "updated_at": "2026-11-02T19:36:42.770237+00:00"
+      },
+      {
+        "memory": "Jon is excited for his dance studio to start welcoming dancers of all ages and backgrounds, viewing this inclusivity as a key goal for the business.",
+        "score": 0.47522880763083675,
+        "id": "eb6c2d0e-0237-4155-9f9c-5dbc35d615c2",
+        "created_at": "2026-11-02T19:37:09.287321+00:00",
+        "updated_at": "2026-11-02T19:37:09.287321+00:00"
+      },
+      {
+        "memory": "Gina offered to help Jon with creating marketing content or managing his social media accounts for the dance studio.",
+        "score": 0.46210853486666315,
+        "id": "34008eb9-1865-4045-88c8-eca033fceef2",
+        "created_at": "2026-11-02T19:36:41.090923+00:00",
+        "updated_at": "2026-11-02T19:36:41.090923+00:00"
+      },
+      {
+        "memory": "Jon is working on an online platform to showcase his dance studio's content and offerings, as part of his efforts to spruce up his business plan and tweak his pitch to investors following a networking event.",
+        "score": 0.4314629754263567,
+        "id": "f41d86f9-0708-495c-bdec-12488876710b",
+        "created_at": "2026-11-02T19:36:36.716432+00:00",
+        "updated_at": "2026-11-02T19:36:36.716432+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips, and suggested collaborating with local influencers or dance communities to raise awareness.",
+        "score": 0.40032583122795984,
+        "id": "b4ad7832-b3a5-476b-b651-f2e84f1221d2",
+        "created_at": "2026-11-02T19:36:41.086686+00:00",
+        "updated_at": "2026-11-02T19:36:41.086686+00:00"
+      },
+      {
+        "memory": "Jon is seeking marketing strategy advice to reach his target audience and raise awareness for his dance studio, following a networking event where he met investors.",
+        "score": 0.3992985721798193,
+        "id": "6a6a391d-aabf-4e61-9213-6f19c892284d",
+        "created_at": "2026-11-02T19:36:38.950118+00:00",
+        "updated_at": "2026-11-02T19:36:38.950118+00:00"
+      },
+      {
+        "memory": "Jon attended a networking event around July 21, 2023, where he met investors and received good advice, finding the energy motivating for pursuing his goals",
+        "score": 0.39798997068619374,
+        "id": "1387ec2a-8eb4-48a9-a06e-25197e818133",
+        "created_at": "2026-11-02T19:36:29.582734+00:00",
+        "updated_at": "2026-11-02T19:36:29.582734+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.39107120235517145,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.3735193372434487,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.08184940057714388,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      }
+    ],
+    "search_latency_ms": 26.7,
+    "total_results": 10
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Jon started expanding his studio’s social media presence shortly after the networking event around July 21, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a July 2023 date, which is not within the allowed tolerance of the gold answer's April 2023 date."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Jon started expanding his studio’s social media presence shortly after the networking event around July 21, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a July 2023 date, which is not within the allowed tolerance of the gold answer's April 2023 date."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Around July 21, 2023, after the networking event.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a date in July 2023, which is not within 14 days of the gold answer's April 2023."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Jon started expanding his studio’s social media presence after his networking event around July 21, 2023, and was actively working on it by July 23, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a July 2023 timeframe, which is not within 14 days of the gold answer's April 2023."
+    }
+  }
+}

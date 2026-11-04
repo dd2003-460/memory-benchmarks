@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q61",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Maria adopt Shadow?",
+  "ground_truth_answer": "The week before 13 August 2023",
+  "evidence": [
+    "D31:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did Maria adopt Shadow?",
+    "search_results": [
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.8939480438948371,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023, and describes her as full of energy and a source of joy; Shadow gets along well with Maria's other dog.",
+        "score": 0.8897739343878976,
+        "id": "56c90cd6-8948-403e-aa95-27375d23873f",
+        "created_at": "2026-11-03T00:48:54.951566+00:00",
+        "updated_at": "2026-11-03T00:48:54.951566+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023. Shadow is full of energy and gets along well with Maria's other dog.",
+        "score": 0.8877294590710785,
+        "id": "2747eacc-4c8e-443f-bdb2-57dbacee41a2",
+        "created_at": "2026-11-03T00:48:41.841677+00:00",
+        "updated_at": "2026-11-03T00:48:41.841677+00:00"
+      },
+      {
+        "memory": "Maria adopted a new puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings her joy, and gets along well with Maria's other dog.",
+        "score": 0.8872163009487226,
+        "id": "773194b0-1399-4a40-851b-f1a03c7eafb7",
+        "created_at": "2026-11-03T00:48:44.668018+00:00",
+        "updated_at": "2026-11-03T00:48:44.668018+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy and gets along great with Maria's other dog, Coco.",
+        "score": 0.8804661254408946,
+        "id": "45911fab-6b6a-4ecc-8fad-efa8761de338",
+        "created_at": "2026-11-03T00:48:33.489158+00:00",
+        "updated_at": "2026-11-03T00:48:33.489158+00:00"
+      },
+      {
+        "memory": "Maria's new puppy Shadow is doing well, currently learning commands and undergoing house training as of August 13, 2023",
+        "score": 0.8116359757724669,
+        "id": "cb3fadbe-87f3-4037-ac4e-d6464d91c4b6",
+        "created_at": "2026-11-03T00:48:46.799616+00:00",
+        "updated_at": "2026-11-03T00:48:46.799616+00:00"
+      },
+      {
+        "memory": "Maria adopted a black puppy from a shelter around August 6, 2023, describing the experience as bringing her joy and feeling blessed to give the dog a home.",
+        "score": 0.6039489764835442,
+        "id": "c8f1989f-410b-45fb-a83d-5d9d4ae27365",
+        "created_at": "2026-11-03T00:48:28.732864+00:00",
+        "updated_at": "2026-11-03T00:48:28.732864+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.5673721324663037,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.2899438403585536,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.28883966543401424,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria did not have any pets growing up, but notes that having a furry companion brightens her days.",
+        "score": 0.2824200720333275,
+        "id": "1985e380-3bb6-48c3-97ce-d0d178b31fcc",
+        "created_at": "2026-11-03T00:48:44.671695+00:00",
+        "updated_at": "2026-11-03T00:48:44.671695+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.2780643865874969,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.2738689279368109,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.27025675086679835,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.27025675086679835,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.27025675086679835,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.27025675086679835,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.27016271208331183,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.27016271208331183,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.26968547649532215,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      }
+    ],
+    "search_latency_ms": 97.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 6, 2023",
+      "memories_evaluated": 10,
+      "reason": "August 6, 2023 falls within the week before August 13, 2023 and within the allowed date tolerance."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 6, 2023",
+      "memories_evaluated": 20,
+      "reason": "August 6, 2023 falls within the week before August 13, 2023 and within the allowed date tolerance."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 6, 2023",
+      "memories_evaluated": 20,
+      "reason": "August 6, 2023 falls within the week before August 13, 2023 and within the allowed date tolerance."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 6, 2023",
+      "memories_evaluated": 20,
+      "reason": "August 6, 2023 falls within the week before August 13, 2023 and within the allowed date tolerance."
+    }
+  }
+}

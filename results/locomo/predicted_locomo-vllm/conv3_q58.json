@@ -1,0 +1,196 @@
+{
+  "question_id": "conv3_q58",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What things has Nate reccomended to Joanna?",
+  "ground_truth_answer": "A pet,\"The Lord of the Rings\" movies,a dragon book series,coconut flavoring,\"Project Hail Mary\" book,Xenoblade Chronicles, dairy-free margarine, coconut oil",
+  "evidence": [
+    "D2:14",
+    "D9:12",
+    "D9:14",
+    "D10:11",
+    "D19:17",
+    "D27:23",
+    "D10:19"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What things has Nate reccomended to Joanna?",
+    "search_results": [
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.6661100039968472,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family during the weekend of July 9-10, 2022, noting that they love when she makes them new things.",
+        "score": 0.648618848997027,
+        "id": "1a27a3df-84b2-4fa8-9e64-80a4b5873cfc",
+        "created_at": "2026-11-03T03:11:45.432689+00:00",
+        "updated_at": "2026-11-03T03:11:45.432689+00:00"
+      },
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.5119544196337917,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.4716634116996449,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.45456915175441803,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.4486524861305628,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.4431581958055365,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.43849437655133716,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.42894432947629085,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.42012665190065085,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.41997633066351775,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Joanna confirmed she is the person in the theater stage photo shared with Nate, identifying it as a moment from her acting career.",
+        "score": 0.41809113190913144,
+        "id": "a2d98a7c-3095-4264-9bb5-6fb742be395c",
+        "created_at": "2026-11-03T03:04:32.965136+00:00",
+        "updated_at": "2026-11-03T03:04:32.965136+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.417693694308627,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could come over to watch him play with his turtles, specifying that she would keep a distance because of her allergies",
+        "score": 0.41288018051096254,
+        "id": "7f099c35-a380-4073-960a-2614074c2ef6",
+        "created_at": "2026-11-03T03:31:50.662431+00:00",
+        "updated_at": "2026-11-03T03:31:50.662431+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to have faith in himself and continue following his writing dreams, noting that the process is tough but worth it",
+        "score": 0.41272566418767626,
+        "id": "a8f1c443-1143-4049-b7ae-ad2088da6658",
+        "created_at": "2026-11-03T03:02:04.840287+00:00",
+        "updated_at": "2026-11-03T03:02:04.840287+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.4112536270527737,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.4110541901612801,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.41087424707564857,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Nate plans to give his turtles a bath before Joanna visits so they are ready to play, and suggested they could also watch one of her movies together or go to the park",
+        "score": 0.4103124601801377,
+        "id": "0060af9e-3059-470b-a5b7-3144b51ad259",
+        "created_at": "2026-11-03T03:32:29.047689+00:00",
+        "updated_at": "2026-11-03T03:32:29.047689+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.4086531529506304,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      }
+    ],
+    "search_latency_ms": 95.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate recommended that Joanna make his vegan ice cream recipe, join him for baking and cooking together, watch one of her movies together, or go to the park.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists activities (vegan ice cream, baking, watching movies, park) that do not match any of the specific items in the gold answer (pet, LOTR, dragon books, coconut flavoring, Project Hail Mary, Xenoblade, margarine, coconut oil)."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate recommended that they bake and cook together, watch one of Joanna's movies together, go to the park, and watch Nate interact with his turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists activities (baking, watching movies, going to the park) that do not match any of the specific items in the gold answer (pet, LOTR, dragon books, coconut flavoring, Project Hail Mary, Xenoblade, margarine, coconut oil)."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate recommended that they bake and cook together, watch one of Joanna's movies together, go to the park, and watch Nate interact with his turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists activities (baking, watching movies, going to the park) that do not match any of the specific items in the gold answer (pet, LOTR, dragon books, coconut flavoring, Project Hail Mary, Xenoblade, margarine, coconut oil)."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate recommended that they bake and cook together, watch one of Joanna's movies together, go to the park, and watch Nate interact with his turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists activities (baking, watching movies, going to the park) that do not match any of the specific items in the gold answer (pet, LOTR, dragon books, coconut flavoring, Project Hail Mary, Xenoblade, margarine, coconut oil)."
+    }
+  }
+}

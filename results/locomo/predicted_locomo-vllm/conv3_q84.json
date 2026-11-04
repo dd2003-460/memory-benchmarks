@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q84",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+  "ground_truth_answer": "No; because both of them faced setbacks in their career",
+  "evidence": [
+    "D20:1",
+    "D21:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+    "search_results": [
+      {
+        "memory": "Joanna finished writing her book around late September 2022 after putting in many late nights and edits, and Nate congratulated her on completing the effort.",
+        "score": 0.7449031410444052,
+        "id": "72446f52-112b-4221-8ea7-a90d63763af3",
+        "created_at": "2026-11-03T03:19:28.908830+00:00",
+        "updated_at": "2026-11-03T03:19:28.908830+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.744690760925992,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described her recent period as 'quite a ride' in a good way",
+        "score": 0.7351664574517731,
+        "id": "371c0525-93cb-4756-b89b-212be6548a81",
+        "created_at": "2026-11-03T03:01:46.274984+00:00",
+        "updated_at": "2026-11-03T03:01:46.274984+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for a cooking or baking session on September 5, 2022, stating that the activity brings them together, and shared a photo of a pile of cookies with sprinkles on a wooden table.",
+        "score": 0.7018605702209768,
+        "id": "83384277-b63a-47bc-9f60-1772d1ced054",
+        "created_at": "2026-11-03T03:16:08.952067+00:00",
+        "updated_at": "2026-11-03T03:16:08.952067+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around September 5, 2022, and did not perform well despite trying his best, viewing the setback as part of the learning curve while attempting to stay positive.",
+        "score": 0.6965005876676672,
+        "id": "0968a083-5fe8-44ac-8c09-efc444973ca5",
+        "created_at": "2026-11-03T03:15:28.824336+00:00",
+        "updated_at": "2026-11-03T03:15:28.824336+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, and is now able to make a living from gaming, which he describes as turning his passion into a successful career.",
+        "score": 0.6874745920179162,
+        "id": "cb3d53b7-644c-4467-91d4-c16cdcfd741e",
+        "created_at": "2026-11-03T03:13:55.806779+00:00",
+        "updated_at": "2026-11-03T03:13:55.806779+00:00"
+      },
+      {
+        "memory": "Nate won a major video game tournament the week of September 26, 2022, earning a significant cash prize that he has saved but does not have specific plans to spend, as he is content with his current lifestyle.",
+        "score": 0.6757234650103624,
+        "id": "ab4d3b21-ac5d-420d-95db-58b132e4b982",
+        "created_at": "2026-11-03T03:19:28.905533+00:00",
+        "updated_at": "2026-11-03T03:19:28.905533+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book in the week of September 26, 2022, after putting in many late nights and edits, and described the accomplishment as worth the effort.",
+        "score": 0.6718427269206969,
+        "id": "d4b1a82e-4148-4da6-a2f5-ad93b975f92c",
+        "created_at": "2026-11-03T03:19:55.051492+00:00",
+        "updated_at": "2026-11-03T03:19:55.051492+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book on the week of September 26, 2022, after putting in many late nights and edits, and feels proud of the completed work while looking forward to what happens next.",
+        "score": 0.6657851915135946,
+        "id": "6e742e77-a62c-4927-86f8-2d2ba18eb20b",
+        "created_at": "2026-11-03T03:19:18.825536+00:00",
+        "updated_at": "2026-11-03T03:19:18.825536+00:00"
+      },
+      {
+        "memory": "Nate won a video game tournament the week of September 26, 2022, earning a significant cash prize that he is saving but has no specific plans to spend it on, as he feels content with his current life.",
+        "score": 0.6629725499693546,
+        "id": "284413d9-1d6d-496f-a5f8-c6e2dda79385",
+        "created_at": "2026-11-03T03:18:56.926354+00:00",
+        "updated_at": "2026-11-03T03:18:56.926354+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.6551490718250633,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.6533315006238507,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate's gaming party held on June 17, 2022, was a great success with 7 people attending, and 6 of them expressed interest in doing it again the following month.",
+        "score": 0.6476066669989617,
+        "id": "8287e95e-faf9-4f26-9b08-b448a985361b",
+        "created_at": "2026-11-03T03:11:06.983162+00:00",
+        "updated_at": "2026-11-03T03:11:06.983162+00:00"
+      },
+      {
+        "memory": "Joanna finished a presentation for producers on November 4, 2022, noting that it was tough but looking good.",
+        "score": 0.6019618677469127,
+        "id": "0cc1b7cf-61ce-4cf5-ad28-5fb13887a42e",
+        "created_at": "2026-11-03T03:28:12.958195+00:00",
+        "updated_at": "2026-11-03T03:28:12.958195+00:00"
+      },
+      {
+        "memory": "Joanna finished her presentation for producers on November 4, 2022, describing the process as tough but noting that the result is looking good.",
+        "score": 0.6008432487621012,
+        "id": "f7b417fb-839d-41c8-9359-9023bdc6ae3f",
+        "created_at": "2026-11-03T03:27:09.994791+00:00",
+        "updated_at": "2026-11-03T03:27:09.994791+00:00"
+      },
+      {
+        "memory": "Joanna finished her presentation for producers on November 4, 2022, describing the process as tough but noting that the result is looking good.",
+        "score": 0.6008432487621012,
+        "id": "d9033f29-ae1e-42cb-8152-6b2b9da82727",
+        "created_at": "2026-11-03T03:27:13.240939+00:00",
+        "updated_at": "2026-11-03T03:27:13.240939+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, which he described as the best feeling to see his name as champion.",
+        "score": 0.5963351061414903,
+        "id": "fd025216-f070-4401-a01e-fadd57626bd9",
+        "created_at": "2026-11-03T03:28:12.955120+00:00",
+        "updated_at": "2026-11-03T03:28:12.955120+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.5952599682301376,
+        "id": "ac212d91-75c0-4723-baa1-754e98f5460b",
+        "created_at": "2026-11-03T03:28:06.176773+00:00",
+        "updated_at": "2026-11-03T03:28:06.176773+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.5952599682301376,
+        "id": "6c69e063-4e3b-481d-b9e4-688994817f99",
+        "created_at": "2026-11-03T03:27:26.264423+00:00",
+        "updated_at": "2026-11-03T03:27:26.264423+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.5952599682301376,
+        "id": "c82160f0-407f-4b00-93d3-b93922b6fee7",
+        "created_at": "2026-11-03T03:28:17.698945+00:00",
+        "updated_at": "2026-11-03T03:28:17.698945+00:00"
+      }
+    ],
+    "search_latency_ms": 110.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "no",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly by saying no."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "no",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by saying no."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "no",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by saying no."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "no",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly by saying no."
+    }
+  }
+}

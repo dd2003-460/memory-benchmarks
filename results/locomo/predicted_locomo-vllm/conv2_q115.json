@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q115",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of event did John and his family attend in June 2023?",
+  "ground_truth_answer": "live music event",
+  "evidence": [
+    "D20:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What kind of event did John and his family attend in June 2023?",
+    "search_results": [
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.7966896867627913,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.7788707968493431,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.7777601555563924,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.774458284832994,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.7682990749171352,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.7530375770062537,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "John is planning to set up a family game day similar to Maria's picnic for his kids soon, inspired by the fun activities he saw at a community event in June 2023.",
+        "score": 0.7297381260731093,
+        "id": "1566f7f2-bac6-41a8-a3f1-0213181ca298",
+        "created_at": "2026-11-03T00:42:42.392900+00:00",
+        "updated_at": "2026-11-03T00:42:42.392900+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, finding the activity beneficial for both family bonding and getting fit.",
+        "score": 0.7294051373862274,
+        "id": "582bc98f-8922-4a4a-8368-7e1f53fd3b6e",
+        "created_at": "2026-11-03T00:27:58.239546+00:00",
+        "updated_at": "2026-11-03T00:27:58.239546+00:00"
+      },
+      {
+        "memory": "John plans to set up arts and crafts activities for his kids soon, inspired by a community event he attended in June 2023 that featured fun games and activities for families.",
+        "score": 0.7183036285324667,
+        "id": "76de7e2e-d4bc-47af-8ee4-e3d46bf86d7e",
+        "created_at": "2026-11-03T00:42:37.033585+00:00",
+        "updated_at": "2026-11-03T00:42:37.033585+00:00"
+      },
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.6894949749399661,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues around March 2023 where they connected over their shared passion for using technology for good in the community.",
+        "score": 0.680848520192783,
+        "id": "96248ea4-444b-4256-9db5-722712bde4c4",
+        "created_at": "2026-11-03T00:27:30.267684+00:00",
+        "updated_at": "2026-11-03T00:27:30.267684+00:00"
+      },
+      {
+        "memory": "John and his colleagues attended a convention together in March 2023, where they connected with like-minded individuals passionate about using technology for good in their community and exchanged ideas.",
+        "score": 0.670689567848353,
+        "id": "554f7f69-775e-40e4-9d64-6d7ef3348bf9",
+        "created_at": "2026-11-03T00:27:24.445409+00:00",
+        "updated_at": "2026-11-03T00:27:24.445409+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.6614822253096341,
+        "id": "42e649da-e294-4f0f-b44c-c052acb77fbf",
+        "created_at": "2026-11-03T00:27:34.300683+00:00",
+        "updated_at": "2026-11-03T00:27:34.300683+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he and his team saved a family from a burning building, an event he described as chaotic yet purposeful.",
+        "score": 0.6377751908563584,
+        "id": "6388b4f5-013c-4fc1-8ff2-68afb8d6b73e",
+        "created_at": "2026-11-03T00:44:13.359861+00:00",
+        "updated_at": "2026-11-03T00:44:13.359861+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.6304966284287122,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.6240365212650032,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.6172622428137118,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.614139719875384,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John reached the summit on his mountaineering trip with workmates in early June 2023, describing the view as stunning and the experience as tough but awesome, which helped clear his head.",
+        "score": 0.6123633571785574,
+        "id": "d500fef2-8b69-4559-a041-da15d3a26f73",
+        "created_at": "2026-11-03T00:32:05.294417+00:00",
+        "updated_at": "2026-11-03T00:32:05.294417+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the view stunning despite the difficulty, noting it helped clear his head.",
+        "score": 0.6071422954923565,
+        "id": "707b3516-0152-47d5-8120-38e63a930ea2",
+        "created_at": "2026-11-03T00:32:03.062423+00:00",
+        "updated_at": "2026-11-03T00:32:03.062423+00:00"
+      }
+    ],
+    "search_latency_ms": 89.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A live music event.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer by identifying a live music event."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A live music event.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying a live music event."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A live music event.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying a live music event."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A live music event.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying a live music event."
+    }
+  }
+}

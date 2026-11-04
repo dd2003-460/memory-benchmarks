@@ -1,0 +1,193 @@
+{
+  "question_id": "conv2_q57",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What causes has John done events for?",
+  "ground_truth_answer": "Toy drive, Community food drive, veterans, domestic violence",
+  "evidence": [
+    "D3:5",
+    "D6:12",
+    "D29:4",
+    "D29:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What causes has John done events for?",
+    "search_results": [
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.6344861608733645,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.6110526640910576,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      },
+      {
+        "memory": "John's veteran support event also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause John considers important despite it being a tough issue.",
+        "score": 0.6101574178653518,
+        "id": "2b53efb1-1c1e-429c-955d-f4bc91ee5780",
+        "created_at": "2026-11-03T00:47:12.944467+00:00",
+        "updated_at": "2026-11-03T00:47:12.944467+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around July 1-3, 2023, causing significant damage to homes due to poor infrastructure, which motivated him to advocate for community improvements.",
+        "score": 0.5957273291574564,
+        "id": "b2156975-f39e-4f6a-a9df-9d422f0058a6",
+        "created_at": "2026-11-03T00:40:33.180125+00:00",
+        "updated_at": "2026-11-03T00:40:33.180125+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.5822506442184959,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John participated in a community fundraising event on the weekend of August 5-6, 2023, which had a great turnout and was surrounded by supportive people.",
+        "score": 0.5792690116862012,
+        "id": "48241daf-b28c-4939-af23-425ae644c394",
+        "created_at": "2026-11-03T00:46:31.875034+00:00",
+        "updated_at": "2026-11-03T00:46:31.875034+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.574484153525503,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.5741692244360227,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.5741692244360227,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he and his team saved a family from a burning building, an event he described as chaotic yet purposeful.",
+        "score": 0.5665290727604402,
+        "id": "6388b4f5-013c-4fc1-8ff2-68afb8d6b73e",
+        "created_at": "2026-11-03T00:44:13.359861+00:00",
+        "updated_at": "2026-11-03T00:44:13.359861+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.5656781517431149,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.5544513136327149,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John was inspired by motivated people around him, which gave him renewed energy and a purpose to make a bigger difference in his community",
+        "score": 0.24110521746043476,
+        "id": "6082fbf4-e51c-4869-970d-982ad66ea696",
+        "created_at": "2026-11-03T00:27:56.119627+00:00",
+        "updated_at": "2026-11-03T00:27:56.119627+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.23323977076163932,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.23323977076163932,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.2302746694440069,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.2302746694440069,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.22651591833744264,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted John to organize community meetings to discuss solutions.",
+        "score": 0.22076283028267168,
+        "id": "be8273cf-23c1-474b-a8ea-7905379a1654",
+        "created_at": "2026-11-03T00:40:57.997547+00:00",
+        "updated_at": "2026-11-03T00:40:57.997547+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.2194557354465183,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      }
+    ],
+    "search_latency_ms": 99.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done events for victims of domestic abuse, raising awareness and funds for a local organization that helps them.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes domestic abuse, which is a paraphrase of the gold answer's domestic violence cause."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Veterans’ rights/veteran support, victims of domestic abuse, and community improvements/flood response.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans and domestic abuse, which match gold answer items."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Veterans’ rights/veteran support, victims of domestic abuse, and community improvements/flood response.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans and domestic abuse, which match gold answer items."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Veterans’ rights/veteran support, victims of domestic abuse, and community improvements/flood response.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans and domestic abuse, which match gold answer items."
+    }
+  }
+}

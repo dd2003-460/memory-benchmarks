@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q182",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Joanna find in old notebooks last week that prompted her to reflect on her progress as a writer?",
+  "ground_truth_answer": "early writings",
+  "evidence": [
+    "D26:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Joanna find in old notebooks last week that prompted her to reflect on her progress as a writer?",
+    "search_results": [
+      {
+        "memory": "Joanna found old notebooks containing her early writings around late October 2022, which she described as a cool experience to see how far she has come in her writing journey.",
+        "score": 0.7125063176618394,
+        "id": "53b1b29e-7ba8-4514-a458-600b41eaef36",
+        "created_at": "2026-11-03T03:25:55.687911+00:00",
+        "updated_at": "2026-11-03T03:25:55.687911+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around October 28, 2022, and enjoyed seeing how far she has come as a writer.",
+        "score": 0.7113645631755094,
+        "id": "902b4a6c-98c5-425e-b44c-17ab9e39835d",
+        "created_at": "2026-11-03T03:25:59.273670+00:00",
+        "updated_at": "2026-11-03T03:25:59.273670+00:00"
+      },
+      {
+        "memory": "Joanna discovered old notebooks containing her early writings around late October 2022, which she found cool as it showed how far she has come as a writer.",
+        "score": 0.7099085677743824,
+        "id": "2e811027-0f72-413e-a7d0-53046f97bee7",
+        "created_at": "2026-11-03T03:26:24.071018+00:00",
+        "updated_at": "2026-11-03T03:26:24.071018+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.6906724241193276,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.6880802535977367,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.6744359933921105,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group in the week prior to August 22, 2022, feeling super nervous but receiving great feedback that made her feel her hard work was paying off.",
+        "score": 0.6663690259531537,
+        "id": "2aad159b-75d7-4be2-860b-11640e408fe5",
+        "created_at": "2026-11-03T03:14:07.173102+00:00",
+        "updated_at": "2026-11-03T03:14:07.173102+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book recently after her movie did well, sharing a photo of herself holding a notebook with handwritten pages.",
+        "score": 0.6562799663512547,
+        "id": "63929b34-eaa0-43f5-8261-592163bf9a17",
+        "created_at": "2026-11-03T03:12:34.854375+00:00",
+        "updated_at": "2026-11-03T03:12:34.854375+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6539540160120654,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who considers her laptop essential to her work, describing it as half of her lifeline.",
+        "score": 0.6538546940633266,
+        "id": "7c1c2837-ae47-4cb1-a97e-6980c6a06459",
+        "created_at": "2026-11-03T03:17:30.871396+00:00",
+        "updated_at": "2026-11-03T03:17:30.871396+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.6522898668827948,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15-21, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.6477164619638838,
+        "id": "22e269e5-f2ed-4a85-8759-0f70125c8e86",
+        "created_at": "2026-11-03T03:14:11.538519+00:00",
+        "updated_at": "2026-11-03T03:14:11.538519+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.6473971834285265,
+        "id": "8d65fcef-0597-40c8-b61f-ee76fb5ad9b6",
+        "created_at": "2026-11-03T03:14:15.512379+00:00",
+        "updated_at": "2026-11-03T03:14:15.512379+00:00"
+      },
+      {
+        "memory": "Joanna is working on a script called 'Finding Home' with her writers group, which depicts a girl's journey to find her true home; she finds the project rewarding and emotional.",
+        "score": 0.6473140175873365,
+        "id": "65b3785f-c1a4-413b-8ab3-e0c44e2c258d",
+        "created_at": "2026-11-03T03:04:16.522617+00:00",
+        "updated_at": "2026-11-03T03:04:16.522617+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.6472837455577027,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.6452341643316105,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook, viewing looking back on fond memories as a blessing.",
+        "score": 0.64326898163949,
+        "id": "754c605c-f4cf-4764-9bcb-7f08a302810f",
+        "created_at": "2026-11-03T03:30:00.786407+00:00",
+        "updated_at": "2026-11-03T03:30:00.786407+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.6401293815073393,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.639178617974745,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her notebook covered in stickers on August 14, 2022, while discussing how she is going all out with her current writing projects.",
+        "score": 0.632023481492856,
+        "id": "ebc92211-b045-4b3e-9e7a-2e05e40ab273",
+        "created_at": "2026-11-03T03:12:58.804217+00:00",
+        "updated_at": "2026-11-03T03:12:58.804217+00:00"
+      }
+    ],
+    "search_latency_ms": 413.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her early writings.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer directly matches the gold answer by identifying her early writings."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her early writings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying her early writings."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her early writings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying her early writings."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her early writings.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by identifying her early writings."
+    }
+  }
+}

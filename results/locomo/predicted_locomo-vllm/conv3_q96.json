@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q96",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of movies does Nate enjoy watching the most?",
+  "ground_truth_answer": "action and sci-fi",
+  "evidence": [
+    "D1:13"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What type of movies does Nate enjoy watching the most?",
+    "search_results": [
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.7114007890713288,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6682984414171992,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.6562117715559175,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.652484162477667,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6502554439529391,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6453716922674961,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.6424044557730701,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.6396881797701787,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate unwinds by playing video games or watching movies at home, and owns a collection of DVDs and movies stored on a bookcase.",
+        "score": 0.6388857096061296,
+        "id": "1d1ba0da-c6fe-43f4-83fb-a756ea6590bc",
+        "created_at": "2026-11-03T03:21:47.502587+00:00",
+        "updated_at": "2026-11-03T03:21:47.502587+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.6349238661084948,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.6346714169994382,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.6345146724564509,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate unwinds at home by playing video games or watching movies, and owns a collection of DVDs and movies stored in a bookcase.",
+        "score": 0.632640051883477,
+        "id": "a2dc6bca-7d44-466a-8c6f-052d2d73ffc3",
+        "created_at": "2026-11-03T03:22:35.346543+00:00",
+        "updated_at": "2026-11-03T03:22:35.346543+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.6250003090882899,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.6232971344122391,
+        "id": "b673c42f-33ed-4154-ab27-510852da0724",
+        "created_at": "2026-11-03T03:28:17.710092+00:00",
+        "updated_at": "2026-11-03T03:28:17.710092+00:00"
+      },
+      {
+        "memory": "Nate considers The Lord of the Rings trilogy to be probably the greatest trilogy of all time and expressed happiness that Joanna enjoyed watching it on May 2, 2022.",
+        "score": 0.6219948588190537,
+        "id": "a0a3427e-d2d8-449a-a4a1-a0b851d89d7a",
+        "created_at": "2026-11-03T03:05:06.287276+00:00",
+        "updated_at": "2026-11-03T03:05:06.287276+00:00"
+      },
+      {
+        "memory": "Nate finds watching his turtles calming and fascinating, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.6190672565098281,
+        "id": "64a93a1c-34f7-429a-a675-e0b1b674360a",
+        "created_at": "2026-11-03T03:28:06.192135+00:00",
+        "updated_at": "2026-11-03T03:28:06.192135+00:00"
+      },
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.6170220877115018,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate plans to give his turtles a bath before Joanna visits so they are ready to play, and suggested they could also watch one of her movies together or go to the park",
+        "score": 0.6169032392483724,
+        "id": "0060af9e-3059-470b-a5b7-3144b51ad259",
+        "created_at": "2026-11-03T03:32:29.047689+00:00",
+        "updated_at": "2026-11-03T03:32:29.047689+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.6164030758467633,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      }
+    ],
+    "search_latency_ms": 46.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate most enjoys emotionally immersive, story-driven movies—films that take him to new worlds and fill him with emotions, such as *Little Women* and *Inception*.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes story-driven emotional films and does not explicitly identify action or sci-fi as Nate's preferred movie types."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate most enjoys emotionally immersive, story-driven movies—films that take him to new worlds and fill him with emotions, especially ones with strong acting and captivating plots.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes emotionally immersive, story-driven movies but does not mention action or sci-fi, so it misses the gold answer's core movie types."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate most enjoys emotionally immersive, story-driven movies—films that take him to new worlds and fill him with emotions, especially ones with strong acting and captivating plots.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes emotionally immersive, story-driven movies but does not mention action or sci-fi, so it misses the gold answer's core movie types."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate most enjoys emotionally immersive, story-driven movies—films that take him to new worlds and fill him with emotions, especially ones with strong acting and captivating plots.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes emotionally immersive, story-driven movies but does not mention action or sci-fi, so it misses the gold answer's core movie types."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q146",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why does John say he feels stuck and questioning his decisions and goals?",
+  "ground_truth_answer": "Not feeling like making much of an impact",
+  "evidence": [
+    "D30:14"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why does John say he feels stuck and questioning his decisions and goals?",
+    "search_results": [
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.7285743274014767,
+        "id": "f419d208-c055-4780-a91d-9cc4419120b5",
+        "created_at": "2026-11-03T00:48:10.988944+00:00",
+        "updated_at": "2026-11-03T00:48:10.988944+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.7285743274014767,
+        "id": "eeee4313-4722-4ee9-ab50-11f6cb83225f",
+        "created_at": "2026-11-03T00:48:08.364873+00:00",
+        "updated_at": "2026-11-03T00:48:08.364873+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.7115541516548957,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.7115541516548957,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is currently feeling stumped and is questioning his decisions and goals because he does not feel like he is making much of an impact in his community work.",
+        "score": 0.6964675935993764,
+        "id": "1634a2f6-d20b-46b5-9e90-8e89c0d2d668",
+        "created_at": "2026-11-03T00:48:00.764465+00:00",
+        "updated_at": "2026-11-03T00:48:00.764465+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.6780045935501015,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John feels stuck in his activism work despite wanting to positively affect people and the world, and is seeking a better way to focus his passion and enthusiasm.",
+        "score": 0.6478316580861427,
+        "id": "59823800-2341-436e-9fcf-ae5a05d311d6",
+        "created_at": "2026-11-03T00:48:05.336643+00:00",
+        "updated_at": "2026-11-03T00:48:05.336643+00:00"
+      },
+      {
+        "memory": "John overcame significant self-doubt during his career progression, questioning if he was on the right track, but powered through with support from home and his own grit.",
+        "score": 0.6459648628703418,
+        "id": "965f3744-beea-4ed7-a6e3-8e36e52d0723",
+        "created_at": "2026-11-03T00:33:24.942173+00:00",
+        "updated_at": "2026-11-03T00:33:24.942173+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles in achieving his promotion, including technical challenges, workplace issues, and severe self-doubt where he questioned if he was on the right track, but powered through with support from home and his own grit.",
+        "score": 0.6193559777253085,
+        "id": "af9a6b02-eeaf-4fc9-a5be-490b604e0cd3",
+        "created_at": "2026-11-03T00:33:49.895981+00:00",
+        "updated_at": "2026-11-03T00:33:49.895981+00:00"
+      },
+      {
+        "memory": "Maria expressed strong support for John's decision to run for office again, stating she is proud of him for sticking with it and encouraging him not to be afraid to take risks.",
+        "score": 0.5443106910207944,
+        "id": "08f16eb1-133e-431e-93e4-8086b5322659",
+        "created_at": "2026-11-03T00:29:15.975372+00:00",
+        "updated_at": "2026-11-03T00:29:15.975372+00:00"
+      },
+      {
+        "memory": "Maria expressed strong support for John's decision to run for office, encouraging him not to be afraid to take risks and stating she is 100% behind him.",
+        "score": 0.5403332569865126,
+        "id": "2e0ea47a-3c8b-491b-a3a9-a436380ab228",
+        "created_at": "2026-11-03T00:29:34.053933+00:00",
+        "updated_at": "2026-11-03T00:29:34.053933+00:00"
+      },
+      {
+        "memory": "John considers himself lucky to have his family supporting him on his professional journey, viewing their trust and presence as vital to his ability to achieve goals.",
+        "score": 0.48602379391810685,
+        "id": "7ded02c8-aa0e-4616-b645-4011dc1bbb8b",
+        "created_at": "2026-11-03T00:34:11.124189+00:00",
+        "updated_at": "2026-11-03T00:34:11.124189+00:00"
+      },
+      {
+        "memory": "John feels that Maria's encouragement gives him the strength to keep going when things feel overwhelming, though he acknowledges he still has a lot to learn but remains determined to make a difference.",
+        "score": 0.40513422551109224,
+        "id": "d687563f-ff24-4bc9-b79e-18af1912026b",
+        "created_at": "2026-11-03T00:29:34.058131+00:00",
+        "updated_at": "2026-11-03T00:29:34.058131+00:00"
+      },
+      {
+        "memory": "John feels a strong bond with his current team that he has not felt since his time in the military, finding their collective effort to serve and protect the community fulfilling and meaningful",
+        "score": 0.39114490256163237,
+        "id": "4208c136-767f-4b84-a720-ec8f1f955265",
+        "created_at": "2026-11-03T00:44:38.662900+00:00",
+        "updated_at": "2026-11-03T00:44:38.662900+00:00"
+      },
+      {
+        "memory": "John feels a strong bond of trust and reliance with his fire-fighting brigade teammates, describing them as like family, a connection he has not felt since his time in the military.",
+        "score": 0.3778209862830855,
+        "id": "34c769c5-09b2-4065-8d89-76929b659aa1",
+        "created_at": "2026-11-03T00:44:15.981618+00:00",
+        "updated_at": "2026-11-03T00:44:15.981618+00:00"
+      },
+      {
+        "memory": "John describes nature experiences, such as mountaineering and camping, as feeling like a 'reset button' that helps him clear his head and find calm during difficult times.",
+        "score": 0.3711549608263116,
+        "id": "c20f3801-1bf3-449b-88c2-82a2830c4a5e",
+        "created_at": "2026-11-03T00:32:15.831840+00:00",
+        "updated_at": "2026-11-03T00:32:15.831840+00:00"
+      },
+      {
+        "memory": "John feels that his fire brigade teammates have become like family to him, noting that the bond of trust and reliance he shares with them is similar to what he felt during his time in the military.",
+        "score": 0.3612890062115063,
+        "id": "756d637d-31ca-4bac-a817-21ea682f6972",
+        "created_at": "2026-11-03T00:44:13.364427+00:00",
+        "updated_at": "2026-11-03T00:44:13.364427+00:00"
+      },
+      {
+        "memory": "John describes nature experiences as feeling like 'restarting my mind and spirit,' helping him remember the little things in life and savor peaceful moments.",
+        "score": 0.35414303401348335,
+        "id": "dbc5b759-3c1d-4cca-be6e-0f2d0a1e33b0",
+        "created_at": "2026-11-03T00:47:45.948796+00:00",
+        "updated_at": "2026-11-03T00:47:45.948796+00:00"
+      },
+      {
+        "memory": "John feels that his activism work is an uphill battle and sometimes doubts if he is making a difference, but he stays motivated by the support of people who understand his work and by his family.",
+        "score": 0.3526934094053423,
+        "id": "495be396-b329-4767-b44b-0e709d7c346d",
+        "created_at": "2026-11-03T00:39:40.567046+00:00",
+        "updated_at": "2026-11-03T00:39:40.567046+00:00"
+      },
+      {
+        "memory": "John feels that his involvement in community service and helping others is his true calling, giving him a strong sense of purpose and passion.",
+        "score": 0.3271799652955626,
+        "id": "a10e07bc-1a4a-444e-83b3-aafe3017ed54",
+        "created_at": "2026-11-03T00:50:06.778628+00:00",
+        "updated_at": "2026-11-03T00:50:06.778628+00:00"
+      }
+    ],
+    "search_latency_ms": 64.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John says he feels stuck and is questioning his decisions and goals because he feels he is not making much of an impact in his community/activism work, even though he wants to positively affect people and the world.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core reason that John is not feeling like he is making much of an impact."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John says he feels stuck and is questioning his decisions and goals because he feels he is not making much of an impact in his community/activism work, even though he wants to positively affect people and the world.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reason that John is not feeling like he is making much of an impact."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John says he feels stuck and is questioning his decisions and goals because he feels he is not making much of an impact in his community/activism work, even though he wants to positively affect people and the world.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reason that John is not feeling like he is making much of an impact."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John says he feels stuck and is questioning his decisions and goals because he feels he is not making much of an impact in his community/activism work, even though he wants to positively affect people and the world.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reason that John is not feeling like he is making much of an impact."
+    }
+  }
+}

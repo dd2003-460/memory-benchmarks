@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q102",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which dairy-free dessert flavors does Nate enjoy?",
+  "ground_truth_answer": "chocolate and mixed berry",
+  "evidence": [
+    "D3:10"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Which dairy-free dessert flavors does Nate enjoy?",
+    "search_results": [
+      {
+        "memory": "Nate's favorite dairy-free desserts are coconut milk ice cream and dairy-free chocolate mousse, which he describes as super creamy and tasting like the real thing.",
+        "score": 0.8547452758762126,
+        "id": "81dfcf42-75d5-4c7a-a4a9-d9bf76eb1aa6",
+        "created_at": "2026-11-03T03:18:37.399595+00:00",
+        "updated_at": "2026-11-03T03:18:37.399595+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience of sharing his love for them as fun and rewarding.",
+        "score": 0.8539496595858083,
+        "id": "dc4c894f-07bd-47fd-88dd-9317bbaf7373",
+        "created_at": "2026-11-03T03:13:20.720303+00:00",
+        "updated_at": "2026-11-03T03:13:20.720303+00:00"
+      },
+      {
+        "memory": "Joanna makes various dairy-free desserts including cookies, pies, and cakes that accommodate different dietary needs, and plans to share more recipes with Nate soon.",
+        "score": 0.8529673974242027,
+        "id": "f4c7f8ea-5a10-4664-b007-c5fea1c38349",
+        "created_at": "2026-11-03T03:16:58.589406+00:00",
+        "updated_at": "2026-11-03T03:16:58.589406+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the activity as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings.",
+        "score": 0.8459987540241514,
+        "id": "57ba8cdb-cda8-4f3d-bdef-ac6bdb39fe48",
+        "created_at": "2026-11-03T03:13:32.631384+00:00",
+        "updated_at": "2026-11-03T03:13:32.631384+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings with Joanna on August 14, 2022.",
+        "score": 0.8380087226628534,
+        "id": "e68bff46-e8a5-449b-812c-7093e9a1e326",
+        "created_at": "2026-11-03T03:13:40.691046+00:00",
+        "updated_at": "2026-11-03T03:13:40.691046+00:00"
+      },
+      {
+        "memory": "Joanna has been testing out dairy-free dessert recipes for friends and family, recently making a cake with white frosting that she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.8319564961231343,
+        "id": "9a61a0d8-4593-4162-8ee1-087485816739",
+        "created_at": "2026-11-03T03:05:29.077837+00:00",
+        "updated_at": "2026-11-03T03:05:29.077837+00:00"
+      },
+      {
+        "memory": "Joanna is experimenting with chocolate, raspberry, and coconut flavors in her dairy-free dessert recipes, finding the process enjoyable.",
+        "score": 0.8309805257525145,
+        "id": "87354262-cc14-49e7-a6b9-2fc5dabfb759",
+        "created_at": "2026-11-03T03:15:48.943544+00:00",
+        "updated_at": "2026-11-03T03:15:48.943544+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.8259735758186804,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Nate loves dairy-free chocolate mousse in addition to coconut milk ice cream, describing the mousse as super creamy and tasting like the real thing.",
+        "score": 0.8176232351589274,
+        "id": "d42d0b60-0936-4bd6-ba4b-3f5f68cccda0",
+        "created_at": "2026-11-03T03:18:00.713932+00:00",
+        "updated_at": "2026-11-03T03:18:00.713932+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, dairy-free, and having a tropical coconut twist.",
+        "score": 0.8056747096053118,
+        "id": "ce05810b-405e-4189-9cc7-1694e3a3e105",
+        "created_at": "2026-11-03T03:17:45.174891+00:00",
+        "updated_at": "2026-11-03T03:17:45.174891+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.8028572980787867,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate agreed to share his new creamy, rich, dairy-free recipe with Joanna on August 14, 2022, after she expressed interest in trying it.",
+        "score": 0.8005147594778743,
+        "id": "1bc797eb-f092-4a67-997c-ba061383c1de",
+        "created_at": "2026-11-03T03:13:40.694805+00:00",
+        "updated_at": "2026-11-03T03:13:40.694805+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant, which is why she requested the dairy-free version of Nate's coconut milk ice cream recipe on April 17, 2022",
+        "score": 0.7908966848811787,
+        "id": "c6d5340b-5bee-48e5-85ae-2ee02474c172",
+        "created_at": "2026-11-03T03:03:54.859509+00:00",
+        "updated_at": "2026-11-03T03:03:54.859509+00:00"
+      },
+      {
+        "memory": "Nate's dairy-free coconut milk ice cream recipe consists of coconut milk, vanilla extract, sugar, and a pinch of salt, which he chills in the fridge before freezing in an ice cream maker until scoopable",
+        "score": 0.7896453061801094,
+        "id": "4076c960-97f7-4df2-8c82-5aee7e18c488",
+        "created_at": "2026-11-03T03:04:03.565670+00:00",
+        "updated_at": "2026-11-03T03:04:03.565670+00:00"
+      },
+      {
+        "memory": "Nate identified coconut milk ice cream as his favorite dish from his cooking show, describing it as smooth, creamy, and having a tropical twist, while noting its suitability for dairy-free and vegan diets.",
+        "score": 0.7841352678617571,
+        "id": "a012f901-f39e-48a1-b034-91fe84062507",
+        "created_at": "2026-11-03T03:17:35.102080+00:00",
+        "updated_at": "2026-11-03T03:17:35.102080+00:00"
+      },
+      {
+        "memory": "Joanna made a dairy-free vanilla cake with strawberry filling and coconut cream frosting, which she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.7804373574726784,
+        "id": "20f1b68a-ef1c-40e4-8224-57fb5adfec0b",
+        "created_at": "2026-11-03T03:05:35.434706+00:00",
+        "updated_at": "2026-11-03T03:05:35.434706+00:00"
+      },
+      {
+        "memory": "Joanna is working on a screenplay and has been testing dairy-free dessert recipes for friends and family, recently making a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+        "score": 0.7779235252844308,
+        "id": "161a6a6f-d580-458c-805f-c19dd31dd970",
+        "created_at": "2026-11-03T03:05:51.311774+00:00",
+        "updated_at": "2026-11-03T03:05:51.311774+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cookie with chocolate drizzle and almonds with Nate on September 5, 2022, expressing enthusiasm for trying his dairy-free baking tips.",
+        "score": 0.7737205779475846,
+        "id": "90197109-0cbc-4f57-9d56-d369539d3954",
+        "created_at": "2026-11-03T03:16:54.860596+00:00",
+        "updated_at": "2026-11-03T03:16:54.860596+00:00"
+      },
+      {
+        "memory": "Joanna is experimenting with dessert flavors including chocolate, raspberry, and coconut to make recipes yummier and more accessible.",
+        "score": 0.7650903054868761,
+        "id": "281d268a-a91b-4990-950d-6f5807d6589d",
+        "created_at": "2026-11-03T03:15:53.711930+00:00",
+        "updated_at": "2026-11-03T03:15:53.711930+00:00"
+      },
+      {
+        "memory": "Nate recommended using dairy-free margarine or coconut oil instead of butter for dairy-free baking and advised checking labels to ensure ingredients are dairy-free.",
+        "score": 0.7643341731775581,
+        "id": "e71e068a-3534-457a-ad3a-4b18fe31f032",
+        "created_at": "2026-11-03T03:16:58.593969+00:00",
+        "updated_at": "2026-11-03T03:16:58.593969+00:00"
+      }
+    ],
+    "search_latency_ms": 91.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut and chocolate.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes chocolate, which is one of the correct flavors from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys coconut and chocolate dairy-free dessert flavors, specifically coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes chocolate, which is one of the gold answer's correct dairy-free dessert flavors."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys coconut and chocolate dairy-free dessert flavors, specifically coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes chocolate, which is one of the gold answer's correct dairy-free dessert flavors."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys coconut and chocolate dairy-free dessert flavors, specifically coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes chocolate, which is one of the gold answer's correct dairy-free dessert flavors."
+    }
+  }
+}

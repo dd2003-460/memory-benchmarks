@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q74",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+  "ground_truth_answer": "The girl seemed sad and had no other family",
+  "evidence": [
+    "D5:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+    "search_results": [
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.692970837718581,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.6725488108947497,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.6701580942277516,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.6659568120747327,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.65173010042045,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6306740822582404,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria participated in a 5K charity run for a homeless shelter around April 1-2, 2023, finding the experience rewarding and energizing due to the sense of unity among participants, which reinforced her passion for charity work.",
+        "score": 0.6273170863497431,
+        "id": "ddafb1dd-db69-4ce3-bca8-716001b56f9b",
+        "created_at": "2026-11-03T00:25:10.866059+00:00",
+        "updated_at": "2026-11-03T00:25:10.866059+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023 and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6268305573337363,
+        "id": "e98eedd6-c57d-4f97-b841-6e9804670ec9",
+        "created_at": "2026-11-03T00:31:47.159168+00:00",
+        "updated_at": "2026-11-03T00:31:47.159168+00:00"
+      },
+      {
+        "memory": "Maria volunteered at the front desk of the homeless shelter on August 11, 2023, finding it rewarding to see residents' smiles when they received food or a bed.",
+        "score": 0.6179209672388811,
+        "id": "4af3a6a7-2426-4544-8d3e-de1f25289bcd",
+        "created_at": "2026-11-03T00:49:57.098389+00:00",
+        "updated_at": "2026-11-03T00:49:57.098389+00:00"
+      },
+      {
+        "memory": "Maria met three children at a shelter and shared a photo of them sitting on a step smiling, noting that their smiles warmed her heart.",
+        "score": 0.6141501032797172,
+        "id": "db403a0c-db85-4b76-8c5b-98a25ff5151f",
+        "created_at": "2026-11-03T00:37:28.989831+00:00",
+        "updated_at": "2026-11-03T00:37:28.989831+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter around July 24, 2023, which increased her motivation to help people.",
+        "score": 0.595589339112878,
+        "id": "6c2abad2-486b-4ee2-a794-4db7935db815",
+        "created_at": "2026-11-03T00:43:59.692853+00:00",
+        "updated_at": "2026-11-03T00:43:59.692853+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter where she volunteers around July 24, 2023, and found the experience great, which increased her motivation to help people.",
+        "score": 0.5938179989780015,
+        "id": "616d44f0-c737-470d-b86c-1149d346c5e9",
+        "created_at": "2026-11-03T00:43:42.120696+00:00",
+        "updated_at": "2026-11-03T00:43:42.120696+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.5926516540148847,
+        "id": "22c93572-589d-448d-a61f-afbe3cc538c7",
+        "created_at": "2026-11-03T00:46:44.138258+00:00",
+        "updated_at": "2026-11-03T00:46:44.138258+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.5926516540148847,
+        "id": "bce5658f-83cf-4094-b6c0-41071ef282f7",
+        "created_at": "2026-11-03T00:46:52.202536+00:00",
+        "updated_at": "2026-11-03T00:46:52.202536+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.592106864839803,
+        "id": "c1afbd5c-62fd-4e8c-9ff0-034e7e2083d2",
+        "created_at": "2026-11-03T00:47:01.150437+00:00",
+        "updated_at": "2026-11-03T00:47:01.150437+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week preceding August 9, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.5885819749983824,
+        "id": "869dd96c-0d2b-44c6-9250-18cffa33177b",
+        "created_at": "2026-11-03T00:46:31.870650+00:00",
+        "updated_at": "2026-11-03T00:46:31.870650+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 31, 2023, of a group of people standing around a table at a homeless shelter, emphasizing that being kind matters while volunteering.",
+        "score": 0.5871066727074561,
+        "id": "945290ae-dacb-4716-b8f8-2c37540a7c07",
+        "created_at": "2026-11-03T00:44:23.676750+00:00",
+        "updated_at": "2026-11-03T00:44:23.676750+00:00"
+      },
+      {
+        "memory": "John and Maria worked with a local organization that helps victims of domestic abuse, raising awareness and funds at an event around August 11, 2023.",
+        "score": 0.5819110414904485,
+        "id": "3fc09f3c-16fd-44b5-8b67-5dc9be24f90b",
+        "created_at": "2026-11-03T00:47:23.446570+00:00",
+        "updated_at": "2026-11-03T00:47:23.446570+00:00"
+      },
+      {
+        "memory": "Maria is preparing for a fundraiser at the homeless shelter scheduled for the week of May 29, 2023, with the goal of raising enough funds to cover basic needs for the homeless residents.",
+        "score": 0.5790826854819728,
+        "id": "bbe128c2-1cc3-486e-adf7-8bb85628e1ff",
+        "created_at": "2026-11-03T00:30:47.739372+00:00",
+        "updated_at": "2026-11-03T00:30:47.739372+00:00"
+      },
+      {
+        "memory": "Maria experienced an incident involving a damaged car associated with a homeless shelter on July 2, 2023, which she described as 'not so great' and shared a photo of the car on a flatbed.",
+        "score": 0.5789460757779414,
+        "id": "335b6a97-6961-45c0-888d-9d617118486f",
+        "created_at": "2026-11-03T00:37:28.997287+00:00",
+        "updated_at": "2026-11-03T00:37:28.997287+00:00"
+      }
+    ],
+    "search_latency_ms": 110.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria sat with the little girl to give her companionship and comfort, because she was volunteering at the shelter and was moved by children’s smiles and the chance to make a difference in someone’s life.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer references the same shelter event and little girl and frames Maria's reason as providing companionship and comfort, which semantically overlaps with the girl's sadness and need for family."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria sat with the little girl to show kindness and make the child feel cared for and connected, because she is motivated by being kind at the shelter and finding hope and reward in seeing people’s smiles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a general kindness motivation but does not include the gold answer's specific reasons that the girl seemed sad and had no other family."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria sat with the little girl to show kindness and make the child feel cared for and connected, because she is motivated by being kind at the shelter and finding hope and reward in seeing people’s smiles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a general kindness motivation but does not include the gold answer's specific reasons that the girl seemed sad and had no other family."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria sat with the little girl to show kindness and make the child feel cared for and connected, because she is motivated by being kind at the shelter and finding hope and reward in seeing people’s smiles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a general kindness motivation but does not include the gold answer's specific reasons that the girl seemed sad and had no other family."
+    }
+  }
+}

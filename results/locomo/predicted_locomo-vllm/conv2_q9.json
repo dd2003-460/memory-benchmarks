@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q9",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+  "ground_truth_answer": "Her aunt",
+  "evidence": [
+    "D6:9",
+    "D5:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+    "search_results": [
+      {
+        "memory": "Maria has a small family that she relies on for strength during tough times, viewing them as an essential support system for staying motivated and reaching her goals.",
+        "score": 0.8499884685496022,
+        "id": "881a4322-e847-46bc-a920-dce58dc6896c",
+        "created_at": "2026-11-03T00:28:16.020980+00:00",
+        "updated_at": "2026-11-03T00:28:16.020980+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had a tough time recently around early July 2023.",
+        "score": 0.7970858006262184,
+        "id": "32bef39a-ecdc-4c60-af4e-9a0e779b3564",
+        "created_at": "2026-11-03T00:37:40.115578+00:00",
+        "updated_at": "2026-11-03T00:37:40.115578+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin recently went through a difficult time.",
+        "score": 0.7616347212361568,
+        "id": "d7ab66bb-e265-4d83-a06a-26de5836cab4",
+        "created_at": "2026-11-03T00:37:42.374713+00:00",
+        "updated_at": "2026-11-03T00:37:42.374713+00:00"
+      },
+      {
+        "memory": "As of June 27, 2023, Maria is going through a period of struggle but is focusing on the positive and relying on her friends and family for support.",
+        "score": 0.6257218913468604,
+        "id": "27289836-54df-465e-861c-955c8a045a51",
+        "created_at": "2026-11-03T00:35:38.450697+00:00",
+        "updated_at": "2026-11-03T00:35:38.450697+00:00"
+      },
+      {
+        "memory": "As of early May 2023, Maria is going through a rough period in life but is managing by taking time to reflect and find balance.",
+        "score": 0.612342761919949,
+        "id": "9c750c66-d8c4-4481-b79f-13e82a59ce42",
+        "created_at": "2026-11-03T00:29:36.417387+00:00",
+        "updated_at": "2026-11-03T00:29:36.417387+00:00"
+      },
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.6077088388038041,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "Maria learned the hard way in 2022 that taking care of oneself is essential for being strong during life's tough times, a lesson reinforced by her experience with balance and well-being.",
+        "score": 0.6006136636746685,
+        "id": "274e67e4-bdfb-4c3c-843c-c8226f486a7c",
+        "created_at": "2026-11-03T00:28:40.929706+00:00",
+        "updated_at": "2026-11-03T00:28:40.929706+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.5991087988704481,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "Maria learned the importance of self-care the hard way in 2022, stating that taking care of oneself helps build strength for life's tough times.",
+        "score": 0.5989709046104352,
+        "id": "57a86168-f306-47ea-87ad-db6447e334e6",
+        "created_at": "2026-11-03T00:28:43.739818+00:00",
+        "updated_at": "2026-11-03T00:28:43.739818+00:00"
+      },
+      {
+        "memory": "Maria went on a vacation where she tried surfing for the first time, finding it exciting despite falling off repeatedly, and learned about the power of not giving up and trying new things.",
+        "score": 0.597820770096514,
+        "id": "e5ae2e27-1674-4732-bf29-b2309a6ace97",
+        "created_at": "2026-11-03T00:29:11.467110+00:00",
+        "updated_at": "2026-11-03T00:29:11.467110+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person standing on a cliff overlooking a canyon while discussing a road trip to Oregon she took with her family when she was younger.",
+        "score": 0.5926580316929002,
+        "id": "119a5fa4-cd0c-43df-9814-52d75e188a27",
+        "created_at": "2026-11-03T00:32:00.865294+00:00",
+        "updated_at": "2026-11-03T00:32:00.865294+00:00"
+      },
+      {
+        "memory": "Maria finds her volunteering at the homeless shelter rewarding but also tough, noting that while it is fulfilling, the growing need for help can be overwhelming.",
+        "score": 0.5485469760516034,
+        "id": "7fdf98d7-ea07-4bab-90af-8e2c571437bb",
+        "created_at": "2026-11-03T00:27:46.474493+00:00",
+        "updated_at": "2026-11-03T00:27:46.474493+00:00"
+      },
+      {
+        "memory": "Maria recently gave a few talks at the homeless shelter where she volunteers, finding the experience fulfilling and receiving compliments from other volunteers, which reinforced her belief in the importance of connecting with and helping others.",
+        "score": 0.4719347206956647,
+        "id": "e67fe79b-7f44-4751-a544-3c5de4bbe7d5",
+        "created_at": "2026-11-03T00:26:30.908847+00:00",
+        "updated_at": "2026-11-03T00:26:30.908847+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church the weekend of June 9-10, 2023, and described the experience as a blast that helped take her mind off things.",
+        "score": 0.45714487604759935,
+        "id": "df377abe-a270-4096-85ba-b0542604fef2",
+        "created_at": "2026-11-03T00:31:56.181489+00:00",
+        "updated_at": "2026-11-03T00:31:56.181489+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from church the weekend of June 9-10, 2023, describing it as a blast that helped take her mind off things.",
+        "score": 0.45512472011660776,
+        "id": "15839955-9dfe-401a-a656-a73e536a05cf",
+        "created_at": "2026-11-03T00:32:13.534830+00:00",
+        "updated_at": "2026-11-03T00:32:13.534830+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.3503400828907785,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria describes her family as her rock during her current period of struggle, noting they provide words of encouragement and remind her she is not alone, which brings her relief.",
+        "score": 0.24842186842874855,
+        "id": "ea926964-0a3d-4f22-abb3-a66a193c4089",
+        "created_at": "2026-11-03T00:35:50.481276+00:00",
+        "updated_at": "2026-11-03T00:35:50.481276+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.24831604999307536,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.23789417718349154,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.23279029182725502,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      }
+    ],
+    "search_latency_ms": 94.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain information about who gave Maria's family money when she was younger.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states that the information is not available, whereas the gold answer identifies 'Her aunt' as the person who gave the money, meaning the generated answer contains zero correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not contain information about who gave Maria's family money when she was younger.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that the information is missing, whereas the gold answer identifies 'Her aunt' as the person who gave the money, so the generated answer contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not contain information about who gave Maria's family money when she was younger.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that the information is missing, whereas the gold answer identifies 'Her aunt' as the person who gave the money, so the generated answer contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not contain information about who gave Maria's family money when she was younger.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that the information is missing, whereas the gold answer identifies 'Her aunt' as the person who gave the money, so the generated answer contains zero correct items."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q68",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of workout class did Maria start doing in December 2023?",
+  "ground_truth_answer": "aerial yoga",
+  "evidence": [
+    "D1:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What type of workout class did Maria start doing in December 2023?",
+    "search_results": [
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.882988115106419,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving her endurance.",
+        "score": 0.8656561997853404,
+        "id": "d8291517-f991-4aaf-944b-6a1220d6bbcc",
+        "created_at": "2026-11-03T00:32:53.460368+00:00",
+        "updated_at": "2026-11-03T00:32:53.460368+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine while enjoying the welcoming atmosphere and supportive people.",
+        "score": 0.8579058655492375,
+        "id": "d52496de-669e-481d-a485-16016bc639fc",
+        "created_at": "2026-11-03T00:33:10.476212+00:00",
+        "updated_at": "2026-11-03T00:33:10.476212+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in early June 2023, finding the atmosphere welcoming and the people supportive, which has helped her stick to her workout routine.",
+        "score": 0.8512160251144045,
+        "id": "2c33ea40-ccb3-41cc-b7ef-64fb43cf9293",
+        "created_at": "2026-11-03T00:32:56.328867+00:00",
+        "updated_at": "2026-11-03T00:32:56.328867+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and found the experience super positive with a welcoming atmosphere and awesome people, while successfully sticking to her workout routine.",
+        "score": 0.8489668748814758,
+        "id": "f67fe8a3-4db5-4008-8b6c-a5650f3de5cb",
+        "created_at": "2026-11-03T00:32:44.774829+00:00",
+        "updated_at": "2026-11-03T00:32:44.774829+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.7004087067625797,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "John is currently trying out different workout regimes and is interested in rock climbing as a way to push his limits, asking Maria if she has ever tried it.",
+        "score": 0.6963823578347654,
+        "id": "7b1405df-655a-46ad-98b6-0d57d2eeea2c",
+        "created_at": "2026-11-03T00:32:51.013847+00:00",
+        "updated_at": "2026-11-03T00:32:51.013847+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.629345963637987,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.6242638887854454,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter for about a year, starting around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.5415851859235911,
+        "id": "fa312135-f673-4ef8-af96-7b21f32f8754",
+        "created_at": "2026-11-03T00:44:57.055067+00:00",
+        "updated_at": "2026-11-03T00:44:57.055067+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a shelter about a year ago (around August 2022) after witnessing a family struggling on the streets, finding the experience fulfilling and motivated by making a difference.",
+        "score": 0.5064591590534988,
+        "id": "b763b013-43db-4d4c-a373-fab6573413af",
+        "created_at": "2026-11-03T00:45:12.561701+00:00",
+        "updated_at": "2026-11-03T00:45:12.561701+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.5057006268498918,
+        "id": "8e414989-f6ec-45e2-ac55-d27e66dd24f9",
+        "created_at": "2026-11-03T00:44:43.423528+00:00",
+        "updated_at": "2026-11-03T00:44:43.423528+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.5022247123410841,
+        "id": "fda6651e-ea70-4f8e-bb1c-f400db078f86",
+        "created_at": "2026-11-03T00:45:02.566317+00:00",
+        "updated_at": "2026-11-03T00:45:02.566317+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help; she describes the experience as fulfilling.",
+        "score": 0.49830331776389336,
+        "id": "47989226-43a5-487c-ac41-1cdc8b8c76ac",
+        "created_at": "2026-11-03T00:44:59.845448+00:00",
+        "updated_at": "2026-11-03T00:44:59.845448+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga in addition to her gym routine.",
+        "score": 0.3910766136262818,
+        "id": "9ea556c1-738a-4f19-bbf9-eb914dda6a57",
+        "created_at": "2026-11-03T00:32:48.863898+00:00",
+        "updated_at": "2026-11-03T00:32:48.863898+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.3567950361867087,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "Maria is planning to have dinner with friends from the gym on July 7, 2023",
+        "score": 0.34385496469583876,
+        "id": "cae80642-d61d-414e-99e3-7bd33a83c8db",
+        "created_at": "2026-11-03T00:41:28.898336+00:00",
+        "updated_at": "2026-11-03T00:41:28.898336+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.315858910671422,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.3141742033282072,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.3141742033282072,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      }
+    ],
+    "search_latency_ms": 85.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 10,
+      "reason": "The generated answer names a different workout class than the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different workout class than the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different workout class, Kundalini yoga, instead of the gold answer's aerial yoga."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Kundalini yoga",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different workout class, Kundalini yoga, instead of the gold answer's aerial yoga."
+    }
+  }
+}

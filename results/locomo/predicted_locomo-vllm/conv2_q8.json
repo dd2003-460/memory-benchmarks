@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q8",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What might John's financial status be?",
+  "ground_truth_answer": "Middle-class or wealthy",
+  "evidence": [
+    "D5:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What might John's financial status be?",
+    "search_results": [
+      {
+        "memory": "John's car broke down on his way to work on Friday, April 7, 2023, and he is currently trying to get it fixed while managing the financial strain of the repair costs.",
+        "score": 0.60436016170578,
+        "id": "0a61968a-291e-4a36-99ec-f5940d3c63ca",
+        "created_at": "2026-11-03T00:25:48.115506+00:00",
+        "updated_at": "2026-11-03T00:25:48.115506+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.23861591277902816,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.23861591277902816,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.23335620217124467,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.2320058000623873,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.2320058000623873,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times.",
+        "score": 0.22976057061798566,
+        "id": "101fede8-6cfe-41da-8469-13a0f6687352",
+        "created_at": "2026-11-03T00:49:26.776427+00:00",
+        "updated_at": "2026-11-03T00:49:26.776427+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.22834667184997834,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as supportive and the best thing in his life, even during hard times.",
+        "score": 0.22662058928561088,
+        "id": "14c21488-0a72-46f3-8e36-0a0f221f77d1",
+        "created_at": "2026-11-03T00:49:15.627079+00:00",
+        "updated_at": "2026-11-03T00:49:15.627079+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.21776175690021765,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John considers family support vital to his success and feels lucky to have his wife and kids involved in his professional journey.",
+        "score": 0.21773590558126923,
+        "id": "845f4c4b-26fa-466c-b218-e1ca6a1bd046",
+        "created_at": "2026-11-03T00:34:22.878289+00:00",
+        "updated_at": "2026-11-03T00:34:22.878289+00:00"
+      },
+      {
+        "memory": "John was promoted to the position of assistant manager at work, a role he views as a stepping stone for bigger things and feels has paid off after a long time of hard work.",
+        "score": 0.21539658632014302,
+        "id": "6e2fbc39-1386-4961-96fc-a754e0bdcf60",
+        "created_at": "2026-11-03T00:33:00.755854+00:00",
+        "updated_at": "2026-11-03T00:33:00.755854+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with support from home and personal grit.",
+        "score": 0.21537988891987353,
+        "id": "dcd2448f-9b0c-4f3b-bc48-9c3558d04744",
+        "created_at": "2026-11-03T00:33:57.497007+00:00",
+        "updated_at": "2026-11-03T00:33:57.497007+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.2130196819727003,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work.",
+        "score": 0.21072778804876796,
+        "id": "2d2daa38-d6f2-45bd-aa62-1c956e8da4d4",
+        "created_at": "2026-11-03T00:34:22.868576+00:00",
+        "updated_at": "2026-11-03T00:34:22.868576+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles including technical challenges, workplace issues, and self-doubt, but powered through with support from home and personal grit.",
+        "score": 0.21027006531891906,
+        "id": "6824c2ac-4b0b-4bba-bbce-5d3742d22611",
+        "created_at": "2026-11-03T00:34:22.875314+00:00",
+        "updated_at": "2026-11-03T00:34:22.875314+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with grit and support from home.",
+        "score": 0.2077120559190114,
+        "id": "ab7ee521-152c-47b6-9091-348efa2f9b26",
+        "created_at": "2026-11-03T00:34:11.120753+00:00",
+        "updated_at": "2026-11-03T00:34:11.120753+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.20546865474171422,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager at work around June 16, 2023, a milestone he describes as a long time coming and feels over the moon about, viewing it as a stepping stone for bigger things.",
+        "score": 0.20470912359971996,
+        "id": "0423c9c1-d7fe-48b3-b5eb-b16ffc56a98c",
+        "created_at": "2026-11-03T00:33:49.885439+00:00",
+        "updated_at": "2026-11-03T00:33:49.885439+00:00"
+      },
+      {
+        "memory": "John is actively looking for opportunities in the tech industry following his job loss, viewing this potential career change as necessary and crediting Maria for giving him the push to pursue it.",
+        "score": 0.20266519465226115,
+        "id": "301191f5-7740-4760-8da8-ef1475abcb10",
+        "created_at": "2026-11-03T00:45:30.264731+00:00",
+        "updated_at": "2026-11-03T00:45:30.264731+00:00"
+      }
+    ],
+    "search_latency_ms": 54.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John is experiencing financial strain, likely due to the cost of car repairs and the recent loss of his job.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes John as experiencing financial strain and job loss, which contradicts the gold answer's assessment of him being middle-class or wealthy."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's financial status is strained, as he is managing the costs of car repairs and has recently lost his job, leaving him actively searching for new employment.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes John as financially strained and unemployed, which directly contradicts the gold answer's assessment of him being middle-class or wealthy."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's financial status is strained, as he is managing the costs of car repairs and has recently lost his job, leaving him actively searching for new employment.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes John as financially strained and unemployed, which directly contradicts the gold answer's assessment of him being middle-class or wealthy."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's financial status is strained, as he is managing the costs of car repairs and has recently lost his job, leaving him actively searching for new employment.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes John as financially strained and unemployed, which directly contradicts the gold answer's assessment of him being middle-class or wealthy."
+    }
+  }
+}

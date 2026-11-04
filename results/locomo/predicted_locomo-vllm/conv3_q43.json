@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q43",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "How long did it take for Joanna to finish writing her book?",
+  "ground_truth_answer": "four months",
+  "evidence": [
+    "D17:14",
+    "D22:9"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How long did it take for Joanna to finish writing her book?",
+    "search_results": [
+      {
+        "memory": "Joanna finished writing her book in the week preceding October 6, 2022, after putting in many late nights and edits, describing the dedication as worth it.",
+        "score": 0.7236969579752268,
+        "id": "88de8619-26c0-4a5e-86b2-cafa68390b9d",
+        "created_at": "2026-11-03T03:20:10.701958+00:00",
+        "updated_at": "2026-11-03T03:20:10.701958+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book in the week of September 26, 2022, after putting in many late nights and edits, and described the accomplishment as worth the effort.",
+        "score": 0.7215750484068875,
+        "id": "d4b1a82e-4148-4da6-a2f5-ad93b975f92c",
+        "created_at": "2026-11-03T03:19:55.051492+00:00",
+        "updated_at": "2026-11-03T03:19:55.051492+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book on the week of September 26, 2022, after putting in many late nights and edits, and feels proud of the completed work while looking forward to what happens next.",
+        "score": 0.701796753400846,
+        "id": "6e742e77-a62c-4927-86f8-2d2ba18eb20b",
+        "created_at": "2026-11-03T03:19:18.825536+00:00",
+        "updated_at": "2026-11-03T03:19:18.825536+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around late September 2022 after putting in many late nights and edits, and Nate congratulated her on completing the effort.",
+        "score": 0.6868086962721627,
+        "id": "72446f52-112b-4221-8ea7-a90d63763af3",
+        "created_at": "2026-11-03T03:19:28.908830+00:00",
+        "updated_at": "2026-11-03T03:19:28.908830+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.6846529888753379,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6795905791556276,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.678457005548038,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.675166662472386,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.6734676584458368,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15-21, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.66092173356697,
+        "id": "22e269e5-f2ed-4a85-8759-0f70125c8e86",
+        "created_at": "2026-11-03T03:14:11.538519+00:00",
+        "updated_at": "2026-11-03T03:14:11.538519+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group in the week prior to August 22, 2022, feeling super nervous but receiving great feedback that made her feel her hard work was paying off.",
+        "score": 0.6600514552547726,
+        "id": "2aad159b-75d7-4be2-860b-11640e408fe5",
+        "created_at": "2026-11-03T03:14:07.173102+00:00",
+        "updated_at": "2026-11-03T03:14:07.173102+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in early July 2022, inspired by the success of her recent movie project",
+        "score": 0.6588037572067068,
+        "id": "b05c8843-7437-4ec4-bf99-f74499d4a15f",
+        "created_at": "2026-11-03T03:12:32.038044+00:00",
+        "updated_at": "2026-11-03T03:12:32.038044+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.6564977217521173,
+        "id": "8d65fcef-0597-40c8-b61f-ee76fb5ad9b6",
+        "created_at": "2026-11-03T03:14:15.512379+00:00",
+        "updated_at": "2026-11-03T03:14:15.512379+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book recently after her movie did well, sharing a photo of herself holding a notebook with handwritten pages.",
+        "score": 0.6556095355580654,
+        "id": "63929b34-eaa0-43f5-8261-592163bf9a17",
+        "created_at": "2026-11-03T03:12:34.854375+00:00",
+        "updated_at": "2026-11-03T03:12:34.854375+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6511255435775619,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.6506243873487819,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.6460657022470229,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6448793472662957,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna has been reading a lot in the week preceding April 17, 2022, rediscovering and enjoying several good books she had forgotten she owned",
+        "score": 0.6447790215113705,
+        "id": "26ccb71f-43c5-4638-9cff-0351385c1f11",
+        "created_at": "2026-11-03T03:02:59.068229+00:00",
+        "updated_at": "2026-11-03T03:02:59.068229+00:00"
+      },
+      {
+        "memory": "Joanna is writing a book that explores themes of loss, redemption, and forgiveness through dialogue, describing it as a deep and emotional story she is excited about.",
+        "score": 0.6376951043770653,
+        "id": "9613e0fd-6fb4-4f1c-8efb-9bba91f5c644",
+        "created_at": "2026-11-03T03:12:39.639682+00:00",
+        "updated_at": "2026-11-03T03:12:39.639682+00:00"
+      }
+    ],
+    "search_latency_ms": 79.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "About two months, from July 2022 to late September 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer's duration of about two months is within the allowed 50% tolerance of the gold answer's four months."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It took Joanna about three months to finish writing her book, from early July 2022 to late September 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's duration of about three months is within 50% of the gold answer's four months."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "About three months, from early July 2022 to late September 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's duration of about three months is within the allowed 50% tolerance of the gold answer's four months."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It took Joanna about three months to finish writing her book, from early July 2022 to late September 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's duration of about three months is within 50% of the gold answer's four months."
+    }
+  }
+}

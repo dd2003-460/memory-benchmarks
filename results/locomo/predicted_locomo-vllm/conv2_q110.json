@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q110",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What exciting news did Maria share on 16 June, 2023?",
+  "ground_truth_answer": "joined a gym",
+  "evidence": [
+    "D19:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What exciting news did Maria share on 16 June, 2023?",
+    "search_results": [
+      {
+        "memory": "As of June 27, 2023, Maria is going through a period of struggle but is focusing on the positive and relying on her friends and family for support.",
+        "score": 0.7003340409492574,
+        "id": "27289836-54df-465e-861c-955c8a045a51",
+        "created_at": "2026-11-03T00:35:38.450697+00:00",
+        "updated_at": "2026-11-03T00:35:38.450697+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from church the weekend of June 9-10, 2023, describing it as a blast that helped take her mind off things.",
+        "score": 0.6903811366994594,
+        "id": "15839955-9dfe-401a-a656-a73e536a05cf",
+        "created_at": "2026-11-03T00:32:13.534830+00:00",
+        "updated_at": "2026-11-03T00:32:13.534830+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and found the experience super positive with a welcoming atmosphere and awesome people, while successfully sticking to her workout routine.",
+        "score": 0.6882628508939093,
+        "id": "f67fe8a3-4db5-4008-8b6c-a5650f3de5cb",
+        "created_at": "2026-11-03T00:32:44.774829+00:00",
+        "updated_at": "2026-11-03T00:32:44.774829+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church the weekend of June 9-10, 2023, and described the experience as a blast that helped take her mind off things.",
+        "score": 0.6807847842229343,
+        "id": "df377abe-a270-4096-85ba-b0542604fef2",
+        "created_at": "2026-11-03T00:31:56.181489+00:00",
+        "updated_at": "2026-11-03T00:31:56.181489+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in early June 2023, finding the atmosphere welcoming and the people supportive, which has helped her stick to her workout routine.",
+        "score": 0.6799612572261868,
+        "id": "2c33ea40-ccb3-41cc-b7ef-64fb43cf9293",
+        "created_at": "2026-11-03T00:32:56.328867+00:00",
+        "updated_at": "2026-11-03T00:32:56.328867+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.6672905123889153,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine while enjoying the welcoming atmosphere and supportive people.",
+        "score": 0.6652262504511581,
+        "id": "d52496de-669e-481d-a485-16016bc639fc",
+        "created_at": "2026-11-03T00:33:10.476212+00:00",
+        "updated_at": "2026-11-03T00:33:10.476212+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving her endurance.",
+        "score": 0.6651745712856723,
+        "id": "d8291517-f991-4aaf-944b-6a1220d6bbcc",
+        "created_at": "2026-11-03T00:32:53.460368+00:00",
+        "updated_at": "2026-11-03T00:32:53.460368+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.6635013424093801,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.6562512581075802,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends the weekend of July 15-16, 2023, finding the experience refreshing and uplifting due to the supportive company and nature.",
+        "score": 0.6354494197524652,
+        "id": "86a84c0f-71c5-47b8-acd3-d7a5b427dd73",
+        "created_at": "2026-11-03T00:43:13.176185+00:00",
+        "updated_at": "2026-11-03T00:43:13.176185+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.6350677208233959,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 15-16, 2023, where they relaxed under trees, played games, and ate food.",
+        "score": 0.6280524002683927,
+        "id": "d5dfcc70-c2b3-4462-bc0d-a363804dc8d2",
+        "created_at": "2026-11-03T00:41:59.464574+00:00",
+        "updated_at": "2026-11-03T00:41:59.464574+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about putting her positivity out there.",
+        "score": 0.6277324761334475,
+        "id": "de91b2fc-614f-45e8-8987-b680fb40e6e2",
+        "created_at": "2026-11-03T00:43:29.358706+00:00",
+        "updated_at": "2026-11-03T00:43:29.358706+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about continuing her community involvement.",
+        "score": 0.6276688073732527,
+        "id": "92c54323-c998-4850-9fc2-a1750ecd03cc",
+        "created_at": "2026-11-03T00:43:06.600033+00:00",
+        "updated_at": "2026-11-03T00:43:06.600033+00:00"
+      },
+      {
+        "memory": "Maria found the view from the top of the mountain during her hike with church friends on July 15-16, 2023, to be breathtaking and felt a sense of peace and connection to something special while taking in the scenery.",
+        "score": 0.6247583558207069,
+        "id": "b0e57f39-9fd8-463a-b5d9-71aec73f8faf",
+        "created_at": "2026-11-03T00:43:00.236396+00:00",
+        "updated_at": "2026-11-03T00:43:00.236396+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on July 15-16, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.6046595273273001,
+        "id": "e192afd9-65f5-4d71-857e-96dce4e53b6f",
+        "created_at": "2026-11-03T00:42:29.564797+00:00",
+        "updated_at": "2026-11-03T00:42:29.564797+00:00"
+      },
+      {
+        "memory": "Maria is planning a ring-toss tournament for the homeless shelter's fundraiser in late May 2023 and is excited about its potential impact.",
+        "score": 0.5862627199455746,
+        "id": "20c122a4-0f3c-47c0-b684-c4378fc3113f",
+        "created_at": "2026-11-03T00:30:40.714293+00:00",
+        "updated_at": "2026-11-03T00:30:40.714293+00:00"
+      },
+      {
+        "memory": "Maria is planning a ring-toss tournament for the homeless shelter's fundraiser in late May 2023 and expressed excitement about its potential impact.",
+        "score": 0.5817046074329243,
+        "id": "09fa188b-bc6e-4042-ab90-4f5e998b6d7e",
+        "created_at": "2026-11-03T00:30:42.770509+00:00",
+        "updated_at": "2026-11-03T00:30:42.770509+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.5663333004591213,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      }
+    ],
+    "search_latency_ms": 82.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria shared that she had joined a gym and was sticking to her workout routine, with a focus on getting stronger and improving her endurance.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states that Maria joined a gym, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria shared that she had joined a gym and was sticking to her workout routine.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a gym."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria shared that she had joined a gym and was sticking to her workout routine.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a gym."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria shared that she had joined a gym and was sticking to her workout routine.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a gym."
+    }
+  }
+}

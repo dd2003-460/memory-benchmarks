@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q186",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What dish did Nate make on 9 November, 2022?",
+  "ground_truth_answer": "Homemade coconut ice cream",
+  "evidence": [
+    "D28:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What dish did Nate make on 9 November, 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family during the weekend of July 9-10, 2022, noting that they love when she makes them new things.",
+        "score": 0.7352958146878111,
+        "id": "1a27a3df-84b2-4fa8-9e64-80a4b5873cfc",
+        "created_at": "2026-11-03T03:11:45.432689+00:00",
+        "updated_at": "2026-11-03T03:11:45.432689+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.6926648054119592,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.6770463195401455,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.6758525272992688,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.6737215112543333,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to try homemade coconut milk ice cream that he made on November 3, 2022.",
+        "score": 0.66369558870978,
+        "id": "dc79311b-6df6-41f4-944d-11b20d987f94",
+        "created_at": "2026-11-03T03:26:37.160413+00:00",
+        "updated_at": "2026-11-03T03:26:37.160413+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his content creation setup on November 9, 2022, featuring a desk with a computer, headphones, and a microphone.",
+        "score": 0.6621350842228613,
+        "id": "affe91cd-8305-4bb9-8a68-2cf0c0f6d310",
+        "created_at": "2026-11-03T03:30:47.961509+00:00",
+        "updated_at": "2026-11-03T03:30:47.961509+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop as of October 9, 2022, praising its futuristic setting and gameplay.",
+        "score": 0.6574907213162143,
+        "id": "976f7861-d003-4c41-b084-df944f8f8b23",
+        "created_at": "2026-11-03T03:21:53.166096+00:00",
+        "updated_at": "2026-11-03T03:21:53.166096+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's place on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes to share desserts",
+        "score": 0.654903393822668,
+        "id": "a1c53c9c-9fcd-4cf9-8db0-8641bca2b63e",
+        "created_at": "2026-11-03T03:26:58.944032+00:00",
+        "updated_at": "2026-11-03T03:26:58.944032+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6536994632650063,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6531500920524344,
+        "id": "71e7a30f-4dd2-4ee5-a0fa-5ed17092602e",
+        "created_at": "2026-11-03T03:26:49.333522+00:00",
+        "updated_at": "2026-11-03T03:26:49.333522+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to come over and try his homemade coconut milk ice cream, which he made on November 3, 2022, describing it as super yummy.",
+        "score": 0.6511670305615462,
+        "id": "530e1fa4-e01e-4051-b913-eee0f431a747",
+        "created_at": "2026-11-03T03:26:32.970229+00:00",
+        "updated_at": "2026-11-03T03:26:32.970229+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.6496145174590487,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home equipment around November 7, 2022, sharing a photo of his gaming setup featuring a desk with a computer monitor and keyboard.",
+        "score": 0.6482682666180157,
+        "id": "fa28b722-f2c2-4616-ba13-ac045eb867aa",
+        "created_at": "2026-11-03T03:28:36.476800+00:00",
+        "updated_at": "2026-11-03T03:28:36.476800+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home equipment around November 7, 2022, sharing a photo of his gaming setup featuring a desk with a computer monitor and keyboard.",
+        "score": 0.6482682666180157,
+        "id": "d59340d0-f763-465e-924f-7341fec2d589",
+        "created_at": "2026-11-03T03:28:42.616805+00:00",
+        "updated_at": "2026-11-03T03:28:42.616805+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers with Joanna while discussing his current gaming interests on November 7, 2022.",
+        "score": 0.6469421032080124,
+        "id": "0f085430-93ce-46c2-9ec1-8df356d65d2b",
+        "created_at": "2026-11-03T03:29:10.396330+00:00",
+        "updated_at": "2026-11-03T03:29:10.396330+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream after he invited her over.",
+        "score": 0.6464275251252893,
+        "id": "9b7af8ca-5c8e-467a-bcb5-ce8a714d537b",
+        "created_at": "2026-11-03T03:26:44.002052+00:00",
+        "updated_at": "2026-11-03T03:26:44.002052+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.6458316391990631,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a turtle laying on a bed of rocks and gravel with Joanna on November 7, 2022, while discussing her progress in writing.",
+        "score": 0.6408671003484173,
+        "id": "d1a41f6a-30e8-4b97-966a-e8acb4ab2fda",
+        "created_at": "2026-11-03T03:27:26.276235+00:00",
+        "updated_at": "2026-11-03T03:27:26.276235+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.6400253675382767,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      }
+    ],
+    "search_latency_ms": 83.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate made homemade coconut ice cream with red sprinkles.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's dish, homemade coconut ice cream, with an extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate made homemade coconut ice cream with red sprinkles on 9 November, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's dish, homemade coconut ice cream, with only extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Homemade coconut ice cream with red sprinkles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's dish and adds extra detail, so it is correct."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate made homemade coconut ice cream with red sprinkles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's dish, homemade coconut ice cream, with an extra detail."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q39",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Around which US holiday did Maria get into a car accident?",
+  "ground_truth_answer": "Independence Day",
+  "evidence": [
+    "D21:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Around which US holiday did Maria get into a car accident?",
+    "search_results": [
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage.",
+        "score": 0.9003976523957992,
+        "id": "bff42be2-7f99-42b8-b453-38afd851512d",
+        "created_at": "2026-11-03T00:37:45.107914+00:00",
+        "updated_at": "2026-11-03T00:37:45.107914+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone was okay despite the damage.",
+        "score": 0.8993232014131897,
+        "id": "af0142b8-5313-425c-a774-9fb49a70cd6f",
+        "created_at": "2026-11-03T00:37:42.371763+00:00",
+        "updated_at": "2026-11-03T00:37:42.371763+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage shown in a photo of the damaged car on a flatbed.",
+        "score": 0.8989197626499553,
+        "id": "07794eb0-ec1b-4700-9581-65f0d51095e8",
+        "created_at": "2026-11-03T00:38:21.695230+00:00",
+        "updated_at": "2026-11-03T00:38:21.695230+00:00"
+      },
+      {
+        "memory": "Maria was in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone involved was okay despite the damage.",
+        "score": 0.8971293737556982,
+        "id": "3ddb84f4-e74a-423c-b915-8440247663b0",
+        "created_at": "2026-11-03T00:38:00.206367+00:00",
+        "updated_at": "2026-11-03T00:38:00.206367+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit them, though everyone was unharmed.",
+        "score": 0.8909242408804765,
+        "id": "075ef4bd-dc73-4363-b37d-576b22e599b2",
+        "created_at": "2026-11-03T00:37:47.373446+00:00",
+        "updated_at": "2026-11-03T00:37:47.373446+00:00"
+      },
+      {
+        "memory": "Maria experienced a car accident on July 2, 2023, resulting in damage to her vehicle which was subsequently placed on a flatbed for transport.",
+        "score": 0.8853525459693774,
+        "id": "905f0a1b-130c-49cb-9086-fa56a958f96b",
+        "created_at": "2026-11-03T00:37:26.626929+00:00",
+        "updated_at": "2026-11-03T00:37:26.626929+00:00"
+      },
+      {
+        "memory": "Maria experienced an incident involving a damaged car associated with a homeless shelter on July 2, 2023, which she described as 'not so great' and shared a photo of the car on a flatbed.",
+        "score": 0.7784590462198803,
+        "id": "335b6a97-6961-45c0-888d-9d617118486f",
+        "created_at": "2026-11-03T00:37:28.997287+00:00",
+        "updated_at": "2026-11-03T00:37:28.997287+00:00"
+      },
+      {
+        "memory": "Maria's car accident on July 2, 2023 was caused by another vehicle running a red light and hitting her car, though she confirmed that everyone involved is okay.",
+        "score": 0.7000757783091923,
+        "id": "89a93962-cee4-407e-ba9e-cd729e039ed1",
+        "created_at": "2026-11-03T00:37:40.111595+00:00",
+        "updated_at": "2026-11-03T00:37:40.111595+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.2573806082975938,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.24806370156305876,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.24531878652568567,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.2436612928192896,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.24352410828899243,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.23340433503293082,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.23340433503293082,
+        "id": "c27435e1-2255-4694-a24d-78870c326663",
+        "created_at": "2026-11-03T00:40:23.101472+00:00",
+        "updated_at": "2026-11-03T00:40:23.101472+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.23260997970412509,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they played charades and a scavenger hunt under the trees.",
+        "score": 0.22228140105597913,
+        "id": "0fbe1af9-5fd1-4cd1-9854-a11b66a9e636",
+        "created_at": "2026-11-03T00:42:17.347730+00:00",
+        "updated_at": "2026-11-03T00:42:17.347730+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.21829596395959286,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter around July 24, 2023, which increased her motivation to help people.",
+        "score": 0.2173775875501532,
+        "id": "6c2abad2-486b-4ee2-a794-4db7935db815",
+        "created_at": "2026-11-03T00:43:59.692853+00:00",
+        "updated_at": "2026-11-03T00:43:59.692853+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.21580057505289668,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      }
+    ],
+    "search_latency_ms": 71.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Independence Day",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Independence Day, also known as the Fourth of July.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states Independence Day, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Independence Day, also known as the Fourth of July.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states Independence Day, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Independence Day, also known as the Fourth of July.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states Independence Day, matching the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q91",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "What did John attend with his colleagues in March 2023?",
+  "ground_truth_answer": "a tech-for-good convention",
+  "evidence": [
+    "D12:9"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John attend with his colleagues in March 2023?",
+    "search_results": [
+      {
+        "memory": "John attended a convention with colleagues around March 2023 where they connected over their shared passion for using technology for good in the community.",
+        "score": 0.8507541293675466,
+        "id": "96248ea4-444b-4256-9db5-722712bde4c4",
+        "created_at": "2026-11-03T00:27:30.267684+00:00",
+        "updated_at": "2026-11-03T00:27:30.267684+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.8350288420692118,
+        "id": "4147e09c-771b-45b2-82d5-f5c4359c7d1d",
+        "created_at": "2026-11-03T00:27:38.970983+00:00",
+        "updated_at": "2026-11-03T00:27:38.970983+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.8350288420692118,
+        "id": "42e649da-e294-4f0f-b44c-c052acb77fbf",
+        "created_at": "2026-11-03T00:27:34.300683+00:00",
+        "updated_at": "2026-11-03T00:27:34.300683+00:00"
+      },
+      {
+        "memory": "John and his colleagues attended a convention together in March 2023, where they connected with like-minded individuals passionate about using technology for good in their community and exchanged ideas.",
+        "score": 0.8298801268508221,
+        "id": "554f7f69-775e-40e4-9d64-6d7ef3348bf9",
+        "created_at": "2026-11-03T00:27:24.445409+00:00",
+        "updated_at": "2026-11-03T00:27:24.445409+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 focused on using technology for good in the community, where he connected with like-minded individuals and brainstormed ideas.",
+        "score": 0.819251248749086,
+        "id": "d9fa0071-6ea6-471d-b201-3e8d253b7e21",
+        "created_at": "2026-11-03T00:27:36.566771+00:00",
+        "updated_at": "2026-11-03T00:27:36.566771+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.7327075702355549,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.728558131112206,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.7263375392985634,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.7231066528755316,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.7222525150077296,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.7138701966315286,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.69061159079348,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.6901940346262628,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.6848272504906183,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.5603168183599875,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of April 18, 2023.",
+        "score": 0.395510620889964,
+        "id": "dd293ee7-14ec-456f-a9e0-2193bae2658f",
+        "created_at": "2026-11-03T00:27:40.924277+00:00",
+        "updated_at": "2026-11-03T00:27:40.924277+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.37266500321248996,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around April 29, 2023, which led him to realize the importance of upgrading local infrastructure for stable services.",
+        "score": 0.3703857005658442,
+        "id": "28d55b91-8da9-466d-ae86-515c62fed100",
+        "created_at": "2026-11-03T00:29:49.980230+00:00",
+        "updated_at": "2026-11-03T00:29:49.980230+00:00"
+      },
+      {
+        "memory": "John decided to run for office again in the week of April 30, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community.",
+        "score": 0.36999561903336675,
+        "id": "c3f75b03-3956-4acd-bb33-fce3105976ae",
+        "created_at": "2026-11-03T00:29:15.968626+00:00",
+        "updated_at": "2026-11-03T00:29:15.968626+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.3395607245204671,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      }
+    ],
+    "search_latency_ms": 68.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A convention focused on using technology for good in the community.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer paraphrases the gold answer by describing a convention focused on using technology for good."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a convention with his colleagues in March 2023, focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by describing a convention focused on using technology for good."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a convention with his colleagues in March 2023, focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by describing a convention focused on using technology for good."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John attended a convention with his colleagues in March 2023, focused on using technology for good in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by describing a convention focused on using technology for good."
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q82",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What recipes has Nate made?",
+  "ground_truth_answer": "coconut milk icecream, chocolate and vanilla swirl",
+  "evidence": [
+    "D3:4",
+    "D4:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What recipes has Nate made?",
+    "search_results": [
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, where he taught people vegan ice cream recipes, describing the experience as nerve-wracking but a blast and noting that he picked up a few new recipes.",
+        "score": 0.6708303449631461,
+        "id": "96eac831-b7b2-47d0-bb22-8efcd49819ab",
+        "created_at": "2026-11-03T03:17:20.945746+00:00",
+        "updated_at": "2026-11-03T03:17:20.945746+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.6682137594860715,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate agreed to share his new creamy, rich, dairy-free recipe with Joanna on August 14, 2022, after she expressed interest in trying it.",
+        "score": 0.6581861911866794,
+        "id": "1bc797eb-f092-4a67-997c-ba061383c1de",
+        "created_at": "2026-11-03T03:13:40.694805+00:00",
+        "updated_at": "2026-11-03T03:13:40.694805+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.6575802735546004,
+        "id": "07dbbc09-9b02-4fa4-983b-64ac6ed4f5f0",
+        "created_at": "2026-11-03T03:17:49.200495+00:00",
+        "updated_at": "2026-11-03T03:17:49.200495+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.6517303054693838,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family during the weekend of July 9-10, 2022, noting that they love when she makes them new things.",
+        "score": 0.6509034958845981,
+        "id": "1a27a3df-84b2-4fa8-9e64-80a4b5873cfc",
+        "created_at": "2026-11-03T03:11:45.432689+00:00",
+        "updated_at": "2026-11-03T03:11:45.432689+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made on June 18, 2022, stating that it sounds like a good recipe",
+        "score": 0.6507838764614224,
+        "id": "9823eb82-1792-4f36-a731-e0214b69c7e4",
+        "created_at": "2026-11-03T03:11:19.731297+00:00",
+        "updated_at": "2026-11-03T03:11:19.731297+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.6499203839319866,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan coconut milk ice cream recipe for her family on the weekend of June 25-26, 2022, after he agreed to share it with her.",
+        "score": 0.6398805484727255,
+        "id": "f4cd651e-8dae-4123-a23d-9b18dbaeb1ca",
+        "created_at": "2026-11-03T03:11:28.550012+00:00",
+        "updated_at": "2026-11-03T03:11:28.550012+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on September 12, 2022, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.639741507439904,
+        "id": "593b14aa-1363-4a20-8298-23180191c8d8",
+        "created_at": "2026-11-03T03:17:45.170610+00:00",
+        "updated_at": "2026-11-03T03:17:45.170610+00:00"
+      },
+      {
+        "memory": "Nate mentioned that when he is out in nature, he gets deep in thought about his life or new recipes, contrasting with Joanna's creative writing inspiration.",
+        "score": 0.6395924661956108,
+        "id": "ccc48f20-8100-4988-8d06-289fa5e9f665",
+        "created_at": "2026-11-03T03:06:45.451596+00:00",
+        "updated_at": "2026-11-03T03:06:45.451596+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on Monday, September 12, 2022, finding the experience nerve-wracking but enjoyable, and picked up several new recipes from the event.",
+        "score": 0.6395881436106965,
+        "id": "c4aac126-d686-44da-96ea-7057263082dd",
+        "created_at": "2026-11-03T03:17:30.883683+00:00",
+        "updated_at": "2026-11-03T03:17:30.883683+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe on the evening of April 17, 2022, after he shared the ingredients and method with her.",
+        "score": 0.6360682696083206,
+        "id": "3a4cd69a-d97e-4354-af8c-1a702f1ce362",
+        "created_at": "2026-11-03T03:04:06.445238+00:00",
+        "updated_at": "2026-11-03T03:04:06.445238+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.6347778180211336,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.6344187389506142,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe after he agreed to share it with her.",
+        "score": 0.633287789725528,
+        "id": "2c4a33d4-7d2a-4a0a-8796-ac2ed6da7981",
+        "created_at": "2026-11-03T03:17:57.649222+00:00",
+        "updated_at": "2026-11-03T03:17:57.649222+00:00"
+      },
+      {
+        "memory": "Joanna expressed interest in trying Nate's coconut milk ice cream recipe after he shared a photo of it on September 14, 2022.",
+        "score": 0.6321230948666764,
+        "id": "6687517c-bdea-4ce0-9323-4566bd6d0c9b",
+        "created_at": "2026-11-03T03:17:45.178479+00:00",
+        "updated_at": "2026-11-03T03:17:45.178479+00:00"
+      },
+      {
+        "memory": "Nate's dairy-free coconut milk ice cream recipe consists of coconut milk, vanilla extract, sugar, and a pinch of salt, which he chills in the fridge before freezing in an ice cream maker until scoopable",
+        "score": 0.6299433768679676,
+        "id": "4076c960-97f7-4df2-8c82-5aee7e18c488",
+        "created_at": "2026-11-03T03:04:03.565670+00:00",
+        "updated_at": "2026-11-03T03:04:03.565670+00:00"
+      },
+      {
+        "memory": "Nate's coconut milk ice cream recipe is dairy-free and easy to make, and he offered to share the recipe with Joanna on April 17, 2022",
+        "score": 0.6280519755351146,
+        "id": "40c2f098-e342-4f60-bd24-3dbba16020a3",
+        "created_at": "2026-11-03T03:03:52.592840+00:00",
+        "updated_at": "2026-11-03T03:03:52.592840+00:00"
+      },
+      {
+        "memory": "Joanna has a chocolate and raspberry cake recipe that she has been wanting to share with Nate, who has expressed interest in trying it",
+        "score": 0.6262423534884689,
+        "id": "024d0a86-64bc-490d-bbe5-b617e4225080",
+        "created_at": "2026-11-03T03:26:58.947748+00:00",
+        "updated_at": "2026-11-03T03:26:58.947748+00:00"
+      }
+    ],
+    "search_latency_ms": 79.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "vegan coconut milk ice cream",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'vegan coconut milk ice cream', which matches the gold answer item 'coconut milk icecream'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'coconut milk ice cream', which is one of the two items listed in the gold answer, satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'coconut milk ice cream', which is one of the two items listed in the gold answer, satisfying the partial credit rule."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories mention Nate’s coconut milk ice cream recipe, a vegan ice cream he made on June 18, 2022, and Nate making lactose-free ice cream using coconut milk on November 8, 2022. Other memories mention recipes Joanna has or recipes Nate taught/picked up, but those are not explicitly recipes Nate made.\n\nStep 2: ENTITY VERIFICATION  \nThe question asks about Nate. Joanna’s chocolate and raspberry cake is not Nate’s recipe. Nate’s cooking-show recipes are not necessarily ones he made, only ones he taught or picked up.\n\nStep 3: COMBINE AND CROSS-REFERENCE  \nThe made recipes connect to the same general type: vegan/dairy-free ice cream, specifically coconut milk ice cream. One memory explicitly says Nate made vegan ice cream, and another says he made lactose-free ice cream using coconut milk.\n\nStep 4: SELECT THE BEST ANSWER  \nThe most specific supported answer is that Nate made vegan ice cream, specifically a dairy-free/lactose-free coconut milk ice cream.\n\nStep 5",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer item about Nate making coconut milk ice cream, so it receives partial credit."
+    }
+  }
+}

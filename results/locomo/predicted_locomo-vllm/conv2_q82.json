@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q82",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did John receive a certificate for?",
+  "ground_truth_answer": "completion of a university degree",
+  "evidence": [
+    "D9:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John receive a certificate for?",
+    "search_results": [
+      {
+        "memory": "John received a trophy commemorating his journey to promotion, which he views as a symbol of the obstacles and self-doubt he overcame with family support and personal grit.",
+        "score": 0.6250125544562423,
+        "id": "111c1e3a-815d-4d1d-b018-1c07d3b7e674",
+        "created_at": "2026-11-03T00:34:36.360768+00:00",
+        "updated_at": "2026-11-03T00:34:36.360768+00:00"
+      },
+      {
+        "memory": "John received a golden trophy commemorating his journey to becoming an assistant manager, which he views as a symbol of the obstacles he had to overcome.",
+        "score": 0.5959279235398199,
+        "id": "24f58549-acdb-4399-814e-b478ce11a9e7",
+        "created_at": "2026-11-03T00:33:17.588746+00:00",
+        "updated_at": "2026-11-03T00:33:17.588746+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base that commemorates his journey and symbolizes the obstacles he overcame to achieve his promotion.",
+        "score": 0.5904760145907424,
+        "id": "97c6c892-a9bd-42aa-a8aa-adbd6251ee78",
+        "created_at": "2026-11-03T00:34:22.871788+00:00",
+        "updated_at": "2026-11-03T00:34:22.871788+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base that commemorates his journey to becoming an assistant manager, symbolizing the obstacles he overcame.",
+        "score": 0.5885353827396915,
+        "id": "5143e33c-22dc-4575-bb3d-5d12b156d11a",
+        "created_at": "2026-11-03T00:33:31.659993+00:00",
+        "updated_at": "2026-11-03T00:33:31.659993+00:00"
+      },
+      {
+        "memory": "John received a golden trophy commemorating his journey to the assistant manager promotion, which symbolizes the obstacles he overcame including technical challenges, workplace issues, and self-doubt.",
+        "score": 0.5877854184757009,
+        "id": "7c61548e-780d-4b69-a702-7900f046f862",
+        "created_at": "2026-11-03T00:33:24.939450+00:00",
+        "updated_at": "2026-11-03T00:33:24.939450+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base to commemorate his journey to becoming an assistant manager, which he views as a symbol of all the obstacles he had to overcome.",
+        "score": 0.5817541066683958,
+        "id": "1b7a71f7-bfca-4cce-9225-6a5e2eba6a6c",
+        "created_at": "2026-11-03T00:33:49.890102+00:00",
+        "updated_at": "2026-11-03T00:33:49.890102+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base commemorating his journey to becoming an assistant manager, which he views as a symbol of the obstacles he overcame.",
+        "score": 0.5792873489258817,
+        "id": "01be6605-b703-47b1-b0fc-f44f43adfecc",
+        "created_at": "2026-11-03T00:33:57.493856+00:00",
+        "updated_at": "2026-11-03T00:33:57.493856+00:00"
+      },
+      {
+        "memory": "John received a golden trophy on a black base to commemorate his journey to becoming an assistant manager, which he views as a symbol of the obstacles he overcame.",
+        "score": 0.5784294400440573,
+        "id": "d823a4aa-f122-470a-a94e-8090e8631f3d",
+        "created_at": "2026-11-03T00:34:11.116782+00:00",
+        "updated_at": "2026-11-03T00:34:11.116782+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.22706916012486927,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.21976805658499834,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.21361550173855348,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.21201008659440523,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.2079090694625835,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.20599287771828906,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.20251196861129328,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.20251196861129328,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.20033586920371374,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times.",
+        "score": 0.1990350513260188,
+        "id": "101fede8-6cfe-41da-8469-13a0f6687352",
+        "created_at": "2026-11-03T00:49:26.776427+00:00",
+        "updated_at": "2026-11-03T00:49:26.776427+00:00"
+      },
+      {
+        "memory": "John overcame significant self-doubt during his career progression, questioning if he was on the right track, but powered through with support from home and his own grit.",
+        "score": 0.196725786531237,
+        "id": "965f3744-beea-4ed7-a6e3-8e36e52d0723",
+        "created_at": "2026-11-03T00:33:24.942173+00:00",
+        "updated_at": "2026-11-03T00:33:24.942173+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.19642493118403512,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      }
+    ],
+    "search_latency_ms": 28.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "His promotion to assistant manager.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies a promotion certificate, which does not match the gold answer's university degree completion."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "His journey to becoming an assistant manager, i.e., his promotion to assistant manager.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer refers to a promotion to assistant manager, which does not match the gold answer's university degree completion."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "His promotion to assistant manager.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a promotion certificate, which does not match the gold answer's university degree completion."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "His journey to becoming an assistant manager—specifically his promotion and the obstacles and self-doubt he overcame to achieve it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a certificate for a promotion to assistant manager, not for completing a university degree, so it contains none of the gold answer's correct items."
+    }
+  }
+}

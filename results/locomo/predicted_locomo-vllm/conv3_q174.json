@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q174",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Nate rely on for cheer and joy?",
+  "ground_truth_answer": "his turtles",
+  "evidence": [
+    "D24:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Nate rely on for cheer and joy?",
+    "search_results": [
+      {
+        "memory": "Nate has pet turtles that cheer him up and provide happiness, particularly when he is stressed about his video game tournament progress.",
+        "score": 0.6813523258199087,
+        "id": "cadfe9b1-af86-484b-9f13-6a3ff50f5968",
+        "created_at": "2026-11-03T03:23:32.287631+00:00",
+        "updated_at": "2026-11-03T03:23:32.287631+00:00"
+      },
+      {
+        "memory": "Nate has been getting stressed lately due to tough competitors in his tournament progress, but finds that his turtles always cheer him up.",
+        "score": 0.6644968174672121,
+        "id": "5c0fcfdc-421e-4c81-860b-cf6651f934ea",
+        "created_at": "2026-11-03T03:23:12.067350+00:00",
+        "updated_at": "2026-11-03T03:23:12.067350+00:00"
+      },
+      {
+        "memory": "Nate has been feeling stressed lately due to tough competitors in his tournament progress, though his turtles help cheer him up.",
+        "score": 0.6529489037600176,
+        "id": "86690060-8e08-4fcc-9a20-0f281ca581ed",
+        "created_at": "2026-11-03T03:23:20.151441+00:00",
+        "updated_at": "2026-11-03T03:23:20.151441+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.647516323596903,
+        "id": "e92c0ebe-1afd-48e2-b25d-4d159d20adc2",
+        "created_at": "2026-11-03T03:28:42.604779+00:00",
+        "updated_at": "2026-11-03T03:28:42.604779+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.647516323596903,
+        "id": "ad59f061-d7f9-46c3-bd7e-83303b356dde",
+        "created_at": "2026-11-03T03:28:29.340961+00:00",
+        "updated_at": "2026-11-03T03:28:29.340961+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.6447005051755856,
+        "id": "b673c42f-33ed-4154-ab27-510852da0724",
+        "created_at": "2026-11-03T03:28:17.710092+00:00",
+        "updated_at": "2026-11-03T03:28:17.710092+00:00"
+      },
+      {
+        "memory": "Nate has been feeling stressed recently due to his tournament progress and facing tough competitors, but finds that his pet turtles always cheer him up during these difficult times.",
+        "score": 0.641286863246584,
+        "id": "77df6176-359c-440c-bc5a-f1c10ff40b4d",
+        "created_at": "2026-11-03T03:23:06.690190+00:00",
+        "updated_at": "2026-11-03T03:23:06.690190+00:00"
+      },
+      {
+        "memory": "Nate owns turtles which he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.6364061227313271,
+        "id": "4dccf6fb-2079-4cc1-8bd8-2716d4ec7fe3",
+        "created_at": "2026-11-03T03:28:47.526362+00:00",
+        "updated_at": "2026-11-03T03:28:47.526362+00:00"
+      },
+      {
+        "memory": "Nate finds watching his turtles calming and fascinating, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.63256296695987,
+        "id": "64a93a1c-34f7-429a-a675-e0b1b674360a",
+        "created_at": "2026-11-03T03:28:06.192135+00:00",
+        "updated_at": "2026-11-03T03:28:06.192135+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.6291661479134335,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate keeps turtles as pets, finding watching them calming and fascinating, and has grown fond of them for bringing joy to his life.",
+        "score": 0.6239350089749616,
+        "id": "16156dd1-59fe-4388-8775-b9d7418e9caa",
+        "created_at": "2026-11-03T03:28:12.964566+00:00",
+        "updated_at": "2026-11-03T03:28:12.964566+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.6238226673052423,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.5994492448641551,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.2891057904097785,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate finds happiness watching his turtles slowly walk around, though he is unsure why it makes him so happy.",
+        "score": 0.2855508210251994,
+        "id": "21723f1c-4dba-47ba-838f-3f01a79d9c4e",
+        "created_at": "2026-11-03T03:23:55.201080+00:00",
+        "updated_at": "2026-11-03T03:23:55.201080+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.2718291704882046,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate did not make it to the finals in his recent game tournament but remains positive about competing again next time.",
+        "score": 0.2627331449827558,
+        "id": "fedb6665-18b8-4a74-9c46-bee8c6effe9b",
+        "created_at": "2026-11-03T03:30:37.345239+00:00",
+        "updated_at": "2026-11-03T03:30:37.345239+00:00"
+      },
+      {
+        "memory": "Nate is very happy with the decision to get a third turtle, stating he would not have it any other way.",
+        "score": 0.2612564921441312,
+        "id": "716e76e5-5433-4f1d-8b74-f3409bd15715",
+        "created_at": "2026-11-03T03:31:46.574276+00:00",
+        "updated_at": "2026-11-03T03:31:46.574276+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.2612542028164452,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.25978716704258475,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      }
+    ],
+    "search_latency_ms": 57.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "His pet turtles.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core entity, Nate's turtles, as the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "His pet turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, Nate's turtles, as the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s pet turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, Nate's turtles, as the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s pet turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core entity, Nate's turtles, as the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q167",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Joanna recommend to make a living room comfy like hers?",
+  "ground_truth_answer": "couch for multiple people, fluffy blanket, lights that can be dimmed",
+  "evidence": [
+    "D23:26"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Joanna recommend to make a living room comfy like hers?",
+    "search_results": [
+      {
+        "memory": "Joanna recommended that Nate get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room as cozy as hers for movie nights",
+        "score": 0.8515393384216529,
+        "id": "b4e5af71-81af-4a7f-8cb7-8b6e9151ebcd",
+        "created_at": "2026-11-03T03:22:49.593014+00:00",
+        "updated_at": "2026-11-03T03:22:49.593014+00:00"
+      },
+      {
+        "memory": "Nate wants to upgrade his living room to be as cozy as Joanna's movie night setup and asked for pointers on what items to get, noting he should really get a similar set up.",
+        "score": 0.8315533206201197,
+        "id": "d9c5c9eb-cb87-45c5-ba0b-4737eb73ee6e",
+        "created_at": "2026-11-03T03:22:46.967187+00:00",
+        "updated_at": "2026-11-03T03:22:46.967187+00:00"
+      },
+      {
+        "memory": "Joanna has a cozy living room setup for movie nights featuring a TV and candles, which she enjoys as a great escape to experience emotions not normally felt in daily life",
+        "score": 0.8058117661923255,
+        "id": "a1b657fa-11a2-4b90-98ab-67170d5bd79d",
+        "created_at": "2026-11-03T03:22:38.095672+00:00",
+        "updated_at": "2026-11-03T03:22:38.095672+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board in her room filled with inspiring quotes and pictures that serve as her corner of motivation and creativity",
+        "score": 0.6102053217439162,
+        "id": "dfa7eeb8-ef94-4111-8029-243121cc46d3",
+        "created_at": "2026-11-03T03:10:25.137009+00:00",
+        "updated_at": "2026-11-03T03:10:25.137009+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cat laying on the floor in a room during her conversation with Nate.",
+        "score": 0.5659566278253039,
+        "id": "0c32be1c-8b1a-4d01-b600-073a3616a8b8",
+        "created_at": "2026-11-03T03:23:40.602755+00:00",
+        "updated_at": "2026-11-03T03:23:40.602755+00:00"
+      },
+      {
+        "memory": "Joanna absolutely loves DIY crafts and enjoys making handmade items like bookmarks to share with others.",
+        "score": 0.5462985759892942,
+        "id": "7a2dce5e-3339-4722-890e-5142c4938438",
+        "created_at": "2026-11-03T03:20:27.566469+00:00",
+        "updated_at": "2026-11-03T03:20:27.566469+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.5447426176614443,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.33612505689219596,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she has seen, and her own imagination, finding it cool to see how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.2036785746820192,
+        "id": "dc413a00-87fe-4433-94d0-e3f41eeda790",
+        "created_at": "2026-11-03T03:25:06.488661+00:00",
+        "updated_at": "2026-11-03T03:25:06.488661+00:00"
+      },
+      {
+        "memory": "Joanna describes nature as her haven, finding it calming because walking in it and hearing the sounds makes worries and stress vanish, leaving her with just the beauty around her",
+        "score": 0.20273420496078892,
+        "id": "44533e8d-6c5a-46f4-bae7-d063fbbe0bed",
+        "created_at": "2026-11-03T03:03:25.132814+00:00",
+        "updated_at": "2026-11-03T03:03:25.132814+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope with her current mood.",
+        "score": 0.20054295020960783,
+        "id": "a7098c55-1bfb-44f9-ac4e-194257bfb93f",
+        "created_at": "2026-11-03T03:15:53.709150+00:00",
+        "updated_at": "2026-11-03T03:15:53.709150+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.19974135920222788,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.19923118757167535,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.19878903656439678,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope when she is feeling down or in a specific mood.",
+        "score": 0.1987488493772403,
+        "id": "04dd58e3-da0c-466e-a5c4-532311b687c4",
+        "created_at": "2026-11-03T03:15:37.921989+00:00",
+        "updated_at": "2026-11-03T03:15:37.921989+00:00"
+      },
+      {
+        "memory": "Joanna is currently revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.19577817360651745,
+        "id": "9b0a9623-7978-4b58-be35-dd045df726b5",
+        "created_at": "2026-11-03T03:23:20.149010+00:00",
+        "updated_at": "2026-11-03T03:23:20.149010+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet.",
+        "score": 0.19425783635106714,
+        "id": "964f5375-cf0d-42ea-b4be-5084a557a71e",
+        "created_at": "2026-11-03T03:31:14.933116+00:00",
+        "updated_at": "2026-11-03T03:31:14.933116+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.1934153800033408,
+        "id": "92e538e9-ecd3-461e-9f57-6e43a1a551ed",
+        "created_at": "2026-11-03T03:23:12.071344+00:00",
+        "updated_at": "2026-11-03T03:23:12.071344+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.1934153800033408,
+        "id": "09f5ba7f-f94a-415c-a003-4d6d21cfde4d",
+        "created_at": "2026-11-03T03:23:40.592770+00:00",
+        "updated_at": "2026-11-03T03:23:40.592770+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.1921208468637235,
+        "id": "b6393fff-e1fe-43d2-a73d-619944b48ff1",
+        "created_at": "2026-11-03T03:31:26.574834+00:00",
+        "updated_at": "2026-11-03T03:31:26.574834+00:00"
+      }
+    ],
+    "search_latency_ms": 72.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A multi-person fluffy couch, a weighted blanket, and dimmable lights.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes a multi-person couch and dimmable lights, which match key items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommends getting a multi-person fluffy couch, a weighted blanket, and dimmable lights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes dimmable lights and a multi-person couch, matching key items from the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommends getting a multi-person fluffy couch, a weighted blanket, and dimmable lights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes dimmable lights and a multi-person couch, matching key items from the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommends getting a multi-person fluffy couch, a weighted blanket, and dimmable lights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes dimmable lights and a multi-person couch, matching key items from the gold answer."
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q88",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is one of Joanna's favorite movies?",
+  "ground_truth_answer": "\"Eternal Sunshineof the Spotless Mind\"",
+  "evidence": [
+    "D1:18",
+    "D",
+    "D1:20"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is one of Joanna's favorite movies?",
+    "search_results": [
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.8094614320115833,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.7786064551049557,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna watched a classic movie around early October 2022 that she found awesome, noting the story was gripping and the actors were great, and it really stuck with her.",
+        "score": 0.6748778977558193,
+        "id": "46eaa970-7ebc-4eb1-8a0e-a450ae907171",
+        "created_at": "2026-11-03T03:21:56.383101+00:00",
+        "updated_at": "2026-11-03T03:21:56.383101+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.6643123697808716,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Joanna rated the classic movie she watched around early October 2022 as a 9 or 10 out of 10, describing it as amazing and noting that movies can take viewers to different places and evoke many emotions.",
+        "score": 0.6510531229411998,
+        "id": "2f674fe1-fcd3-4580-9162-8ec41da92f7a",
+        "created_at": "2026-11-03T03:22:31.574326+00:00",
+        "updated_at": "2026-11-03T03:22:31.574326+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie adaptations is watching her characters come alive, describing the experience as surreal and feeling like they jumped off the page to become real.",
+        "score": 0.6504951634764156,
+        "id": "74b6f6a1-f494-4173-94cd-4bdc72a22438",
+        "created_at": "2026-11-03T03:24:52.406064+00:00",
+        "updated_at": "2026-11-03T03:24:52.406064+00:00"
+      },
+      {
+        "memory": "Joanna watched the movie 'Little Women' and found it deeply resonant, appreciating how well it explored themes of sisterhood, love, and chasing dreams.",
+        "score": 0.6478407048676689,
+        "id": "417f3e2f-b74b-47cc-b4f8-e7aaa67ec377",
+        "created_at": "2026-11-03T03:19:18.830641+00:00",
+        "updated_at": "2026-11-03T03:19:18.830641+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.6462597563762714,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.6444825811219678,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna is seeking movie recommendations on October 6, 2022, noting that she could use some suggestions for good films to watch recently.",
+        "score": 0.6425456856834815,
+        "id": "d4d71e22-1886-4bb3-87d1-62c762793eef",
+        "created_at": "2026-11-03T03:19:13.013572+00:00",
+        "updated_at": "2026-11-03T03:19:13.013572+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.6380703031070293,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story movie script from a dream.",
+        "score": 0.6360884574736159,
+        "id": "b04a7385-bbde-42c5-af1e-e1c9cbe63872",
+        "created_at": "2026-11-03T03:28:42.602024+00:00",
+        "updated_at": "2026-11-03T03:28:42.602024+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie script on the big screen was watching her characters come alive, describing it as a surreal experience where they felt like they jumped off the page and became real.",
+        "score": 0.6333008623445167,
+        "id": "5be932b5-fe1a-4d5e-ae69-a71907fab878",
+        "created_at": "2026-11-03T03:24:25.952193+00:00",
+        "updated_at": "2026-11-03T03:24:25.952193+00:00"
+      },
+      {
+        "memory": "Joanna worked hard on another movie script and created a plan for getting it made into a movie, describing the process as a ton of work but satisfying.",
+        "score": 0.6306552462188366,
+        "id": "70edd90e-63bc-4bae-8234-7727b77f6df8",
+        "created_at": "2026-11-03T03:30:26.592696+00:00",
+        "updated_at": "2026-11-03T03:30:26.592696+00:00"
+      },
+      {
+        "memory": "During filming of her movie, Joanna had an exciting moment when an actor approached her to say how much they liked her script, which gave her chills.",
+        "score": 0.6287064953380583,
+        "id": "38f38bdd-d564-468d-9202-ebce37e0b3b7",
+        "created_at": "2026-11-03T03:32:51.746416+00:00",
+        "updated_at": "2026-11-03T03:32:51.746416+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.626900728189854,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.6237481974573215,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.6227540210697422,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script, describing the experience as wild and awesome with every day on set full of potential to show her vision.",
+        "score": 0.6211863754688026,
+        "id": "511f96c5-a7be-49cd-ac21-ba27866bc214",
+        "created_at": "2026-11-03T03:32:36.204567+00:00",
+        "updated_at": "2026-11-03T03:32:36.204567+00:00"
+      },
+      {
+        "memory": "If Joanna's current script is accepted, it will be her third published movie, following two previous successes.",
+        "score": 0.6153489691026345,
+        "id": "c67e2249-d165-4321-844d-7b8de1d9f222",
+        "created_at": "2026-11-03T03:28:42.613832+00:00",
+        "updated_at": "2026-11-03T03:28:42.613832+00:00"
+      }
+    ],
+    "search_latency_ms": 102.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 10,
+      "reason": "The generated answer names a different movie than the gold answer and does not include the correct item."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different movie than the gold answer and does not include the correct item."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different movie than the gold answer and does not include the correct item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer names a different movie than the gold answer and does not include the correct item."
+    }
+  }
+}

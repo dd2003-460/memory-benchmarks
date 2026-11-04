@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q114",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of books does Nate enjoy?",
+  "ground_truth_answer": "Adventures and magic",
+  "evidence": [
+    "D9:14"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of books does Nate enjoy?",
+    "search_results": [
+      {
+        "memory": "Joanna recommends that Nate find a fantasy book series to read, noting that most fiction series are great reads for relaxing.",
+        "score": 0.6857178096940404,
+        "id": "8d478aa2-7d58-4c6c-a644-0a8b33335cc1",
+        "created_at": "2026-11-03T03:14:42.689624+00:00",
+        "updated_at": "2026-11-03T03:14:42.689624+00:00"
+      },
+      {
+        "memory": "Nate is reading the 'A Court of Thorns and Roses' series by Sarah J. Maas, which he selected after Joanna recommended finding a fantasy book series to read for relaxation.",
+        "score": 0.6603361646184096,
+        "id": "957f487d-a1ba-4a6c-905b-a7d0d9d1dd5e",
+        "created_at": "2026-11-03T03:15:00.586883+00:00",
+        "updated_at": "2026-11-03T03:15:00.586883+00:00"
+      },
+      {
+        "memory": "Nate is planning to read the 'A Court of Thorns and Roses' book series by Sarah J. Maas, which Joanna recommended as a fantasy series for relaxing, and he intends to share his thoughts with her once finished.",
+        "score": 0.6237976505826027,
+        "id": "91734215-7e69-4612-8773-6a9b76bda6d9",
+        "created_at": "2026-11-03T03:14:52.914390+00:00",
+        "updated_at": "2026-11-03T03:14:52.914390+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.6236981822878793,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6216410550260237,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate recommends a fantasy book series to Joanna, describing it as having adventures, magic, and great characters, and considers it a must-read; he shared a photo of the books on April 21, 2022.",
+        "score": 0.6154034092123912,
+        "id": "42245749-ea09-4b25-9519-016b2aa1ebe6",
+        "created_at": "2026-11-03T03:04:51.141916+00:00",
+        "updated_at": "2026-11-03T03:04:51.141916+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6106568148518909,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6090528881827586,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.5950136180394615,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate started making gaming videos to share his love of gaming and connect with others who enjoy it, noting that it is a new endeavor for him but he is excited to get started.",
+        "score": 0.5919683943077356,
+        "id": "a8cc4e45-2df2-478e-b7b1-d94570bb55fb",
+        "created_at": "2026-11-03T03:31:42.066863+00:00",
+        "updated_at": "2026-11-03T03:31:42.066863+00:00"
+      },
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.5871295158601904,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and recently helped friends reset their high scores at an international tournament, finding it fun and rewarding to use his skills to make a difference.",
+        "score": 0.5819726593214823,
+        "id": "83cd6055-3f30-42c0-a125-0b0065fd431c",
+        "created_at": "2026-11-03T03:26:37.157575+00:00",
+        "updated_at": "2026-11-03T03:26:37.157575+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.5818643575751397,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.5815619160097959,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate considers The Lord of the Rings trilogy to be probably the greatest trilogy of all time and expressed happiness that Joanna enjoyed watching it on May 2, 2022.",
+        "score": 0.5807381892414466,
+        "id": "a0a3427e-d2d8-449a-a4a1-a0b851d89d7a",
+        "created_at": "2026-11-03T03:05:06.287276+00:00",
+        "updated_at": "2026-11-03T03:05:06.287276+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.5787343759049005,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.5778948335448821,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Nate enjoys playing the board game Catan, describing it as a great strategy game involving building settlements and trading resources",
+        "score": 0.569952621327283,
+        "id": "f10664d0-46d5-4fd7-b4bc-f89d20558b27",
+        "created_at": "2026-11-03T03:21:30.266404+00:00",
+        "updated_at": "2026-11-03T03:21:30.266404+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.5638451422211005,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.2594743099743095,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      }
+    ],
+    "search_latency_ms": 39.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys fantasy books, especially fantasy series with adventure, magic, and great characters, such as *A Court of Thorns and Roses*.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both adventure and magic, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys fantasy books, especially fantasy series such as *A Court of Thorns and Roses*.",
+      "memories_evaluated": 20,
+      "reason": "Fantasy books are semantically aligned with the gold answer's 'adventures and magic' because the fantasy genre typically includes magical and adventurous elements."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys fantasy books, especially fantasy series with adventure, magic, and great characters, such as *A Court of Thorns and Roses*.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both adventure and magic, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate enjoys fantasy books, especially fantasy series such as *A Court of Thorns and Roses* by Sarah J. Maas, with adventures, magic, and great characters.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes both 'adventures' and 'magic', matching the gold answer."
+    }
+  }
+}

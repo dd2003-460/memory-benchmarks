@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q7",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna finish her first screenplay?",
+  "ground_truth_answer": "The Friday before 23January, 2022",
+  "evidence": [
+    "D2:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna finish her first screenplay?",
+    "search_results": [
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.7126718780794336,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna completed her third handwritten screenplay around May 25, 2022, a personal story about loss, identity, and connection that she had been developing for years but finally felt brave enough to write.",
+        "score": 0.7089133572237997,
+        "id": "d0629d3d-fec3-4a2c-ba02-7b879ee18e77",
+        "created_at": "2026-11-03T03:07:46.810297+00:00",
+        "updated_at": "2026-11-03T03:07:46.810297+00:00"
+      },
+      {
+        "memory": "Joanna completed her third screenplay, which she described as a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6934549610508575,
+        "id": "e24fe053-ef54-4635-99e6-33cd9ee416e1",
+        "created_at": "2026-11-03T03:07:28.708016+00:00",
+        "updated_at": "2026-11-03T03:07:28.708016+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.693095748598146,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.6862954200738753,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.6852415591389449,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.6849710260139512,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.6834637010530685,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.6826821097289647,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that was released in theaters on June 4, 2022, and described the experience as nerve-wracking but inspiring to see her words come alive on the big screen.",
+        "score": 0.6792904833194787,
+        "id": "ff584b90-36c2-4bcc-b4de-e9b4ef78b826",
+        "created_at": "2026-11-03T03:10:01.624285+00:00",
+        "updated_at": "2026-11-03T03:10:01.624285+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of the film.",
+        "score": 0.678162712644598,
+        "id": "9bea47dc-752d-45b0-a690-008dbf67b43f",
+        "created_at": "2026-11-03T03:29:28.415084+00:00",
+        "updated_at": "2026-11-03T03:29:28.415084+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6769930574308032,
+        "id": "ad0104cc-cfa8-44b2-8a68-5e466dd6d0e3",
+        "created_at": "2026-11-03T03:10:19.033326+00:00",
+        "updated_at": "2026-11-03T03:10:19.033326+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of it.",
+        "score": 0.6734309988082232,
+        "id": "81af8359-44cc-450b-9cd7-0a9a0fedb3ae",
+        "created_at": "2026-11-03T03:29:57.302915+00:00",
+        "updated_at": "2026-11-03T03:29:57.302915+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.673368996294723,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna's third completed screenplay, shared with Nate on May 20, 2022, is a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6702785160014457,
+        "id": "d06355ff-424f-4a74-a51f-60977ae02a02",
+        "created_at": "2026-11-03T03:07:33.475009+00:00",
+        "updated_at": "2026-11-03T03:07:33.475009+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest to gauge how others might receive it.",
+        "score": 0.6670106235610864,
+        "id": "f73cbaf7-511b-4989-9111-b0bc13b5e428",
+        "created_at": "2026-11-03T03:11:22.964477+00:00",
+        "updated_at": "2026-11-03T03:11:22.964477+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.6659968384495699,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.6610817709447079,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared in theaters on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.660272625571219,
+        "id": "f68f1e47-294d-458d-8825-61f9a2e09f0c",
+        "created_at": "2026-11-03T03:10:25.124799+00:00",
+        "updated_at": "2026-11-03T03:10:25.124799+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6561444116821324,
+        "id": "93d419b1-d161-4865-bfe3-9008f4a963ca",
+        "created_at": "2026-11-03T03:10:30.620142+00:00",
+        "updated_at": "2026-11-03T03:10:30.620142+00:00"
+      }
+    ],
+    "search_latency_ms": 77.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "May 25, 2022",
+      "memories_evaluated": 10,
+      "reason": "The gold answer specifies a date in late January 2022, while the generated answer provides a date in May 2022, which is outside the 14-day tolerance window and represents a different time period."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Before May 2022 — the memories date Joanna’s third completed screenplay to around May 20–25, 2022, so her first screenplay was finished earlier than that.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer only gives a vague bound before May 2022 and does not identify the Friday before January 23, 2022."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "May 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'May 2022' is significantly later than the gold answer 'Friday before 23 January 2022' (which is late January 2022), exceeding the 14-day tolerance and representing a different time period."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "May 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'May 2022' is significantly later than the gold answer 'Friday before 23 January 2022' (which is late January 2022), exceeding the 14-day tolerance and representing a different time period."
+    }
+  }
+}

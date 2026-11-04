@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q42",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What movies have both Joanna and Nate seen?",
+  "ground_truth_answer": "\"Little Women\", \"Lord of the Rings\"",
+  "evidence": [
+    "D3:17",
+    "D10:1",
+    "D22:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What movies have both Joanna and Nate seen?",
+    "search_results": [
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.6856751420715949,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate has two published movies and Joanna is aiming for her third published movie with her recent script submissions.",
+        "score": 0.6831949056601954,
+        "id": "7e36fded-ec5d-4211-8bfb-86f17d8e92ef",
+        "created_at": "2026-11-03T03:28:53.462942+00:00",
+        "updated_at": "2026-11-03T03:28:53.462942+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.6692773087387589,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.665204124481093,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6599928062438795,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6577219763249579,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.6567100149219677,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6526283632132848,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.646748945064179,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate has two previously published movies, making his next potential success his third published film according to Joanna's encouragement.",
+        "score": 0.6452226677889356,
+        "id": "b8f41d77-6aa1-48b5-b133-fe0d6863206d",
+        "created_at": "2026-11-03T03:28:36.473078+00:00",
+        "updated_at": "2026-11-03T03:28:36.473078+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.6406176491194977,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Joanna is finally filming her own movie based on a road-trip script, sharing the news with Nate around November 11, 2022",
+        "score": 0.6389903293269116,
+        "id": "b3f573ec-30a4-4727-b2b8-603fe1fbbe1d",
+        "created_at": "2026-11-03T03:32:29.035752+00:00",
+        "updated_at": "2026-11-03T03:32:29.035752+00:00"
+      },
+      {
+        "memory": "Nate plans to give his turtles a bath before Joanna visits so they are ready to play, and suggested they could also watch one of her movies together or go to the park",
+        "score": 0.6383631434041767,
+        "id": "0060af9e-3059-470b-a5b7-3144b51ad259",
+        "created_at": "2026-11-03T03:32:29.047689+00:00",
+        "updated_at": "2026-11-03T03:32:29.047689+00:00"
+      },
+      {
+        "memory": "Nate expressed confidence that at least one of Joanna's recently submitted scripts would make it to the screens, referring to it as her third published movie.",
+        "score": 0.6382064601508015,
+        "id": "75edc400-20fd-4232-b026-e3fe269f0b64",
+        "created_at": "2026-11-03T03:28:25.862975+00:00",
+        "updated_at": "2026-11-03T03:28:25.862975+00:00"
+      },
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over random choices, stating that he usually likes her suggestions much more.",
+        "score": 0.6076505299081426,
+        "id": "bc3427a6-cb5a-44d9-b3c9-9ec69e791478",
+        "created_at": "2026-11-03T03:29:23.397245+00:00",
+        "updated_at": "2026-11-03T03:29:23.397245+00:00"
+      },
+      {
+        "memory": "Nate's favorite movie trilogy is The Lord of the Rings, which he admires for its world building, battles, and storytelling, and he shared a photo of his bookshelf with Joanna on April 21, 2022.",
+        "score": 0.6075316909613805,
+        "id": "04006fca-0e17-442e-82ec-7294bb184bb1",
+        "created_at": "2026-11-03T03:04:46.617743+00:00",
+        "updated_at": "2026-11-03T03:04:46.617743+00:00"
+      },
+      {
+        "memory": "Joanna recommended that Nate get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room as cozy as hers for movie nights",
+        "score": 0.6029344472634681,
+        "id": "b4e5af71-81af-4a7f-8cb7-8b6e9151ebcd",
+        "created_at": "2026-11-03T03:22:49.593014+00:00",
+        "updated_at": "2026-11-03T03:22:49.593014+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.5957551974657606,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Joanna rated the classic movie she watched around early October 2022 as a 9 or 10 out of 10, describing it as amazing and noting that movies can take viewers to different places and evoke many emotions.",
+        "score": 0.5615446630052824,
+        "id": "2f674fe1-fcd3-4580-9162-8ec41da92f7a",
+        "created_at": "2026-11-03T03:22:31.574326+00:00",
+        "updated_at": "2026-11-03T03:22:31.574326+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.5493460442409209,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      }
+    ],
+    "search_latency_ms": 89.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes at least one correct movie from the gold answer, 'Little Women'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least one correct movie from the gold answer, 'Little Women'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \n- Nate watched **Little Women** around early October 2022 and enjoyed its acting and story.  \n- Multiple memories say **Joanna had recommended Little Women to Nate previously**, which strongly implies she had seen it.  \n- Joanna also rated “the classic movie she watched around early October 2022” very highly, which may connect to the same early-October movie context, but the named movie tied to both is Little Women.  \n- Nate watched **Inception**, but there is no memory saying Joanna saw it.  \n- Nate’s favorite trilogy is",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes Little Women, one of the gold answer items, so it receives partial credit."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Little Women",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Little Women', which is one of the correct items in the gold answer list, satisfying the partial credit rule."
+    }
+  }
+}

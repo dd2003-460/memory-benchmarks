@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q90",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Nate's favorite movie trilogy?",
+  "ground_truth_answer": "Lord of the Rings",
+  "evidence": [
+    "D9:12"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Nate's favorite movie trilogy?",
+    "search_results": [
+      {
+        "memory": "Nate's favorite movie trilogy is The Lord of the Rings, which he admires for its world building, battles, and storytelling, and he shared a photo of his bookshelf with Joanna on April 21, 2022.",
+        "score": 0.6985873666790778,
+        "id": "04006fca-0e17-442e-82ec-7294bb184bb1",
+        "created_at": "2026-11-03T03:04:46.617743+00:00",
+        "updated_at": "2026-11-03T03:04:46.617743+00:00"
+      },
+      {
+        "memory": "Nate considers The Lord of the Rings trilogy to be probably the greatest trilogy of all time and expressed happiness that Joanna enjoyed watching it on May 2, 2022.",
+        "score": 0.6601951643208992,
+        "id": "a0a3427e-d2d8-449a-a4a1-a0b851d89d7a",
+        "created_at": "2026-11-03T03:05:06.287276+00:00",
+        "updated_at": "2026-11-03T03:05:06.287276+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on the evening of May 1, 2022, following Nate's recommendation, and found it awesome",
+        "score": 0.6219417477590584,
+        "id": "731ec201-bbf8-4b1c-b133-5b86a76c8941",
+        "created_at": "2026-11-03T03:05:32.540943+00:00",
+        "updated_at": "2026-11-03T03:05:32.540943+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on May 1, 2022, after taking Nate's recommendation, and described it as awesome",
+        "score": 0.6218862197332722,
+        "id": "85ea0016-0b6e-43ed-ad6f-35e02ee93a7e",
+        "created_at": "2026-11-03T03:05:10.675921+00:00",
+        "updated_at": "2026-11-03T03:05:10.675921+00:00"
+      },
+      {
+        "memory": "Nate has two published movies and Joanna is aiming for her third published movie with her recent script submissions.",
+        "score": 0.6167040487473443,
+        "id": "7e36fded-ec5d-4211-8bfb-86f17d8e92ef",
+        "created_at": "2026-11-03T03:28:53.462942+00:00",
+        "updated_at": "2026-11-03T03:28:53.462942+00:00"
+      },
+      {
+        "memory": "Joanna watched The Lord of the Rings trilogy on May 1, 2022, after taking Nate's recommendation, and described the experience as awesome.",
+        "score": 0.6139392082376488,
+        "id": "66b2dc99-b405-48d0-ad36-24cf3aa1dbb3",
+        "created_at": "2026-11-03T03:05:03.020021+00:00",
+        "updated_at": "2026-11-03T03:05:03.020021+00:00"
+      },
+      {
+        "memory": "Nate has two previously published movies, making his next potential success his third published film according to Joanna's encouragement.",
+        "score": 0.6118072937389024,
+        "id": "b8f41d77-6aa1-48b5-b133-fe0d6863206d",
+        "created_at": "2026-11-03T03:28:36.473078+00:00",
+        "updated_at": "2026-11-03T03:28:36.473078+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.5972133905323745,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor, and he owns an Iron Man action figure in his room as a reminder to keep working on his goals",
+        "score": 0.5940122916200974,
+        "id": "8abc27c8-b721-47a8-ab67-2bb962db6d0b",
+        "created_at": "2026-11-03T03:10:19.040804+00:00",
+        "updated_at": "2026-11-03T03:10:19.040804+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.593335838780943,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.5909927489153951,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.5904618998770677,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.5890721905929737,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.588464361763867,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.5876589893014622,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.580000136544626,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.5735863296820348,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.569843705493202,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.5696852238808765,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.5642226470508166,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      }
+    ],
+    "search_latency_ms": 73.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Lord of the Rings trilogy",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly names the Lord of the Rings trilogy, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

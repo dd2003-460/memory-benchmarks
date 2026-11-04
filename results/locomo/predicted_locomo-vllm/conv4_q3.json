@@ -1,0 +1,192 @@
+{
+  "question_id": "conv4_q3",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would Tim enjoy reading books by C. S. Lewis or John Greene?",
+  "ground_truth_answer": "C. S.Lewis",
+  "evidence": [
+    "D1:14",
+    "D1:16",
+    "D1:18"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Would Tim enjoy reading books by C. S. Lewis or John Greene?",
+    "search_results": [
+      {
+        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy novels, finding that he can learn a great deal from them.",
+        "score": 0.6553312922023765,
+        "id": "c1e3e55b-69f7-4580-923b-92950cdacfe4",
+        "created_at": "2026-11-03T09:28:08.188626+00:00",
+        "updated_at": "2026-11-03T09:28:08.188626+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.650639185295631,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach a lot and help him learn new things.",
+        "score": 0.6498477328161579,
+        "id": "ffd7ff15-efe1-46e7-aab3-6a7e7b5428cb",
+        "created_at": "2026-11-03T09:28:43.313206+00:00",
+        "updated_at": "2026-11-03T09:28:43.313206+00:00"
+      },
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
+        "score": 0.6474961274477478,
+        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
+        "created_at": "2026-11-03T09:19:26.762706+00:00",
+        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+      },
+      {
+        "memory": "Tim enjoys fantasy books like Lord of the Rings for getting lost in another world and appreciating the tiny details and intricate world-building of fictional universes",
+        "score": 0.6405922584174586,
+        "id": "8f8ba4a9-ff3c-4ece-ae9f-6f4d7593e363",
+        "created_at": "2026-11-03T09:36:57.776768+00:00",
+        "updated_at": "2026-11-03T09:36:57.776768+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.6381083465769771,
+        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
+        "created_at": "2026-11-03T09:35:37.275991+00:00",
+        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+      },
+      {
+        "memory": "Tim has read the Game of Thrones (GoT) series by George R. R. Martin but has not read any other books by the author.",
+        "score": 0.6322985083151705,
+        "id": "868caca8-d8f9-43d5-b778-93c98ee077bd",
+        "created_at": "2026-11-03T09:31:36.074747+00:00",
+        "updated_at": "2026-11-03T09:31:36.074747+00:00"
+      },
+      {
+        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
+        "score": 0.6291454127535456,
+        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
+        "created_at": "2026-11-03T09:35:14.098792+00:00",
+        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+      },
+      {
+        "memory": "John has read 'The Hobbit' and considers it one of his favorite books, sharing this interest with Tim who also enjoys the series.",
+        "score": 0.6275719770675015,
+        "id": "360fd9ad-1cd1-4943-994d-7e688836cc44",
+        "created_at": "2026-11-03T09:29:29.495345+00:00",
+        "updated_at": "2026-11-03T09:29:29.495345+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading books on growth, psychology, and self-improvement in addition to fantasy stories, finding that these books help him discover new ways to better himself.",
+        "score": 0.6264908529184855,
+        "id": "4b83de1f-eacb-4d8a-bd2b-d2e0f6f4d293",
+        "created_at": "2026-11-03T09:28:21.004687+00:00",
+        "updated_at": "2026-11-03T09:28:21.004687+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading fantasy novels because they fire up his imagination, take him to alternate realities, and serve as an escape from reality.",
+        "score": 0.6260800450015976,
+        "id": "555969aa-318a-47b0-9419-026ee8353911",
+        "created_at": "2026-11-03T09:17:03.537031+00:00",
+        "updated_at": "2026-11-03T09:17:03.537031+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, praising the author's world-building and character development, and recommends it to others.",
+        "score": 0.6242861602145853,
+        "id": "141c9cd6-75bd-44f6-8ee6-65a857359a16",
+        "created_at": "2026-11-03T09:01:31.788245+00:00",
+        "updated_at": "2026-11-03T09:01:31.788245+00:00"
+      },
+      {
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
+        "score": 0.6211128320141592,
+        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
+        "created_at": "2026-11-03T09:35:32.387807+00:00",
+        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.6164551603078361,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, describing it as really good.",
+        "score": 0.6148058934074982,
+        "id": "1b18e936-ef83-4d2f-b45d-2445ac84e12c",
+        "created_at": "2026-11-03T09:38:08.165227+00:00",
+        "updated_at": "2026-11-03T09:38:08.165227+00:00"
+      },
+      {
+        "memory": "Tim recently finished reading 'A Dance with Dragons' from the Game of Thrones series and highly recommends it, noting he has only read the GoT books by George R. R. Martin.",
+        "score": 0.6134874549296301,
+        "id": "da374e53-13db-4b0b-b54b-adb1f72cb0c8",
+        "created_at": "2026-11-03T09:31:45.167665+00:00",
+        "updated_at": "2026-11-03T09:31:45.167665+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6094322818666382,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "Tim finds peace in reading fantasy books, a hobby that helps with his home life and overall well-being.",
+        "score": 0.609015295606857,
+        "id": "eff7df14-e1a0-479d-a109-abd5604a5f9c",
+        "created_at": "2026-11-03T09:00:39.091789+00:00",
+        "updated_at": "2026-11-03T09:00:39.091789+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.6087018789916441,
+        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
+        "created_at": "2026-11-03T09:21:16.840236+00:00",
+        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+      },
+      {
+        "memory": "Tim has never been on a sports team and prefers reading fantasy novels, enjoying the experience of sinking into different magical worlds",
+        "score": 0.6086216266671489,
+        "id": "efbc2ba0-cb4d-4e0f-a5b6-012a8b76b444",
+        "created_at": "2026-11-03T09:11:25.256718+00:00",
+        "updated_at": "2026-11-03T09:11:25.256718+00:00"
+      }
+    ],
+    "search_latency_ms": 122.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

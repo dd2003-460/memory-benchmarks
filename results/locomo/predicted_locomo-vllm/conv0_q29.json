@@ -1,0 +1,49 @@
+{
+  "question_id": "conv0_q29",
+  "conversation_idx": 0,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Melanie go to the pottery workshop?",
+  "ground_truth_answer": "The Friday before 15 July 2023",
+  "evidence": [
+    "D8:2"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "When did Melanie go to the pottery workshop?",
+    "search_results": [],
+    "search_latency_ms": 39.1,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I'm sorry, but I don't have any memories or information about Melanie attending a pottery workshop.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states a lack of information and fails to provide the date mentioned in the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I'm sorry, but I don't have any memories or information about Melanie attending a pottery workshop.",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 0,
+      "reason": ""
+    }
+  }
+}

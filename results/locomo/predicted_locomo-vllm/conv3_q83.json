@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q83",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What are the skills that Nate has helped others learn?",
+  "ground_truth_answer": "coconut milk ice cream recipe, reset high scores, tips to improve gaming skills",
+  "evidence": [
+    "D18:8",
+    "D26:12",
+    "D14:16"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What are the skills that Nate has helped others learn?",
+    "search_results": [
+      {
+        "memory": "Nate won his second gaming tournament the week of April 25, 2022, and has been focusing on practicing a lot to improve his skills.",
+        "score": 0.6610003194479191,
+        "id": "a49e0c06-9b65-4291-8d4c-58082b3c3714",
+        "created_at": "2026-11-03T03:05:15.625525+00:00",
+        "updated_at": "2026-11-03T03:05:15.625525+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and recently helped friends reset their high scores at an international tournament, finding it fun and rewarding to use his skills to make a difference.",
+        "score": 0.6498771775074306,
+        "id": "83cd6055-3f30-42c0-a125-0b0065fd431c",
+        "created_at": "2026-11-03T03:26:37.157575+00:00",
+        "updated_at": "2026-11-03T03:26:37.157575+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around September 5, 2022, and did not perform well despite trying his best, viewing the setback as part of the learning curve while attempting to stay positive.",
+        "score": 0.6223487029043959,
+        "id": "0968a083-5fe8-44ac-8c09-efc444973ca5",
+        "created_at": "2026-11-03T03:15:28.824336+00:00",
+        "updated_at": "2026-11-03T03:15:28.824336+00:00"
+      },
+      {
+        "memory": "Nate agreed to help some of the guys he met at the tournament improve their game by giving them tips.",
+        "score": 0.6171953256531604,
+        "id": "f040b0d4-52ff-4775-bd16-063f936b39a6",
+        "created_at": "2026-11-03T03:09:24.259109+00:00",
+        "updated_at": "2026-11-03T03:09:24.259109+00:00"
+      },
+      {
+        "memory": "Nate has been helping some friends reset their high scores at an international tournament, describing the experience as fun.",
+        "score": 0.6093611310187502,
+        "id": "9503f795-16a4-4da1-affe-d7385aa5d743",
+        "created_at": "2026-11-03T03:26:19.328334+00:00",
+        "updated_at": "2026-11-03T03:26:19.328334+00:00"
+      },
+      {
+        "memory": "Nate has been helping friends reset their high scores at an international tournament recently, describing the experience as fun.",
+        "score": 0.6047957872990783,
+        "id": "cd25b420-8223-4714-ae9c-3ab6af18cae5",
+        "created_at": "2026-11-03T03:26:24.079163+00:00",
+        "updated_at": "2026-11-03T03:26:24.079163+00:00"
+      },
+      {
+        "memory": "Nate is passionate about gaming and was helping friends reset their high scores at an international tournament around November 4, 2022, finding the experience fun and rewarding.",
+        "score": 0.5960615253856504,
+        "id": "1f1a0f15-9120-478f-bedd-f74392d0604d",
+        "created_at": "2026-11-03T03:26:54.964772+00:00",
+        "updated_at": "2026-11-03T03:26:54.964772+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.5672021003034832,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.2755334656066325,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.27296965750656366,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.2639652620575115,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.2618520839020789,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.2583818280718268,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.2583818280718268,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.24921880182673012,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.24854079558297268,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate won a gaming tournament, which he described as a huge confidence boost and proof that his hard work paid off. He has been participating in tournaments for several years.",
+        "score": 0.2391467647900401,
+        "id": "abe063a5-403e-4f01-bfd7-2509e2110dce",
+        "created_at": "2026-11-03T03:09:29.925759+00:00",
+        "updated_at": "2026-11-03T03:09:29.925759+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.23625079791362436,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "After the tournament, Nate connected with other players who wanted to hang out later; he shared a photo of a purple and blue controller with a star field design and agreed to give them tips on improving their game.",
+        "score": 0.23039025086521764,
+        "id": "42f39390-bd5a-40ef-a967-42224d199eca",
+        "created_at": "2026-11-03T03:09:29.931148+00:00",
+        "updated_at": "2026-11-03T03:09:29.931148+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for an upcoming video game tournament and has been feeling stressed due to tough competitors.",
+        "score": 0.2270861669039566,
+        "id": "5e90c7a3-2a01-467c-873d-513770778dd1",
+        "created_at": "2026-11-03T03:23:43.414962+00:00",
+        "updated_at": "2026-11-03T03:23:43.414962+00:00"
+      }
+    ],
+    "search_latency_ms": 67.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Gaming/video game skills, especially tips to improve their game.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold item about tips to improve gaming skills."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Gaming skills—specifically tips for improving their game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold item about tips for improving gaming skills."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Gaming skills—specifically tips for improving their game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold item about tips for improving gaming skills."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Gaming skills—specifically tips for improving their game.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold item about tips for improving gaming skills."
+    }
+  }
+}

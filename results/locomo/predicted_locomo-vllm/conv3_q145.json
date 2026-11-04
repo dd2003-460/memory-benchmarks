@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q145",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of content did Joanna share that someone wrote her a letter about?",
+  "ground_truth_answer": "A blog post about a hard moment in her life",
+  "evidence": [
+    "D18:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of content did Joanna share that someone wrote her a letter about?",
+    "search_results": [
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.7304745020499241,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna received a letter around August 7, 2022 from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing and its power to help others.",
+        "score": 0.7069168317500225,
+        "id": "8d96dfe2-b46f-4316-a791-aca891a241d7",
+        "created_at": "2026-11-03T03:13:10.254340+00:00",
+        "updated_at": "2026-11-03T03:13:10.254340+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.7027187476707347,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.7024717030130107,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a hard moment in her life, which reinforced her love for writing and its impact.",
+        "score": 0.6958134117392654,
+        "id": "0e337284-9d98-4bc5-9ee4-d10c8d38272a",
+        "created_at": "2026-11-03T03:13:36.345095+00:00",
+        "updated_at": "2026-11-03T03:13:36.345095+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.6909286525366432,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.6907312781875358,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6612853557445433,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna writes an online blog where she shares stories about hard moments in her life, using writing as an escape and a way to express feelings and find healing.",
+        "score": 0.6466773493865126,
+        "id": "949ed9db-97ed-4855-95ef-950f9e9ad63d",
+        "created_at": "2026-11-03T03:13:40.681079+00:00",
+        "updated_at": "2026-11-03T03:13:40.681079+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6455348622494272,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna included a handwritten letter from her childhood in the introduction of her next movie script, which was originally written by her brother.",
+        "score": 0.6452895880796505,
+        "id": "e91d8714-96e4-46d5-a7a8-a582eb62a0e9",
+        "created_at": "2026-11-03T03:29:33.489615+00:00",
+        "updated_at": "2026-11-03T03:29:33.489615+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.6390408568087997,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.638929452649067,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.6380971174606167,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.637864070555602,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book recently after her movie did well, sharing a photo of herself holding a notebook with handwritten pages.",
+        "score": 0.6317511884539871,
+        "id": "63929b34-eaa0-43f5-8261-592163bf9a17",
+        "created_at": "2026-11-03T03:12:34.854375+00:00",
+        "updated_at": "2026-11-03T03:12:34.854375+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.6296569870238844,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to pursue writing by reading extensively across different genres, building a solid understanding of literature, and not being afraid to write and share work even with friends for feedback",
+        "score": 0.6290565182701211,
+        "id": "90e7d705-f997-4e76-add5-61e2485e5a6a",
+        "created_at": "2026-11-03T03:02:04.836622+00:00",
+        "updated_at": "2026-11-03T03:02:04.836622+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.6279946819576332,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from the major company without specific feedback, which she found disheartening because she did not know why her screenplay was rejected.",
+        "score": 0.6264025831668032,
+        "id": "3d3be875-c6a8-43c2-8b42-efc5bb91a9fd",
+        "created_at": "2026-11-03T03:08:48.784725+00:00",
+        "updated_at": "2026-11-03T03:08:48.784725+00:00"
+      }
+    ],
+    "search_latency_ms": 86.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "An online blog post about a hard moment in her life.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer by identifying a blog post about a hard moment in her life."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "An online blog post about a hard moment in her life.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying a blog post about a hard moment in her life."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "An online blog post about a hard moment in her life.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying a blog post about a hard moment in her life."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "An online blog post about a hard moment in her life.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying a blog post about a hard moment in her life."
+    }
+  }
+}

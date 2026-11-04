@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q137",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where did Joanna go for a road trip for research?",
+  "ground_truth_answer": "Woodhaven",
+  "evidence": [
+    "D17:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Where did Joanna go for a road trip for research?",
+    "search_results": [
+      {
+        "memory": "Joanna took a road trip for research for her next movie around July 10, 2022, describing it as a much-needed break and an opportunity to explore new places and get inspired.",
+        "score": 0.8853907544783347,
+        "id": "b21d8d21-4e48-4b63-a3e1-f7d6ed847503",
+        "created_at": "2026-11-03T03:11:47.749127+00:00",
+        "updated_at": "2026-11-03T03:11:47.749127+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie, viewing it as a much-needed break to explore new places.",
+        "score": 0.8581107480727592,
+        "id": "ddda09b7-a1b6-4d93-89ce-ca0b1da30e63",
+        "created_at": "2026-11-03T03:12:21.933984+00:00",
+        "updated_at": "2026-11-03T03:12:21.933984+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.8514555500205774,
+        "id": "270d82d0-352c-4421-abf0-10abbd121662",
+        "created_at": "2026-11-03T03:11:55.361581+00:00",
+        "updated_at": "2026-11-03T03:11:55.361581+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 10, 2022, describing it as a much-needed break to explore new places and get inspired.",
+        "score": 0.8514555500205774,
+        "id": "dda9b0a1-3306-43cc-b5fe-182a369230c3",
+        "created_at": "2026-11-03T03:12:02.421560+00:00",
+        "updated_at": "2026-11-03T03:12:02.421560+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, where she enjoyed the scenery and historic buildings and visited the local library which featured an old book collection.",
+        "score": 0.8389817331557072,
+        "id": "0560e8b2-c088-4cda-ae06-1a5580003380",
+        "created_at": "2026-11-03T03:12:29.464738+00:00",
+        "updated_at": "2026-11-03T03:12:29.464738+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie around July 10, 2022, viewing it as a much-needed break to explore new places.",
+        "score": 0.8369071627489644,
+        "id": "e258a629-1aa4-466c-81bf-99877a8e4ba8",
+        "created_at": "2026-11-03T03:12:12.333829+00:00",
+        "updated_at": "2026-11-03T03:12:12.333829+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna visited the local library and discovered a book from the 1900s containing stories and sketches about the town and its people.",
+        "score": 0.8303488072244626,
+        "id": "779e8b98-c436-46c5-b91f-994eb956bbe5",
+        "created_at": "2026-11-03T03:12:02.424265+00:00",
+        "updated_at": "2026-11-03T03:12:02.424265+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna found a book from the 1900s containing stories and sketches about the town and its residents, which she found super cool to read.",
+        "score": 0.8279364757531293,
+        "id": "9add2bab-facc-4f6e-b9fa-2b25a3ff9aec",
+        "created_at": "2026-11-03T03:11:59.928629+00:00",
+        "updated_at": "2026-11-03T03:11:59.928629+00:00"
+      },
+      {
+        "memory": "During her road trip to Woodhaven, Joanna saw lovely scenery and historic buildings, and visited the local library which featured a cool old book collection.",
+        "score": 0.8205146609996288,
+        "id": "893775b8-0d09-4f2d-a4ce-e946de4057a8",
+        "created_at": "2026-11-03T03:11:55.365921+00:00",
+        "updated_at": "2026-11-03T03:11:55.365921+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.7760315042478696,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script, describing the experience as wild and awesome with every day on set full of potential to show her vision.",
+        "score": 0.768811420020066,
+        "id": "511f96c5-a7be-49cd-ac21-ba27866bc214",
+        "created_at": "2026-11-03T03:32:36.204567+00:00",
+        "updated_at": "2026-11-03T03:32:36.204567+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, and she finds the experience wild and awesome to see her vision come alive on set.",
+        "score": 0.7657919929795616,
+        "id": "9cf09c5d-084e-43a8-8f59-36b4fe500888",
+        "created_at": "2026-11-03T03:32:45.253791+00:00",
+        "updated_at": "2026-11-03T03:32:45.253791+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, describing the experience as wild and awesome to see her vision come alive on set.",
+        "score": 0.7570204271878707,
+        "id": "243e3b33-97ce-4d0d-8a9f-90981ac12d49",
+        "created_at": "2026-11-03T03:32:51.743882+00:00",
+        "updated_at": "2026-11-03T03:32:51.743882+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.36518852957322007,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around late October 2022, which she described as a cool experience to see how far she has come in her writing journey.",
+        "score": 0.3190556535629905,
+        "id": "53b1b29e-7ba8-4514-a458-600b41eaef36",
+        "created_at": "2026-11-03T03:25:55.687911+00:00",
+        "updated_at": "2026-11-03T03:25:55.687911+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and found more amazing trails, describing the experience as awesome and joking that she is now an expert hiker",
+        "score": 0.2758013245733342,
+        "id": "17f461f1-290d-44fb-ab1b-f40c485f44de",
+        "created_at": "2026-11-03T03:05:58.701156+00:00",
+        "updated_at": "2026-11-03T03:05:58.701156+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and discovered new amazing trails, feeling so accomplished that she considers herself an expert hiker now.",
+        "score": 0.26836511013858916,
+        "id": "6bfac284-8c82-4d0a-a89c-6001abcc7235",
+        "created_at": "2026-11-03T03:06:19.952341+00:00",
+        "updated_at": "2026-11-03T03:06:19.952341+00:00"
+      },
+      {
+        "memory": "Joanna went hiking around May 12, 2022, discovered new amazing trails in her town, and described herself as an expert hiker after the experience.",
+        "score": 0.2671300959182349,
+        "id": "b72e441f-126c-4b5c-9d58-4cd6605b1fb7",
+        "created_at": "2026-11-03T03:06:02.499585+00:00",
+        "updated_at": "2026-11-03T03:06:02.499585+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town on May 12, 2022, and discovered new amazing trails, feeling confident enough to describe herself as an expert hiker.",
+        "score": 0.26712421588963886,
+        "id": "aecb4f88-2b11-4790-bbe3-4ed1fa9c477c",
+        "created_at": "2026-11-03T03:06:28.197173+00:00",
+        "updated_at": "2026-11-03T03:06:28.197173+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.2536517618190727,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      }
+    ],
+    "search_latency_ms": 49.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Woodhaven, a small town in the Midwest",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's location, Woodhaven, with additional detail."
+    }
+  }
+}

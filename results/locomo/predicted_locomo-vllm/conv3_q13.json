@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q13",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna have an audition for a writing gig?",
+  "ground_truth_answer": "23 March, 2022.",
+  "evidence": [
+    "D6:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna have an audition for a writing gig?",
+    "search_results": [
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described her recent period as 'quite a ride' in a good way",
+        "score": 0.9159274735358096,
+        "id": "371c0525-93cb-4756-b89b-212be6548a81",
+        "created_at": "2026-11-03T03:01:46.274984+00:00",
+        "updated_at": "2026-11-03T03:01:46.274984+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.6960848975388275,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna has been busy with writing projects and describes the experience as a mix of highs and lows, noting that her journal is a major source of support and writing has become a huge part of her identity.",
+        "score": 0.6890794704583995,
+        "id": "977d0428-dc57-4506-8ad7-1177d153714a",
+        "created_at": "2026-11-03T03:13:32.621358+00:00",
+        "updated_at": "2026-11-03T03:13:32.621358+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback in her writing career.",
+        "score": 0.6637961931698255,
+        "id": "701602ac-10ba-4749-8377-9ab84d786c1e",
+        "created_at": "2026-11-03T03:23:43.412270+00:00",
+        "updated_at": "2026-11-03T03:23:43.412270+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.6208871477825119,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6117911750941422,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.5901301636185068,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.5831706126230037,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book in the week preceding October 6, 2022, after putting in many late nights and edits, describing the dedication as worth it.",
+        "score": 0.5763898386935667,
+        "id": "88de8619-26c0-4a5e-86b2-cafa68390b9d",
+        "created_at": "2026-11-03T03:20:10.701958+00:00",
+        "updated_at": "2026-11-03T03:20:10.701958+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.575717826802888,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.5752024859103085,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.573087410952348,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, a love story with lots of challenges, inspired by a dream, and hopes to get it on the big screen.",
+        "score": 0.571797532069399,
+        "id": "7705c919-c377-453b-a697-b6b22e82c63d",
+        "created_at": "2026-11-03T03:28:12.961555+00:00",
+        "updated_at": "2026-11-03T03:28:12.961555+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book in the week of September 26, 2022, after putting in many late nights and edits, and described the accomplishment as worth the effort.",
+        "score": 0.5699037465711402,
+        "id": "d4b1a82e-4148-4da6-a2f5-ad93b975f92c",
+        "created_at": "2026-11-03T03:19:55.051492+00:00",
+        "updated_at": "2026-11-03T03:19:55.051492+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book on the week of September 26, 2022, after putting in many late nights and edits, and feels proud of the completed work while looking forward to what happens next.",
+        "score": 0.5679164875742946,
+        "id": "6e742e77-a62c-4927-86f8-2d2ba18eb20b",
+        "created_at": "2026-11-03T03:19:18.825536+00:00",
+        "updated_at": "2026-11-03T03:19:18.825536+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.543587226975789,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.5427441439056648,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.2854694745993319,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had two published movies and recently submitted several new scripts in early November 2022, hoping for positive responses while anticipating some rejections.",
+        "score": 0.27982986474509686,
+        "id": "5370a444-5c1e-42fe-ae73-aa250d43f35d",
+        "created_at": "2026-11-03T03:28:47.519730+00:00",
+        "updated_at": "2026-11-03T03:28:47.519730+00:00"
+      },
+      {
+        "memory": "Joanna pitched her script to some producers on November 8, 2022, and they really liked it, giving her a big confidence boost after she created a plan for getting it made into a movie.",
+        "score": 0.2672988520030304,
+        "id": "05fb8bad-4109-4b53-a805-30c1172abae5",
+        "created_at": "2026-11-03T03:30:37.340874+00:00",
+        "updated_at": "2026-11-03T03:30:37.340874+00:00"
+      }
+    ],
+    "search_latency_ms": 124.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 23, 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer provides the exact same date as the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 23, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date as the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 23, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date as the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 23, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides the exact same date as the gold answer."
+    }
+  }
+}

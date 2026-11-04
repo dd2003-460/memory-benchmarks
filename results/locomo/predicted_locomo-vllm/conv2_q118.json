@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q118",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What inspired John to join the marching event for veterans' rights?",
+  "ground_truth_answer": "Respect for the military and the desire to show support",
+  "evidence": [
+    "D21:24"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What inspired John to join the marching event for veterans' rights?",
+    "search_results": [
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.9274156599485807,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.9260272350166477,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.925515660366558,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.922925186881051,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.9182950743277065,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what he believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.6921655191117345,
+        "id": "265a9203-9c11-4cdd-b646-7eae4b46c0ff",
+        "created_at": "2026-11-03T00:39:05.955384+00:00",
+        "updated_at": "2026-11-03T00:39:05.955384+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.6920381365754444,
+        "id": "30b61ab0-fa41-4175-a947-149a18422c9c",
+        "created_at": "2026-11-03T00:39:10.030159+00:00",
+        "updated_at": "2026-11-03T00:39:10.030159+00:00"
+      },
+      {
+        "memory": "John found being surrounded by others who shared his values and passion during the veterans' rights march motivating, reinforcing his belief in making a difference through activism.",
+        "score": 0.6886881862157974,
+        "id": "b4255f38-2db2-4dbc-b12c-1d9a124ab4ab",
+        "created_at": "2026-11-03T00:39:28.696094+00:00",
+        "updated_at": "2026-11-03T00:39:28.696094+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, motivating his participation in veterans' rights activism.",
+        "score": 0.6726659320202095,
+        "id": "e413e8da-100b-4bbe-a263-5338c862250b",
+        "created_at": "2026-11-03T00:39:28.692960+00:00",
+        "updated_at": "2026-11-03T00:39:28.692960+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.6645152187836708,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights; around May 13, 2023, he realized how much they have done for the community and started the veteran support project as a way to show appreciation and give back.",
+        "score": 0.6466565030016538,
+        "id": "f27fa283-082a-467e-8a1d-5cce9fd6803a",
+        "created_at": "2026-11-03T00:30:18.767295+00:00",
+        "updated_at": "2026-11-03T00:30:18.767295+00:00"
+      },
+      {
+        "memory": "John is working on a petition to support military veterans, a project he started around May 13, 2023, motivated by his long-standing passion for veterans' rights and a desire to show appreciation for their service.",
+        "score": 0.6463550099674424,
+        "id": "f409d586-906f-4197-8fec-cdfd4d072ad6",
+        "created_at": "2026-11-03T00:30:12.008367+00:00",
+        "updated_at": "2026-11-03T00:30:12.008367+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he was motivated to start a support project as a way of giving back after realizing how much they have done for the community.",
+        "score": 0.636213445678796,
+        "id": "35196ff7-20d8-4ac4-b1f4-264766485033",
+        "created_at": "2026-11-03T00:30:06.805521+00:00",
+        "updated_at": "2026-11-03T00:30:06.805521+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in early July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6337895875520859,
+        "id": "261822a9-07e3-4e47-bb7e-1ec7bb5332ad",
+        "created_at": "2026-11-03T00:42:01.933771+00:00",
+        "updated_at": "2026-11-03T00:42:01.933771+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6313720196875854,
+        "id": "96c9fb69-062c-4249-8f46-2d97e40ec2da",
+        "created_at": "2026-11-03T00:42:17.337783+00:00",
+        "updated_at": "2026-11-03T00:42:17.337783+00:00"
+      },
+      {
+        "memory": "During his visit to a veteran's hospital the week of July 10, 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6309908070491375,
+        "id": "f7c66a5e-af5b-4986-9c21-b37120133be2",
+        "created_at": "2026-11-03T00:41:42.392860+00:00",
+        "updated_at": "2026-11-03T00:41:42.392860+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and decided to start the veteran support project around May 13, 2023, as a way to show appreciation for their service.",
+        "score": 0.6272129966227845,
+        "id": "14f65f63-431c-46ed-afa4-3b1f97f382a2",
+        "created_at": "2026-11-03T00:30:14.185392+00:00",
+        "updated_at": "2026-11-03T00:30:14.185392+00:00"
+      },
+      {
+        "memory": "John is a veteran who joined the military and recently visited a veterans' organization where he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, which reinforced his sense of hope and resilience.",
+        "score": 0.6237183136192102,
+        "id": "6b39b3bf-7ed7-4d10-8d95-9bf2356a92bb",
+        "created_at": "2026-11-03T00:42:29.559421+00:00",
+        "updated_at": "2026-11-03T00:42:29.559421+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he decided to start a project to show appreciation for what they have done as a way of giving back.",
+        "score": 0.6226375568693531,
+        "id": "95b18b89-4254-4d52-81f7-106bbfb698d1",
+        "created_at": "2026-11-03T00:30:09.671853+00:00",
+        "updated_at": "2026-11-03T00:30:09.671853+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in mid-July 2023, John met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6203318106657413,
+        "id": "85d5dec7-778c-4f81-ae4c-4d6adf629aac",
+        "created_at": "2026-11-03T00:41:59.455622+00:00",
+        "updated_at": "2026-11-03T00:41:59.455622+00:00"
+      }
+    ],
+    "search_latency_ms": 40.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was inspired by his long-standing respect for the military and his belief that he should stand up for what he believes in, especially to support veterans and their rights.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key ideas of respect for the military and support for veterans."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was inspired to join the veterans’ rights march by his long-standing passion for veterans and their rights, his great respect for the military, and his belief that it is important to stand up for what he believes in.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes respect for the military and a desire to support veterans' rights, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was inspired to join the veterans’ rights march by his long-standing passion for veterans and their rights, his deep respect for the military, and his belief that it is important to stand up for what he believes in.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key ideas of respect for the military and a desire to show support for veterans' rights."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John was inspired to join the veterans’ rights march by his long-standing passion for veterans and their rights, his deep respect for the military, and his belief that it is important to stand up for what he believes in.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key ideas of respect for the military and a desire to show support for veterans' rights."
+    }
+  }
+}

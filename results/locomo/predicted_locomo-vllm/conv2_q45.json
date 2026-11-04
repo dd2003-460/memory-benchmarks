@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q45",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Would John be open to moving to another country?",
+  "ground_truth_answer": "No, he has goals specifically in the U.S. like joining the military and running for office.",
+  "evidence": [
+    "D24:3",
+    "D7:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Would John be open to moving to another country?",
+    "search_results": [
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.5683260643955814,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.5591351577108687,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John sees his friends at least once a week, finding it a good way to disconnect, think, and find peace in a crazy world",
+        "score": 0.20746653763185968,
+        "id": "39d819dc-16d5-4992-8cd2-76c1317c98a8",
+        "created_at": "2026-11-03T00:40:54.957317+00:00",
+        "updated_at": "2026-11-03T00:40:54.957317+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of May 4, 2023",
+        "score": 0.20480440853407997,
+        "id": "9d809667-991f-4e03-8fc1-6dd7eee6b2fe",
+        "created_at": "2026-11-03T00:27:56.115329+00:00",
+        "updated_at": "2026-11-03T00:27:56.115329+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of April 18, 2023.",
+        "score": 0.1957777358637953,
+        "id": "dd293ee7-14ec-456f-a9e0-2193bae2658f",
+        "created_at": "2026-11-03T00:27:40.924277+00:00",
+        "updated_at": "2026-11-03T00:27:40.924277+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles including technical challenges, workplace issues, and self-doubt, but powered through with support from home and personal grit.",
+        "score": 0.19387787803323153,
+        "id": "6824c2ac-4b0b-4bba-bbce-5d3742d22611",
+        "created_at": "2026-11-03T00:34:22.875314+00:00",
+        "updated_at": "2026-11-03T00:34:22.875314+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.19324969257724853,
+        "id": "eeee4313-4722-4ee9-ab50-11f6cb83225f",
+        "created_at": "2026-11-03T00:48:08.364873+00:00",
+        "updated_at": "2026-11-03T00:48:08.364873+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.1932496925772485,
+        "id": "f419d208-c055-4780-a91d-9cc4419120b5",
+        "created_at": "2026-11-03T00:48:10.988944+00:00",
+        "updated_at": "2026-11-03T00:48:10.988944+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.18931216755301788,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.18931216755301788,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with support from home and personal grit.",
+        "score": 0.18801481473079834,
+        "id": "dcd2448f-9b0c-4f3b-bc48-9c3558d04744",
+        "created_at": "2026-11-03T00:33:57.497007+00:00",
+        "updated_at": "2026-11-03T00:33:57.497007+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with grit and support from home.",
+        "score": 0.18753796554523885,
+        "id": "ab7ee521-152c-47b6-9091-348efa2f9b26",
+        "created_at": "2026-11-03T00:34:11.120753+00:00",
+        "updated_at": "2026-11-03T00:34:11.120753+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.18739215758363562,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John decided to run for office again around April 29, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community and feeling it was like a dream come true.",
+        "score": 0.18393684861410237,
+        "id": "db8789a9-456c-4e5c-8c3a-48a6aafcca59",
+        "created_at": "2026-11-03T00:29:34.049975+00:00",
+        "updated_at": "2026-11-03T00:29:34.049975+00:00"
+      },
+      {
+        "memory": "John decided to run for office again around April 29, 2023, despite previous unsuccessful attempts, driven by his persistent dream to make a difference in his community and feeling it was like a dream come true.",
+        "score": 0.1827375517273849,
+        "id": "71c12725-537e-43c8-ba80-da5a1b7d69b5",
+        "created_at": "2026-11-03T00:29:13.740764+00:00",
+        "updated_at": "2026-11-03T00:29:13.740764+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.1799661547068976,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "As of August 2023, John is going through some tough times lately and uses photography to help him take a step back and appreciate the little things in life",
+        "score": 0.17979578777765323,
+        "id": "f22b074b-3207-4a6f-a739-37e89f33cdb7",
+        "created_at": "2026-11-03T00:47:56.106663+00:00",
+        "updated_at": "2026-11-03T00:47:56.106663+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.1794987257382542,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.17906568759004352,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.17895013102981522,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      }
+    ],
+    "search_latency_ms": 76.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Likely no. John appears most connected to his family, friends, home support, and making an impact through his existing community and civic life, so the memories suggest he would not be especially open to moving to another country.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly conveys that John would likely not be open to moving to another country, matching the core negative stance of the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Probably not; John appears strongly tied to his local community, family, and friends, with no evidence that he would be open to moving to another country.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly conveys that John is probably not open to moving to another country, matching the gold answer's core negative stance even though it omits the specific U.S. goals."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Probably not; John appears strongly tied to his local community, family, and friends, with no evidence that he would be open to moving to another country.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly conveys that John is probably not open to moving to another country, matching the gold answer's core negative stance even though it omits the specific U.S. goals."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Probably not; John appears strongly tied to his local community, family, and friends, with no evidence that he would be open to moving to another country.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly conveys that John is probably not open to moving to another country, matching the gold answer's core negative stance even though it omits the specific U.S. goals."
+    }
+  }
+}

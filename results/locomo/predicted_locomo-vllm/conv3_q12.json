@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q12",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What underlying condition might Joanna have based on her allergies?",
+  "ground_truth_answer": "asthma",
+  "evidence": [
+    "D5:11",
+    "D2:23"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What underlying condition might Joanna have based on her allergies?",
+    "search_results": [
+      {
+        "memory": "Joanna has allergies that prevent her from getting a pet and she is too lazy to research alternative pets suitable for her allergies, as stated on May 20, 2022",
+        "score": 0.7110260399005249,
+        "id": "0d8b223a-e499-4be6-bdbe-14460b393e14",
+        "created_at": "2026-11-03T03:07:09.558418+00:00",
+        "updated_at": "2026-11-03T03:07:09.558418+00:00"
+      },
+      {
+        "memory": "Joanna has allergies that prevent her from getting pets and she feels too lazy to research alternative pet options suitable for her condition",
+        "score": 0.7005164232342848,
+        "id": "157230e4-271f-4e0f-9761-36bee6460805",
+        "created_at": "2026-11-03T03:07:15.199145+00:00",
+        "updated_at": "2026-11-03T03:07:15.199145+00:00"
+      },
+      {
+        "memory": "Joanna has allergies that prevent her from owning pets, and she is too lazy to research alternative pet options suitable for her condition",
+        "score": 0.6992144457230224,
+        "id": "4557254b-7084-47c8-a413-12d9f06cfc50",
+        "created_at": "2026-11-03T03:07:26.492506+00:00",
+        "updated_at": "2026-11-03T03:07:26.492506+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could come over to watch him play with his turtles, specifying that she would keep a distance because of her allergies",
+        "score": 0.6045099946459515,
+        "id": "7f099c35-a380-4073-960a-2614074c2ef6",
+        "created_at": "2026-11-03T03:31:50.662431+00:00",
+        "updated_at": "2026-11-03T03:31:50.662431+00:00"
+      },
+      {
+        "memory": "Joanna previously owned a dog named Tilly in Michigan, but had to give her up after developing allergies that prevented her from holding or squeezing animals without an allergic reaction.",
+        "score": 0.5920769772430698,
+        "id": "7c13f773-1117-47ca-9ff5-c3a014e49489",
+        "created_at": "2026-11-03T03:23:17.049186+00:00",
+        "updated_at": "2026-11-03T03:23:17.049186+00:00"
+      },
+      {
+        "memory": "Joanna used to have a dog in Michigan with the same name as her current stuffed animal, but had to give her up due to allergies; she keeps the stuffed animal to remember the dog and the time she could hold animals without allergic reactions.",
+        "score": 0.5785148534542681,
+        "id": "62a6a26f-44a2-4242-98a5-7f0b9d5b6269",
+        "created_at": "2026-11-03T03:23:55.196975+00:00",
+        "updated_at": "2026-11-03T03:23:55.196975+00:00"
+      },
+      {
+        "memory": "Joanna previously lived in Michigan where she had a dog named Tilly, but had to give the dog away after developing an allergy; she named her stuffed animal Tilly to remember the real dog from when she could hold animals without allergic reactions.",
+        "score": 0.5690473896136142,
+        "id": "8ecf1274-1458-43b6-b580-d933947cc951",
+        "created_at": "2026-11-03T03:23:20.155263+00:00",
+        "updated_at": "2026-11-03T03:23:20.155263+00:00"
+      },
+      {
+        "memory": "Joanna previously had a real dog named Tilly in Michigan, but had to give her up after developing an allergic reaction; the name of her stuffed animal serves as a reminder of when she could hold animals without allergies.",
+        "score": 0.567441635300228,
+        "id": "67b47fd2-f482-4687-ac46-9cbc0f8dc56e",
+        "created_at": "2026-11-03T03:23:40.600946+00:00",
+        "updated_at": "2026-11-03T03:23:40.600946+00:00"
+      },
+      {
+        "memory": "Joanna has a stuffed animal dog named Tilly that she keeps with her while writing; the name honors a real dog she had in Michigan whom she had to give up due to allergies.",
+        "score": 0.5525734969822926,
+        "id": "f3618634-f2ea-4752-bdbe-c6cc599dc368",
+        "created_at": "2026-11-03T03:23:49.476568+00:00",
+        "updated_at": "2026-11-03T03:23:49.476568+00:00"
+      },
+      {
+        "memory": "Joanna is currently revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.20678595606964975,
+        "id": "9b0a9623-7978-4b58-be35-dd045df726b5",
+        "created_at": "2026-11-03T03:23:20.149010+00:00",
+        "updated_at": "2026-11-03T03:23:20.149010+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.2038945763184919,
+        "id": "92e538e9-ecd3-461e-9f57-6e43a1a551ed",
+        "created_at": "2026-11-03T03:23:12.071344+00:00",
+        "updated_at": "2026-11-03T03:23:12.071344+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she made for her family, which turned out really tasty.",
+        "score": 0.2038945763184919,
+        "id": "09f5ba7f-f94a-415c-a003-4d6d21cfde4d",
+        "created_at": "2026-11-03T03:23:40.592770+00:00",
+        "updated_at": "2026-11-03T03:23:40.592770+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.19893274408737754,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.1960681728474532,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate's home to watch him play with them from a distance.",
+        "score": 0.1944321291508078,
+        "id": "efeb0380-a5a1-4ff2-a597-6e22595ee09c",
+        "created_at": "2026-11-03T03:32:33.625816+00:00",
+        "updated_at": "2026-11-03T03:32:33.625816+00:00"
+      },
+      {
+        "memory": "Joanna stated that her writing is currently consuming all her time and energy, preventing her from taking a vacation, and she is hoping for some good news soon regarding her work",
+        "score": 0.19441660729558957,
+        "id": "5bee6ab4-8c90-4527-ae21-305691feee57",
+        "created_at": "2026-11-03T03:02:46.189597+00:00",
+        "updated_at": "2026-11-03T03:02:46.189597+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.1930498674471156,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope with her current mood.",
+        "score": 0.19110819468680915,
+        "id": "a7098c55-1bfb-44f9-ac4e-194257bfb93f",
+        "created_at": "2026-11-03T03:15:53.709150+00:00",
+        "updated_at": "2026-11-03T03:15:53.709150+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to animals but wants to visit Nate's home to watch him play with his turtles from a distance",
+        "score": 0.19078878576508057,
+        "id": "9f282d80-9026-4e17-b199-d953c53b3d00",
+        "created_at": "2026-11-03T03:32:29.043806+00:00",
+        "updated_at": "2026-11-03T03:32:29.043806+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to turtles but expressed interest in visiting Nate to watch him play with them from a distance.",
+        "score": 0.18688300933402086,
+        "id": "fa4f4d06-a5bb-40f1-96bf-a21fd9a8849e",
+        "created_at": "2026-11-03T03:32:14.041189+00:00",
+        "updated_at": "2026-11-03T03:32:14.041189+00:00"
+      }
+    ],
+    "search_latency_ms": 95.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories repeatedly state that Joanna has allergies that prevent her from getting/owning pets, that she had to give up her dog Tilly after developing allergies, that she cannot hold or squeeze animals without an allergic reaction, and that she keeps a distance from Nate’s turtles because of her allergies.\n\nStep 2: ENTITY VERIFICATION  \nAll relevant memories are about Joanna, so they can be",
+      "memories_evaluated": 10,
+      "reason": "The generated answer discusses Joanna's allergies but does not mention asthma, the gold answer's key condition."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The best-supported underlying condition is an atopic animal-dander allergy, meaning Joanna has an allergic/atopic condition causing reactions to animals such as dogs, pets, and turtles.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies an atopic animal-dander allergy rather than asthma, so it does not include the gold answer's core condition."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \nRelevant memories repeatedly state that Joanna has allergies that prevent her from getting pets, that she is allergic to Nate’s pets/turtles/animals, and that she previously had to give up her dog Tilly after developing an allergic reaction to animals.\n\nStep 2: ENTITY VERIFICATION  \nAll relevant memories are about Joanna, so they can be used to answer the question about her.\n\nStep 3: COM",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not mention asthma or any equivalent underlying condition, so it contains no correct gold item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Atopy, an underlying atopic/allergic predisposition that could manifest as pet or animal allergies.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies atopy rather than asthma, so it does not include the gold answer's key condition."
+    }
+  }
+}

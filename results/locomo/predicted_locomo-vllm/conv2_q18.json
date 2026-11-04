@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q18",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Who did John go to yoga with?",
+  "ground_truth_answer": "Rob",
+  "evidence": [
+    "D7:16",
+    "D10:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Who did John go to yoga with?",
+    "search_results": [
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.797563137290289,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.6814564107110032,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.6719951519678968,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, which he describes as having a chill vibe and awesome instructors.",
+        "score": 0.657104543522715,
+        "id": "1f228ad6-aaf9-47b5-aa17-031274aebe3d",
+        "created_at": "2026-11-03T00:43:29.354272+00:00",
+        "updated_at": "2026-11-03T00:43:29.354272+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.6544523038563297,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.6541624396288132,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he appreciates for keeping his workouts interesting.",
+        "score": 0.6506163975031619,
+        "id": "e64dc561-374b-4a0c-b96f-f4e561210a1b",
+        "created_at": "2026-11-03T00:43:19.545653+00:00",
+        "updated_at": "2026-11-03T00:43:19.545653+00:00"
+      },
+      {
+        "memory": "John frequently attends a local yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, describing the vibe as chill with awesome instructors.",
+        "score": 0.6499424438778778,
+        "id": "b09c38ee-71b4-4895-b071-74b44b528ba4",
+        "created_at": "2026-11-03T00:43:35.573582+00:00",
+        "updated_at": "2026-11-03T00:43:35.573582+00:00"
+      },
+      {
+        "memory": "John has integrated his weekend yoga class into his daily routine, valuing it not only for physical benefits but also for the peace of mind and mindfulness it provides.",
+        "score": 0.6428784221935497,
+        "id": "5b126329-e38e-4944-b96e-ce18a07a5a8a",
+        "created_at": "2026-11-03T00:25:08.100970+00:00",
+        "updated_at": "2026-11-03T00:25:08.100970+00:00"
+      },
+      {
+        "memory": "John's weekend yoga class is a beginner-level session focusing on fundamentals such as poses and breathing, which he finds helpful for relaxation and increasing flexibility.",
+        "score": 0.6395901702694028,
+        "id": "eb17c036-3b43-4ede-8455-31135bb01f2b",
+        "created_at": "2026-11-03T00:24:50.455011+00:00",
+        "updated_at": "2026-11-03T00:24:50.455011+00:00"
+      },
+      {
+        "memory": "John's yoga instructor is praised for ensuring proper pose form, encouraging students to listen to their bodies, and creating a relaxed, welcoming environment for everyone.",
+        "score": 0.6214603705174037,
+        "id": "e94732e0-cc47-4504-a784-38cff86c0fa2",
+        "created_at": "2026-11-03T00:24:46.271436+00:00",
+        "updated_at": "2026-11-03T00:24:46.271436+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.5454030124228291,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.5418827401615224,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.2516827523288644,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.2516827523288644,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.21016608861083763,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John and his family are participating in a boot camp where they support each other by cheering during workouts and providing emotional support outside of them, which John finds amazing as they come together.",
+        "score": 0.20590297487324372,
+        "id": "56667d0e-da34-4f7a-aae5-8891b153cd04",
+        "created_at": "2026-11-03T00:28:34.576784+00:00",
+        "updated_at": "2026-11-03T00:28:34.576784+00:00"
+      },
+      {
+        "memory": "John attended a live music event with his family the week of June 19, 2023, and enjoyed seeing them dancing and having fun in an atmosphere he described as having amazing energy.",
+        "score": 0.20579840260451715,
+        "id": "d95d2f6d-3463-445c-9a88-72116073a899",
+        "created_at": "2026-11-03T00:35:58.655606+00:00",
+        "updated_at": "2026-11-03T00:35:58.655606+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.20356074274961947,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John is trying out different workout regimes and is interested in rock climbing as a way to push his limits.",
+        "score": 0.2028061773197754,
+        "id": "20a53785-229a-40a5-9d3f-3f19140f050b",
+        "created_at": "2026-11-03T00:33:10.482176+00:00",
+        "updated_at": "2026-11-03T00:33:10.482176+00:00"
+      }
+    ],
+    "search_latency_ms": 79.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a colleague",
+      "memories_evaluated": 10,
+      "reason": "The generated answer says only \"a colleague\" and does not identify Rob, so it contains none of the gold answer's correct item."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A colleague",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says \"A colleague\" but does not identify Rob, the specific person in the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A colleague",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says \"A colleague\" but does not identify Rob, the specific person in the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A colleague",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says \"A colleague\" but does not identify Rob, the specific person in the gold answer."
+    }
+  }
+}

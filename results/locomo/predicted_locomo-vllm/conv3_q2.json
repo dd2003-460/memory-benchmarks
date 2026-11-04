@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q2",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
+  "ground_truth_answer": "2019",
+  "evidence": [
+    "D1:18"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
+    "search_results": [
+      {
+        "memory": "Joanna watched a classic movie around early October 2022 that she found awesome, noting the story was gripping and the actors were great, and it really stuck with her.",
+        "score": 0.6164711734237419,
+        "id": "46eaa970-7ebc-4eb1-8a0e-a450ae907171",
+        "created_at": "2026-11-03T03:21:56.383101+00:00",
+        "updated_at": "2026-11-03T03:21:56.383101+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie script on the big screen was watching her characters come alive, describing it as a surreal experience where they felt like they jumped off the page and became real.",
+        "score": 0.5919403908520492,
+        "id": "5be932b5-fe1a-4d5e-ae69-a71907fab878",
+        "created_at": "2026-11-03T03:24:25.952193+00:00",
+        "updated_at": "2026-11-03T03:24:25.952193+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as an amazing experience, noting it was the third time this has happened and that watching her characters and dialogue acted out made her hard work feel rewarding.",
+        "score": 0.5913079821372962,
+        "id": "66a203cd-3881-4ef6-86b1-553d8702e56e",
+        "created_at": "2026-11-03T03:24:18.234826+00:00",
+        "updated_at": "2026-11-03T03:24:18.234826+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie adaptations is watching her characters come alive, describing the experience as surreal and feeling like they jumped off the page to become real.",
+        "score": 0.590720157321783,
+        "id": "74b6f6a1-f494-4173-94cd-4bdc72a22438",
+        "created_at": "2026-11-03T03:24:52.406064+00:00",
+        "updated_at": "2026-11-03T03:24:52.406064+00:00"
+      },
+      {
+        "memory": "Joanna watched the movie 'Little Women' and found it deeply resonant, appreciating how well it explored themes of sisterhood, love, and chasing dreams.",
+        "score": 0.5708690162362587,
+        "id": "417f3e2f-b74b-47cc-b4f8-e7aaa67ec377",
+        "created_at": "2026-11-03T03:19:18.830641+00:00",
+        "updated_at": "2026-11-03T03:19:18.830641+00:00"
+      },
+      {
+        "memory": "Joanna enjoys watching dramas and emotionally-driven films, which she cites as a source of inspiration for her writing.",
+        "score": 0.5707507662617194,
+        "id": "4230cb43-c4eb-49cb-9acb-35ef459bb422",
+        "created_at": "2026-11-03T03:04:37.017043+00:00",
+        "updated_at": "2026-11-03T03:04:37.017043+00:00"
+      },
+      {
+        "memory": "Joanna rated the classic movie she watched around early October 2022 as a 9 or 10 out of 10, describing it as amazing and noting that movies can take viewers to different places and evoke many emotions.",
+        "score": 0.5668540735500802,
+        "id": "2f674fe1-fcd3-4580-9162-8ec41da92f7a",
+        "created_at": "2026-11-03T03:22:31.574326+00:00",
+        "updated_at": "2026-11-03T03:22:31.574326+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.5596345658898321,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna watched The Lord of the Rings trilogy on May 1, 2022, after taking Nate's recommendation, and described the experience as awesome.",
+        "score": 0.5524143610878527,
+        "id": "66b2dc99-b405-48d0-ad36-24cf3aa1dbb3",
+        "created_at": "2026-11-03T03:05:03.020021+00:00",
+        "updated_at": "2026-11-03T03:05:03.020021+00:00"
+      },
+      {
+        "memory": "Joanna is seeking movie recommendations on October 6, 2022, noting that she could use some suggestions for good films to watch recently.",
+        "score": 0.5506527870529365,
+        "id": "d4d71e22-1886-4bb3-87d1-62c762793eef",
+        "created_at": "2026-11-03T03:19:13.013572+00:00",
+        "updated_at": "2026-11-03T03:19:13.013572+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.39609656356018647,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.3814080786503643,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time her work has been featured in a film. She described the experience as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.2504940585070926,
+        "id": "2c60d06f-4b11-4c0d-bc91-6e9089ff420b",
+        "created_at": "2026-11-03T03:24:38.018257+00:00",
+        "updated_at": "2026-11-03T03:24:38.018257+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time.",
+        "score": 0.24032570704820663,
+        "id": "027462ab-0b4e-4865-9f7d-76a3827249dc",
+        "created_at": "2026-11-03T03:24:14.988086+00:00",
+        "updated_at": "2026-11-03T03:24:14.988086+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.2375269997765705,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story movie script from a dream.",
+        "score": 0.23210452777085688,
+        "id": "b04a7385-bbde-42c5-af1e-e1c9cbe63872",
+        "created_at": "2026-11-03T03:28:42.602024+00:00",
+        "updated_at": "2026-11-03T03:28:42.602024+00:00"
+      },
+      {
+        "memory": "Joanna contributed to another movie script that was shown on the big screen for the first time on October 23, 2022, describing the experience as surreal and satisfying after waiting a long time.",
+        "score": 0.23202343795210195,
+        "id": "34490e46-5555-4258-94e1-b6d727c6ffea",
+        "created_at": "2026-11-03T03:24:09.315611+00:00",
+        "updated_at": "2026-11-03T03:24:09.315611+00:00"
+      },
+      {
+        "memory": "Joanna's third movie script was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.22947138761114308,
+        "id": "33acbf6e-5f44-451a-b2d1-738ce304072b",
+        "created_at": "2026-11-03T03:24:30.590140+00:00",
+        "updated_at": "2026-11-03T03:24:30.590140+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.22569107976710678,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, and she finds the experience wild and awesome to see her vision come alive on set.",
+        "score": 0.2245985242408126,
+        "id": "9cf09c5d-084e-43a8-8f59-36b4fe500888",
+        "created_at": "2026-11-03T03:32:45.253791+00:00",
+        "updated_at": "2026-11-03T03:32:45.253791+00:00"
+      }
+    ],
+    "search_latency_ms": 97.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Around early October 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a date in 2022, which does not match the gold answer's year 2019 and is outside the allowed date tolerance."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Around early October 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a date in 2022, which is not within the allowed tolerance of the gold answer's 2019."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Around early October 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a date in 2022, which is not within the allowed tolerance of the gold answer's 2019."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Around early October 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a date in 2022, which is not within the allowed tolerance of the gold answer's 2019."
+    }
+  }
+}

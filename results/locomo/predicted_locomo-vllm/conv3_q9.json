@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q9",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "What major achievement did Joanna accomplish in January 2022?",
+  "ground_truth_answer": "finished her screenplay and printed it",
+  "evidence": [
+    "D2:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What major achievement did Joanna accomplish in January 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna finished writing her book in the week of September 26, 2022, after putting in many late nights and edits, and described the accomplishment as worth the effort.",
+        "score": 0.7234615806263615,
+        "id": "d4b1a82e-4148-4da6-a2f5-ad93b975f92c",
+        "created_at": "2026-11-03T03:19:55.051492+00:00",
+        "updated_at": "2026-11-03T03:19:55.051492+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.7178455918727751,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 7, 2022, resulting in the total loss of her work with no recovery possible, which she described as a major blow to her lifeline.",
+        "score": 0.6890654580400452,
+        "id": "0846255e-a441-4beb-bf8b-ce13f8046bb1",
+        "created_at": "2026-11-03T03:17:35.093202+00:00",
+        "updated_at": "2026-11-03T03:17:35.093202+00:00"
+      },
+      {
+        "memory": "Joanna has been busy with writing projects and describes the experience as a mix of highs and lows, noting that her journal is a major source of support and writing has become a huge part of her identity.",
+        "score": 0.6266778218613424,
+        "id": "977d0428-dc57-4506-8ad7-1177d153714a",
+        "created_at": "2026-11-03T03:13:32.621358+00:00",
+        "updated_at": "2026-11-03T03:13:32.621358+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described her recent period as 'quite a ride' in a good way",
+        "score": 0.5530301775628896,
+        "id": "371c0525-93cb-4756-b89b-212be6548a81",
+        "created_at": "2026-11-03T03:01:46.274984+00:00",
+        "updated_at": "2026-11-03T03:01:46.274984+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in early July 2022, inspired by the success of her recent movie project",
+        "score": 0.529914162081092,
+        "id": "b05c8843-7437-4ec4-bf99-f74499d4a15f",
+        "created_at": "2026-11-03T03:12:32.038044+00:00",
+        "updated_at": "2026-11-03T03:12:32.038044+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.5188337676725998,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna plans to spend the weekend of August 27-28, 2022, relaxing and recharging with a long walk and some reading.",
+        "score": 0.47902088577179364,
+        "id": "43401bcc-1d22-4463-a060-eb17bd838d23",
+        "created_at": "2026-11-03T03:14:18.197405+00:00",
+        "updated_at": "2026-11-03T03:14:18.197405+00:00"
+      },
+      {
+        "memory": "Joanna plans to relax and recharge the weekend of August 27-28, 2022, by going for a long walk and reading",
+        "score": 0.47522743401667206,
+        "id": "5276295d-c343-43a8-8fa2-b88bfecddddc",
+        "created_at": "2026-11-03T03:14:40.195901+00:00",
+        "updated_at": "2026-11-03T03:14:40.195901+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.4692653107281883,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.46678025669506623,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.464973401401524,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.45780515481999695,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback in her writing career.",
+        "score": 0.44799707823164026,
+        "id": "701602ac-10ba-4749-8377-9ab84d786c1e",
+        "created_at": "2026-11-03T03:23:43.412270+00:00",
+        "updated_at": "2026-11-03T03:23:43.412270+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.4466235074672797,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Joanna finished a presentation for producers on November 4, 2022, noting that it was tough but looking good.",
+        "score": 0.44588651764610443,
+        "id": "0cc1b7cf-61ce-4cf5-ad28-5fb13887a42e",
+        "created_at": "2026-11-03T03:28:12.958195+00:00",
+        "updated_at": "2026-11-03T03:28:12.958195+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.4447309804692183,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna has been revising and perfecting a recipe she previously made for her family, noting that it turned out really tasty as of October 21, 2022.",
+        "score": 0.44392655475418924,
+        "id": "9488db82-7254-4bb9-98d8-040995adf29a",
+        "created_at": "2026-11-03T03:23:03.929394+00:00",
+        "updated_at": "2026-11-03T03:23:03.929394+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 6, 2022, resulting in the total loss of her work with no recovery possible.",
+        "score": 0.4430909609266093,
+        "id": "50930a82-e345-4b40-a3f8-b4f9961bdd11",
+        "created_at": "2026-11-03T03:17:45.162738+00:00",
+        "updated_at": "2026-11-03T03:17:45.162738+00:00"
+      },
+      {
+        "memory": "Joanna finished a presentation for producers on November 4, 2022, which she described as tough but looking good.",
+        "score": 0.4427747737114197,
+        "id": "8e5f557f-794f-4da0-85cc-dbaf13a28c6b",
+        "created_at": "2026-11-03T03:27:26.268427+00:00",
+        "updated_at": "2026-11-03T03:27:26.268427+00:00"
+      }
+    ],
+    "search_latency_ms": 77.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: The memories mention Joanna’s writing milestones: an audition for a writing gig on March 23, 2022; submitting a screenplay to a film contest on June 24, 2022; starting a book in July 2022; and finishing the book in late September 2022.\n\nStep 2: All relevant memories are about Joanna.\n\nStep 3: The only early-2022 major milestone available is the writing-gig audition; the other milestones are later in 2022.\n\nStep 4: The most specific early-2022 achievement supported by the memories is the audition for a writing gig.\n\nStep 5: The memory dates",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies an audition for a writing gig in March 2022 rather than Joanna finishing and printing her screenplay in January 2022, so it contains none of the gold answer's correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna had an audition for a writing gig",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes an audition for a writing gig, which is a different event from the gold answer's achievement of finishing and printing a screenplay."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna had an audition for a writing gig",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes an audition for a writing gig, which is a different event from the gold answer's achievement of finishing and printing a screenplay."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna had an audition for a writing gig",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes an audition for a writing gig, which is a different event from the gold answer's achievement of finishing and printing a screenplay."
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q61",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What mediums does Nate use to play games?",
+  "ground_truth_answer": "Gamecube, PC,Playstation.",
+  "evidence": [
+    "D22:2",
+    "D27:21",
+    "D27:15"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What mediums does Nate use to play games?",
+    "search_results": [
+      {
+        "memory": "Nate recently upgraded his home gaming equipment, which includes a computer monitor and keyboard on a desk, and uses this setup for practicing, competing, and playing games with friends.",
+        "score": 0.6599682011725599,
+        "id": "9222347f-0222-4ae1-acd8-f897a8e027dd",
+        "created_at": "2026-11-03T03:28:53.467520+00:00",
+        "updated_at": "2026-11-03T03:28:53.467520+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home gaming equipment around November 7, 2022, including a computer monitor and keyboard setup which he uses for practicing, competing in tournaments, and playing games with friends.",
+        "score": 0.650076145195082,
+        "id": "343dc4ee-72e9-4485-8ba6-c80ab8f46988",
+        "created_at": "2026-11-03T03:28:47.530751+00:00",
+        "updated_at": "2026-11-03T03:28:47.530751+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.6487225205401577,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and recently helped friends reset their high scores at an international tournament, finding it fun and rewarding to use his skills to make a difference.",
+        "score": 0.6482828053589988,
+        "id": "83cd6055-3f30-42c0-a125-0b0065fd431c",
+        "created_at": "2026-11-03T03:26:37.157575+00:00",
+        "updated_at": "2026-11-03T03:26:37.157575+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay, preferring a relaxed atmosphere.",
+        "score": 0.6399118389053662,
+        "id": "fb9fa08f-c8b5-4e29-8194-1f15e5703f1b",
+        "created_at": "2026-11-03T03:21:27.683562+00:00",
+        "updated_at": "2026-11-03T03:21:27.683562+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay to maintain a fun experience.",
+        "score": 0.6370411574966125,
+        "id": "853b0839-566a-4bc3-88b7-1ea5d223d8c5",
+        "created_at": "2026-11-03T03:21:47.494584+00:00",
+        "updated_at": "2026-11-03T03:21:47.494584+00:00"
+      },
+      {
+        "memory": "Nate has a dedicated home gaming setup with two monitors and a laptop, which he uses for practice, competition, and playing games with friends, viewing it as essential for his career.",
+        "score": 0.6364486635242683,
+        "id": "e6518853-552e-4815-8c37-bfe861399f58",
+        "created_at": "2026-11-03T03:29:23.390816+00:00",
+        "updated_at": "2026-11-03T03:29:23.390816+00:00"
+      },
+      {
+        "memory": "Nate is a competitive gamer who uses his dedicated home setup with two monitors and a laptop for both practice and competition, viewing it as essential to his career and a personal haven to escape into the virtual world.",
+        "score": 0.6363942218378307,
+        "id": "21e0ea53-397c-4437-bcb0-e89af6d489fa",
+        "created_at": "2026-11-03T03:29:19.854763+00:00",
+        "updated_at": "2026-11-03T03:29:19.854763+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xeonoblade Chronicles' and highly recommends it, having started the game after friends recommended it because he is a big fan of Nintendo games.",
+        "score": 0.6326690144772067,
+        "id": "ec6d376d-0d4d-4505-9a9d-aac9100a2803",
+        "created_at": "2026-11-03T03:29:19.860235+00:00",
+        "updated_at": "2026-11-03T03:29:19.860235+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends recommended it to him.",
+        "score": 0.6300104561533013,
+        "id": "b36dfedf-2d82-4b66-b407-e7b737421373",
+        "created_at": "2026-11-03T03:29:23.394764+00:00",
+        "updated_at": "2026-11-03T03:29:23.394764+00:00"
+      },
+      {
+        "memory": "Nate recently upgraded his home gaming equipment, which includes a computer monitor, keyboard, and a setup with two monitors and a laptop, and he uses this dedicated space for practicing, competing, and playing games with friends.",
+        "score": 0.6289355067997107,
+        "id": "1a808763-e2f1-483c-8532-d8a2525d3837",
+        "created_at": "2026-11-03T03:29:07.062552+00:00",
+        "updated_at": "2026-11-03T03:29:07.062552+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends had played it and recommended it to him.",
+        "score": 0.628083596893258,
+        "id": "7a1627bb-59c8-4191-8423-0e6435b113a9",
+        "created_at": "2026-11-03T03:29:16.783708+00:00",
+        "updated_at": "2026-11-03T03:29:16.783708+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.6254833041886395,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where attendees played games and then Chess afterward for fun",
+        "score": 0.6247487039504913,
+        "id": "10c2ef6a-5353-401f-ad30-1ccd1e6914a8",
+        "created_at": "2026-11-03T03:11:10.684631+00:00",
+        "updated_at": "2026-11-03T03:11:10.684631+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.620982381741783,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop, appreciating its futuristic setting and gameplay.",
+        "score": 0.6186023808381917,
+        "id": "ba517128-023d-4e82-9820-87e36f9899bb",
+        "created_at": "2026-11-03T03:22:35.343231+00:00",
+        "updated_at": "2026-11-03T03:22:35.343231+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, because he frequently plays that game with friends and discovered he is very skilled at it.",
+        "score": 0.6166856693590531,
+        "id": "3b10eb18-a11a-4961-a82f-f372c9cae223",
+        "created_at": "2026-11-03T03:05:21.778239+00:00",
+        "updated_at": "2026-11-03T03:05:21.778239+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, where he won his second tournament after discovering he is really good at the game, which he often plays with friends.",
+        "score": 0.6154749969618053,
+        "id": "e46f8254-3be8-423f-9cd3-228e333fd1b2",
+        "created_at": "2026-11-03T03:05:18.607840+00:00",
+        "updated_at": "2026-11-03T03:05:18.607840+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.6141797404337852,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and has been wanting to play the Japanese fantasy RPG Xenoblade Chronicles for a while because his friends recommended it.",
+        "score": 0.6114153821107544,
+        "id": "b5628b60-23be-40f2-8ba6-3872250bd77d",
+        "created_at": "2026-11-03T03:29:43.830443+00:00",
+        "updated_at": "2026-11-03T03:29:43.830443+00:00"
+      }
+    ],
+    "search_latency_ms": 66.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "laptop and Nintendo systems",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions 'laptop' which is a type of PC, and 'Nintendo systems' which includes the Gamecube, thus overlapping with the gold answer's items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate uses video games and board games, including chess.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions general video games and board games but does not include any of the specific gold mediums: Gamecube, PC, or PlayStation."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate uses video games and board games, including chess.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions general video games and board games but does not include any of the specific gold mediums: Gamecube, PC, or PlayStation."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate uses video games and board games, including chess.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not mention any of the gold answer's specific gaming mediums (GameCube, PC, or PlayStation)."
+    }
+  }
+}

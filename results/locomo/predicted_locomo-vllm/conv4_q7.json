@@ -1,0 +1,192 @@
+{
+  "question_id": "conv4_q7",
+  "conversation_idx": 4,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Which geographical locations has Tim been to?",
+  "ground_truth_answer": "California, London, the Smoky Mountains",
+  "evidence": [
+    "D1:18",
+    "D3:2",
+    "D14:16"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which geographical locations has Tim been to?",
+    "search_results": [
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, and chose the location because it is known for its arts scene, Irish music, and vibrant atmosphere.",
+        "score": 0.6318449483950327,
+        "id": "b67f6930-6f6a-46e1-aa4c-8b48e2a35dff",
+        "created_at": "2026-11-03T09:37:22.439558+00:00",
+        "updated_at": "2026-11-03T09:37:22.439558+00:00"
+      },
+      {
+        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
+        "score": 0.6241236575498144,
+        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
+        "created_at": "2026-11-03T09:37:29.774123+00:00",
+        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.6210428900854865,
+        "id": "de60b8d0-d9ad-4109-b7e6-8e1e7d59d70d",
+        "created_at": "2026-11-03T09:37:32.366376+00:00",
+        "updated_at": "2026-11-03T09:37:32.366376+00:00"
+      },
+      {
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location because of its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.6176881355081573,
+        "id": "02b59ecf-4db3-4fb2-af12-04f841b05d65",
+        "created_at": "2026-11-03T09:37:25.186321+00:00",
+        "updated_at": "2026-11-03T09:37:25.186321+00:00"
+      },
+      {
+        "memory": "Tim will stay in Galway, Ireland during his study abroad semester starting February 2024, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
+        "score": 0.612419335582014,
+        "id": "b01950c9-53b4-4504-bf85-018bebce82c5",
+        "created_at": "2026-11-03T09:37:17.942644+00:00",
+        "updated_at": "2026-11-03T09:37:17.942644+00:00"
+      },
+      {
+        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
+        "score": 0.45533451553902005,
+        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
+        "created_at": "2026-11-03T09:36:07.965881+00:00",
+        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+      },
+      {
+        "memory": "Tim loves traveling to new places to experience a different kind of magic, which is one of the reasons he enjoys travel.",
+        "score": 0.4074346800200808,
+        "id": "c2ebd929-b46d-4d38-8804-b2dcd345ecdd",
+        "created_at": "2026-11-03T09:11:05.967989+00:00",
+        "updated_at": "2026-11-03T09:11:05.967989+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
+        "score": 0.40473068941664536,
+        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
+        "created_at": "2026-11-03T09:35:54.494219+00:00",
+        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+      },
+      {
+        "memory": "Tim expressed that being in the mountains is the best, indicating a strong preference for mountain environments.",
+        "score": 0.3897219109962177,
+        "id": "932074fd-7c29-4417-b973-c19c85651ea0",
+        "created_at": "2026-11-03T09:29:59.881894+00:00",
+        "updated_at": "2026-11-03T09:29:59.881894+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
+        "score": 0.3891745295202049,
+        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
+        "created_at": "2026-11-03T09:21:00.674911+00:00",
+        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+      },
+      {
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
+        "score": 0.3891497449733,
+        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
+        "created_at": "2026-11-03T09:34:36.187606+00:00",
+        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+      },
+      {
+        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
+        "score": 0.3884565401703966,
+        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
+        "created_at": "2026-11-03T09:35:47.080548+00:00",
+        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+      },
+      {
+        "memory": "Tim finds trips to nature, such as visiting the Smoky Mountains, to be a good break from school",
+        "score": 0.38292110898473153,
+        "id": "141c8641-c345-424e-88fd-dc37e8c28577",
+        "created_at": "2026-11-03T09:19:11.908195+00:00",
+        "updated_at": "2026-11-03T09:19:11.908195+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a mountain range sunset with trees, which he took last summer (around August 2023).",
+        "score": 0.3817806399197891,
+        "id": "d9f512f3-cdf9-4044-b6b5-c3ed16d117aa",
+        "created_at": "2026-11-03T09:19:22.336725+00:00",
+        "updated_at": "2026-11-03T09:19:22.336725+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.381042941788788,
+        "id": "b5124faa-db7c-4acd-a8ea-3851b5d27b5c",
+        "created_at": "2026-11-03T09:34:53.923371+00:00",
+        "updated_at": "2026-11-03T09:34:53.923371+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.381042941788788,
+        "id": "9728296f-2b55-44bf-a483-16a333785bcd",
+        "created_at": "2026-11-03T09:34:40.883422+00:00",
+        "updated_at": "2026-11-03T09:34:40.883422+00:00"
+      },
+      {
+        "memory": "Tim is excited to explore nature while in Ireland and specifically expressed interest in visiting the Cliffs of Moher.",
+        "score": 0.3809080315057426,
+        "id": "9cec7e19-eb2f-4e25-be7d-6eaab774486e",
+        "created_at": "2026-11-03T09:37:25.189146+00:00",
+        "updated_at": "2026-11-03T09:37:25.189146+00:00"
+      },
+      {
+        "memory": "Tim visited a castle in the UK on Friday, November 10, 2023, during a trip and found the architecture and history amazing.",
+        "score": 0.3800177273708499,
+        "id": "166e9249-0323-4597-ace7-5d0a1468a59b",
+        "created_at": "2026-11-03T09:25:54.234586+00:00",
+        "updated_at": "2026-11-03T09:25:54.234586+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on or before December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.37889539941325534,
+        "id": "23ba5800-02f8-4123-adfc-ac99dc60b17c",
+        "created_at": "2026-11-03T09:34:36.196147+00:00",
+        "updated_at": "2026-11-03T09:34:36.196147+00:00"
+      },
+      {
+        "memory": "Tim visited a travel agency on December 26, 2023, to inquire about the requirements for his next dream trip.",
+        "score": 0.37427849762763615,
+        "id": "62a64f14-ee15-423e-92fc-a7059a2e95a8",
+        "created_at": "2026-11-03T09:34:33.592607+00:00",
+        "updated_at": "2026-11-03T09:34:33.592607+00:00"
+      }
+    ],
+    "search_latency_ms": 64.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

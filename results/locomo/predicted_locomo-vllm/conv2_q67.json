@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q67",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did the extra funding help the school shown in the photo shared by John?",
+  "ground_truth_answer": "Enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+  "evidence": [
+    "D1:12"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How did the extra funding help the school shown in the photo shared by John?",
+    "search_results": [
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help students, having started this role after previously exploring ways to channel his passion into meaningful community impact.",
+        "score": 0.6187873991343095,
+        "id": "016a3ca5-8250-4719-bddd-2abb5a3953e5",
+        "created_at": "2026-11-03T00:48:28.726808+00:00",
+        "updated_at": "2026-11-03T00:48:28.726808+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school, which he finds rewarding because he enjoys seeing how much he can help the students.",
+        "score": 0.6170181776007096,
+        "id": "746d80d6-0da0-4807-b9cd-705b52a47f03",
+        "created_at": "2026-11-03T00:48:33.484381+00:00",
+        "updated_at": "2026-11-03T00:48:33.484381+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school, finding the experience rewarding because he can see how much he helps the students.",
+        "score": 0.6086223702735711,
+        "id": "2e9bcfd9-a5f8-4cc6-acbb-06368f49316b",
+        "created_at": "2026-11-03T00:48:23.020732+00:00",
+        "updated_at": "2026-11-03T00:48:23.020732+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help students, having started this role after previously discussing plans to find volunteer opportunities.",
+        "score": 0.6069468908971914,
+        "id": "f0acc536-0325-4ec5-8ead-9b9bf15737bf",
+        "created_at": "2026-11-03T00:48:37.563671+00:00",
+        "updated_at": "2026-11-03T00:48:37.563671+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood to raise funds for veterans and their families, successfully raising money and sharing a photo of the group from the event.",
+        "score": 0.599979859448923,
+        "id": "e8fda8d7-c24f-4eb9-82c6-5e88bddff743",
+        "created_at": "2026-11-03T00:46:33.923302+00:00",
+        "updated_at": "2026-11-03T00:46:33.923302+00:00"
+      },
+      {
+        "memory": "John shared a photo of his workmates from a recent hiking trip, noting that their camaraderie and support help keep him motivated in his work on the veteran support petition.",
+        "score": 0.5918233555562725,
+        "id": "3f606ebe-7995-48db-b461-1130e4fdb681",
+        "created_at": "2026-11-03T00:30:47.743765+00:00",
+        "updated_at": "2026-11-03T00:30:47.743765+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he highlighted as important due to the high number of people suffering from it.",
+        "score": 0.5844798414621213,
+        "id": "4f71022e-97d6-4a4f-b058-c679113d8e72",
+        "created_at": "2026-11-03T00:47:01.157114+00:00",
+        "updated_at": "2026-11-03T00:47:01.157114+00:00"
+      },
+      {
+        "memory": "John offered to help Maria with the homeless shelter fundraiser and shared a photo of a poster for a chili cook-off event, indicating an interest in supporting the cause through this specific activity.",
+        "score": 0.5822020503850766,
+        "id": "4c805add-f6ef-4bf7-b1a8-1dff3e156596",
+        "created_at": "2026-11-03T00:30:50.061730+00:00",
+        "updated_at": "2026-11-03T00:30:50.061730+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.5794940547395697,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.5790895367007228,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for victims of domestic abuse in partnership with a local organization dedicated to helping them.",
+        "score": 0.5790305208339873,
+        "id": "c3fe8ba7-bbcc-4fbe-b793-297b95f3b899",
+        "created_at": "2026-11-03T00:47:03.622246+00:00",
+        "updated_at": "2026-11-03T00:47:03.622246+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.5771347007258865,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John's veteran support event also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause John considers important despite it being a tough issue.",
+        "score": 0.5612935362709053,
+        "id": "2b53efb1-1c1e-429c-955d-f4bc91ee5780",
+        "created_at": "2026-11-03T00:47:12.944467+00:00",
+        "updated_at": "2026-11-03T00:47:12.944467+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on August 6, 2023, to raise awareness and funds for veterans and their families, working with a local organization that helps victims of domestic abuse.",
+        "score": 0.5611163277749125,
+        "id": "d47e3066-a2dd-44ed-88bb-0d8fe5aa89e7",
+        "created_at": "2026-11-03T00:46:57.594478+00:00",
+        "updated_at": "2026-11-03T00:46:57.594478+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.5608467411139646,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family on July 5, 2023, stating that they motivate him and remind him why he is doing his activism work.",
+        "score": 0.5514356579402797,
+        "id": "ddf645f8-4ce8-4477-bb40-1a39efdb549c",
+        "created_at": "2026-11-03T00:39:40.570797+00:00",
+        "updated_at": "2026-11-03T00:39:40.570797+00:00"
+      },
+      {
+        "memory": "John shared a family photo taken on a train track in the fall around July 5, 2023, noting that his family motivates him and reminds him why he is doing his community work.",
+        "score": 0.5457404342491297,
+        "id": "150eb870-4602-4150-a2b5-75bfd84748f2",
+        "created_at": "2026-11-03T00:39:34.289443+00:00",
+        "updated_at": "2026-11-03T00:39:34.289443+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.5453494730528394,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "John mentors students in a program where he observed significant improvements in their confidence and skills, including a proud moment when a student excitedly showed him an essay in early August 2023.",
+        "score": 0.5384751441376785,
+        "id": "e64512c5-6f38-4013-b317-04eaca5b15df",
+        "created_at": "2026-11-03T00:48:54.959574+00:00",
+        "updated_at": "2026-11-03T00:48:54.959574+00:00"
+      },
+      {
+        "memory": "John shared a photo of a golden trophy on a black base that commemorates his journey and symbolizes all the obstacles he had to overcome to reach his promotion.",
+        "score": 0.5337452831778453,
+        "id": "a24c3c43-8c2a-4284-a8df-3bc1ad7cf68b",
+        "created_at": "2026-11-03T00:33:10.490022+00:00",
+        "updated_at": "2026-11-03T00:33:10.490022+00:00"
+      }
+    ],
+    "search_latency_ms": 76.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It helped the school by providing additional resources and support for its students.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the same general idea that the funding helped the school and its students, even though it is less specific than the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "It helped the school by supporting its students and student-focused programs, leading to significant improvements in the students’ confidence and skills.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes student-focused program benefits rather than the gold answer's repairs, renovations, and safer/modern learning environment, so it misses the core fact."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "It helped the school by supporting its students and mentoring program, leading to significant improvements in their confidence and skills.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes student mentoring and confidence improvements, which does not match the gold answer's core facts about repairs, renovations, safety, or modernization."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "It helped the school by supporting its mentoring/education efforts, allowing students to build confidence and improve their skills, with a visible example being a student proudly showing John an essay.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes mentoring and education support rather than the gold answer's repairs, renovations, and safer/modern learning environment, so it misses the core fact."
+    }
+  }
+}

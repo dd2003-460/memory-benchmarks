@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q110",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did Nate choose the hair color he did?",
+  "ground_truth_answer": "Bright and bold - like him",
+  "evidence": [
+    "D7:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Why did Nate choose the hair color he did?",
+    "search_results": [
+      {
+        "memory": "Nate chose to dye his hair purple because he wanted a bright and bold color that stands out from regular options, describing the choice as reflecting his personality",
+        "score": 0.8870713878824354,
+        "id": "07dff758-1845-491a-9d35-b205acddd619",
+        "created_at": "2026-11-03T03:02:39.371472+00:00",
+        "updated_at": "2026-11-03T03:02:39.371472+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.8085426140195107,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.6360591612807089,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, so he tried out cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6144115861591232,
+        "id": "18b5654c-a1b4-49d2-86fc-aa1d461a3de4",
+        "created_at": "2026-11-03T03:30:37.343236+00:00",
+        "updated_at": "2026-11-03T03:30:37.343236+00:00"
+      },
+      {
+        "memory": "Nate participated in a game tournament that was pushed back, during which he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6142747502101437,
+        "id": "e09485e3-7687-4a5a-8bd5-f8e635366795",
+        "created_at": "2026-11-03T03:30:17.364371+00:00",
+        "updated_at": "2026-11-03T03:30:17.364371+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.5996973682389323,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, prompting him to try cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.5912852511896477,
+        "id": "fa557a45-cc31-4369-8968-71f8228b5751",
+        "created_at": "2026-11-03T03:30:33.301448+00:00",
+        "updated_at": "2026-11-03T03:30:33.301448+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.5840932082182297,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.24193882186432275,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate is very happy with the decision to get a third turtle, stating he would not have it any other way.",
+        "score": 0.2406510376098852,
+        "id": "716e76e5-5433-4f1d-8b74-f3409bd15715",
+        "created_at": "2026-11-03T03:31:46.574276+00:00",
+        "updated_at": "2026-11-03T03:31:46.574276+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.23175390559459447,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.22909775517438877,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.22638085356999033,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.22464942812841643,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.22008845690523557,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "After winning the tournament around June 3, 2022, Nate spoke with other participants who expressed interest in hanging out later, and he shared a photo of a purple and blue controller with a star field design.",
+        "score": 0.21829888339712702,
+        "id": "913ba860-997e-4a34-a4ae-c6c2c9a5ec0d",
+        "created_at": "2026-11-03T03:09:16.502293+00:00",
+        "updated_at": "2026-11-03T03:09:16.502293+00:00"
+      },
+      {
+        "memory": "Nate did not make it to the finals in his recent game tournament but remains positive about competing again next time.",
+        "score": 0.21761341968228773,
+        "id": "fedb6665-18b8-4a74-9c46-bee8c6effe9b",
+        "created_at": "2026-11-03T03:30:37.345239+00:00",
+        "updated_at": "2026-11-03T03:30:37.345239+00:00"
+      },
+      {
+        "memory": "Nate agreed to help some of the guys he met at the tournament improve their game by giving them tips.",
+        "score": 0.21658356596224643,
+        "id": "f040b0d4-52ff-4775-bd16-063f936b39a6",
+        "created_at": "2026-11-03T03:09:24.259109+00:00",
+        "updated_at": "2026-11-03T03:09:24.259109+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.21645901769209752,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.21269787678270674,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      }
+    ],
+    "search_latency_ms": 80.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate chose purple because he wanted a bright and bold color that stands out from regular options and reflects his personality.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core idea that Nate chose a bright and bold color reflecting his personality."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate chose purple because he wanted a bright, bold color that stands out from regular options and reflects his personality.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that Nate chose a bright, bold color reflecting his personality."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate chose purple because he wanted a bright, bold color that stands out from regular options and reflects his personality.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that Nate chose a bright, bold color reflecting his personality."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate chose purple because he wanted a bright, bold color that stands out from regular options and reflects his personality.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that Nate chose a bright, bold color reflecting his personality."
+    }
+  }
+}

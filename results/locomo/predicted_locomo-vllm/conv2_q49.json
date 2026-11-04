@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q49",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What food item did Maria drop off at the homeless shelter?",
+  "ground_truth_answer": "Cakes",
+  "evidence": [
+    "D26:1",
+    "D25:19"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What food item did Maria drop off at the homeless shelter?",
+    "search_results": [
+      {
+        "memory": "John and Maria volunteered together at a local homeless shelter in early 2022, an experience they both found fulfilling",
+        "score": 0.8292216422228084,
+        "id": "2ee39c84-fd58-4a08-951e-7292922a9c3d",
+        "created_at": "2026-11-03T00:24:23.062108+00:00",
+        "updated_at": "2026-11-03T00:24:23.062108+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter around July 24, 2023, which increased her motivation to help people.",
+        "score": 0.8134863286684597,
+        "id": "6c2abad2-486b-4ee2-a794-4db7935db815",
+        "created_at": "2026-11-03T00:43:59.692853+00:00",
+        "updated_at": "2026-11-03T00:43:59.692853+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter where she volunteers around July 24, 2023, and found the experience great, which increased her motivation to help people.",
+        "score": 0.8056629081315322,
+        "id": "616d44f0-c737-470d-b86c-1149d346c5e9",
+        "created_at": "2026-11-03T00:43:42.120696+00:00",
+        "updated_at": "2026-11-03T00:43:42.120696+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.8047186477504319,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "John offered to help Maria with the homeless shelter fundraiser and shared a photo of a poster for a chili cook-off event, indicating an interest in supporting the cause through this specific activity.",
+        "score": 0.7872838838921181,
+        "id": "4c805add-f6ef-4bf7-b1a8-1dff3e156596",
+        "created_at": "2026-11-03T00:30:50.061730+00:00",
+        "updated_at": "2026-11-03T00:30:50.061730+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.770201808574296,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria bakes cakes and recently dropped off baked goods at a homeless shelter around July 24, 2023, which increased her motivation to help people.",
+        "score": 0.7664886294011295,
+        "id": "b870058e-4bec-4ba4-8a38-aa80842cbf84",
+        "created_at": "2026-11-03T00:44:08.621374+00:00",
+        "updated_at": "2026-11-03T00:44:08.621374+00:00"
+      },
+      {
+        "memory": "Maria is preparing for a fundraiser at the homeless shelter scheduled for the week of May 29, 2023, with the goal of raising enough funds to cover basic needs for the homeless residents.",
+        "score": 0.7600000959527191,
+        "id": "bbe128c2-1cc3-486e-adf7-8bb85628e1ff",
+        "created_at": "2026-11-03T00:30:47.739372+00:00",
+        "updated_at": "2026-11-03T00:30:47.739372+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7528975629837454,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.7498271292258106,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria volunteered at the front desk of the homeless shelter on August 11, 2023, finding it rewarding to see residents' smiles when they received food or a bed.",
+        "score": 0.7466639329285023,
+        "id": "4af3a6a7-2426-4544-8d3e-de1f25289bcd",
+        "created_at": "2026-11-03T00:49:57.098389+00:00",
+        "updated_at": "2026-11-03T00:49:57.098389+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week preceding August 9, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.7441368218687763,
+        "id": "869dd96c-0d2b-44c6-9250-18cffa33177b",
+        "created_at": "2026-11-03T00:46:31.870650+00:00",
+        "updated_at": "2026-11-03T00:46:31.870650+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.7432420699779645,
+        "id": "22c93572-589d-448d-a61f-afbe3cc538c7",
+        "created_at": "2026-11-03T00:46:44.138258+00:00",
+        "updated_at": "2026-11-03T00:46:44.138258+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.7432420699779645,
+        "id": "bce5658f-83cf-4094-b6c0-41071ef282f7",
+        "created_at": "2026-11-03T00:46:52.202536+00:00",
+        "updated_at": "2026-11-03T00:46:52.202536+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.7401189905700291,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.7390061999560811,
+        "id": "c1afbd5c-62fd-4e8c-9ff0-034e7e2083d2",
+        "created_at": "2026-11-03T00:47:01.150437+00:00",
+        "updated_at": "2026-11-03T00:47:01.150437+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.7369114682590998,
+        "id": "8e414989-f6ec-45e2-ac55-d27e66dd24f9",
+        "created_at": "2026-11-03T00:44:43.423528+00:00",
+        "updated_at": "2026-11-03T00:44:43.423528+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter for about a year, starting around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.7365438590307494,
+        "id": "fa312135-f673-4ef8-af96-7b21f32f8754",
+        "created_at": "2026-11-03T00:44:57.055067+00:00",
+        "updated_at": "2026-11-03T00:44:57.055067+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.7356024318342149,
+        "id": "fda6651e-ea70-4f8e-bb1c-f400db078f86",
+        "created_at": "2026-11-03T00:45:02.566317+00:00",
+        "updated_at": "2026-11-03T00:45:02.566317+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help; she describes the experience as fulfilling.",
+        "score": 0.7353529763452706,
+        "id": "47989226-43a5-487c-ac41-1cdc8b8c76ac",
+        "created_at": "2026-11-03T00:44:59.845448+00:00",
+        "updated_at": "2026-11-03T00:44:59.845448+00:00"
+      }
+    ],
+    "search_latency_ms": 118.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Baked goods",
+      "memories_evaluated": 10,
+      "reason": "Baked goods is a broader category that includes cakes, so it semantically overlaps with the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Baked goods",
+      "memories_evaluated": 20,
+      "reason": "Baked goods is a broader category that includes cakes, so it semantically overlaps with the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Baked goods",
+      "memories_evaluated": 20,
+      "reason": "Baked goods is a broader category that includes cakes, so it semantically overlaps with the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Baked goods",
+      "memories_evaluated": 20,
+      "reason": "Baked goods is a broader category that includes cakes, so it semantically overlaps with the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q125",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does John appreciate about the veteran's hospital visit?",
+  "ground_truth_answer": "the resilience of the veterans and their inspiring stories",
+  "evidence": [
+    "D24:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What does John appreciate about the veteran's hospital visit?",
+    "search_results": [
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.7163566595187354,
+        "id": "9a840cc4-9e7b-4984-8067-2224654ff2db",
+        "created_at": "2026-11-03T00:42:01.928996+00:00",
+        "updated_at": "2026-11-03T00:42:01.928996+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.7163566595187354,
+        "id": "8d71a920-7b74-48ff-90ff-9217dc64585c",
+        "created_at": "2026-11-03T00:42:17.333514+00:00",
+        "updated_at": "2026-11-03T00:42:17.333514+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, describing the experience as eye-opening and stating it made him appreciate what he has and reinforced his need to give back.",
+        "score": 0.7150286518677585,
+        "id": "07687321-2ff8-42ae-aa38-2b1fc42ca16b",
+        "created_at": "2026-11-03T00:41:37.759944+00:00",
+        "updated_at": "2026-11-03T00:41:37.759944+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10-16, 2023, which he found eye-opening and made him appreciate what he has and the need to give back.",
+        "score": 0.7085247364293416,
+        "id": "591278a4-7769-4bd3-950c-3ac13371947e",
+        "created_at": "2026-11-03T00:41:59.450880+00:00",
+        "updated_at": "2026-11-03T00:41:59.450880+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met an elderly veteran named Samuel whose inspiring and heartbreaking stories reinforced John's motivation for joining the military.",
+        "score": 0.6983701443911037,
+        "id": "e503fa25-0774-40e7-bae6-a60aef145085",
+        "created_at": "2026-11-03T00:42:10.788843+00:00",
+        "updated_at": "2026-11-03T00:42:10.788843+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6966427044414623,
+        "id": "b679c40d-cc2d-475f-8615-6bdafc07f9a3",
+        "created_at": "2026-11-03T00:42:14.405577+00:00",
+        "updated_at": "2026-11-03T00:42:14.405577+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6823867900774898,
+        "id": "96c9fb69-062c-4249-8f46-2d97e40ec2da",
+        "created_at": "2026-11-03T00:42:17.337783+00:00",
+        "updated_at": "2026-11-03T00:42:17.337783+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in early July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.681440945425541,
+        "id": "261822a9-07e3-4e47-bb7e-1ec7bb5332ad",
+        "created_at": "2026-11-03T00:42:01.933771+00:00",
+        "updated_at": "2026-11-03T00:42:01.933771+00:00"
+      },
+      {
+        "memory": "During his visit to a veteran's hospital the week of July 10, 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6796004396310038,
+        "id": "f7c66a5e-af5b-4986-9c21-b37120133be2",
+        "created_at": "2026-11-03T00:41:42.392860+00:00",
+        "updated_at": "2026-11-03T00:41:42.392860+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in mid-July 2023, John met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6759228905064012,
+        "id": "85d5dec7-778c-4f81-ae4c-4d6adf629aac",
+        "created_at": "2026-11-03T00:41:59.455622+00:00",
+        "updated_at": "2026-11-03T00:41:59.455622+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.6603744372578609,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John is a veteran who joined the military and recently visited a veterans' organization where he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, which reinforced his sense of hope and resilience.",
+        "score": 0.6591794756964469,
+        "id": "6b39b3bf-7ed7-4d10-8d95-9bf2356a92bb",
+        "created_at": "2026-11-03T00:42:29.559421+00:00",
+        "updated_at": "2026-11-03T00:42:29.559421+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights; around May 13, 2023, he realized how much they have done for the community and started the veteran support project as a way to show appreciation and give back.",
+        "score": 0.6549454499807742,
+        "id": "f27fa283-082a-467e-8a1d-5cce9fd6803a",
+        "created_at": "2026-11-03T00:30:18.767295+00:00",
+        "updated_at": "2026-11-03T00:30:18.767295+00:00"
+      },
+      {
+        "memory": "John finds the work on his veteran support petition rewarding but also stressful, noting that it has taken a lot of effort but is worth it to let veterans know their hard work is appreciated.",
+        "score": 0.653201191642865,
+        "id": "c5dd9585-2d1f-46ed-b3bf-b5d7af396ff8",
+        "created_at": "2026-11-03T00:30:12.014170+00:00",
+        "updated_at": "2026-11-03T00:30:12.014170+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.6456489585938735,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and decided to start the veteran support project around May 13, 2023, as a way to show appreciation for their service.",
+        "score": 0.6407304593338112,
+        "id": "14f65f63-431c-46ed-afa4-3b1f97f382a2",
+        "created_at": "2026-11-03T00:30:14.185392+00:00",
+        "updated_at": "2026-11-03T00:30:14.185392+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.6358777930234852,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John is working on a petition to support military veterans, a project he started around May 13, 2023, motivated by his long-standing passion for veterans' rights and a desire to show appreciation for their service.",
+        "score": 0.6355417220700712,
+        "id": "f409d586-906f-4197-8fec-cdfd4d072ad6",
+        "created_at": "2026-11-03T00:30:12.008367+00:00",
+        "updated_at": "2026-11-03T00:30:12.008367+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he decided to start a project to show appreciation for what they have done as a way of giving back.",
+        "score": 0.6342221024783299,
+        "id": "95b18b89-4254-4d52-81f7-106bbfb698d1",
+        "created_at": "2026-11-03T00:30:09.671853+00:00",
+        "updated_at": "2026-11-03T00:30:09.671853+00:00"
+      },
+      {
+        "memory": "John decided to start the veteran support project in early May 2023 after realizing how much veterans have done for the community and wanting to show his appreciation by giving back.",
+        "score": 0.6225645831051597,
+        "id": "3741d021-dff0-4280-a335-75464aae73a7",
+        "created_at": "2026-11-03T00:30:23.123749+00:00",
+        "updated_at": "2026-11-03T00:30:23.123749+00:00"
+      }
+    ],
+    "search_latency_ms": 55.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John appreciates what he has, and the visit reinforced his need to give back.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions gratitude and giving back, but does not include the gold answer's key ideas of veterans' resilience or inspiring stories."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John appreciates what he has, and the veteran’s hospital visit reinforced his need to give back.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions gratitude and giving back, but does not include the gold answer's key ideas of veterans' resilience or inspiring stories."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John appreciates what he has, and the veteran’s hospital visit reinforced his need to give back.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions gratitude and giving back, but does not include the gold answer's key ideas of veterans' resilience or inspiring stories."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John appreciates what he has, and the veteran’s hospital visit reinforced his need to give back.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions gratitude and giving back, but does not include the gold answer's key ideas of veterans' resilience or inspiring stories."
+    }
+  }
+}

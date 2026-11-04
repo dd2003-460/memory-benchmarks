@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q133",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did John do the week before August 3, 2023 involving his kids?",
+  "ground_truth_answer": "Had a meaningful experience at a military memorial",
+  "evidence": [
+    "D27:9"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John do the week before August 3, 2023 involving his kids?",
+    "search_results": [
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.718151419293955,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial the week before August 3, 2023, describing it as a meaningful experience that made an impact on them, and shared a photo of a young boy holding a flag in a cemetery.",
+        "score": 0.687080262089114,
+        "id": "b43934bd-5f91-460b-a6ad-629a37eae44d",
+        "created_at": "2026-11-03T00:44:57.064698+00:00",
+        "updated_at": "2026-11-03T00:44:57.064698+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.676866183434903,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John visited a military memorial with his kids the week of July 24, 2023, finding it a moving experience that made them awestruck and humbled while teaching them to respect those who served",
+        "score": 0.6745899295326183,
+        "id": "1b2fbf8a-7286-408e-b00e-6a5c6b747dc7",
+        "created_at": "2026-11-03T00:45:09.363909+00:00",
+        "updated_at": "2026-11-03T00:45:09.363909+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.6640231969941145,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.6511662997600399,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around August 16, 2023, expressing excitement about being involved and helping out his community.",
+        "score": 0.6468063429443698,
+        "id": "17b2a8a4-b8d6-48d7-8bd3-30c4efc33126",
+        "created_at": "2026-11-03T00:49:34.888744+00:00",
+        "updated_at": "2026-11-03T00:49:34.888744+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family on June 12, 2023, where his kids had a lot of fun on the playground and they enjoyed nice family time.",
+        "score": 0.6366715806205894,
+        "id": "27ac97e4-6cf6-43e4-ac13-7c5d8173ce07",
+        "created_at": "2026-11-03T00:32:40.194792+00:00",
+        "updated_at": "2026-11-03T00:32:40.194792+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.6249079698224167,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.620168034847589,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "John made a homemade apple pie for the kids on May 3, 2023",
+        "score": 0.6164631264667272,
+        "id": "d77dbfff-aa81-499b-b486-2194a267bea9",
+        "created_at": "2026-11-03T00:28:37.048654+00:00",
+        "updated_at": "2026-11-03T00:28:37.048654+00:00"
+      },
+      {
+        "memory": "John decided to run for office again in the week of April 30, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community.",
+        "score": 0.6027187302463808,
+        "id": "c3f75b03-3956-4acd-bb33-fce3105976ae",
+        "created_at": "2026-11-03T00:29:15.968626+00:00",
+        "updated_at": "2026-11-03T00:29:15.968626+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area the week of April 30, 2023, which reinforced his belief in the importance of upgrading infrastructure to ensure stable services for everyone.",
+        "score": 0.594990541581881,
+        "id": "7c7f820a-cebc-450d-a678-68be5e415148",
+        "created_at": "2026-11-03T00:29:38.596246+00:00",
+        "updated_at": "2026-11-03T00:29:38.596246+00:00"
+      },
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.5879786792949335,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in late July 2023, an experience that made a significant impact on them, leaving the children awestruck and humbled.",
+        "score": 0.5868939708846401,
+        "id": "ed561359-aa0c-476e-9ecc-aac20f2bae4a",
+        "created_at": "2026-11-03T00:45:02.573349+00:00",
+        "updated_at": "2026-11-03T00:45:02.573349+00:00"
+      },
+      {
+        "memory": "John plans to set up arts and crafts activities for his kids soon, inspired by a community event he attended in June 2023 that featured fun games and activities for families.",
+        "score": 0.5817792189272114,
+        "id": "76de7e2e-d4bc-47af-8ee4-e3d46bf86d7e",
+        "created_at": "2026-11-03T00:42:37.033585+00:00",
+        "updated_at": "2026-11-03T00:42:37.033585+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.5799246205627697,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.5764741582134648,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John is planning to set up a family game day similar to Maria's picnic for his kids soon, inspired by the fun activities he saw at a community event in June 2023.",
+        "score": 0.5755344005315449,
+        "id": "1566f7f2-bac6-41a8-a3f1-0213181ca298",
+        "created_at": "2026-11-03T00:42:42.392900+00:00",
+        "updated_at": "2026-11-03T00:42:42.392900+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in late July 2023, where they were awestruck and humbled by the experience.",
+        "score": 0.5656319777612143,
+        "id": "38698765-2a98-401f-a1cb-da3fde1da56b",
+        "created_at": "2026-11-03T00:45:24.722116+00:00",
+        "updated_at": "2026-11-03T00:45:24.722116+00:00"
+      }
+    ],
+    "search_latency_ms": 36.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John took his kids to visit a military memorial.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core event of John taking his kids to a military memorial, matching the gold answer's key concept."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John took his kids to visit a military memorial.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core event of John taking his kids to a military memorial, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John took his kids to visit a military memorial.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that John took his kids to a military memorial, matching the gold answer's core event."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John took his kids to visit a military memorial.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that John took his kids to a military memorial, matching the gold answer's core event."
+    }
+  }
+}

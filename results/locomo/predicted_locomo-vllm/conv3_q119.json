@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q119",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Nate feel he could do when out in cool places like Whispering Falls?",
+  "ground_truth_answer": "write a whole movie",
+  "evidence": [
+    "D11:13"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Nate feel he could do when out in cool places like Whispering Falls?",
+    "search_results": [
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.8277497203024062,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Joanna stated that being in cool places like hiking trails makes her feel inspired enough to write a whole movie or drama, distinguishing this creative surge from Nate's tendency to think about life or new recipes.",
+        "score": 0.8109628642052276,
+        "id": "08e54bce-eea0-4a47-8305-49e3eeafc974",
+        "created_at": "2026-11-03T03:06:34.371833+00:00",
+        "updated_at": "2026-11-03T03:06:34.371833+00:00"
+      },
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.6303890081326512,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate planned a future gaming session with new friends he met at the October 7, 2022 game convention, noting that it is cool to meet people with the same interests.",
+        "score": 0.5876070193570945,
+        "id": "3f0fe7d6-62ae-4f85-b2a6-abbcee22a63b",
+        "created_at": "2026-11-03T03:20:54.699924+00:00",
+        "updated_at": "2026-11-03T03:20:54.699924+00:00"
+      },
+      {
+        "memory": "Nate is not really into hiking but expressed curiosity about seeing what Joanna's trail looks like, and mentioned hearing about a nice trail just north of where he lives",
+        "score": 0.5467474826285261,
+        "id": "7a46f9ff-3a02-4d8d-9831-3a12ecccafdf",
+        "created_at": "2026-11-03T03:03:15.901351+00:00",
+        "updated_at": "2026-11-03T03:03:15.901351+00:00"
+      },
+      {
+        "memory": "Nate has been feeling stressed lately due to tough competitors in his tournament progress, though his turtles help cheer him up.",
+        "score": 0.5156010052815732,
+        "id": "86690060-8e08-4fcc-9a20-0f281ca581ed",
+        "created_at": "2026-11-03T03:23:20.151441+00:00",
+        "updated_at": "2026-11-03T03:23:20.151441+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for an upcoming video game tournament and has been feeling stressed due to tough competitors.",
+        "score": 0.5149899088319556,
+        "id": "5e90c7a3-2a01-467c-873d-513770778dd1",
+        "created_at": "2026-11-03T03:23:43.414962+00:00",
+        "updated_at": "2026-11-03T03:23:43.414962+00:00"
+      },
+      {
+        "memory": "Nate is participating in his 4th video game tournament scheduled for May 2022 and feels good about the upcoming event.",
+        "score": 0.4960098728639152,
+        "id": "43533d36-7e3e-40be-b61a-4326405b51ec",
+        "created_at": "2026-11-03T03:04:25.116296+00:00",
+        "updated_at": "2026-11-03T03:04:25.116296+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament as of October 21, 2022, and felt stressed due to tough competitors.",
+        "score": 0.46487942308715907,
+        "id": "ba23052f-5225-48b6-af80-34a7e62bb6b0",
+        "created_at": "2026-11-03T03:23:32.290852+00:00",
+        "updated_at": "2026-11-03T03:23:32.290852+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.2528292907991812,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.2391404043385434,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.2346767871097538,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate finds peace and a break from reality by spending time with his pets and engaging in his hobbies, noting that these small things have a powerful effect on his happiness",
+        "score": 0.23331252223387006,
+        "id": "9a152171-1d52-40cb-ad15-4a339a2cb337",
+        "created_at": "2026-11-03T03:03:27.244190+00:00",
+        "updated_at": "2026-11-03T03:03:27.244190+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay, preferring a relaxed atmosphere.",
+        "score": 0.23293034032538049,
+        "id": "fb9fa08f-c8b5-4e29-8194-1f15e5703f1b",
+        "created_at": "2026-11-03T03:21:27.683562+00:00",
+        "updated_at": "2026-11-03T03:21:27.683562+00:00"
+      },
+      {
+        "memory": "Nate is currently participating in a video game tournament as of March 24, 2022, describing the experience as intense with high adrenaline levels",
+        "score": 0.23288141651558458,
+        "id": "b7124621-6013-417e-8981-ce332c151b92",
+        "created_at": "2026-11-03T03:02:00.743211+00:00",
+        "updated_at": "2026-11-03T03:02:00.743211+00:00"
+      },
+      {
+        "memory": "Nate has pets that he takes to the park, and he finds their happy faces memorable, describing a recent trip to the park with them as a special day",
+        "score": 0.23225913374804402,
+        "id": "0a4426fd-dabe-4d2f-b7ff-af059804174d",
+        "created_at": "2026-11-03T03:29:49.160223+00:00",
+        "updated_at": "2026-11-03T03:29:49.160223+00:00"
+      },
+      {
+        "memory": "Nate is passionate about gaming and was helping friends reset their high scores at an international tournament around November 4, 2022, finding the experience fun and rewarding.",
+        "score": 0.23149143231296163,
+        "id": "1f1a0f15-9120-478f-bedd-f74392d0604d",
+        "created_at": "2026-11-03T03:26:54.964772+00:00",
+        "updated_at": "2026-11-03T03:26:54.964772+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay to maintain a fun experience.",
+        "score": 0.2290385323372058,
+        "id": "853b0839-566a-4bc3-88b7-1ea5d223d8c5",
+        "created_at": "2026-11-03T03:21:47.494584+00:00",
+        "updated_at": "2026-11-03T03:21:47.494584+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.227955863521641,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.2262841160866993,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      }
+    ],
+    "search_latency_ms": 127.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He feels he could think about life or new recipes.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer does not include the gold answer's key idea that Nate could write a whole movie."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He feels he could think about life or new recipes.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not include the gold answer's key item, 'write a whole movie,' and instead gives unrelated activities."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He feels he could think about life or new recipes.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not include the gold answer's key idea that Nate could write a whole movie."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He feels he could think about life or new recipes.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not include the gold answer's key idea that Nate could write a whole movie."
+    }
+  }
+}

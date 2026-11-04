@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q117",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What event did John participate in to show support for veterans' rights?",
+  "ground_truth_answer": "marching event",
+  "evidence": [
+    "D21:22"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What event did John participate in to show support for veterans' rights?",
+    "search_results": [
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.7117221396716111,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.7107175141976365,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights; around May 13, 2023, he realized how much they have done for the community and started the veteran support project as a way to show appreciation and give back.",
+        "score": 0.7096429145791602,
+        "id": "f27fa283-082a-467e-8a1d-5cce9fd6803a",
+        "created_at": "2026-11-03T00:30:18.767295+00:00",
+        "updated_at": "2026-11-03T00:30:18.767295+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.7082846491938941,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.7041149073951614,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.6993532533459059,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.6986864075795924,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John is working on a petition to support military veterans, a project he started around May 13, 2023, motivated by his long-standing passion for veterans' rights and a desire to show appreciation for their service.",
+        "score": 0.6984814287664477,
+        "id": "f409d586-906f-4197-8fec-cdfd4d072ad6",
+        "created_at": "2026-11-03T00:30:12.008367+00:00",
+        "updated_at": "2026-11-03T00:30:12.008367+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he was motivated to start a support project as a way of giving back after realizing how much they have done for the community.",
+        "score": 0.6938035752804235,
+        "id": "35196ff7-20d8-4ac4-b1f4-264766485033",
+        "created_at": "2026-11-03T00:30:06.805521+00:00",
+        "updated_at": "2026-11-03T00:30:06.805521+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, motivating his participation in veterans' rights activism.",
+        "score": 0.6878595696036538,
+        "id": "e413e8da-100b-4bbe-a263-5338c862250b",
+        "created_at": "2026-11-03T00:39:28.692960+00:00",
+        "updated_at": "2026-11-03T00:39:28.692960+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and decided to start the veteran support project around May 13, 2023, as a way to show appreciation for their service.",
+        "score": 0.6859556267001036,
+        "id": "14f65f63-431c-46ed-afa4-3b1f97f382a2",
+        "created_at": "2026-11-03T00:30:14.185392+00:00",
+        "updated_at": "2026-11-03T00:30:14.185392+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what one believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.6832558321038675,
+        "id": "30b61ab0-fa41-4175-a947-149a18422c9c",
+        "created_at": "2026-11-03T00:39:10.030159+00:00",
+        "updated_at": "2026-11-03T00:39:10.030159+00:00"
+      },
+      {
+        "memory": "John has always had great respect for the military and believes it is important to stand up for what he believes in, which motivated his participation in the veterans' rights march.",
+        "score": 0.6828236832126745,
+        "id": "265a9203-9c11-4cdd-b646-7eae4b46c0ff",
+        "created_at": "2026-11-03T00:39:05.955384+00:00",
+        "updated_at": "2026-11-03T00:39:05.955384+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he decided to start a project to show appreciation for what they have done as a way of giving back.",
+        "score": 0.677403772498362,
+        "id": "95b18b89-4254-4d52-81f7-106bbfb698d1",
+        "created_at": "2026-11-03T00:30:09.671853+00:00",
+        "updated_at": "2026-11-03T00:30:09.671853+00:00"
+      },
+      {
+        "memory": "John's veteran support event also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause John considers important despite it being a tough issue.",
+        "score": 0.668951690643173,
+        "id": "2b53efb1-1c1e-429c-955d-f4bc91ee5780",
+        "created_at": "2026-11-03T00:47:12.944467+00:00",
+        "updated_at": "2026-11-03T00:47:12.944467+00:00"
+      },
+      {
+        "memory": "John met with veterans on May 19, 2023, who were excited about his support project; their enthusiasm and support keep him motivated in his work.",
+        "score": 0.6659548652924613,
+        "id": "372948fc-5a6a-44eb-b714-82002dff489b",
+        "created_at": "2026-11-03T00:30:25.514049+00:00",
+        "updated_at": "2026-11-03T00:30:25.514049+00:00"
+      },
+      {
+        "memory": "John decided to start the veteran support project in early May 2023 after realizing how much veterans have done for the community and wanting to show his appreciation by giving back.",
+        "score": 0.6601840951895308,
+        "id": "3741d021-dff0-4280-a335-75464aae73a7",
+        "created_at": "2026-11-03T00:30:23.123749+00:00",
+        "updated_at": "2026-11-03T00:30:23.123749+00:00"
+      },
+      {
+        "memory": "John is actively working on his veteran support petition as of May 25, 2023, finding the process tricky but rewarding because it allows him to reconnect with old friends and gain their support.",
+        "score": 0.6528276541676789,
+        "id": "c6a3a356-2401-4ac4-8769-5ba28a2702d2",
+        "created_at": "2026-11-03T00:30:45.230496+00:00",
+        "updated_at": "2026-11-03T00:30:45.230496+00:00"
+      },
+      {
+        "memory": "John finds the work on his veteran support petition rewarding but also stressful, noting that it has taken a lot of effort but is worth it to let veterans know their hard work is appreciated.",
+        "score": 0.6425300424112008,
+        "id": "c5dd9585-2d1f-46ed-b3bf-b5d7af396ff8",
+        "created_at": "2026-11-03T00:30:12.014170+00:00",
+        "updated_at": "2026-11-03T00:30:12.014170+00:00"
+      },
+      {
+        "memory": "John organized a charity run for veterans in downtown, which involved significant effort to secure sponsors and coordinate with the city, and he shared a map of the downtown streets used for the event.",
+        "score": 0.6425070956795663,
+        "id": "202327bd-7925-4a4b-aa41-d7ae957d8b41",
+        "created_at": "2026-11-03T00:47:12.938873+00:00",
+        "updated_at": "2026-11-03T00:47:12.938873+00:00"
+      }
+    ],
+    "search_latency_ms": 68.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John participated in a marching event for veterans’ rights, around July 3, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly includes the gold answer's key item, a marching event, and adds acceptable extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John participated in a veterans’ rights march, described as a marching event for veterans’ rights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly identifies the same marching event for veterans' rights as the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John participated in a marching event for veterans' rights around July 3, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's key item, a marching event, while adding extra details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John participated in a marching event for veterans’ rights, i.e., a veterans’ rights march.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly identifies the same marching event for veterans' rights as the gold answer."
+    }
+  }
+}

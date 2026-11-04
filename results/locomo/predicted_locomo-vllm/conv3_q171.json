@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q171",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Joanna do after receiving a rejection from a production company?",
+  "ground_truth_answer": "keep grinding and moving ahead",
+  "evidence": [
+    "D24:14"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Joanna do after receiving a rejection from a production company?",
+    "search_results": [
+      {
+        "memory": "Joanna recently received a rejection from a production company around October 25, 2022, which she described as a setback but stated she will not let it slow her down and plans to keep pushing forward in her career",
+        "score": 0.9173733793017211,
+        "id": "4e351243-ed2f-4e1d-a0b8-5c1f740edfa1",
+        "created_at": "2026-11-03T03:24:07.105912+00:00",
+        "updated_at": "2026-11-03T03:24:07.105912+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep working hard and moving forward.",
+        "score": 0.9108948190193207,
+        "id": "1d4501a4-1fad-4c93-86f5-6d89752bcac2",
+        "created_at": "2026-11-03T03:23:55.205237+00:00",
+        "updated_at": "2026-11-03T03:23:55.205237+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback in her writing career.",
+        "score": 0.907054774184421,
+        "id": "701602ac-10ba-4749-8377-9ab84d786c1e",
+        "created_at": "2026-11-03T03:23:43.412270+00:00",
+        "updated_at": "2026-11-03T03:23:43.412270+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep grinding and moving ahead without letting it slow her down.",
+        "score": 0.9042947654937274,
+        "id": "81e3bd9c-5e75-4b98-a4dd-1362c3000396",
+        "created_at": "2026-11-03T03:23:49.469355+00:00",
+        "updated_at": "2026-11-03T03:23:49.469355+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.9005870092118856,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Joanna recently received another rejection from a production company, which she described as a setback, but she is determined to keep pushing forward and not let it slow her down.",
+        "score": 0.888482424167792,
+        "id": "eee2ee3e-2375-4ce3-950e-656c38e646c0",
+        "created_at": "2026-11-03T03:24:03.969219+00:00",
+        "updated_at": "2026-11-03T03:24:03.969219+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.7361800937629048,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.700690712698695,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her third screenplay, which significantly discouraged her and made her feel bummed out.",
+        "score": 0.69581421884162,
+        "id": "62bbfecd-688d-40e2-8046-b9cbde34430a",
+        "created_at": "2026-11-03T03:08:40.405113+00:00",
+        "updated_at": "2026-11-03T03:08:40.405113+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.6945905181780885,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.6866987984992998,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from the major company without specific feedback, which she found disheartening because she did not know why her screenplay was rejected.",
+        "score": 0.6821836157698388,
+        "id": "3d3be875-c6a8-43c2-8b42-efc5bb91a9fd",
+        "created_at": "2026-11-03T03:08:48.784725+00:00",
+        "updated_at": "2026-11-03T03:08:48.784725+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter without specific feedback, which she found disheartening, but she resolved not to let it bring her down with the support of her friend Nate.",
+        "score": 0.6708411437527414,
+        "id": "d2488e1f-19a4-4e7b-bd8b-c645e2ea41ab",
+        "created_at": "2026-11-03T03:09:16.493619+00:00",
+        "updated_at": "2026-11-03T03:09:16.493619+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had two published movies and recently submitted several new scripts in early November 2022, hoping for positive responses while anticipating some rejections.",
+        "score": 0.6369885407462365,
+        "id": "5370a444-5c1e-42fe-ae73-aa250d43f35d",
+        "created_at": "2026-11-03T03:28:47.519730+00:00",
+        "updated_at": "2026-11-03T03:28:47.519730+00:00"
+      },
+      {
+        "memory": "Joanna submitted several new scripts in the week of November 1, 2022, and is hoping to hear back from them soon while expecting some rejections.",
+        "score": 0.624891108926931,
+        "id": "4f372d74-80ed-4fa0-aae8-ccc641cc1551",
+        "created_at": "2026-11-03T03:28:53.458281+00:00",
+        "updated_at": "2026-11-03T03:28:53.458281+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week prior to November 7, 2022, and is hoping to hear back from them soon while expecting some rejections.",
+        "score": 0.6224785059670572,
+        "id": "571788f2-fb22-4a4a-a736-e267ee5c3c80",
+        "created_at": "2026-11-03T03:28:29.338719+00:00",
+        "updated_at": "2026-11-03T03:28:29.338719+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts during the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6181800872173954,
+        "id": "77cae654-82d5-49f3-a6a4-a02fd887c662",
+        "created_at": "2026-11-03T03:28:42.610116+00:00",
+        "updated_at": "2026-11-03T03:28:42.610116+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6152852188540204,
+        "id": "216c1077-a638-41ad-b9f3-e642f9515f43",
+        "created_at": "2026-11-03T03:28:36.470026+00:00",
+        "updated_at": "2026-11-03T03:28:36.470026+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week preceding November 7, 2022, and is hoping to hear back from them soon while anticipating that some will be rejected.",
+        "score": 0.6122582848175011,
+        "id": "f8b1d4d5-1da6-46e5-aea6-577e3b4719e7",
+        "created_at": "2026-11-03T03:28:25.857860+00:00",
+        "updated_at": "2026-11-03T03:28:25.857860+00:00"
+      },
+      {
+        "memory": "Joanna submitted a few more movie scripts in the week of November 1-7, 2022, hoping to hear back soon but expecting some rejections.",
+        "score": 0.6119090765514568,
+        "id": "ffa46728-e4c9-4bf2-ae85-9f7cd2555239",
+        "created_at": "2026-11-03T03:28:22.535157+00:00",
+        "updated_at": "2026-11-03T03:28:22.535157+00:00"
+      }
+    ],
+    "search_latency_ms": 50.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She remains determined to keep pushing forward, working hard, and moving ahead without letting the rejection slow her down.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the same idea as the gold answer by saying she keeps pushing forward, working hard, and moving ahead."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She treats it as a setback but keeps pushing forward, continuing to work hard on her writing career and not letting the rejection slow her down.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by saying she keeps pushing forward and working hard, which matches 'keep grinding and moving ahead.'"
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She keeps grinding, working hard, and pushing forward in her writing career without letting the rejection slow her down.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core idea of keeping grinding and moving ahead."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She treats it as a setback but keeps working hard and pushing forward in her writing career, refusing to let it slow her down.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer paraphrases the gold answer by saying she keeps working hard and pushing forward, which matches 'keep grinding and moving ahead.'"
+    }
+  }
+}

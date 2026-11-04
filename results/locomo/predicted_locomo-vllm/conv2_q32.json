@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q32",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What outdoor activities has John done with his colleagues?",
+  "ground_truth_answer": "Hiking, mountaineering",
+  "evidence": [
+    "D18:2",
+    "D16:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What outdoor activities has John done with his colleagues?",
+    "search_results": [
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.8864093078615689,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John enjoys outdoor activities with his family, including hiking, hanging out at the park, and having picnics.",
+        "score": 0.8794564985203657,
+        "id": "20f01f59-76fd-4e3b-9fa2-8f62ece78125",
+        "created_at": "2026-11-03T00:49:26.779964+00:00",
+        "updated_at": "2026-11-03T00:49:26.779964+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.6968249192255483,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John's family also enjoys indoor activities such as playing board games and having movie nights at home.",
+        "score": 0.6776449642607913,
+        "id": "085db9c6-b5b6-42b4-9b7e-bcd1a724eb50",
+        "created_at": "2026-11-03T00:49:10.175312+00:00",
+        "updated_at": "2026-11-03T00:49:10.175312+00:00"
+      },
+      {
+        "memory": "John has children and is planning to set up a fun activity similar to a picnic for them soon.",
+        "score": 0.6705069734882086,
+        "id": "701ba690-d77d-48e4-941d-902e1b24267d",
+        "created_at": "2026-11-03T00:42:17.344007+00:00",
+        "updated_at": "2026-11-03T00:42:17.344007+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics. He also enjoys playing board games and having movie nights at home.",
+        "score": 0.6581832357637202,
+        "id": "5b518877-b53f-4eb1-a464-3841811d7425",
+        "created_at": "2026-11-03T00:49:21.205807+00:00",
+        "updated_at": "2026-11-03T00:49:21.205807+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6552654882182478,
+        "id": "1c3ac6d6-35e6-4252-acbf-62410e6dda9b",
+        "created_at": "2026-11-03T00:49:18.801762+00:00",
+        "updated_at": "2026-11-03T00:49:18.801762+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.6552654882182478,
+        "id": "f9a5244f-d04f-473e-a818-2436a7e3a986",
+        "created_at": "2026-11-03T00:49:10.171499+00:00",
+        "updated_at": "2026-11-03T00:49:10.171499+00:00"
+      },
+      {
+        "memory": "User's name is John and he enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+        "score": 0.6370737801255605,
+        "id": "bc788396-063d-4996-b9e4-1f17ad95f3cb",
+        "created_at": "2026-11-03T00:49:34.881293+00:00",
+        "updated_at": "2026-11-03T00:49:34.881293+00:00"
+      },
+      {
+        "memory": "John plans to set up arts and crafts activities for his kids soon, inspired by a community event he attended in June 2023 that featured fun games and activities for families.",
+        "score": 0.5504186063140329,
+        "id": "76de7e2e-d4bc-47af-8ee4-e3d46bf86d7e",
+        "created_at": "2026-11-03T00:42:37.033585+00:00",
+        "updated_at": "2026-11-03T00:42:37.033585+00:00"
+      },
+      {
+        "memory": "John enjoys indoor family activities such as playing board games and having movie nights at home.",
+        "score": 0.5276014357848664,
+        "id": "e00fbf84-626c-46a9-938e-1910548242fb",
+        "created_at": "2026-11-03T00:49:26.782658+00:00",
+        "updated_at": "2026-11-03T00:49:26.782658+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.5182642431389926,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.5132076470204018,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.5057868582887111,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John shares that he sees sunsets at least once a week during his walks, which helps him disconnect, think, and find peace.",
+        "score": 0.34185186296741177,
+        "id": "3eaedbbb-a1c3-4656-adf3-7a9936a63ad4",
+        "created_at": "2026-11-03T00:40:23.095026+00:00",
+        "updated_at": "2026-11-03T00:40:23.095026+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.3096434528569444,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.2515582960813849,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John has extensive camping experience, describing it as an awesome way to get away from it all and be at one with nature due to its uncomplicated simplicity.",
+        "score": 0.245845934158678,
+        "id": "b16f0514-2b0a-4eaf-ab92-3b1c140d0dec",
+        "created_at": "2026-11-03T00:32:38.023687+00:00",
+        "updated_at": "2026-11-03T00:32:38.023687+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.24118528546808413,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John has gone camping many times and views it as an awesome way to get away from it all, be at one with nature, and enjoy the uncomplicated simplicity of the experience.",
+        "score": 0.23757791002201945,
+        "id": "ef6eaac9-7b1a-44b3-811a-811e537a9f7c",
+        "created_at": "2026-11-03T00:32:20.195189+00:00",
+        "updated_at": "2026-11-03T00:32:20.195189+00:00"
+      }
+    ],
+    "search_latency_ms": 54.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Hiking, hanging out at the park, and having picnics.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes hiking, which is one of the gold answer items."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done hiking and mountaineering with his colleagues.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, hiking and mountaineering."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done hiking and mountaineering with his colleagues.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, hiking and mountaineering."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done hiking and mountaineering with his colleagues.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both gold answer items, hiking and mountaineering."
+    }
+  }
+}

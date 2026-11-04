@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q142",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
+  "ground_truth_answer": "a medal for volunteering",
+  "evidence": [
+    "D29:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What recognition did Maria receive at the homeless shelter in August 2023?",
+    "search_results": [
+      {
+        "memory": "John and Maria volunteered together at a local homeless shelter in early 2022, an experience they both found fulfilling",
+        "score": 0.8789295702694258,
+        "id": "2ee39c84-fd58-4a08-951e-7292922a9c3d",
+        "created_at": "2026-11-03T00:24:23.062108+00:00",
+        "updated_at": "2026-11-03T00:24:23.062108+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.8480233517127902,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "Maria is preparing for a fundraiser at the homeless shelter scheduled for the week of May 29, 2023, with the goal of raising enough funds to cover basic needs for the homeless residents.",
+        "score": 0.8310977239444618,
+        "id": "bbe128c2-1cc3-486e-adf7-8bb85628e1ff",
+        "created_at": "2026-11-03T00:30:47.739372+00:00",
+        "updated_at": "2026-11-03T00:30:47.739372+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.8231732042732892,
+        "id": "c1afbd5c-62fd-4e8c-9ff0-034e7e2083d2",
+        "created_at": "2026-11-03T00:47:01.150437+00:00",
+        "updated_at": "2026-11-03T00:47:01.150437+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.8212274036825127,
+        "id": "bce5658f-83cf-4094-b6c0-41071ef282f7",
+        "created_at": "2026-11-03T00:46:52.202536+00:00",
+        "updated_at": "2026-11-03T00:46:52.202536+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week of August 1-7, 2023, and was awarded a handmade medal for her service, which she found humbling.",
+        "score": 0.8212274036825127,
+        "id": "22c93572-589d-448d-a61f-afbe3cc538c7",
+        "created_at": "2026-11-03T00:46:44.138258+00:00",
+        "updated_at": "2026-11-03T00:46:44.138258+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a homeless shelter in the week preceding August 9, 2023, and was awarded a handmade medal for her service, which she described as a humbling experience.",
+        "score": 0.820445707281601,
+        "id": "869dd96c-0d2b-44c6-9250-18cffa33177b",
+        "created_at": "2026-11-03T00:46:31.870650+00:00",
+        "updated_at": "2026-11-03T00:46:31.870650+00:00"
+      },
+      {
+        "memory": "Maria volunteered at the front desk of the homeless shelter on August 11, 2023, finding it rewarding to see residents' smiles when they received food or a bed.",
+        "score": 0.8190091659936464,
+        "id": "4af3a6a7-2426-4544-8d3e-de1f25289bcd",
+        "created_at": "2026-11-03T00:49:57.098389+00:00",
+        "updated_at": "2026-11-03T00:49:57.098389+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.8165124980174939,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria participated in a 5K charity run for a homeless shelter around April 1-2, 2023, finding the experience rewarding and energizing due to the sense of unity among participants, which reinforced her passion for charity work.",
+        "score": 0.8064049059650872,
+        "id": "ddafb1dd-db69-4ce3-bca8-716001b56f9b",
+        "created_at": "2026-11-03T00:25:10.866059+00:00",
+        "updated_at": "2026-11-03T00:25:10.866059+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter for about a year, starting around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.8061350220724022,
+        "id": "fa312135-f673-4ef8-af96-7b21f32f8754",
+        "created_at": "2026-11-03T00:44:57.055067+00:00",
+        "updated_at": "2026-11-03T00:44:57.055067+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.804990548710846,
+        "id": "8e414989-f6ec-45e2-ac55-d27e66dd24f9",
+        "created_at": "2026-11-03T00:44:43.423528+00:00",
+        "updated_at": "2026-11-03T00:44:43.423528+00:00"
+      },
+      {
+        "memory": "Maria received a handmade medal from the homeless shelter where she volunteers around August 2, 2023, which she found humbling and appreciated as recognition of her efforts to make a difference.",
+        "score": 0.8045441586789573,
+        "id": "f4cd0baf-93d0-4e1f-81f9-4461fba9c809",
+        "created_at": "2026-11-03T00:46:27.453337+00:00",
+        "updated_at": "2026-11-03T00:46:27.453337+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a handwritten thank-you note expressing heartfelt gratitude for the support received, which Maria shared on August 3, 2023.",
+        "score": 0.8035033631872345,
+        "id": "2dfa8ad9-875b-4e79-97bb-812603d157b4",
+        "created_at": "2026-11-03T00:44:53.526971+00:00",
+        "updated_at": "2026-11-03T00:44:53.526971+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.8029112110319729,
+        "id": "fda6651e-ea70-4f8e-bb1c-f400db078f86",
+        "created_at": "2026-11-03T00:45:02.566317+00:00",
+        "updated_at": "2026-11-03T00:45:02.566317+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help; she describes the experience as fulfilling.",
+        "score": 0.8015796263828081,
+        "id": "47989226-43a5-487c-ac41-1cdc8b8c76ac",
+        "created_at": "2026-11-03T00:44:59.845448+00:00",
+        "updated_at": "2026-11-03T00:44:59.845448+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.7862660577546053,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.7834442090019043,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7832295192361993,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter where she volunteers around July 24, 2023, and found the experience great, which increased her motivation to help people.",
+        "score": 0.7781048298051193,
+        "id": "616d44f0-c737-470d-b86c-1149d346c5e9",
+        "created_at": "2026-11-03T00:43:42.120696+00:00",
+        "updated_at": "2026-11-03T00:43:42.120696+00:00"
+      }
+    ],
+    "search_latency_ms": 84.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria received a handmade medal for her service at the homeless shelter.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that Maria received a medal for her service/volunteering at the homeless shelter, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria received a handmade medal from the homeless shelter in August 2023 for her service.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Maria received a medal for her service/volunteering at the homeless shelter in August 2023."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria received a handmade medal from the homeless shelter in August 2023 for her service.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Maria received a medal for her service/volunteering at the homeless shelter in August 2023."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria received a handmade medal from the homeless shelter in August 2023 for her service.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Maria received a medal for her service/volunteering at the homeless shelter in August 2023."
+    }
+  }
+}

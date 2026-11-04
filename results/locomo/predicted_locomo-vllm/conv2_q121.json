@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q121",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did the flood impact the homes in John's old area?",
+  "ground_truth_answer": "Lots of homes were ruined.",
+  "evidence": [
+    "D23:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How did the flood impact the homes in John's old area?",
+    "search_results": [
+      {
+        "memory": "John's old area was hit by a severe flood around July 1-3, 2023, causing significant damage to homes due to poor infrastructure, which motivated him to advocate for community improvements.",
+        "score": 0.729297622186961,
+        "id": "b2156975-f39e-4f6a-a9df-9d422f0058a6",
+        "created_at": "2026-11-03T00:40:33.180125+00:00",
+        "updated_at": "2026-11-03T00:40:33.180125+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and reinforced his belief that community infrastructure needs fixing.",
+        "score": 0.7282495009252805,
+        "id": "1a0494fe-133c-4f0d-ad68-a0b5d7ac47bc",
+        "created_at": "2026-11-03T00:41:23.241365+00:00",
+        "updated_at": "2026-11-03T00:41:23.241365+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a nasty flood around July 1-3, 2023, where poor infrastructure led to many homes being ruined, prompting him to focus on community improvements",
+        "score": 0.7257600916396825,
+        "id": "98e9c398-8de0-4e2c-bcc5-c52a9bc79e24",
+        "created_at": "2026-11-03T00:40:54.963901+00:00",
+        "updated_at": "2026-11-03T00:40:54.963901+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure, prompting John to organize community meetings to discuss solutions and improve local conditions.",
+        "score": 0.7241489860078719,
+        "id": "83e9a088-f67b-4b3a-a75a-ca66a16611e0",
+        "created_at": "2026-11-03T00:40:39.374168+00:00",
+        "updated_at": "2026-11-03T00:40:39.374168+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around July 1, 2023, which ruined many homes due to poor infrastructure, reinforcing his belief that the community needs to fix and upgrade local systems.",
+        "score": 0.7230102629728992,
+        "id": "d32d67af-169e-4a0d-ac06-26d234da5005",
+        "created_at": "2026-11-03T00:40:29.510782+00:00",
+        "updated_at": "2026-11-03T00:40:29.510782+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted John to organize community meetings to discuss solutions.",
+        "score": 0.722620753726909,
+        "id": "be8273cf-23c1-474b-a8ea-7905379a1654",
+        "created_at": "2026-11-03T00:40:57.997547+00:00",
+        "updated_at": "2026-11-03T00:40:57.997547+00:00"
+      },
+      {
+        "memory": "John's area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted him to organize community meetings to discuss solutions.",
+        "score": 0.7065153265580169,
+        "id": "70aae366-3d80-4676-bccc-91f17a43f051",
+        "created_at": "2026-11-03T00:41:13.885468+00:00",
+        "updated_at": "2026-11-03T00:41:13.885468+00:00"
+      },
+      {
+        "memory": "John is working on a community project focused on infrastructure to gain neighborhood backing, and he specifically wants to improve his old area, West County.",
+        "score": 0.5969064538179099,
+        "id": "b2daa2a3-5c1c-49d6-a5ae-602efcf552f2",
+        "created_at": "2026-11-03T00:30:09.657421+00:00",
+        "updated_at": "2026-11-03T00:30:09.657421+00:00"
+      },
+      {
+        "memory": "John is organizing a community gathering to discuss solutions for the infrastructure damage caused by the flood that hit his old area in early July 2023, and he has invited Maria to contribute her thoughts.",
+        "score": 0.5961914556038256,
+        "id": "727a0574-95a8-41f3-a8a6-89281a6a9cbc",
+        "created_at": "2026-11-03T00:40:35.427740+00:00",
+        "updated_at": "2026-11-03T00:40:35.427740+00:00"
+      },
+      {
+        "memory": "John wants to work on improving his old area, West County, in addition to his current neighborhood infrastructure efforts.",
+        "score": 0.5948366837987138,
+        "id": "6d111225-063a-48fb-a38e-abfb2f43a692",
+        "created_at": "2026-11-03T00:29:56.295020+00:00",
+        "updated_at": "2026-11-03T00:29:56.295020+00:00"
+      },
+      {
+        "memory": "John wants to work on improving his old area, West County, in addition to his current neighborhood infrastructure efforts.",
+        "score": 0.5948366837987138,
+        "id": "959e2e8d-c393-423f-a731-ed756b17f66a",
+        "created_at": "2026-11-03T00:29:58.462506+00:00",
+        "updated_at": "2026-11-03T00:29:58.462506+00:00"
+      },
+      {
+        "memory": "In 2022, John helped renovate a rundown community center back home, noting that while it took a lot of work, seeing the impact on the community was worth it.",
+        "score": 0.5939447974901457,
+        "id": "46aa092b-7938-414a-9a6b-bc1d360002ca",
+        "created_at": "2026-11-03T00:45:55.017066+00:00",
+        "updated_at": "2026-11-03T00:45:55.017066+00:00"
+      },
+      {
+        "memory": "John wants to work on improving his old area, West County, in addition to his current neighborhood efforts.",
+        "score": 0.5934109095107966,
+        "id": "2cd1fa76-a176-48e2-8a02-f8c196a6b190",
+        "created_at": "2026-11-03T00:30:18.754222+00:00",
+        "updated_at": "2026-11-03T00:30:18.754222+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, noting that while it took a lot of work, seeing the positive impact on the community was worth it.",
+        "score": 0.5923025819499788,
+        "id": "8c52c6e8-8f0f-4ee4-ae8d-d734fcd7cfd6",
+        "created_at": "2026-11-03T00:46:11.139442+00:00",
+        "updated_at": "2026-11-03T00:46:11.139442+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the significant effort worth it due to the positive impact on the community.",
+        "score": 0.5805677120647464,
+        "id": "9ee5c43f-9210-43a2-9b5c-c2871a944606",
+        "created_at": "2026-11-03T00:45:57.512537+00:00",
+        "updated_at": "2026-11-03T00:45:57.512537+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the impact on the community worth the hard work despite not being able to volunteer much lately.",
+        "score": 0.5791773960653199,
+        "id": "fe45fa05-a9e9-4921-9527-d4a02af6fa64",
+        "created_at": "2026-11-03T00:46:02.855260+00:00",
+        "updated_at": "2026-11-03T00:46:02.855260+00:00"
+      },
+      {
+        "memory": "John helped renovate a rundown community center back home in 2022, finding the hard work worthwhile because of its positive impact on the community.",
+        "score": 0.5755379986223389,
+        "id": "6c916fe9-47f4-4efc-9e8d-13465f6c67a1",
+        "created_at": "2026-11-03T00:46:19.143281+00:00",
+        "updated_at": "2026-11-03T00:46:19.143281+00:00"
+      },
+      {
+        "memory": "In 2022, John helped renovate a rundown community center back home, finding it worthwhile to see the impact on the community and noting how busy the center has become since everyone came together to help.",
+        "score": 0.5658453343116563,
+        "id": "f177fc61-fe8b-4b9a-8aae-aaf2029b9661",
+        "created_at": "2026-11-03T00:46:08.719299+00:00",
+        "updated_at": "2026-11-03T00:46:08.719299+00:00"
+      },
+      {
+        "memory": "Maria agreed to attend John's community meeting about the flood response and expressed enthusiasm for working together to improve their community.",
+        "score": 0.5509079763033916,
+        "id": "557ec298-edfb-4c98-8807-1d5804f74b93",
+        "created_at": "2026-11-03T00:41:23.249363+00:00",
+        "updated_at": "2026-11-03T00:41:23.249363+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around April 29, 2023, which led him to realize the importance of upgrading local infrastructure to ensure stable services for the community.",
+        "score": 0.5473308238579075,
+        "id": "10b39278-b76e-4e1d-947c-34b48060d141",
+        "created_at": "2026-11-03T00:29:40.944425+00:00",
+        "updated_at": "2026-11-03T00:29:40.944425+00:00"
+      }
+    ],
+    "search_latency_ms": 28.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The flood severely damaged the homes in John’s old area, ruining many of them due to poor infrastructure.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states that many homes were ruined, which matches the gold answer's core fact."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The flood caused significant damage to homes in John’s old area, ruining many of them due to poor infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that many homes were ruined, matching the gold answer's core fact."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The flood caused significant damage to homes in John’s old area, ruining many of them due to poor infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that many homes were ruined, matching the gold answer's core fact."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The flood caused significant damage to homes in John’s old area, ruining many of them due to poor infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that many homes were ruined, matching the gold answer's core fact."
+    }
+  }
+}

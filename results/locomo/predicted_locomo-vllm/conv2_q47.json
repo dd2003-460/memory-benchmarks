@@ -1,0 +1,193 @@
+{
+  "question_id": "conv2_q47",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What exercises has John done?",
+  "ground_truth_answer": "Weight training, Circuit training, Kickboxing, yoga",
+  "evidence": [
+    "D25:17",
+    "D25:13",
+    "D10:1",
+    "D1:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What exercises has John done?",
+    "search_results": [
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.6558033693220923,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.6558033693220923,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.6044114788603159,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "John describes how his family supports each other during boot camp by cheering on workouts and providing emotional support outside of exercise, which he finds amazing as they come together.",
+        "score": 0.5765618689202519,
+        "id": "32f1397c-0163-4f81-b7f9-23e2b7b569ce",
+        "created_at": "2026-11-03T00:28:22.278214+00:00",
+        "updated_at": "2026-11-03T00:28:22.278214+00:00"
+      },
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.32095716349117775,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.2548729352610021,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John is trying out different workout regimes and is interested in rock climbing as a way to push his limits.",
+        "score": 0.25370989478779293,
+        "id": "20a53785-229a-40a5-9d3f-3f19140f050b",
+        "created_at": "2026-11-03T00:33:10.482176+00:00",
+        "updated_at": "2026-11-03T00:33:10.482176+00:00"
+      },
+      {
+        "memory": "John is currently trying out different workout regimes and finds rock climbing appealing as a fun way to push his limits, though he has not yet tried it.",
+        "score": 0.24007712112598067,
+        "id": "dc83c0fc-1496-4dd5-88f3-10540e7d7788",
+        "created_at": "2026-11-03T00:33:49.900107+00:00",
+        "updated_at": "2026-11-03T00:33:49.900107+00:00"
+      },
+      {
+        "memory": "John is interested in trying rock climbing as a way to push his limits and is exploring different workout regimes.",
+        "score": 0.23777389588725764,
+        "id": "ce2f8215-df3b-4d61-bd52-9a729cbc56ee",
+        "created_at": "2026-11-03T00:32:56.336651+00:00",
+        "updated_at": "2026-11-03T00:32:56.336651+00:00"
+      },
+      {
+        "memory": "John is trying out different workout regimes and is interested in rock climbing as a way to push his physical limits.",
+        "score": 0.2338410978118503,
+        "id": "37fd5fc4-9924-46ce-bd65-f56448d59c7c",
+        "created_at": "2026-11-03T00:33:31.647988+00:00",
+        "updated_at": "2026-11-03T00:33:31.647988+00:00"
+      },
+      {
+        "memory": "John is interested in rock climbing as a way to push his limits and has been trying out different workout regimes lately.",
+        "score": 0.2331925940526199,
+        "id": "8f6bd735-60af-4bc4-bb02-b4a5f520ee08",
+        "created_at": "2026-11-03T00:33:17.580623+00:00",
+        "updated_at": "2026-11-03T00:33:17.580623+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.22871979059678105,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.22556300739029012,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.22556300739029012,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.2231853944098663,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.21381610122487665,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family on July 5, 2023, stating that they motivate him and remind him why he is doing his activism work.",
+        "score": 0.21164244538117302,
+        "id": "ddf645f8-4ce8-4477-bb40-1a39efdb549c",
+        "created_at": "2026-11-03T00:39:40.570797+00:00",
+        "updated_at": "2026-11-03T00:39:40.570797+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times.",
+        "score": 0.21061784481931922,
+        "id": "101fede8-6cfe-41da-8469-13a0f6687352",
+        "created_at": "2026-11-03T00:49:26.776427+00:00",
+        "updated_at": "2026-11-03T00:49:26.776427+00:00"
+      },
+      {
+        "memory": "John has extensive camping experience, describing it as an awesome way to get away from it all and be at one with nature due to its uncomplicated simplicity.",
+        "score": 0.20923490622505647,
+        "id": "b16f0514-2b0a-4eaf-ab92-3b1c140d0dec",
+        "created_at": "2026-11-03T00:32:38.023687+00:00",
+        "updated_at": "2026-11-03T00:32:38.023687+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.2090258450712584,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      }
+    ],
+    "search_latency_ms": 53.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done yoga, including stretching and breathing exercises, kickboxing, and weight training.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes several correct exercises from the gold answer, such as yoga, kickboxing, and weight training."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done yoga, kickboxing, weight training, and boot camp workouts, including stretching and breathing exercises.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes multiple correct items from the gold answer, specifically yoga, kickboxing, and weight training."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done yoga, kickboxing, weight training, and boot camp workouts, including stretching and breathing exercises.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes multiple correct items from the gold answer, specifically yoga, kickboxing, and weight training."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John has done yoga, kickboxing, weight training, and boot camp workouts, including stretching and breathing exercises.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes multiple correct items from the gold answer, specifically yoga, kickboxing, and weight training."
+    }
+  }
+}

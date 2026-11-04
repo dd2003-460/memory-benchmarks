@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q146",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What motivates Joanna to keep writing even on tough days?",
+  "ground_truth_answer": "Knowing that her writing can make a difference",
+  "evidence": [
+    "D18:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What motivates Joanna to keep writing even on tough days?",
+    "search_results": [
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.8567416483239553,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.837778508605672,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna finds writing and creative projects therapeutic, using them to get through tough times, and values her supportive friends who understand and appreciate her work.",
+        "score": 0.815473310597115,
+        "id": "5132c586-0f60-4ad0-a97e-7e08636c2285",
+        "created_at": "2026-11-03T03:07:46.805535+00:00",
+        "updated_at": "2026-11-03T03:07:46.805535+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.7762852806744539,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.7651952047461139,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6768760963896769,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.6527888941557868,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna has been busy with writing projects and describes the experience as a mix of highs and lows, noting that her journal is a major source of support and writing has become a huge part of her identity.",
+        "score": 0.6520077020876228,
+        "id": "977d0428-dc57-4506-8ad7-1177d153714a",
+        "created_at": "2026-11-03T03:13:32.621358+00:00",
+        "updated_at": "2026-11-03T03:13:32.621358+00:00"
+      },
+      {
+        "memory": "Joanna describes writing as an escape and a way to express her feelings, noting that it allows her to put thoughts down and create something positive, and she believes words have a magical way of healing.",
+        "score": 0.6310667533296574,
+        "id": "bdb48122-d007-4830-aa27-f61d2aa2ef09",
+        "created_at": "2026-11-03T03:13:05.480399+00:00",
+        "updated_at": "2026-11-03T03:13:05.480399+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps heal and create something positive from difficult emotions.",
+        "score": 0.630157456747988,
+        "id": "df5a5cf2-65ab-4d71-a019-7f6c5639f487",
+        "created_at": "2026-11-03T03:13:32.623734+00:00",
+        "updated_at": "2026-11-03T03:13:32.623734+00:00"
+      },
+      {
+        "memory": "Joanna describes her writing projects as a mix of highs and lows, noting that her journal serves as her 'rock' and that writing has become a huge part of her identity.",
+        "score": 0.6248002229976322,
+        "id": "e01dc961-5d08-4a74-a91c-6840c463436a",
+        "created_at": "2026-11-03T03:12:58.798088+00:00",
+        "updated_at": "2026-11-03T03:12:58.798088+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.6228148764142412,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.6219267429083576,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "Joanna writes an online blog where she shares stories about hard moments in her life, using writing as an escape and a way to express feelings and find healing.",
+        "score": 0.620451369915132,
+        "id": "949ed9db-97ed-4855-95ef-950f9e9ad63d",
+        "created_at": "2026-11-03T03:13:40.681079+00:00",
+        "updated_at": "2026-11-03T03:13:40.681079+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to have faith in himself and continue following his writing dreams, noting that the process is tough but worth it",
+        "score": 0.6139996475483769,
+        "id": "a8f1c443-1143-4049-b7ae-ad2088da6658",
+        "created_at": "2026-11-03T03:02:04.840287+00:00",
+        "updated_at": "2026-11-03T03:02:04.840287+00:00"
+      },
+      {
+        "memory": "Joanna described every day on set as awesome and full of potential, expressing that being able to show her vision is a rewarding experience.",
+        "score": 0.6104361760667374,
+        "id": "13a0adc0-bca7-44fe-88bf-7a9cf1f3502b",
+        "created_at": "2026-11-03T03:33:01.267811+00:00",
+        "updated_at": "2026-11-03T03:33:01.267811+00:00"
+      },
+      {
+        "memory": "Joanna is writing a book that explores themes of loss, redemption, and forgiveness through dialogue, describing it as a deep and emotional story she is excited about.",
+        "score": 0.6078451114219587,
+        "id": "9613e0fd-6fb4-4f1c-8efb-9bba91f5c644",
+        "created_at": "2026-11-03T03:12:39.639682+00:00",
+        "updated_at": "2026-11-03T03:12:39.639682+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.6073835022385496,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna keeps a journal which she describes as her 'rock' during the highs and lows of her busy writing projects.",
+        "score": 0.6073646326229203,
+        "id": "5dee9fd0-e872-4d95-9aa3-281877f0e305",
+        "created_at": "2026-11-03T03:13:20.712893+00:00",
+        "updated_at": "2026-11-03T03:13:20.712893+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.6041717884251375,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      }
+    ],
+    "search_latency_ms": 96.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is motivated to keep writing on tough days by the support and appreciation of friends who understand her work, the therapeutic value of writing itself, and especially knowing her writing helps others—such as a reader’s letter saying her blog post comforted them.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the core gold concept that Joanna is motivated by knowing her writing helps others and makes a difference."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is motivated to keep writing on tough days because she finds it therapeutic and views it as an escape that allows her to express her feelings and heal. She believes that putting her thoughts down helps her create something positive from difficult emotions. She also values the support of her friends who understand and appreciate her work, and is motivated by the impact her writing has on others, such as a reader who was comforted by her blog post.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the concept that her writing has an impact on others and comforts readers, which is a paraphrase of the gold answer's 'making a difference'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is motivated to keep writing on tough days because she finds it therapeutic and views it as an escape that allows her to express her feelings and heal. She also values the support of her friends who understand and appreciate her work, and her motivation was reinforced by receiving a letter from a reader who was comforted by her writing.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the specific detail that a reader was comforted by her writing, which semantically aligns with the gold answer's concept that her writing makes a difference."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is motivated to keep writing on tough days because she finds it therapeutic and views it as an escape that allows her to express her feelings and heal. She believes that putting her thoughts down helps her create something positive from difficult emotions. She also values the support of her friends who understand and appreciate her work, and is motivated by the impact her writing has on others, such as a reader who was comforted by her blog post.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the concept that her writing has an impact on others and comforts readers, which is a paraphrase of the gold answer's 'making a difference'."
+    }
+  }
+}

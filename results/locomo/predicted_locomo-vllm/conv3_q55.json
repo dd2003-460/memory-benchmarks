@@ -1,0 +1,195 @@
+{
+  "question_id": "conv3_q55",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What is Joanna inspired by?",
+  "ground_truth_answer": "Personal experiences,her own journey ofself discovery, Nate,nature, validation,stories about findingcourage and takingrisks, people she knows, stuff she sees, imagination",
+  "evidence": [
+    "D4:6",
+    "D7:6",
+    "D11:11",
+    "D26:3",
+    "D26:7",
+    "D25:10"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Joanna inspired by?",
+    "search_results": [
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she has seen, and her own imagination, finding it cool to see how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.7306223332686803,
+        "id": "dc413a00-87fe-4433-94d0-e3f41eeda790",
+        "created_at": "2026-11-03T03:25:06.488661+00:00",
+        "updated_at": "2026-11-03T03:25:06.488661+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.7273162142294195,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna finds it rewarding to see how an idea takes shape into a person with their own wants, worries, and wishes, drawing inspiration for her characters from people she knows, things she sees, and her imagination.",
+        "score": 0.7034172321182289,
+        "id": "72ee7da9-8bb3-4786-bfec-346425d1f715",
+        "created_at": "2026-11-03T03:24:41.840834+00:00",
+        "updated_at": "2026-11-03T03:24:41.840834+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.6800831899820468,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches and visual drawings to help bring her characters alive in her head, which she uses as a tool to write better. She draws inspiration for these characters from people she knows, things she sees, and her imagination.",
+        "score": 0.6638800101612342,
+        "id": "730beb6b-31ba-48da-b1ac-82e1e52b4303",
+        "created_at": "2026-11-03T03:24:58.329719+00:00",
+        "updated_at": "2026-11-03T03:24:58.329719+00:00"
+      },
+      {
+        "memory": "Joanna enjoys watching dramas and emotionally-driven films, which she cites as a source of inspiration for her writing.",
+        "score": 0.6595412998724836,
+        "id": "4230cb43-c4eb-49cb-9acb-35ef459bb422",
+        "created_at": "2026-11-03T03:04:37.017043+00:00",
+        "updated_at": "2026-11-03T03:04:37.017043+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and its notable past residents, noting that it is different from her previous work but has potential to be something awesome.",
+        "score": 0.6581892748589537,
+        "id": "29c7cf57-3134-4e73-a6cb-4f164cffd2fd",
+        "created_at": "2026-11-03T03:12:34.851897+00:00",
+        "updated_at": "2026-11-03T03:12:34.851897+00:00"
+      },
+      {
+        "memory": "Joanna is working on a challenging but fulfilling project in addition to her recent producer meetings, which she found validating and inspiring.",
+        "score": 0.6533945408387486,
+        "id": "976396c6-87dc-4918-949f-98b8c7fd5dbb",
+        "created_at": "2026-11-03T03:26:24.066841+00:00",
+        "updated_at": "2026-11-03T03:26:24.066841+00:00"
+      },
+      {
+        "memory": "Joanna believes that taking breaks and looking after herself are important for maintaining her inspiration and mental health, emphasizing the need for balance",
+        "score": 0.650866060650494,
+        "id": "0b7fcc5b-2301-471d-9357-6c73c5588c13",
+        "created_at": "2026-11-03T03:14:40.198405+00:00",
+        "updated_at": "2026-11-03T03:14:40.198405+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6490400100820708,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna felt validated by being taken seriously during her producer meetings and described feeling hopeful and inspired about the future of her creative projects.",
+        "score": 0.6476561438847296,
+        "id": "f37eacd8-9107-47d2-8fad-81051bfcb014",
+        "created_at": "2026-11-03T03:25:47.688056+00:00",
+        "updated_at": "2026-11-03T03:25:47.688056+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board in her room filled with inspiring quotes and pictures that serve as her corner of motivation and creativity",
+        "score": 0.6472307521762215,
+        "id": "dfa7eeb8-ef94-4111-8029-243121cc46d3",
+        "created_at": "2026-11-03T03:10:25.137009+00:00",
+        "updated_at": "2026-11-03T03:10:25.137009+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new script inspired by the history of Woodhaven and the changes it has undergone, noting that this project is different from her previous work but has great potential.",
+        "score": 0.6445049597256708,
+        "id": "b8071fac-7a98-4cdf-b673-ce5d05dd9da0",
+        "created_at": "2026-11-03T03:12:29.473780+00:00",
+        "updated_at": "2026-11-03T03:12:29.473780+00:00"
+      },
+      {
+        "memory": "Joanna maintains a cork board filled with inspiring quotes and pictures that serves as her personal corner of motivation and creativity",
+        "score": 0.6418818465441289,
+        "id": "3720528f-b4a0-4b4e-ad67-f348f4c2b69d",
+        "created_at": "2026-11-03T03:10:19.029652+00:00",
+        "updated_at": "2026-11-03T03:10:19.029652+00:00"
+      },
+      {
+        "memory": "Joanna joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which made her feel motivated and like she finally belongs somewhere",
+        "score": 0.6393641738042979,
+        "id": "02ee203f-d412-43ad-8ae2-d3fd64dc7987",
+        "created_at": "2026-11-03T03:04:12.598846+00:00",
+        "updated_at": "2026-11-03T03:04:12.598846+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6366409884365598,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna is excited about her new script inspired by Woodhaven, noting that it is different from her previous work but has the potential to be something awesome, and she plans to keep Nate posted on its progress.",
+        "score": 0.6333788093270347,
+        "id": "6a3dd29d-e443-4bd7-babb-0d73959dc896",
+        "created_at": "2026-11-03T03:12:17.134694+00:00",
+        "updated_at": "2026-11-03T03:12:17.134694+00:00"
+      },
+      {
+        "memory": "Joanna has learned that taking breaks and looking after herself are important for her inspiration and mental health, emphasizing the need to find balance in her life.",
+        "score": 0.6324699055594641,
+        "id": "6f05dbc2-4c5a-42d3-9702-43350d9be474",
+        "created_at": "2026-11-03T03:14:22.601768+00:00",
+        "updated_at": "2026-11-03T03:14:22.601768+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.393426213795666,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.34318339034293766,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      }
+    ],
+    "search_latency_ms": 37.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by books and magazines—especially from her go-to bookshelf, dramas and emotionally-driven films, the history of Woodhaven and its notable past residents, people she knows, things she sees, her imagination, her producer meetings, and a story about a brave little turtle she read at age 10.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes several gold items, such as people she knows, things she sees, and her imagination."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by books and magazines on her bookshelf; dramas and emotionally driven films; her writers group, other female writers, and friends who understand and appreciate her work; the inspiring quotes and pictures on her cork board; the history of Woodhaven, its changes, and its notable past residents; the success of her movie; people she knows, things she sees, and her imagination; the validation and hope she felt from being taken seriously in producer meetings; and a story about a brave little turtle she read at age 10. She also says taking breaks and looking after herself help maintain her inspiration.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes several gold items, such as people she knows, things she sees, imagination, and validation."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by books and magazines on her bookshelf; dramas and emotionally-driven films; her writers group/writing club, including supportive members and other female writers; friends who understand and appreciate her writing; the inspiring quotes and pictures on her cork board; the history of Woodhaven, its changes, and its notable past residents; the success of her movie; people she knows, things she sees, and her imagination; taking breaks and looking after herself; being taken seriously in producer meetings; and a",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer items 'people she knows,' 'things she sees,' and 'her imagination,' so it receives partial credit."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is inspired by books and magazines on her bookshelf; dramas and emotionally-driven films; her writers group/writing club, including supportive members and other female writers; friends who understand and appreciate her writing; the inspiring quotes and pictures on her cork board; the history of Woodhaven, its changes, and its notable past residents; the success of her movie; people she knows, things she sees, and her imagination; taking breaks and looking after herself; being taken seriously in producer meetings; and a",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer items 'people she knows,' 'things she sees,' and 'her imagination,' so it receives partial credit."
+    }
+  }
+}

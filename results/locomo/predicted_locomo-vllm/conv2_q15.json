@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q15",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What writing classes has Maria taken?",
+  "ground_truth_answer": "Poetry, creative writing",
+  "evidence": [
+    "D9:1",
+    "D7:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What writing classes has Maria taken?",
+    "search_results": [
+      {
+        "memory": "A resident named Cindy at the shelter where Maria volunteers wrote a handwritten thank you note expressing heartfelt gratitude for the support received, which Maria shared as evidence of the impact of her work.",
+        "score": 0.7120812085333643,
+        "id": "0b0b9a00-f09c-4796-b74f-eb6b71a70663",
+        "created_at": "2026-11-03T00:45:16.521123+00:00",
+        "updated_at": "2026-11-03T00:45:16.521123+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a handwritten thank-you note expressing heartfelt gratitude for the support received, which Maria shared on August 3, 2023.",
+        "score": 0.7026586283299993,
+        "id": "2dfa8ad9-875b-4e79-97bb-812603d157b4",
+        "created_at": "2026-11-03T00:44:53.526971+00:00",
+        "updated_at": "2026-11-03T00:44:53.526971+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote her a handwritten thank-you note expressing heartfelt gratitude for the support they receive.",
+        "score": 0.7021217819331447,
+        "id": "0e86e5b3-3b0d-430d-b9ea-a07d139733fa",
+        "created_at": "2026-11-03T00:44:59.848863+00:00",
+        "updated_at": "2026-11-03T00:44:59.848863+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.6903917810321009,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.6871057523539722,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.683775174685638,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "A resident named Cindy wrote Maria a handwritten thank you note expressing heartfelt gratitude for the support received at the shelter.",
+        "score": 0.5670462069094145,
+        "id": "8592b30a-e4cd-4e4e-9002-950085164c5d",
+        "created_at": "2026-11-03T00:45:12.563880+00:00",
+        "updated_at": "2026-11-03T00:45:12.563880+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.5246441479995134,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "As of early May 2023, Maria is going through a rough period in life but is managing by taking time to reflect and find balance.",
+        "score": 0.5245655052088711,
+        "id": "9c750c66-d8c4-4481-b79f-13e82a59ce42",
+        "created_at": "2026-11-03T00:29:36.417387+00:00",
+        "updated_at": "2026-11-03T00:29:36.417387+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.5236980513012158,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.5236980513012158,
+        "id": "c27435e1-2255-4694-a24d-78870c326663",
+        "created_at": "2026-11-03T00:40:23.101472+00:00",
+        "updated_at": "2026-11-03T00:40:23.101472+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she notes has made a big impact on her well-being and ability to detach from life's craziness.",
+        "score": 0.5186064748003272,
+        "id": "7221bd37-d957-4026-8adc-4b317699e0ed",
+        "created_at": "2026-11-03T00:40:15.663430+00:00",
+        "updated_at": "2026-11-03T00:40:15.663430+00:00"
+      },
+      {
+        "memory": "Maria finds balance in her life by taking care of herself physically, emotionally, and mentally through exercise, music, and spending time with loved ones, which helps her stay positive",
+        "score": 0.5167309862529985,
+        "id": "26a922f5-5f00-479b-947d-e8d00ee34c63",
+        "created_at": "2026-11-03T00:28:37.045766+00:00",
+        "updated_at": "2026-11-03T00:28:37.045766+00:00"
+      },
+      {
+        "memory": "Maria learned the hard way in 2022 that taking care of oneself is essential for being strong during life's tough times, a lesson reinforced by her experience with balance and well-being.",
+        "score": 0.5155549999442661,
+        "id": "274e67e4-bdfb-4c3c-843c-c8226f486a7c",
+        "created_at": "2026-11-03T00:28:40.929706+00:00",
+        "updated_at": "2026-11-03T00:28:40.929706+00:00"
+      },
+      {
+        "memory": "Maria maintains balance in her life by taking care of herself physically, emotionally, and mentally through exercise, music, and spending time with loved ones to stay positive.",
+        "score": 0.5152222752149213,
+        "id": "bd2df52b-d046-4699-bb33-948af9837e47",
+        "created_at": "2026-11-03T00:28:43.736848+00:00",
+        "updated_at": "2026-11-03T00:28:43.736848+00:00"
+      },
+      {
+        "memory": "Maria described life as being a bit rough around May 6, 2023, but stated she is doing alright by taking time to reflect and find balance.",
+        "score": 0.5127449097283281,
+        "id": "7671bd99-b8a5-4b68-a0c1-812bdc2c3154",
+        "created_at": "2026-11-03T00:29:49.976240+00:00",
+        "updated_at": "2026-11-03T00:29:49.976240+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.5038641819573021,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.5038641819573021,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.5001499888476084,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.49988193154171523,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      }
+    ],
+    "search_latency_ms": 73.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories show Maria taking regular “me-time” walks at a nearby park and volunteering at a homeless shelter, not writing classes.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer does not mention poetry or creative writing and instead states Maria did not take writing classes."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No writing classes are supported by the memories; the memories show Maria engaging in exercise, music, park walks, homeless-shelter volunteering, and church community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer denies any writing classes and does not mention poetry or creative writing, so it contains no correct gold items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No writing classes are supported by the memories; the memories show Maria engaging in exercise, music, park walks, homeless-shelter volunteering, and church community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer denies any writing classes and does not mention poetry or creative writing, so it contains no correct gold items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No writing classes are supported by the memories; the memories show Maria engaging in exercise, music, park walks, homeless-shelter volunteering, and church community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer denies any writing classes and does not mention poetry or creative writing, so it contains no correct gold items."
+    }
+  }
+}

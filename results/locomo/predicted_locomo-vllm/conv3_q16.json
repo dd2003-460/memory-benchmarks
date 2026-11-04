@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q16",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "What physical transformation did Nate undergo in April 2022?",
+  "ground_truth_answer": "dyed his hair purple",
+  "evidence": [
+    "D7:1",
+    "D7:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What physical transformation did Nate undergo in April 2022?",
+    "search_results": [
+      {
+        "memory": "Nate won his second gaming tournament the week of April 25, 2022, and has been focusing on practicing a lot to improve his skills.",
+        "score": 0.7764745243228403,
+        "id": "a49e0c06-9b65-4291-8d4c-58082b3c3714",
+        "created_at": "2026-11-03T03:05:15.625525+00:00",
+        "updated_at": "2026-11-03T03:05:15.625525+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.770513077109516,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.7607204557600374,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.7595864342080743,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets",
+        "score": 0.5041005719072287,
+        "id": "e0393ced-a07a-4c03-bd21-093d3754d8ac",
+        "created_at": "2026-11-03T03:14:40.193337+00:00",
+        "updated_at": "2026-11-03T03:14:40.193337+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, which he described as a wild success that allows him to make a living at his passion for gaming.",
+        "score": 0.4968326589059709,
+        "id": "6b9d6a50-5f40-4070-82bb-2232ece263b2",
+        "created_at": "2026-11-03T03:14:15.508117+00:00",
+        "updated_at": "2026-11-03T03:14:15.508117+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets.",
+        "score": 0.49533980557964963,
+        "id": "ac7eb7e5-83f8-4337-aa5c-0b61db24594a",
+        "created_at": "2026-11-03T03:14:15.518338+00:00",
+        "updated_at": "2026-11-03T03:14:15.518338+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party on June 17, 2022 (two weekends after June 3, 2022), and anticipates the event will be hectic but fun.",
+        "score": 0.49138347769438323,
+        "id": "d1da9b87-9215-41c3-82aa-6d6354880ef9",
+        "created_at": "2026-11-03T03:09:34.648166+00:00",
+        "updated_at": "2026-11-03T03:09:34.648166+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.48231128578758786,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.48033259168686515,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.4786137425677234,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.4786137425677234,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' around October 9, 2022, and was impressed by its plot twists and dream sequences.",
+        "score": 0.4738081362410075,
+        "id": "3587ea35-7b0c-4fcc-aea1-9f77dafea0b6",
+        "created_at": "2026-11-03T03:21:53.161015+00:00",
+        "updated_at": "2026-11-03T03:21:53.161015+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.4708984021055608,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.46882898182490795,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop as of October 9, 2022, praising its futuristic setting and gameplay.",
+        "score": 0.4536502286755547,
+        "id": "976f7861-d003-4c41-b084-df944f8f8b23",
+        "created_at": "2026-11-03T03:21:53.166096+00:00",
+        "updated_at": "2026-11-03T03:21:53.166096+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.4484353741420544,
+        "id": "db581681-c9fe-43e6-bed8-0ae2d0d7a53a",
+        "created_at": "2026-11-03T03:11:22.968659+00:00",
+        "updated_at": "2026-11-03T03:11:22.968659+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.44768998918795655,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate is providing custom controller decorations as a gift for everyone attending his gaming party on June 17, 2022.",
+        "score": 0.4472904640087453,
+        "id": "35432357-8e80-4626-9729-b07bf30150c2",
+        "created_at": "2026-11-03T03:09:43.342913+00:00",
+        "updated_at": "2026-11-03T03:09:43.342913+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa on November 10, 2022, stating that they bring him peace in the craziness of life.",
+        "score": 0.43651288223650936,
+        "id": "39860416-06bf-4b9e-ae67-5dbd3147d950",
+        "created_at": "2026-11-03T03:33:01.275380+00:00",
+        "updated_at": "2026-11-03T03:33:01.275380+00:00"
+      }
+    ],
+    "search_latency_ms": 112.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate dyed his hair purple.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer by stating that Nate dyed his hair purple."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate dyed his hair purple.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating that Nate dyed his hair purple."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate dyed his hair purple.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating that Nate dyed his hair purple."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate dyed his hair purple.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating that Nate dyed his hair purple."
+    }
+  }
+}

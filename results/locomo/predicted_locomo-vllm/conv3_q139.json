@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q139",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What specific themes are explored in Joanna's new book?",
+  "ground_truth_answer": "loss, redemption, and forgiveness",
+  "evidence": [
+    "D17:16"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What specific themes are explored in Joanna's new book?",
+    "search_results": [
+      {
+        "memory": "Joanna is writing a book that explores themes of loss, redemption, and forgiveness through dialogue, describing it as a deep and emotional story she is excited about.",
+        "score": 0.7135982536449835,
+        "id": "9613e0fd-6fb4-4f1c-8efb-9bba91f5c644",
+        "created_at": "2026-11-03T03:12:39.639682+00:00",
+        "updated_at": "2026-11-03T03:12:39.639682+00:00"
+      },
+      {
+        "memory": "The book Joanna is writing explores themes of loss, redemption, and forgiveness through dialogue, described as a deep and emotional story.",
+        "score": 0.7086064708641909,
+        "id": "278d2945-d2b3-41ba-9ab2-05afd6c4e643",
+        "created_at": "2026-11-03T03:12:55.208344+00:00",
+        "updated_at": "2026-11-03T03:12:55.208344+00:00"
+      },
+      {
+        "memory": "Joanna found the themes of sisterhood, love, and chasing dreams in 'Little Women' particularly resonant and meaningful to her personal experience.",
+        "score": 0.680887180757329,
+        "id": "ad69ad6f-e7eb-448a-a2cf-12366929b111",
+        "created_at": "2026-11-03T03:19:55.058039+00:00",
+        "updated_at": "2026-11-03T03:19:55.058039+00:00"
+      },
+      {
+        "memory": "Joanna found the themes of sisterhood, love, and chasing dreams in 'Little Women' particularly resonant and spoke to her personally.",
+        "score": 0.6790750105531616,
+        "id": "6e5abe10-46f8-46ae-b19f-fb83b6a42744",
+        "created_at": "2026-11-03T03:20:10.709299+00:00",
+        "updated_at": "2026-11-03T03:20:10.709299+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.677280671862744,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna's exploration of Woodhaven's interesting past and how the town changed over time sparked ideas for her next script, which she describes as different from her previous work but with potential to be something awesome.",
+        "score": 0.6716648414574691,
+        "id": "fe8c56cd-8948-4ca6-a157-f03db376fc7b",
+        "created_at": "2026-11-03T03:12:21.943758+00:00",
+        "updated_at": "2026-11-03T03:12:21.943758+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.667979239728176,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.6640444005813275,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna watched the movie 'Little Women' and found it deeply resonant, appreciating how well it explored themes of sisterhood, love, and chasing dreams.",
+        "score": 0.6612437365669664,
+        "id": "417f3e2f-b74b-47cc-b4f8-e7aaa67ec377",
+        "created_at": "2026-11-03T03:19:18.830641+00:00",
+        "updated_at": "2026-11-03T03:19:18.830641+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.6568037297944381,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna has never published a book before and is considering this new project, which explores themes of loss, redemption, and forgiveness, as her first attempt at publishing.",
+        "score": 0.6486973893152019,
+        "id": "76ac095e-f0f4-4ec7-88c2-acf05f2b4688",
+        "created_at": "2026-11-03T03:12:44.903157+00:00",
+        "updated_at": "2026-11-03T03:12:44.903157+00:00"
+      },
+      {
+        "memory": "Joanna believes meaningful stories come from personal experiences and feelings, finding that she writes best when being true to herself even if it requires vulnerability and exploring difficult topics like sadness and loss.",
+        "score": 0.646821504081297,
+        "id": "2d96f1aa-fa59-49b7-b4a1-833adc9a6cb5",
+        "created_at": "2026-11-03T03:07:46.815181+00:00",
+        "updated_at": "2026-11-03T03:07:46.815181+00:00"
+      },
+      {
+        "memory": "Nate recommends a fantasy book series to Joanna, describing it as having adventures, magic, and great characters, and considers it a must-read; he shared a photo of the books on April 21, 2022.",
+        "score": 0.6432589124243087,
+        "id": "42245749-ea09-4b25-9519-016b2aa1ebe6",
+        "created_at": "2026-11-03T03:04:51.141916+00:00",
+        "updated_at": "2026-11-03T03:04:51.141916+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope when she is feeling down or in a specific mood.",
+        "score": 0.6350875917571158,
+        "id": "04dd58e3-da0c-466e-a5c4-532311b687c4",
+        "created_at": "2026-11-03T03:15:37.921989+00:00",
+        "updated_at": "2026-11-03T03:15:37.921989+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.6332197622019189,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna has been reading a lot in the week preceding April 17, 2022, rediscovering and enjoying several good books she had forgotten she owned",
+        "score": 0.6327214011499984,
+        "id": "26ccb71f-43c5-4638-9cff-0351385c1f11",
+        "created_at": "2026-11-03T03:02:59.068229+00:00",
+        "updated_at": "2026-11-03T03:02:59.068229+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches in a drawing book to help visualize her characters and bring them alive in her head, which aids her writing process.",
+        "score": 0.6277013413727508,
+        "id": "3a9c6c55-ecfa-41bd-a36d-3a76e9efe153",
+        "created_at": "2026-11-03T03:24:52.409212+00:00",
+        "updated_at": "2026-11-03T03:24:52.409212+00:00"
+      },
+      {
+        "memory": "Joanna creates visual character sketches in a drawing book to help bring her characters alive in her mind, which she uses as a tool to write better dialogue and develop their personalities.",
+        "score": 0.6261613926409682,
+        "id": "eea87060-5259-4b4f-b8b9-c1d5e9943920",
+        "created_at": "2026-11-03T03:24:38.024659+00:00",
+        "updated_at": "2026-11-03T03:24:38.024659+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.6257128261132267,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Joanna found a book from the 1900s containing stories and sketches about Woodhaven, which she described as super cool and inspiring for her next script.",
+        "score": 0.6246374714314828,
+        "id": "0d335feb-d1ae-402e-9d46-a01b5b6df399",
+        "created_at": "2026-11-03T03:12:34.849160+00:00",
+        "updated_at": "2026-11-03T03:12:34.849160+00:00"
+      }
+    ],
+    "search_latency_ms": 88.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "loss, redemption, and forgiveness",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's themes."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "loss, redemption, and forgiveness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's themes."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "loss, redemption, and forgiveness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's themes."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "loss, redemption, and forgiveness",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's themes."
+    }
+  }
+}

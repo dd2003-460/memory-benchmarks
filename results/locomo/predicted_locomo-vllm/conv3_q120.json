@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q120",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What creative activity does Nate joke about pursuing after being inspired by their hikes with Jo?",
+  "ground_truth_answer": "Start thinking about a drama and publish a screenplay",
+  "evidence": [
+    "D11:16"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What creative activity does Nate joke about pursuing after being inspired by their hikes with Jo?",
+    "search_results": [
+      {
+        "memory": "Joanna stated that being in cool places like hiking trails makes her feel inspired enough to write a whole movie or drama, distinguishing this creative surge from Nate's tendency to think about life or new recipes.",
+        "score": 0.766645674579668,
+        "id": "08e54bce-eea0-4a47-8305-49e3eeafc974",
+        "created_at": "2026-11-03T03:06:34.371833+00:00",
+        "updated_at": "2026-11-03T03:06:34.371833+00:00"
+      },
+      {
+        "memory": "Nate expressed a new intention to start thinking of a drama and publish his own screenplay, inspired by Joanna's creative experiences while hiking.",
+        "score": 0.6558362849400786,
+        "id": "a7f21fc2-46f4-4204-a7f7-4a88ef59b4a4",
+        "created_at": "2026-11-03T03:06:40.035300+00:00",
+        "updated_at": "2026-11-03T03:06:40.035300+00:00"
+      },
+      {
+        "memory": "Nate mentioned that when he is out in nature, he gets deep in thought about his life or new recipes, contrasting with Joanna's creative writing inspiration.",
+        "score": 0.6500063749609756,
+        "id": "ccc48f20-8100-4988-8d06-289fa5e9f665",
+        "created_at": "2026-11-03T03:06:45.451596+00:00",
+        "updated_at": "2026-11-03T03:06:45.451596+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.6124445681312912,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.6051826229663956,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Nate is not really into hiking but expressed curiosity about seeing what Joanna's trail looks like, and mentioned hearing about a nice trail just north of where he lives",
+        "score": 0.5975321671435782,
+        "id": "7a46f9ff-3a02-4d8d-9831-3a12ecccafdf",
+        "created_at": "2026-11-03T03:03:15.901351+00:00",
+        "updated_at": "2026-11-03T03:03:15.901351+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.5686971609968573,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming while connecting with other enthusiasts.",
+        "score": 0.4987588670959152,
+        "id": "7030d9ff-f80e-4e4e-9bf4-41ce73353bad",
+        "created_at": "2026-11-03T03:31:26.581866+00:00",
+        "updated_at": "2026-11-03T03:31:26.581866+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.4968255839799208,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in starting his own cork board after seeing Joanna's, viewing it as a valuable way to stay motivated and inspired.",
+        "score": 0.4662754707528382,
+        "id": "e94e9c8b-db13-4ae9-a945-de021962d438",
+        "created_at": "2026-11-03T03:10:43.264475+00:00",
+        "updated_at": "2026-11-03T03:10:43.264475+00:00"
+      },
+      {
+        "memory": "Nate is passionate about gaming and was helping friends reset their high scores at an international tournament around November 4, 2022, finding the experience fun and rewarding.",
+        "score": 0.31898885372941427,
+        "id": "1f1a0f15-9120-478f-bedd-f74392d0604d",
+        "created_at": "2026-11-03T03:26:54.964772+00:00",
+        "updated_at": "2026-11-03T03:26:54.964772+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.3126651237758843,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.31243258602456764,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna to use for encouragement, stating that encouragement is what got him so far in his gaming career.",
+        "score": 0.23881683413201546,
+        "id": "a3f4f782-7899-47a0-9885-c8bfad47c1ea",
+        "created_at": "2026-11-03T03:20:10.713436+00:00",
+        "updated_at": "2026-11-03T03:20:10.713436+00:00"
+      },
+      {
+        "memory": "Nate has pets that he takes to the park, and he finds their happy faces memorable, describing a recent trip to the park with them as a special day",
+        "score": 0.234113957671161,
+        "id": "0a4426fd-dabe-4d2f-b7ff-af059804174d",
+        "created_at": "2026-11-03T03:29:49.160223+00:00",
+        "updated_at": "2026-11-03T03:29:49.160223+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna as a source of encouragement, noting that his own gaming career was built on encouragement from others.",
+        "score": 0.22811457109427713,
+        "id": "2cfdf6f4-c8b0-491c-bb88-248885a41c9a",
+        "created_at": "2026-11-03T03:20:27.570976+00:00",
+        "updated_at": "2026-11-03T03:20:27.570976+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.2232234882181166,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.22263586578437825,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a whiteboard with motivational quotes, arrows, and words with Joanna on October 6, 2022, as a gesture of support for her goals.",
+        "score": 0.22078396349869686,
+        "id": "f6a63be5-6e15-4fdc-bedc-d0a3341799ec",
+        "created_at": "2026-11-03T03:19:49.798536+00:00",
+        "updated_at": "2026-11-03T03:19:49.798536+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.219426308057704,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      }
+    ],
+    "search_latency_ms": 72.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Writing and publishing his own screenplay, specifically a drama/movie.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies Nate's joke about writing and publishing a drama screenplay, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Writing and publishing his own screenplay, specifically about a drama.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying Nate's joke about writing and publishing a drama screenplay."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Writing and publishing his own screenplay, specifically a drama/movie.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies Nate's joke about writing and publishing a drama screenplay, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Writing and publishing his own screenplay, specifically a drama.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying writing and publishing a drama screenplay."
+    }
+  }
+}

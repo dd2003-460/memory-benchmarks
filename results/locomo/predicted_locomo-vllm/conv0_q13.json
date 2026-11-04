@@ -1,0 +1,50 @@
+{
+  "question_id": "conv0_q13",
+  "conversation_idx": 0,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What career path has Caroline decided to persue?",
+  "ground_truth_answer": "counseling or mental health for Transgender people",
+  "evidence": [
+    "D4:13",
+    "D1:11"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What career path has Caroline decided to persue?",
+    "search_results": [],
+    "search_latency_ms": 44.0,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her career path.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about Caroline's career path, failing to provide the correct answer found in the gold standard."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her career path.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about Caroline's career path, failing to provide the correct answer found in the gold standard."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her career path.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer claims there is no information about Caroline's career path, whereas the gold answer specifies a career in counseling or mental health for transgender people, meaning the generated answer contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or her career path.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states that there is no information about Caroline's career path, failing to provide the correct answer found in the gold standard."
+    }
+  }
+}

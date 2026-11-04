@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q121",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Who invited Nate to join her on the trails sometime?",
+  "ground_truth_answer": "Joanna",
+  "evidence": [
+    "D11:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Who invited Nate to join her on the trails sometime?",
+    "search_results": [
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.7377769201938145,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate is not really into hiking but expressed curiosity about seeing what Joanna's trail looks like, and mentioned hearing about a nice trail just north of where he lives",
+        "score": 0.6842738187162302,
+        "id": "7a46f9ff-3a02-4d8d-9831-3a12ecccafdf",
+        "created_at": "2026-11-03T03:03:15.901351+00:00",
+        "updated_at": "2026-11-03T03:03:15.901351+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.6602451222638662,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.6389109810012388,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.6327593522005205,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.6295684743114773,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.6266176398722781,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party in mid-June 2022, two weekends after June 3, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.6223385619074352,
+        "id": "be3c86f2-6d34-48e1-a989-2be2a45dd5a2",
+        "created_at": "2026-11-03T03:09:48.753824+00:00",
+        "updated_at": "2026-11-03T03:09:48.753824+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.6218132905587673,
+        "id": "3ffff6c6-5368-4618-a41c-1e20a47e8a8d",
+        "created_at": "2026-11-03T03:09:52.150987+00:00",
+        "updated_at": "2026-11-03T03:09:52.150987+00:00"
+      },
+      {
+        "memory": "Joanna stated that being in cool places like hiking trails makes her feel inspired enough to write a whole movie or drama, distinguishing this creative surge from Nate's tendency to think about life or new recipes.",
+        "score": 0.6112425932133488,
+        "id": "08e54bce-eea0-4a47-8305-49e3eeafc974",
+        "created_at": "2026-11-03T03:06:34.371833+00:00",
+        "updated_at": "2026-11-03T03:06:34.371833+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.6083937800633371,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream after he invited her over.",
+        "score": 0.6075042560933082,
+        "id": "9b7af8ca-5c8e-467a-bcb5-ce8a714d537b",
+        "created_at": "2026-11-03T03:26:44.002052+00:00",
+        "updated_at": "2026-11-03T03:26:44.002052+00:00"
+      },
+      {
+        "memory": "Nate is considering joining a new gaming team after his next tournament, having received several offers but not yet decided, viewing the move as a significant step and a desired shake-up in his career.",
+        "score": 0.6057694227748783,
+        "id": "e5c23ff2-2d3b-4540-80bc-f5b4b6df4663",
+        "created_at": "2026-11-03T03:30:20.377923+00:00",
+        "updated_at": "2026-11-03T03:30:20.377923+00:00"
+      },
+      {
+        "memory": "Nate participated in a gaming tournament around early November 2022 but did not make it to the finals, and he is considering joining a new gaming team after his next tournament based on several offers he has received.",
+        "score": 0.6034866442641007,
+        "id": "826340bd-3d03-437e-953b-2151cf604cca",
+        "created_at": "2026-11-03T03:30:44.510122+00:00",
+        "updated_at": "2026-11-03T03:30:44.510122+00:00"
+      },
+      {
+        "memory": "Nate is considering joining a new gaming team after his next tournament, having received a few offers, and views this as a big step and shake-up he is ready for.",
+        "score": 0.599279321222154,
+        "id": "7c697174-e7ad-4b76-9aea-a27ed5962ba0",
+        "created_at": "2026-11-03T03:30:37.347831+00:00",
+        "updated_at": "2026-11-03T03:30:37.347831+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.2768325247368881,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.27675199429482844,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "Seven people attended Nate's gaming party, and six of them said they would want to do it again next month",
+        "score": 0.2678849479508319,
+        "id": "7d7a02f1-6397-4c10-ab50-7ea4a093f655",
+        "created_at": "2026-11-03T03:11:10.688179+00:00",
+        "updated_at": "2026-11-03T03:11:10.688179+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.26632498903028773,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.25930144120745346,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      }
+    ],
+    "search_latency_ms": 73.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

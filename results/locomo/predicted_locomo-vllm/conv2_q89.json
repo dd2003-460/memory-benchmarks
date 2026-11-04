@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q89",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did John start blogging about politics and policies?",
+  "ground_truth_answer": "raise awareness and start conversations to create positive change",
+  "evidence": [
+    "D12:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why did John start blogging about politics and policies?",
+    "search_results": [
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.7102461102572011,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John has been blogging about politics and the government since their last conversation, finding the experience satisfying and driven by a desire to make a real impact on issues like education and infrastructure.",
+        "score": 0.7023352788937911,
+        "id": "a5253421-11a5-4753-b2c5-a720cefcb00a",
+        "created_at": "2026-11-03T00:27:00.171005+00:00",
+        "updated_at": "2026-11-03T00:27:00.171005+00:00"
+      },
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.6850181168864852,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John has received positive feedback on his political blog posts, which he views as a small but meaningful step toward making an impact on community issues like education and infrastructure.",
+        "score": 0.6490309448059751,
+        "id": "4d88bc6e-ad4e-4dc0-865f-83743bac7ffa",
+        "created_at": "2026-11-03T00:27:18.417988+00:00",
+        "updated_at": "2026-11-03T00:27:18.417988+00:00"
+      },
+      {
+        "memory": "John is currently focusing his political blogging on education reform and infrastructure development, believing that good access to quality education and updated infrastructure are key to a thriving community.",
+        "score": 0.642346481698205,
+        "id": "96f1bfee-baf6-4439-a40d-c5d61813f1cd",
+        "created_at": "2026-11-03T00:27:11.431386+00:00",
+        "updated_at": "2026-11-03T00:27:11.431386+00:00"
+      },
+      {
+        "memory": "John has been writing blog posts about his work, including one on education reform, and has received good feedback on them so far.",
+        "score": 0.6121888621203697,
+        "id": "1e16aa1f-8e48-4aaf-8f58-4d2be74967c7",
+        "created_at": "2026-11-03T00:27:34.296472+00:00",
+        "updated_at": "2026-11-03T00:27:34.296472+00:00"
+      },
+      {
+        "memory": "John writes blog posts about education reform and has received good feedback on them so far, viewing his work as a small but meaningful step toward making a difference.",
+        "score": 0.6068177813128327,
+        "id": "f788a374-023c-4743-a81f-2ee2090e119e",
+        "created_at": "2026-11-03T00:27:38.968305+00:00",
+        "updated_at": "2026-11-03T00:27:38.968305+00:00"
+      },
+      {
+        "memory": "John focuses on education reform and infrastructure development as key policies for a thriving community, aiming to get conversations going and involve people by sharing ideas and taking action.",
+        "score": 0.6023754900016411,
+        "id": "315d5eda-7399-4d8d-ab55-60b1bc44b750",
+        "created_at": "2026-11-03T00:27:34.292068+00:00",
+        "updated_at": "2026-11-03T00:27:34.292068+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.5982536205520068,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.4847021303405613,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.24311421742225958,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John aims to get conversations going and involve people by sharing ideas and taking action regarding community issues, finding it empowering to know he can help make a difference in people's lives.",
+        "score": 0.2290596446645213,
+        "id": "333684a6-8496-4269-b370-53af9a8149df",
+        "created_at": "2026-11-03T00:27:11.435802+00:00",
+        "updated_at": "2026-11-03T00:27:11.435802+00:00"
+      },
+      {
+        "memory": "John is considering a career in policymaking, motivated by his academic degree and a passion for making a positive impact through improvements in the field.",
+        "score": 0.2233890499989993,
+        "id": "429977d2-a59b-458a-b4e6-3e43da51a1ab",
+        "created_at": "2026-11-03T00:24:04.894325+00:00",
+        "updated_at": "2026-11-03T00:24:04.894325+00:00"
+      },
+      {
+        "memory": "John was inspired by motivated people around him, which gave him renewed energy and a purpose to make a bigger difference in his community",
+        "score": 0.22137807261011933,
+        "id": "6082fbf4-e51c-4869-970d-982ad66ea696",
+        "created_at": "2026-11-03T00:27:56.119627+00:00",
+        "updated_at": "2026-11-03T00:27:56.119627+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.2134951623868684,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John is particularly interested in improving education and infrastructure within his community as specific areas for his future work in policymaking.",
+        "score": 0.20448553195010694,
+        "id": "1a5d3c06-c997-4f79-bf03-6542432b3d3d",
+        "created_at": "2026-11-03T00:24:07.566594+00:00",
+        "updated_at": "2026-11-03T00:24:07.566594+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.2021488148077859,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.1988922027183541,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.1982153708113749,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.1982153708113749,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      }
+    ],
+    "search_latency_ms": 63.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John started blogging about politics and policies because he wanted to make a real impact on community issues—especially education reform and infrastructure development—by raising awareness, starting conversations, and creating positive change.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core reasons—raising awareness, starting conversations, and creating positive change—plus additional details."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John started blogging about politics and policies because he wanted to make a real, positive impact on his community—especially by raising awareness, starting conversations, and creating change around education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reasons of raising awareness, starting conversations, and creating positive change, with additional details."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John started blogging about politics and policies because he wanted to make a real, positive impact on his community—especially by raising awareness, starting conversations, and creating change around education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reasons of raising awareness, starting conversations, and creating positive change, with additional details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John started blogging about politics and policies because he wanted to make a real, positive impact on his community—especially by raising awareness, starting conversations, and creating change around education reform and infrastructure development.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core reasons of raising awareness, starting conversations, and creating positive change, with additional details."
+    }
+  }
+}

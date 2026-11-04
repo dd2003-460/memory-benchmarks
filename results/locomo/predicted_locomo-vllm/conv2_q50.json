@@ -1,0 +1,193 @@
+{
+  "question_id": "conv2_q50",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What attributes describe John?",
+  "ground_truth_answer": "Selfless, family-oriented, passionate, rational",
+  "evidence": [
+    "D26:6",
+    "D2:14",
+    "D3:5",
+    "D4:6"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What attributes describe John?",
+    "search_results": [
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.5590526082740549,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times.",
+        "score": 0.5536142317885824,
+        "id": "101fede8-6cfe-41da-8469-13a0f6687352",
+        "created_at": "2026-11-03T00:49:26.776427+00:00",
+        "updated_at": "2026-11-03T00:49:26.776427+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as supportive and the best thing in his life, even during hard times.",
+        "score": 0.5497177218459683,
+        "id": "14c21488-0a72-46f3-8e36-0a0f221f77d1",
+        "created_at": "2026-11-03T00:49:15.627079+00:00",
+        "updated_at": "2026-11-03T00:49:15.627079+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.5387265076374774,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.5352282970709286,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John feels a strong bond of trust and reliance with his fire-fighting brigade teammates, describing them as like family, a connection he has not felt since his time in the military.",
+        "score": 0.5332608391379334,
+        "id": "34c769c5-09b2-4065-8d89-76929b659aa1",
+        "created_at": "2026-11-03T00:44:15.981618+00:00",
+        "updated_at": "2026-11-03T00:44:15.981618+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.5180312919716659,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John describes his rescue team as having become like family to him, noting that the strong bond they share is similar to what he experienced during his time in the military.",
+        "score": 0.5055645991780964,
+        "id": "ebacaf04-2424-41ed-9a2e-39c1f710c207",
+        "created_at": "2026-11-03T00:44:23.670995+00:00",
+        "updated_at": "2026-11-03T00:44:23.670995+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.50483373164323,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "John describes his fire-fighting brigade teammates as becoming like family to him, emphasizing that they trust and rely on one another and have each other's backs during intense situations.",
+        "score": 0.4919901459558657,
+        "id": "b389524b-f498-4477-9c79-d9e6f3f77af8",
+        "created_at": "2026-11-03T00:44:04.459831+00:00",
+        "updated_at": "2026-11-03T00:44:04.459831+00:00"
+      },
+      {
+        "memory": "John describes nature experiences as feeling like 'restarting my mind and spirit,' helping him remember the little things in life and savor peaceful moments.",
+        "score": 0.4835097277848809,
+        "id": "dbc5b759-3c1d-4cca-be6e-0f2d0a1e33b0",
+        "created_at": "2026-11-03T00:47:45.948796+00:00",
+        "updated_at": "2026-11-03T00:47:45.948796+00:00"
+      },
+      {
+        "memory": "John describes his fire brigade team as becoming like family to him, emphasizing that they trust and rely on one another during high-stress situations.",
+        "score": 0.4671815841883234,
+        "id": "d004e8d5-d4d4-43c7-acec-1187a6535648",
+        "created_at": "2026-11-03T00:44:08.633337+00:00",
+        "updated_at": "2026-11-03T00:44:08.633337+00:00"
+      },
+      {
+        "memory": "John works with a group of veterans in an organization he describes as family-like, where members always support each other, and he finds their stories inspiring and heartbreaking yet hopeful.",
+        "score": 0.4644281745896429,
+        "id": "367cd2eb-b82b-403a-9097-8d6ee89590c1",
+        "created_at": "2026-11-03T00:42:37.023899+00:00",
+        "updated_at": "2026-11-03T00:42:37.023899+00:00"
+      },
+      {
+        "memory": "John describes nature experiences, such as mountaineering and camping, as feeling like a 'reset button' that helps him clear his head and find calm during difficult times.",
+        "score": 0.4629792942465839,
+        "id": "c20f3801-1bf3-449b-88c2-82a2830c4a5e",
+        "created_at": "2026-11-03T00:32:15.831840+00:00",
+        "updated_at": "2026-11-03T00:32:15.831840+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.2289612072501928,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.2289612072501928,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21394044350077124,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21394044350077124,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John received a trophy commemorating his journey to promotion, which he views as a symbol of the obstacles and self-doubt he overcame with family support and personal grit.",
+        "score": 0.20504387676778388,
+        "id": "111c1e3a-815d-4d1d-b018-1c07d3b7e674",
+        "created_at": "2026-11-03T00:34:36.360768+00:00",
+        "updated_at": "2026-11-03T00:34:36.360768+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.20500808721700223,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      }
+    ],
+    "search_latency_ms": 68.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is community-oriented, family-oriented, supportive, passionate, trustworthy, reliable, loyal, team-oriented, values close bonds, has a military background, works in a fire-fighting/rescue team, and values nature, peace, and small moments.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's attributes 'family-oriented' and 'passionate', so it is correct."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is described as resilient, determined, and gritty; family-oriented, grateful, and supportive; community-minded, passionate, and dedicated; loyal, trustworthy, and team-oriented; compassionate, empathetic, and hopeful; calm, reflective, and mindful; nature-loving and rejuvenated by outdoor experiences; active; and encouraging/mentoring. He also has a military and first-responder background and values close bonds, trust, and camaraderie.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least two gold attributes, 'family-oriented' and 'passionate', so it is correct."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is resilient, determined, gritty, family-oriented, community-minded, team-oriented, loyal, trustworthy, supportive, compassionate, passionate, reflective, calm, grateful, active, encouraging, and proud of personal growth and the progress of others.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least two gold attributes, 'family-oriented' and 'passionate', so it is correct."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is described as resilient, determined, gritty, and persevering; family-oriented, grateful, and supportive; community-minded, passionate, and dedicated; loyal, trustworthy, and team-oriented; compassionate, empathetic, and hopeful; calm, reflective, and mindful; nature-loving and rejuvenated by outdoor experiences; active; and encouraging/mentoring. He also has a military and first-responder background and values close bonds, trust, and camaraderie.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least two gold attributes, 'family-oriented' and 'passionate', so it is correct."
+    }
+  }
+}

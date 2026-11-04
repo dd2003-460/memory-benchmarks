@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q157",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What dessert did Joanna share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
+  "ground_truth_answer": "chocolate raspberry tart",
+  "evidence": [
+    "D21:11"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What dessert did Joanna share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
+    "search_results": [
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.8815251654873618,
+        "id": "60a889ad-b306-4d47-9ae5-e432f910626f",
+        "created_at": "2026-11-03T03:18:37.387015+00:00",
+        "updated_at": "2026-11-03T03:18:37.387015+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.8815251654873618,
+        "id": "03b82469-2282-49e2-8ccd-bb3ed742d428",
+        "created_at": "2026-11-03T03:18:25.097056+00:00",
+        "updated_at": "2026-11-03T03:18:25.097056+00:00"
+      },
+      {
+        "memory": "Joanna makes her favorite dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and fresh raspberries, and considers it her go-to dessert for birthdays and special occasions.",
+        "score": 0.8755860652398152,
+        "id": "47f6d4eb-8749-4e2d-a002-195a82038ea2",
+        "created_at": "2026-11-03T03:18:21.698003+00:00",
+        "updated_at": "2026-11-03T03:18:21.698003+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free treat is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.8598125529029499,
+        "id": "a2d92a57-38d9-4322-9908-f1c4c281d6cd",
+        "created_at": "2026-11-03T03:18:04.046077+00:00",
+        "updated_at": "2026-11-03T03:18:04.046077+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, which she considers her favorite for birthdays and special days.",
+        "score": 0.8374398716439873,
+        "id": "cc514326-e177-496a-9ef6-45763eb741aa",
+        "created_at": "2026-11-03T03:18:37.391895+00:00",
+        "updated_at": "2026-11-03T03:18:37.391895+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, describing it as moist and delicious with perfect sweetness, and considers it her favorite for birthdays and special days.",
+        "score": 0.8341788832579523,
+        "id": "5cd4a18d-a561-4c7e-ae4a-36cf30f6fc53",
+        "created_at": "2026-11-03T03:18:25.102538+00:00",
+        "updated_at": "2026-11-03T03:18:25.102538+00:00"
+      },
+      {
+        "memory": "Joanna shares a recipe for dairy-free blueberry cheesecake bars featuring blueberries, coconut milk, and a gluten-free crust, describing them as creamy and delicious.",
+        "score": 0.6991408480360528,
+        "id": "ff78544d-e75d-4079-a4f9-fab74ae248b2",
+        "created_at": "2026-11-03T03:18:33.393477+00:00",
+        "updated_at": "2026-11-03T03:18:33.393477+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.6981596750286048,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna enjoys making a creamy dairy-free blueberry cheesecake bar recipe that includes blueberries, coconut milk, and a gluten-free crust.",
+        "score": 0.6888988937818608,
+        "id": "8e2b2f40-1e74-4d8c-a243-272ab059266c",
+        "created_at": "2026-11-03T03:18:37.395666+00:00",
+        "updated_at": "2026-11-03T03:18:37.395666+00:00"
+      },
+      {
+        "memory": "Joanna is experimenting with dessert flavors including chocolate, raspberry, and coconut to make recipes yummier and more accessible.",
+        "score": 0.6833260081707235,
+        "id": "281d268a-a91b-4990-950d-6f5807d6589d",
+        "created_at": "2026-11-03T03:15:53.711930+00:00",
+        "updated_at": "2026-11-03T03:15:53.711930+00:00"
+      },
+      {
+        "memory": "Joanna has a chocolate and raspberry cake recipe that she has been wanting to share with Nate, who has expressed interest in trying it",
+        "score": 0.6597543049328296,
+        "id": "024d0a86-64bc-490d-bbe5-b617e4225080",
+        "created_at": "2026-11-03T03:26:58.947748+00:00",
+        "updated_at": "2026-11-03T03:26:58.947748+00:00"
+      },
+      {
+        "memory": "Joanna revised one of her old recipes and made a dairy-free chocolate cake with pink frosting, strawberries, and chocolate, sharing a photo of it with Nate on September 5, 2022.",
+        "score": 0.6564868277387805,
+        "id": "559c7ac6-c0e9-4659-8ccd-dc5577b2abdb",
+        "created_at": "2026-11-03T03:15:28.829939+00:00",
+        "updated_at": "2026-11-03T03:15:28.829939+00:00"
+      },
+      {
+        "memory": "Joanna made a dairy-free chocolate cake with pink frosting and strawberries on September 5, 2022, after revising an old recipe, and shared a photo of it with Nate.",
+        "score": 0.653674420758144,
+        "id": "919f2e92-942a-44dd-b0a1-2c598e57f0d5",
+        "created_at": "2026-11-03T03:15:37.919622+00:00",
+        "updated_at": "2026-11-03T03:15:37.919622+00:00"
+      },
+      {
+        "memory": "Joanna revised an old recipe and made a dairy-free chocolate cake with pink frosting and strawberries on September 5, 2022, sharing a photo of it with Nate.",
+        "score": 0.6493084116780172,
+        "id": "be1bffe7-4a12-455b-9968-9bdb4d5f8505",
+        "created_at": "2026-11-03T03:15:53.706255+00:00",
+        "updated_at": "2026-11-03T03:15:53.706255+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cookie with chocolate drizzle and almonds with Nate on September 5, 2022, expressing enthusiasm for trying his dairy-free baking tips.",
+        "score": 0.6485388644989993,
+        "id": "90197109-0cbc-4f57-9d56-d369539d3954",
+        "created_at": "2026-11-03T03:16:54.860596+00:00",
+        "updated_at": "2026-11-03T03:16:54.860596+00:00"
+      },
+      {
+        "memory": "Joanna is experimenting with chocolate, raspberry, and coconut flavors in her dairy-free dessert recipes, finding the process enjoyable.",
+        "score": 0.6482032604129808,
+        "id": "87354262-cc14-49e7-a6b9-2fc5dabfb759",
+        "created_at": "2026-11-03T03:15:48.943544+00:00",
+        "updated_at": "2026-11-03T03:15:48.943544+00:00"
+      },
+      {
+        "memory": "Joanna revised one of her old recipes and made a dairy-free chocolate cake with pink frosting, sharing a photo of the cake with strawberries and chocolate with Nate on September 5, 2022.",
+        "score": 0.6468307759371125,
+        "id": "21d208fe-4b55-42f5-b6b3-ed502ca2381a",
+        "created_at": "2026-11-03T03:15:20.830022+00:00",
+        "updated_at": "2026-11-03T03:15:20.830022+00:00"
+      },
+      {
+        "memory": "Joanna has been testing out dairy-free dessert recipes for friends and family, recently making a cake with white frosting that she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.6442432558336058,
+        "id": "9a61a0d8-4593-4162-8ee1-087485816739",
+        "created_at": "2026-11-03T03:05:29.077837+00:00",
+        "updated_at": "2026-11-03T03:05:29.077837+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback on her book by making a raspberry chia pudding parfait dessert, which she shared a photo of with Nate on August 22, 2022.",
+        "score": 0.6441026567082119,
+        "id": "47238472-296a-4cc7-9f22-c2a3178a7533",
+        "created_at": "2026-11-03T03:14:11.542140+00:00",
+        "updated_at": "2026-11-03T03:14:11.542140+00:00"
+      },
+      {
+        "memory": "Joanna made a dessert with almond milk on September 9, 2022 (the Friday before the conversation), which she described as delicious.",
+        "score": 0.6432923132065362,
+        "id": "12321783-bb23-49dd-9c5b-502f96626cf5",
+        "created_at": "2026-11-03T03:18:25.106131+00:00",
+        "updated_at": "2026-11-03T03:18:25.106131+00:00"
+      }
+    ],
+    "search_latency_ms": 124.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna’s dairy-free chocolate raspberry tart",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core item, chocolate raspberry tart, with an additional descriptor."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A chocolate raspberry tart.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "chocolate raspberry tart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "chocolate raspberry tart",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

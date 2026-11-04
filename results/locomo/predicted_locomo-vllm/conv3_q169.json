@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q169",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Joanna do while she writes?",
+  "ground_truth_answer": "have a stuffed animal dog named Tilly with her",
+  "evidence": [
+    "D24:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Joanna do while she writes?",
+    "search_results": [
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.7887500221428043,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.6956779099005643,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.6883284113039772,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna has been busy with writing projects and describes the experience as a mix of highs and lows, noting that her journal is a major source of support and writing has become a huge part of her identity.",
+        "score": 0.6877365280566834,
+        "id": "977d0428-dc57-4506-8ad7-1177d153714a",
+        "created_at": "2026-11-03T03:13:32.621358+00:00",
+        "updated_at": "2026-11-03T03:13:32.621358+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.685050630127837,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna describes writing as an escape and a way to express her feelings, noting that it allows her to put thoughts down and create something positive, and she believes words have a magical way of healing.",
+        "score": 0.6845060275110122,
+        "id": "bdb48122-d007-4830-aa27-f61d2aa2ef09",
+        "created_at": "2026-11-03T03:13:05.480399+00:00",
+        "updated_at": "2026-11-03T03:13:05.480399+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.6791310961884202,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.6674498399151512,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna describes her writing projects as a mix of highs and lows, noting that her journal serves as her 'rock' and that writing has become a huge part of her identity.",
+        "score": 0.6668324990435577,
+        "id": "e01dc961-5d08-4a74-a91c-6840c463436a",
+        "created_at": "2026-11-03T03:12:58.798088+00:00",
+        "updated_at": "2026-11-03T03:12:58.798088+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.6643785266838853,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.661317218351453,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps make something good out of difficult emotions and that words have a magical healing power.",
+        "score": 0.6570103971511675,
+        "id": "79b05508-cf27-4619-9d2d-a513ec113a8a",
+        "created_at": "2026-11-03T03:13:36.340320+00:00",
+        "updated_at": "2026-11-03T03:13:36.340320+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.6568350566702537,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.6564651002296318,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna keeps a journal which she describes as her 'rock' during the highs and lows of her busy writing projects.",
+        "score": 0.6553869760984476,
+        "id": "5dee9fd0-e872-4d95-9aa3-281877f0e305",
+        "created_at": "2026-11-03T03:13:20.712893+00:00",
+        "updated_at": "2026-11-03T03:13:20.712893+00:00"
+      },
+      {
+        "memory": "Joanna views writing as an escape and a way to express feelings, finding that putting thoughts down helps heal and create something positive from difficult emotions.",
+        "score": 0.6538018327691032,
+        "id": "df5a5cf2-65ab-4d71-a019-7f6c5639f487",
+        "created_at": "2026-11-03T03:13:32.623734+00:00",
+        "updated_at": "2026-11-03T03:13:32.623734+00:00"
+      },
+      {
+        "memory": "Joanna is writing a book that explores themes of loss, redemption, and forgiveness through dialogue, describing it as a deep and emotional story she is excited about.",
+        "score": 0.6533597068101542,
+        "id": "9613e0fd-6fb4-4f1c-8efb-9bba91f5c644",
+        "created_at": "2026-11-03T03:12:39.639682+00:00",
+        "updated_at": "2026-11-03T03:12:39.639682+00:00"
+      },
+      {
+        "memory": "Joanna writes an online blog where she shares stories about hard moments in her life, using writing as an escape and a way to express feelings and find healing.",
+        "score": 0.6502496195667878,
+        "id": "949ed9db-97ed-4855-95ef-950f9e9ad63d",
+        "created_at": "2026-11-03T03:13:40.681079+00:00",
+        "updated_at": "2026-11-03T03:13:40.681079+00:00"
+      },
+      {
+        "memory": "Joanna finds writing and creative projects therapeutic, using them to get through tough times, and values her supportive friends who understand and appreciate her work.",
+        "score": 0.6480617863229134,
+        "id": "5132c586-0f60-4ad0-a97e-7e08636c2285",
+        "created_at": "2026-11-03T03:07:46.805535+00:00",
+        "updated_at": "2026-11-03T03:07:46.805535+00:00"
+      },
+      {
+        "memory": "The book Joanna is writing explores themes of loss, redemption, and forgiveness through dialogue, described as a deep and emotional story.",
+        "score": 0.6454576961543064,
+        "id": "278d2945-d2b3-41ba-9ab2-05afd6c4e643",
+        "created_at": "2026-11-03T03:12:55.208344+00:00",
+        "updated_at": "2026-11-03T03:12:55.208344+00:00"
+      }
+    ],
+    "search_latency_ms": 44.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "She uses writing as an escape to express her feelings, putting her thoughts down and creating something positive.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer does not mention Joanna having a stuffed animal dog named Tilly with her while writing, so it contains none of the gold answer's key facts."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "She uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a bookshelf for inspiration, which does not match the gold answer about having a stuffed animal dog named Tilly while writing."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "She uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a bookshelf for inspiration, which does not match the gold answer about having a stuffed animal dog named Tilly while writing."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "She uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a bookshelf for inspiration, which does not match the gold answer about having a stuffed animal dog named Tilly while writing."
+    }
+  }
+}

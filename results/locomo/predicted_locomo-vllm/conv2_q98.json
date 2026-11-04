@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q98",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did John host for the veterans in May 2023 as part of the project?",
+  "ground_truth_answer": "a small party to share their stories",
+  "evidence": [
+    "D15:13"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John host for the veterans in May 2023 as part of the project?",
+    "search_results": [
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and motivating.",
+        "score": 0.7011411249314401,
+        "id": "60a148f6-694b-423d-938a-f91874f0bff6",
+        "created_at": "2026-11-03T00:30:32.327409+00:00",
+        "updated_at": "2026-11-03T00:30:32.327409+00:00"
+      },
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and reinforcing of the importance of community support.",
+        "score": 0.6941438064533854,
+        "id": "2e541094-ac88-4a27-9c1b-a46e8e2ada18",
+        "created_at": "2026-11-03T00:30:36.692811+00:00",
+        "updated_at": "2026-11-03T00:30:36.692811+00:00"
+      },
+      {
+        "memory": "John met with veterans on May 19, 2023, who were excited about his support project; their enthusiasm and support keep him motivated in his work.",
+        "score": 0.6928205735827021,
+        "id": "372948fc-5a6a-44eb-b714-82002dff489b",
+        "created_at": "2026-11-03T00:30:25.514049+00:00",
+        "updated_at": "2026-11-03T00:30:25.514049+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he decided to start a project to show appreciation for what they have done as a way of giving back.",
+        "score": 0.6825797349959375,
+        "id": "95b18b89-4254-4d52-81f7-106bbfb698d1",
+        "created_at": "2026-11-03T00:30:09.671853+00:00",
+        "updated_at": "2026-11-03T00:30:09.671853+00:00"
+      },
+      {
+        "memory": "As of May 20, 2023, John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.6823306775876679,
+        "id": "69a4a6f0-054b-452c-83fa-30a373a5f7e1",
+        "created_at": "2026-11-03T00:30:18.762762+00:00",
+        "updated_at": "2026-11-03T00:30:18.762762+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but also stressful as of May 20, 2023.",
+        "score": 0.6786488705452257,
+        "id": "bbec071d-fb3a-4065-bc49-1c817aeaf32e",
+        "created_at": "2026-11-03T00:30:02.584323+00:00",
+        "updated_at": "2026-11-03T00:30:02.584323+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but also stressful as of May 20, 2023.",
+        "score": 0.6786488705452257,
+        "id": "2b841a11-9af8-4b1b-9f7e-a5a44f4b4d84",
+        "created_at": "2026-11-03T00:30:04.609575+00:00",
+        "updated_at": "2026-11-03T00:30:04.609575+00:00"
+      },
+      {
+        "memory": "John is working on a petition to support military veterans, a project he started around May 13, 2023, motivated by his long-standing passion for veterans' rights and a desire to show appreciation for their service.",
+        "score": 0.6711669292897781,
+        "id": "f409d586-906f-4197-8fec-cdfd4d072ad6",
+        "created_at": "2026-11-03T00:30:12.008367+00:00",
+        "updated_at": "2026-11-03T00:30:12.008367+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights; around May 13, 2023, he realized how much they have done for the community and started the veteran support project as a way to show appreciation and give back.",
+        "score": 0.6689316113363416,
+        "id": "f27fa283-082a-467e-8a1d-5cce9fd6803a",
+        "created_at": "2026-11-03T00:30:18.767295+00:00",
+        "updated_at": "2026-11-03T00:30:18.767295+00:00"
+      },
+      {
+        "memory": "As of May 20, 2023, John is busy tackling a project to support military veterans, which involves getting a petition going; he finds it rewarding but stressful.",
+        "score": 0.6673213031907362,
+        "id": "541e891d-da83-424e-a751-85457b92b7a1",
+        "created_at": "2026-11-03T00:30:09.667342+00:00",
+        "updated_at": "2026-11-03T00:30:09.667342+00:00"
+      },
+      {
+        "memory": "John decided to start the veteran support project in early May 2023 after realizing how much veterans have done for the community and wanting to show his appreciation by giving back.",
+        "score": 0.6667735897920732,
+        "id": "3741d021-dff0-4280-a335-75464aae73a7",
+        "created_at": "2026-11-03T00:30:23.123749+00:00",
+        "updated_at": "2026-11-03T00:30:23.123749+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he was motivated to start a support project as a way of giving back after realizing how much they have done for the community.",
+        "score": 0.6659444665584254,
+        "id": "35196ff7-20d8-4ac4-b1f4-264766485033",
+        "created_at": "2026-11-03T00:30:06.805521+00:00",
+        "updated_at": "2026-11-03T00:30:06.805521+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and decided to start the veteran support project around May 13, 2023, as a way to show appreciation for their service.",
+        "score": 0.6655328631235721,
+        "id": "14f65f63-431c-46ed-afa4-3b1f97f382a2",
+        "created_at": "2026-11-03T00:30:14.185392+00:00",
+        "updated_at": "2026-11-03T00:30:14.185392+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.6559962122051498,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.6412401301264272,
+        "id": "237b6fe1-05b1-400b-86d0-0e8c767177fb",
+        "created_at": "2026-11-03T00:30:14.179096+00:00",
+        "updated_at": "2026-11-03T00:30:14.179096+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.6412401301264272,
+        "id": "e63d7985-3111-4e45-b0c6-30985da284b7",
+        "created_at": "2026-11-03T00:30:23.118723+00:00",
+        "updated_at": "2026-11-03T00:30:23.118723+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.6088428890910339,
+        "id": "8d71a920-7b74-48ff-90ff-9217dc64585c",
+        "created_at": "2026-11-03T00:42:17.333514+00:00",
+        "updated_at": "2026-11-03T00:42:17.333514+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.6088428890910339,
+        "id": "9a840cc4-9e7b-4984-8067-2224654ff2db",
+        "created_at": "2026-11-03T00:42:01.928996+00:00",
+        "updated_at": "2026-11-03T00:42:01.928996+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.5993980022081011,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.595825971525915,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      }
+    ],
+    "search_latency_ms": 65.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John hosted a small party for the veterans on May 19, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that John hosted a small party for the veterans, matching the core of the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John hosted a small party for the veterans.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key item from the gold answer, that John hosted a small party for the veterans."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John hosted a small party for the veterans.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key item from the gold answer, that John hosted a small party for the veterans."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John hosted a small party for the veterans.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key item from the gold answer, that John hosted a small party for the veterans."
+    }
+  }
+}

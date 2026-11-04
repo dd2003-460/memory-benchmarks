@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q129",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which superhero toy figure does Nate share a photo of?",
+  "ground_truth_answer": "Iron Man",
+  "evidence": [
+    "D15:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Which superhero toy figure does Nate share a photo of?",
+    "search_results": [
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor, and he owns an Iron Man action figure in his room as a reminder to keep working on his goals",
+        "score": 0.7591447369438565,
+        "id": "8abc27c8-b721-47a8-ab67-2bb962db6d0b",
+        "created_at": "2026-11-03T03:10:19.040804+00:00",
+        "updated_at": "2026-11-03T03:10:19.040804+00:00"
+      },
+      {
+        "memory": "Nate's top pick superhero is Iron Man, whom he loves for his tech and sarcastic humor, and he owns an Iron Man action figure that serves as a reminder to keep working on his goals",
+        "score": 0.7558674196574667,
+        "id": "5f56ee66-9791-457f-a70b-8ad5825365af",
+        "created_at": "2026-11-03T03:10:37.203858+00:00",
+        "updated_at": "2026-11-03T03:10:37.203858+00:00"
+      },
+      {
+        "memory": "Nate's top pick superhero is Iron Man, whom he admires for his tech and sarcastic humor, and he owns an Iron Man action figure that serves as a reminder to keep working on his goals",
+        "score": 0.7526273278903884,
+        "id": "7a753954-64e1-4f61-bc2c-4c293a8d9a8d",
+        "created_at": "2026-11-03T03:10:25.134118+00:00",
+        "updated_at": "2026-11-03T03:10:25.134118+00:00"
+      },
+      {
+        "memory": "Nate's top pick superhero is Iron Man, whom he admires for his tech and sarcastic humor, and he owns an Iron Man action figure that serves as a reminder to keep working on his goals",
+        "score": 0.7526273278903884,
+        "id": "33449a2a-767b-4fde-9805-df068809b246",
+        "created_at": "2026-11-03T03:10:14.646004+00:00",
+        "updated_at": "2026-11-03T03:10:14.646004+00:00"
+      },
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor; he owns an Iron Man action figure that serves as a reminder to keep working on his goals",
+        "score": 0.7446598012294073,
+        "id": "fbeda04b-3083-4599-be76-8ee9af7a2f80",
+        "created_at": "2026-11-03T03:10:30.625197+00:00",
+        "updated_at": "2026-11-03T03:10:30.625197+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal toy on a bed with Joanna on May 25, 2022, which she found cute and appreciated the thought behind it.",
+        "score": 0.7404267956456195,
+        "id": "1c254937-9056-4e5b-b147-a3f0fe6d4112",
+        "created_at": "2026-11-03T03:08:09.591902+00:00",
+        "updated_at": "2026-11-03T03:08:09.591902+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal dog toy on a bed with Joanna on May 25, 2022, presenting it as a new pup for her to enjoy",
+        "score": 0.7322915634698406,
+        "id": "3540ef0a-c5ba-4925-9a93-108ad0485374",
+        "created_at": "2026-11-03T03:08:05.847849+00:00",
+        "updated_at": "2026-11-03T03:08:05.847849+00:00"
+      },
+      {
+        "memory": "Nate stated that Iron Man is his top pick among superheroes, citing a love for the character's technology and sarcastic humor, and shared a photo of an Iron Man action figure on June 5, 2022.",
+        "score": 0.7258478085815863,
+        "id": "89222f76-3427-4a27-b8ba-e0720d0616e7",
+        "created_at": "2026-11-03T03:10:07.147968+00:00",
+        "updated_at": "2026-11-03T03:10:07.147968+00:00"
+      },
+      {
+        "memory": "Nate noticed a Spider-Man pin on Joanna's purse during their last meeting and asked if Spider-Man is her favorite superhero or if she has another preference.",
+        "score": 0.7171084874845375,
+        "id": "11a311a8-4183-4085-a0f6-65feb1ffb3f9",
+        "created_at": "2026-11-03T03:10:01.628428+00:00",
+        "updated_at": "2026-11-03T03:10:01.628428+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of himself holding a small turtle in a container with Joanna on July 10, 2022, while encouraging her to believe in her talent for her new book project.",
+        "score": 0.6297673932361059,
+        "id": "103163f1-ac7b-45b8-95a1-8a6aa949a1a3",
+        "created_at": "2026-11-03T03:12:55.213172+00:00",
+        "updated_at": "2026-11-03T03:12:55.213172+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his purple and blue controller with a star field design on June 3, 2022, after mentioning that players from the regional tournament he won wanted to hang out with him.",
+        "score": 0.6242710689837275,
+        "id": "44bcf9bc-8d91-4529-a926-7132e8ce543f",
+        "created_at": "2026-11-03T03:09:12.760827+00:00",
+        "updated_at": "2026-11-03T03:09:12.760827+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.6221641078435691,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.6217006853492049,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his pet turtle with Joanna on April 17, 2022, showing the turtle in a bowl next to a strawberry",
+        "score": 0.6202735308325227,
+        "id": "ae84de42-35ae-44b2-85e2-944fb1278a41",
+        "created_at": "2026-11-03T03:03:41.904747+00:00",
+        "updated_at": "2026-11-03T03:03:41.904747+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers with Joanna while discussing his current gaming interests on November 7, 2022.",
+        "score": 0.616909161782152,
+        "id": "0f085430-93ce-46c2-9ec1-8df356d65d2b",
+        "created_at": "2026-11-03T03:29:10.396330+00:00",
+        "updated_at": "2026-11-03T03:29:10.396330+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles and shared a photo of the setup with Joanna on August 22, 2022, expressing pride in his hard work paying off.",
+        "score": 0.6168910780747783,
+        "id": "32b648df-82b0-45bc-b7d0-af9c2ec9d67a",
+        "created_at": "2026-11-03T03:13:55.812100+00:00",
+        "updated_at": "2026-11-03T03:13:55.812100+00:00"
+      },
+      {
+        "memory": "After winning the tournament around June 3, 2022, Nate spoke with other participants who expressed interest in hanging out later, and he shared a photo of a purple and blue controller with a star field design.",
+        "score": 0.615730647121362,
+        "id": "913ba860-997e-4a34-a4ae-c6c2c9a5ec0d",
+        "created_at": "2026-11-03T03:09:16.502293+00:00",
+        "updated_at": "2026-11-03T03:09:16.502293+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a box containing a videogame controller with Joanna on October 25, 2022, while congratulating her on her film screening.",
+        "score": 0.6151555925979465,
+        "id": "c35e33ca-ff34-42d2-bfee-be0885833574",
+        "created_at": "2026-11-03T03:24:14.992891+00:00",
+        "updated_at": "2026-11-03T03:24:14.992891+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a pair of headphones and a video game controller with Joanna on November 7, 2022, as part of his upgraded home equipment.",
+        "score": 0.6132755918176978,
+        "id": "9e3b8b3d-4102-4b17-ad5a-9b22ebeb5a8e",
+        "created_at": "2026-11-03T03:29:00.093203+00:00",
+        "updated_at": "2026-11-03T03:29:00.093203+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a Spider-Man poster hanging on a wall with Nate on June 5, 2022, while discussing her recent success in seeing her screenplay released in theaters.",
+        "score": 0.6126518688266278,
+        "id": "868e0d39-75e6-44a9-abbb-2b35c877e1b9",
+        "created_at": "2026-11-03T03:09:56.463034+00:00",
+        "updated_at": "2026-11-03T03:09:56.463034+00:00"
+      }
+    ],
+    "search_latency_ms": 90.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Iron Man action figure",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same superhero toy figure, Iron Man, as the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Iron Man action figure",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same superhero toy figure, Iron Man, as the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Iron Man action figure",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same superhero toy figure, Iron Man, as the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Iron Man action figure",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same superhero toy figure, Iron Man, as the gold answer."
+    }
+  }
+}

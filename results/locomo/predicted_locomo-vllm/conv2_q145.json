@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q145",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does John describe the camping trip with Max?",
+  "ground_truth_answer": "Peaceful and awesome",
+  "evidence": [
+    "D30:6"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How does John describe the camping trip with Max?",
+    "search_results": [
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John found peaceful and a nice break from everyday hustle.",
+        "score": 0.8825139940877383,
+        "id": "f374fefa-fa3a-417e-b202-2e2ebbb4ca09",
+        "created_at": "2026-11-03T00:47:43.303194+00:00",
+        "updated_at": "2026-11-03T00:47:43.303194+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.8698345143024968,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John shared a photo of a tent in the woods with a blue tarp from his recent camping trip with Max, which he found peaceful and a nice break from everyday hustle.",
+        "score": 0.8691055836006443,
+        "id": "c24686db-fd7c-4aa8-a526-c86cac3f66f9",
+        "created_at": "2026-11-03T00:48:08.369021+00:00",
+        "updated_at": "2026-11-03T00:48:08.369021+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle",
+        "score": 0.8666994663868197,
+        "id": "f67fcfd2-278a-4d57-a37e-56d8b876e88d",
+        "created_at": "2026-11-03T00:47:56.100731+00:00",
+        "updated_at": "2026-11-03T00:47:56.100731+00:00"
+      },
+      {
+        "memory": "John went on a camping trip with his late pet Max, a golden retriever, in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience that made great memories.",
+        "score": 0.863448037135368,
+        "id": "3a1a84ed-ace9-4d8e-a430-e09f4696ab7f",
+        "created_at": "2026-11-03T00:47:37.300437+00:00",
+        "updated_at": "2026-11-03T00:47:37.300437+00:00"
+      },
+      {
+        "memory": "John has extensive camping experience, describing it as an awesome way to get away from it all and be at one with nature due to its uncomplicated simplicity.",
+        "score": 0.8440404843790414,
+        "id": "b16f0514-2b0a-4eaf-ab92-3b1c140d0dec",
+        "created_at": "2026-11-03T00:32:38.023687+00:00",
+        "updated_at": "2026-11-03T00:32:38.023687+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.8409112529931132,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.7845706853986563,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.7767163032804886,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John reached the summit on his mountaineering trip with workmates in early June 2023, describing the view as stunning and the experience as tough but awesome, which helped clear his head.",
+        "score": 0.713231320123788,
+        "id": "d500fef2-8b69-4559-a041-da15d3a26f73",
+        "created_at": "2026-11-03T00:32:05.294417+00:00",
+        "updated_at": "2026-11-03T00:32:05.294417+00:00"
+      },
+      {
+        "memory": "John shared a photo of his late dog Max playing fetch with a young kid, noting that he is still thinking about Max and finds comfort in pets lifting spirits.",
+        "score": 0.7084311384547447,
+        "id": "0292aee0-5a23-4a45-8b01-0a63bfcbc1bf",
+        "created_at": "2026-11-03T00:47:32.019484+00:00",
+        "updated_at": "2026-11-03T00:47:32.019484+00:00"
+      },
+      {
+        "memory": "John's family recently said goodbye to their pet Max, who had been an important part of the family for 10 years; John finds it hard to accept that Max is no longer there.",
+        "score": 0.6960673914653925,
+        "id": "0002fc5e-d7bb-48e7-8641-403e7893c1fa",
+        "created_at": "2026-11-03T00:31:21.781872+00:00",
+        "updated_at": "2026-11-03T00:31:21.781872+00:00"
+      },
+      {
+        "memory": "John cherishes a photo of his late dog Max sitting peacefully in the grass in the backyard under tree shade, which he views as a representation of how Max brought joy to the family.",
+        "score": 0.6913498801294664,
+        "id": "44ea0acb-80dc-4d52-84a2-d36cce214db0",
+        "created_at": "2026-11-03T00:31:47.144752+00:00",
+        "updated_at": "2026-11-03T00:31:47.144752+00:00"
+      },
+      {
+        "memory": "John believes his bond with Max taught him and his kids important lessons about unconditional love and loyalty, which he wants to pass on to them.",
+        "score": 0.6829108039405847,
+        "id": "83fa5ac3-77ab-43f1-a4c4-707810e1b9d8",
+        "created_at": "2026-11-03T00:31:47.149874+00:00",
+        "updated_at": "2026-11-03T00:31:47.149874+00:00"
+      },
+      {
+        "memory": "John's dog Max has passed away, and John cherishes the memory of him as peaceful and happy, noting that Max brought the family joy and taught them about love and loyalty.",
+        "score": 0.6714254947029874,
+        "id": "daf48ba8-040f-41ed-8629-5f8ad06a8b41",
+        "created_at": "2026-11-03T00:31:54.015827+00:00",
+        "updated_at": "2026-11-03T00:31:54.015827+00:00"
+      },
+      {
+        "memory": "John took a family trip in July 2022 to celebrate his daughter Sara's birthday, which he describes as full of fun and good memories that motivate him to keep striving for change.",
+        "score": 0.6713009847677454,
+        "id": "0d7ebab7-d651-4ace-9318-118f622b58c2",
+        "created_at": "2026-11-03T00:39:42.835875+00:00",
+        "updated_at": "2026-11-03T00:39:42.835875+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.6626142282895331,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "John has a golden retriever named Max, whom he misses and shares photos of, including one of them playing fetch together.",
+        "score": 0.6571298235566634,
+        "id": "780cf389-8a75-4440-b871-5c89ac629089",
+        "created_at": "2026-11-03T00:47:43.298290+00:00",
+        "updated_at": "2026-11-03T00:47:43.298290+00:00"
+      },
+      {
+        "memory": "John shared a cherished photo of his late pet Max, a golden retriever, sitting in the grass with a leash under tree shade in the backyard, as part of honoring their loved ones' memories.",
+        "score": 0.6528078474667691,
+        "id": "64c45373-7ad6-49fb-967f-0c8a26806261",
+        "created_at": "2026-11-03T00:31:29.841434+00:00",
+        "updated_at": "2026-11-03T00:31:29.841434+00:00"
+      },
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.6497093965827174,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      }
+    ],
+    "search_latency_ms": 90.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the camping trip with Max as peaceful, awesome, and rejuvenating—a nice break from everyday hustle where they hiked, swam, and sat by a campfire, making great memories and helping him appreciate small moments.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key descriptors 'peaceful' and 'awesome' while adding extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the camping trip with Max as peaceful and awesome, a nice break from everyday hustle, and a great memory-making experience where they hiked, swam, and sat by a campfire.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors 'peaceful and awesome' and adds extra details, which is acceptable."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the camping trip with Max as peaceful and awesome, a nice break from everyday hustle, and a great memory-making experience where they hiked, swam, and sat by a campfire.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors 'peaceful and awesome' and adds extra details, which is acceptable."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John describes the camping trip with Max as peaceful and awesome, a nice break from everyday hustle, and a great memory-making experience where they hiked, swam, and sat by a campfire.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors 'peaceful and awesome' and adds extra details, which is acceptable."
+    }
+  }
+}

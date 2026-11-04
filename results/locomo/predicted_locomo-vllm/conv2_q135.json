@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q135",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why does Maria think it's important for younger generations to visit military memorials?",
+  "ground_truth_answer": "To remember and appreciate those who served",
+  "evidence": [
+    "D27:12"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why does Maria think it's important for younger generations to visit military memorials?",
+    "search_results": [
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.781667895576227,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in the week prior to August 3, 2023, and found the experience moving and impactful for them, emphasizing the importance of teaching children to respect veterans.",
+        "score": 0.7710200367689662,
+        "id": "d2f9a2fa-2de4-4ce4-861a-a32ae176edca",
+        "created_at": "2026-11-03T00:45:16.526366+00:00",
+        "updated_at": "2026-11-03T00:45:16.526366+00:00"
+      },
+      {
+        "memory": "John visited a military memorial with his kids the week of July 24, 2023, finding it a moving experience that made them awestruck and humbled while teaching them to respect those who served",
+        "score": 0.7701381057354042,
+        "id": "1b2fbf8a-7286-408e-b00e-6a5c6b747dc7",
+        "created_at": "2026-11-03T00:45:09.363909+00:00",
+        "updated_at": "2026-11-03T00:45:09.363909+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.7527399227297285,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      },
+      {
+        "memory": "John believes it is important to teach his children how to respect and appreciate those who served their country, viewing the recent memorial visit as a moving educational moment for the family.",
+        "score": 0.7518097497560479,
+        "id": "3d1b471e-651b-445d-872f-89e3b8d15afd",
+        "created_at": "2026-11-03T00:45:24.724853+00:00",
+        "updated_at": "2026-11-03T00:45:24.724853+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial the week before August 3, 2023, describing it as a meaningful experience that made an impact on them, and shared a photo of a young boy holding a flag in a cemetery.",
+        "score": 0.7514793567168042,
+        "id": "b43934bd-5f91-460b-a6ad-629a37eae44d",
+        "created_at": "2026-11-03T00:44:57.064698+00:00",
+        "updated_at": "2026-11-03T00:44:57.064698+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in late July 2023, where they were awestruck and humbled by the experience.",
+        "score": 0.7503733282856722,
+        "id": "38698765-2a98-401f-a1cb-da3fde1da56b",
+        "created_at": "2026-11-03T00:45:24.722116+00:00",
+        "updated_at": "2026-11-03T00:45:24.722116+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in late July 2023, an experience that made a significant impact on them, leaving the children awestruck and humbled.",
+        "score": 0.7468008578801083,
+        "id": "ed561359-aa0c-476e-9ecc-aac20f2bae4a",
+        "created_at": "2026-11-03T00:45:02.573349+00:00",
+        "updated_at": "2026-11-03T00:45:02.573349+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.5647792758381665,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.5558576009099584,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his military veteran support project and petition effort, expressing her commitment to making a difference together.",
+        "score": 0.5495898062007655,
+        "id": "d0032eb3-4ae9-481c-8816-789a37e7be36",
+        "created_at": "2026-11-03T00:30:23.127351+00:00",
+        "updated_at": "2026-11-03T00:30:23.127351+00:00"
+      },
+      {
+        "memory": "Maria realized during her solo trip to Spain in 2022 that it is important to value different perspectives and the power of solitude, and that the experience reminded her of the importance of letting go and trusting life.",
+        "score": 0.5312031871079099,
+        "id": "8802ea54-3bd5-425f-bced-2ca03aff77a5",
+        "created_at": "2026-11-03T00:28:53.364596+00:00",
+        "updated_at": "2026-11-03T00:28:53.364596+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.5278494630433198,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.5022974692849723,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "During her trip, Maria shared that she realized the importance of valuing different perspectives, the power of solitude, and letting go to trust life.",
+        "score": 0.4787477657138316,
+        "id": "e1ac1471-89b0-4141-8396-8c07f74df70b",
+        "created_at": "2026-11-03T00:29:11.470167+00:00",
+        "updated_at": "2026-11-03T00:29:11.470167+00:00"
+      },
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.46575667403367654,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "John has a daughter named Sara and took a family trip for her birthday in 2022, which created fun memories that serve as a source of motivation for his ongoing work.",
+        "score": 0.4550358953623171,
+        "id": "f2bdcaf4-5a70-4417-8744-09f13cf4379a",
+        "created_at": "2026-11-03T00:39:53.012451+00:00",
+        "updated_at": "2026-11-03T00:39:53.012451+00:00"
+      },
+      {
+        "memory": "John took a family trip in 2022 to celebrate his daughter Sara's birthday, which he describes as a source of motivation and good memories that help him stay focused on his community work.",
+        "score": 0.45325984776474637,
+        "id": "5f52b211-c453-4b41-92bb-04dc777f24f0",
+        "created_at": "2026-11-03T00:39:57.214622+00:00",
+        "updated_at": "2026-11-03T00:39:57.214622+00:00"
+      },
+      {
+        "memory": "Maria recently gave a few talks at the homeless shelter where she volunteers, finding the experience fulfilling and receiving compliments from other volunteers, which reinforced her belief in the importance of connecting with and helping others.",
+        "score": 0.4503413296624263,
+        "id": "e67fe79b-7f44-4751-a544-3c5de4bbe7d5",
+        "created_at": "2026-11-03T00:26:30.908847+00:00",
+        "updated_at": "2026-11-03T00:26:30.908847+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.32168673073605264,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      }
+    ],
+    "search_latency_ms": 97.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "To teach younger generations to respect and appreciate those who served their country, including veterans.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the gold answer's core idea of appreciating those who served, with compatible additional detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria thinks it is important because it helps younger generations respect and appreciate those who served their country, and it supports her commitment to making a difference in veteran-support work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core idea that visiting military memorials helps younger generations appreciate those who served."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria thinks it’s important because visiting military memorials helps younger generations understand, respect, and appreciate the sacrifices of veterans, and it supports the broader effort to honor veterans and make a difference.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea of appreciating and honoring veterans' service and sacrifices."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria thinks it’s important because visiting military memorials helps younger generations understand, respect, and appreciate the sacrifices of veterans, and it supports the broader effort to honor veterans and make a difference.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea of appreciating and honoring veterans' service and sacrifices."
+    }
+  }
+}

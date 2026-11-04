@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q166",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did Joanna describe the classic movie he watched?",
+  "ground_truth_answer": "gripping with great actors",
+  "evidence": [
+    "D23:18"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How did Joanna describe the classic movie he watched?",
+    "search_results": [
+      {
+        "memory": "Joanna watched a classic movie around early October 2022 that she found awesome, noting the story was gripping and the actors were great, and it really stuck with her.",
+        "score": 0.8915016861443013,
+        "id": "46eaa970-7ebc-4eb1-8a0e-a450ae907171",
+        "created_at": "2026-11-03T03:21:56.383101+00:00",
+        "updated_at": "2026-11-03T03:21:56.383101+00:00"
+      },
+      {
+        "memory": "Joanna rated the classic movie she watched around early October 2022 as a 9 or 10 out of 10, describing it as amazing and noting that movies can take viewers to different places and evoke many emotions.",
+        "score": 0.86726401927423,
+        "id": "2f674fe1-fcd3-4580-9162-8ec41da92f7a",
+        "created_at": "2026-11-03T03:22:31.574326+00:00",
+        "updated_at": "2026-11-03T03:22:31.574326+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.774984504922948,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.7635662084869885,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna watched the movie 'Little Women' and found it deeply resonant, appreciating how well it explored themes of sisterhood, love, and chasing dreams.",
+        "score": 0.671665607183211,
+        "id": "417f3e2f-b74b-47cc-b4f8-e7aaa67ec377",
+        "created_at": "2026-11-03T03:19:18.830641+00:00",
+        "updated_at": "2026-11-03T03:19:18.830641+00:00"
+      },
+      {
+        "memory": "Joanna worked hard on another movie script and created a plan for getting it made into a movie, describing the process as a ton of work but satisfying.",
+        "score": 0.6683360313493902,
+        "id": "70edd90e-63bc-4bae-8234-7727b77f6df8",
+        "created_at": "2026-11-03T03:30:26.592696+00:00",
+        "updated_at": "2026-11-03T03:30:26.592696+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as an amazing experience, noting it was the third time this has happened and that watching her characters and dialogue acted out made her hard work feel rewarding.",
+        "score": 0.6660514311593111,
+        "id": "66a203cd-3881-4ef6-86b1-553d8702e56e",
+        "created_at": "2026-11-03T03:24:18.234826+00:00",
+        "updated_at": "2026-11-03T03:24:18.234826+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie script on the big screen was watching her characters come alive, describing it as a surreal experience where they felt like they jumped off the page and became real.",
+        "score": 0.6617903557499768,
+        "id": "5be932b5-fe1a-4d5e-ae69-a71907fab878",
+        "created_at": "2026-11-03T03:24:25.952193+00:00",
+        "updated_at": "2026-11-03T03:24:25.952193+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time her work has been featured in a film. She described the experience as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.6566240627240257,
+        "id": "2c60d06f-4b11-4c0d-bc91-6e9089ff420b",
+        "created_at": "2026-11-03T03:24:38.018257+00:00",
+        "updated_at": "2026-11-03T03:24:38.018257+00:00"
+      },
+      {
+        "memory": "Joanna's favorite part of seeing her movie adaptations is watching her characters come alive, describing the experience as surreal and feeling like they jumped off the page to become real.",
+        "score": 0.6561639428869206,
+        "id": "74b6f6a1-f494-4173-94cd-4bdc72a22438",
+        "created_at": "2026-11-03T03:24:52.406064+00:00",
+        "updated_at": "2026-11-03T03:24:52.406064+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script, describing the experience as wild and awesome with every day on set full of potential to show her vision.",
+        "score": 0.6513748716810288,
+        "id": "511f96c5-a7be-49cd-ac21-ba27866bc214",
+        "created_at": "2026-11-03T03:32:36.204567+00:00",
+        "updated_at": "2026-11-03T03:32:36.204567+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as a surreal and satisfying moment after waiting a long time, feeling rewarded by the hard work and determination she put into writing the characters and dialogue.",
+        "score": 0.6506394377450522,
+        "id": "f341af1c-7d53-4946-bad7-19bd26813f52",
+        "created_at": "2026-11-03T03:24:21.099313+00:00",
+        "updated_at": "2026-11-03T03:24:21.099313+00:00"
+      },
+      {
+        "memory": "Joanna contributed to another movie script that was shown on the big screen for the first time on October 23, 2022, describing the experience as surreal and satisfying after waiting a long time.",
+        "score": 0.6452329646009545,
+        "id": "34490e46-5555-4258-94e1-b6d727c6ffea",
+        "created_at": "2026-11-03T03:24:09.315611+00:00",
+        "updated_at": "2026-11-03T03:24:09.315611+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time.",
+        "score": 0.6420443842650259,
+        "id": "027462ab-0b4e-4865-9f7d-76a3827249dc",
+        "created_at": "2026-11-03T03:24:14.988086+00:00",
+        "updated_at": "2026-11-03T03:24:14.988086+00:00"
+      },
+      {
+        "memory": "Joanna is writing a movie script that is a love story with lots of challenges, which she hopes to get on the big screen; she got the idea for this script from a dream and describes writing as a long-standing passion.",
+        "score": 0.6407409539141654,
+        "id": "2cf3db00-0da3-406f-a068-2110457654fb",
+        "created_at": "2026-11-03T03:27:31.240908+00:00",
+        "updated_at": "2026-11-03T03:27:31.240908+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her current movie script from a dream and describes writing as a lifelong passion that brings her happiness and fulfillment.",
+        "score": 0.6389413248843836,
+        "id": "cd8dc28c-0308-4e6b-8821-d939e3119fd9",
+        "created_at": "2026-11-03T03:28:36.466555+00:00",
+        "updated_at": "2026-11-03T03:28:36.466555+00:00"
+      },
+      {
+        "memory": "Joanna enjoys watching dramas and emotionally-driven films, which she cites as a source of inspiration for her writing.",
+        "score": 0.6386846083580303,
+        "id": "4230cb43-c4eb-49cb-9acb-35ef459bb422",
+        "created_at": "2026-11-03T03:04:37.017043+00:00",
+        "updated_at": "2026-11-03T03:04:37.017043+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, describing the experience as wild and awesome to see her vision come alive on set.",
+        "score": 0.6375639343921804,
+        "id": "243e3b33-97ce-4d0d-8a9f-90981ac12d49",
+        "created_at": "2026-11-03T03:32:51.743882+00:00",
+        "updated_at": "2026-11-03T03:32:51.743882+00:00"
+      },
+      {
+        "memory": "Joanna's third movie script was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.6288180121570519,
+        "id": "33acbf6e-5f44-451a-b2d1-738ce304072b",
+        "created_at": "2026-11-03T03:24:30.590140+00:00",
+        "updated_at": "2026-11-03T03:24:30.590140+00:00"
+      },
+      {
+        "memory": "Joanna is seeking movie recommendations on October 6, 2022, noting that she could use some suggestions for good films to watch recently.",
+        "score": 0.627707811430243,
+        "id": "d4d71e22-1886-4bb3-87d1-62c762793eef",
+        "created_at": "2026-11-03T03:19:13.013572+00:00",
+        "updated_at": "2026-11-03T03:19:13.013572+00:00"
+      }
+    ],
+    "search_latency_ms": 101.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna described the classic movie as awesome and amazing, with a gripping story and great actors, saying it really stuck with her and rating it 9 or 10 out of 10.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key descriptors, specifically a gripping story and great actors, with additional positive details."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna described the classic movie as awesome and amazing, saying it had a gripping story and great actors, and that it really stuck with her. She also rated it a 9 or 10 out of 10.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors, 'gripping' and 'great actors,' along with additional positive details."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna described the classic movie as awesome and amazing, with a gripping story and great actors, saying it really stuck with her; she rated it a 9 or 10 out of 10.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors 'gripping' and 'great actors', so it is correct."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna described the classic movie as awesome and amazing, with a gripping story and great actors, saying it really stuck with her and rating it a 9 or 10 out of 10.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key descriptors, specifically that the movie was gripping and had great actors."
+    }
+  }
+}

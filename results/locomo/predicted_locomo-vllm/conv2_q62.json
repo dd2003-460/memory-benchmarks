@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q62",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+  "ground_truth_answer": "two",
+  "evidence": [
+    "D30:1",
+    "D31:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+    "search_results": [
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.898988753216052,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023 and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.8951313199505643,
+        "id": "e98eedd6-c57d-4f97-b841-6e9804670ec9",
+        "created_at": "2026-11-03T00:31:47.159168+00:00",
+        "updated_at": "2026-11-03T00:31:47.159168+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.8871471551744115,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.8863770196333431,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.8253705172398984,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "John expressed interest in looking into animal shelters near him to adopt a new puppy for his household.",
+        "score": 0.7615501195091429,
+        "id": "d34b380b-8800-4dca-aa97-809a30ba69d1",
+        "created_at": "2026-11-03T00:48:44.674975+00:00",
+        "updated_at": "2026-11-03T00:48:44.674975+00:00"
+      },
+      {
+        "memory": "John is planning to look into animal shelters near him soon with the goal of adopting a new puppy for his household.",
+        "score": 0.7506245167056323,
+        "id": "a8cef82a-a94d-41ec-b584-c4fd60d577aa",
+        "created_at": "2026-11-03T00:49:03.788683+00:00",
+        "updated_at": "2026-11-03T00:49:03.788683+00:00"
+      },
+      {
+        "memory": "John and Maria volunteered together at a local homeless shelter in early 2022, an experience they both found fulfilling",
+        "score": 0.741441350552235,
+        "id": "2ee39c84-fd58-4a08-951e-7292922a9c3d",
+        "created_at": "2026-11-03T00:24:23.062108+00:00",
+        "updated_at": "2026-11-03T00:24:23.062108+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.741050022563691,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "John and his family are considering adopting a rescue dog to teach their kids responsibility and compassion, motivated by the love they felt for their late pet Max.",
+        "score": 0.7327948520659325,
+        "id": "c0b2796f-b1ad-4b2a-b689-72f8200ebe9a",
+        "created_at": "2026-11-03T00:31:42.310320+00:00",
+        "updated_at": "2026-11-03T00:31:42.310320+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to give it a loving home and to teach his children responsibility and compassion.",
+        "score": 0.732075882670914,
+        "id": "6823f33d-c505-4486-b52f-eeaf8e0955f4",
+        "created_at": "2026-11-03T00:31:49.701644+00:00",
+        "updated_at": "2026-11-03T00:31:49.701644+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7320518686758548,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to provide a loving home and to teach his kids responsibility and compassion.",
+        "score": 0.730235624336381,
+        "id": "7519d061-b948-4e64-8aad-865b3ce58397",
+        "created_at": "2026-11-03T00:31:54.022740+00:00",
+        "updated_at": "2026-11-03T00:31:54.022740+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to provide a loving home and to teach his kids responsibility and compassion.",
+        "score": 0.730235624336381,
+        "id": "156b0f89-d013-4cf8-9d44-cd28855d00b3",
+        "created_at": "2026-11-03T00:31:47.154969+00:00",
+        "updated_at": "2026-11-03T00:31:47.154969+00:00"
+      },
+      {
+        "memory": "John plans to look into local shelters soon to adopt a new puppy for his family, expressing that it would be great to have a new pup in the house.",
+        "score": 0.7278275362227251,
+        "id": "76a8f119-3d06-4986-9864-b2aa4134fc4b",
+        "created_at": "2026-11-03T00:48:39.688426+00:00",
+        "updated_at": "2026-11-03T00:48:39.688426+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.7256862216993221,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.7225878248658208,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.7224240105230086,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a handwritten thank-you note expressing heartfelt gratitude for the support received, which Maria shared on August 3, 2023.",
+        "score": 0.7195779641502018,
+        "id": "2dfa8ad9-875b-4e79-97bb-812603d157b4",
+        "created_at": "2026-11-03T00:44:53.526971+00:00",
+        "updated_at": "2026-11-03T00:44:53.526971+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.7053790439485585,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      }
+    ],
+    "search_latency_ms": 71.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "1",
+      "memories_evaluated": 10,
+      "reason": "The generated answer says 1, which does not match the gold answer of two and contains no correct item."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "1",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says 1, which does not match the gold answer of two and contains no correct item."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "1",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says 1, which does not match the gold answer of two and contains no correct item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "1",
+      "memories_evaluated": 20,
+      "reason": "The generated answer says 1, which does not match the gold answer of two and contains no correct item."
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "question_id": "conv3_q23",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Which of Joanna's screenplay were rejected from production companies?",
+  "ground_truth_answer": "first screenplay on drama and romance, third screenplay on loss identity and connection",
+  "evidence": [
+    "D14:1",
+    "D3:1",
+    "D2:7",
+    "D24:12",
+    "D24:13"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Which of Joanna's screenplay were rejected from production companies?",
+    "search_results": [
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback in her writing career.",
+        "score": 0.8667519421231586,
+        "id": "701602ac-10ba-4749-8377-9ab84d786c1e",
+        "created_at": "2026-11-03T03:23:43.412270+00:00",
+        "updated_at": "2026-11-03T03:23:43.412270+00:00"
+      },
+      {
+        "memory": "Joanna recently received a rejection from a production company around October 25, 2022, which she described as a setback but stated she will not let it slow her down and plans to keep pushing forward in her career",
+        "score": 0.8400086645384359,
+        "id": "4e351243-ed2f-4e1d-a0b8-5c1f740edfa1",
+        "created_at": "2026-11-03T03:24:07.105912+00:00",
+        "updated_at": "2026-11-03T03:24:07.105912+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep working hard and moving forward.",
+        "score": 0.8340223789040302,
+        "id": "1d4501a4-1fad-4c93-86f5-6d89752bcac2",
+        "created_at": "2026-11-03T03:23:55.205237+00:00",
+        "updated_at": "2026-11-03T03:23:55.205237+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.8312226979234515,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep grinding and moving ahead without letting it slow her down.",
+        "score": 0.8249746677375842,
+        "id": "81e3bd9c-5e75-4b98-a4dd-1362c3000396",
+        "created_at": "2026-11-03T03:23:49.469355+00:00",
+        "updated_at": "2026-11-03T03:23:49.469355+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.7159921020720135,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who has had two published movies and recently submitted several new scripts in early November 2022, hoping for positive responses while anticipating some rejections.",
+        "score": 0.7138435097956185,
+        "id": "5370a444-5c1e-42fe-ae73-aa250d43f35d",
+        "created_at": "2026-11-03T03:28:47.519730+00:00",
+        "updated_at": "2026-11-03T03:28:47.519730+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.7137721289411127,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her third screenplay, which significantly discouraged her and made her feel bummed out.",
+        "score": 0.6983419171350712,
+        "id": "62bbfecd-688d-40e2-8046-b9cbde34430a",
+        "created_at": "2026-11-03T03:08:40.405113+00:00",
+        "updated_at": "2026-11-03T03:08:40.405113+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.6979240233936038,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from the major company without specific feedback, which she found disheartening because she did not know why her screenplay was rejected.",
+        "score": 0.6950813064288739,
+        "id": "3d3be875-c6a8-43c2-8b42-efc5bb91a9fd",
+        "created_at": "2026-11-03T03:08:48.784725+00:00",
+        "updated_at": "2026-11-03T03:08:48.784725+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week preceding November 7, 2022, and is hoping to hear back from them soon while anticipating that some will be rejected.",
+        "score": 0.6862726684427035,
+        "id": "f8b1d4d5-1da6-46e5-aea6-577e3b4719e7",
+        "created_at": "2026-11-03T03:28:25.857860+00:00",
+        "updated_at": "2026-11-03T03:28:25.857860+00:00"
+      },
+      {
+        "memory": "Joanna submitted several more movie scripts in the week of November 1, 2022, hoping to hear back soon while expecting some rejections, and is determined not to give up on her goal of becoming a published filmmaker.",
+        "score": 0.6853841262107976,
+        "id": "3ce0f293-0b1a-4c65-9f8a-791160112fb9",
+        "created_at": "2026-11-03T03:29:07.053783+00:00",
+        "updated_at": "2026-11-03T03:29:07.053783+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts during the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6852260918569735,
+        "id": "77cae654-82d5-49f3-a6a4-a02fd887c662",
+        "created_at": "2026-11-03T03:28:42.610116+00:00",
+        "updated_at": "2026-11-03T03:28:42.610116+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week of November 1-7, 2022, hoping to hear back soon while expecting some rejections.",
+        "score": 0.6849833878777125,
+        "id": "216c1077-a638-41ad-b9f3-e642f9515f43",
+        "created_at": "2026-11-03T03:28:36.470026+00:00",
+        "updated_at": "2026-11-03T03:28:36.470026+00:00"
+      },
+      {
+        "memory": "Joanna submitted a few more movie scripts in the week of November 1-7, 2022, hoping to hear back soon but expecting some rejections.",
+        "score": 0.6823386627927838,
+        "id": "ffa46728-e4c9-4bf2-ae85-9f7cd2555239",
+        "created_at": "2026-11-03T03:28:22.535157+00:00",
+        "updated_at": "2026-11-03T03:28:22.535157+00:00"
+      },
+      {
+        "memory": "Joanna submitted several movie scripts in the week prior to November 7, 2022, and is hoping to hear back from them soon while expecting some rejections.",
+        "score": 0.6778419678005186,
+        "id": "571788f2-fb22-4a4a-a736-e267ee5c3c80",
+        "created_at": "2026-11-03T03:28:29.338719+00:00",
+        "updated_at": "2026-11-03T03:28:29.338719+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest to gauge how others might receive it.",
+        "score": 0.6751609184773396,
+        "id": "f73cbaf7-511b-4989-9111-b0bc13b5e428",
+        "created_at": "2026-11-03T03:11:22.964477+00:00",
+        "updated_at": "2026-11-03T03:11:22.964477+00:00"
+      },
+      {
+        "memory": "Joanna completed her third screenplay, which she described as a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.6727901213758648,
+        "id": "e24fe053-ef54-4635-99e6-33cd9ee416e1",
+        "created_at": "2026-11-03T03:07:28.708016+00:00",
+        "updated_at": "2026-11-03T03:07:28.708016+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.6651528786187275,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      }
+    ],
+    "search_latency_ms": 79.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her third screenplay.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the third screenplay, which is one of the correct items in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her third screenplay—the personal story about loss, identity, and connection.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the third screenplay about loss, identity, and connection, which is one of the gold answer items."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her third screenplay—the personal story about loss, identity, and connection.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the third screenplay about loss, identity, and connection, which is one of the gold answer items."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her third screenplay—the personal story about loss, identity, and connection.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the third screenplay about loss, identity, and connection, which is one of the gold answer items."
+    }
+  }
+}

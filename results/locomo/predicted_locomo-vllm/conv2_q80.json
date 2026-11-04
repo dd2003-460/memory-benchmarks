@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q80",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Maria make for her home to remind her of a trip to England?",
+  "ground_truth_answer": "painting of a castle on a hill",
+  "evidence": [
+    "D8:15"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did Maria make for her home to remind her of a trip to England?",
+    "search_results": [
+      {
+        "memory": "Maria took a solo trip to Spain in 2022, where she photographed a sunrise beach scene that reminded her of hope and beauty despite life's hardships, reinforcing the importance of relying on inner strength and appreciating small moments.",
+        "score": 0.771054836296785,
+        "id": "f2e2e20d-3904-469d-a2d1-9f8292d7cd98",
+        "created_at": "2026-11-03T00:28:45.898940+00:00",
+        "updated_at": "2026-11-03T00:28:45.898940+00:00"
+      },
+      {
+        "memory": "Maria realized during her solo trip to Spain in 2022 that it is important to value different perspectives and the power of solitude, and that the experience reminded her of the importance of letting go and trusting life.",
+        "score": 0.7493538303109806,
+        "id": "8802ea54-3bd5-425f-bced-2ca03aff77a5",
+        "created_at": "2026-11-03T00:28:53.364596+00:00",
+        "updated_at": "2026-11-03T00:28:53.364596+00:00"
+      },
+      {
+        "memory": "Maria tried surfing for the first time during her solo trip to Spain in 2022, finding it exciting despite falling off repeatedly, and learned the value of perseverance and trying new things from the experience.",
+        "score": 0.6628128357510759,
+        "id": "97f95ea8-7bb4-488c-9162-f1ad71fb024e",
+        "created_at": "2026-11-03T00:28:57.272928+00:00",
+        "updated_at": "2026-11-03T00:28:57.272928+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.5919077024277799,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.5907902131814138,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "During her trip, Maria shared that she realized the importance of valuing different perspectives, the power of solitude, and letting go to trust life.",
+        "score": 0.5884280236787103,
+        "id": "e1ac1471-89b0-4141-8396-8c07f74df70b",
+        "created_at": "2026-11-03T00:29:11.470167+00:00",
+        "updated_at": "2026-11-03T00:29:11.470167+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.586519331178212,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "Maria describes her family as her rock during her current period of struggle, noting they provide words of encouragement and remind her she is not alone, which brings her relief.",
+        "score": 0.5848987761124869,
+        "id": "ea926964-0a3d-4f22-abb3-a66a193c4089",
+        "created_at": "2026-11-03T00:35:50.481276+00:00",
+        "updated_at": "2026-11-03T00:35:50.481276+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.5563087356434512,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.5540371444641224,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person standing on a cliff overlooking a canyon while discussing a road trip to Oregon she took with her family when she was younger.",
+        "score": 0.5485347403800844,
+        "id": "119a5fa4-cd0c-43df-9814-52d75e188a27",
+        "created_at": "2026-11-03T00:32:00.865294+00:00",
+        "updated_at": "2026-11-03T00:32:00.865294+00:00"
+      },
+      {
+        "memory": "Maria is helping her cousin find a new place to live after the cousin had to leave her previous home in a hurry due to recent difficulties, which has been stressful but is making progress.",
+        "score": 0.5449987671523798,
+        "id": "1f6bc244-6c28-46a2-8e58-bdbd43fe5fb9",
+        "created_at": "2026-11-03T00:38:21.700071+00:00",
+        "updated_at": "2026-11-03T00:38:21.700071+00:00"
+      },
+      {
+        "memory": "John took a family trip in 2022 to celebrate his daughter Sara's birthday, which he describes as a source of motivation and good memories that help him stay focused on his community work.",
+        "score": 0.5343208017818911,
+        "id": "5f52b211-c453-4b41-92bb-04dc777f24f0",
+        "created_at": "2026-11-03T00:39:57.214622+00:00",
+        "updated_at": "2026-11-03T00:39:57.214622+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.34907465127407267,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.33826517445873516,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the shelter where Maria volunteers wrote a handwritten thank you note expressing heartfelt gratitude for the support received, which Maria shared as evidence of the impact of her work.",
+        "score": 0.32462878632527936,
+        "id": "0b0b9a00-f09c-4796-b74f-eb6b71a70663",
+        "created_at": "2026-11-03T00:45:16.521123+00:00",
+        "updated_at": "2026-11-03T00:45:16.521123+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.2420397483764969,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.2253030634956637,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.22051756203745648,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.21429111234267895,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      }
+    ],
+    "search_latency_ms": 76.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not mention a trip to England or an item Maria made for her home; they describe a solo trip to Spain where she photographed a sunrise beach scene.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly denies the premise of the question and provides a completely different scenario (Spain vs. England), failing to include any correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A photo of a sunrise beach scene.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a beach sunrise photo, which does not match the gold answer's painting of a castle on a hill."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a photo of a sunrise beach scene",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a beach sunrise photo, which does not match the gold answer's painting of a castle on a hill."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "a photo of a sunrise beach scene",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a beach sunrise photo, which does not match the gold answer's painting of a castle on a hill."
+    }
+  }
+}

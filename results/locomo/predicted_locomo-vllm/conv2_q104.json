@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q104",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How long was Max a part of John's family?",
+  "ground_truth_answer": "10 years",
+  "evidence": [
+    "D17:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How long was Max a part of John's family?",
+    "search_results": [
+      {
+        "memory": "John and his family recently said goodbye to their pet Max, who had been an important part of the family for 10 years. As of June 3, 2023, they are still sad but finding comfort in the good times and memories they shared with him.",
+        "score": 0.7812884024580178,
+        "id": "f19929c6-e02f-4629-9d10-ab168d01a78c",
+        "created_at": "2026-11-03T00:31:25.851354+00:00",
+        "updated_at": "2026-11-03T00:31:25.851354+00:00"
+      },
+      {
+        "memory": "John's family recently said goodbye to their pet Max, who had been an important part of the family for 10 years; John finds it hard to accept that Max is no longer there.",
+        "score": 0.7808918727417355,
+        "id": "0002fc5e-d7bb-48e7-8641-403e7893c1fa",
+        "created_at": "2026-11-03T00:31:21.781872+00:00",
+        "updated_at": "2026-11-03T00:31:21.781872+00:00"
+      },
+      {
+        "memory": "John's late dog Max was a golden retriever who brought the family joy and taught John and his kids about unconditional love, loyalty, and responsibility.",
+        "score": 0.7635776116111157,
+        "id": "cb5cce34-98b6-4f22-aade-98d9724718e5",
+        "created_at": "2026-11-03T00:31:49.698043+00:00",
+        "updated_at": "2026-11-03T00:31:49.698043+00:00"
+      },
+      {
+        "memory": "John believes that his late pet Max taught his family a lot about love and loyalty, and he feels grateful to have had him as part of their family despite the heartbreak of his passing.",
+        "score": 0.7562010159448236,
+        "id": "ca7e3875-71b9-4848-8f6f-4d128e21cbd3",
+        "created_at": "2026-11-03T00:31:34.249159+00:00",
+        "updated_at": "2026-11-03T00:31:34.249159+00:00"
+      },
+      {
+        "memory": "John's dog Max has passed away, and John cherishes the memory of him as peaceful and happy, noting that Max brought the family joy and taught them about love and loyalty.",
+        "score": 0.7544185681513255,
+        "id": "daf48ba8-040f-41ed-8629-5f8ad06a8b41",
+        "created_at": "2026-11-03T00:31:54.015827+00:00",
+        "updated_at": "2026-11-03T00:31:54.015827+00:00"
+      },
+      {
+        "memory": "John's family recently lost their dog Max, a golden retriever, and they are finding comfort in the memories of the good times they shared with him.",
+        "score": 0.753764558389332,
+        "id": "c9015984-03be-4cf9-ac2e-5f6d9ecfcf6e",
+        "created_at": "2026-11-03T00:31:47.140735+00:00",
+        "updated_at": "2026-11-03T00:31:47.140735+00:00"
+      },
+      {
+        "memory": "John cherishes a photo of his late dog Max sitting peacefully in the grass in the backyard under tree shade, which he views as a representation of how Max brought joy to the family.",
+        "score": 0.7180315462358781,
+        "id": "44ea0acb-80dc-4d52-84a2-d36cce214db0",
+        "created_at": "2026-11-03T00:31:47.144752+00:00",
+        "updated_at": "2026-11-03T00:31:47.144752+00:00"
+      },
+      {
+        "memory": "John believes his bond with Max taught him and his kids important lessons about unconditional love and loyalty, which he wants to pass on to them.",
+        "score": 0.7083297104695572,
+        "id": "83fa5ac3-77ab-43f1-a4c4-707810e1b9d8",
+        "created_at": "2026-11-03T00:31:47.149874+00:00",
+        "updated_at": "2026-11-03T00:31:47.149874+00:00"
+      },
+      {
+        "memory": "John shared a photo of his late dog Max playing fetch with a young kid, noting that he is still thinking about Max and finds comfort in pets lifting spirits.",
+        "score": 0.6956805029791748,
+        "id": "0292aee0-5a23-4a45-8b01-0a63bfcbc1bf",
+        "created_at": "2026-11-03T00:47:32.019484+00:00",
+        "updated_at": "2026-11-03T00:47:32.019484+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John found peaceful and a nice break from everyday hustle.",
+        "score": 0.6863665650232342,
+        "id": "f374fefa-fa3a-417e-b202-2e2ebbb4ca09",
+        "created_at": "2026-11-03T00:47:43.303194+00:00",
+        "updated_at": "2026-11-03T00:47:43.303194+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle",
+        "score": 0.6785305326740655,
+        "id": "f67fcfd2-278a-4d57-a37e-56d8b876e88d",
+        "created_at": "2026-11-03T00:47:56.100731+00:00",
+        "updated_at": "2026-11-03T00:47:56.100731+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.6737251771425057,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John has children and wants to teach them the importance of unconditional love and loyalty, values he learned from his late pet Max.",
+        "score": 0.66859430840107,
+        "id": "fa931643-9ec4-414a-831d-085200a10bdc",
+        "created_at": "2026-11-03T00:31:38.157128+00:00",
+        "updated_at": "2026-11-03T00:31:38.157128+00:00"
+      },
+      {
+        "memory": "John has a golden retriever named Max, whom he misses and shares photos of, including one of them playing fetch together.",
+        "score": 0.663551744862753,
+        "id": "780cf389-8a75-4440-b871-5c89ac629089",
+        "created_at": "2026-11-03T00:47:43.298290+00:00",
+        "updated_at": "2026-11-03T00:47:43.298290+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.6628602817829108,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John wants to teach his kids the importance of unconditional love and loyalty, values he learned from his bond with his late dog Max.",
+        "score": 0.6558324125173169,
+        "id": "5bbffebf-8110-410e-83f6-6cb13af4ff09",
+        "created_at": "2026-11-03T00:31:54.019700+00:00",
+        "updated_at": "2026-11-03T00:31:54.019700+00:00"
+      },
+      {
+        "memory": "John went on a camping trip with his late pet Max, a golden retriever, in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience that made great memories.",
+        "score": 0.6554657033024379,
+        "id": "3a1a84ed-ace9-4d8e-a430-e09f4696ab7f",
+        "created_at": "2026-11-03T00:47:37.300437+00:00",
+        "updated_at": "2026-11-03T00:47:37.300437+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.6525736730737388,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John shared a cherished photo of his late pet Max, a golden retriever, sitting in the grass with a leash under tree shade in the backyard, as part of honoring their loved ones' memories.",
+        "score": 0.6308224870967952,
+        "id": "64c45373-7ad6-49fb-967f-0c8a26806261",
+        "created_at": "2026-11-03T00:31:29.841434+00:00",
+        "updated_at": "2026-11-03T00:31:29.841434+00:00"
+      },
+      {
+        "memory": "John was promoted at work around June 16, 2023, a milestone he described as taking a long time to achieve and being over the moon about.",
+        "score": 0.5537482288916589,
+        "id": "444edc6e-7078-453a-93e4-9858513e72bb",
+        "created_at": "2026-11-03T00:32:56.324875+00:00",
+        "updated_at": "2026-11-03T00:32:56.324875+00:00"
+      }
+    ],
+    "search_latency_ms": 68.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "10 years",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "10 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "10 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "10 years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q72",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of activities did John and his mates from the online group do as part of their service efforts?",
+  "ground_truth_answer": "gave out food and supplies at a homeless shelter, organized a toy drive for kids in need",
+  "evidence": [
+    "D3:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What kind of activities did John and his mates from the online group do as part of their service efforts?",
+    "search_results": [
+      {
+        "memory": "John is a member of a virtual support group and recently asked his family and friends to join as advocates for the military, noting it has been rewarding to see people come together to support service members.",
+        "score": 0.7830188852583274,
+        "id": "40c843f5-ac20-419a-b262-387fbe5a8a27",
+        "created_at": "2026-11-03T00:44:59.840785+00:00",
+        "updated_at": "2026-11-03T00:44:59.840785+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it has been awesome seeing people come together to support service members.",
+        "score": 0.7792578644785482,
+        "id": "abcfd7c8-93ff-463c-9f40-db41e7b9ac40",
+        "created_at": "2026-11-03T00:45:02.562225+00:00",
+        "updated_at": "2026-11-03T00:45:02.562225+00:00"
+      },
+      {
+        "memory": "John asked family and friends to join the virtual support group he is a part of and become advocates for the military, finding it rewarding to see people come together to support service members.",
+        "score": 0.7536294224873067,
+        "id": "d7a6708b-486d-4951-8bd9-b47429cad6d5",
+        "created_at": "2026-11-03T00:44:43.420226+00:00",
+        "updated_at": "2026-11-03T00:44:43.420226+00:00"
+      },
+      {
+        "memory": "John participated in a two-hour group effort with the fire-fighting brigade to load a truck with supplies, finding the hard work satisfying as they did something good for the community.",
+        "score": 0.7359224493553753,
+        "id": "43e902a5-17f0-459d-ba32-6bbfc90eccee",
+        "created_at": "2026-11-03T00:49:41.157556+00:00",
+        "updated_at": "2026-11-03T00:49:41.157556+00:00"
+      },
+      {
+        "memory": "John found the collaborative effort of his fire-fighting brigade to be satisfying, noting that the group succeeded at an important task in just two hours and worked hard together.",
+        "score": 0.6345939510755919,
+        "id": "7af9f741-5e6e-4ac7-ae9e-c090769e10a4",
+        "created_at": "2026-11-03T00:49:32.266446+00:00",
+        "updated_at": "2026-11-03T00:49:32.266446+00:00"
+      },
+      {
+        "memory": "John feels that his involvement in community service and helping others is his true calling, giving him a strong sense of purpose and passion.",
+        "score": 0.6342512243053815,
+        "id": "a10e07bc-1a4a-444e-83b3-aafe3017ed54",
+        "created_at": "2026-11-03T00:50:06.778628+00:00",
+        "updated_at": "2026-11-03T00:50:06.778628+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it was awesome seeing people come together to support those serving the nation.",
+        "score": 0.610146913709786,
+        "id": "6bbf222b-e921-4aa2-8252-9a9e3cc6d08d",
+        "created_at": "2026-11-03T00:44:57.050065+00:00",
+        "updated_at": "2026-11-03T00:44:57.050065+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.6093353862131952,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John feels a strong bond with his current team that he has not felt since his time in the military, finding their collective effort to serve and protect the community fulfilling and meaningful",
+        "score": 0.6015718188958814,
+        "id": "4208c136-767f-4b84-a720-ec8f1f955265",
+        "created_at": "2026-11-03T00:44:38.662900+00:00",
+        "updated_at": "2026-11-03T00:44:38.662900+00:00"
+      },
+      {
+        "memory": "John asked family and friends to join the virtual support group he is a part of and become advocates for the military, noting it has been awesome seeing people come together to support those serving the nation",
+        "score": 0.5925464048054618,
+        "id": "70cbd844-132c-4e46-ac99-794ab5a7475f",
+        "created_at": "2026-11-03T00:44:38.657820+00:00",
+        "updated_at": "2026-11-03T00:44:38.657820+00:00"
+      },
+      {
+        "memory": "John describes his veterans' organization as a family-like group of passionate people who always support each other.",
+        "score": 0.5589416366625211,
+        "id": "d49bbf35-a1ba-410d-a6d2-6806b1c402ee",
+        "created_at": "2026-11-03T00:42:29.561899+00:00",
+        "updated_at": "2026-11-03T00:42:29.561899+00:00"
+      },
+      {
+        "memory": "John found the dedication and teamwork of the fire-fighting brigade inspiring, noting that it only took the group two hours to complete their task, which he described as hard work but really satisfying.",
+        "score": 0.532258982496107,
+        "id": "566209ce-7442-483e-a26f-8b973ae0ef48",
+        "created_at": "2026-11-03T00:49:34.894323+00:00",
+        "updated_at": "2026-11-03T00:49:34.894323+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.5106048120749468,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.5016213376124835,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.469665046702219,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.4502753372738222,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John organized a charity run for veterans in downtown, which involved significant effort to secure sponsors and coordinate with the city, and he shared a map of the downtown streets used for the event.",
+        "score": 0.4499462535058158,
+        "id": "202327bd-7925-4a4b-aa41-d7ae957d8b41",
+        "created_at": "2026-11-03T00:47:12.938873+00:00",
+        "updated_at": "2026-11-03T00:47:12.938873+00:00"
+      },
+      {
+        "memory": "John participated in a two-hour community effort with the fire-fighting brigade to collect donations including canned food, toiletries, and clothes to support the local fire station.",
+        "score": 0.44575597092996844,
+        "id": "860cfc41-de2f-47cf-be9b-99a3e2da7c06",
+        "created_at": "2026-11-03T00:49:48.412001+00:00",
+        "updated_at": "2026-11-03T00:49:48.412001+00:00"
+      },
+      {
+        "memory": "John works with a group of veterans in an organization he describes as family-like, where members always support each other, and he finds their stories inspiring and heartbreaking yet hopeful.",
+        "score": 0.4386976581364819,
+        "id": "367cd2eb-b82b-403a-9097-8d6ee89590c1",
+        "created_at": "2026-11-03T00:42:37.023899+00:00",
+        "updated_at": "2026-11-03T00:42:37.023899+00:00"
+      },
+      {
+        "memory": "John participated in a community donation drive for the local fire station around August 16, 2023, where the group collected canned food, toiletries, and clothes over two hours of work.",
+        "score": 0.4370447600685562,
+        "id": "9895e042-4485-4771-a0a3-7dfffcc2a98a",
+        "created_at": "2026-11-03T00:49:52.687612+00:00",
+        "updated_at": "2026-11-03T00:49:52.687612+00:00"
+      }
+    ],
+    "search_latency_ms": 81.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "They acted as advocates for the military and supported service members.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes advocating for the military, which is completely different from the gold answer's specific activities of giving out food at a homeless shelter and organizing a toy drive."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "They acted as advocates for the military and came together to support those serving the nation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes advocating for the military, which is completely different from the gold answer's specific activities of giving out food at a homeless shelter and organizing a toy drive."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "They acted as advocates for the military and came together to support those serving the nation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes advocating for the military, which is completely different from the gold answer's specific activities of giving out food at a homeless shelter and organizing a toy drive."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "They acted as advocates for the military and came together to support those serving the nation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes advocating for the military, which is completely different from the gold answer's specific activities of giving out food at a homeless shelter and organizing a toy drive."
+    }
+  }
+}

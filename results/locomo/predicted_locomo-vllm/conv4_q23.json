@@ -1,0 +1,190 @@
+{
+  "question_id": "conv4_q23",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When is Tim attending a book conference?",
+  "ground_truth_answer": "September 2023",
+  "evidence": [
+    "D7:6"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "When is Tim attending a book conference?",
+    "search_results": [
+      {
+        "memory": "Tim is hoping to attend a book conference in September 2023, which he describes as an interesting gathering of authors, publishers, and book lovers where they discuss favorite novels and new releases.",
+        "score": 0.928278070910944,
+        "id": "fb0a300f-d225-4ae4-be4c-43c4e7b3baf2",
+        "created_at": "2026-11-03T09:08:28.259475+00:00",
+        "updated_at": "2026-11-03T09:08:28.259475+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
+        "score": 0.7828731501209122,
+        "id": "aa1733f2-a816-4079-bc52-d96a40636724",
+        "created_at": "2026-11-03T09:17:34.445242+00:00",
+        "updated_at": "2026-11-03T09:17:34.445242+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling like he was part of a magical family with others who shared his passion for fantasy.",
+        "score": 0.7757017532805731,
+        "id": "ff933eb6-aa95-48a9-a4d8-481e0dfc0fdc",
+        "created_at": "2026-11-03T09:17:29.418179+00:00",
+        "updated_at": "2026-11-03T09:17:29.418179+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling inspired like he got a new lease of life among a magical family of fans",
+        "score": 0.7706913194606038,
+        "id": "e4a06a7c-b597-439b-aa84-c6fc61a73461",
+        "created_at": "2026-11-03T09:17:50.511805+00:00",
+        "updated_at": "2026-11-03T09:17:50.511805+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
+        "score": 0.6766526382402775,
+        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
+        "created_at": "2026-11-03T09:35:34.717763+00:00",
+        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6356302003102765,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party around December 8, 2023, describing it as the coolest experience where he met many people who shared his interest in the franchise and had a lot of fun.",
+        "score": 0.6301202821006013,
+        "id": "5d3e9f19-e271-4c6f-8b55-1ee7640fec9b",
+        "created_at": "2026-11-03T09:30:57.354701+00:00",
+        "updated_at": "2026-11-03T09:30:57.354701+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is doing well in school despite being busy with studies, and he maintains a good balance by finding time to relax with books.",
+        "score": 0.6293762522514701,
+        "id": "29b6bcc8-528a-4bec-b59e-a7beedb89838",
+        "created_at": "2026-11-03T09:19:15.449975+00:00",
+        "updated_at": "2026-11-03T09:19:15.449975+00:00"
+      },
+      {
+        "memory": "Tim recently attended a fan event around August 2023, describing it as fantastic and noting that being with other fans who share his interests was a special experience.",
+        "score": 0.6274385743840645,
+        "id": "718f0b1c-7e62-45b5-8904-810484fe9a48",
+        "created_at": "2026-11-03T09:04:36.940204+00:00",
+        "updated_at": "2026-11-03T09:04:36.940204+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in early December 2023, where he met many people with similar interests and enjoyed the experience significantly.",
+        "score": 0.6264072348288892,
+        "id": "330d0a11-9e8a-4591-999e-8c902afc9501",
+        "created_at": "2026-11-03T09:31:10.110533+00:00",
+        "updated_at": "2026-11-03T09:31:10.110533+00:00"
+      },
+      {
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
+        "score": 0.622282276356065,
+        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
+        "created_at": "2026-11-03T09:34:16.758221+00:00",
+        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his desk with a bookcase full of books and various other items on October 2, 2023, while catching up with John.",
+        "score": 0.6178183792149873,
+        "id": "611124a2-13c1-4a6e-b75c-1ea7a1fa2b3f",
+        "created_at": "2026-11-03T09:16:37.128451+00:00",
+        "updated_at": "2026-11-03T09:16:37.128451+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.6138941965313369,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
+        "score": 0.611344737300864,
+        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
+        "created_at": "2026-11-03T09:29:25.434971+00:00",
+        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
+        "score": 0.6107864406577399,
+        "id": "04ce6f7e-23dd-41de-83cb-faf3dfae9961",
+        "created_at": "2026-11-03T09:31:05.114491+00:00",
+        "updated_at": "2026-11-03T09:31:05.114491+00:00"
+      },
+      {
+        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
+        "score": 0.6107864406577399,
+        "id": "c824cbde-ea7d-4316-a5e2-64ff748c6c5b",
+        "created_at": "2026-11-03T09:31:15.567137+00:00",
+        "updated_at": "2026-11-03T09:31:15.567137+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
+        "score": 0.608046111399312,
+        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
+        "created_at": "2026-11-03T09:09:46.069951+00:00",
+        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
+        "score": 0.601962016597967,
+        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
+        "created_at": "2026-11-03T09:27:37.386687+00:00",
+        "updated_at": "2026-11-03T09:27:37.386687+00:00"
+      },
+      {
+        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
+        "score": 0.6017683467777227,
+        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
+        "created_at": "2026-11-03T09:34:23.210044+00:00",
+        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+      },
+      {
+        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
+        "score": 0.5955588810820339,
+        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
+        "created_at": "2026-11-03T09:29:41.600020+00:00",
+        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+      }
+    ],
+    "search_latency_ms": 117.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

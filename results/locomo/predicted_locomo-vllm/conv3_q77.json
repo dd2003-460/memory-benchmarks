@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q77",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Nate win his second tournament?",
+  "ground_truth_answer": "The week before 2 May, 2022.",
+  "evidence": [
+    "D10:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate win his second tournament?",
+    "search_results": [
+      {
+        "memory": "Nate won his second gaming tournament in the week preceding May 2, 2022, which was a surprise to him as he had not expected to win.",
+        "score": 0.9069063777040401,
+        "id": "5f18b5ab-6b00-46a3-84ab-cfd663244a1b",
+        "created_at": "2026-11-03T03:05:21.773572+00:00",
+        "updated_at": "2026-11-03T03:05:21.773572+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but participated in a local Street Fighter tournament around April 25, 2022, where he won his second tournament after discovering he is really good at the game, which he often plays with friends.",
+        "score": 0.887811901381934,
+        "id": "e46f8254-3be8-423f-9cd3-228e333fd1b2",
+        "created_at": "2026-11-03T03:05:18.607840+00:00",
+        "updated_at": "2026-11-03T03:05:18.607840+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament the week of April 25, 2022, and has been focusing on practicing a lot to improve his skills.",
+        "score": 0.8869975312621561,
+        "id": "a49e0c06-9b65-4291-8d4c-58082b3c3714",
+        "created_at": "2026-11-03T03:05:15.625525+00:00",
+        "updated_at": "2026-11-03T03:05:15.625525+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament in the week preceding May 2, 2022, playing Street Fighter at a local event after usually playing CS:GO, and described the final match as adrenaline-filled with the other finalist shaking his hand",
+        "score": 0.8804210261818654,
+        "id": "2dcab955-1085-4f0a-af2e-9d1c80c2f7a6",
+        "created_at": "2026-11-03T03:05:32.537802+00:00",
+        "updated_at": "2026-11-03T03:05:32.537802+00:00"
+      },
+      {
+        "memory": "Nate won his second video game tournament in the week preceding May 2, 2022, and has been focusing on gaming by practicing a lot and winning multiple tournaments",
+        "score": 0.8746900891838878,
+        "id": "aff8e43d-1325-4c99-8794-574d86a19d7e",
+        "created_at": "2026-11-03T03:05:10.673224+00:00",
+        "updated_at": "2026-11-03T03:05:10.673224+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, which was held online. He described the victory as indescribable and expressed pride in making money doing what he loves.",
+        "score": 0.8616713433478695,
+        "id": "a2ebf346-b839-4676-bfce-8af36f7c1164",
+        "created_at": "2026-11-03T03:12:02.418021+00:00",
+        "updated_at": "2026-11-03T03:12:02.418021+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.8558474585082747,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, noting that the competition was online and he is proud to make money doing what he loves.",
+        "score": 0.8525653045661084,
+        "id": "33a16bfd-50d9-49b7-875f-3f18c1fcb47e",
+        "created_at": "2026-11-03T03:11:55.369946+00:00",
+        "updated_at": "2026-11-03T03:11:55.369946+00:00"
+      },
+      {
+        "memory": "Nate won a gaming tournament, which he described as a huge confidence boost and proof that his hard work paid off. He has been participating in tournaments for several years.",
+        "score": 0.8482030512483968,
+        "id": "abe063a5-403e-4f01-bfd7-2509e2110dce",
+        "created_at": "2026-11-03T03:09:29.925759+00:00",
+        "updated_at": "2026-11-03T03:09:29.925759+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, which he described as a wild success that allows him to make a living at his passion for gaming.",
+        "score": 0.8468658150054071,
+        "id": "6b9d6a50-5f40-4070-82bb-2232ece263b2",
+        "created_at": "2026-11-03T03:14:15.508117+00:00",
+        "updated_at": "2026-11-03T03:14:15.508117+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, describing the victory as indescribable and expressing pride in making money doing what he loves.",
+        "score": 0.8427955134819463,
+        "id": "f1df5fbb-011a-4010-bee9-cbbb60825bc2",
+        "created_at": "2026-11-03T03:12:21.929702+00:00",
+        "updated_at": "2026-11-03T03:12:21.929702+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, expressing pride in making money from his passion and describing the victory as indescribable.",
+        "score": 0.8373146347584302,
+        "id": "6856bad4-ab0b-4c4e-9df5-b90bd0a7be49",
+        "created_at": "2026-11-03T03:12:12.320908+00:00",
+        "updated_at": "2026-11-03T03:12:12.320908+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament in the week preceding June 3, 2022, describing the victory as a huge confidence boost that validated his hard work and allowed him to meet new people.",
+        "score": 0.8361756360639561,
+        "id": "1f222f62-c291-4d10-aacf-2e1def25d55c",
+        "created_at": "2026-11-03T03:09:16.496939+00:00",
+        "updated_at": "2026-11-03T03:09:16.496939+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament around May 27, 2022, which he described as a huge confidence boost and proof that his hard work paid off.",
+        "score": 0.8265611290679236,
+        "id": "b50e3ae5-7447-4837-a59f-ce3122d996f7",
+        "created_at": "2026-11-03T03:09:24.246996+00:00",
+        "updated_at": "2026-11-03T03:09:24.246996+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, and is now able to make a living from gaming, which he describes as turning his passion into a successful career.",
+        "score": 0.8249048272115134,
+        "id": "cb3d53b7-644c-4467-91d4-c16cdcfd741e",
+        "created_at": "2026-11-03T03:13:55.806779+00:00",
+        "updated_at": "2026-11-03T03:13:55.806779+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, and is now making a living from gaming, which he describes as a passion that has brought him success.",
+        "score": 0.8202539113142946,
+        "id": "e5f465dd-d10b-487c-80c5-e5ddd0166e28",
+        "created_at": "2026-11-03T03:14:11.530683+00:00",
+        "updated_at": "2026-11-03T03:14:11.530683+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around November 9, 2022, but did not make it to the finals; he described it as tough but expressed determination to win next time.",
+        "score": 0.8201578759733156,
+        "id": "6cd64262-36b5-4e0b-a66b-0317946c2ef2",
+        "created_at": "2026-11-03T03:30:12.291294+00:00",
+        "updated_at": "2026-11-03T03:30:12.291294+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.8183267049065815,
+        "id": "fe437e3a-97cb-49dd-b3b9-a15a828639dd",
+        "created_at": "2026-11-03T03:27:06.435052+00:00",
+        "updated_at": "2026-11-03T03:27:06.435052+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.8183267049065815,
+        "id": "c82160f0-407f-4b00-93d3-b93922b6fee7",
+        "created_at": "2026-11-03T03:28:17.698945+00:00",
+        "updated_at": "2026-11-03T03:28:17.698945+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.8183267049065815,
+        "id": "ac212d91-75c0-4723-baa1-754e98f5460b",
+        "created_at": "2026-11-03T03:28:06.176773+00:00",
+        "updated_at": "2026-11-03T03:28:06.176773+00:00"
+      }
+    ],
+    "search_latency_ms": 69.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate won his second tournament around April 25, 2022, in the week preceding May 2, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies the week preceding May 2, 2022, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The week of April 25, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date falls within the same week as the gold answer's reference to the week before May 2, 2022."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The week of April 25, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date falls within the same week as the gold answer's reference to the week before May 2, 2022."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The week of April 25, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's date falls within the same week as the gold answer's reference to the week before May 2, 2022."
+    }
+  }
+}

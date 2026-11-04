@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q112",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Joanna's project called in the writers group?",
+  "ground_truth_answer": "\"Finding Home\"",
+  "evidence": [
+    "D9:3"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Joanna's project called in the writers group?",
+    "search_results": [
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.878952409185306,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which made her feel motivated and like she finally belongs somewhere",
+        "score": 0.8718389979043512,
+        "id": "02ee203f-d412-43ad-8ae2-d3fd64dc7987",
+        "created_at": "2026-11-03T03:04:12.598846+00:00",
+        "updated_at": "2026-11-03T03:04:12.598846+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group in the week prior to August 22, 2022, feeling super nervous but receiving great feedback that made her feel her hard work was paying off.",
+        "score": 0.8716990008645042,
+        "id": "2aad159b-75d7-4be2-860b-11640e408fe5",
+        "created_at": "2026-11-03T03:14:07.173102+00:00",
+        "updated_at": "2026-11-03T03:14:07.173102+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15-21, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.8621625313813819,
+        "id": "22e269e5-f2ed-4a85-8759-0f70125c8e86",
+        "created_at": "2026-11-03T03:14:11.538519+00:00",
+        "updated_at": "2026-11-03T03:14:11.538519+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.8598845845235601,
+        "id": "8d65fcef-0597-40c8-b61f-ee76fb5ad9b6",
+        "created_at": "2026-11-03T03:14:15.512379+00:00",
+        "updated_at": "2026-11-03T03:14:15.512379+00:00"
+      },
+      {
+        "memory": "Joanna is working on a script called 'Finding Home' with her writers group, which depicts a girl's journey to find her true home; she finds the project rewarding and emotional.",
+        "score": 0.859675403344497,
+        "id": "65b3785f-c1a4-413b-8ab3-e0c44e2c258d",
+        "created_at": "2026-11-03T03:04:16.522617+00:00",
+        "updated_at": "2026-11-03T03:04:16.522617+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.8564590613453327,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.8492536561531105,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club and recently finished making a cute DIY bookmark with a plant design for one of the ladies in the group.",
+        "score": 0.8062260369013261,
+        "id": "24177697-c286-4462-8c54-24fabb1d8bb1",
+        "created_at": "2026-11-03T03:20:27.562878+00:00",
+        "updated_at": "2026-11-03T03:20:27.562878+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.7957933557692799,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who creates visual character designs to help bring her characters alive in her head, which she uses as a tool to write better.",
+        "score": 0.6876549733417121,
+        "id": "284d3c16-1b31-4e48-938c-176df7fa3412",
+        "created_at": "2026-11-03T03:25:06.483251+00:00",
+        "updated_at": "2026-11-03T03:25:06.483251+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.6815196953865569,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.6728524602338974,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.6707610418577612,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna has been busy with writing projects and describes the experience as a mix of highs and lows, noting that her journal is a major source of support and writing has become a huge part of her identity.",
+        "score": 0.6702322076984453,
+        "id": "977d0428-dc57-4506-8ad7-1177d153714a",
+        "created_at": "2026-11-03T03:13:32.621358+00:00",
+        "updated_at": "2026-11-03T03:13:32.621358+00:00"
+      },
+      {
+        "memory": "Joanna finds writing and creative projects therapeutic, using them to get through tough times, and values her supportive friends who understand and appreciate her work.",
+        "score": 0.6692453866772716,
+        "id": "5132c586-0f60-4ad0-a97e-7e08636c2285",
+        "created_at": "2026-11-03T03:07:46.805535+00:00",
+        "updated_at": "2026-11-03T03:07:46.805535+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.66882915826519,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6679022380577762,
+        "id": "4985278d-7c47-4d8f-a849-20e676af8baa",
+        "created_at": "2026-11-03T03:30:44.504642+00:00",
+        "updated_at": "2026-11-03T03:30:44.504642+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6679022380577762,
+        "id": "98225ef3-fcd6-42b2-880a-dd4e9afb63b5",
+        "created_at": "2026-11-03T03:30:50.640223+00:00",
+        "updated_at": "2026-11-03T03:30:50.640223+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6679022380577762,
+        "id": "daf03fdc-f376-4148-bec0-52588b653f59",
+        "created_at": "2026-11-03T03:31:21.128994+00:00",
+        "updated_at": "2026-11-03T03:31:21.128994+00:00"
+      }
+    ],
+    "search_latency_ms": 52.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Finding Home",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Finding Home",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Finding Home",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Finding Home",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

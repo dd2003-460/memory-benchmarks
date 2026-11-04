@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q52",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many of Joanna's writing have made it to the big screen?",
+  "ground_truth_answer": "two",
+  "evidence": [
+    "D15:1",
+    "D25:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many of Joanna's writing have made it to the big screen?",
+    "search_results": [
+      {
+        "memory": "Joanna is a screenwriter who has had three of her written works adapted into movies, and she finds it rewarding to see the hard work and determination she put into writing pay off on the big screen.",
+        "score": 0.7107803738463645,
+        "id": "e98eb2e3-f85b-4405-a9f7-1e05f40987f9",
+        "created_at": "2026-11-03T03:24:52.401667+00:00",
+        "updated_at": "2026-11-03T03:24:52.401667+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time one of her scripts has been released in theaters.",
+        "score": 0.6986605484359045,
+        "id": "edc146c1-ff48-43b7-b4f5-fa263f57572d",
+        "created_at": "2026-11-03T03:24:21.095679+00:00",
+        "updated_at": "2026-11-03T03:24:21.095679+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.6977846059511346,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6954013608719143,
+        "id": "ad0104cc-cfa8-44b2-8a68-5e466dd6d0e3",
+        "created_at": "2026-11-03T03:10:19.033326+00:00",
+        "updated_at": "2026-11-03T03:10:19.033326+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6883376459901219,
+        "id": "98232f51-cabc-47e2-ac65-24c05b88f66d",
+        "created_at": "2026-11-03T03:10:37.194689+00:00",
+        "updated_at": "2026-11-03T03:10:37.194689+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6883376459901219,
+        "id": "93d419b1-d161-4865-bfe3-9008f4a963ca",
+        "created_at": "2026-11-03T03:10:30.620142+00:00",
+        "updated_at": "2026-11-03T03:10:30.620142+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.6883376459901219,
+        "id": "ed09fcdc-d943-4cf4-8c21-d03868508c42",
+        "created_at": "2026-11-03T03:10:14.636066+00:00",
+        "updated_at": "2026-11-03T03:10:14.636066+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that was released in theaters on June 4, 2022, and described the experience as nerve-wracking but inspiring to see her words come alive on the big screen.",
+        "score": 0.6872108516841371,
+        "id": "ff584b90-36c2-4bcc-b4de-e9b4ef78b826",
+        "created_at": "2026-11-03T03:10:01.624285+00:00",
+        "updated_at": "2026-11-03T03:10:01.624285+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time her work has been featured in a film. She described the experience as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.678783023761989,
+        "id": "2c60d06f-4b11-4c0d-bc91-6e9089ff420b",
+        "created_at": "2026-11-03T03:24:38.018257+00:00",
+        "updated_at": "2026-11-03T03:24:38.018257+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, which is a love story with lots of challenges, and hopes to get it on the big screen.",
+        "score": 0.6764201362858795,
+        "id": "7a1b8513-9e6f-427e-8cba-e4d702ff44e0",
+        "created_at": "2026-11-03T03:27:26.272211+00:00",
+        "updated_at": "2026-11-03T03:27:26.272211+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges; she has put hard work into it and hopes to get it on the big screen.",
+        "score": 0.6753076545266659,
+        "id": "0936df15-68e6-419a-85f3-21e66f5a75ca",
+        "created_at": "2026-11-03T03:28:06.185271+00:00",
+        "updated_at": "2026-11-03T03:28:06.185271+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges, and she hopes to get it on the big screen.",
+        "score": 0.6726133742175444,
+        "id": "c4fd8862-553e-4342-a812-3e646204a52e",
+        "created_at": "2026-11-03T03:28:17.705007+00:00",
+        "updated_at": "2026-11-03T03:28:17.705007+00:00"
+      },
+      {
+        "memory": "Joanna is currently writing another movie script, a love story with lots of challenges, inspired by a dream, and hopes to get it on the big screen.",
+        "score": 0.669630476136764,
+        "id": "7705c919-c377-453b-a697-b6b22e82c63d",
+        "created_at": "2026-11-03T03:28:12.961555+00:00",
+        "updated_at": "2026-11-03T03:28:12.961555+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as a surreal and satisfying moment after waiting a long time, feeling rewarded by the hard work and determination she put into writing the characters and dialogue.",
+        "score": 0.6666244432293191,
+        "id": "f341af1c-7d53-4946-bad7-19bd26813f52",
+        "created_at": "2026-11-03T03:24:21.099313+00:00",
+        "updated_at": "2026-11-03T03:24:21.099313+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, inspired by a dream she had, and hopes to get it on the big screen.",
+        "score": 0.6639831163792869,
+        "id": "5be40d1c-6b79-4010-a6e2-d8cb2fdab1e3",
+        "created_at": "2026-11-03T03:28:29.335853+00:00",
+        "updated_at": "2026-11-03T03:28:29.335853+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, an experience she described as surreal and satisfying after waiting a long time.",
+        "score": 0.6636138740638633,
+        "id": "027462ab-0b4e-4865-9f7d-76a3827249dc",
+        "created_at": "2026-11-03T03:24:14.988086+00:00",
+        "updated_at": "2026-11-03T03:24:14.988086+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.6623942478051724,
+        "id": "523cebcb-fda9-404a-bf74-0af468a36ca3",
+        "created_at": "2026-11-03T03:28:36.462947+00:00",
+        "updated_at": "2026-11-03T03:28:36.462947+00:00"
+      },
+      {
+        "memory": "Joanna is writing a new movie script that is a love story with lots of challenges, which she hopes to get on the big screen.",
+        "score": 0.6623942478051724,
+        "id": "9fa29063-d116-4fcb-a7da-c63a50961373",
+        "created_at": "2026-11-03T03:28:42.599730+00:00",
+        "updated_at": "2026-11-03T03:28:42.599730+00:00"
+      },
+      {
+        "memory": "Joanna contributed to another movie script that was shown on the big screen for the first time on October 23, 2022, describing the experience as surreal and satisfying after waiting a long time.",
+        "score": 0.6596613788780721,
+        "id": "34490e46-5555-4258-94e1-b6d727c6ffea",
+        "created_at": "2026-11-03T03:24:09.315611+00:00",
+        "updated_at": "2026-11-03T03:24:09.315611+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her movie script on the big screen as an amazing experience, noting it was the third time this has happened and that watching her characters and dialogue acted out made her hard work feel rewarding.",
+        "score": 0.659523008133597,
+        "id": "66a203cd-3881-4ef6-86b1-553d8702e56e",
+        "created_at": "2026-11-03T03:24:18.234826+00:00",
+        "updated_at": "2026-11-03T03:24:18.234826+00:00"
+      }
+    ],
+    "search_latency_ms": 88.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "3",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives the wrong count, 3 instead of the gold answer's two."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives the wrong count, 3 instead of the gold answer's two."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives the wrong count, 3 instead of the gold answer's two."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "3",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives the wrong count, 3 instead of the gold answer's two."
+    }
+  }
+}

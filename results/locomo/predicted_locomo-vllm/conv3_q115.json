@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q115",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of films does Joanna enjoy?",
+  "ground_truth_answer": "Dramas and emotionally-driven films",
+  "evidence": [
+    "D9:9"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of films does Joanna enjoy?",
+    "search_results": [
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.7864639996264152,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Joanna is seeking movie recommendations on October 6, 2022, noting that she could use some suggestions for good films to watch recently.",
+        "score": 0.6843805799563942,
+        "id": "d4d71e22-1886-4bb3-87d1-62c762793eef",
+        "created_at": "2026-11-03T03:19:13.013572+00:00",
+        "updated_at": "2026-11-03T03:19:13.013572+00:00"
+      },
+      {
+        "memory": "Joanna enjoys watching dramas and emotionally-driven films, which she cites as a source of inspiration for her writing.",
+        "score": 0.682934762972488,
+        "id": "4230cb43-c4eb-49cb-9acb-35ef459bb422",
+        "created_at": "2026-11-03T03:04:37.017043+00:00",
+        "updated_at": "2026-11-03T03:04:37.017043+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script, describing the experience as wild and awesome with every day on set full of potential to show her vision.",
+        "score": 0.6632855012380374,
+        "id": "511f96c5-a7be-49cd-ac21-ba27866bc214",
+        "created_at": "2026-11-03T03:32:36.204567+00:00",
+        "updated_at": "2026-11-03T03:32:36.204567+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time on October 23, 2022, marking the third time her work has been featured in a film. She described the experience as surreal and satisfying after waiting a long time for it to happen.",
+        "score": 0.6530604681857913,
+        "id": "2c60d06f-4b11-4c0d-bc91-6e9089ff420b",
+        "created_at": "2026-11-03T03:24:38.018257+00:00",
+        "updated_at": "2026-11-03T03:24:38.018257+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, and she finds the experience wild and awesome to see her vision come alive on set.",
+        "score": 0.6480617262629441,
+        "id": "9cf09c5d-084e-43a8-8f59-36b4fe500888",
+        "created_at": "2026-11-03T03:32:45.253791+00:00",
+        "updated_at": "2026-11-03T03:32:45.253791+00:00"
+      },
+      {
+        "memory": "Joanna found it rewarding to see her characters and dialogue acted out on screen, noting that seeing her hard work pay off was a cool feeling and that this was the third time a project of hers had been filmed.",
+        "score": 0.6428816835319682,
+        "id": "eea68f45-3a1d-4a26-9e02-5e7d6889ac33",
+        "created_at": "2026-11-03T03:24:30.595676+00:00",
+        "updated_at": "2026-11-03T03:24:30.595676+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, describing the experience as wild and awesome to see her vision come alive on set.",
+        "score": 0.6401326793042622,
+        "id": "243e3b33-97ce-4d0d-8a9f-90981ac12d49",
+        "created_at": "2026-11-03T03:32:51.743882+00:00",
+        "updated_at": "2026-11-03T03:32:51.743882+00:00"
+      },
+      {
+        "memory": "During filming of her movie, Joanna had an exciting moment when an actor approached her to say how much they liked her script, which gave her chills.",
+        "score": 0.6396123061979773,
+        "id": "38f38bdd-d564-468d-9202-ebce37e0b3b7",
+        "created_at": "2026-11-03T03:32:51.746416+00:00",
+        "updated_at": "2026-11-03T03:32:51.746416+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, expressing excitement about seeing her vision come alive and receiving positive feedback from an actor who praised the script.",
+        "score": 0.633682172843225,
+        "id": "7dbf3667-d276-4c2d-a72e-7f3ed3c35dbf",
+        "created_at": "2026-11-03T03:33:05.328775+00:00",
+        "updated_at": "2026-11-03T03:33:05.328775+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, and shared a photo of a clapperboard with a dog sleeping in a bed to celebrate the milestone.",
+        "score": 0.6161554224763823,
+        "id": "efe73f22-8294-4b90-818b-07307a8dcd05",
+        "created_at": "2026-11-03T03:33:01.263398+00:00",
+        "updated_at": "2026-11-03T03:33:01.263398+00:00"
+      },
+      {
+        "memory": "Joanna began filming her own movie based on a road-trip script around November 11, 2022.",
+        "score": 0.615509493948609,
+        "id": "bc499559-1898-4317-9a74-b99e940ee7b8",
+        "created_at": "2026-11-03T03:32:33.632358+00:00",
+        "updated_at": "2026-11-03T03:32:33.632358+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.614307973060312,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.6139536260408931,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.6134809487008952,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest to gauge how others might receive it.",
+        "score": 0.6114996464218485,
+        "id": "f73cbaf7-511b-4989-9111-b0bc13b5e428",
+        "created_at": "2026-11-03T03:11:22.964477+00:00",
+        "updated_at": "2026-11-03T03:11:22.964477+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.6114910388217438,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna has a cozy living room setup for movie nights featuring a TV and candles, which she enjoys as a great escape to experience emotions not normally felt in daily life",
+        "score": 0.605857711514911,
+        "id": "a1b657fa-11a2-4b90-98ab-67170d5bd79d",
+        "created_at": "2026-11-03T03:22:38.095672+00:00",
+        "updated_at": "2026-11-03T03:22:38.095672+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.4443745188713021,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "Joanna watched a classic movie around early October 2022 that she found awesome, noting the story was gripping and the actors were great, and it really stuck with her.",
+        "score": 0.29383837475053287,
+        "id": "46eaa970-7ebc-4eb1-8a0e-a450ae907171",
+        "created_at": "2026-11-03T03:21:56.383101+00:00",
+        "updated_at": "2026-11-03T03:21:56.383101+00:00"
+      }
+    ],
+    "search_latency_ms": 37.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna enjoys dramas and emotionally-driven films.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer by stating Joanna enjoys dramas and emotionally-driven films."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna enjoys dramas and emotionally-driven films.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating Joanna enjoys dramas and emotionally-driven films."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna enjoys dramas and emotionally-driven films.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating Joanna enjoys dramas and emotionally-driven films."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna enjoys dramas and emotionally-driven films.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by stating Joanna enjoys dramas and emotionally-driven films."
+    }
+  }
+}

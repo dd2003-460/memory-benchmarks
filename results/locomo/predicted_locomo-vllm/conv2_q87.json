@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q87",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where did John explore on a road trip last year?",
+  "ground_truth_answer": "Pacific Northwest",
+  "evidence": [
+    "D11:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Where did John explore on a road trip last year?",
+    "search_results": [
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.8529539210584274,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.8469730412740534,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "John and Maria share a mutual belief in pushing themselves out of their comfort zones, viewing self-exploration and challenging boundaries as essential journeys for personal growth and learning.",
+        "score": 0.677722205867618,
+        "id": "4df3c3c4-f8b5-48a7-abe7-2533df26db52",
+        "created_at": "2026-11-03T00:29:11.477623+00:00",
+        "updated_at": "2026-11-03T00:29:11.477623+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.6744822364471855,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the view stunning despite the difficulty, noting it helped clear his head.",
+        "score": 0.6692759730974516,
+        "id": "707b3516-0152-47d5-8120-38e63a930ea2",
+        "created_at": "2026-11-03T00:32:03.062423+00:00",
+        "updated_at": "2026-11-03T00:32:03.062423+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.6682462853277469,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John reached the summit on his mountaineering trip with workmates in early June 2023, describing the view as stunning and the experience as tough but awesome, which helped clear his head.",
+        "score": 0.657348881215712,
+        "id": "d500fef2-8b69-4559-a041-da15d3a26f73",
+        "created_at": "2026-11-03T00:32:05.294417+00:00",
+        "updated_at": "2026-11-03T00:32:05.294417+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle",
+        "score": 0.6505406094546569,
+        "id": "f67fcfd2-278a-4d57-a37e-56d8b876e88d",
+        "created_at": "2026-11-03T00:47:56.100731+00:00",
+        "updated_at": "2026-11-03T00:47:56.100731+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.6499018388169739,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John took a family trip in 2022 to celebrate his daughter Sara's birthday, which he describes as a source of motivation and good memories that help him stay focused on his community work.",
+        "score": 0.6412204750513529,
+        "id": "5f52b211-c453-4b41-92bb-04dc777f24f0",
+        "created_at": "2026-11-03T00:39:57.214622+00:00",
+        "updated_at": "2026-11-03T00:39:57.214622+00:00"
+      },
+      {
+        "memory": "John has a daughter named Sara and took a family trip for her birthday in 2022, which created fun memories that serve as a source of motivation for his ongoing work.",
+        "score": 0.6373295580104253,
+        "id": "f2bdcaf4-5a70-4417-8744-09f13cf4379a",
+        "created_at": "2026-11-03T00:39:53.012451+00:00",
+        "updated_at": "2026-11-03T00:39:53.012451+00:00"
+      },
+      {
+        "memory": "John took a family trip in July 2022 to celebrate his daughter Sara's birthday, which he describes as full of fun and good memories that motivate him to keep striving for change.",
+        "score": 0.6369059029229627,
+        "id": "0d7ebab7-d651-4ace-9318-118f622b58c2",
+        "created_at": "2026-11-03T00:39:42.835875+00:00",
+        "updated_at": "2026-11-03T00:39:42.835875+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John found peaceful and a nice break from everyday hustle.",
+        "score": 0.6341846516598327,
+        "id": "f374fefa-fa3a-417e-b202-2e2ebbb4ca09",
+        "created_at": "2026-11-03T00:47:43.303194+00:00",
+        "updated_at": "2026-11-03T00:47:43.303194+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.6323274551733812,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John went on a camping trip with his late pet Max, a golden retriever, in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience that made great memories.",
+        "score": 0.6203640913988883,
+        "id": "3a1a84ed-ace9-4d8e-a430-e09f4696ab7f",
+        "created_at": "2026-11-03T00:47:37.300437+00:00",
+        "updated_at": "2026-11-03T00:47:37.300437+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.6105877019302006,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "John shared a photo of his workmates from a recent hiking trip, noting that their camaraderie and support help keep him motivated in his work on the veteran support petition.",
+        "score": 0.5905715212605285,
+        "id": "3f606ebe-7995-48db-b461-1130e4fdb681",
+        "created_at": "2026-11-03T00:30:47.743765+00:00",
+        "updated_at": "2026-11-03T00:30:47.743765+00:00"
+      },
+      {
+        "memory": "John shared a photo from his mountaineering trip showing a man standing on top of a mountain with a backpack, taken around June 12, 2023.",
+        "score": 0.5869699320910401,
+        "id": "81a57731-7c1a-4a59-be8f-08e037451b61",
+        "created_at": "2026-11-03T00:31:58.678713+00:00",
+        "updated_at": "2026-11-03T00:31:58.678713+00:00"
+      },
+      {
+        "memory": "John shared a photo of a tent in the woods with a blue tarp from his recent camping trip with Max, which he found peaceful and a nice break from everyday hustle.",
+        "score": 0.5733590896460725,
+        "id": "c24686db-fd7c-4aa8-a526-c86cac3f66f9",
+        "created_at": "2026-11-03T00:48:08.369021+00:00",
+        "updated_at": "2026-11-03T00:48:08.369021+00:00"
+      },
+      {
+        "memory": "John is interested in trying rock climbing as a way to push his limits and is exploring different workout regimes.",
+        "score": 0.5682048773333082,
+        "id": "ce2f8215-df3b-4d61-bd52-9a729cbc56ee",
+        "created_at": "2026-11-03T00:32:56.336651+00:00",
+        "updated_at": "2026-11-03T00:32:56.336651+00:00"
+      }
+    ],
+    "search_latency_ms": 575.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The Pacific Northwest coast.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core location, the Pacific Northwest, with an additional detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "On his 2022 road trip, John explored the Pacific Northwest coast and visited national parks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's location, Pacific Northwest, with additional detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "On his 2022 road trip, John explored the Pacific Northwest coast and visited national parks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's location, Pacific Northwest, with additional detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "On his 2022 road trip, John explored the Pacific Northwest coast and visited national parks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes the gold answer's location, Pacific Northwest, with additional detail."
+    }
+  }
+}

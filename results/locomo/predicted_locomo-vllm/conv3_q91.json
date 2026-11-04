@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q91",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Nate's favorite book series about?",
+  "ground_truth_answer": "dragons",
+  "evidence": [
+    "D9:14"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Nate's favorite book series about?",
+    "search_results": [
+      {
+        "memory": "Joanna recommends that Nate find a fantasy book series to read, noting that most fiction series are great reads for relaxing.",
+        "score": 0.6984794173433524,
+        "id": "8d478aa2-7d58-4c6c-a644-0a8b33335cc1",
+        "created_at": "2026-11-03T03:14:42.689624+00:00",
+        "updated_at": "2026-11-03T03:14:42.689624+00:00"
+      },
+      {
+        "memory": "Nate is reading the 'A Court of Thorns and Roses' series by Sarah J. Maas, which he selected after Joanna recommended finding a fantasy book series to read for relaxation.",
+        "score": 0.6805827236013643,
+        "id": "957f487d-a1ba-4a6c-905b-a7d0d9d1dd5e",
+        "created_at": "2026-11-03T03:15:00.586883+00:00",
+        "updated_at": "2026-11-03T03:15:00.586883+00:00"
+      },
+      {
+        "memory": "Nate's favorite movie trilogy is The Lord of the Rings, which he admires for its world building, battles, and storytelling, and he shared a photo of his bookshelf with Joanna on April 21, 2022.",
+        "score": 0.6641740942075501,
+        "id": "04006fca-0e17-442e-82ec-7294bb184bb1",
+        "created_at": "2026-11-03T03:04:46.617743+00:00",
+        "updated_at": "2026-11-03T03:04:46.617743+00:00"
+      },
+      {
+        "memory": "Nate is planning to read the 'A Court of Thorns and Roses' book series by Sarah J. Maas, which Joanna recommended as a fantasy series for relaxing, and he intends to share his thoughts with her once finished.",
+        "score": 0.6563630580127051,
+        "id": "91734215-7e69-4612-8773-6a9b76bda6d9",
+        "created_at": "2026-11-03T03:14:52.914390+00:00",
+        "updated_at": "2026-11-03T03:14:52.914390+00:00"
+      },
+      {
+        "memory": "Nate recommends a fantasy book series to Joanna, describing it as having adventures, magic, and great characters, and considers it a must-read; he shared a photo of the books on April 21, 2022.",
+        "score": 0.630029098876067,
+        "id": "42245749-ea09-4b25-9519-016b2aa1ebe6",
+        "created_at": "2026-11-03T03:04:51.141916+00:00",
+        "updated_at": "2026-11-03T03:04:51.141916+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.6193889905330654,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.6169214909928006,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.6142181037006591,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.610207527223299,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Nate recommended the 'A Court of Thorns and Roses' book series by Sarah J. Maas to Joanna on August 22, 2022, sharing a photo of the books stacked on a wooden table.",
+        "score": 0.6057504907005526,
+        "id": "1ed8bd67-705a-4bd1-91d9-34a4f36afc09",
+        "created_at": "2026-11-03T03:14:45.460952+00:00",
+        "updated_at": "2026-11-03T03:14:45.460952+00:00"
+      },
+      {
+        "memory": "Nate recommended a space opera book series to Joanna on August 22, 2022, describing it as having awesome battles and interesting characters, and shared a photo of a poster showing a man falling off a cliff.",
+        "score": 0.6024179210764861,
+        "id": "2d3e571e-7339-4b29-83ee-02fd4a714cc0",
+        "created_at": "2026-11-03T03:14:55.519672+00:00",
+        "updated_at": "2026-11-03T03:14:55.519672+00:00"
+      },
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor, and he owns an Iron Man action figure in his room as a reminder to keep working on his goals",
+        "score": 0.5936026561846972,
+        "id": "8abc27c8-b721-47a8-ab67-2bb962db6d0b",
+        "created_at": "2026-11-03T03:10:19.040804+00:00",
+        "updated_at": "2026-11-03T03:10:19.040804+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.26627920041155323,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.265795198138963,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.26483003451970777,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.25283287589781456,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently, around early October 2022, and found it great with awesome acting and a captivating story.",
+        "score": 0.25050298319976777,
+        "id": "0ec90940-ff7b-484d-8747-9c46902e1719",
+        "created_at": "2026-11-03T03:19:15.488913+00:00",
+        "updated_at": "2026-11-03T03:19:15.488913+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xeonoblade Chronicles' and highly recommends it, having started the game after friends recommended it because he is a big fan of Nintendo games.",
+        "score": 0.24898605519429182,
+        "id": "ec6d376d-0d4d-4505-9a9d-aac9100a2803",
+        "created_at": "2026-11-03T03:29:19.860235+00:00",
+        "updated_at": "2026-11-03T03:29:19.860235+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.24862450793973548,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.245876248104636,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      }
+    ],
+    "search_latency_ms": 85.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s favorite book series is a space opera series about awesome battles and interesting characters.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a space opera about battles and characters, which does not include the gold answer's key topic of dragons."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s favorite book series is a space opera about awesome battles and interesting characters.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a space opera instead of dragons, so it does not match the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s favorite book series is a space opera about awesome battles and interesting characters.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a space opera instead of dragons, so it does not match the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate’s favorite book series is a space opera about awesome battles and interesting characters.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a space opera instead of dragons, so it does not match the gold answer."
+    }
+  }
+}

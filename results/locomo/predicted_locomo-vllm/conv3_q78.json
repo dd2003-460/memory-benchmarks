@@ -1,0 +1,198 @@
+{
+  "question_id": "conv3_q78",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many video game tournaments has Nate participated in?",
+  "ground_truth_answer": "nine",
+  "evidence": [
+    "D1:3",
+    "D6:7",
+    "D10:4",
+    "D14:8",
+    "D17:1",
+    "D19:1",
+    "D20:1",
+    "D22:2",
+    "D27:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many video game tournaments has Nate participated in?",
+    "search_results": [
+      {
+        "memory": "Nate has been participating in video game tournaments for several years, noting that it has been a while since his first tournament, and he values connecting with fellow gamers.",
+        "score": 0.922751219475289,
+        "id": "bb58676e-b181-421f-8efd-e204cef09d12",
+        "created_at": "2026-11-03T03:09:16.499442+00:00",
+        "updated_at": "2026-11-03T03:09:16.499442+00:00"
+      },
+      {
+        "memory": "Nate won his second video game tournament in the week preceding May 2, 2022, and has been focusing on gaming by practicing a lot and winning multiple tournaments",
+        "score": 0.8957056950131452,
+        "id": "aff8e43d-1325-4c99-8794-574d86a19d7e",
+        "created_at": "2026-11-03T03:05:10.673224+00:00",
+        "updated_at": "2026-11-03T03:05:10.673224+00:00"
+      },
+      {
+        "memory": "Nate won a gaming tournament, which he described as a huge confidence boost and proof that his hard work paid off. He has been participating in tournaments for several years.",
+        "score": 0.8772003096331871,
+        "id": "abe063a5-403e-4f01-bfd7-2509e2110dce",
+        "created_at": "2026-11-03T03:09:29.925759+00:00",
+        "updated_at": "2026-11-03T03:09:29.925759+00:00"
+      },
+      {
+        "memory": "Nate won an international video game tournament on August 21, 2022, describing the experience as wild and noting that gaming has brought him success and allows him to make a living doing what he is passionate about.",
+        "score": 0.8746689676166813,
+        "id": "6d120716-6036-4b0c-9b87-0035b8f72ade",
+        "created_at": "2026-11-03T03:13:50.656428+00:00",
+        "updated_at": "2026-11-03T03:13:50.656428+00:00"
+      },
+      {
+        "memory": "Nate won another regional video game tournament in the week preceding June 3, 2022, and enjoyed meeting new people and connecting with fellow gamers during the event.",
+        "score": 0.8709701133658875,
+        "id": "22e2d865-a8f0-4994-957d-e7062d217e55",
+        "created_at": "2026-11-03T03:08:58.979037+00:00",
+        "updated_at": "2026-11-03T03:08:58.979037+00:00"
+      },
+      {
+        "memory": "Nate participated in a gaming tournament around early November 2022 but did not make it to the finals, and he is considering joining a new gaming team after his next tournament based on several offers he has received.",
+        "score": 0.8669572327351419,
+        "id": "826340bd-3d03-437e-953b-2151cf604cca",
+        "created_at": "2026-11-03T03:30:44.510122+00:00",
+        "updated_at": "2026-11-03T03:30:44.510122+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament in the week preceding June 3, 2022, describing the victory as a huge confidence boost that validated his hard work and allowed him to meet new people.",
+        "score": 0.8654496076925193,
+        "id": "1f222f62-c291-4d10-aacf-2e1def25d55c",
+        "created_at": "2026-11-03T03:09:16.496939+00:00",
+        "updated_at": "2026-11-03T03:09:16.496939+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, noting that the competition was online and he is proud to make money doing what he loves.",
+        "score": 0.8642526390908378,
+        "id": "33a16bfd-50d9-49b7-875f-3f18c1fcb47e",
+        "created_at": "2026-11-03T03:11:55.369946+00:00",
+        "updated_at": "2026-11-03T03:11:55.369946+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, which was held online. He described the victory as indescribable and expressed pride in making money doing what he loves.",
+        "score": 0.8631084514828489,
+        "id": "a2ebf346-b839-4676-bfce-8af36f7c1164",
+        "created_at": "2026-11-03T03:12:02.418021+00:00",
+        "updated_at": "2026-11-03T03:12:02.418021+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.8604510982335849,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament around May 27, 2022, which he described as a huge confidence boost and proof that his hard work paid off.",
+        "score": 0.8594515299114693,
+        "id": "b50e3ae5-7447-4837-a59f-ce3122d996f7",
+        "created_at": "2026-11-03T03:09:24.246996+00:00",
+        "updated_at": "2026-11-03T03:09:24.246996+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.855333361156554,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, which he described as a wild success that allows him to make a living at his passion for gaming.",
+        "score": 0.8547328206268517,
+        "id": "6b9d6a50-5f40-4070-82bb-2232ece263b2",
+        "created_at": "2026-11-03T03:14:15.508117+00:00",
+        "updated_at": "2026-11-03T03:14:15.508117+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around November 9, 2022, but did not make it to the finals; he described it as tough but expressed determination to win next time.",
+        "score": 0.8531579960290951,
+        "id": "6cd64262-36b5-4e0b-a66b-0317946c2ef2",
+        "created_at": "2026-11-03T03:30:12.291294+00:00",
+        "updated_at": "2026-11-03T03:30:12.291294+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, describing the victory as indescribable and expressing pride in making money doing what he loves.",
+        "score": 0.8514627451323417,
+        "id": "f1df5fbb-011a-4010-bee9-cbbb60825bc2",
+        "created_at": "2026-11-03T03:12:21.929702+00:00",
+        "updated_at": "2026-11-03T03:12:21.929702+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, expressing pride in making money from his passion and describing the victory as indescribable.",
+        "score": 0.8509346516546914,
+        "id": "6856bad4-ab0b-4c4e-9df5-b90bd0a7be49",
+        "created_at": "2026-11-03T03:12:12.320908+00:00",
+        "updated_at": "2026-11-03T03:12:12.320908+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around September 5, 2022, and did not perform well despite trying his best, viewing the setback as part of the learning curve while attempting to stay positive.",
+        "score": 0.8498063773738702,
+        "id": "0968a083-5fe8-44ac-8c09-efc444973ca5",
+        "created_at": "2026-11-03T03:15:28.824336+00:00",
+        "updated_at": "2026-11-03T03:15:28.824336+00:00"
+      },
+      {
+        "memory": "Nate won a large video game tournament around September 29, 2022, earning a significant cash prize that he has saved but does not have specific plans to spend it on.",
+        "score": 0.8474903617747469,
+        "id": "b1bb787c-6506-4928-a60d-3cf3d536b51f",
+        "created_at": "2026-11-03T03:19:34.218174+00:00",
+        "updated_at": "2026-11-03T03:19:34.218174+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament the week of April 25, 2022, and has been focusing on practicing a lot to improve his skills.",
+        "score": 0.8457830297229265,
+        "id": "a49e0c06-9b65-4291-8d4c-58082b3c3714",
+        "created_at": "2026-11-03T03:05:15.625525+00:00",
+        "updated_at": "2026-11-03T03:05:15.625525+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, and is now able to make a living from gaming, which he describes as turning his passion into a successful career.",
+        "score": 0.8443652632989928,
+        "id": "cb3d53b7-644c-4467-91d4-c16cdcfd741e",
+        "created_at": "2026-11-03T03:13:55.806779+00:00",
+        "updated_at": "2026-11-03T03:13:55.806779+00:00"
+      }
+    ],
+    "search_latency_ms": 102.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "6",
+      "memories_evaluated": 10,
+      "reason": "The generated answer says 6, which does not match the gold answer of nine."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "8",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives 8, which does not match the gold answer of nine and no count tolerance is specified."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "8",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives 8, which does not match the gold answer of nine and no count tolerance is specified."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "8",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives 8, which does not match the gold answer of nine and no count tolerance is specified."
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q60",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What are Maria's dogs' names?",
+  "ground_truth_answer": "Coco, Shadow",
+  "evidence": [
+    "D30:1",
+    "D31:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What are Maria's dogs' names?",
+    "search_results": [
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings Maria joy, and gets along well with Maria's other dog.",
+        "score": 0.8073633437589818,
+        "id": "ba66370e-57bf-4b7b-ab9b-8e92b320ab92",
+        "created_at": "2026-11-03T00:48:37.566842+00:00",
+        "updated_at": "2026-11-03T00:48:37.566842+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the shelter where Maria volunteers wrote a handwritten thank you note expressing heartfelt gratitude for the support received, which Maria shared as evidence of the impact of her work.",
+        "score": 0.6982374106541466,
+        "id": "0b0b9a00-f09c-4796-b74f-eb6b71a70663",
+        "created_at": "2026-11-03T00:45:16.521123+00:00",
+        "updated_at": "2026-11-03T00:45:16.521123+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote her a handwritten thank-you note expressing heartfelt gratitude for the support they receive.",
+        "score": 0.694931980180135,
+        "id": "0e86e5b3-3b0d-430d-b9ea-a07d139733fa",
+        "created_at": "2026-11-03T00:44:59.848863+00:00",
+        "updated_at": "2026-11-03T00:44:59.848863+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.6949307817102386,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.6919226043524189,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a handwritten thank-you note expressing heartfelt gratitude for the support received, which Maria shared on August 3, 2023.",
+        "score": 0.691279221859707,
+        "id": "2dfa8ad9-875b-4e79-97bb-812603d157b4",
+        "created_at": "2026-11-03T00:44:53.526971+00:00",
+        "updated_at": "2026-11-03T00:44:53.526971+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.6909247851143532,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.6515647343549107,
+        "id": "4ba39e46-659e-4861-8718-c97aa84b4006",
+        "created_at": "2026-11-03T00:47:34.807969+00:00",
+        "updated_at": "2026-11-03T00:47:34.807969+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), who is a white dog.",
+        "score": 0.646399424507486,
+        "id": "1df4ed28-f34f-473e-8432-50e07700ede9",
+        "created_at": "2026-11-03T00:47:23.451375+00:00",
+        "updated_at": "2026-11-03T00:47:23.451375+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that enjoys playing with a baseball and brings her joy by greeting her when she comes home.",
+        "score": 0.6431995248106107,
+        "id": "12857a65-f566-4963-82fc-ff6db20daa54",
+        "created_at": "2026-11-03T00:47:43.293411+00:00",
+        "updated_at": "2026-11-03T00:47:43.293411+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023, and describes her as full of energy and a source of joy; Shadow gets along well with Maria's other dog.",
+        "score": 0.64135478982345,
+        "id": "56c90cd6-8948-403e-aa95-27375d23873f",
+        "created_at": "2026-11-03T00:48:54.951566+00:00",
+        "updated_at": "2026-11-03T00:48:54.951566+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023. Shadow is full of energy and gets along well with Maria's other dog.",
+        "score": 0.6350755737382011,
+        "id": "2747eacc-4c8e-443f-bdb2-57dbacee41a2",
+        "created_at": "2026-11-03T00:48:41.841677+00:00",
+        "updated_at": "2026-11-03T00:48:41.841677+00:00"
+      },
+      {
+        "memory": "Maria adopted a black puppy from a shelter around August 6, 2023, describing the experience as bringing her joy and feeling blessed to give the dog a home.",
+        "score": 0.6293100551366047,
+        "id": "c8f1989f-410b-45fb-a83d-5d9d4ae27365",
+        "created_at": "2026-11-03T00:48:28.732864+00:00",
+        "updated_at": "2026-11-03T00:48:28.732864+00:00"
+      },
+      {
+        "memory": "Maria adopted a puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy and gets along great with Maria's other dog, Coco.",
+        "score": 0.626289520571752,
+        "id": "45911fab-6b6a-4ecc-8fad-efa8761de338",
+        "created_at": "2026-11-03T00:48:33.489158+00:00",
+        "updated_at": "2026-11-03T00:48:33.489158+00:00"
+      },
+      {
+        "memory": "Maria adopted a new puppy named Shadow from a shelter around August 6, 2023; Shadow is full of energy, brings her joy, and gets along well with Maria's other dog.",
+        "score": 0.6227121977486595,
+        "id": "773194b0-1399-4a40-851b-f1a03c7eafb7",
+        "created_at": "2026-11-03T00:48:44.668018+00:00",
+        "updated_at": "2026-11-03T00:48:44.668018+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, which she describes as adorable and a source of joy that greets her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.6222309415730138,
+        "id": "75562fa8-e150-4df8-a00d-f1a42f5864f2",
+        "created_at": "2026-11-03T00:47:32.012256+00:00",
+        "updated_at": "2026-11-03T00:47:32.012256+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.6220894516637934,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6208275051732579,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.6200006770879485,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria got a new puppy named Coco around July 28, 2023, and shared a photo of the white dog laying in the grass with a baseball.",
+        "score": 0.616301574342337,
+        "id": "e8e8d2c9-3b27-414d-8053-d664d7485e7e",
+        "created_at": "2026-11-03T00:47:21.214055+00:00",
+        "updated_at": "2026-11-03T00:47:21.214055+00:00"
+      }
+    ],
+    "search_latency_ms": 70.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coco and Shadow",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both dog names from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coco and Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both dog names from the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coco and Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both dog names from the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coco and Shadow",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both dog names from the gold answer."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q116",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which activity helps Nate escape and stimulates his imagination?",
+  "ground_truth_answer": "watching fantasy and sci-fi movies",
+  "evidence": [
+    "D9:10"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Which activity helps Nate escape and stimulates his imagination?",
+    "search_results": [
+      {
+        "memory": "Nate loves fantasy and sci-fi movies, describing them as a great escape that gets his imagination going, and views playing video games as a way to express his creativity and passion.",
+        "score": 0.6577418126013348,
+        "id": "e06cfedb-bf6c-4294-929d-7066a71ad137",
+        "created_at": "2026-11-03T03:04:41.828058+00:00",
+        "updated_at": "2026-11-03T03:04:41.828058+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.6441101079726577,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay to maintain a fun experience.",
+        "score": 0.6409338639974409,
+        "id": "853b0839-566a-4bc3-88b7-1ea5d223d8c5",
+        "created_at": "2026-11-03T03:21:47.494584+00:00",
+        "updated_at": "2026-11-03T03:21:47.494584+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive during gameplay, preferring a relaxed atmosphere.",
+        "score": 0.6407483276201226,
+        "id": "fb9fa08f-c8b5-4e29-8194-1f15e5703f1b",
+        "created_at": "2026-11-03T03:21:27.683562+00:00",
+        "updated_at": "2026-11-03T03:21:27.683562+00:00"
+      },
+      {
+        "memory": "Nate considers his home gaming setup essential for his career, stating that without it he would never be able to beat his competition, and describes it as his own little haven to escape into the virtual world.",
+        "score": 0.6161645432102811,
+        "id": "7fa36351-35d9-444b-9451-bd0af43c3660",
+        "created_at": "2026-11-03T03:29:07.067179+00:00",
+        "updated_at": "2026-11-03T03:29:07.067179+00:00"
+      },
+      {
+        "memory": "Nate is a competitive gamer who uses his dedicated home setup with two monitors and a laptop for both practice and competition, viewing it as essential to his career and a personal haven to escape into the virtual world.",
+        "score": 0.6141153298542367,
+        "id": "21e0ea53-397c-4437-bcb0-e89af6d489fa",
+        "created_at": "2026-11-03T03:29:19.854763+00:00",
+        "updated_at": "2026-11-03T03:29:19.854763+00:00"
+      },
+      {
+        "memory": "Nate is passionate about gaming and was helping friends reset their high scores at an international tournament around November 4, 2022, finding the experience fun and rewarding.",
+        "score": 0.5774395386194059,
+        "id": "1f1a0f15-9120-478f-bedd-f74392d0604d",
+        "created_at": "2026-11-03T03:26:54.964772+00:00",
+        "updated_at": "2026-11-03T03:26:54.964772+00:00"
+      },
+      {
+        "memory": "Nate has been helping some friends reset their high scores at an international tournament, describing the experience as fun.",
+        "score": 0.5693161350636475,
+        "id": "9503f795-16a4-4da1-affe-d7385aa5d743",
+        "created_at": "2026-11-03T03:26:19.328334+00:00",
+        "updated_at": "2026-11-03T03:26:19.328334+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and recently helped friends reset their high scores at an international tournament, finding it fun and rewarding to use his skills to make a difference.",
+        "score": 0.5612778039908519,
+        "id": "83cd6055-3f30-42c0-a125-0b0065fd431c",
+        "created_at": "2026-11-03T03:26:37.157575+00:00",
+        "updated_at": "2026-11-03T03:26:37.157575+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.5587206916408838,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related plot elements.",
+        "score": 0.3081918810333623,
+        "id": "9cdab11d-5a98-48d0-901f-a578097399a4",
+        "created_at": "2026-11-03T03:22:35.340106+00:00",
+        "updated_at": "2026-11-03T03:22:35.340106+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.25950961021464164,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.25863174070356426,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching movies because they take him to new worlds and fill him with emotions, and he finds them great for chilling out after a day.",
+        "score": 0.25570755801415646,
+        "id": "4fe682fd-5cd5-4ff3-8f40-93b40bc38b6e",
+        "created_at": "2026-11-03T03:22:35.335802+00:00",
+        "updated_at": "2026-11-03T03:22:35.335802+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.25505073793582644,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate mentioned that when he is out in nature, he gets deep in thought about his life or new recipes, contrasting with Joanna's creative writing inspiration.",
+        "score": 0.2526001878509888,
+        "id": "ccc48f20-8100-4988-8d06-289fa5e9f665",
+        "created_at": "2026-11-03T03:06:45.451596+00:00",
+        "updated_at": "2026-11-03T03:06:45.451596+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.25120287228187366,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.250366576096804,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate finds peace and a break from reality by spending time with his pets and engaging in his hobbies, noting that these small things have a powerful effect on his happiness",
+        "score": 0.2502040638280061,
+        "id": "9a152171-1d52-40cb-ad15-4a339a2cb337",
+        "created_at": "2026-11-03T03:03:27.244190+00:00",
+        "updated_at": "2026-11-03T03:03:27.244190+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.25007247151489864,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      }
+    ],
+    "search_latency_ms": 81.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching fantasy and sci-fi movies",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching fantasy and sci-fi movies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching fantasy and sci-fi movies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Watching fantasy and sci-fi movies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

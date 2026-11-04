@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q147",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of ice cream does Joanna mention that Nate makes and is delicious?",
+  "ground_truth_answer": "Coconut milk ice cream",
+  "evidence": [
+    "D18:9"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What type of ice cream does Joanna mention that Nate makes and is delicious?",
+    "search_results": [
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.8520466118957867,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.8502353958688941,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.8433982899581031,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made on June 18, 2022, stating that it sounds like a good recipe",
+        "score": 0.8416594697912185,
+        "id": "9823eb82-1792-4f36-a731-e0214b69c7e4",
+        "created_at": "2026-11-03T03:11:19.731297+00:00",
+        "updated_at": "2026-11-03T03:11:19.731297+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, dairy-free, and having a tropical coconut twist.",
+        "score": 0.8306583443322431,
+        "id": "ce05810b-405e-4189-9cc7-1694e3a3e105",
+        "created_at": "2026-11-03T03:17:45.174891+00:00",
+        "updated_at": "2026-11-03T03:17:45.174891+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, with a tropical twist, and suitable for those with lactose intolerance or vegan preferences.",
+        "score": 0.8300379057272901,
+        "id": "09ab8861-3ace-4e8c-a0e2-5e9adc8491b8",
+        "created_at": "2026-11-03T03:17:49.204031+00:00",
+        "updated_at": "2026-11-03T03:17:49.204031+00:00"
+      },
+      {
+        "memory": "Nate loves dairy-free chocolate mousse in addition to coconut milk ice cream, describing the mousse as super creamy and tasting like the real thing.",
+        "score": 0.8258525578901829,
+        "id": "d42d0b60-0936-4bd6-ba4b-3f5f68cccda0",
+        "created_at": "2026-11-03T03:18:00.713932+00:00",
+        "updated_at": "2026-11-03T03:18:00.713932+00:00"
+      },
+      {
+        "memory": "Nate's dairy-free coconut milk ice cream recipe consists of coconut milk, vanilla extract, sugar, and a pinch of salt, which he chills in the fridge before freezing in an ice cream maker until scoopable",
+        "score": 0.8194315594376702,
+        "id": "4076c960-97f7-4df2-8c82-5aee7e18c488",
+        "created_at": "2026-11-03T03:04:03.565670+00:00",
+        "updated_at": "2026-11-03T03:04:03.565670+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.81239710537789,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.8096095518469646,
+        "id": "07dbbc09-9b02-4fa4-983b-64ac6ed4f5f0",
+        "created_at": "2026-11-03T03:17:49.200495+00:00",
+        "updated_at": "2026-11-03T03:17:49.200495+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.8095297649805608,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to come over and try his homemade coconut milk ice cream, which he made on November 3, 2022, describing it as super yummy.",
+        "score": 0.807942762203786,
+        "id": "530e1fa4-e01e-4051-b913-eee0f431a747",
+        "created_at": "2026-11-03T03:26:32.970229+00:00",
+        "updated_at": "2026-11-03T03:26:32.970229+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.8059552765539376,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate's favorite dairy-free desserts are coconut milk ice cream and dairy-free chocolate mousse, which he describes as super creamy and tasting like the real thing.",
+        "score": 0.8019148600493837,
+        "id": "81dfcf42-75d5-4c7a-a4a9-d9bf76eb1aa6",
+        "created_at": "2026-11-03T03:18:37.399595+00:00",
+        "updated_at": "2026-11-03T03:18:37.399595+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings with Joanna on August 14, 2022.",
+        "score": 0.8018841265647098,
+        "id": "e68bff46-e8a5-449b-812c-7093e9a1e326",
+        "created_at": "2026-11-03T03:13:40.691046+00:00",
+        "updated_at": "2026-11-03T03:13:40.691046+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on Friday, June 18, 2022, and shared it with members of his vegan diet group, describing the experience as awesome",
+        "score": 0.7970424672227887,
+        "id": "57e28ff2-bf26-4391-b632-340c5d03ccb6",
+        "created_at": "2026-11-03T03:11:19.727752+00:00",
+        "updated_at": "2026-11-03T03:11:19.727752+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to try homemade coconut milk ice cream that he made on November 3, 2022.",
+        "score": 0.7966803681094856,
+        "id": "dc79311b-6df6-41f4-944d-11b20d987f94",
+        "created_at": "2026-11-03T03:26:37.160413+00:00",
+        "updated_at": "2026-11-03T03:26:37.160413+00:00"
+      },
+      {
+        "memory": "Nate identified coconut milk ice cream as his favorite dish from his cooking show, describing it as smooth, creamy, and having a tropical twist, while noting its suitability for dairy-free and vegan diets.",
+        "score": 0.7938916150143378,
+        "id": "a012f901-f39e-48a1-b034-91fe84062507",
+        "created_at": "2026-11-03T03:17:35.102080+00:00",
+        "updated_at": "2026-11-03T03:17:35.102080+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group, describing the experience as awesome.",
+        "score": 0.7916286210938512,
+        "id": "ccc211d2-cff7-48dd-a2e6-feee5dda765a",
+        "created_at": "2026-11-03T03:11:13.483598+00:00",
+        "updated_at": "2026-11-03T03:11:13.483598+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the activity as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings.",
+        "score": 0.7896289859658585,
+        "id": "57ba8cdb-cda8-4f3d-bdef-ac6bdb39fe48",
+        "created_at": "2026-11-03T03:13:32.631384+00:00",
+        "updated_at": "2026-11-03T03:13:32.631384+00:00"
+      }
+    ],
+    "search_latency_ms": 82.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "coconut milk ice cream",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

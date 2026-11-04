@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q149",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Joanna share with her writers group in August 2022?",
+  "ground_truth_answer": "her book",
+  "evidence": [
+    "D19:6"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Joanna share with her writers group in August 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which made her feel motivated and like she finally belongs somewhere",
+        "score": 0.9243398229993265,
+        "id": "02ee203f-d412-43ad-8ae2-d3fd64dc7987",
+        "created_at": "2026-11-03T03:04:12.598846+00:00",
+        "updated_at": "2026-11-03T03:04:12.598846+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.9240907775663167,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group in the week prior to August 22, 2022, feeling super nervous but receiving great feedback that made her feel her hard work was paying off.",
+        "score": 0.9081677370721686,
+        "id": "2aad159b-75d7-4be2-860b-11640e408fe5",
+        "created_at": "2026-11-03T03:14:07.173102+00:00",
+        "updated_at": "2026-11-03T03:14:07.173102+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.9012186761425355,
+        "id": "8d65fcef-0597-40c8-b61f-ee76fb5ad9b6",
+        "created_at": "2026-11-03T03:14:15.512379+00:00",
+        "updated_at": "2026-11-03T03:14:15.512379+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15-21, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.8997945997752087,
+        "id": "22e269e5-f2ed-4a85-8759-0f70125c8e86",
+        "created_at": "2026-11-03T03:14:11.538519+00:00",
+        "updated_at": "2026-11-03T03:14:11.538519+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.8775884963502808,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.8309609984051651,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna received a letter around August 7, 2022 from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing and its power to help others.",
+        "score": 0.7926502913698503,
+        "id": "8d96dfe2-b46f-4316-a791-aca891a241d7",
+        "created_at": "2026-11-03T03:13:10.254340+00:00",
+        "updated_at": "2026-11-03T03:13:10.254340+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her notebook covered in stickers on August 14, 2022, while discussing how she is going all out with her current writing projects.",
+        "score": 0.7924291090497657,
+        "id": "ebc92211-b045-4b3e-9e7a-2e05e40ab273",
+        "created_at": "2026-11-03T03:12:58.804217+00:00",
+        "updated_at": "2026-11-03T03:12:58.804217+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.7901891325682944,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.7876180287375288,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a hard moment in her life, which reinforced her love for writing and its impact.",
+        "score": 0.7864520671459663,
+        "id": "0e337284-9d98-4bc5-9ee4-d10c8d38272a",
+        "created_at": "2026-11-03T03:13:36.345095+00:00",
+        "updated_at": "2026-11-03T03:13:36.345095+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.7840708009399378,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.7796602248953415,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club and recently finished making a cute DIY bookmark with a plant design for one of the ladies in the group.",
+        "score": 0.7753970667864805,
+        "id": "24177697-c286-4462-8c54-24fabb1d8bb1",
+        "created_at": "2026-11-03T03:20:27.562878+00:00",
+        "updated_at": "2026-11-03T03:20:27.562878+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around October 28, 2022, and enjoyed seeing how far she has come as a writer.",
+        "score": 0.7231101113583155,
+        "id": "902b4a6c-98c5-425e-b44c-17ab9e39835d",
+        "created_at": "2026-11-03T03:25:59.273670+00:00",
+        "updated_at": "2026-11-03T03:25:59.273670+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 7, 2022, resulting in the total loss of her work with no recovery possible, which she described as a major blow to her lifeline.",
+        "score": 0.7150531096615416,
+        "id": "0846255e-a441-4beb-bf8b-ce13f8046bb1",
+        "created_at": "2026-11-03T03:17:35.093202+00:00",
+        "updated_at": "2026-11-03T03:17:35.093202+00:00"
+      },
+      {
+        "memory": "Joanna discovered old notebooks containing her early writings around late October 2022, which she found cool as it showed how far she has come as a writer.",
+        "score": 0.7127985274578722,
+        "id": "2e811027-0f72-413e-a7d0-53046f97bee7",
+        "created_at": "2026-11-03T03:26:24.071018+00:00",
+        "updated_at": "2026-11-03T03:26:24.071018+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who experienced a laptop crash on September 6, 2022, resulting in the total loss of her work with no recovery possible.",
+        "score": 0.7104177206187923,
+        "id": "50930a82-e345-4b40-a3f8-b4f9961bdd11",
+        "created_at": "2026-11-03T03:17:45.162738+00:00",
+        "updated_at": "2026-11-03T03:17:45.162738+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.6573266074379999,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      }
+    ],
+    "search_latency_ms": 65.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her book",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer by identifying her book."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her book.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying her book."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her book.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying her book."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her book.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer by identifying her book."
+    }
+  }
+}

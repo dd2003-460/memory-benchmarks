@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q173",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What encouragement does Nate give to Joanna after her setback?",
+  "ground_truth_answer": "rejections don't define her, keep grinding and she'll find the perfect opportunity",
+  "evidence": [
+    "D24:13"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What encouragement does Nate give to Joanna after her setback?",
+    "search_results": [
+      {
+        "memory": "Joanna encouraged Nate to have faith in himself and continue following his writing dreams, noting that the process is tough but worth it",
+        "score": 0.7052258058097345,
+        "id": "a8f1c443-1143-4049-b7ae-ad2088da6658",
+        "created_at": "2026-11-03T03:02:04.840287+00:00",
+        "updated_at": "2026-11-03T03:02:04.840287+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.6600842720880978,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna to use for encouragement, stating that encouragement is what got him so far in his gaming career.",
+        "score": 0.655921562036476,
+        "id": "a3f4f782-7899-47a0-9885-c8bfad47c1ea",
+        "created_at": "2026-11-03T03:20:10.713436+00:00",
+        "updated_at": "2026-11-03T03:20:10.713436+00:00"
+      },
+      {
+        "memory": "Nate recently experienced a setback in a video game tournament where he did not perform well despite his efforts, but is trying to stay positive about it.",
+        "score": 0.6539773532073769,
+        "id": "2a9356ad-6ff5-4ef3-bafa-95f20101f58d",
+        "created_at": "2026-11-03T03:15:53.702096+00:00",
+        "updated_at": "2026-11-03T03:15:53.702096+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite trying his best, but is trying to stay positive about it.",
+        "score": 0.6490174621044574,
+        "id": "a2a40d91-2873-46cb-956e-34cf6003a213",
+        "created_at": "2026-11-03T03:15:37.916688+00:00",
+        "updated_at": "2026-11-03T03:15:37.916688+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite trying his best, but is attempting to stay positive about the outcome.",
+        "score": 0.6469304672115592,
+        "id": "10596cbb-9edb-45d5-87c7-aaecfb0a5825",
+        "created_at": "2026-11-03T03:15:20.833148+00:00",
+        "updated_at": "2026-11-03T03:15:20.833148+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite his efforts, and is trying to stay positive about the loss.",
+        "score": 0.6468346984581521,
+        "id": "3b002a20-77d5-4dfd-8f1b-9f8fdeb75598",
+        "created_at": "2026-11-03T03:15:17.575604+00:00",
+        "updated_at": "2026-11-03T03:15:17.575604+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep grinding and moving ahead without letting it slow her down.",
+        "score": 0.6421186968241762,
+        "id": "81e3bd9c-5e75-4b98-a4dd-1362c3000396",
+        "created_at": "2026-11-03T03:23:49.469355+00:00",
+        "updated_at": "2026-11-03T03:23:49.469355+00:00"
+      },
+      {
+        "memory": "Joanna recently received a rejection from a production company around October 25, 2022, which she described as a setback but stated she will not let it slow her down and plans to keep pushing forward in her career",
+        "score": 0.6392727893359527,
+        "id": "4e351243-ed2f-4e1d-a0b8-5c1f740edfa1",
+        "created_at": "2026-11-03T03:24:07.105912+00:00",
+        "updated_at": "2026-11-03T03:24:07.105912+00:00"
+      },
+      {
+        "memory": "Joanna recently received another rejection from a production company, which she described as a setback, but she is determined to keep pushing forward and not let it slow her down.",
+        "score": 0.6369387572518034,
+        "id": "eee2ee3e-2375-4ce3-950e-656c38e646c0",
+        "created_at": "2026-11-03T03:24:03.969219+00:00",
+        "updated_at": "2026-11-03T03:24:03.969219+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.6368496342578843,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna as a source of encouragement, noting that his own gaming career was built on encouragement from others.",
+        "score": 0.6360137562347926,
+        "id": "2cfdf6f4-c8b0-491c-bb88-248885a41c9a",
+        "created_at": "2026-11-03T03:20:27.570976+00:00",
+        "updated_at": "2026-11-03T03:20:27.570976+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep working hard and moving forward.",
+        "score": 0.6344690911599741,
+        "id": "1d4501a4-1fad-4c93-86f5-6d89752bcac2",
+        "created_at": "2026-11-03T03:23:55.205237+00:00",
+        "updated_at": "2026-11-03T03:23:55.205237+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.6303608324330342,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of himself holding a small turtle in a container with Joanna on July 10, 2022, while encouraging her to believe in her talent for her new book project.",
+        "score": 0.6210960950790467,
+        "id": "103163f1-ac7b-45b8-95a1-8a6aa949a1a3",
+        "created_at": "2026-11-03T03:12:55.213172+00:00",
+        "updated_at": "2026-11-03T03:12:55.213172+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.44519193776683935,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.4422780530381446,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.4251256362286407,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.4234942914378359,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.4214075508650571,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      }
+    ],
+    "search_latency_ms": 54.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate encouraged Joanna by making a motivational whiteboard drawing with arrows and words for her, and by telling her that encouragement is what got him so far in his gaming career.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a different form of encouragement and does not include any of the gold answer's key ideas about rejections, keeping grinding, or finding the perfect opportunity."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He encourages her by telling her that at least one of her new submissions will make it to the screens.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core encouraging idea of future success/opportunity, even though it phrases it more specifically."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He encourages her by telling her that at least one of her new submissions will make it to the screens.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives a different specific encouragement and does not include any of the gold answer's key points about rejections not defining her, keeping grinding, or finding the perfect opportunity."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He encouraged her by saying that at least one of her new submissions will make it to the screens.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer provides a different specific encouragement and does not include any of the gold answer's key points about rejections not defining her, keeping grinding, or finding the perfect opportunity."
+    }
+  }
+}

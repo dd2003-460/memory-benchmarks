@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q70",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of meal did John and his family make together in the photo shared by John?",
+  "ground_truth_answer": "pizza",
+  "evidence": [
+    "D2:24"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What kind of meal did John and his family make together in the photo shared by John?",
+    "search_results": [
+      {
+        "memory": "John shared a photo of his family having fun on a playground at the park, describing it as an awesome day with nice family time.",
+        "score": 0.638071652854425,
+        "id": "4ae463d0-dad9-470f-8e61-7db6d2815d2a",
+        "created_at": "2026-11-03T00:32:56.340626+00:00",
+        "updated_at": "2026-11-03T00:32:56.340626+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park where the kids had fun on the playground, describing it as an awesome day with nice family time.",
+        "score": 0.6373741989337314,
+        "id": "e15b655d-b216-4ea0-a58f-438e55002740",
+        "created_at": "2026-11-03T00:32:53.468645+00:00",
+        "updated_at": "2026-11-03T00:32:53.468645+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times. He shared a photo of his family posing in the park on August 13, 2023.",
+        "score": 0.6340878717136589,
+        "id": "df3421f7-76f4-4d86-b98f-5b5c6c4d7b00",
+        "created_at": "2026-11-03T00:49:21.202861+00:00",
+        "updated_at": "2026-11-03T00:49:21.202861+00:00"
+      },
+      {
+        "memory": "John shared a family photo taken on a train track in the fall around July 5, 2023, noting that his family motivates him and reminds him why he is doing his community work.",
+        "score": 0.624100862569583,
+        "id": "150eb870-4602-4150-a2b5-75bfd84748f2",
+        "created_at": "2026-11-03T00:39:34.289443+00:00",
+        "updated_at": "2026-11-03T00:39:34.289443+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach on May 25, 2023, showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community work with Maria.",
+        "score": 0.6214936663183988,
+        "id": "8176ec01-edd3-4cb4-9f09-821fa4814e87",
+        "created_at": "2026-11-03T00:31:05.207069+00:00",
+        "updated_at": "2026-11-03T00:31:05.207069+00:00"
+      },
+      {
+        "memory": "John shared a photo from his family beach vacation showing two children playing in the ocean waves, describing trips like these as being full of amazing memories.",
+        "score": 0.6097161227756958,
+        "id": "52025e5f-8a34-4535-99a9-4a6a4eb599dd",
+        "created_at": "2026-11-03T00:35:09.119550+00:00",
+        "updated_at": "2026-11-03T00:35:09.119550+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at a park playground on June 12, 2023, describing it as an awesome day where the kids had fun and they enjoyed nice family time.",
+        "score": 0.6049707939780211,
+        "id": "5a9f6fa4-2ed0-4694-a5c2-a48c75e30469",
+        "created_at": "2026-11-03T00:32:42.649622+00:00",
+        "updated_at": "2026-11-03T00:32:42.649622+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.6013730897771418,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family on July 5, 2023, stating that they motivate him and remind him why he is doing his activism work.",
+        "score": 0.5988701462780436,
+        "id": "ddf645f8-4ce8-4477-bb40-1a39efdb549c",
+        "created_at": "2026-11-03T00:39:40.570797+00:00",
+        "updated_at": "2026-11-03T00:39:40.570797+00:00"
+      },
+      {
+        "memory": "John made an apple pie for his kids on May 3, 2023, and shared a photo of a banana split ice cream sundae while discussing the meal.",
+        "score": 0.5984575726392237,
+        "id": "a090039a-a07a-4ab0-b056-e275cfd8fadc",
+        "created_at": "2026-11-03T00:28:26.501225+00:00",
+        "updated_at": "2026-11-03T00:28:26.501225+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.5933970964821411,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.5921049302800906,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.5874608241398075,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John offered to help Maria with the homeless shelter fundraiser and shared a photo of a poster for a chili cook-off event, indicating an interest in supporting the cause through this specific activity.",
+        "score": 0.5771472014478926,
+        "id": "4c805add-f6ef-4bf7-b1a8-1dff3e156596",
+        "created_at": "2026-11-03T00:30:50.061730+00:00",
+        "updated_at": "2026-11-03T00:30:50.061730+00:00"
+      },
+      {
+        "memory": "John shared a photo of his workmates from a recent hiking trip, noting that their camaraderie and support help keep him motivated in his work on the veteran support petition.",
+        "score": 0.5763570142300789,
+        "id": "3f606ebe-7995-48db-b461-1130e4fdb681",
+        "created_at": "2026-11-03T00:30:47.743765+00:00",
+        "updated_at": "2026-11-03T00:30:47.743765+00:00"
+      },
+      {
+        "memory": "John shared a photo of a party invitation on a table with a pen and paper while discussing plans to get people together to address community issues following the recent flood.",
+        "score": 0.5730289656249994,
+        "id": "e9f45214-7877-407d-9ada-fce4e73b11d9",
+        "created_at": "2026-11-03T00:40:35.432858+00:00",
+        "updated_at": "2026-11-03T00:40:35.432858+00:00"
+      },
+      {
+        "memory": "John works during regular work hours but sometimes brings work home, and he shared a photo of his office desk setup featuring a computer, keyboard, and notebook.",
+        "score": 0.564967036174852,
+        "id": "73452027-2826-42bd-b67e-9680841e480b",
+        "created_at": "2026-11-03T00:34:33.793879+00:00",
+        "updated_at": "2026-11-03T00:34:33.793879+00:00"
+      },
+      {
+        "memory": "John has a golden retriever named Max, whom he misses and shares photos of, including one of them playing fetch together.",
+        "score": 0.5644766227360742,
+        "id": "780cf389-8a75-4440-b871-5c89ac629089",
+        "created_at": "2026-11-03T00:47:43.298290+00:00",
+        "updated_at": "2026-11-03T00:47:43.298290+00:00"
+      },
+      {
+        "memory": "John shared a photo of a man sitting on a mountain overlooking a lake while encouraging Maria to keep up her courage after she discussed trying new things.",
+        "score": 0.5619446541709783,
+        "id": "3a148108-3e9e-4642-b918-1870daf13a8b",
+        "created_at": "2026-11-03T00:28:59.603483+00:00",
+        "updated_at": "2026-11-03T00:28:59.603483+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.548765257794481,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      }
+    ],
+    "search_latency_ms": 67.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Apple pie",
+      "memories_evaluated": 10,
+      "reason": "The generated answer says apple pie, which does not match the gold answer's pizza."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "apple pie",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'apple pie' is a completely different food item from the gold answer 'pizza' and does not share any semantic overlap or correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "apple pie",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'apple pie' is a completely different food item from the gold answer 'pizza' and does not share any semantic overlap or correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "apple pie",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'apple pie' is a completely different food item from the gold answer 'pizza' and does not share any semantic overlap or correct items."
+    }
+  }
+}

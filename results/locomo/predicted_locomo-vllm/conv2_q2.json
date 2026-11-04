@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q2",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What martial arts has John done?",
+  "ground_truth_answer": "Kickboxing, Taekwondo",
+  "evidence": [
+    "D2:28",
+    "D1:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What martial arts has John done?",
+    "search_results": [
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.34205668981103604,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.2692723859180671,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John is trying out different workout regimes and is interested in rock climbing as a way to push his limits.",
+        "score": 0.21816452847614487,
+        "id": "20a53785-229a-40a5-9d3f-3f19140f050b",
+        "created_at": "2026-11-03T00:33:10.482176+00:00",
+        "updated_at": "2026-11-03T00:33:10.482176+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, which he describes as having a chill vibe and awesome instructors.",
+        "score": 0.2132748493383584,
+        "id": "1f228ad6-aaf9-47b5-aa17-031274aebe3d",
+        "created_at": "2026-11-03T00:43:29.354272+00:00",
+        "updated_at": "2026-11-03T00:43:29.354272+00:00"
+      },
+      {
+        "memory": "John frequently attends a local yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, describing the vibe as chill with awesome instructors.",
+        "score": 0.2096274693554238,
+        "id": "b09c38ee-71b4-4895-b071-74b44b528ba4",
+        "created_at": "2026-11-03T00:43:35.573582+00:00",
+        "updated_at": "2026-11-03T00:43:35.573582+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he appreciates for keeping his workouts interesting.",
+        "score": 0.2054624760796671,
+        "id": "e64dc561-374b-4a0c-b96f-f4e561210a1b",
+        "created_at": "2026-11-03T00:43:19.545653+00:00",
+        "updated_at": "2026-11-03T00:43:19.545653+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade, finding the training intense and taxing but rewarding, as it changed his view on helping others.",
+        "score": 0.20515504208166108,
+        "id": "8b9039d6-66b6-4b5b-aab3-5791a9bda4d6",
+        "created_at": "2026-11-03T00:43:59.684427+00:00",
+        "updated_at": "2026-11-03T00:43:59.684427+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.20318452119987715,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.2004904958135731,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "John is currently trying out different workout regimes and finds rock climbing appealing as a fun way to push his limits, though he has not yet tried it.",
+        "score": 0.20046087503681878,
+        "id": "dc83c0fc-1496-4dd5-88f3-10540e7d7788",
+        "created_at": "2026-11-03T00:33:49.900107+00:00",
+        "updated_at": "2026-11-03T00:33:49.900107+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.19641170219443568,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      },
+      {
+        "memory": "John is trying out different workout regimes and is interested in rock climbing as a way to push his physical limits.",
+        "score": 0.19599976839782704,
+        "id": "37fd5fc4-9924-46ce-bd65-f56448d59c7c",
+        "created_at": "2026-11-03T00:33:31.647988+00:00",
+        "updated_at": "2026-11-03T00:33:31.647988+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.19479334611545296,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.19479334611545296,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is interested in rock climbing as a way to push his limits and has been trying out different workout regimes lately.",
+        "score": 0.1945233496185006,
+        "id": "8f6bd735-60af-4bc4-bb02-b4a5f520ee08",
+        "created_at": "2026-11-03T00:33:17.580623+00:00",
+        "updated_at": "2026-11-03T00:33:17.580623+00:00"
+      },
+      {
+        "memory": "John described the training for the fire-fighting brigade as intense and taxing, but noted that it changed his view on helping others.",
+        "score": 0.1917745252702757,
+        "id": "cb18126e-5cb3-4a36-b159-bd8a5382474d",
+        "created_at": "2026-11-03T00:44:15.973514+00:00",
+        "updated_at": "2026-11-03T00:44:15.973514+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in late July 2023 after being inspired by Maria's work at the homeless shelter, finding the training intense but rewarding.",
+        "score": 0.190717657836971,
+        "id": "a96996be-afd3-43d6-96bc-7ac99fec50d1",
+        "created_at": "2026-11-03T00:44:08.625430+00:00",
+        "updated_at": "2026-11-03T00:44:08.625430+00:00"
+      },
+      {
+        "memory": "John is interested in trying rock climbing as a way to push his limits and is exploring different workout regimes.",
+        "score": 0.18943225672579303,
+        "id": "ce2f8215-df3b-4d61-bd52-9a729cbc56ee",
+        "created_at": "2026-11-03T00:32:56.336651+00:00",
+        "updated_at": "2026-11-03T00:32:56.336651+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.18830510970177497,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John describes the training for the fire-fighting brigade as intense and taxing, but notes it changed his view on helping others.",
+        "score": 0.18757990273796507,
+        "id": "31950c65-a022-4393-9ed4-bbd44c435dee",
+        "created_at": "2026-11-03T00:43:49.069114+00:00",
+        "updated_at": "2026-11-03T00:43:49.069114+00:00"
+      }
+    ],
+    "search_latency_ms": 81.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "kickboxing",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'kickboxing', which is one of the correct items listed in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "kickboxing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'kickboxing', which is one of the correct items listed in the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "kickboxing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'kickboxing', which is one of the correct items listed in the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "kickboxing",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'kickboxing', which is one of the correct items listed in the gold answer."
+    }
+  }
+}

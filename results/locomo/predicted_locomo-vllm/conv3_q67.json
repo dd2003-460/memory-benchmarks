@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q67",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What pets does Nate have?",
+  "ground_truth_answer": "A dog and threeturtles.",
+  "evidence": [
+    "D8:3",
+    "D12:3",
+    "D28:23"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What pets does Nate have?",
+    "search_results": [
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.705069702938819,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.6874681809926948,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate has pets that he takes to the park, and he finds their happy faces memorable, describing a recent trip to the park with them as a special day",
+        "score": 0.6746301771027258,
+        "id": "0a4426fd-dabe-4d2f-b7ff-af059804174d",
+        "created_at": "2026-11-03T03:29:49.160223+00:00",
+        "updated_at": "2026-11-03T03:29:49.160223+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.6737187641345821,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.6697821564573648,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "Nate has a pet turtle that he enjoys spending time with, finding the companionship helpful during difficult times.",
+        "score": 0.666109469134396,
+        "id": "c6d73195-6bfe-40a3-b3a5-d77a557c2801",
+        "created_at": "2026-11-03T03:15:53.697923+00:00",
+        "updated_at": "2026-11-03T03:15:53.697923+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he recently moved into a new, larger tank, which he describes as his 'little buddies' and finds calming to be around after long days of gaming",
+        "score": 0.6620664325337076,
+        "id": "87b4554e-4478-47a4-9298-68b10ccc44d5",
+        "created_at": "2026-11-03T03:14:40.184400+00:00",
+        "updated_at": "2026-11-03T03:14:40.184400+00:00"
+      },
+      {
+        "memory": "Nate adopted a dog named Max around May 20, 2022, who is described as full of energy and brings him joy while keeping his other pets active",
+        "score": 0.6618864959543385,
+        "id": "e05f9dc5-5080-48a9-bed9-f4cf22ea254c",
+        "created_at": "2026-11-03T03:07:15.194718+00:00",
+        "updated_at": "2026-11-03T03:07:15.194718+00:00"
+      },
+      {
+        "memory": "Nate keeps turtles as pets, finding watching them calming and fascinating, and has grown fond of them for bringing joy to his life.",
+        "score": 0.6595930491246913,
+        "id": "16156dd1-59fe-4388-8775-b9d7418e9caa",
+        "created_at": "2026-11-03T03:28:12.964566+00:00",
+        "updated_at": "2026-11-03T03:28:12.964566+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.6591838797898102,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.6529896032085134,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when bored, and they currently relax in a tank with a heat lamp after their outings.",
+        "score": 0.6518230068496054,
+        "id": "c112b5da-61de-49b5-a45e-397f44355ca1",
+        "created_at": "2026-11-03T03:25:19.557967+00:00",
+        "updated_at": "2026-11-03T03:25:19.557967+00:00"
+      },
+      {
+        "memory": "Nate got a new turtle to join his existing pets, bringing the total count of turtles he keeps to three, and shared a photo of them basking in the sun on November 9, 2022.",
+        "score": 0.6470445477957963,
+        "id": "e753854f-16d6-4b5f-846d-5e9657cf2ac2",
+        "created_at": "2026-11-03T03:31:35.177863+00:00",
+        "updated_at": "2026-11-03T03:31:35.177863+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.6451852104515763,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate has three turtles, having recently adopted a third one from a pet store because the tank was large enough to accommodate them all.",
+        "score": 0.6400176714709039,
+        "id": "afa5494f-26c3-488b-b7e8-791dcbce54c3",
+        "created_at": "2026-11-03T03:32:33.622273+00:00",
+        "updated_at": "2026-11-03T03:32:33.622273+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.6393335858966579,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles, describing them as calm and peaceful buddies that make coming home after a long day of gaming better.",
+        "score": 0.6376474633982622,
+        "id": "194d4e3c-f83e-4aa6-b63f-e970a342e7a2",
+        "created_at": "2026-11-03T03:14:11.534463+00:00",
+        "updated_at": "2026-11-03T03:14:11.534463+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that cheer him up and provide happiness, particularly when he is stressed about his video game tournament progress.",
+        "score": 0.6375928957280843,
+        "id": "cadfe9b1-af86-484b-9f13-6a3ff50f5968",
+        "created_at": "2026-11-03T03:23:32.287631+00:00",
+        "updated_at": "2026-11-03T03:23:32.287631+00:00"
+      },
+      {
+        "memory": "Nate owns pet turtles that he takes out for walks when bored; on October 25, 2022, he shared photos of his two turtles sitting on a log in a pond and later relaxing in their tank after walking.",
+        "score": 0.6371310880701957,
+        "id": "2f84e572-30aa-49b4-ad81-58153151eb61",
+        "created_at": "2026-11-03T03:25:06.493652+00:00",
+        "updated_at": "2026-11-03T03:25:06.493652+00:00"
+      },
+      {
+        "memory": "Nate took his dog Max for a walk around May 23, 2022, and met a friendly couple with a dog who live nearby; they decided to arrange regular dog playdates so their pets can socialize.",
+        "score": 0.6370891828914138,
+        "id": "00cdfe16-1e5f-41cd-9ab1-62f822ccfddd",
+        "created_at": "2026-11-03T03:07:53.799146+00:00",
+        "updated_at": "2026-11-03T03:07:53.799146+00:00"
+      }
+    ],
+    "search_latency_ms": 82.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has two pet turtles and an adopted dog named Max.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the correct pet types, a dog and turtles, even though the turtle count differs."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has three pet turtles and a dog named Max.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both correct pets from the gold answer, a dog and three turtles, with an extra detail about the dog's name."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has three pet turtles and a dog named Max.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both correct pets from the gold answer, a dog and three turtles, with an extra detail about the dog's name."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has three pet turtles and a dog named Max.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both correct pets from the gold answer, a dog and three turtles, with an extra detail about the dog's name."
+    }
+  }
+}

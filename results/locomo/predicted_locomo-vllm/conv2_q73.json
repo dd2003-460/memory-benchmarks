@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q73",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Who inspired Maria to start volunteering?",
+  "ground_truth_answer": "Her aunt",
+  "evidence": [
+    "D5:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Who inspired Maria to start volunteering?",
+    "search_results": [
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.8221227208492591,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7841484935665706,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a shelter about a year ago (around August 2022) after witnessing a family struggling on the streets, finding the experience fulfilling and motivated by making a difference.",
+        "score": 0.7233761366771941,
+        "id": "b763b013-43db-4d4c-a373-fab6573413af",
+        "created_at": "2026-11-03T00:45:12.561701+00:00",
+        "updated_at": "2026-11-03T00:45:12.561701+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.7063932224265003,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.7041734942471527,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.698860228945081,
+        "id": "8e414989-f6ec-45e2-ac55-d27e66dd24f9",
+        "created_at": "2026-11-03T00:44:43.423528+00:00",
+        "updated_at": "2026-11-03T00:44:43.423528+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.6972208520382595,
+        "id": "fda6651e-ea70-4f8e-bb1c-f400db078f86",
+        "created_at": "2026-11-03T00:45:02.566317+00:00",
+        "updated_at": "2026-11-03T00:45:02.566317+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help; she describes the experience as fulfilling.",
+        "score": 0.6965375256474594,
+        "id": "47989226-43a5-487c-ac41-1cdc8b8c76ac",
+        "created_at": "2026-11-03T00:44:59.845448+00:00",
+        "updated_at": "2026-11-03T00:44:59.845448+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter for about a year, starting around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.6897912612315604,
+        "id": "fa312135-f673-4ef8-af96-7b21f32f8754",
+        "created_at": "2026-11-03T00:44:57.055067+00:00",
+        "updated_at": "2026-11-03T00:44:57.055067+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.6664030302720721,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.6644896024658076,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade to give back to his community, inspired by Maria's volunteering at the homeless shelter.",
+        "score": 0.6443747636530229,
+        "id": "4a1ec488-86d0-4e7f-8f27-9f42cb5eb99b",
+        "created_at": "2026-11-03T00:43:49.064862+00:00",
+        "updated_at": "2026-11-03T00:43:49.064862+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023 and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6425799229030039,
+        "id": "e98eedd6-c57d-4f97-b841-6e9804670ec9",
+        "created_at": "2026-11-03T00:31:47.159168+00:00",
+        "updated_at": "2026-11-03T00:31:47.159168+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023, and offered to help John if he needs assistance with adopting a rescue dog.",
+        "score": 0.6425387572758388,
+        "id": "c1810075-84b9-4707-b658-183adec07437",
+        "created_at": "2026-11-03T00:31:49.704537+00:00",
+        "updated_at": "2026-11-03T00:31:49.704537+00:00"
+      },
+      {
+        "memory": "Maria recently gave a few talks at the homeless shelter where she volunteers, finding the experience fulfilling and receiving compliments from other volunteers, which reinforced her belief in the importance of connecting with and helping others.",
+        "score": 0.6393470363471507,
+        "id": "e67fe79b-7f44-4751-a544-3c5de4bbe7d5",
+        "created_at": "2026-11-03T00:26:30.908847+00:00",
+        "updated_at": "2026-11-03T00:26:30.908847+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and finds the experience fulfilling and meaningful for giving back to his community.",
+        "score": 0.6388081040437286,
+        "id": "21057a03-3e39-4baf-88db-3d6df2c3e864",
+        "created_at": "2026-11-03T00:44:15.969929+00:00",
+        "updated_at": "2026-11-03T00:44:15.969929+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.6355286560882776,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      },
+      {
+        "memory": "Maria plans to volunteer at shelters next month, which she is excited about as a way to put her positivity out there.",
+        "score": 0.6171659510917996,
+        "id": "97130e78-618a-4a3f-aa3e-6a4b79fff0bc",
+        "created_at": "2026-11-03T00:43:24.380266+00:00",
+        "updated_at": "2026-11-03T00:43:24.380266+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.6159954671532917,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria finds her volunteering at the homeless shelter rewarding but also tough, noting that while it is fulfilling, the growing need for help can be overwhelming.",
+        "score": 0.6156357100309549,
+        "id": "7fdf98d7-ea07-4bab-90af-8e2c571437bb",
+        "created_at": "2026-11-03T00:27:46.474493+00:00",
+        "updated_at": "2026-11-03T00:27:46.474493+00:00"
+      }
+    ],
+    "search_latency_ms": 56.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A family struggling on the streets inspired Maria to start volunteering.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies a street family as the inspiration, not Maria's aunt, so it contains none of the gold answer's correct item."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A family struggling on the streets, whom Maria witnessed, inspired her to start volunteering.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a street family as the inspiration, not Maria's aunt, so it contains none of the gold answer's correct item."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A family struggling on the streets, whom Maria witnessed, inspired her to start volunteering.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a street family as the inspiration, not Maria's aunt, so it contains none of the gold answer's correct item."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A family struggling on the streets, whom Maria witnessed, inspired her to start volunteering.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a street family as the inspiration, not Maria's aunt, so it contains none of the gold answer's correct item."
+    }
+  }
+}

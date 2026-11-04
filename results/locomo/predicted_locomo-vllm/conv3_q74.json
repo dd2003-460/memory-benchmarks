@@ -1,0 +1,196 @@
+{
+  "question_id": "conv3_q74",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What recommendations has Nate received from Joanna?",
+  "ground_truth_answer": "\"Eternal Sunshine of the Spotless Mind\" movie, \"A Court of Thorns and Roses\" book, pointers for making living room comfy, starting a cork board for memories, \"Little Women\" movie",
+  "evidence": [
+    "D1:16",
+    "D3:17",
+    "D15:14",
+    "D15:15",
+    "D19:15",
+    "D19:16",
+    "D23:26"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What recommendations has Nate received from Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.7028009274193621,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.6775303423335942,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      },
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over random choices, stating that he usually likes her suggestions much more.",
+        "score": 0.6669764568289167,
+        "id": "bc3427a6-cb5a-44d9-b3c9-9ec69e791478",
+        "created_at": "2026-11-03T03:29:23.397245+00:00",
+        "updated_at": "2026-11-03T03:29:23.397245+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6579005780034011,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6554354750409778,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6533907513761565,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6532233224492244,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, stating that his experience at the gaming convention on October 7, 2022 was unforgettable.",
+        "score": 0.6492308205437302,
+        "id": "ac28529a-ddb0-433f-8cbf-82b69bec034c",
+        "created_at": "2026-11-03T03:21:39.020138+00:00",
+        "updated_at": "2026-11-03T03:21:39.020138+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and describes it as an awesome game that has been a blast, recommending it to Joanna on November 7, 2022.",
+        "score": 0.6447259066432072,
+        "id": "713c2a33-8b97-4cdd-bb2b-1b8127b53446",
+        "created_at": "2026-11-03T03:29:10.393537+00:00",
+        "updated_at": "2026-11-03T03:29:10.393537+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, describing the experience at his own convention as unforgettable.",
+        "score": 0.6439091894276798,
+        "id": "d392cff5-1b6b-4ec8-a3ec-6df26b286377",
+        "created_at": "2026-11-03T03:21:47.496975+00:00",
+        "updated_at": "2026-11-03T03:21:47.496975+00:00"
+      },
+      {
+        "memory": "Joanna recommended that Nate get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room as cozy as hers for movie nights",
+        "score": 0.6239336222744506,
+        "id": "b4e5af71-81af-4a7f-8cb7-8b6e9151ebcd",
+        "created_at": "2026-11-03T03:22:49.593014+00:00",
+        "updated_at": "2026-11-03T03:22:49.593014+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback on her book by making a raspberry chia pudding parfait dessert, which she shared a photo of with Nate on August 22, 2022.",
+        "score": 0.6189021203057206,
+        "id": "47238472-296a-4cc7-9f22-c2a3178a7533",
+        "created_at": "2026-11-03T03:14:11.542140+00:00",
+        "updated_at": "2026-11-03T03:14:11.542140+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.43738881742234836,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.43591176478008287,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.4313102372114611,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.4234245963906669,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.4141338253119403,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.41096288176077433,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.4012999162487104,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.39787392533916466,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      }
+    ],
+    "search_latency_ms": 95.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate received movie recommendations from Joanna, specifically the movie *Little Women*.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the correct gold item, the movie recommendation 'Little Women'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommended that Nate watch the movie *Little Women*, and she recommended that he get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room cozy for movie nights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's 'Little Women' movie recommendation and living room comfort pointers, so it has at least one correct item."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommended that Nate watch the movie *Little Women*, and she recommended that he get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room cozy for movie nights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's 'Little Women' movie recommendation and living room comfort pointers, so it has at least one correct item."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommended that Nate watch the movie *Little Women*, and she recommended that he get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room cozy for movie nights.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's 'Little Women' movie recommendation and living room comfort pointers, so it has at least one correct item."
+    }
+  }
+}

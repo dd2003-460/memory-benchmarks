@@ -1,0 +1,193 @@
+{
+  "question_id": "conv3_q75",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What are Nate's favorite desserts?",
+  "ground_truth_answer": "coconut milk icecream, dairy-free chocolate cake with berries, chocolate and mixed-berry icecream, dairy-free chocolate mousse",
+  "evidence": [
+    "D3:4",
+    "D3:10",
+    "D21:10",
+    "D3:12"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What are Nate's favorite desserts?",
+    "search_results": [
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, dairy-free, and having a tropical coconut twist.",
+        "score": 0.6621377721511436,
+        "id": "ce05810b-405e-4189-9cc7-1694e3a3e105",
+        "created_at": "2026-11-03T03:17:45.174891+00:00",
+        "updated_at": "2026-11-03T03:17:45.174891+00:00"
+      },
+      {
+        "memory": "Nate's favorite dairy-free desserts are coconut milk ice cream and dairy-free chocolate mousse, which he describes as super creamy and tasting like the real thing.",
+        "score": 0.6619768405170239,
+        "id": "81dfcf42-75d5-4c7a-a4a9-d9bf76eb1aa6",
+        "created_at": "2026-11-03T03:18:37.399595+00:00",
+        "updated_at": "2026-11-03T03:18:37.399595+00:00"
+      },
+      {
+        "memory": "Nate has been wanting to try Joanna's chocolate and raspberry cake for a while, expressing interest in tasting it during their upcoming dessert-sharing meetup.",
+        "score": 0.6509059797352408,
+        "id": "e55c5615-584e-4a15-9dfd-28ea9a0031cf",
+        "created_at": "2026-11-03T03:26:54.977776+00:00",
+        "updated_at": "2026-11-03T03:26:54.977776+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, with a tropical twist, and suitable for those with lactose intolerance or vegan preferences.",
+        "score": 0.6500877136775901,
+        "id": "09ab8861-3ace-4e8c-a0e2-5e9adc8491b8",
+        "created_at": "2026-11-03T03:17:49.204031+00:00",
+        "updated_at": "2026-11-03T03:17:49.204031+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience of sharing his love for them as fun and rewarding.",
+        "score": 0.6441715603463016,
+        "id": "dc4c894f-07bd-47fd-88dd-9317bbaf7373",
+        "created_at": "2026-11-03T03:13:20.720303+00:00",
+        "updated_at": "2026-11-03T03:13:20.720303+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.6357640006799181,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.6325236793763263,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the activity as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings.",
+        "score": 0.6298668523970152,
+        "id": "57ba8cdb-cda8-4f3d-bdef-ac6bdb39fe48",
+        "created_at": "2026-11-03T03:13:32.631384+00:00",
+        "updated_at": "2026-11-03T03:13:32.631384+00:00"
+      },
+      {
+        "memory": "Joanna makes various dairy-free desserts including cookies, pies, and cakes that accommodate different dietary needs, and plans to share more recipes with Nate soon.",
+        "score": 0.6197027805758185,
+        "id": "f4c7f8ea-5a10-4664-b007-c5fea1c38349",
+        "created_at": "2026-11-03T03:16:58.589406+00:00",
+        "updated_at": "2026-11-03T03:16:58.589406+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6123141013909167,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6093133755869699,
+        "id": "71e7a30f-4dd2-4ee5-a0fa-5ed17092602e",
+        "created_at": "2026-11-03T03:26:49.333522+00:00",
+        "updated_at": "2026-11-03T03:26:49.333522+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings with Joanna on August 14, 2022.",
+        "score": 0.6089864879531391,
+        "id": "e68bff46-e8a5-449b-812c-7093e9a1e326",
+        "created_at": "2026-11-03T03:13:40.691046+00:00",
+        "updated_at": "2026-11-03T03:13:40.691046+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's place on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes to share desserts",
+        "score": 0.6035920621633998,
+        "id": "a1c53c9c-9fcd-4cf9-8db0-8641bca2b63e",
+        "created_at": "2026-11-03T03:26:58.944032+00:00",
+        "updated_at": "2026-11-03T03:26:58.944032+00:00"
+      },
+      {
+        "memory": "Joanna has been testing out dairy-free dessert recipes for friends and family, recently making a cake with white frosting that she shared a photo of with Nate on May 2, 2022.",
+        "score": 0.6024240971501561,
+        "id": "9a61a0d8-4593-4162-8ee1-087485816739",
+        "created_at": "2026-11-03T03:05:29.077837+00:00",
+        "updated_at": "2026-11-03T03:05:29.077837+00:00"
+      },
+      {
+        "memory": "Nate identified coconut milk ice cream as his favorite dish from his cooking show, describing it as smooth, creamy, and having a tropical twist, while noting its suitability for dairy-free and vegan diets.",
+        "score": 0.5991999749887345,
+        "id": "a012f901-f39e-48a1-b034-91fe84062507",
+        "created_at": "2026-11-03T03:17:35.102080+00:00",
+        "updated_at": "2026-11-03T03:17:35.102080+00:00"
+      },
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor, and he owns an Iron Man action figure in his room as a reminder to keep working on his goals",
+        "score": 0.5926549309330086,
+        "id": "8abc27c8-b721-47a8-ab67-2bb962db6d0b",
+        "created_at": "2026-11-03T03:10:19.040804+00:00",
+        "updated_at": "2026-11-03T03:10:19.040804+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback on her book by making a raspberry chia pudding parfait dessert, which she shared a photo of with Nate on August 22, 2022.",
+        "score": 0.5925526740043745,
+        "id": "47238472-296a-4cc7-9f22-c2a3178a7533",
+        "created_at": "2026-11-03T03:14:11.542140+00:00",
+        "updated_at": "2026-11-03T03:14:11.542140+00:00"
+      },
+      {
+        "memory": "Joanna expressed that she loves Nate's coconut milk ice cream and finds it delicious.",
+        "score": 0.33617168748181536,
+        "id": "3ff330e0-2c83-4f38-a56c-3198057b9e51",
+        "created_at": "2026-11-03T03:13:32.633641+00:00",
+        "updated_at": "2026-11-03T03:13:32.633641+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.335653921764351,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.33106726315062607,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      }
+    ],
+    "search_latency_ms": 80.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s favorite desserts are coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes two items from the gold answer, coconut milk ice cream and dairy-free chocolate mousse."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s favorite desserts are coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes two items from the gold answer, coconut milk ice cream and dairy-free chocolate mousse."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s favorite desserts are coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes two items from the gold answer, coconut milk ice cream and dairy-free chocolate mousse."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate’s favorite desserts are coconut milk ice cream and dairy-free chocolate mousse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes two items from the gold answer, coconut milk ice cream and dairy-free chocolate mousse."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q39",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Nate attend a cooking show?",
+  "ground_truth_answer": "The Monday before 14September, 2022",
+  "evidence": [
+    "D21:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate attend a cooking show?",
+    "search_results": [
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.7143740232504912,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.7062603777923353,
+        "id": "07dbbc09-9b02-4fa4-983b-64ac6ed4f5f0",
+        "created_at": "2026-11-03T03:17:49.200495+00:00",
+        "updated_at": "2026-11-03T03:17:49.200495+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, where he taught people vegan ice cream recipes, describing the experience as nerve-wracking but a blast and noting that he picked up a few new recipes.",
+        "score": 0.6981385737039072,
+        "id": "96eac831-b7b2-47d0-bb22-8efcd49819ab",
+        "created_at": "2026-11-03T03:17:20.945746+00:00",
+        "updated_at": "2026-11-03T03:17:20.945746+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on September 12, 2022, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.6647291434488501,
+        "id": "593b14aa-1363-4a20-8298-23180191c8d8",
+        "created_at": "2026-11-03T03:17:45.170610+00:00",
+        "updated_at": "2026-11-03T03:17:45.170610+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on Monday, September 12, 2022, finding the experience nerve-wracking but enjoyable, and picked up several new recipes from the event.",
+        "score": 0.6637351059876391,
+        "id": "c4aac126-d686-44da-96ea-7057263082dd",
+        "created_at": "2026-11-03T03:17:30.883683+00:00",
+        "updated_at": "2026-11-03T03:17:30.883683+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6624358290090069,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.6614044091339397,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.6597985468159251,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate participated in a game tournament that was pushed back, during which he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6479414267096976,
+        "id": "e09485e3-7687-4a5a-8bd5-f8e635366795",
+        "created_at": "2026-11-03T03:30:17.364371+00:00",
+        "updated_at": "2026-11-03T03:30:17.364371+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for a cooking or baking session on September 5, 2022, stating that the activity brings them together, and shared a photo of a pile of cookies with sprinkles on a wooden table.",
+        "score": 0.6475045831233003,
+        "id": "83384277-b63a-47bc-9f60-1772d1ced054",
+        "created_at": "2026-11-03T03:16:08.952067+00:00",
+        "updated_at": "2026-11-03T03:16:08.952067+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.6465727374466559,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.6461994818536778,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.6343670535491568,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate's gaming party held on June 17, 2022, was a great success with 7 people attending, and 6 of them expressed interest in doing it again the following month.",
+        "score": 0.6328164542131931,
+        "id": "8287e95e-faf9-4f26-9b08-b448a985361b",
+        "created_at": "2026-11-03T03:11:06.983162+00:00",
+        "updated_at": "2026-11-03T03:11:06.983162+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, so he tried out cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6280072942285432,
+        "id": "18b5654c-a1b4-49d2-86fc-aa1d461a3de4",
+        "created_at": "2026-11-03T03:30:37.343236+00:00",
+        "updated_at": "2026-11-03T03:30:37.343236+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, prompting him to try cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6238310637800939,
+        "id": "fa557a45-cc31-4369-8968-71f8228b5751",
+        "created_at": "2026-11-03T03:30:33.301448+00:00",
+        "updated_at": "2026-11-03T03:30:33.301448+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, dairy-free, and having a tropical coconut twist.",
+        "score": 0.6232798086747061,
+        "id": "ce05810b-405e-4189-9cc7-1694e3a3e105",
+        "created_at": "2026-11-03T03:17:45.174891+00:00",
+        "updated_at": "2026-11-03T03:17:45.174891+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.6220763840210206,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate attended a game convention on October 7, 2022, where he met new people outside his normal circle and made friends who share his interest in games.",
+        "score": 0.6152206484800792,
+        "id": "b23005e4-62f5-406d-945a-35f8b73c0d87",
+        "created_at": "2026-11-03T03:21:11.592514+00:00",
+        "updated_at": "2026-11-03T03:21:11.592514+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.37753591854171764,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      }
+    ],
+    "search_latency_ms": 71.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 12, 2022",
+      "memories_evaluated": 10,
+      "reason": "September 12, 2022 is the Monday before September 14, 2022, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 12, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 12, 2022 is the Monday before September 14, 2022, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "On Monday, September 12, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer gives the exact Monday before September 14, 2022, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 12, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 12, 2022 is the Monday before September 14, 2022, matching the gold answer."
+    }
+  }
+}

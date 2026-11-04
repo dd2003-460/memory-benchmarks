@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q59",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What does Joanna do to remember happy memories?",
+  "ground_truth_answer": "Hangs them on a corkboard, writes themin a notebook.",
+  "evidence": [
+    "D15:9",
+    "D27:34"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Joanna do to remember happy memories?",
+    "search_results": [
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook, viewing looking back on fond memories as a blessing.",
+        "score": 0.8336718345869324,
+        "id": "754c605c-f4cf-4764-9bcb-7f08a302810f",
+        "created_at": "2026-11-03T03:30:00.786407+00:00",
+        "updated_at": "2026-11-03T03:30:00.786407+00:00"
+      },
+      {
+        "memory": "Joanna has started writing down some of her favorite memories in a notebook as a way to preserve them",
+        "score": 0.8165371968535364,
+        "id": "dd942038-e63a-4b85-88a1-7c36544a25ca",
+        "created_at": "2026-11-03T03:30:09.369788+00:00",
+        "updated_at": "2026-11-03T03:30:09.369788+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.810274803069583,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna's brother used to write her cute notes when they were children, which brings back sweet memories for her.",
+        "score": 0.7928233635847802,
+        "id": "7582f8fe-c96e-438e-a4b8-eb326394e503",
+        "created_at": "2026-11-03T03:29:57.305804+00:00",
+        "updated_at": "2026-11-03T03:29:57.305804+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.7920868991591401,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      },
+      {
+        "memory": "Joanna's brother wrote a note that she keeps, which he used to make for her when they were kids, and it brings back sweet childhood memories",
+        "score": 0.7761225853801793,
+        "id": "570103dc-d788-4933-914b-e02817dbf5d5",
+        "created_at": "2026-11-03T03:30:09.366845+00:00",
+        "updated_at": "2026-11-03T03:30:09.366845+00:00"
+      },
+      {
+        "memory": "Nate decided to start writing down his favorite memories with Joanna and things his animals like, inspired by Joanna's habit of keeping a memory notebook",
+        "score": 0.7710392626595071,
+        "id": "77e9d019-bb25-4e42-92ae-549b49518fe7",
+        "created_at": "2026-11-03T03:30:09.376078+00:00",
+        "updated_at": "2026-11-03T03:30:09.376078+00:00"
+      },
+      {
+        "memory": "Joanna's brother used to write her cute notes when they were children, and she finds these childhood memories sweet and powerful as they take her back to simpler times.",
+        "score": 0.7695706189548855,
+        "id": "28bb0f57-1e0c-4cb3-866c-2eb820c2d857",
+        "created_at": "2026-11-03T03:29:43.838872+00:00",
+        "updated_at": "2026-11-03T03:29:43.838872+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute handwritten notes when they were children, and she finds these childhood memories sweet and meaningful.",
+        "score": 0.7482896150661456,
+        "id": "640d61b3-92d0-4191-90cd-7a9c0805e3af",
+        "created_at": "2026-11-03T03:30:00.774744+00:00",
+        "updated_at": "2026-11-03T03:30:00.774744+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook around November 7, 2022, sharing a photo of the handwritten list with Nate.",
+        "score": 0.7448199931177608,
+        "id": "38f2339b-9a72-4680-962e-a7d5453bbc26",
+        "created_at": "2026-11-03T03:29:46.491568+00:00",
+        "updated_at": "2026-11-03T03:29:46.491568+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.7373964724136675,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.7172620835466584,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle while discussing childhood memories with Nate.",
+        "score": 0.696840917314593,
+        "id": "f8a1217c-decb-4698-90a1-5b2ba03e6c56",
+        "created_at": "2026-11-03T03:29:57.310296+00:00",
+        "updated_at": "2026-11-03T03:29:57.310296+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, and she finds these memories sweet and nostalgic.",
+        "score": 0.6623934072336194,
+        "id": "06d705e4-fc93-4e25-90b6-d0d8ba7d5aa6",
+        "created_at": "2026-11-03T03:29:33.484863+00:00",
+        "updated_at": "2026-11-03T03:29:33.484863+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing.",
+        "score": 0.6238794907760977,
+        "id": "95b57ab9-220c-4c81-aa3c-2807ce41294e",
+        "created_at": "2026-11-03T03:28:42.607253+00:00",
+        "updated_at": "2026-11-03T03:28:42.607253+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing and a long-standing passion.",
+        "score": 0.6225835906025032,
+        "id": "1c1e9a75-f321-400b-911e-1dfa7c841b15",
+        "created_at": "2026-11-03T03:28:17.712828+00:00",
+        "updated_at": "2026-11-03T03:28:17.712828+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing for her.",
+        "score": 0.6180765834840646,
+        "id": "f453d72e-cd68-4e3a-a63f-1baf10165bce",
+        "created_at": "2026-11-03T03:28:29.343165+00:00",
+        "updated_at": "2026-11-03T03:28:29.343165+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a passion and a blessing that she got the idea for her current script from a dream.",
+        "score": 0.6175120592514641,
+        "id": "4fd19a89-048d-4330-8b43-373dc126690c",
+        "created_at": "2026-11-03T03:28:47.523156+00:00",
+        "updated_at": "2026-11-03T03:28:47.523156+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a blessing for her life.",
+        "score": 0.6170527173755415,
+        "id": "4b55dc23-43dc-4f31-a9a0-8e3a47672e4b",
+        "created_at": "2026-11-03T03:28:12.951169+00:00",
+        "updated_at": "2026-11-03T03:28:12.951169+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle, reflecting on the value of creating new memories as one grows up.",
+        "score": 0.6000549119279246,
+        "id": "47122dd3-2c9e-4993-b75a-abf20f46629a",
+        "created_at": "2026-11-03T03:30:00.778887+00:00",
+        "updated_at": "2026-11-03T03:30:00.778887+00:00"
+      }
+    ],
+    "search_latency_ms": 83.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She writes her favorite happy memories down in a notebook.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the correct item that Joanna writes her happy memories in a notebook."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna writes down her happy memories in a notebook.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item that Joanna writes her happy memories in a notebook."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna writes down her happy memories in a notebook.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item that Joanna writes her happy memories in a notebook."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna writes down her happy memories in a notebook.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the correct item that Joanna writes her happy memories in a notebook."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q38",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Joanna make a desert with almond milk?",
+  "ground_truth_answer": "The Friday before 14September, 2022",
+  "evidence": [
+    "D21:9"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Joanna make a desert with almond milk?",
+    "search_results": [
+      {
+        "memory": "Joanna made a delicious dessert using almond milk on September 9, 2022, and emphasized that dairy-free options are a must for her, particularly for desserts.",
+        "score": 0.9127101786231286,
+        "id": "8c4be8ba-ec2c-4fd4-b7e5-3772ed16ead1",
+        "created_at": "2026-11-03T03:17:57.645040+00:00",
+        "updated_at": "2026-11-03T03:17:57.645040+00:00"
+      },
+      {
+        "memory": "Joanna made a dessert with almond milk on September 9, 2022 (the Friday before the conversation), which she described as delicious.",
+        "score": 0.9008253511859211,
+        "id": "12321783-bb23-49dd-9c5b-502f96626cf5",
+        "created_at": "2026-11-03T03:18:25.106131+00:00",
+        "updated_at": "2026-11-03T03:18:25.106131+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and bakes dairy-free desserts using alternatives like coconut or almond milk, experimenting with flavors such as chocolate, raspberry, and coconut.",
+        "score": 0.841362711584331,
+        "id": "a171a859-e77e-4acc-ac00-54ff57d564fa",
+        "created_at": "2026-11-03T03:16:58.584579+00:00",
+        "updated_at": "2026-11-03T03:16:58.584579+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and uses dairy-free alternatives like coconut or almond milk in her baking, creating desserts such as cookies, pies, cakes, and chocolate coconut cupcakes with raspberry frosting that are accessible to various diets.",
+        "score": 0.8377540158042315,
+        "id": "b1be2635-c56c-4949-8895-de15e05a4bdc",
+        "created_at": "2026-11-03T03:16:08.948018+00:00",
+        "updated_at": "2026-11-03T03:16:08.948018+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, which she considers her favorite for birthdays and special days.",
+        "score": 0.7547047672738845,
+        "id": "cc514326-e177-496a-9ef6-45763eb741aa",
+        "created_at": "2026-11-03T03:18:37.391895+00:00",
+        "updated_at": "2026-11-03T03:18:37.391895+00:00"
+      },
+      {
+        "memory": "Joanna makes her favorite dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and fresh raspberries, and considers it her go-to dessert for birthdays and special occasions.",
+        "score": 0.7476646712097061,
+        "id": "47f6d4eb-8749-4e2d-a002-195a82038ea2",
+        "created_at": "2026-11-03T03:18:21.698003+00:00",
+        "updated_at": "2026-11-03T03:18:21.698003+00:00"
+      },
+      {
+        "memory": "Joanna makes a dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, describing it as moist and delicious with perfect sweetness, and considers it her favorite for birthdays and special days.",
+        "score": 0.746475513705372,
+        "id": "5cd4a18d-a561-4c7e-ae4a-36cf30f6fc53",
+        "created_at": "2026-11-03T03:18:25.102538+00:00",
+        "updated_at": "2026-11-03T03:18:25.102538+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant, which is why she requested the dairy-free version of Nate's coconut milk ice cream recipe on April 17, 2022",
+        "score": 0.721466383434109,
+        "id": "c6d5340b-5bee-48e5-85ae-2ee02474c172",
+        "created_at": "2026-11-03T03:03:54.859509+00:00",
+        "updated_at": "2026-11-03T03:03:54.859509+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.7159371884075303,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna shares a recipe for dairy-free blueberry cheesecake bars featuring blueberries, coconut milk, and a gluten-free crust, describing them as creamy and delicious.",
+        "score": 0.686166946708945,
+        "id": "ff78544d-e75d-4079-a4f9-fab74ae248b2",
+        "created_at": "2026-11-03T03:18:33.393477+00:00",
+        "updated_at": "2026-11-03T03:18:33.393477+00:00"
+      },
+      {
+        "memory": "Joanna enjoys making a creamy dairy-free blueberry cheesecake bar recipe that includes blueberries, coconut milk, and a gluten-free crust.",
+        "score": 0.6838426064929501,
+        "id": "8e2b2f40-1e74-4d8c-a243-272ab059266c",
+        "created_at": "2026-11-03T03:18:37.395666+00:00",
+        "updated_at": "2026-11-03T03:18:37.395666+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6828533399400237,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings with Joanna on August 14, 2022.",
+        "score": 0.678633867141162,
+        "id": "e68bff46-e8a5-449b-812c-7093e9a1e326",
+        "created_at": "2026-11-03T03:13:40.691046+00:00",
+        "updated_at": "2026-11-03T03:13:40.691046+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6425651058531152,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cookie with chocolate drizzle and almonds with Nate on September 5, 2022, expressing enthusiasm for trying his dairy-free baking tips.",
+        "score": 0.6314655396733341,
+        "id": "90197109-0cbc-4f57-9d56-d369539d3954",
+        "created_at": "2026-11-03T03:16:54.860596+00:00",
+        "updated_at": "2026-11-03T03:16:54.860596+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.6288189126094417,
+        "id": "60a889ad-b306-4d47-9ae5-e432f910626f",
+        "created_at": "2026-11-03T03:18:37.387015+00:00",
+        "updated_at": "2026-11-03T03:18:37.387015+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free dessert is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.6288189126094417,
+        "id": "03b82469-2282-49e2-8ccd-bb3ed742d428",
+        "created_at": "2026-11-03T03:18:25.097056+00:00",
+        "updated_at": "2026-11-03T03:18:25.097056+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free treat is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries.",
+        "score": 0.6234044767365314,
+        "id": "a2d92a57-38d9-4322-9908-f1c4c281d6cd",
+        "created_at": "2026-11-03T03:18:04.046077+00:00",
+        "updated_at": "2026-11-03T03:18:04.046077+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream using coconut milk on July 8, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.6214696621411243,
+        "id": "9ee86c3e-6ef3-45ba-aebd-93c6910c155d",
+        "created_at": "2026-11-03T03:11:45.428342+00:00",
+        "updated_at": "2026-11-03T03:11:45.428342+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream using coconut milk on June 18, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.6201000885600481,
+        "id": "65d08fef-d356-4585-ac61-75c631f78821",
+        "created_at": "2026-11-03T03:11:28.558231+00:00",
+        "updated_at": "2026-11-03T03:11:28.558231+00:00"
+      }
+    ],
+    "search_latency_ms": 52.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 9, 2022",
+      "memories_evaluated": 10,
+      "reason": "September 9, 2022 is the Friday before September 14, 2022, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 9, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer, September 9, 2022, is the Friday before September 14, 2022, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 9, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 9, 2022 is the Friday before September 14, 2022, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "September 9, 2022",
+      "memories_evaluated": 20,
+      "reason": "September 9, 2022 is the Friday before September 14, 2022, matching the gold answer."
+    }
+  }
+}

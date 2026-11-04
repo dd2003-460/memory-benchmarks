@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q191",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What advice does Joanna give to Nate about making YouTube videos?",
+  "ground_truth_answer": "Watch other people's videos to understand what the audience likes",
+  "evidence": [
+    "D28:18"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What advice does Joanna give to Nate about making YouTube videos?",
+    "search_results": [
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what his audience likes, so that his gaming YouTube videos do not flop when posted",
+        "score": 0.9030455916557505,
+        "id": "2c519351-9fa4-4923-8bd6-e1e00a23ad07",
+        "created_at": "2026-11-03T03:31:17.459494+00:00",
+        "updated_at": "2026-11-03T03:31:17.459494+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.8622643923056179,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube as a way to entertain others and satisfy his video game cravings during periods when there are no tournaments.",
+        "score": 0.8612342589083966,
+        "id": "723cdded-1710-48c2-838f-55e79af01cac",
+        "created_at": "2026-11-03T03:30:47.956982+00:00",
+        "updated_at": "2026-11-03T03:30:47.956982+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on.",
+        "score": 0.8574098326404206,
+        "id": "3fc1ee0a-6c80-4d92-8fd0-89875b364c01",
+        "created_at": "2026-11-03T03:31:21.132721+00:00",
+        "updated_at": "2026-11-03T03:31:21.132721+00:00"
+      },
+      {
+        "memory": "Nate creates gaming content for YouTube to entertain people and satisfy his video game cravings during periods when there are no tournaments going on.",
+        "score": 0.8563298267448667,
+        "id": "ff0f5f86-5f27-4775-a51d-6ad963e71723",
+        "created_at": "2026-11-03T03:30:50.642599+00:00",
+        "updated_at": "2026-11-03T03:30:50.642599+00:00"
+      },
+      {
+        "memory": "Nate shared a screenshot of a positive comment on one of his YouTube videos with Joanna on November 9, 2022, indicating he has already begun posting content.",
+        "score": 0.8530478815379496,
+        "id": "eab1824e-69e3-46c8-8ac1-34a322132df4",
+        "created_at": "2026-11-03T03:31:26.588922+00:00",
+        "updated_at": "2026-11-03T03:31:26.588922+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, hoping to share his love of gaming and connect with others.",
+        "score": 0.8529623334610428,
+        "id": "b4c894d6-1540-42be-99f5-4b6be1f3d142",
+        "created_at": "2026-11-03T03:31:14.937482+00:00",
+        "updated_at": "2026-11-03T03:31:14.937482+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on.",
+        "score": 0.8467254282788753,
+        "id": "57760e30-8d36-408e-8eeb-acdd40156d5e",
+        "created_at": "2026-11-03T03:31:26.577729+00:00",
+        "updated_at": "2026-11-03T03:31:26.577729+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other creators' videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.8445268015853058,
+        "id": "b1a9cab6-c29a-4eed-853a-6c8b9cc6cc5a",
+        "created_at": "2026-11-03T03:31:26.585383+00:00",
+        "updated_at": "2026-11-03T03:31:26.585383+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.8402491091064139,
+        "id": "48dc7a29-d8d3-47cd-bd40-539d981642c2",
+        "created_at": "2026-11-03T03:31:21.139979+00:00",
+        "updated_at": "2026-11-03T03:31:21.139979+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.8402491091064139,
+        "id": "84f63adb-d762-4a49-b683-e68b956b3448",
+        "created_at": "2026-11-03T03:31:42.070165+00:00",
+        "updated_at": "2026-11-03T03:31:42.070165+00:00"
+      },
+      {
+        "memory": "Nate started making gaming videos to share his love of gaming and connect with others who enjoy it, noting that it is a new endeavor for him but he is excited to get started.",
+        "score": 0.6649900401402669,
+        "id": "a8cc4e45-2df2-478e-b7b1-d94570bb55fb",
+        "created_at": "2026-11-03T03:31:42.066863+00:00",
+        "updated_at": "2026-11-03T03:31:42.066863+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.6522094146588459,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming while connecting with other enthusiasts.",
+        "score": 0.6500098552897253,
+        "id": "7030d9ff-f80e-4e4e-9bf4-41ce73353bad",
+        "created_at": "2026-11-03T03:31:26.581866+00:00",
+        "updated_at": "2026-11-03T03:31:26.581866+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe after he agreed to share it with her.",
+        "score": 0.6329125546176113,
+        "id": "2c4a33d4-7d2a-4a0a-8796-ac2ed6da7981",
+        "created_at": "2026-11-03T03:17:57.649222+00:00",
+        "updated_at": "2026-11-03T03:17:57.649222+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family during the weekend of July 9-10, 2022, noting that they love when she makes them new things.",
+        "score": 0.6134565145862388,
+        "id": "1a27a3df-84b2-4fa8-9e64-80a4b5873cfc",
+        "created_at": "2026-11-03T03:11:45.432689+00:00",
+        "updated_at": "2026-11-03T03:11:45.432689+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6122633005308132,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.6037149766234081,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe on the evening of April 17, 2022, after he shared the ingredients and method with her.",
+        "score": 0.5988627396532213,
+        "id": "3a4cd69a-d97e-4354-af8c-1a702f1ce362",
+        "created_at": "2026-11-03T03:04:06.445238+00:00",
+        "updated_at": "2026-11-03T03:04:06.445238+00:00"
+      },
+      {
+        "memory": "Joanna stated that being in cool places like hiking trails makes her feel inspired enough to write a whole movie or drama, distinguishing this creative surge from Nate's tendency to think about life or new recipes.",
+        "score": 0.5880190137034809,
+        "id": "08e54bce-eea0-4a47-8305-49e3eeafc974",
+        "created_at": "2026-11-03T03:06:34.371833+00:00",
+        "updated_at": "2026-11-03T03:06:34.371833+00:00"
+      }
+    ],
+    "search_latency_ms": 107.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna advises Nate to watch other people’s YouTube videos first to understand what the audience likes, so his own gaming videos won’t flop when he posts them.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core advice to watch other people's videos to understand what the audience likes, with additional detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna advises Nate to watch other people’s YouTube videos first to understand what the audience likes, so his own gaming videos do not flop.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core advice to watch other people's videos to understand what the audience likes, with additional detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna advises Nate to watch other people’s YouTube videos first to understand what the audience likes, so his own gaming videos do not flop.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core advice to watch other people's videos to understand what the audience likes, with additional detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna advises Nate to watch other people’s YouTube videos first to understand what the audience likes, so his own gaming videos do not flop.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core advice to watch other people's videos to understand what the audience likes, with additional detail."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q178",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Where does Joanna get her ideas for the characters from?",
+  "ground_truth_answer": "people she knows, things she saw, her imagination",
+  "evidence": [
+    "D25:10"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Where does Joanna get her ideas for the characters from?",
+    "search_results": [
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she has seen, and her own imagination, finding it cool to see how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.7268528042409502,
+        "id": "dc413a00-87fe-4433-94d0-e3f41eeda790",
+        "created_at": "2026-11-03T03:25:06.488661+00:00",
+        "updated_at": "2026-11-03T03:25:06.488661+00:00"
+      },
+      {
+        "memory": "Joanna draws inspiration for her characters from people she knows, things she sees, and her imagination, enjoying how an idea takes shape into a person with their own wants, worries, and wishes.",
+        "score": 0.7265787858878803,
+        "id": "b7d66530-ff15-4756-bbea-0eabca2ff6a2",
+        "created_at": "2026-11-03T03:24:52.413773+00:00",
+        "updated_at": "2026-11-03T03:24:52.413773+00:00"
+      },
+      {
+        "memory": "Joanna finds it rewarding to see how an idea takes shape into a person with their own wants, worries, and wishes, drawing inspiration for her characters from people she knows, things she sees, and her imagination.",
+        "score": 0.7093468198022681,
+        "id": "72ee7da9-8bb3-4786-bfec-346425d1f715",
+        "created_at": "2026-11-03T03:24:41.840834+00:00",
+        "updated_at": "2026-11-03T03:24:41.840834+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who creates visual character designs to help bring her characters alive in her head, which she uses as a tool to write better.",
+        "score": 0.6999540914024766,
+        "id": "284d3c16-1b31-4e48-938c-176df7fa3412",
+        "created_at": "2026-11-03T03:25:06.483251+00:00",
+        "updated_at": "2026-11-03T03:25:06.483251+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches and visual drawings to help bring her characters alive in her head, which she uses as a tool to write better. She draws inspiration for these characters from people she knows, things she sees, and her imagination.",
+        "score": 0.6888567648747048,
+        "id": "730beb6b-31ba-48da-b1ac-82e1e52b4303",
+        "created_at": "2026-11-03T03:24:58.329719+00:00",
+        "updated_at": "2026-11-03T03:24:58.329719+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.684260008805055,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story movie script from a dream.",
+        "score": 0.674044543966033,
+        "id": "b04a7385-bbde-42c5-af1e-e1c9cbe63872",
+        "created_at": "2026-11-03T03:28:42.602024+00:00",
+        "updated_at": "2026-11-03T03:28:42.602024+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches as visual aids to help bring her characters alive in her mind, which she uses to improve the quality of her writing.",
+        "score": 0.6723830259262573,
+        "id": "8d852e60-4ce3-4c1b-bf75-85de47a4690e",
+        "created_at": "2026-11-03T03:24:32.623867+00:00",
+        "updated_at": "2026-11-03T03:24:32.623867+00:00"
+      },
+      {
+        "memory": "Joanna draws character sketches to help visualize her characters and bring them alive in her head, which she uses as a tool to write better dialogue and actions.",
+        "score": 0.6722940902096627,
+        "id": "5d453725-664b-4c08-971b-7f382458acd4",
+        "created_at": "2026-11-03T03:24:41.832216+00:00",
+        "updated_at": "2026-11-03T03:24:41.832216+00:00"
+      },
+      {
+        "memory": "Joanna creates character sketches in a drawing book to help visualize her characters and bring them alive in her head, which aids her writing process.",
+        "score": 0.665932564550181,
+        "id": "3a9c6c55-ecfa-41bd-a36d-3a76e9efe153",
+        "created_at": "2026-11-03T03:24:52.409212+00:00",
+        "updated_at": "2026-11-03T03:24:52.409212+00:00"
+      },
+      {
+        "memory": "Joanna's exploration of Woodhaven's interesting past and how the town changed over time sparked ideas for her next script, which she describes as different from her previous work but with potential to be something awesome.",
+        "score": 0.6645861652397849,
+        "id": "fe8c56cd-8948-4ca6-a157-f03db376fc7b",
+        "created_at": "2026-11-03T03:12:21.943758+00:00",
+        "updated_at": "2026-11-03T03:12:21.943758+00:00"
+      },
+      {
+        "memory": "Joanna creates visual character sketches in a drawing book to help bring her characters alive in her mind, which she uses as a tool to write better dialogue and develop their personalities.",
+        "score": 0.6632867565315894,
+        "id": "eea87060-5259-4b4f-b8b9-c1d5e9943920",
+        "created_at": "2026-11-03T03:24:38.024659+00:00",
+        "updated_at": "2026-11-03T03:24:38.024659+00:00"
+      },
+      {
+        "memory": "Joanna found it rewarding to see her characters and dialogue acted out on screen, noting that seeing her hard work pay off was a cool feeling and that this was the third time a project of hers had been filmed.",
+        "score": 0.6572749489243745,
+        "id": "eea68f45-3a1d-4a26-9e02-5e7d6889ac33",
+        "created_at": "2026-11-03T03:24:30.595676+00:00",
+        "updated_at": "2026-11-03T03:24:30.595676+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream and considers writing a lifelong passion.",
+        "score": 0.6554380426449798,
+        "id": "f7013b03-d825-49f4-a2c4-39f2a22ad15d",
+        "created_at": "2026-11-03T03:28:06.188964+00:00",
+        "updated_at": "2026-11-03T03:28:06.188964+00:00"
+      },
+      {
+        "memory": "Joanna is writing a movie script that is a love story with lots of challenges, which she hopes to get on the big screen; she got the idea for this script from a dream and describes writing as a long-standing passion.",
+        "score": 0.6480521221462248,
+        "id": "2cf3db00-0da3-406f-a068-2110457654fb",
+        "created_at": "2026-11-03T03:27:31.240908+00:00",
+        "updated_at": "2026-11-03T03:27:31.240908+00:00"
+      },
+      {
+        "memory": "Nate recommends a fantasy book series to Joanna, describing it as having adventures, magic, and great characters, and considers it a must-read; he shared a photo of the books on April 21, 2022.",
+        "score": 0.6471759566300699,
+        "id": "42245749-ea09-4b25-9519-016b2aa1ebe6",
+        "created_at": "2026-11-03T03:04:51.141916+00:00",
+        "updated_at": "2026-11-03T03:04:51.141916+00:00"
+      },
+      {
+        "memory": "Joanna finds happiness and fulfillment in creating stories and watching them come alive, describing writing as a passion and a blessing that she got the idea for her current script from a dream.",
+        "score": 0.6466550226299342,
+        "id": "4fd19a89-048d-4330-8b43-373dc126690c",
+        "created_at": "2026-11-03T03:28:47.523156+00:00",
+        "updated_at": "2026-11-03T03:28:47.523156+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her current movie script from a dream and describes writing as a lifelong passion that brings her happiness and fulfillment.",
+        "score": 0.6434766922108655,
+        "id": "cd8dc28c-0308-4e6b-8821-d939e3119fd9",
+        "created_at": "2026-11-03T03:28:36.466555+00:00",
+        "updated_at": "2026-11-03T03:28:36.466555+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.6426170535834211,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.40411856102858684,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      }
+    ],
+    "search_latency_ms": 38.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna gets her character ideas from people she knows, things she sees, and her imagination.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all the gold answer items: people she knows, things she sees, and her imagination."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna gets her character ideas from people she knows, things she sees, and her imagination.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the gold answer items: people she knows, things she sees, and her imagination."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna gets her character ideas from people she knows, things she sees, and her imagination.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the gold answer items: people she knows, things she sees, and her imagination."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna gets her character ideas from people she knows, things she sees, and her imagination.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all the gold answer items: people she knows, things she sees, and her imagination."
+    }
+  }
+}

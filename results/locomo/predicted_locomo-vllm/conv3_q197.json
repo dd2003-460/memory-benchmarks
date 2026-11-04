@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q197",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does Nate love most about having turtles?",
+  "ground_truth_answer": "They make him feel calm and don't require much looking after",
+  "evidence": [
+    "D29:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does Nate love most about having turtles?",
+    "search_results": [
+      {
+        "memory": "Nate loves having his turtles around because they make him feel calm, are cool to watch, and require minimal care, particularly enjoying seeing them soak in the sun.",
+        "score": 0.7400124697657733,
+        "id": "70c1e1ab-6777-4ca4-9769-e9ca593394c4",
+        "created_at": "2026-11-03T03:33:05.335710+00:00",
+        "updated_at": "2026-11-03T03:33:05.335710+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.7081849986071274,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate keeps turtles as pets, finding watching them calming and fascinating, and has grown fond of them for bringing joy to his life.",
+        "score": 0.7054672974766419,
+        "id": "16156dd1-59fe-4388-8775-b9d7418e9caa",
+        "created_at": "2026-11-03T03:28:12.964566+00:00",
+        "updated_at": "2026-11-03T03:28:12.964566+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.7023442133430711,
+        "id": "b673c42f-33ed-4154-ab27-510852da0724",
+        "created_at": "2026-11-03T03:28:17.710092+00:00",
+        "updated_at": "2026-11-03T03:28:17.710092+00:00"
+      },
+      {
+        "memory": "Nate loves watching his pet turtles eat fruit, noting that they get very excited and it is cute to see, as he shared with Joanna on October 25, 2022 while showing a photo of a turtle with strawberries.",
+        "score": 0.6954006623799074,
+        "id": "3464a499-a73f-4c86-ae3d-c61fac0979d1",
+        "created_at": "2026-11-03T03:25:16.132293+00:00",
+        "updated_at": "2026-11-03T03:25:16.132293+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and considers himself knowledgeable about them, stating 'I know all about them' when discussing his pet turtles with Joanna on October 25, 2022.",
+        "score": 0.6936201761795047,
+        "id": "46bceb2c-9d23-4519-935e-595f5eb2de8c",
+        "created_at": "2026-11-03T03:25:33.526756+00:00",
+        "updated_at": "2026-11-03T03:25:33.526756+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.6935006386588387,
+        "id": "e92c0ebe-1afd-48e2-b25d-4d159d20adc2",
+        "created_at": "2026-11-03T03:28:42.604779+00:00",
+        "updated_at": "2026-11-03T03:28:42.604779+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.6935006386588387,
+        "id": "ad59f061-d7f9-46c3-bd7e-83303b356dde",
+        "created_at": "2026-11-03T03:28:29.340961+00:00",
+        "updated_at": "2026-11-03T03:28:29.340961+00:00"
+      },
+      {
+        "memory": "Nate has a pet turtle that he enjoys spending time with, finding the companionship helpful during difficult times.",
+        "score": 0.6918680686347923,
+        "id": "c6d73195-6bfe-40a3-b3a5-d77a557c2801",
+        "created_at": "2026-11-03T03:15:53.697923+00:00",
+        "updated_at": "2026-11-03T03:15:53.697923+00:00"
+      },
+      {
+        "memory": "Nate owns turtles which he finds calming and fascinating to watch, noting that they bring joy to his life.",
+        "score": 0.6885482711584091,
+        "id": "4dccf6fb-2079-4cc1-8bd8-2716d4ec7fe3",
+        "created_at": "2026-11-03T03:28:47.526362+00:00",
+        "updated_at": "2026-11-03T03:28:47.526362+00:00"
+      },
+      {
+        "memory": "Nate finds watching his turtles calming and fascinating, stating they bring joy to his life and that he has grown fond of them.",
+        "score": 0.6874998155367475,
+        "id": "64a93a1c-34f7-429a-a675-e0b1b674360a",
+        "created_at": "2026-11-03T03:28:06.192135+00:00",
+        "updated_at": "2026-11-03T03:28:06.192135+00:00"
+      },
+      {
+        "memory": "Nate owns turtles that he finds comforting and happy when watching them slowly walk around, especially during stressful times.",
+        "score": 0.6861399283641151,
+        "id": "2beea1c6-4c5d-474c-94a4-cac6702c897f",
+        "created_at": "2026-11-03T03:23:43.417901+00:00",
+        "updated_at": "2026-11-03T03:23:43.417901+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.6831157513135305,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate's two pet turtles have distinct personalities, with one being more adventurous and the other more reserved, which Nate finds cute. He describes them as great companions that bring him joy.",
+        "score": 0.6797339542797403,
+        "id": "fbca84f9-edad-46c5-b6a0-7caad05d8678",
+        "created_at": "2026-11-03T03:25:29.074709+00:00",
+        "updated_at": "2026-11-03T03:25:29.074709+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.6756007339037845,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate enjoys holding his pet turtles in addition to watching them eat, describing the experience of seeing them enjoy their favorite snacks as fun and adorable.",
+        "score": 0.6744220008883915,
+        "id": "5acb4a20-de13-4b50-a634-1e1c66408ff8",
+        "created_at": "2026-11-03T03:25:22.154217+00:00",
+        "updated_at": "2026-11-03T03:25:22.154217+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.6716479767872753,
+        "id": "79091a04-7650-4fa4-bc12-98c8dbd91d05",
+        "created_at": "2026-11-03T03:31:50.665104+00:00",
+        "updated_at": "2026-11-03T03:31:50.665104+00:00"
+      },
+      {
+        "memory": "Nate finds happiness watching his turtles slowly walk around, noting he is not sure why it makes him so happy but is glad it does.",
+        "score": 0.670692763140339,
+        "id": "1c0dab5d-dcbe-4ca2-8466-5c4a57c35171",
+        "created_at": "2026-11-03T03:23:49.479874+00:00",
+        "updated_at": "2026-11-03T03:23:49.479874+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third pet turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.6702120678746384,
+        "id": "43e6c01d-ac0d-405c-8bfb-97af63e56163",
+        "created_at": "2026-11-03T03:31:54.712656+00:00",
+        "updated_at": "2026-11-03T03:31:54.712656+00:00"
+      },
+      {
+        "memory": "Nate got a new turtle to join his existing pets, bringing the total count of turtles he keeps to three, and shared a photo of them basking in the sun on November 9, 2022.",
+        "score": 0.6691108905704058,
+        "id": "e753854f-16d6-4b5f-846d-5e9657cf2ac2",
+        "created_at": "2026-11-03T03:31:35.177863+00:00",
+        "updated_at": "2026-11-03T03:31:35.177863+00:00"
+      }
+    ],
+    "search_latency_ms": 68.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate loves that his turtles make him feel calm, are cool and fascinating to watch (particularly seeing them soak in the sun or eat fruit), and require minimal care.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both key points from the gold answer: that the turtles make him feel calm and that they require minimal care."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate loves that his turtles make him feel calm and bring him joy and peace, particularly enjoying watching them (such as seeing them walk, eat fruit, or soak in the sun).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that the turtles make Nate feel calm, which matches the first part of the gold answer, and adds extra details about joy and specific activities, which is allowed under the rules."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate loves that his turtles make him feel calm and bring him joy and peace, particularly enjoying watching them (such as seeing them walk, eat fruit, or soak in the sun).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that the turtles make Nate feel calm, which matches the first part of the gold answer, and adds extra details about joy and specific activities, which is allowed under the rules."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate loves that his turtles make him feel calm and bring him joy and peace, particularly enjoying watching them (such as seeing them walk, eat fruit, or soak in the sun).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies that the turtles make Nate feel calm, which matches the first part of the gold answer, and adds extra details about joy and specific activities, which is allowed under the rules."
+    }
+  }
+}

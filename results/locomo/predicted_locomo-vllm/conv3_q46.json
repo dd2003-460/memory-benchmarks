@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q46",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What board games has Nate played?",
+  "ground_truth_answer": "Chess, Catan.",
+  "evidence": [
+    "D16:2",
+    "D23:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What board games has Nate played?",
+    "search_results": [
+      {
+        "memory": "Nate loves the board game Catan, describing it as a great strategy game involving building settlements and trading resources, and played it with new friends at a convention on October 7, 2022.",
+        "score": 0.8559973821840055,
+        "id": "4f2aa7f0-f356-4396-bced-c6947b38d738",
+        "created_at": "2026-11-03T03:21:14.438663+00:00",
+        "updated_at": "2026-11-03T03:21:14.438663+00:00"
+      },
+      {
+        "memory": "Nate played the board game Catan at the convention with new acquaintances, describing it as a strategy game involving building settlements and trading resources that he loves.",
+        "score": 0.8523580419622518,
+        "id": "af797f35-a91b-4064-b087-b742dc7b89f3",
+        "created_at": "2026-11-03T03:21:11.600453+00:00",
+        "updated_at": "2026-11-03T03:21:11.600453+00:00"
+      },
+      {
+        "memory": "Nate played the board game Catan with new acquaintances at the convention, describing it as a strategy game involving building settlements and trading resources",
+        "score": 0.8420801435585432,
+        "id": "2e0ece5d-6752-4bf5-919c-8f9abf85e177",
+        "created_at": "2026-11-03T03:21:24.585228+00:00",
+        "updated_at": "2026-11-03T03:21:24.585228+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.8403104617422921,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate enjoys playing the board game Catan, describing it as a great strategy game involving building settlements and trading resources",
+        "score": 0.8395056087324072,
+        "id": "f10664d0-46d5-4fd7-b4bc-f89d20558b27",
+        "created_at": "2026-11-03T03:21:30.266404+00:00",
+        "updated_at": "2026-11-03T03:21:30.266404+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where attendees played games and then Chess afterward for fun",
+        "score": 0.8346719838156174,
+        "id": "10c2ef6a-5353-401f-ad30-1ccd1e6914a8",
+        "created_at": "2026-11-03T03:11:10.684631+00:00",
+        "updated_at": "2026-11-03T03:11:10.684631+00:00"
+      },
+      {
+        "memory": "Nate played the strategy board game Catan at the game convention on October 7, 2022, describing it as a great game where you build settlements and trade resources, and stated that he loves it.",
+        "score": 0.8182139142825914,
+        "id": "beb9deba-fd63-4fce-9672-c01cf76b4b9c",
+        "created_at": "2026-11-03T03:21:08.056530+00:00",
+        "updated_at": "2026-11-03T03:21:08.056530+00:00"
+      },
+      {
+        "memory": "Nate attended a convention where he played the strategy board game Catan, which involves building settlements and trading resources, and described it as a great game that can be both competitive and chill.",
+        "score": 0.8025710263459954,
+        "id": "5b0d2dcc-4d3d-45b0-8994-6acd29837fa4",
+        "created_at": "2026-11-03T03:21:47.491651+00:00",
+        "updated_at": "2026-11-03T03:21:47.491651+00:00"
+      },
+      {
+        "memory": "At the game convention on October 7, 2022, Nate joined a group playing a boardgame he loves, bonding with others over their shared hobby.",
+        "score": 0.7863909491472286,
+        "id": "78c49e59-2330-48ed-9bad-2357b0480868",
+        "created_at": "2026-11-03T03:20:54.702634+00:00",
+        "updated_at": "2026-11-03T03:20:54.702634+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xeonoblade Chronicles' and highly recommends it, having started the game after friends recommended it because he is a big fan of Nintendo games.",
+        "score": 0.780768203056289,
+        "id": "ec6d376d-0d4d-4505-9a9d-aac9100a2803",
+        "created_at": "2026-11-03T03:29:19.860235+00:00",
+        "updated_at": "2026-11-03T03:29:19.860235+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends had played it and recommended it to him.",
+        "score": 0.7773215568513129,
+        "id": "7a1627bb-59c8-4191-8423-0e6435b113a9",
+        "created_at": "2026-11-03T03:29:16.783708+00:00",
+        "updated_at": "2026-11-03T03:29:16.783708+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.7738063857698427,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention on October 7, 2022 who played a boardgame he loves, and he joined in; they had a lot in common and hit it off, reinforcing his belief that shared hobbies bond people.",
+        "score": 0.7714237391328002,
+        "id": "702c16c9-e033-423b-8603-53013fc6daa8",
+        "created_at": "2026-11-03T03:20:51.279102+00:00",
+        "updated_at": "2026-11-03T03:20:51.279102+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends recommended it to him.",
+        "score": 0.7710282007292303,
+        "id": "b36dfedf-2d82-4b66-b407-e7b737421373",
+        "created_at": "2026-11-03T03:29:23.394764+00:00",
+        "updated_at": "2026-11-03T03:29:23.394764+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop, appreciating its futuristic setting and gameplay.",
+        "score": 0.7626938903209595,
+        "id": "ba517128-023d-4e82-9820-87e36f9899bb",
+        "created_at": "2026-11-03T03:22:35.343231+00:00",
+        "updated_at": "2026-11-03T03:22:35.343231+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.7589276389340048,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.7571935039939109,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament in the week preceding May 2, 2022, playing Street Fighter at a local event after usually playing CS:GO, and described the final match as adrenaline-filled with the other finalist shaking his hand",
+        "score": 0.7506395246581431,
+        "id": "2dcab955-1085-4f0a-af2e-9d1c80c2f7a6",
+        "created_at": "2026-11-03T03:05:32.537802+00:00",
+        "updated_at": "2026-11-03T03:05:32.537802+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.7321365323645252,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      },
+      {
+        "memory": "Nate participated in a gaming tournament around early November 2022 but did not make it to the finals, and he is considering joining a new gaming team after his next tournament based on several offers he has received.",
+        "score": 0.710029019573341,
+        "id": "826340bd-3d03-437e-953b-2151cf604cca",
+        "created_at": "2026-11-03T03:30:44.510122+00:00",
+        "updated_at": "2026-11-03T03:30:44.510122+00:00"
+      }
+    ],
+    "search_latency_ms": 112.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has played Catan and Chess.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes both board games from the gold answer, Catan and Chess."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Chess and Catan",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both board games from the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has played Chess and Catan.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both board games from the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate has played Chess and Catan.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both board games from the gold answer."
+    }
+  }
+}

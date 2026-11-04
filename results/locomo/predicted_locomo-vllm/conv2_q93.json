@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q93",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How has John's fitness improved since starting boot camps with his family?",
+  "ground_truth_answer": "More energy, gains in strength and endurance",
+  "evidence": [
+    "D13:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How has John's fitness improved since starting boot camps with his family?",
+    "search_results": [
+      {
+        "memory": "John reports that his family has gained more energy, strength, and endurance since starting boot camps in April 2023, noting that they push and support each other which is highly motivating.",
+        "score": 0.9297189258992742,
+        "id": "23461441-81ec-4324-81a3-0f708ecfbafd",
+        "created_at": "2026-11-03T00:28:02.230926+00:00",
+        "updated_at": "2026-11-03T00:28:02.230926+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023 to improve fitness and strengthen family bonding, noting that the experience has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.9262202161652967,
+        "id": "00d5e8c1-8f90-469d-bfe4-d1e28a7edd94",
+        "created_at": "2026-11-03T00:28:12.083685+00:00",
+        "updated_at": "2026-11-03T00:28:12.083685+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, working out three times a week to stay on track, which has increased their energy, strength, and endurance while making his kids excited about staying active.",
+        "score": 0.9254779750163843,
+        "id": "dcbb0b65-12d2-4845-80c1-123a22a83b00",
+        "created_at": "2026-11-03T00:28:06.181709+00:00",
+        "updated_at": "2026-11-03T00:28:06.181709+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family in April 2023, finding the activity beneficial for both family bonding and getting fit.",
+        "score": 0.8933850471911743,
+        "id": "582bc98f-8922-4a4a-8368-7e1f53fd3b6e",
+        "created_at": "2026-11-03T00:27:58.239546+00:00",
+        "updated_at": "2026-11-03T00:27:58.239546+00:00"
+      },
+      {
+        "memory": "John's kids are getting excited about staying active as a result of the family's participation in boot camps.",
+        "score": 0.866797984998678,
+        "id": "ec1b3f67-9a91-405f-9ff6-922c819e23af",
+        "created_at": "2026-11-03T00:28:02.235088+00:00",
+        "updated_at": "2026-11-03T00:28:02.235088+00:00"
+      },
+      {
+        "memory": "John describes how his family supports each other during boot camp by cheering on workouts and providing emotional support outside of exercise, which he finds amazing as they come together.",
+        "score": 0.8414728101093519,
+        "id": "32f1397c-0163-4f81-b7f9-23e2b7b569ce",
+        "created_at": "2026-11-03T00:28:22.278214+00:00",
+        "updated_at": "2026-11-03T00:28:22.278214+00:00"
+      },
+      {
+        "memory": "John and his family are currently participating in boot camp together, supporting one another by cheering during workouts and providing emotional support outside of training sessions.",
+        "score": 0.8394778145811254,
+        "id": "20473951-2955-4b9b-825a-8a2a7b11fc8f",
+        "created_at": "2026-11-03T00:28:43.726136+00:00",
+        "updated_at": "2026-11-03T00:28:43.726136+00:00"
+      },
+      {
+        "memory": "John and his family are participating in a boot camp where they support each other by cheering during workouts and providing emotional support outside of them, which John finds amazing as they come together.",
+        "score": 0.8298768684821509,
+        "id": "56667d0e-da34-4f7a-aae5-8891b153cd04",
+        "created_at": "2026-11-03T00:28:34.576784+00:00",
+        "updated_at": "2026-11-03T00:28:34.576784+00:00"
+      },
+      {
+        "memory": "John's family attends boot camp workouts three times a week to maintain consistency and healthy habits.",
+        "score": 0.6901003255044589,
+        "id": "737c6a6b-af7a-44de-bc85-aa65675189de",
+        "created_at": "2026-11-03T00:28:12.088094+00:00",
+        "updated_at": "2026-11-03T00:28:12.088094+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle",
+        "score": 0.5225168357810549,
+        "id": "f67fcfd2-278a-4d57-a37e-56d8b876e88d",
+        "created_at": "2026-11-03T00:47:56.100731+00:00",
+        "updated_at": "2026-11-03T00:47:56.100731+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.5156508355733962,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John has gone camping many times and views it as an awesome way to get away from it all, be at one with nature, and enjoy the uncomplicated simplicity of the experience.",
+        "score": 0.4822202082049071,
+        "id": "ef6eaac9-7b1a-44b3-811a-811e537a9f7c",
+        "created_at": "2026-11-03T00:32:20.195189+00:00",
+        "updated_at": "2026-11-03T00:32:20.195189+00:00"
+      },
+      {
+        "memory": "John started a new job and is really enjoying it, finding his team to be super encouraging and inspiring.",
+        "score": 0.4504505819651744,
+        "id": "a1e23b98-1793-43bd-bf8e-e45dba6003f8",
+        "created_at": "2026-11-03T00:42:55.726317+00:00",
+        "updated_at": "2026-11-03T00:42:55.726317+00:00"
+      },
+      {
+        "memory": "John has extensive camping experience, describing it as an awesome way to get away from it all and be at one with nature due to its uncomplicated simplicity.",
+        "score": 0.4433674551538732,
+        "id": "b16f0514-2b0a-4eaf-ab92-3b1c140d0dec",
+        "created_at": "2026-11-03T00:32:38.023687+00:00",
+        "updated_at": "2026-11-03T00:32:38.023687+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.4313523769472775,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "John describes nature experiences, such as mountaineering and camping, as feeling like a 'reset button' that helps him clear his head and find calm during difficult times.",
+        "score": 0.40674810810999923,
+        "id": "c20f3801-1bf3-449b-88c2-82a2830c4a5e",
+        "created_at": "2026-11-03T00:32:15.831840+00:00",
+        "updated_at": "2026-11-03T00:32:15.831840+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving her endurance.",
+        "score": 0.3949474816004018,
+        "id": "d8291517-f991-4aaf-944b-6a1220d6bbcc",
+        "created_at": "2026-11-03T00:32:53.460368+00:00",
+        "updated_at": "2026-11-03T00:32:53.460368+00:00"
+      },
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.3011680724148322,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.26288086238758696,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "John shared a family photo taken on a train track in the fall around July 5, 2023, noting that his family motivates him and reminds him why he is doing his community work.",
+        "score": 0.2558889002555451,
+        "id": "150eb870-4602-4150-a2b5-75bfd84748f2",
+        "created_at": "2026-11-03T00:39:34.289443+00:00",
+        "updated_at": "2026-11-03T00:39:34.289443+00:00"
+      }
+    ],
+    "search_latency_ms": 70.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s fitness improved by gaining more energy, strength, and endurance since starting boot camps with his family in April 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes all key improvements from the gold answer: more energy, strength, and endurance."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s fitness has improved by gaining more energy, strength, and endurance since starting boot camps with his family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key improvements from the gold answer: more energy, strength, and endurance."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s fitness has improved by gaining more energy, strength, and endurance since starting boot camps with his family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key improvements from the gold answer: more energy, strength, and endurance."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s fitness has improved by gaining more energy, strength, and endurance since starting boot camps with his family.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all key improvements from the gold answer: more energy, strength, and endurance."
+    }
+  }
+}

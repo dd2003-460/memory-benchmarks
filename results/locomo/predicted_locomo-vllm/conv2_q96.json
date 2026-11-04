@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q96",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Maria do to feel closer to a community and her faith?",
+  "ground_truth_answer": "joined a nearby church",
+  "evidence": [
+    "D14:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did Maria do to feel closer to a community and her faith?",
+    "search_results": [
+      {
+        "memory": "Maria joined a nearby church around May 5, 2023, seeking to feel closer to her community and faith, and described the experience as really great so far.",
+        "score": 0.6869327934907391,
+        "id": "34220fc0-de91-477b-a779-90d1f7098df3",
+        "created_at": "2026-11-03T00:29:36.412731+00:00",
+        "updated_at": "2026-11-03T00:29:36.412731+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, to feel closer to her community and faith, finding the experience really great so far.",
+        "score": 0.6836400038710047,
+        "id": "61248418-c168-473d-aebf-562858266eff",
+        "created_at": "2026-11-03T00:29:31.325441+00:00",
+        "updated_at": "2026-11-03T00:29:31.325441+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience so far to be really great.",
+        "score": 0.6823063162469035,
+        "id": "9baa5723-50c8-4508-aee6-21a2eafbc8f7",
+        "created_at": "2026-11-03T00:29:49.971153+00:00",
+        "updated_at": "2026-11-03T00:29:49.971153+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience to be really great so far.",
+        "score": 0.6820839168974497,
+        "id": "a40f9e03-20bb-4693-9c2f-e2a2617ed824",
+        "created_at": "2026-11-03T00:29:40.949781+00:00",
+        "updated_at": "2026-11-03T00:29:40.949781+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, which has made her happy.",
+        "score": 0.657509470914069,
+        "id": "f7d72e03-acdc-4af1-b0da-7e8831bf2b1d",
+        "created_at": "2026-11-03T00:26:30.911004+00:00",
+        "updated_at": "2026-11-03T00:26:30.911004+00:00"
+      },
+      {
+        "memory": "Maria describes the people at the homeless shelter where she volunteers as feeling like family to her, and she feels blessed to know them, finding joy in seeing their impact and hearing their gratitude.",
+        "score": 0.5993749521685746,
+        "id": "24ee00b3-30f4-442b-b85b-90afd802e9aa",
+        "created_at": "2026-11-03T00:26:34.638564+00:00",
+        "updated_at": "2026-11-03T00:26:34.638564+00:00"
+      },
+      {
+        "memory": "John feels that Maria's encouragement gives him the strength to keep going when things feel overwhelming, though he acknowledges he still has a lot to learn but remains determined to make a difference.",
+        "score": 0.5753259890365414,
+        "id": "d687563f-ff24-4bc9-b79e-18af1912026b",
+        "created_at": "2026-11-03T00:29:34.058131+00:00",
+        "updated_at": "2026-11-03T00:29:34.058131+00:00"
+      },
+      {
+        "memory": "When Maria was younger, her family went on a road trip to Oregon which included hiking to see a waterfall with a bridge over it; she described the experience as feeling like a fairy tale with calming water sounds and magical surroundings.",
+        "score": 0.5743041417438756,
+        "id": "746450c9-36de-41a1-b5b0-fd2abbec6d2a",
+        "created_at": "2026-11-03T00:32:13.541298+00:00",
+        "updated_at": "2026-11-03T00:32:13.541298+00:00"
+      },
+      {
+        "memory": "Maria found the view from the top of the mountain during her hike with church friends on July 15-16, 2023, to be breathtaking and felt a sense of peace and connection to something special while taking in the scenery.",
+        "score": 0.5431068004786729,
+        "id": "b0e57f39-9fd8-463a-b5d9-71aec73f8faf",
+        "created_at": "2026-11-03T00:43:00.236396+00:00",
+        "updated_at": "2026-11-03T00:43:00.236396+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.5381885873839268,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.531573310191018,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "Maria agreed to join John's community meeting regarding the recent flood damage and infrastructure issues, expressing her commitment to contributing to making their community better.",
+        "score": 0.5070367024302086,
+        "id": "570be05a-8a19-479e-9714-353078bd01c8",
+        "created_at": "2026-11-03T00:40:39.378779+00:00",
+        "updated_at": "2026-11-03T00:40:39.378779+00:00"
+      },
+      {
+        "memory": "Maria agreed to attend John's community meeting about the flood response and expressed enthusiasm for working together to improve their community.",
+        "score": 0.5045658169640238,
+        "id": "557ec298-edfb-4c98-8807-1d5804f74b93",
+        "created_at": "2026-11-03T00:41:23.249363+00:00",
+        "updated_at": "2026-11-03T00:41:23.249363+00:00"
+      },
+      {
+        "memory": "Maria has been involved in charity work recently which she finds rewarding, fulfilling, and connected to her sense of community.",
+        "score": 0.48198276134714674,
+        "id": "c13daee4-7d5b-47e3-8cfe-b3396847d0d2",
+        "created_at": "2026-11-03T00:29:34.061282+00:00",
+        "updated_at": "2026-11-03T00:29:34.061282+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.4678153945880095,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.4678153945880095,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.4670944357875374,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.4670944357875374,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.4670944357875374,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.4670944357875374,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      }
+    ],
+    "search_latency_ms": 63.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria joined a nearby church on May 5, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a nearby church, with an additional date."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria joined a nearby church on May 5, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a nearby church, with an additional date."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria joined a nearby church on May 5, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a nearby church, with an additional date."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria joined a nearby church on May 5, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that Maria joined a nearby church, with an additional date."
+    }
+  }
+}

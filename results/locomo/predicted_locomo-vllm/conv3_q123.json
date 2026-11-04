@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q123",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does Nate describe the stuffed animal he got for Joanna?",
+  "ground_truth_answer": "A stuffed animal to remind you of the good vibes",
+  "evidence": [
+    "D13:11"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How does Nate describe the stuffed animal he got for Joanna?",
+    "search_results": [
+      {
+        "memory": "Nate shared a photo of a stuffed animal toy on a bed with Joanna on May 25, 2022, which she found cute and appreciated the thought behind it.",
+        "score": 0.8663069227373568,
+        "id": "1c254937-9056-4e5b-b147-a3f0fe6d4112",
+        "created_at": "2026-11-03T03:08:09.591902+00:00",
+        "updated_at": "2026-11-03T03:08:09.591902+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal dog toy on a bed with Joanna on May 25, 2022, presenting it as a new pup for her to enjoy",
+        "score": 0.8584640225584179,
+        "id": "3540ef0a-c5ba-4925-9a93-108ad0485374",
+        "created_at": "2026-11-03T03:08:05.847849+00:00",
+        "updated_at": "2026-11-03T03:08:05.847849+00:00"
+      },
+      {
+        "memory": "Joanna keeps a stuffed animal dog named Tilly, given to her by Nate, which she always has with her while writing because it helps her stay focused and brings her joy.",
+        "score": 0.8560025373797003,
+        "id": "13444e6a-5b9a-4c13-a2d7-fc5002223d4e",
+        "created_at": "2026-11-03T03:23:40.598007+00:00",
+        "updated_at": "2026-11-03T03:23:40.598007+00:00"
+      },
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.8302197523845475,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Joanna used to have a dog in Michigan with the same name as her current stuffed animal, but had to give her up due to allergies; she keeps the stuffed animal to remember the dog and the time she could hold animals without allergic reactions.",
+        "score": 0.8128019917764291,
+        "id": "62a6a26f-44a2-4242-98a5-7f0b9d5b6269",
+        "created_at": "2026-11-03T03:23:55.196975+00:00",
+        "updated_at": "2026-11-03T03:23:55.196975+00:00"
+      },
+      {
+        "memory": "Joanna previously had a real dog named Tilly in Michigan, but had to give her up after developing an allergic reaction; the name of her stuffed animal serves as a reminder of when she could hold animals without allergies.",
+        "score": 0.8053441211181227,
+        "id": "67b47fd2-f482-4687-ac46-9cbc0f8dc56e",
+        "created_at": "2026-11-03T03:23:40.600946+00:00",
+        "updated_at": "2026-11-03T03:23:40.600946+00:00"
+      },
+      {
+        "memory": "Joanna has a stuffed animal dog named Tilly that she keeps with her while writing; the name honors a real dog she had in Michigan whom she had to give up due to allergies.",
+        "score": 0.8037711881150986,
+        "id": "f3618634-f2ea-4752-bdbe-c6cc599dc368",
+        "created_at": "2026-11-03T03:23:49.476568+00:00",
+        "updated_at": "2026-11-03T03:23:49.476568+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who keeps a stuffed animal dog named Tilly with her while she writes, finding that it helps her stay focused and brings her joy.",
+        "score": 0.801556713399296,
+        "id": "fd1a725c-ce3a-40bc-96d4-a7e4a8fc6898",
+        "created_at": "2026-11-03T03:23:32.279052+00:00",
+        "updated_at": "2026-11-03T03:23:32.279052+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles and shared a photo of the setup with Joanna on August 22, 2022, expressing pride in his hard work paying off.",
+        "score": 0.7088889779218495,
+        "id": "32b648df-82b0-45bc-b7d0-af9c2ec9d67a",
+        "created_at": "2026-11-03T03:13:55.812100+00:00",
+        "updated_at": "2026-11-03T03:13:55.812100+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.6438473008865029,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Nate got a new dog named Max around May 20, 2022, and shared a photo of the dog laying on a couch in his living room with Joanna",
+        "score": 0.6406590403610133,
+        "id": "53c195f6-a615-4837-94e3-8dfbb11b9bef",
+        "created_at": "2026-11-03T03:06:56.786029+00:00",
+        "updated_at": "2026-11-03T03:06:56.786029+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to animals but wants to visit Nate's home to watch him play with his turtles from a distance",
+        "score": 0.6386478829539575,
+        "id": "9f282d80-9026-4e17-b199-d953c53b3d00",
+        "created_at": "2026-11-03T03:32:29.043806+00:00",
+        "updated_at": "2026-11-03T03:32:29.043806+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna to use for encouragement, stating that encouragement is what got him so far in his gaming career.",
+        "score": 0.6194402667998365,
+        "id": "a3f4f782-7899-47a0-9885-c8bfad47c1ea",
+        "created_at": "2026-11-03T03:20:10.713436+00:00",
+        "updated_at": "2026-11-03T03:20:10.713436+00:00"
+      },
+      {
+        "memory": "Nate mentioned that when he is out in nature, he gets deep in thought about his life or new recipes, contrasting with Joanna's creative writing inspiration.",
+        "score": 0.6175764257666463,
+        "id": "ccc48f20-8100-4988-8d06-289fa5e9f665",
+        "created_at": "2026-11-03T03:06:45.451596+00:00",
+        "updated_at": "2026-11-03T03:06:45.451596+00:00"
+      },
+      {
+        "memory": "Joanna's stuffed animal named Tilly helps her stay focused and brings her joy.",
+        "score": 0.617568000061591,
+        "id": "02d80c76-be11-400c-95bd-aaf0559c72ee",
+        "created_at": "2026-11-03T03:23:55.198947+00:00",
+        "updated_at": "2026-11-03T03:23:55.198947+00:00"
+      },
+      {
+        "memory": "Nate decided to start writing down his favorite memories with Joanna and things his animals like, inspired by Joanna's habit of keeping a memory notebook",
+        "score": 0.6151282465836716,
+        "id": "77e9d019-bb25-4e42-92ae-549b49518fe7",
+        "created_at": "2026-11-03T03:30:09.376078+00:00",
+        "updated_at": "2026-11-03T03:30:09.376078+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pets play together and finds it deeply satisfying, describing the sight of his dog being happy as a dream come true.",
+        "score": 0.5127148358851843,
+        "id": "d60b1cd2-003e-4c7f-98a6-ec01b3cb171f",
+        "created_at": "2026-11-03T03:08:09.587274+00:00",
+        "updated_at": "2026-11-03T03:08:09.587274+00:00"
+      },
+      {
+        "memory": "Nate has pets that he takes to the park, and he finds their happy faces memorable, describing a recent trip to the park with them as a special day",
+        "score": 0.5086190166741138,
+        "id": "0a4426fd-dabe-4d2f-b7ff-af059804174d",
+        "created_at": "2026-11-03T03:29:49.160223+00:00",
+        "updated_at": "2026-11-03T03:29:49.160223+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.3107823023825716,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his pet turtle with Joanna on April 17, 2022, showing the turtle in a bowl next to a strawberry",
+        "score": 0.3012905833445579,
+        "id": "ae84de42-35ae-44b2-85e2-944fb1278a41",
+        "created_at": "2026-11-03T03:03:41.904747+00:00",
+        "updated_at": "2026-11-03T03:03:41.904747+00:00"
+      }
+    ],
+    "search_latency_ms": 67.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "He described it as a new pup for her to enjoy.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes the stuffed animal as a new pup to enjoy, but it does not capture the gold answer's key idea of reminding Joanna of good vibes."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described it as a new pup for her to enjoy.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer references the same stuffed animal gift and gives a positive purpose, overlapping with the gold answer's positive 'good vibes' intent."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described it as a new pup for her to enjoy.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer addresses the same stuffed animal and gives a positive purpose for Joanna, which is semantically close enough to the gold answer's positive 'good vibes' intent."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He described it as a new pup for her to enjoy.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer refers to the same stuffed animal and conveys a positive purpose similar to the gold answer's good vibes."
+    }
+  }
+}

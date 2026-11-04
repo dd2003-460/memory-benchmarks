@@ -1,0 +1,50 @@
+{
+  "question_id": "conv0_q11",
+  "conversation_idx": 0,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Where did Caroline move from 4 years ago?",
+  "ground_truth_answer": "Sweden",
+  "evidence": [
+    "D3:13",
+    "D4:3"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "Where did Caroline move from 4 years ago?",
+    "search_results": [],
+    "search_latency_ms": 30.2,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+    }
+  }
+}

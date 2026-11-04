@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q99",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What are Joanna's plans for her finished screenplay in January 2022?",
+  "ground_truth_answer": "submit it to film festivals and get producers and directors to check it out",
+  "evidence": [
+    "D2:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What are Joanna's plans for her finished screenplay in January 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna completed her third handwritten screenplay around May 25, 2022, a personal story about loss, identity, and connection that she had been developing for years but finally felt brave enough to write.",
+        "score": 0.8407332307639359,
+        "id": "d0629d3d-fec3-4a2c-ba02-7b879ee18e77",
+        "created_at": "2026-11-03T03:07:46.810297+00:00",
+        "updated_at": "2026-11-03T03:07:46.810297+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.8184563003523433,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna completed her third screenplay, which she described as a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.8020035114395061,
+        "id": "e24fe053-ef54-4635-99e6-33cd9ee416e1",
+        "created_at": "2026-11-03T03:07:28.708016+00:00",
+        "updated_at": "2026-11-03T03:07:28.708016+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a handwritten screenplay notebook with Nate on May 20, 2022, indicating it was her third completed project after a difficult journey",
+        "score": 0.7924242833086675,
+        "id": "528847f6-cf5d-46c8-8d39-0c23f050b320",
+        "created_at": "2026-11-03T03:07:26.503483+00:00",
+        "updated_at": "2026-11-03T03:07:26.503483+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of the film.",
+        "score": 0.7828700925718766,
+        "id": "9bea47dc-752d-45b0-a690-008dbf67b43f",
+        "created_at": "2026-11-03T03:29:28.415084+00:00",
+        "updated_at": "2026-11-03T03:29:28.415084+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of it.",
+        "score": 0.7785122907156214,
+        "id": "81af8359-44cc-450b-9cd7-0a9a0fedb3ae",
+        "created_at": "2026-11-03T03:29:57.302915+00:00",
+        "updated_at": "2026-11-03T03:29:57.302915+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.7709784385440106,
+        "id": "11a171ad-753a-413b-bd8b-f6e1757bbea1",
+        "created_at": "2026-11-03T03:11:19.718798+00:00",
+        "updated_at": "2026-11-03T03:11:19.718798+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, to see how others might like it",
+        "score": 0.7707256767940598,
+        "id": "29a85009-6cc6-45a3-a22a-9af19fc5e2fe",
+        "created_at": "2026-11-03T03:10:56.240813+00:00",
+        "updated_at": "2026-11-03T03:10:56.240813+00:00"
+      },
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.7692833646875827,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest on June 24, 2022, with the goal of seeing how others might receive it.",
+        "score": 0.7680002593945126,
+        "id": "13f453a7-8fcb-4c79-9c42-e590f8a203f9",
+        "created_at": "2026-11-03T03:10:53.250253+00:00",
+        "updated_at": "2026-11-03T03:10:53.250253+00:00"
+      },
+      {
+        "memory": "Joanna submitted a recent screenplay to a film contest around June 24, 2022, to see how others might like it",
+        "score": 0.7653441270965455,
+        "id": "71ce6ccf-e270-43db-9be4-cd6fc24552f4",
+        "created_at": "2026-11-03T03:11:10.680656+00:00",
+        "updated_at": "2026-11-03T03:11:10.680656+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7517454702626865,
+        "id": "ad0104cc-cfa8-44b2-8a68-5e466dd6d0e3",
+        "created_at": "2026-11-03T03:10:19.033326+00:00",
+        "updated_at": "2026-11-03T03:10:19.033326+00:00"
+      },
+      {
+        "memory": "Joanna had a screenplay she wrote appear on the big screen (in theaters) on June 4, 2022, which she described as nerve-wracking but inspiring to see her words come alive.",
+        "score": 0.7501099417849254,
+        "id": "068cce37-be23-4898-b1b8-0e18a497cf87",
+        "created_at": "2026-11-03T03:09:56.459643+00:00",
+        "updated_at": "2026-11-03T03:09:56.459643+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book on the week of September 26, 2022, after putting in many late nights and edits, and feels proud of the completed work while looking forward to what happens next.",
+        "score": 0.7458718906059641,
+        "id": "6e742e77-a62c-4927-86f8-2d2ba18eb20b",
+        "created_at": "2026-11-03T03:19:18.825536+00:00",
+        "updated_at": "2026-11-03T03:19:18.825536+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that was released in theaters on June 4, 2022, and described the experience as nerve-wracking but inspiring to see her words come alive on the big screen.",
+        "score": 0.7451336107163444,
+        "id": "ff584b90-36c2-4bcc-b4de-e9b4ef78b826",
+        "created_at": "2026-11-03T03:10:01.624285+00:00",
+        "updated_at": "2026-11-03T03:10:01.624285+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared in theaters on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.740567662767307,
+        "id": "f68f1e47-294d-458d-8825-61f9a2e09f0c",
+        "created_at": "2026-11-03T03:10:25.124799+00:00",
+        "updated_at": "2026-11-03T03:10:25.124799+00:00"
+      },
+      {
+        "memory": "Joanna plans to spend the weekend of August 27-28, 2022, relaxing and recharging with a long walk and some reading.",
+        "score": 0.7397163237893443,
+        "id": "43401bcc-1d22-4463-a060-eb17bd838d23",
+        "created_at": "2026-11-03T03:14:18.197405+00:00",
+        "updated_at": "2026-11-03T03:14:18.197405+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7393879798982548,
+        "id": "ed09fcdc-d943-4cf4-8c21-d03868508c42",
+        "created_at": "2026-11-03T03:10:14.636066+00:00",
+        "updated_at": "2026-11-03T03:10:14.636066+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7393879798982548,
+        "id": "98232f51-cabc-47e2-ac65-24c05b88f66d",
+        "created_at": "2026-11-03T03:10:37.194689+00:00",
+        "updated_at": "2026-11-03T03:10:37.194689+00:00"
+      },
+      {
+        "memory": "Joanna wrote bits for a screenplay that appeared on the big screen on June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.7393879798982548,
+        "id": "93d419b1-d161-4865-bfe3-9008f4a963ca",
+        "created_at": "2026-11-03T03:10:30.620142+00:00",
+        "updated_at": "2026-11-03T03:10:30.620142+00:00"
+      }
+    ],
+    "search_latency_ms": 127.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She planned to submit the finished screenplay to a film contest to see how others would receive it.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the core plan of submitting the screenplay to a film-related event, which is a close paraphrase of submitting it to film festivals."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She planned to submit it to a film contest to see how others might receive it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core plan of submitting the screenplay to a film event, which semantically overlaps with submitting it to film festivals."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She planned to submit the finished screenplay to a film contest to see how others might receive it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core plan of submitting the screenplay to a film-related event, which aligns with the gold answer's submission to film festivals."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "She planned to submit her finished screenplay to a film contest to see how others might receive it.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core plan of submitting the screenplay to a film-related event, which is a close paraphrase of submitting it to film festivals."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q129",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does John think about trying new classes at the yoga studio?",
+  "ground_truth_answer": "Trying new classes is a fun way to switch up the exercise routine.",
+  "evidence": [
+    "D25:14"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What does John think about trying new classes at the yoga studio?",
+    "search_results": [
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.8881756928065805,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, which he describes as having a chill vibe and awesome instructors.",
+        "score": 0.8821893353230417,
+        "id": "1f228ad6-aaf9-47b5-aa17-031274aebe3d",
+        "created_at": "2026-11-03T00:43:29.354272+00:00",
+        "updated_at": "2026-11-03T00:43:29.354272+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.8767176521098937,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "John frequently attends a local yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, describing the vibe as chill with awesome instructors.",
+        "score": 0.863838186168031,
+        "id": "b09c38ee-71b4-4895-b071-74b44b528ba4",
+        "created_at": "2026-11-03T00:43:35.573582+00:00",
+        "updated_at": "2026-11-03T00:43:35.573582+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.8456595475270969,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John has integrated his weekend yoga class into his daily routine, valuing it not only for physical benefits but also for the peace of mind and mindfulness it provides.",
+        "score": 0.8152648001348405,
+        "id": "5b126329-e38e-4944-b96e-ce18a07a5a8a",
+        "created_at": "2026-11-03T00:25:08.100970+00:00",
+        "updated_at": "2026-11-03T00:25:08.100970+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.8104330401859814,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.7096238854063114,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "Maria wants to get stronger and improve her endurance, and is currently trying kundalini yoga.",
+        "score": 0.698205809266835,
+        "id": "7a6ca6ab-b3c8-44d7-a3bc-64de5b0d660c",
+        "created_at": "2026-11-03T00:33:31.651422+00:00",
+        "updated_at": "2026-11-03T00:33:31.651422+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.6895793389866147,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga in addition to her gym routine.",
+        "score": 0.6860532286450844,
+        "id": "9ea556c1-738a-4f19-bbf9-eb914dda6a57",
+        "created_at": "2026-11-03T00:32:48.863898+00:00",
+        "updated_at": "2026-11-03T00:32:48.863898+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.6842822896794211,
+        "id": "b6e9033f-7b0a-44e1-971e-5ec6f94a8b62",
+        "created_at": "2026-11-03T00:33:10.479310+00:00",
+        "updated_at": "2026-11-03T00:33:10.479310+00:00"
+      },
+      {
+        "memory": "Maria's fitness goals are to get stronger and improve her endurance, and she is currently trying kundalini yoga.",
+        "score": 0.6842822896794211,
+        "id": "31eb43d2-18f7-4b81-8894-c318d9cee637",
+        "created_at": "2026-11-03T00:32:56.332798+00:00",
+        "updated_at": "2026-11-03T00:32:56.332798+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he appreciates for keeping his workouts interesting.",
+        "score": 0.6817877039365882,
+        "id": "e64dc561-374b-4a0c-b96f-f4e561210a1b",
+        "created_at": "2026-11-03T00:43:19.545653+00:00",
+        "updated_at": "2026-11-03T00:43:19.545653+00:00"
+      },
+      {
+        "memory": "John's weekend yoga class is a beginner-level session focusing on fundamentals such as poses and breathing, which he finds helpful for relaxation and increasing flexibility.",
+        "score": 0.6711724297162546,
+        "id": "eb17c036-3b43-4ede-8455-31135bb01f2b",
+        "created_at": "2026-11-03T00:24:50.455011+00:00",
+        "updated_at": "2026-11-03T00:24:50.455011+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.540710823470667,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John is currently trying out different workout regimes and finds rock climbing appealing as a fun way to push his limits, though he has not yet tried it.",
+        "score": 0.5345674001852034,
+        "id": "dc83c0fc-1496-4dd5-88f3-10540e7d7788",
+        "created_at": "2026-11-03T00:33:49.900107+00:00",
+        "updated_at": "2026-11-03T00:33:49.900107+00:00"
+      },
+      {
+        "memory": "John sees his friends at least once a week, finding it a good way to disconnect, think, and find peace in a crazy world",
+        "score": 0.5217636944357924,
+        "id": "39d819dc-16d5-4992-8cd2-76c1317c98a8",
+        "created_at": "2026-11-03T00:40:54.957317+00:00",
+        "updated_at": "2026-11-03T00:40:54.957317+00:00"
+      },
+      {
+        "memory": "John is interested in rock climbing as a way to push his limits and has been trying out different workout regimes lately.",
+        "score": 0.5216610005793048,
+        "id": "8f6bd735-60af-4bc4-bb02-b4a5f520ee08",
+        "created_at": "2026-11-03T00:33:17.580623+00:00",
+        "updated_at": "2026-11-03T00:33:17.580623+00:00"
+      },
+      {
+        "memory": "John is interested in trying rock climbing as a way to push his limits and is exploring different workout regimes.",
+        "score": 0.5161260730220902,
+        "id": "ce2f8215-df3b-4d61-bd52-9a729cbc56ee",
+        "created_at": "2026-11-03T00:32:56.336651+00:00",
+        "updated_at": "2026-11-03T00:32:56.336651+00:00"
+      }
+    ],
+    "search_latency_ms": 110.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John is positive and open to trying new classes at the yoga studio. He has tried weight training there and found it challenging yet peaceful, similar to yoga, and he values the physical and mental benefits of the studio’s varied classes.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the same positive attitude toward trying new classes at the yoga studio as the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John thinks trying new classes at the yoga studio is a positive and appealing way to keep his workouts interesting; he appreciates the variety of classes and finds them challenging yet peaceful.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same positive idea that trying new classes provides variety and keeps workouts interesting."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John thinks trying new classes at the yoga studio is a good way to keep his workouts interesting; he has tried weight training there and found it challenging yet peaceful.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea that trying new classes is a good way to vary or keep workouts interesting, matching the gold answer's meaning."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John thinks trying new classes at the yoga studio is a good way to keep his workouts interesting; he has tried weight training there and found it challenging yet peaceful.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea that trying new classes is a good way to vary or keep workouts interesting, matching the gold answer's meaning."
+    }
+  }
+}

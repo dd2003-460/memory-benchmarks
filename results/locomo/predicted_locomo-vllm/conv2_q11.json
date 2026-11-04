@@ -1,0 +1,193 @@
+{
+  "question_id": "conv2_q11",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What people has Maria met and helped while volunteering?",
+  "ground_truth_answer": "David, Jean, Cindy, Laura",
+  "evidence": [
+    "D7:5",
+    "D6:5",
+    "D27:8",
+    "D21:19"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What people has Maria met and helped while volunteering?",
+    "search_results": [
+      {
+        "memory": "Maria volunteers at a shelter where residents like Laura have expressed gratitude through letters, and she finds this work inspiring because it allows her to make a difference.",
+        "score": 0.7620636595921075,
+        "id": "0a07c644-b04b-413d-9570-4bd27e248f19",
+        "created_at": "2026-11-03T00:38:52.878114+00:00",
+        "updated_at": "2026-11-03T00:38:52.878114+00:00"
+      },
+      {
+        "memory": "A resident named Laura at the homeless shelter where Maria volunteers wrote a letter expressing gratitude for the support provided, which Maria found inspiring due to the positive impact it had on Laura's life.",
+        "score": 0.7415933459277071,
+        "id": "3f9e1472-dac6-447c-a1f4-093805588c90",
+        "created_at": "2026-11-03T00:38:35.667590+00:00",
+        "updated_at": "2026-11-03T00:38:35.667590+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank you note expressing gratitude for the support received, which Maria shared as evidence of the impact of their work.",
+        "score": 0.7330752100519099,
+        "id": "f95588e7-57fb-413c-9740-0d381751bd38",
+        "created_at": "2026-11-03T00:44:57.059573+00:00",
+        "updated_at": "2026-11-03T00:44:57.059573+00:00"
+      },
+      {
+        "memory": "A resident named Cindy at the homeless shelter where Maria volunteers wrote a heartfelt thank-you note expressing gratitude for the support received.",
+        "score": 0.7168463878355507,
+        "id": "ddd867e4-c59b-4ab1-839d-ce00d80ec98d",
+        "created_at": "2026-11-03T00:45:02.569480+00:00",
+        "updated_at": "2026-11-03T00:45:02.569480+00:00"
+      },
+      {
+        "memory": "Maria recently gave a few talks at the homeless shelter where she volunteers, finding the experience fulfilling and receiving compliments from other volunteers, which reinforced her belief in the importance of connecting with and helping others.",
+        "score": 0.707869754238154,
+        "id": "e67fe79b-7f44-4751-a544-3c5de4bbe7d5",
+        "created_at": "2026-11-03T00:26:30.908847+00:00",
+        "updated_at": "2026-11-03T00:26:30.908847+00:00"
+      },
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.7033286885044079,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria has been volunteering at a homeless shelter for about a year, starting around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.6910958983940825,
+        "id": "fa312135-f673-4ef8-af96-7b21f32f8754",
+        "created_at": "2026-11-03T00:44:57.055067+00:00",
+        "updated_at": "2026-11-03T00:44:57.055067+00:00"
+      },
+      {
+        "memory": "Maria is inspired by chatting to people, volunteering, and listening to music.",
+        "score": 0.6897973848993794,
+        "id": "f0cb2833-49ab-4937-be50-b250c07c18ab",
+        "created_at": "2026-11-03T00:39:55.185554+00:00",
+        "updated_at": "2026-11-03T00:39:55.185554+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help; she describes the experience as fulfilling.",
+        "score": 0.6865237631972587,
+        "id": "47989226-43a5-487c-ac41-1cdc8b8c76ac",
+        "created_at": "2026-11-03T00:44:59.845448+00:00",
+        "updated_at": "2026-11-03T00:44:59.845448+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.6841703521234843,
+        "id": "8e414989-f6ec-45e2-ac55-d27e66dd24f9",
+        "created_at": "2026-11-03T00:44:43.423528+00:00",
+        "updated_at": "2026-11-03T00:44:43.423528+00:00"
+      },
+      {
+        "memory": "Maria describes the people at the homeless shelter where she volunteers as feeling like family to her, and she feels blessed to know them, finding joy in seeing their impact and hearing their gratitude.",
+        "score": 0.683857040679021,
+        "id": "24ee00b3-30f4-442b-b85b-90afd802e9aa",
+        "created_at": "2026-11-03T00:26:34.638564+00:00",
+        "updated_at": "2026-11-03T00:26:34.638564+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a homeless shelter around August 2022 after witnessing a family struggling on the streets, which motivated her to reach out and offer her help.",
+        "score": 0.683013661533151,
+        "id": "fda6651e-ea70-4f8e-bb1c-f400db078f86",
+        "created_at": "2026-11-03T00:45:02.566317+00:00",
+        "updated_at": "2026-11-03T00:45:02.566317+00:00"
+      },
+      {
+        "memory": "Maria finds her volunteering at the homeless shelter rewarding but also tough, noting that while it is fulfilling, the growing need for help can be overwhelming.",
+        "score": 0.6825882103335849,
+        "id": "7fdf98d7-ea07-4bab-90af-8e2c571437bb",
+        "created_at": "2026-11-03T00:27:46.474493+00:00",
+        "updated_at": "2026-11-03T00:27:46.474493+00:00"
+      },
+      {
+        "memory": "Maria stated that she is inspired by chatting with people, volunteering, and listening to music.",
+        "score": 0.6801283052827352,
+        "id": "bdf191fa-74c4-4edc-9fb0-ad289b33c4fa",
+        "created_at": "2026-11-03T00:39:53.015412+00:00",
+        "updated_at": "2026-11-03T00:39:53.015412+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.6695498474867115,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a shelter about a year ago (around August 2022) after witnessing a family struggling on the streets, finding the experience fulfilling and motivated by making a difference.",
+        "score": 0.6622823209374206,
+        "id": "b763b013-43db-4d4c-a373-fab6573413af",
+        "created_at": "2026-11-03T00:45:12.561701+00:00",
+        "updated_at": "2026-11-03T00:45:12.561701+00:00"
+      },
+      {
+        "memory": "Maria met three children at the homeless shelter where she volunteers, describing their smiles as heartwarming.",
+        "score": 0.6587650668439713,
+        "id": "433eda68-32d3-4bad-a724-5a064d5a308d",
+        "created_at": "2026-11-03T00:37:45.111193+00:00",
+        "updated_at": "2026-11-03T00:37:45.111193+00:00"
+      },
+      {
+        "memory": "Maria dropped off baked goods at the homeless shelter where she volunteers around July 24, 2023, and found the experience great, which increased her motivation to help people.",
+        "score": 0.658529604742104,
+        "id": "616d44f0-c737-470d-b86c-1149d346c5e9",
+        "created_at": "2026-11-03T00:43:42.120696+00:00",
+        "updated_at": "2026-11-03T00:43:42.120696+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting with people to discuss potential solutions for the flood damage and community infrastructure issues, and Maria agreed to join and contribute her thoughts",
+        "score": 0.6554591491321599,
+        "id": "38b97f24-15a5-42d8-b84d-2dd7c1ccb8bf",
+        "created_at": "2026-11-03T00:40:54.967205+00:00",
+        "updated_at": "2026-11-03T00:40:54.967205+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 31, 2023, of a group of people standing around a table at a homeless shelter, emphasizing that being kind matters while volunteering.",
+        "score": 0.6529706551156869,
+        "id": "945290ae-dacb-4716-b8f8-2c37540a7c07",
+        "created_at": "2026-11-03T00:44:23.676750+00:00",
+        "updated_at": "2026-11-03T00:44:23.676750+00:00"
+      }
+    ],
+    "search_latency_ms": 54.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Laura and Cindy, residents at the homeless shelter where Maria volunteers.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes Laura and Cindy, which are correct items from the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria has met and helped residents of the homeless shelter, specifically including **Laura**, **Cindy**, **three children**, and **a family** she witnessed struggling on the streets.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Laura' and 'Cindy', which are two of the four specific names listed in the gold answer, satisfying the partial credit rule."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria has met and helped people at the homeless shelter, including three children she met and residents Laura and Cindy, as well as other residents she supported with meals, baked goods, and front-desk help.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes at least two of the gold answer's named people, Laura and Cindy."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria has met and helped residents of the homeless shelter, specifically including **Laura**, **Cindy**, **three children**, and **a family** she witnessed struggling on the streets.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Laura' and 'Cindy', which are two of the four specific names listed in the gold answer, satisfying the partial credit rule."
+    }
+  }
+}

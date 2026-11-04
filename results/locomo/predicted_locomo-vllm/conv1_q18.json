@@ -1,0 +1,121 @@
+{
+  "question_id": "conv1_q18",
+  "conversation_idx": 1,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "Do Jon and Gina start businesses out of what they love?",
+  "ground_truth_answer": "Yes",
+  "evidence": [
+    "D1:4",
+    "D6:8"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "Do Jon and Gina start businesses out of what they love?",
+    "search_results": [
+      {
+        "memory": "Jon is excited for his dance studio to start welcoming dancers of all ages and backgrounds, viewing this inclusivity as a key goal for the business.",
+        "score": 0.6615195732037245,
+        "id": "eb6c2d0e-0237-4155-9f9c-5dbc35d615c2",
+        "created_at": "2026-11-02T19:37:09.287321+00:00",
+        "updated_at": "2026-11-02T19:37:09.287321+00:00"
+      },
+      {
+        "memory": "Gina offered to help Jon with creating marketing content or managing his social media accounts for the dance studio.",
+        "score": 0.44561489838098084,
+        "id": "34008eb9-1865-4045-88c8-eca033fceef2",
+        "created_at": "2026-11-02T19:36:41.090923+00:00",
+        "updated_at": "2026-11-02T19:36:41.090923+00:00"
+      },
+      {
+        "memory": "Jon agreed to accept Gina's offer for help with creating content and managing social media accounts for his dance studio, planning to collaborate with her to enhance the studio's online presence.",
+        "score": 0.4321206615875828,
+        "id": "b1cc54a4-266a-4ea1-87e9-70f7dccf62d7",
+        "created_at": "2026-11-02T19:36:42.770237+00:00",
+        "updated_at": "2026-11-02T19:36:42.770237+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.42459271407969085,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.3889316904389989,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips, and suggested collaborating with local influencers or dance communities to raise awareness.",
+        "score": 0.387482111698244,
+        "id": "b4ad7832-b3a5-476b-b651-f2e84f1221d2",
+        "created_at": "2026-11-02T19:36:41.086686+00:00",
+        "updated_at": "2026-11-02T19:36:41.086686+00:00"
+      },
+      {
+        "memory": "Jon is working on an online platform to showcase his dance studio's content and offerings, as part of his efforts to spruce up his business plan and tweak his pitch to investors following a networking event.",
+        "score": 0.3652922060046218,
+        "id": "f41d86f9-0708-495c-bdec-12488876710b",
+        "created_at": "2026-11-02T19:36:36.716432+00:00",
+        "updated_at": "2026-11-02T19:36:36.716432+00:00"
+      },
+      {
+        "memory": "Jon attended a networking event around July 21, 2023, where he met investors and received good advice, finding the energy motivating for pursuing his goals",
+        "score": 0.3514930421742573,
+        "id": "1387ec2a-8eb4-48a9-a06e-25197e818133",
+        "created_at": "2026-11-02T19:36:29.582734+00:00",
+        "updated_at": "2026-11-02T19:36:29.582734+00:00"
+      },
+      {
+        "memory": "Jon is seeking marketing strategy advice to reach his target audience and raise awareness for his dance studio, following a networking event where he met investors.",
+        "score": 0.34508990421258484,
+        "id": "6a6a391d-aabf-4e61-9213-6f19c892284d",
+        "created_at": "2026-11-02T19:36:38.950118+00:00",
+        "updated_at": "2026-11-02T19:36:38.950118+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.3152999630296466,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      }
+    ],
+    "search_latency_ms": 61.9,
+    "total_results": 10
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Not both in the same way: Jon is starting a dance studio out of his love of dance, while Gina is helping him with his studio and shares his appreciation for dance as a creative space.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer partially affirms the gold answer by stating Jon starts a dance studio out of love and Gina shares appreciation for dance, so it captures at least one correct element."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Jon is starting a dance studio out of his love of dance; Gina is helping with that dance-focused business and values dance and creative self-expression, so the business is rooted in their shared passion for dance.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer affirms that the business is based on their shared love/passion for dance, matching the gold answer's 'Yes'."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes. Jon is starting a dance studio out of his love of dance, and Gina is helping build that dance-centered business out of her love of dance, self-expression, and creative space.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer affirms the gold answer and adds consistent supporting details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Jon is starting a dance studio out of his love of dance, and Gina is helping that dance-centered business because she values dance and creative self-expression.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer affirms that Jon is starting a dance studio out of love and Gina is involved because she values dance, which aligns with the gold answer's affirmative response."
+    }
+  }
+}

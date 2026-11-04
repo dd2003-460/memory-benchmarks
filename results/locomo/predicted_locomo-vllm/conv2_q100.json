@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q100",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What emotions did John feel during the small party with the veterans?",
+  "ground_truth_answer": "heartwarming",
+  "evidence": [
+    "D15:13"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What emotions did John feel during the small party with the veterans?",
+    "search_results": [
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and motivating.",
+        "score": 0.6738976095694815,
+        "id": "60a148f6-694b-423d-938a-f91874f0bff6",
+        "created_at": "2026-11-03T00:30:32.327409+00:00",
+        "updated_at": "2026-11-03T00:30:32.327409+00:00"
+      },
+      {
+        "memory": "John threw a small party for veterans where they shared their stories, making connections and finding camaraderie, which he found heartwarming due to the smiles and new friendships formed.",
+        "score": 0.672427423226927,
+        "id": "7bfb2da5-c02f-4d7b-bb21-72161505c3de",
+        "created_at": "2026-11-03T00:30:30.204995+00:00",
+        "updated_at": "2026-11-03T00:30:30.204995+00:00"
+      },
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and reinforcing of the importance of community support.",
+        "score": 0.6722563924838225,
+        "id": "2e541094-ac88-4a27-9c1b-a46e8e2ada18",
+        "created_at": "2026-11-03T00:30:36.692811+00:00",
+        "updated_at": "2026-11-03T00:30:36.692811+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.5883095475625317,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "John feels a strong bond with his current team that he has not felt since his time in the military, finding their collective effort to serve and protect the community fulfilling and meaningful",
+        "score": 0.5330000478713762,
+        "id": "4208c136-767f-4b84-a720-ec8f1f955265",
+        "created_at": "2026-11-03T00:44:38.662900+00:00",
+        "updated_at": "2026-11-03T00:44:38.662900+00:00"
+      },
+      {
+        "memory": "John feels a strong bond of trust and reliance with his fire-fighting brigade teammates, describing them as like family, a connection he has not felt since his time in the military.",
+        "score": 0.5099791558959269,
+        "id": "34c769c5-09b2-4065-8d89-76929b659aa1",
+        "created_at": "2026-11-03T00:44:15.981618+00:00",
+        "updated_at": "2026-11-03T00:44:15.981618+00:00"
+      },
+      {
+        "memory": "John feels that his fire brigade teammates have become like family to him, noting that the bond of trust and reliance he shares with them is similar to what he felt during his time in the military.",
+        "score": 0.5060889082458424,
+        "id": "756d637d-31ca-4bac-a817-21ea682f6972",
+        "created_at": "2026-11-03T00:44:13.364427+00:00",
+        "updated_at": "2026-11-03T00:44:13.364427+00:00"
+      },
+      {
+        "memory": "John is a veteran who joined the military and recently visited a veterans' organization where he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, which reinforced his sense of hope and resilience.",
+        "score": 0.49733403441920104,
+        "id": "6b39b3bf-7ed7-4d10-8d95-9bf2356a92bb",
+        "created_at": "2026-11-03T00:42:29.559421+00:00",
+        "updated_at": "2026-11-03T00:42:29.559421+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights; around May 13, 2023, he realized how much they have done for the community and started the veteran support project as a way to show appreciation and give back.",
+        "score": 0.4830880088652477,
+        "id": "f27fa283-082a-467e-8a1d-5cce9fd6803a",
+        "created_at": "2026-11-03T00:30:18.767295+00:00",
+        "updated_at": "2026-11-03T00:30:18.767295+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.48303423238210674,
+        "id": "eeee4313-4722-4ee9-ab50-11f6cb83225f",
+        "created_at": "2026-11-03T00:48:08.364873+00:00",
+        "updated_at": "2026-11-03T00:48:08.364873+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.4804957289332428,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in early July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.4784321830499733,
+        "id": "261822a9-07e3-4e47-bb7e-1ec7bb5332ad",
+        "created_at": "2026-11-03T00:42:01.933771+00:00",
+        "updated_at": "2026-11-03T00:42:01.933771+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.4770637735108833,
+        "id": "96c9fb69-062c-4249-8f46-2d97e40ec2da",
+        "created_at": "2026-11-03T00:42:17.337783+00:00",
+        "updated_at": "2026-11-03T00:42:17.337783+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.47604525385058266,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.47068448001837443,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.47068448001837443,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in mid-July 2023, John met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.47048311813297444,
+        "id": "85d5dec7-778c-4f81-ae4c-4d6adf629aac",
+        "created_at": "2026-11-03T00:41:59.455622+00:00",
+        "updated_at": "2026-11-03T00:41:59.455622+00:00"
+      },
+      {
+        "memory": "During his visit to a veteran's hospital the week of July 10, 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.46936825370119306,
+        "id": "f7c66a5e-af5b-4986-9c21-b37120133be2",
+        "created_at": "2026-11-03T00:41:42.392860+00:00",
+        "updated_at": "2026-11-03T00:41:42.392860+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.46873282151690693,
+        "id": "9a840cc4-9e7b-4984-8067-2224654ff2db",
+        "created_at": "2026-11-03T00:42:01.928996+00:00",
+        "updated_at": "2026-11-03T00:42:01.928996+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.46873282151690693,
+        "id": "8d71a920-7b74-48ff-90ff-9217dc64585c",
+        "created_at": "2026-11-03T00:42:17.333514+00:00",
+        "updated_at": "2026-11-03T00:42:17.333514+00:00"
+      }
+    ],
+    "search_latency_ms": 57.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt heartwarming and motivated, and the party reinforced his sense of the importance of community support.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's emotion 'heartwarming' and adds compatible extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt heartwarming and motivated, and the new friendships and camaraderie reinforced his sense of the importance of community support.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's emotion 'heartwarming' and adds compatible extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt heartwarming and motivated during the small party with the veterans.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's emotion 'heartwarming' and adds an extra emotion, which is acceptable."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt heartwarming and motivated during the small party with the veterans.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's emotion 'heartwarming' and adds an extra emotion, which is acceptable."
+    }
+  }
+}

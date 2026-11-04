@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q137",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What happened to John's job in August 2023?",
+  "ground_truth_answer": "John lost his job at the mechanical engineering company.",
+  "evidence": [
+    "D28:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What happened to John's job in August 2023?",
+    "search_results": [
+      {
+        "memory": "John lost his job at a mechanical engineering company around August 5, 2023, after the business failed, which he describes as a rough and unexpected event.",
+        "score": 0.7048687891047389,
+        "id": "791a8f85-6157-433d-ba4a-8c3065402655",
+        "created_at": "2026-11-03T00:45:40.037514+00:00",
+        "updated_at": "2026-11-03T00:45:40.037514+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around August 2023 after the company failed, which he found rough and unexpected.",
+        "score": 0.7002408375997247,
+        "id": "b27c3ed6-02f4-4262-b328-8c90764e71c6",
+        "created_at": "2026-11-03T00:45:52.361492+00:00",
+        "updated_at": "2026-11-03T00:45:52.361492+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around August 5, 2023, because the company failed, which he found unexpected and emotionally rough.",
+        "score": 0.694803073716108,
+        "id": "df66eb83-03d8-412f-894c-06f3a8cca2fe",
+        "created_at": "2026-11-03T00:45:21.193593+00:00",
+        "updated_at": "2026-11-03T00:45:21.193593+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around late July 2023 after the company failed, an event he did not see coming and describes as really rough.",
+        "score": 0.6647233479502275,
+        "id": "c8cb26a1-e81b-44b4-b64d-0a9e8d6fe668",
+        "created_at": "2026-11-03T00:45:30.257994+00:00",
+        "updated_at": "2026-11-03T00:45:30.257994+00:00"
+      },
+      {
+        "memory": "John found a potential job at a tech company around August 5, 2023, where his mechanical engineering skills are needed for their hardware team, which he views as a great opportunity to learn and contribute despite feeling different from his previous role.",
+        "score": 0.6641147109009474,
+        "id": "abfb46ef-ec55-40f4-9b16-0afc13f01f93",
+        "created_at": "2026-11-03T00:45:36.964904+00:00",
+        "updated_at": "2026-11-03T00:45:36.964904+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around late July 2023 after the business failed, an event he did not anticipate and finds very difficult.",
+        "score": 0.6603835685220389,
+        "id": "4a7bd0ad-ba75-4ff5-9137-f7ac9de23377",
+        "created_at": "2026-11-03T00:45:24.720004+00:00",
+        "updated_at": "2026-11-03T00:45:24.720004+00:00"
+      },
+      {
+        "memory": "As of August 2023, John is going through some tough times lately and uses photography to help him take a step back and appreciate the little things in life",
+        "score": 0.6000657399141548,
+        "id": "f22b074b-3207-4a6f-a739-37e89f33cdb7",
+        "created_at": "2026-11-03T00:47:56.106663+00:00",
+        "updated_at": "2026-11-03T00:47:56.106663+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.587284700329102,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.587284700329102,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "John took his kids to a military memorial in the week before August 3, 2023, describing it as a meaningful experience that made an impact on them.",
+        "score": 0.5779123783595719,
+        "id": "4ef15ca1-54af-487c-af25-170e300f4e86",
+        "created_at": "2026-11-03T00:44:59.852423+00:00",
+        "updated_at": "2026-11-03T00:44:59.852423+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, expressing excitement about helping his community.",
+        "score": 0.5756369658674708,
+        "id": "26f68b32-8daa-440f-a7c3-ae60ef55ed54",
+        "created_at": "2026-11-03T00:49:26.785358+00:00",
+        "updated_at": "2026-11-03T00:49:26.785358+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around August 16, 2023, expressing excitement about being involved and helping out his community.",
+        "score": 0.5731680967148309,
+        "id": "17b2a8a4-b8d6-48d7-8bd3-30c4efc33126",
+        "created_at": "2026-11-03T00:49:34.888744+00:00",
+        "updated_at": "2026-11-03T00:49:34.888744+00:00"
+      },
+      {
+        "memory": "John participated in a community fundraising event on the weekend of August 5-6, 2023, which had a great turnout and was surrounded by supportive people.",
+        "score": 0.5725799677524234,
+        "id": "48241daf-b28c-4939-af23-425ae644c394",
+        "created_at": "2026-11-03T00:46:31.875034+00:00",
+        "updated_at": "2026-11-03T00:46:31.875034+00:00"
+      },
+      {
+        "memory": "John has a wife and children, describing his family as awesome and supportive even during hard times. He shared a photo of his family posing in the park on August 13, 2023.",
+        "score": 0.5647074573628675,
+        "id": "df3421f7-76f4-4d86-b98f-5b5c6c4d7b00",
+        "created_at": "2026-11-03T00:49:21.202861+00:00",
+        "updated_at": "2026-11-03T00:49:21.202861+00:00"
+      },
+      {
+        "memory": "John has been experiencing some tough times lately, around August 2023, and finds that taking photos helps him take a step back to appreciate the little things in life during this difficult period.",
+        "score": 0.562637538703785,
+        "id": "e77d229d-4150-4ef1-b18d-437266249b21",
+        "created_at": "2026-11-03T00:47:53.007202+00:00",
+        "updated_at": "2026-11-03T00:47:53.007202+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.5563591003075226,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, and feels it is his true calling because it gives him a sense of purpose and passion for helping his community.",
+        "score": 0.5557531664148682,
+        "id": "833ecd8a-c6d2-4325-bef0-37a0dfd19a73",
+        "created_at": "2026-11-03T00:49:48.406646+00:00",
+        "updated_at": "2026-11-03T00:49:48.406646+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.5547335861966551,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      },
+      {
+        "memory": "John participated in a community donation drive for the local fire station around August 16, 2023, where the group collected canned food, toiletries, and clothes over two hours of work.",
+        "score": 0.5519115172051884,
+        "id": "9895e042-4485-4771-a0a3-7dfffcc2a98a",
+        "created_at": "2026-11-03T00:49:52.687612+00:00",
+        "updated_at": "2026-11-03T00:49:52.687612+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.5495064427400815,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      }
+    ],
+    "search_latency_ms": 92.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lost his job at a mechanical engineering company around August 5, 2023, because the company failed/went bankrupt.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly states that John lost his job at a mechanical engineering company in August 2023, matching the gold answer with acceptable extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lost his job at a mechanical engineering company because the company failed/went bankrupt, around August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly states that John lost his job at a mechanical engineering company around August 2023, matching the gold answer with acceptable extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lost his job at a mechanical engineering company because the company failed/went bankrupt, around August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly states that John lost his job at a mechanical engineering company around August 2023, matching the gold answer with acceptable extra detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lost his job at a mechanical engineering company because the company failed/went bankrupt, around August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly states that John lost his job at a mechanical engineering company around August 2023, matching the gold answer with acceptable extra detail."
+    }
+  }
+}

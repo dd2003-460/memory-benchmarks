@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q140",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What cause did the 5K charity run organized by John support?",
+  "ground_truth_answer": "veterans and their families",
+  "evidence": [
+    "D29:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What cause did the 5K charity run organized by John support?",
+    "search_results": [
+      {
+        "memory": "Organizing the 5K charity run was hard work for John, involving securing sponsors by reaching out to several businesses through different means, coordinating with the city, and spreading the word about the event.",
+        "score": 0.9163857196505767,
+        "id": "5cc571cc-5df3-445b-9b7e-6df926553988",
+        "created_at": "2026-11-03T00:47:03.618602+00:00",
+        "updated_at": "2026-11-03T00:47:03.618602+00:00"
+      },
+      {
+        "memory": "John faced challenges organizing the 5K charity run, specifically finding sponsors, but successfully secured support from several local businesses after reaching out through various means.",
+        "score": 0.9111099118888208,
+        "id": "10291a79-c638-4315-b4a7-ce0a1106a44e",
+        "created_at": "2026-11-03T00:46:52.208653+00:00",
+        "updated_at": "2026-11-03T00:46:52.208653+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that securing sponsors, coordinating with the city, and promoting the event was hard work but worth it seeing community support.",
+        "score": 0.8785990185536301,
+        "id": "753ff9fe-8b4b-48d5-b32e-5f10b7aae02c",
+        "created_at": "2026-11-03T00:46:41.331982+00:00",
+        "updated_at": "2026-11-03T00:46:41.331982+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that it required significant effort to secure sponsors and coordinate with the city.",
+        "score": 0.8742631947477457,
+        "id": "10dac2f7-8be9-4c75-84d9-8c5921bcb6ba",
+        "created_at": "2026-11-03T00:47:01.153836+00:00",
+        "updated_at": "2026-11-03T00:47:01.153836+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that the event had a great turnout and was supported by many people.",
+        "score": 0.8738477885585854,
+        "id": "c7220246-c1f6-443b-8c3e-e20243849b50",
+        "created_at": "2026-11-03T00:46:36.104430+00:00",
+        "updated_at": "2026-11-03T00:46:36.104430+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood around August 9, 2023, to raise funds for veterans and their families, which he described as hard work involving securing sponsors and coordinating with the city.",
+        "score": 0.8717236767546528,
+        "id": "75159427-3e9d-4389-93ae-39a53802bef7",
+        "created_at": "2026-11-03T00:47:05.849523+00:00",
+        "updated_at": "2026-11-03T00:47:05.849523+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on August 6, 2023, to raise awareness and funds for veterans and their families, working with a local organization that helps victims of domestic abuse.",
+        "score": 0.870604060276313,
+        "id": "d47e3066-a2dd-44ed-88bb-0d8fe5aa89e7",
+        "created_at": "2026-11-03T00:46:57.594478+00:00",
+        "updated_at": "2026-11-03T00:46:57.594478+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood around August 6, 2023, to raise funds for veterans and their families, which featured a great turnout of supportive people.",
+        "score": 0.8683165940919565,
+        "id": "b3c8ffbf-9c55-43e3-ada3-438ac802bdfe",
+        "created_at": "2026-11-03T00:47:03.613670+00:00",
+        "updated_at": "2026-11-03T00:47:03.613670+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.8671533187473119,
+        "id": "1e5c2f69-cc19-46d4-a437-73bbbff59687",
+        "created_at": "2026-11-03T00:46:52.205259+00:00",
+        "updated_at": "2026-11-03T00:46:52.205259+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.8671533187473118,
+        "id": "53e4cccb-e4af-48e2-92d7-f2676fe382ef",
+        "created_at": "2026-11-03T00:46:44.142482+00:00",
+        "updated_at": "2026-11-03T00:46:44.142482+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood to raise funds for veterans and their families, successfully raising money and sharing a photo of the group from the event.",
+        "score": 0.8599680812013254,
+        "id": "e8fda8d7-c24f-4eb9-82c6-5e88bddff743",
+        "created_at": "2026-11-03T00:46:33.923302+00:00",
+        "updated_at": "2026-11-03T00:46:33.923302+00:00"
+      },
+      {
+        "memory": "John found securing sponsors for the 5K charity run difficult, requiring outreach to several businesses through different means, but successfully obtained sponsors that made the event a hit.",
+        "score": 0.8569403805305585,
+        "id": "9b87cc9c-2ed2-4a85-afd4-58e5ffeeed4c",
+        "created_at": "2026-11-03T00:46:48.840637+00:00",
+        "updated_at": "2026-11-03T00:46:48.840637+00:00"
+      },
+      {
+        "memory": "John described organizing the 5K charity run as hard work involving securing sponsors, coordinating with the city, and spreading the word, but felt it was worth it seeing community support for veterans.",
+        "score": 0.8050927242875634,
+        "id": "a484571f-d6b7-4820-a7ce-c7cbfa2bf0db",
+        "created_at": "2026-11-03T00:46:44.147165+00:00",
+        "updated_at": "2026-11-03T00:46:44.147165+00:00"
+      },
+      {
+        "memory": "Maria participated in a 5K charity run for a homeless shelter around April 1-2, 2023, finding the experience rewarding and energizing due to the sense of unity among participants, which reinforced her passion for charity work.",
+        "score": 0.7739799176631924,
+        "id": "ddafb1dd-db69-4ce3-bca8-716001b56f9b",
+        "created_at": "2026-11-03T00:25:10.866059+00:00",
+        "updated_at": "2026-11-03T00:25:10.866059+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he highlighted as important due to the high number of people suffering from it.",
+        "score": 0.7181645008641275,
+        "id": "4f71022e-97d6-4a4f-b058-c679113d8e72",
+        "created_at": "2026-11-03T00:47:01.157114+00:00",
+        "updated_at": "2026-11-03T00:47:01.157114+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.7064271753041715,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for victims of domestic abuse in partnership with a local organization dedicated to helping them.",
+        "score": 0.6992917888399806,
+        "id": "c3fe8ba7-bbcc-4fbe-b793-297b95f3b899",
+        "created_at": "2026-11-03T00:47:03.622246+00:00",
+        "updated_at": "2026-11-03T00:47:03.622246+00:00"
+      },
+      {
+        "memory": "John found it challenging to secure sponsors for the 5K charity run but successfully reached out to several businesses through different means, resulting in awesome sponsors that made the event a hit.",
+        "score": 0.6896692536782797,
+        "id": "bec1a247-3979-4eca-9ede-d0a577c399d3",
+        "created_at": "2026-11-03T00:46:57.599434+00:00",
+        "updated_at": "2026-11-03T00:46:57.599434+00:00"
+      },
+      {
+        "memory": "John offered to help Maria with the homeless shelter fundraiser and shared a photo of a poster for a chili cook-off event, indicating an interest in supporting the cause through this specific activity.",
+        "score": 0.6682428606148679,
+        "id": "4c805add-f6ef-4bf7-b1a8-1dff3e156596",
+        "created_at": "2026-11-03T00:30:50.061730+00:00",
+        "updated_at": "2026-11-03T00:30:50.061730+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.6474368333773245,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      }
+    ],
+    "search_latency_ms": 76.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Veterans and their families.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's cause."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The 5K charity run organized by John supported veterans and their families, and it also raised awareness and funds for a local organization helping victims of domestic abuse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core cause, veterans and their families, while adding extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The 5K charity run organized by John supported veterans and their families, and it also raised awareness and funds for a local organization helping victims of domestic abuse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core cause, veterans and their families, while adding extra detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The 5K charity run organized by John supported veterans and their families, and it also raised awareness and funds for a local organization helping victims of domestic abuse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's core cause, veterans and their families, while adding extra detail."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q187",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What project is Joanna working on in her notebook on November 9, 2022?",
+  "ground_truth_answer": "A suspenseful thriller set in a small Midwestern town",
+  "evidence": [
+    "D28:12"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What project is Joanna working on in her notebook on November 9, 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.7742990101976491,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in early July 2022, inspired by the success of her recent movie project",
+        "score": 0.758719821449826,
+        "id": "b05c8843-7437-4ec4-bf99-f74499d4a15f",
+        "created_at": "2026-11-03T03:12:32.038044+00:00",
+        "updated_at": "2026-11-03T03:12:32.038044+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.7544471984424537,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her notebook covered in stickers on August 14, 2022, while discussing how she is going all out with her current writing projects.",
+        "score": 0.753980141257579,
+        "id": "ebc92211-b045-4b3e-9e7a-2e05e40ab273",
+        "created_at": "2026-11-03T03:12:58.804217+00:00",
+        "updated_at": "2026-11-03T03:12:58.804217+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a screenplay and several other projects, which she described as the main focus of her recent activities in May 2022.",
+        "score": 0.7221154473132383,
+        "id": "4bfe2362-35c7-48a8-9570-2ba23d071b4e",
+        "created_at": "2026-11-03T03:05:29.071597+00:00",
+        "updated_at": "2026-11-03T03:05:29.071597+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.7152246113519194,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around late October 2022, which she described as a cool experience to see how far she has come in her writing journey.",
+        "score": 0.7101898781545979,
+        "id": "53b1b29e-7ba8-4514-a458-600b41eaef36",
+        "created_at": "2026-11-03T03:25:55.687911+00:00",
+        "updated_at": "2026-11-03T03:25:55.687911+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around October 28, 2022, and enjoyed seeing how far she has come as a writer.",
+        "score": 0.7073945345212644,
+        "id": "902b4a6c-98c5-425e-b44c-17ab9e39835d",
+        "created_at": "2026-11-03T03:25:59.273670+00:00",
+        "updated_at": "2026-11-03T03:25:59.273670+00:00"
+      },
+      {
+        "memory": "Joanna discovered old notebooks containing her early writings around late October 2022, which she found cool as it showed how far she has come as a writer.",
+        "score": 0.7055444145729555,
+        "id": "2e811027-0f72-413e-a7d0-53046f97bee7",
+        "created_at": "2026-11-03T03:26:24.071018+00:00",
+        "updated_at": "2026-11-03T03:26:24.071018+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook around November 7, 2022, sharing a photo of the handwritten list with Nate.",
+        "score": 0.6955922856821993,
+        "id": "38f2339b-9a72-4680-962e-a7d5453bbc26",
+        "created_at": "2026-11-03T03:29:46.491568+00:00",
+        "updated_at": "2026-11-03T03:29:46.491568+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a handwritten screenplay notebook with Nate on May 20, 2022, indicating it was her third completed project after a difficult journey",
+        "score": 0.6866476350742642,
+        "id": "528847f6-cf5d-46c8-8d39-0c23f050b320",
+        "created_at": "2026-11-03T03:07:26.503483+00:00",
+        "updated_at": "2026-11-03T03:07:26.503483+00:00"
+      },
+      {
+        "memory": "Joanna loves DIY crafts and handmade projects, as she expressed enthusiasm for making a plant-themed bookmark for a member of her writing club on October 6, 2022.",
+        "score": 0.676786949526332,
+        "id": "d2bb0671-1f18-48fb-863a-d54306fc4a53",
+        "created_at": "2026-11-03T03:20:23.759461+00:00",
+        "updated_at": "2026-11-03T03:20:23.759461+00:00"
+      },
+      {
+        "memory": "Joanna is currently working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet.",
+        "score": 0.6648266514546248,
+        "id": "964f5375-cf0d-42ea-b4be-5084a557a71e",
+        "created_at": "2026-11-03T03:31:14.933116+00:00",
+        "updated_at": "2026-11-03T03:31:14.933116+00:00"
+      },
+      {
+        "memory": "Joanna is working on a challenging but fulfilling project in addition to her recent producer meetings, which she found validating and inspiring.",
+        "score": 0.6625766859217819,
+        "id": "976396c6-87dc-4918-949f-98b8c7fd5dbb",
+        "created_at": "2026-11-03T03:26:24.066841+00:00",
+        "updated_at": "2026-11-03T03:26:24.066841+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6619316132237868,
+        "id": "98225ef3-fcd6-42b2-880a-dd4e9afb63b5",
+        "created_at": "2026-11-03T03:30:50.640223+00:00",
+        "updated_at": "2026-11-03T03:30:50.640223+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6619316132237868,
+        "id": "b6393fff-e1fe-43d2-a73d-619944b48ff1",
+        "created_at": "2026-11-03T03:31:26.574834+00:00",
+        "updated_at": "2026-11-03T03:31:26.574834+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6619316132237868,
+        "id": "daf03fdc-f376-4148-bec0-52588b653f59",
+        "created_at": "2026-11-03T03:31:21.128994+00:00",
+        "updated_at": "2026-11-03T03:31:21.128994+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.6619316132237867,
+        "id": "4985278d-7c47-4d8f-a849-20e676af8baa",
+        "created_at": "2026-11-03T03:30:44.504642+00:00",
+        "updated_at": "2026-11-03T03:30:44.504642+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet.",
+        "score": 0.6592608839237697,
+        "id": "d1b5bdab-a8ac-45a5-ad19-7f281d25161d",
+        "created_at": "2026-11-03T03:31:09.701960+00:00",
+        "updated_at": "2026-11-03T03:31:09.701960+00:00"
+      },
+      {
+        "memory": "Joanna is finally filming her own movie based on a road-trip script, sharing the news with Nate around November 11, 2022",
+        "score": 0.6592472373738949,
+        "id": "b3f573ec-30a4-4727-b2b8-603fe1fbbe1d",
+        "created_at": "2026-11-03T03:32:29.035752+00:00",
+        "updated_at": "2026-11-03T03:32:29.035752+00:00"
+      }
+    ],
+    "search_latency_ms": 82.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna is working on writing down some of her favorite memories in a notebook.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes favorite memories, which does not match the gold answer's suspenseful thriller project."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying the same suspenseful thriller set in a small Midwestern town."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A new suspenseful thriller project set in a small Midwestern town.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying the same suspenseful thriller project set in a small Midwestern town."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A new suspenseful thriller project set in a small Midwestern town.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying the same suspenseful thriller project set in a small Midwestern town."
+    }
+  }
+}

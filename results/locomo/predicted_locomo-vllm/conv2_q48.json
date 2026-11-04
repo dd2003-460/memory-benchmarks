@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q48",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John have his first firefighter call-out?",
+  "ground_truth_answer": "The sunday before 3` July 2023",
+  "evidence": [
+    "D26:4"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did John have his first firefighter call-out?",
+    "search_results": [
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire-fighting brigade, where he and his team worked together to save a family from a burning building.",
+        "score": 0.29753811284465537,
+        "id": "943aef1b-4e8d-42be-9508-b77267ad6fd0",
+        "created_at": "2026-11-03T00:43:59.687261+00:00",
+        "updated_at": "2026-11-03T00:43:59.687261+00:00"
+      },
+      {
+        "memory": "On Sunday, July 30, 2023, John participated in his first call-out with the fire-fighting brigade, where the team worked together to save a family from a burning building.",
+        "score": 0.29447667096308433,
+        "id": "0b1ae321-27bc-4e79-9435-818f98cb1e19",
+        "created_at": "2026-11-03T00:44:15.977805+00:00",
+        "updated_at": "2026-11-03T00:44:15.977805+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, and feels it is his true calling because it gives him a sense of purpose and passion for helping his community.",
+        "score": 0.29432326004059167,
+        "id": "833ecd8a-c6d2-4325-bef0-37a0dfd19a73",
+        "created_at": "2026-11-03T00:49:48.406646+00:00",
+        "updated_at": "2026-11-03T00:49:48.406646+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.2934154195798085,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      },
+      {
+        "memory": "John's fire-fighting team had their first call-out on Sunday, July 30, 2023, where they responded to a situation and worked together to help those in need.",
+        "score": 0.29097372068431,
+        "id": "3dd3cf10-8e0e-44fc-9c7d-fbf13c9bd473",
+        "created_at": "2026-11-03T00:43:49.073444+00:00",
+        "updated_at": "2026-11-03T00:43:49.073444+00:00"
+      },
+      {
+        "memory": "During his first fire-fighting call-out on July 30, 2023, John and his team saved a family from a burning building. He described the scene as chaotic but felt a surge of energy and purpose, finding the experience wild yet worth it because they made a difference.",
+        "score": 0.27008981117427394,
+        "id": "45a3c7a2-fb8e-4517-a501-9bb1c42ba2fb",
+        "created_at": "2026-11-03T00:43:56.434684+00:00",
+        "updated_at": "2026-11-03T00:43:56.434684+00:00"
+      },
+      {
+        "memory": "John completed intense training for a rescue role, which changed his view on helping others, and had his first call-out on July 30, 2023, where he helped save a family from a burning building.",
+        "score": 0.2685797203803135,
+        "id": "d5ab0099-5b4b-46ac-9e5e-89b79e20a47d",
+        "created_at": "2026-11-03T00:44:23.665958+00:00",
+        "updated_at": "2026-11-03T00:44:23.665958+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he helped save a family from a burning building, describing it as chaotic but purposeful.",
+        "score": 0.2680046537823012,
+        "id": "638b61ca-8a6b-4f6a-b872-da2e92825be4",
+        "created_at": "2026-11-03T00:44:08.629599+00:00",
+        "updated_at": "2026-11-03T00:44:08.629599+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around August 16, 2023, expressing excitement about being involved and helping out his community.",
+        "score": 0.26683911032524676,
+        "id": "17b2a8a4-b8d6-48d7-8bd3-30c4efc33126",
+        "created_at": "2026-11-03T00:49:34.888744+00:00",
+        "updated_at": "2026-11-03T00:49:34.888744+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.26364824380890567,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, expressing excitement about helping his community.",
+        "score": 0.2627312798152822,
+        "id": "26f68b32-8daa-440f-a7c3-ae60ef55ed54",
+        "created_at": "2026-11-03T00:49:26.785358+00:00",
+        "updated_at": "2026-11-03T00:49:26.785358+00:00"
+      },
+      {
+        "memory": "On July 30, 2023, John experienced his first call-out with the fire brigade, where he and his team saved a family from a burning building, an event he described as chaotic yet purposeful.",
+        "score": 0.2623741964208598,
+        "id": "6388b4f5-013c-4fc1-8ff2-68afb8d6b73e",
+        "created_at": "2026-11-03T00:44:13.359861+00:00",
+        "updated_at": "2026-11-03T00:44:13.359861+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in late July 2023 after being inspired by Maria's work at the homeless shelter, finding the training intense but rewarding.",
+        "score": 0.2587608345171376,
+        "id": "a96996be-afd3-43d6-96bc-7ac99fec50d1",
+        "created_at": "2026-11-03T00:44:08.625430+00:00",
+        "updated_at": "2026-11-03T00:44:08.625430+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and feels it is his true calling, finding a strong sense of purpose and passion in helping out his community.",
+        "score": 0.2541815406812452,
+        "id": "bacb8588-e0e8-44a9-95f7-25ddf6f847ea",
+        "created_at": "2026-11-03T00:49:46.168939+00:00",
+        "updated_at": "2026-11-03T00:49:46.168939+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade around July 31, 2023, inspired by Maria's work at the homeless shelter and his own desire to give back to his community.",
+        "score": 0.25015884464672233,
+        "id": "45ad3c37-df98-4c04-ae81-33e79ab7c660",
+        "created_at": "2026-11-03T00:43:44.787875+00:00",
+        "updated_at": "2026-11-03T00:43:44.787875+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and finds the experience fulfilling and meaningful for giving back to his community.",
+        "score": 0.24786345648139765,
+        "id": "21057a03-3e39-4baf-88db-3d6df2c3e864",
+        "created_at": "2026-11-03T00:44:15.969929+00:00",
+        "updated_at": "2026-11-03T00:44:15.969929+00:00"
+      },
+      {
+        "memory": "John described the scene of his first fire call-out as chaotic upon arrival, but noted that the team pulled together, giving him a surge of energy and purpose.",
+        "score": 0.24387378297426965,
+        "id": "a4193a03-dbbf-4463-bde1-5595f52f561a",
+        "created_at": "2026-11-03T00:43:59.690520+00:00",
+        "updated_at": "2026-11-03T00:43:59.690520+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade, finding the training intense and taxing but rewarding, as it changed his view on helping others.",
+        "score": 0.24138685502626628,
+        "id": "8b9039d6-66b6-4b5b-aab3-5791a9bda4d6",
+        "created_at": "2026-11-03T00:43:59.684427+00:00",
+        "updated_at": "2026-11-03T00:43:59.684427+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and is super excited to be involved in helping his community, noting that he was impressed by their dedication and teamwork.",
+        "score": 0.2394910088979377,
+        "id": "def3d70b-87ca-4220-b610-e24ad53e2261",
+        "created_at": "2026-11-03T00:49:41.151228+00:00",
+        "updated_at": "2026-11-03T00:49:41.151228+00:00"
+      },
+      {
+        "memory": "John described the training for the fire-fighting brigade as intense and taxing, but noted that it changed his view on helping others.",
+        "score": 0.23935238206273723,
+        "id": "cb18126e-5cb3-4a36-b159-bd8a5382474d",
+        "created_at": "2026-11-03T00:44:15.973514+00:00",
+        "updated_at": "2026-11-03T00:44:15.973514+00:00"
+      }
+    ],
+    "search_latency_ms": 56.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John had his first firefighter call-out on Sunday, July 30, 2023.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer's July 30, 2023 is within the 14-day date tolerance of the gold's intended Sunday before 30 July 2023 (July 23, 2023)."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John had his first firefighter call-out on Sunday, July 30, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's July 30, 2023 is within the 14-day date tolerance of the gold's intended Sunday before 30 July 2023 (July 23, 2023)."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John had his first firefighter call-out on Sunday, July 30, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's July 30, 2023 is within the 14-day date tolerance of the gold's intended Sunday before 30 July 2023 (July 23, 2023)."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John had his first firefighter call-out on Sunday, July 30, 2023.",
+      "memories_evaluated": 20,
+      "reason": "Interpreting the gold answer's '3` July' as 30 July, the generated date of July 30, 2023 is within the 14-day tolerance of the Sunday before that date."
+    }
+  }
+}

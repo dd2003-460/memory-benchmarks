@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q56",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What animal do both Nate and Joanna like?",
+  "ground_truth_answer": "Turtles.",
+  "evidence": [
+    "D5:6",
+    "D26:9"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What animal do both Nate and Joanna like?",
+    "search_results": [
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.7588476584834254,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down things his animals like and also plans to begin recording his favorite memories with Joanna from now on.",
+        "score": 0.6554300718896864,
+        "id": "ea2a9561-b6aa-45e6-a0ae-14f7b58c93ab",
+        "created_at": "2026-11-03T03:30:00.789904+00:00",
+        "updated_at": "2026-11-03T03:30:00.789904+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to animals but wants to visit Nate's home to watch him play with his turtles from a distance",
+        "score": 0.649270293076935,
+        "id": "9f282d80-9026-4e17-b199-d953c53b3d00",
+        "created_at": "2026-11-03T03:32:29.043806+00:00",
+        "updated_at": "2026-11-03T03:32:29.043806+00:00"
+      },
+      {
+        "memory": "Joanna keeps a stuffed animal dog named Tilly, given to her by Nate, which she always has with her while writing because it helps her stay focused and brings her joy.",
+        "score": 0.6335951416041692,
+        "id": "13444e6a-5b9a-4c13-a2d7-fc5002223d4e",
+        "created_at": "2026-11-03T03:23:40.598007+00:00",
+        "updated_at": "2026-11-03T03:23:40.598007+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.6171560332845206,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal toy on a bed with Joanna on May 25, 2022, which she found cute and appreciated the thought behind it.",
+        "score": 0.6149278549227144,
+        "id": "1c254937-9056-4e5b-b147-a3f0fe6d4112",
+        "created_at": "2026-11-03T03:08:09.591902+00:00",
+        "updated_at": "2026-11-03T03:08:09.591902+00:00"
+      },
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over random choices, stating that he usually likes her suggestions much more.",
+        "score": 0.6125474256947294,
+        "id": "bc3427a6-cb5a-44d9-b3c9-9ec69e791478",
+        "created_at": "2026-11-03T03:29:23.397245+00:00",
+        "updated_at": "2026-11-03T03:29:23.397245+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and considers himself knowledgeable about them, stating 'I know all about them' when discussing his pet turtles with Joanna on October 25, 2022.",
+        "score": 0.6124573006273275,
+        "id": "46bceb2c-9d23-4519-935e-595f5eb2de8c",
+        "created_at": "2026-11-03T03:25:33.526756+00:00",
+        "updated_at": "2026-11-03T03:25:33.526756+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal dog toy on a bed with Joanna on May 25, 2022, presenting it as a new pup for her to enjoy",
+        "score": 0.6061515101155135,
+        "id": "3540ef0a-c5ba-4925-9a93-108ad0485374",
+        "created_at": "2026-11-03T03:08:05.847849+00:00",
+        "updated_at": "2026-11-03T03:08:05.847849+00:00"
+      },
+      {
+        "memory": "Nate suggested to Joanna that they should go hiking together sometime, expressing interest in visiting scenic locations like Whispering Falls with her.",
+        "score": 0.6059183942960885,
+        "id": "c5a3a105-aa57-47a8-98af-7db8cf6ba795",
+        "created_at": "2026-11-03T03:06:40.030287+00:00",
+        "updated_at": "2026-11-03T03:06:40.030287+00:00"
+      },
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.6018033198353785,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Nate decided to start writing down his favorite memories with Joanna and things his animals like, inspired by Joanna's habit of keeping a memory notebook",
+        "score": 0.5998748517417993,
+        "id": "77e9d019-bb25-4e42-92ae-549b49518fe7",
+        "created_at": "2026-11-03T03:30:09.376078+00:00",
+        "updated_at": "2026-11-03T03:30:09.376078+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other creators' videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.5955863332159569,
+        "id": "b1a9cab6-c29a-4eed-853a-6c8b9cc6cc5a",
+        "created_at": "2026-11-03T03:31:26.585383+00:00",
+        "updated_at": "2026-11-03T03:31:26.585383+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.5753114328181429,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.4141005426568739,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna is allergic to Nate's pets but expressed interest in visiting his home to watch him play with them from a distance",
+        "score": 0.40347085423622675,
+        "id": "29580a51-374f-4376-abde-ed096fc33b75",
+        "created_at": "2026-11-03T03:31:54.719223+00:00",
+        "updated_at": "2026-11-03T03:31:54.719223+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.4011542945812723,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.3971814632646684,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.3962137149835269,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch him interact with his turtles or to watch one of her movies together, and also suggested going to the park.",
+        "score": 0.39474162406980573,
+        "id": "9b93d949-5bfa-40ce-ba11-e5f86eae59f3",
+        "created_at": "2026-11-03T03:32:14.044906+00:00",
+        "updated_at": "2026-11-03T03:32:14.044906+00:00"
+      }
+    ],
+    "search_latency_ms": 85.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Turtles",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Turtles",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

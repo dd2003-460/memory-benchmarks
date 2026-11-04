@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q130",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is displayed on Joanna's cork board for motivation and creativity?",
+  "ground_truth_answer": "inspiring quotes, photos, and little keepsakes",
+  "evidence": [
+    "D15:7"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is displayed on Joanna's cork board for motivation and creativity?",
+    "search_results": [
+      {
+        "memory": "Joanna maintains a cork board filled with inspiring quotes and pictures that serves as her personal corner of motivation and creativity",
+        "score": 0.7508076959213378,
+        "id": "3720528f-b4a0-4b4e-ad67-f348f4c2b69d",
+        "created_at": "2026-11-03T03:10:19.029652+00:00",
+        "updated_at": "2026-11-03T03:10:19.029652+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board in her room filled with inspiring quotes and pictures that serve as her corner of motivation and creativity",
+        "score": 0.7503008399764963,
+        "id": "dfa7eeb8-ef94-4111-8029-243121cc46d3",
+        "created_at": "2026-11-03T03:10:25.137009+00:00",
+        "updated_at": "2026-11-03T03:10:25.137009+00:00"
+      },
+      {
+        "memory": "Joanna keeps a family photo in a picture frame on her cork board because it reminds her of the love and encouragement from her loved ones every day",
+        "score": 0.6847042343312815,
+        "id": "6a304452-fa6c-4639-9591-44c9346b4be2",
+        "created_at": "2026-11-03T03:10:37.207186+00:00",
+        "updated_at": "2026-11-03T03:10:37.207186+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in starting his own cork board after seeing Joanna's, viewing it as a valuable way to stay motivated and inspired.",
+        "score": 0.6686390913287636,
+        "id": "e94e9c8b-db13-4ae9-a945-de021962d438",
+        "created_at": "2026-11-03T03:10:43.264475+00:00",
+        "updated_at": "2026-11-03T03:10:43.264475+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a picture frame containing a family photo with Nate on June 5, 2022, which she keeps on her cork board among quotes and mementos",
+        "score": 0.614592110216067,
+        "id": "ebb0d797-28d8-4640-977a-66d3c4591b54",
+        "created_at": "2026-11-03T03:10:30.628150+00:00",
+        "updated_at": "2026-11-03T03:10:30.628150+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort in writing and creative projects during tough times and values the support of her friends who understand and appreciate her work",
+        "score": 0.6103793790873655,
+        "id": "17705317-6f07-43a4-a6dd-627bd5cc1966",
+        "created_at": "2026-11-03T03:07:26.496107+00:00",
+        "updated_at": "2026-11-03T03:07:26.496107+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.6069147310934082,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna as a source of encouragement, noting that his own gaming career was built on encouragement from others.",
+        "score": 0.606738533504446,
+        "id": "2cfdf6f4-c8b0-491c-bb88-248885a41c9a",
+        "created_at": "2026-11-03T03:20:27.570976+00:00",
+        "updated_at": "2026-11-03T03:20:27.570976+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope with her current mood.",
+        "score": 0.6019314704076003,
+        "id": "a7098c55-1bfb-44f9-ac4e-194257bfb93f",
+        "created_at": "2026-11-03T03:15:53.709150+00:00",
+        "updated_at": "2026-11-03T03:15:53.709150+00:00"
+      },
+      {
+        "memory": "Joanna considers cooking and baking to be her creative outlets, finding it rewarding to experiment in the kitchen and create delicious dairy-free desserts that make people smile.",
+        "score": 0.6016231051045582,
+        "id": "757290d2-4890-44ef-97a6-8d77b168748b",
+        "created_at": "2026-11-03T03:05:51.314274+00:00",
+        "updated_at": "2026-11-03T03:05:51.314274+00:00"
+      },
+      {
+        "memory": "Joanna finds writing and creative projects therapeutic, using them to get through tough times, and values her supportive friends who understand and appreciate her work.",
+        "score": 0.6006041279193234,
+        "id": "5132c586-0f60-4ad0-a97e-7e08636c2285",
+        "created_at": "2026-11-03T03:07:46.805535+00:00",
+        "updated_at": "2026-11-03T03:07:46.805535+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard drawing with arrows and words for Joanna to use for encouragement, stating that encouragement is what got him so far in his gaming career.",
+        "score": 0.5996549146580403,
+        "id": "a3f4f782-7899-47a0-9885-c8bfad47c1ea",
+        "created_at": "2026-11-03T03:20:10.713436+00:00",
+        "updated_at": "2026-11-03T03:20:10.713436+00:00"
+      },
+      {
+        "memory": "Joanna uses a specific bookshelf filled with books and magazines as her go-to place for writing inspiration, which helps her stay sharp and motivated",
+        "score": 0.5971704074424344,
+        "id": "7a70227a-db72-4276-a3a5-932a24d66ec3",
+        "created_at": "2026-11-03T03:02:02.063324+00:00",
+        "updated_at": "2026-11-03T03:02:02.063324+00:00"
+      },
+      {
+        "memory": "Joanna finds comfort and creativity in tinkering with recipes, using cooking as a way to cope when she is feeling down or in a specific mood.",
+        "score": 0.595152680916083,
+        "id": "04dd58e3-da0c-466e-a5c4-532311b687c4",
+        "created_at": "2026-11-03T03:15:37.921989+00:00",
+        "updated_at": "2026-11-03T03:15:37.921989+00:00"
+      },
+      {
+        "memory": "Joanna considers cooking and baking to be her creative outlets and finds the challenge of making delicious dairy-free desserts rewarding.",
+        "score": 0.5900092351218613,
+        "id": "943ca903-4b8d-4364-b9d2-270ffb0ec742",
+        "created_at": "2026-11-03T03:06:02.495800+00:00",
+        "updated_at": "2026-11-03T03:06:02.495800+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a whiteboard with motivational quotes, arrows, and words with Joanna on October 6, 2022, as a gesture of support for her goals.",
+        "score": 0.5896241896321246,
+        "id": "f6a63be5-6e15-4fdc-bedc-d0a3341799ec",
+        "created_at": "2026-11-03T03:19:49.798536+00:00",
+        "updated_at": "2026-11-03T03:19:49.798536+00:00"
+      },
+      {
+        "memory": "Joanna is working on a screenplay and values Nate's opinion, expressing eagerness to show him the finished work as a way of appreciating his support during the creative process.",
+        "score": 0.5883435255239212,
+        "id": "540a8a1b-1cd5-4da6-b74f-8972270aaad8",
+        "created_at": "2026-11-03T03:08:30.136239+00:00",
+        "updated_at": "2026-11-03T03:08:30.136239+00:00"
+      },
+      {
+        "memory": "Joanna noted that Woodhaven's interesting past and notable people sparked ideas for her next script, highlighting how seeing the town's changes inspired her creative work.",
+        "score": 0.5882256282333722,
+        "id": "ae402aad-20a7-4b13-b992-c184da21db7a",
+        "created_at": "2026-11-03T03:12:12.345787+00:00",
+        "updated_at": "2026-11-03T03:12:12.345787+00:00"
+      },
+      {
+        "memory": "Joanna considers cooking and baking to be her creative outlets, particularly enjoying the rewarding challenge of making dairy-free desserts that are just as delicious as traditional ones.",
+        "score": 0.5869911231284622,
+        "id": "9dddd470-632b-4569-bafb-08d434f93083",
+        "created_at": "2026-11-03T03:05:42.581777+00:00",
+        "updated_at": "2026-11-03T03:05:42.581777+00:00"
+      },
+      {
+        "memory": "Joanna is working on a new suspenseful thriller project set in a small Midwestern town, which she describes as a great creative outlet for her.",
+        "score": 0.5791947508713858,
+        "id": "b6393fff-e1fe-43d2-a73d-619944b48ff1",
+        "created_at": "2026-11-03T03:31:26.574834+00:00",
+        "updated_at": "2026-11-03T03:31:26.574834+00:00"
+      }
+    ],
+    "search_latency_ms": 95.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inspiring quotes and pictures, including a framed family photo with Nate, along with mementos.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key items—inspiring quotes, photos/pictures, and keepsakes/mementos—while adding extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inspiring quotes and pictures, including a framed family photo and mementos.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key items—inspiring quotes, photos/pictures, and keepsakes/mementos—so it is correct."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inspiring quotes and pictures, including a framed family photo and mementos.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key items—inspiring quotes, photos/pictures, and keepsakes/mementos—so it is correct."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Inspiring quotes and pictures, including a framed family photo and mementos.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key items—inspiring quotes, photos/pictures, and keepsakes/mementos—so it is correct."
+    }
+  }
+}

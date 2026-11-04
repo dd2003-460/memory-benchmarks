@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q192",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Joanna take a picture of near Fort Wayne last summer?",
+  "ground_truth_answer": "Sunset",
+  "evidence": [
+    "D28:22"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What did Joanna take a picture of near Fort Wayne last summer?",
+    "search_results": [
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021)",
+        "score": 0.8817758962107339,
+        "id": "b44ab066-a67b-4ab5-b492-c6fb263e917d",
+        "created_at": "2026-11-03T03:31:50.667751+00:00",
+        "updated_at": "2026-11-03T03:31:50.667751+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021)",
+        "score": 0.8817758962107339,
+        "id": "cf73f94f-f2db-465f-a7ff-7dad1c37cc42",
+        "created_at": "2026-11-03T03:31:54.716075+00:00",
+        "updated_at": "2026-11-03T03:31:54.716075+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset in the background during a hike near Fort Wayne last summer (2021).",
+        "score": 0.8616875195428229,
+        "id": "7a4bbf3e-7b63-4142-b6af-51fc04d05dd5",
+        "created_at": "2026-11-03T03:31:42.073667+00:00",
+        "updated_at": "2026-11-03T03:31:42.073667+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset near Fort Wayne during a hike in the summer of 2022, describing the scene as an incredible reminder of nature's beauty.",
+        "score": 0.8587480125813967,
+        "id": "e40f1a4e-4143-4a31-826b-12522eb22266",
+        "created_at": "2026-11-03T03:31:31.219208+00:00",
+        "updated_at": "2026-11-03T03:31:31.219208+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne in the summer of 2022, describing the moment as an awesome reminder of nature's beauty.",
+        "score": 0.8507723414867975,
+        "id": "7e010256-d85a-4d0c-bae1-761b4fb605a6",
+        "created_at": "2026-11-03T03:32:14.033997+00:00",
+        "updated_at": "2026-11-03T03:32:14.033997+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021), describing it as an awesome reminder of nature's beauty.",
+        "score": 0.8467047615072852,
+        "id": "8de1d41c-2e4f-4537-aa7d-903818577207",
+        "created_at": "2026-11-03T03:31:35.183543+00:00",
+        "updated_at": "2026-11-03T03:31:35.183543+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a sunflower in a field with a sunset in the background with Nate on November 9, 2022, noting that she took the picture a while back.",
+        "score": 0.609047166925473,
+        "id": "55370151-4bf0-46ed-8858-f0a8b0de1146",
+        "created_at": "2026-11-03T03:31:26.592632+00:00",
+        "updated_at": "2026-11-03T03:31:26.592632+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a picture frame containing a family photo with Nate on June 5, 2022, which she keeps on her cork board among quotes and mementos",
+        "score": 0.5868697072068934,
+        "id": "ebb0d797-28d8-4640-977a-66d3c4591b54",
+        "created_at": "2026-11-03T03:10:30.628150+00:00",
+        "updated_at": "2026-11-03T03:10:30.628150+00:00"
+      },
+      {
+        "memory": "Joanna owns a framed movie poster and a signed picture from a classic film, which she shared in a photo of her collection.",
+        "score": 0.5850794410410077,
+        "id": "456c30fb-94e2-4758-9a91-cbca427fe792",
+        "created_at": "2026-11-03T03:21:56.387748+00:00",
+        "updated_at": "2026-11-03T03:21:56.387748+00:00"
+      },
+      {
+        "memory": "Joanna keeps a family photo in a picture frame on her cork board because it reminds her of the love and encouragement from her loved ones every day",
+        "score": 0.5812983947189171,
+        "id": "6a304452-fa6c-4639-9591-44c9346b4be2",
+        "created_at": "2026-11-03T03:10:37.207186+00:00",
+        "updated_at": "2026-11-03T03:10:37.207186+00:00"
+      },
+      {
+        "memory": "During the filming of her road-trip movie script, an actor approached Joanna to tell her how much she liked the script, which gave Joanna chills and made her very excited.",
+        "score": 0.358982721353211,
+        "id": "9a10133d-9866-4955-883f-0d52d7c391e7",
+        "created_at": "2026-11-03T03:32:48.344566+00:00",
+        "updated_at": "2026-11-03T03:32:48.344566+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.21281526357007144,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls during her hike on May 12, 2022, where she took a photo of a waterfall with lush greenery and a dark sky background.",
+        "score": 0.21278236297221334,
+        "id": "4c2fea8d-6c93-4169-97ad-362582fcfd7f",
+        "created_at": "2026-11-03T03:06:28.201957+00:00",
+        "updated_at": "2026-11-03T03:06:28.201957+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script, describing the experience as wild and awesome with every day on set full of potential to show her vision.",
+        "score": 0.21153125828354855,
+        "id": "511f96c5-a7be-49cd-ac21-ba27866bc214",
+        "created_at": "2026-11-03T03:32:36.204567+00:00",
+        "updated_at": "2026-11-03T03:32:36.204567+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, and she finds the experience wild and awesome to see her vision come alive on set.",
+        "score": 0.206935400248293,
+        "id": "9cf09c5d-084e-43a8-8f59-36b4fe500888",
+        "created_at": "2026-11-03T03:32:45.253791+00:00",
+        "updated_at": "2026-11-03T03:32:45.253791+00:00"
+      },
+      {
+        "memory": "Joanna described every day on set as awesome and full of potential, expressing that being able to show her vision is a rewarding experience.",
+        "score": 0.20640178813154159,
+        "id": "13a0adc0-bca7-44fe-88bf-7a9cf1f3502b",
+        "created_at": "2026-11-03T03:33:01.267811+00:00",
+        "updated_at": "2026-11-03T03:33:01.267811+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research and inspiration for her next movie, viewing it as a much-needed break to explore new places.",
+        "score": 0.20550007241591284,
+        "id": "ddda09b7-a1b6-4d93-89ce-ca0b1da30e63",
+        "created_at": "2026-11-03T03:12:21.933984+00:00",
+        "updated_at": "2026-11-03T03:12:21.933984+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a waterfall with lush greenery and a dark sky background from her hike on May 12, 2022, noting that the rush of the water was soothing at that spot.",
+        "score": 0.20304535627684897,
+        "id": "331975d3-d9c6-4c7e-a7bc-90793db20496",
+        "created_at": "2026-11-03T03:06:05.208085+00:00",
+        "updated_at": "2026-11-03T03:06:05.208085+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and found more amazing trails, describing the experience as awesome and joking that she is now an expert hiker",
+        "score": 0.20242380446231842,
+        "id": "17f461f1-290d-44fb-ab1b-f40c485f44de",
+        "created_at": "2026-11-03T03:05:58.701156+00:00",
+        "updated_at": "2026-11-03T03:05:58.701156+00:00"
+      },
+      {
+        "memory": "Joanna is currently filming her own movie based on a road-trip script she wrote, describing the experience as wild and awesome to see her vision come alive on set.",
+        "score": 0.20230020917309247,
+        "id": "243e3b33-97ce-4d0d-8a9f-90981ac12d49",
+        "created_at": "2026-11-03T03:32:51.743882+00:00",
+        "updated_at": "2026-11-03T03:32:51.743882+00:00"
+      }
+    ],
+    "search_latency_ms": 67.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sunflower in a field with a sunset in the background.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's key item, a sunset, while adding extra detail."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sunflower in a field with a sunset in the background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key item, a sunset, while adding extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sunflower in a field with a sunset in the background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key item, a sunset, while adding extra detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A sunflower in a field with a sunset in the background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key item, a sunset, while adding extra detail."
+    }
+  }
+}

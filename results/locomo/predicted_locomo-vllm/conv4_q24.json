@@ -1,0 +1,192 @@
+{
+  "question_id": "conv4_q24",
+  "conversation_idx": 4,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "Where was John between August 11 and August 15 2023?",
+  "ground_truth_answer": "Chicago",
+  "evidence": [
+    "D6:1",
+    "D6:3",
+    "D7:1"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Where was John between August 11 and August 15 2023?",
+    "search_results": [
+      {
+        "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
+        "score": 0.7648094348026994,
+        "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
+        "created_at": "2026-11-03T09:10:57.495438+00:00",
+        "updated_at": "2026-11-03T09:10:57.495438+00:00"
+      },
+      {
+        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
+        "score": 0.7180452599960586,
+        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
+        "created_at": "2026-11-03T09:11:10.057566+00:00",
+        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+      },
+      {
+        "memory": "John took a trip to a new place around early August 2023, describing the experience as amazing and noting that he loves the energy there.",
+        "score": 0.7170078240776739,
+        "id": "942f9d4d-ecd2-435d-b081-7ad5aa9554c8",
+        "created_at": "2026-11-03T09:03:22.501097+00:00",
+        "updated_at": "2026-11-03T09:03:22.501097+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
+        "score": 0.715228450646991,
+        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
+        "created_at": "2026-11-03T09:08:04.819221+00:00",
+        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+      },
+      {
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
+        "score": 0.7023078670713632,
+        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
+        "created_at": "2026-11-03T09:08:28.250746+00:00",
+        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+      },
+      {
+        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
+        "score": 0.6981411620345902,
+        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
+        "created_at": "2026-11-03T09:05:48.016894+00:00",
+        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+      },
+      {
+        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
+        "score": 0.6974077999681068,
+        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
+        "created_at": "2026-11-03T09:11:25.265594+00:00",
+        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+      },
+      {
+        "memory": "John's family gets together all the time, and he values these moments as irreplaceable, sharing a photo of his group gathered around a kitchen table during their conversation on August 21, 2023.",
+        "score": 0.6964488332947094,
+        "id": "eafe505a-5932-4276-b04a-548633569e6a",
+        "created_at": "2026-11-03T09:10:08.291305+00:00",
+        "updated_at": "2026-11-03T09:10:08.291305+00:00"
+      },
+      {
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
+        "score": 0.685080207999255,
+        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
+        "created_at": "2026-11-03T09:30:59.620007+00:00",
+        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+      },
+      {
+        "memory": "John has a pair of lucky basketball shoes that have been with him through good and bad times, believing every mark on them has a story, and shared a photo of the sneakers in a box on August 11, 2023.",
+        "score": 0.6818882736660046,
+        "id": "092137e7-b29c-4cd1-87c2-ca469b09b8a0",
+        "created_at": "2026-11-03T09:07:19.354031+00:00",
+        "updated_at": "2026-11-03T09:07:19.354031+00:00"
+      },
+      {
+        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
+        "score": 0.6684183371029286,
+        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
+        "created_at": "2026-11-03T09:08:31.358666+00:00",
+        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6518938390871795,
+        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
+        "created_at": "2026-11-03T09:23:22.655477+00:00",
+        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
+        "score": 0.6378042871296855,
+        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
+        "created_at": "2026-11-03T09:23:36.618818+00:00",
+        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
+        "score": 0.6194005730957934,
+        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
+        "created_at": "2026-11-03T09:33:32.671038+00:00",
+        "updated_at": "2026-11-03T09:33:32.671038+00:00"
+      },
+      {
+        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
+        "score": 0.6159543700914568,
+        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
+        "created_at": "2026-11-03T09:33:56.779906+00:00",
+        "updated_at": "2026-11-03T09:33:56.779906+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John reached a recovery milestone at the gym where he was able to jog without pain for the first time after his injury.",
+        "score": 0.6097987360060072,
+        "id": "ec43659c-dae4-48fe-9413-e0d23051e84e",
+        "created_at": "2026-11-03T09:33:23.063390+00:00",
+        "updated_at": "2026-11-03T09:33:23.063390+00:00"
+      },
+      {
+        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
+        "score": 0.6047262165449401,
+        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
+        "created_at": "2026-11-03T09:34:03.411974+00:00",
+        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
+        "score": 0.6032365869382419,
+        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
+        "created_at": "2026-11-03T09:33:32.675244+00:00",
+        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+      },
+      {
+        "memory": "On December 15, 2023, John reached a rehabilitation milestone at the gym by jogging without pain for the first time since his injury, which he found relieving.",
+        "score": 0.596113430593911,
+        "id": "a3b8b924-e67b-4759-a2b1-8532715ea2d5",
+        "created_at": "2026-11-03T09:33:27.519129+00:00",
+        "updated_at": "2026-11-03T09:33:27.519129+00:00"
+      },
+      {
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
+        "score": 0.5946288184602494,
+        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
+        "created_at": "2026-11-03T09:33:23.067593+00:00",
+        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+      }
+    ],
+    "search_latency_ms": 91.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

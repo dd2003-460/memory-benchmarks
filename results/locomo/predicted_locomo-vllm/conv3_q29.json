@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q29",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When is Joanna going to make Nate's ice cream for her family?",
+  "ground_truth_answer": "The weekend of 24June, 2022.",
+  "evidence": [
+    "D16:11"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When is Joanna going to make Nate's ice cream for her family?",
+    "search_results": [
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family during the weekend of July 9-10, 2022, noting that they love when she makes them new things.",
+        "score": 0.7328348249087171,
+        "id": "1a27a3df-84b2-4fa8-9e64-80a4b5873cfc",
+        "created_at": "2026-11-03T03:11:45.432689+00:00",
+        "updated_at": "2026-11-03T03:11:45.432689+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.7247432134790016,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's place on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes to share desserts",
+        "score": 0.7170752806496441,
+        "id": "a1c53c9c-9fcd-4cf9-8db0-8641bca2b63e",
+        "created_at": "2026-11-03T03:26:58.944032+00:00",
+        "updated_at": "2026-11-03T03:26:58.944032+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.7157922934337392,
+        "id": "71e7a30f-4dd2-4ee5-a0fa-5ed17092602e",
+        "created_at": "2026-11-03T03:26:49.333522+00:00",
+        "updated_at": "2026-11-03T03:26:49.333522+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.7148559885225254,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream after he invited her over.",
+        "score": 0.7079254804539377,
+        "id": "9b7af8ca-5c8e-467a-bcb5-ce8a714d537b",
+        "created_at": "2026-11-03T03:26:44.002052+00:00",
+        "updated_at": "2026-11-03T03:26:44.002052+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan coconut milk ice cream recipe for her family on the weekend of June 25-26, 2022, after he agreed to share it with her.",
+        "score": 0.7073000025819195,
+        "id": "f4cd651e-8dae-4123-a23d-9b18dbaeb1ca",
+        "created_at": "2026-11-03T03:11:28.550012+00:00",
+        "updated_at": "2026-11-03T03:11:28.550012+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to try homemade coconut milk ice cream that he made on November 3, 2022.",
+        "score": 0.7057767491331639,
+        "id": "dc79311b-6df6-41f4-944d-11b20d987f94",
+        "created_at": "2026-11-03T03:26:37.160413+00:00",
+        "updated_at": "2026-11-03T03:26:37.160413+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's home on November 5, 2022, to try the homemade coconut milk ice cream he offered.",
+        "score": 0.7043103029525981,
+        "id": "e180c8a2-697e-4369-b4ef-5190f9173dea",
+        "created_at": "2026-11-03T03:26:46.842540+00:00",
+        "updated_at": "2026-11-03T03:26:46.842540+00:00"
+      },
+      {
+        "memory": "Joanna expressed interest in trying Nate's coconut milk ice cream recipe after he shared a photo of it on September 14, 2022.",
+        "score": 0.6974763514622693,
+        "id": "6687517c-bdea-4ce0-9323-4566bd6d0c9b",
+        "created_at": "2026-11-03T03:17:45.178479+00:00",
+        "updated_at": "2026-11-03T03:17:45.178479+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.697077152587054,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to come over and try his homemade coconut milk ice cream, which he made on November 3, 2022, describing it as super yummy.",
+        "score": 0.6958439550994664,
+        "id": "530e1fa4-e01e-4051-b913-eee0f431a747",
+        "created_at": "2026-11-03T03:26:32.970229+00:00",
+        "updated_at": "2026-11-03T03:26:32.970229+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6885190534730925,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made on June 18, 2022, stating that it sounds like a good recipe",
+        "score": 0.687864104540306,
+        "id": "9823eb82-1792-4f36-a731-e0214b69c7e4",
+        "created_at": "2026-11-03T03:11:19.731297+00:00",
+        "updated_at": "2026-11-03T03:11:19.731297+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant, which is why she requested the dairy-free version of Nate's coconut milk ice cream recipe on April 17, 2022",
+        "score": 0.6875603696998721,
+        "id": "c6d5340b-5bee-48e5-85ae-2ee02474c172",
+        "created_at": "2026-11-03T03:03:54.859509+00:00",
+        "updated_at": "2026-11-03T03:03:54.859509+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe after he agreed to share it with her.",
+        "score": 0.6871019000457973,
+        "id": "2c4a33d4-7d2a-4a0a-8796-ac2ed6da7981",
+        "created_at": "2026-11-03T03:17:57.649222+00:00",
+        "updated_at": "2026-11-03T03:17:57.649222+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's coconut milk ice cream recipe on the evening of April 17, 2022, after he shared the ingredients and method with her.",
+        "score": 0.6845496096472827,
+        "id": "3a4cd69a-d97e-4354-af8c-1a702f1ce362",
+        "created_at": "2026-11-03T03:04:06.445238+00:00",
+        "updated_at": "2026-11-03T03:04:06.445238+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.6805747852128126,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      },
+      {
+        "memory": "Joanna expressed that she loves Nate's coconut milk ice cream and finds it delicious.",
+        "score": 0.6704725968561588,
+        "id": "3ff330e0-2c83-4f38-a56c-3198057b9e51",
+        "created_at": "2026-11-03T03:13:32.633641+00:00",
+        "updated_at": "2026-11-03T03:13:32.633641+00:00"
+      },
+      {
+        "memory": "Nate made homemade coconut milk ice cream on November 3, 2022, which is lactose-free, and invited Joanna to come over on November 5, 2022 to try it.",
+        "score": 0.6624294612568546,
+        "id": "b0cbf5c9-d841-46e9-99fb-7ae73796890f",
+        "created_at": "2026-11-03T03:26:54.969437+00:00",
+        "updated_at": "2026-11-03T03:26:54.969437+00:00"
+      }
+    ],
+    "search_latency_ms": 80.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the weekend of June 25-26, 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies the weekend of June 25-26, 2022, which falls within the 14-day tolerance window of the gold answer's date (June 24, 2022) and correctly identifies the same time period."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the weekend of June 25-26, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies the weekend of June 25-26, 2022, which falls within the 14-day tolerance window of the gold answer's date (June 24, 2022) and correctly identifies the same time period."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the weekend of June 25-26, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies the weekend of June 25-26, 2022, which falls within the 14-day tolerance window of the gold answer's date (June 24, 2022) and correctly identifies the same time period."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the weekend of June 25-26, 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies the weekend of June 25-26, 2022, which falls within the 14-day tolerance window of the gold answer's date (June 24, 2022) and correctly identifies the same time period."
+    }
+  }
+}

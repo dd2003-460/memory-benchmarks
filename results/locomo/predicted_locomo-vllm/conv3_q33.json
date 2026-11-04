@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q33",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did someone write Joanna a touching letter?",
+  "ground_truth_answer": "The week before 14August, 2022.",
+  "evidence": [
+    "D18:5"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did someone write Joanna a touching letter?",
+    "search_results": [
+      {
+        "memory": "Joanna is a screenwriter who finished writing the introduction to her next movie script, which features a handwritten letter from a young man that she decided to include at the beginning.",
+        "score": 0.7828937175442957,
+        "id": "a5619cb5-e60c-4d3d-9585-6e0592195d14",
+        "created_at": "2026-11-03T03:29:43.834928+00:00",
+        "updated_at": "2026-11-03T03:29:43.834928+00:00"
+      },
+      {
+        "memory": "Joanna included a handwritten letter from her childhood in the introduction of her next movie script, which was originally written by her brother.",
+        "score": 0.7641883272964245,
+        "id": "e91d8714-96e4-46d5-a7a8-a582eb62a0e9",
+        "created_at": "2026-11-03T03:29:33.489615+00:00",
+        "updated_at": "2026-11-03T03:29:33.489615+00:00"
+      },
+      {
+        "memory": "Joanna recently finished writing the intro to her next movie script and decided to include a handwritten letter from a young man at the beginning",
+        "score": 0.7593305458241659,
+        "id": "24ef12cb-bbcb-4ae7-89e3-0714f2746185",
+        "created_at": "2026-11-03T03:29:49.167219+00:00",
+        "updated_at": "2026-11-03T03:29:49.167219+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of it.",
+        "score": 0.7505121698373698,
+        "id": "81af8359-44cc-450b-9cd7-0a9a0fedb3ae",
+        "created_at": "2026-11-03T03:29:57.302915+00:00",
+        "updated_at": "2026-11-03T03:29:57.302915+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of the film.",
+        "score": 0.7501933344139339,
+        "id": "9bea47dc-752d-45b0-a690-008dbf67b43f",
+        "created_at": "2026-11-03T03:29:28.415084+00:00",
+        "updated_at": "2026-11-03T03:29:28.415084+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.6947727859199788,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna received a letter around August 7, 2022 from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing and its power to help others.",
+        "score": 0.6896321981047812,
+        "id": "8d96dfe2-b46f-4316-a791-aca891a241d7",
+        "created_at": "2026-11-03T03:13:10.254340+00:00",
+        "updated_at": "2026-11-03T03:13:10.254340+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.679210702409994,
+        "id": "22b2d9c8-d7ea-4b98-b792-d7f787fc6872",
+        "created_at": "2026-11-03T03:13:32.627497+00:00",
+        "updated_at": "2026-11-03T03:13:32.627497+00:00"
+      },
+      {
+        "memory": "In early August 2022, Joanna received a letter from a reader who was comforted by an online blog post she wrote about a hard moment in her life, which reinforced her love for writing.",
+        "score": 0.6789075430222773,
+        "id": "9e50da78-fd10-426c-a49c-f6dc3a5c9a88",
+        "created_at": "2026-11-03T03:13:20.717209+00:00",
+        "updated_at": "2026-11-03T03:13:20.717209+00:00"
+      },
+      {
+        "memory": "In the week prior to August 14, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a hard moment in her life, which reinforced her love for writing and its impact.",
+        "score": 0.6713293549837316,
+        "id": "0e337284-9d98-4bc5-9ee4-d10c8d38272a",
+        "created_at": "2026-11-03T03:13:36.345095+00:00",
+        "updated_at": "2026-11-03T03:13:36.345095+00:00"
+      },
+      {
+        "memory": "In the week of August 7-13, 2022, Joanna received a letter from a reader who was comforted by her online blog post about a difficult time, which reinforced her motivation to continue writing.",
+        "score": 0.6592864002501371,
+        "id": "6078c5e1-ea33-4bef-86dc-d72966a7251a",
+        "created_at": "2026-11-03T03:13:40.685892+00:00",
+        "updated_at": "2026-11-03T03:13:40.685892+00:00"
+      },
+      {
+        "memory": "Joanna received a generic rejection letter from a major company for her screenplay around June 3, 2022, which she found disheartening due to the lack of specific feedback, though she resolved not to let it bring her down",
+        "score": 0.6275233897032865,
+        "id": "ada8d9d7-a05b-40cd-b0f6-30d3a159dc28",
+        "created_at": "2026-11-03T03:08:56.357278+00:00",
+        "updated_at": "2026-11-03T03:08:56.357278+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her screenplay and subsequently received a generic rejection letter from a major company without specific feedback, which she found disheartening and discouraging.",
+        "score": 0.6112618619248229,
+        "id": "9af786ad-da2b-46c8-9173-fb3497effaef",
+        "created_at": "2026-11-03T03:08:53.549468+00:00",
+        "updated_at": "2026-11-03T03:08:53.549468+00:00"
+      },
+      {
+        "memory": "Joanna received a rejection letter from a major company after finishing her screenplay, which significantly discouraged her and made the creative process feel like a step back.",
+        "score": 0.6032404121198158,
+        "id": "a09f6021-3df4-4273-b163-0408b1b4d90f",
+        "created_at": "2026-11-03T03:08:46.267184+00:00",
+        "updated_at": "2026-11-03T03:08:46.267184+00:00"
+      },
+      {
+        "memory": "Joanna describes writing as an escape and a way to express her feelings, noting that it allows her to put thoughts down and create something positive, and she believes words have a magical way of healing.",
+        "score": 0.5853342542212877,
+        "id": "bdb48122-d007-4830-aa27-f61d2aa2ef09",
+        "created_at": "2026-11-03T03:13:05.480399+00:00",
+        "updated_at": "2026-11-03T03:13:05.480399+00:00"
+      },
+      {
+        "memory": "Joanna started writing down some of her favorite memories in a notebook",
+        "score": 0.5797689639610224,
+        "id": "763335d9-b034-4850-824c-46ac941286c5",
+        "created_at": "2026-11-03T03:29:49.169408+00:00",
+        "updated_at": "2026-11-03T03:29:49.169408+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.5792770487110201,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna is deeply engaged in writing projects, describing the experience as a mix of highs and lows where her journal serves as a rock and writing has become a huge part of her identity.",
+        "score": 0.5775468518268132,
+        "id": "385e56e5-6c8e-4571-b05c-f1ed0f9f1415",
+        "created_at": "2026-11-03T03:13:36.335601+00:00",
+        "updated_at": "2026-11-03T03:13:36.335601+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.5729627497811511,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around late October 2022, which she described as a cool experience to see how far she has come in her writing journey.",
+        "score": 0.5695515406378623,
+        "id": "53b1b29e-7ba8-4514-a458-600b41eaef36",
+        "created_at": "2026-11-03T03:25:55.687911+00:00",
+        "updated_at": "2026-11-03T03:25:55.687911+00:00"
+      }
+    ],
+    "search_latency_ms": 81.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 7, 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated date, around August 7, 2022, falls within the week before August 14, 2022, matching the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 7, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated date, around August 7, 2022, falls within the week before August 14, 2022, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 7, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated date, around August 7, 2022, falls within the week before August 14, 2022, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Around August 7, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated date, around August 7, 2022, falls within the week before August 14, 2022, matching the gold answer."
+    }
+  }
+}

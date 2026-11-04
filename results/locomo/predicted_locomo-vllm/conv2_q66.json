@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q66",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What sparked John's interest in improving education and infrastructure in the community?",
+  "ground_truth_answer": "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up.",
+  "evidence": [
+    "D1:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What sparked John's interest in improving education and infrastructure in the community?",
+    "search_results": [
+      {
+        "memory": "John is particularly interested in improving education and infrastructure within his community as specific areas for his future work in policymaking.",
+        "score": 0.7236986103576365,
+        "id": "1a5d3c06-c997-4f79-bf03-6542432b3d3d",
+        "created_at": "2026-11-03T00:24:07.566594+00:00",
+        "updated_at": "2026-11-03T00:24:07.566594+00:00"
+      },
+      {
+        "memory": "John believes that education and infrastructure are crucial in shaping communities, noting that their lack can stunt growth in neighborhoods, which drives him to take action to improve them.",
+        "score": 0.7227592897805221,
+        "id": "f0fd63d5-df85-4ac5-b07e-9944cda9b4fd",
+        "created_at": "2026-11-03T00:39:40.562758+00:00",
+        "updated_at": "2026-11-03T00:39:40.562758+00:00"
+      },
+      {
+        "memory": "John believes that education and infrastructure are crucial in shaping communities, noting that their lack can stunt growth in neighborhoods, which drives him to take action to improve them.",
+        "score": 0.7227592897805221,
+        "id": "27e78f6b-f3b4-4099-9206-eea5d5930a63",
+        "created_at": "2026-11-03T00:39:45.011239+00:00",
+        "updated_at": "2026-11-03T00:39:45.011239+00:00"
+      },
+      {
+        "memory": "John focuses on education reform and infrastructure development as key policies for a thriving community, aiming to get conversations going and involve people by sharing ideas and taking action.",
+        "score": 0.7195372535761863,
+        "id": "315d5eda-7399-4d8d-ab55-60b1bc44b750",
+        "created_at": "2026-11-03T00:27:34.292068+00:00",
+        "updated_at": "2026-11-03T00:27:34.292068+00:00"
+      },
+      {
+        "memory": "John believes that education and infrastructure play a crucial role in shaping communities, noting that their lack can stunt neighborhood growth, which drives him to take proactive steps to make a positive difference.",
+        "score": 0.7067955437270843,
+        "id": "e5d85193-1a5e-4afe-a1bd-78c86305c798",
+        "created_at": "2026-11-03T00:39:53.003568+00:00",
+        "updated_at": "2026-11-03T00:39:53.003568+00:00"
+      },
+      {
+        "memory": "John is currently focusing his political blogging on education reform and infrastructure development, believing that good access to quality education and updated infrastructure are key to a thriving community.",
+        "score": 0.6937949567802683,
+        "id": "96f1bfee-baf6-4439-a40d-c5d61813f1cd",
+        "created_at": "2026-11-03T00:27:11.431386+00:00",
+        "updated_at": "2026-11-03T00:27:11.431386+00:00"
+      },
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.6888382000374539,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John's participation in community meetings and local involvement has deepened his understanding of the specific challenges facing education and infrastructure systems, highlighting the direct impact these issues have on neighbors and reinforcing his belief in the need for collaborative solutions.",
+        "score": 0.684756706168114,
+        "id": "76b68640-b874-4209-882c-fe4b9af390e5",
+        "created_at": "2026-11-03T00:24:15.562361+00:00",
+        "updated_at": "2026-11-03T00:24:15.562361+00:00"
+      },
+      {
+        "memory": "John reflects on how education and infrastructure shape communities, feeling sad that their lack can stunt neighborhood growth but driven to take action to improve them.",
+        "score": 0.6768683201728546,
+        "id": "9de7fff0-77d6-4a1e-ad75-0df0816e255e",
+        "created_at": "2026-11-03T00:39:28.700826+00:00",
+        "updated_at": "2026-11-03T00:39:28.700826+00:00"
+      },
+      {
+        "memory": "John has been blogging about politics and the government since their last conversation, finding the experience satisfying and driven by a desire to make a real impact on issues like education and infrastructure.",
+        "score": 0.654176163461984,
+        "id": "a5253421-11a5-4753-b2c5-a720cefcb00a",
+        "created_at": "2026-11-03T00:27:00.171005+00:00",
+        "updated_at": "2026-11-03T00:27:00.171005+00:00"
+      },
+      {
+        "memory": "John has received positive feedback on his political blog posts, which he views as a small but meaningful step toward making an impact on community issues like education and infrastructure.",
+        "score": 0.652143816459126,
+        "id": "4d88bc6e-ad4e-4dc0-865f-83743bac7ffa",
+        "created_at": "2026-11-03T00:27:18.417988+00:00",
+        "updated_at": "2026-11-03T00:27:18.417988+00:00"
+      },
+      {
+        "memory": "John is working on a community project focused on infrastructure to gain neighborhood backing, and he specifically wants to improve his old area, West County.",
+        "score": 0.6383075007483244,
+        "id": "b2daa2a3-5c1c-49d6-a5ae-602efcf552f2",
+        "created_at": "2026-11-03T00:30:09.657421+00:00",
+        "updated_at": "2026-11-03T00:30:09.657421+00:00"
+      },
+      {
+        "memory": "John wants to work on improving his old area, West County, in addition to his current neighborhood infrastructure efforts.",
+        "score": 0.6375075373456406,
+        "id": "6d111225-063a-48fb-a38e-abfb2f43a692",
+        "created_at": "2026-11-03T00:29:56.295020+00:00",
+        "updated_at": "2026-11-03T00:29:56.295020+00:00"
+      },
+      {
+        "memory": "John wants to work on improving his old area, West County, in addition to his current neighborhood infrastructure efforts.",
+        "score": 0.6375075373456406,
+        "id": "959e2e8d-c393-423f-a731-ed756b17f66a",
+        "created_at": "2026-11-03T00:29:58.462506+00:00",
+        "updated_at": "2026-11-03T00:29:58.462506+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a nasty flood around July 1-3, 2023, where poor infrastructure led to many homes being ruined, prompting him to focus on community improvements",
+        "score": 0.6349826258802025,
+        "id": "98e9c398-8de0-4e2c-bcc5-c52a9bc79e24",
+        "created_at": "2026-11-03T00:40:54.963901+00:00",
+        "updated_at": "2026-11-03T00:40:54.963901+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around July 1-3, 2023, causing significant damage to homes due to poor infrastructure, which motivated him to advocate for community improvements.",
+        "score": 0.6152917732317178,
+        "id": "b2156975-f39e-4f6a-a9df-9d422f0058a6",
+        "created_at": "2026-11-03T00:40:33.180125+00:00",
+        "updated_at": "2026-11-03T00:40:33.180125+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around April 29, 2023, which led him to realize the importance of upgrading local infrastructure to ensure stable services for the community.",
+        "score": 0.6013286425830264,
+        "id": "10b39278-b76e-4e1d-947c-34b48060d141",
+        "created_at": "2026-11-03T00:29:40.944425+00:00",
+        "updated_at": "2026-11-03T00:29:40.944425+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.592252313973322,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and reinforced his belief that community infrastructure needs fixing.",
+        "score": 0.5915404791852923,
+        "id": "1a0494fe-133c-4f0d-ad68-a0b5d7ac47bc",
+        "created_at": "2026-11-03T00:41:23.241365+00:00",
+        "updated_at": "2026-11-03T00:41:23.241365+00:00"
+      },
+      {
+        "memory": "John mentors students in a program where he observed significant improvements in their confidence and skills, including a proud moment when a student excitedly showed him an essay in early August 2023.",
+        "score": 0.5740839173966791,
+        "id": "e64512c5-6f38-4013-b317-04eaca5b15df",
+        "created_at": "2026-11-03T00:48:54.959574+00:00",
+        "updated_at": "2026-11-03T00:48:54.959574+00:00"
+      }
+    ],
+    "search_latency_ms": 83.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s interest was sparked by his participation in community meetings and local involvement, which showed him the specific challenges facing education and infrastructure and their direct impact on neighbors, driving him to take action to improve them.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the same core idea that John recognized education and infrastructure problems affecting his community/neighbors, even though it frames the spark as community meetings rather than childhood observation."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s interest was sparked by his participation in community meetings and local involvement, which showed him how education and infrastructure challenges directly affect neighbors; the power cut and flood in his area further reinforced the need to improve infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core idea that education and infrastructure challenges affecting the local community sparked John's interest, even though it adds different details."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s interest was sparked by his participation in community meetings and local involvement, which showed him how education and infrastructure challenges directly affect neighbors; the power cut and flood in his area further reinforced the need to improve infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core idea that education and infrastructure challenges affecting the local community sparked John's interest, even though it adds different details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s interest was sparked by his participation in community meetings and local involvement, which showed him how education and infrastructure challenges directly affect neighbors; the power cut and flood in his area further reinforced the need to improve infrastructure.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the core idea that education and infrastructure challenges affecting the local community sparked John's interest, even though it adds different details."
+    }
+  }
+}

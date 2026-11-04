@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q50",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What is something Nate gave to Joanna that brings her a lot of joy?",
+  "ground_truth_answer": "stuffed toy pup",
+  "evidence": [
+    "D13:9",
+    "D24:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is something Nate gave to Joanna that brings her a lot of joy?",
+    "search_results": [
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.7496325657941691,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.6553492298471635,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.650103146085898,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for a cooking or baking session on September 5, 2022, stating that the activity brings them together, and shared a photo of a pile of cookies with sprinkles on a wooden table.",
+        "score": 0.6383489895588442,
+        "id": "83384277-b63a-47bc-9f60-1772d1ced054",
+        "created_at": "2026-11-03T03:16:08.952067+00:00",
+        "updated_at": "2026-11-03T03:16:08.952067+00:00"
+      },
+      {
+        "memory": "Joanna keeps a stuffed animal dog named Tilly, given to her by Nate, which she always has with her while writing because it helps her stay focused and brings her joy.",
+        "score": 0.6217041892120029,
+        "id": "13444e6a-5b9a-4c13-a2d7-fc5002223d4e",
+        "created_at": "2026-11-03T03:23:40.598007+00:00",
+        "updated_at": "2026-11-03T03:23:40.598007+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.6200225818661707,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6197254549123759,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.6183070210286824,
+        "id": "71e7a30f-4dd2-4ee5-a0fa-5ed17092602e",
+        "created_at": "2026-11-03T03:26:49.333522+00:00",
+        "updated_at": "2026-11-03T03:26:49.333522+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's place on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes to share desserts",
+        "score": 0.6180460592175583,
+        "id": "a1c53c9c-9fcd-4cf9-8db0-8641bca2b63e",
+        "created_at": "2026-11-03T03:26:58.944032+00:00",
+        "updated_at": "2026-11-03T03:26:58.944032+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.6154933214227316,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.4228193266338122,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.27969680017166604,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna's third completed screenplay, shared with Nate on May 20, 2022, is a personal story about loss, identity, and connection that she had been holding onto for ages but finally found the courage to write.",
+        "score": 0.26479255075496766,
+        "id": "d06355ff-424f-4a74-a51f-60977ae02a02",
+        "created_at": "2026-11-03T03:07:33.475009+00:00",
+        "updated_at": "2026-11-03T03:07:33.475009+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to have faith in himself and continue following his writing dreams, noting that the process is tough but worth it",
+        "score": 0.2630500531387344,
+        "id": "a8f1c443-1143-4049-b7ae-ad2088da6658",
+        "created_at": "2026-11-03T03:02:04.840287+00:00",
+        "updated_at": "2026-11-03T03:02:04.840287+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.2611796926803411,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Joanna finds competitive games difficult to play when opponents get upset over every move, but appreciated that Nate's group was chill despite competing",
+        "score": 0.2600183291335393,
+        "id": "d08ed682-28a4-45a6-8786-2024b37c6767",
+        "created_at": "2026-11-03T03:21:24.589671+00:00",
+        "updated_at": "2026-11-03T03:21:24.589671+00:00"
+      },
+      {
+        "memory": "Joanna is excited about her new script inspired by Woodhaven, noting that it is different from her previous work but has the potential to be something awesome, and she plans to keep Nate posted on its progress.",
+        "score": 0.25988289578199675,
+        "id": "6a3dd29d-e443-4bd7-babb-0d73959dc896",
+        "created_at": "2026-11-03T03:12:17.134694+00:00",
+        "updated_at": "2026-11-03T03:12:17.134694+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.25985077239889176,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.2597623486281285,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a whiteboard with motivational quotes, arrows, and words with Joanna on October 6, 2022, as a gesture of support for her goals.",
+        "score": 0.2577731154748283,
+        "id": "f6a63be5-6e15-4fdc-bedc-d0a3341799ec",
+        "created_at": "2026-11-03T03:19:49.798536+00:00",
+        "updated_at": "2026-11-03T03:19:49.798536+00:00"
+      }
+    ],
+    "search_latency_ms": 94.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A stuffed animal dog named Tilly.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the same core item as the gold answer, a stuffed animal dog/pup, with an added name."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A stuffed animal dog named Tilly.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core item as the gold answer, a stuffed animal dog/pup, with an added name."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A stuffed animal dog named Tilly.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core item as the gold answer, a stuffed animal dog/pup, with an added name."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A stuffed animal dog named Tilly.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies the same core item as the gold answer, a stuffed animal dog/pup, with an added name."
+    }
+  }
+}

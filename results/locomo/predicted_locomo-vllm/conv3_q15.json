@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q15",
+  "conversation_idx": 3,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Nate get purple hair?",
+  "ground_truth_answer": "The week before 15April, 2022.",
+  "evidence": [
+    "D7:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate get purple hair?",
+    "search_results": [
+      {
+        "memory": "Nate chose to dye his hair purple because he wanted a bright and bold color that stands out from regular options, describing the choice as reflecting his personality",
+        "score": 0.8823026136804281,
+        "id": "07dff758-1845-491a-9d35-b205acddd619",
+        "created_at": "2026-11-03T03:02:39.371472+00:00",
+        "updated_at": "2026-11-03T03:02:39.371472+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair purple and wears glasses, as shown in a selfie he shared with Joanna on April 15, 2022, expressing excitement about the new look",
+        "score": 0.8794149013817882,
+        "id": "46391202-8abf-4d04-a213-5d71c46e5e93",
+        "created_at": "2026-11-03T03:02:24.950652+00:00",
+        "updated_at": "2026-11-03T03:02:24.950652+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his purple and blue controller with a star field design on June 3, 2022, after mentioning that players from the regional tournament he won wanted to hang out with him.",
+        "score": 0.7299494115635665,
+        "id": "44bcf9bc-8d91-4529-a926-7132e8ce543f",
+        "created_at": "2026-11-03T03:09:12.760827+00:00",
+        "updated_at": "2026-11-03T03:09:12.760827+00:00"
+      },
+      {
+        "memory": "After winning the tournament around June 3, 2022, Nate spoke with other participants who expressed interest in hanging out later, and he shared a photo of a purple and blue controller with a star field design.",
+        "score": 0.7264750570411881,
+        "id": "913ba860-997e-4a34-a4ae-c6c2c9a5ec0d",
+        "created_at": "2026-11-03T03:09:16.502293+00:00",
+        "updated_at": "2026-11-03T03:09:16.502293+00:00"
+      },
+      {
+        "memory": "After the tournament, Nate connected with other players who wanted to hang out later; he shared a photo of a purple and blue controller with a star field design and agreed to give them tips on improving their game.",
+        "score": 0.710625025953284,
+        "id": "42f39390-bd5a-40ef-a967-42224d199eca",
+        "created_at": "2026-11-03T03:09:29.931148+00:00",
+        "updated_at": "2026-11-03T03:09:29.931148+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a purple and blue controller with a star field design after mentioning that players from the tournament wanted to hang out later.",
+        "score": 0.6989108589970557,
+        "id": "5a7db6f2-8b53-414f-89f9-a1e121945d53",
+        "created_at": "2026-11-03T03:09:24.254588+00:00",
+        "updated_at": "2026-11-03T03:09:24.254588+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.6490130707970378,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.29664251791858376,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.29467270428204906,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.2911450059184434,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.2907094355844769,
+        "id": "4d4764a1-758e-4f92-b3cd-fdc605eb5ffe",
+        "created_at": "2026-11-03T03:23:40.604662+00:00",
+        "updated_at": "2026-11-03T03:23:40.604662+00:00"
+      },
+      {
+        "memory": "Nate was practicing for his next video game tournament around October 21, 2022.",
+        "score": 0.2907094355844769,
+        "id": "6316c181-ace8-4b48-abf8-ab0127c9c68e",
+        "created_at": "2026-11-03T03:24:03.972447+00:00",
+        "updated_at": "2026-11-03T03:24:03.972447+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.2880642921702462,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.2855732838671506,
+        "id": "db581681-c9fe-43e6-bed8-0ae2d0d7a53a",
+        "created_at": "2026-11-03T03:11:22.968659+00:00",
+        "updated_at": "2026-11-03T03:11:22.968659+00:00"
+      },
+      {
+        "memory": "Nate did not make it to the finals in his recent game tournament but remains positive about competing again next time.",
+        "score": 0.28149376006363486,
+        "id": "fedb6665-18b8-4a74-9c46-bee8c6effe9b",
+        "created_at": "2026-11-03T03:30:37.345239+00:00",
+        "updated_at": "2026-11-03T03:30:37.345239+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.27942718612326034,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets",
+        "score": 0.277233390813007,
+        "id": "e0393ced-a07a-4c03-bd21-093d3754d8ac",
+        "created_at": "2026-11-03T03:14:40.193337+00:00",
+        "updated_at": "2026-11-03T03:14:40.193337+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.20868489775928656,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles and shared a photo of the setup with Joanna on August 22, 2022, expressing pride in his hard work paying off.",
+        "score": 0.19991405622212655,
+        "id": "32b648df-82b0-45bc-b7d0-af9c2ec9d67a",
+        "created_at": "2026-11-03T03:13:55.812100+00:00",
+        "updated_at": "2026-11-03T03:13:55.812100+00:00"
+      },
+      {
+        "memory": "Nate participated in a game tournament that was pushed back, during which he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.19983257249270697,
+        "id": "e09485e3-7687-4a5a-8bd5-f8e635366795",
+        "created_at": "2026-11-03T03:30:17.364371+00:00",
+        "updated_at": "2026-11-03T03:30:17.364371+00:00"
+      }
+    ],
+    "search_latency_ms": 48.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The week preceding April 15, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer is a direct paraphrase of the gold answer, specifying the same week before April 15, 2022."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "In the week preceding April 15, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is a direct paraphrase of the gold answer, specifying the week before April 15, 2022."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "In the week before April 15, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's date exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate got purple hair in the week preceding April 15, 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer is a direct paraphrase of the gold answer, specifying the week before April 15, 2022."
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "question_id": "conv3_q80",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many tournaments has Nate won?",
+  "ground_truth_answer": "seven",
+  "evidence": [
+    "D1:3",
+    "D10:4",
+    "D14:8",
+    "D17:1",
+    "D19:1",
+    "D22:2",
+    "D27:1"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How many tournaments has Nate won?",
+    "search_results": [
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, which was held online. He described the victory as indescribable and expressed pride in making money doing what he loves.",
+        "score": 0.7063864781756691,
+        "id": "a2ebf346-b839-4676-bfce-8af36f7c1164",
+        "created_at": "2026-11-03T03:12:02.418021+00:00",
+        "updated_at": "2026-11-03T03:12:02.418021+00:00"
+      },
+      {
+        "memory": "Nate won a gaming tournament, which he described as a huge confidence boost and proof that his hard work paid off. He has been participating in tournaments for several years.",
+        "score": 0.7035360085385638,
+        "id": "abe063a5-403e-4f01-bfd7-2509e2110dce",
+        "created_at": "2026-11-03T03:09:29.925759+00:00",
+        "updated_at": "2026-11-03T03:09:29.925759+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.7009551819508242,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on Friday, July 8, 2022, noting that the competition was online and he is proud to make money doing what he loves.",
+        "score": 0.6996598091203517,
+        "id": "33a16bfd-50d9-49b7-875f-3f18c1fcb47e",
+        "created_at": "2026-11-03T03:11:55.369946+00:00",
+        "updated_at": "2026-11-03T03:11:55.369946+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament in the week preceding May 2, 2022, which was a surprise to him as he had not expected to win.",
+        "score": 0.6962099802218483,
+        "id": "5f18b5ab-6b00-46a3-84ab-cfd663244a1b",
+        "created_at": "2026-11-03T03:05:21.773572+00:00",
+        "updated_at": "2026-11-03T03:05:21.773572+00:00"
+      },
+      {
+        "memory": "Nate won his second video game tournament in the week preceding May 2, 2022, and has been focusing on gaming by practicing a lot and winning multiple tournaments",
+        "score": 0.6936585052600777,
+        "id": "aff8e43d-1325-4c99-8794-574d86a19d7e",
+        "created_at": "2026-11-03T03:05:10.673224+00:00",
+        "updated_at": "2026-11-03T03:05:10.673224+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, describing the victory as indescribable and expressing pride in making money doing what he loves.",
+        "score": 0.6895239693172299,
+        "id": "f1df5fbb-011a-4010-bee9-cbbb60825bc2",
+        "created_at": "2026-11-03T03:12:21.929702+00:00",
+        "updated_at": "2026-11-03T03:12:21.929702+00:00"
+      },
+      {
+        "memory": "Nate won an international gaming tournament on August 21, 2022, which he described as a wild success that allows him to make a living at his passion for gaming.",
+        "score": 0.686999242238636,
+        "id": "6b9d6a50-5f40-4070-82bb-2232ece263b2",
+        "created_at": "2026-11-03T03:14:15.508117+00:00",
+        "updated_at": "2026-11-03T03:14:15.508117+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.6867386279035258,
+        "id": "c82160f0-407f-4b00-93d3-b93922b6fee7",
+        "created_at": "2026-11-03T03:28:17.698945+00:00",
+        "updated_at": "2026-11-03T03:28:17.698945+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.6867386279035258,
+        "id": "ac212d91-75c0-4723-baa1-754e98f5460b",
+        "created_at": "2026-11-03T03:28:06.176773+00:00",
+        "updated_at": "2026-11-03T03:28:06.176773+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.6867386279035258,
+        "id": "fe437e3a-97cb-49dd-b3b9-a15a828639dd",
+        "created_at": "2026-11-03T03:27:06.435052+00:00",
+        "updated_at": "2026-11-03T03:27:06.435052+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.6867386279035258,
+        "id": "a33ac962-df1f-419a-a98f-7f9d2179a584",
+        "created_at": "2026-11-03T03:27:09.990516+00:00",
+        "updated_at": "2026-11-03T03:27:09.990516+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him.",
+        "score": 0.6867386279035258,
+        "id": "6c69e063-4e3b-481d-b9e4-688994817f99",
+        "created_at": "2026-11-03T03:27:26.264423+00:00",
+        "updated_at": "2026-11-03T03:27:26.264423+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament in the week preceding June 3, 2022, describing the victory as a huge confidence boost that validated his hard work and allowed him to meet new people.",
+        "score": 0.6867255581389269,
+        "id": "1f222f62-c291-4d10-aacf-2e1def25d55c",
+        "created_at": "2026-11-03T03:09:16.496939+00:00",
+        "updated_at": "2026-11-03T03:09:16.496939+00:00"
+      },
+      {
+        "memory": "Nate won the final of a big Valorant tournament on November 5, 2022, and described it as the best feeling to see his name as champion, noting that tournaments bring out strong emotions in him.",
+        "score": 0.6849057157524567,
+        "id": "4d4f798a-09ca-4a5c-b46d-ab0ca4713934",
+        "created_at": "2026-11-03T03:27:13.238736+00:00",
+        "updated_at": "2026-11-03T03:27:13.238736+00:00"
+      },
+      {
+        "memory": "Nate won a major video game tournament the week of September 26, 2022, earning a significant cash prize that he has saved but does not have specific plans to spend, as he is content with his current lifestyle.",
+        "score": 0.6843066486035861,
+        "id": "ab4d3b21-ac5d-420d-95db-58b132e4b982",
+        "created_at": "2026-11-03T03:19:28.905533+00:00",
+        "updated_at": "2026-11-03T03:19:28.905533+00:00"
+      },
+      {
+        "memory": "Nate won a large video game tournament around September 29, 2022, earning a significant cash prize that he has saved but does not have specific plans to spend it on.",
+        "score": 0.6838980743513978,
+        "id": "b1bb787c-6506-4928-a60d-3cf3d536b51f",
+        "created_at": "2026-11-03T03:19:34.218174+00:00",
+        "updated_at": "2026-11-03T03:19:34.218174+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament online on July 8, 2022, expressing pride in making money from his passion and describing the victory as indescribable.",
+        "score": 0.6838559881818843,
+        "id": "6856bad4-ab0b-4c4e-9df5-b90bd0a7be49",
+        "created_at": "2026-11-03T03:12:12.320908+00:00",
+        "updated_at": "2026-11-03T03:12:12.320908+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament the week of April 25, 2022, and has been focusing on practicing a lot to improve his skills.",
+        "score": 0.6832025938951806,
+        "id": "a49e0c06-9b65-4291-8d4c-58082b3c3714",
+        "created_at": "2026-11-03T03:05:15.625525+00:00",
+        "updated_at": "2026-11-03T03:05:15.625525+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament around May 27, 2022, which he described as a huge confidence boost and proof that his hard work paid off.",
+        "score": 0.6818891954463628,
+        "id": "b50e3ae5-7447-4837-a59f-ce3122d996f7",
+        "created_at": "2026-11-03T03:09:24.246996+00:00",
+        "updated_at": "2026-11-03T03:09:24.246996+00:00"
+      }
+    ],
+    "search_latency_ms": 160.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "6",
+      "memories_evaluated": 10,
+      "reason": "The generated answer states 6, which does not match the gold answer of seven and does not fall within the tolerance for numerical counts."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '7' is the numerical equivalent of the gold answer 'seven', representing the exact same quantity."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '7' is the numerical equivalent of the gold answer 'seven', representing the exact same quantity."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "7",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '7' is the numerical equivalent of the gold answer 'seven', representing the exact same quantity."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "question_id": "conv0_q7",
+  "conversation_idx": 0,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What is Caroline's relationship status?",
+  "ground_truth_answer": "Single",
+  "evidence": [
+    "D3:13",
+    "D2:14"
+  ],
+  "user_id": "locomo_0_smoke01",
+  "reference_date": "9:55 am on 22 October, 2023",
+  "retrieval": {
+    "search_query": "What is Caroline's relationship status?",
+    "search_results": [],
+    "search_latency_ms": 29.9,
+    "total_results": 0
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
+      "memories_evaluated": 0,
+      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+    }
+  }
+}

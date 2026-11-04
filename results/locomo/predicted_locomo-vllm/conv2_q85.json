@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q85",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What event did John volunteer at last weekend?",
+  "ground_truth_answer": "career fair at a local school",
+  "evidence": [
+    "D10:13"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What event did John volunteer at last weekend?",
+    "search_results": [
+      {
+        "memory": "John participated in a community fundraising event on the weekend of August 5-6, 2023, which had a great turnout and was surrounded by supportive people.",
+        "score": 0.6605572491077368,
+        "id": "48241daf-b28c-4939-af23-425ae644c394",
+        "created_at": "2026-11-03T00:46:31.875034+00:00",
+        "updated_at": "2026-11-03T00:46:31.875034+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.6383300368446148,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help students, having started this role after previously discussing plans to find volunteer opportunities.",
+        "score": 0.6297158686385853,
+        "id": "f0acc536-0325-4ec5-8ead-9b9bf15737bf",
+        "created_at": "2026-11-03T00:48:37.563671+00:00",
+        "updated_at": "2026-11-03T00:48:37.563671+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that the event had a great turnout and was supported by many people.",
+        "score": 0.6173139245295604,
+        "id": "c7220246-c1f6-443b-8c3e-e20243849b50",
+        "created_at": "2026-11-03T00:46:36.104430+00:00",
+        "updated_at": "2026-11-03T00:46:36.104430+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that securing sponsors, coordinating with the city, and promoting the event was hard work but worth it seeing community support.",
+        "score": 0.6137372988393839,
+        "id": "753ff9fe-8b4b-48d5-b32e-5f10b7aae02c",
+        "created_at": "2026-11-03T00:46:41.331982+00:00",
+        "updated_at": "2026-11-03T00:46:41.331982+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.5811791035826421,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.5417134097638686,
+        "id": "1e5c2f69-cc19-46d4-a437-73bbbff59687",
+        "created_at": "2026-11-03T00:46:52.205259+00:00",
+        "updated_at": "2026-11-03T00:46:52.205259+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families.",
+        "score": 0.5417134097638686,
+        "id": "53e4cccb-e4af-48e2-92d7-f2676fe382ef",
+        "created_at": "2026-11-03T00:46:44.142482+00:00",
+        "updated_at": "2026-11-03T00:46:44.142482+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that it required significant effort to secure sponsors and coordinate with the city.",
+        "score": 0.540988300545871,
+        "id": "10dac2f7-8be9-4c75-84d9-8c5921bcb6ba",
+        "created_at": "2026-11-03T00:47:01.153836+00:00",
+        "updated_at": "2026-11-03T00:47:01.153836+00:00"
+      },
+      {
+        "memory": "John organized a charity run for veterans in downtown, which involved significant effort to secure sponsors and coordinate with the city, and he shared a map of the downtown streets used for the event.",
+        "score": 0.5175811256177366,
+        "id": "202327bd-7925-4a4b-aa41-d7ae957d8b41",
+        "created_at": "2026-11-03T00:47:12.938873+00:00",
+        "updated_at": "2026-11-03T00:47:12.938873+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.5167679698814387,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John noted that he has not been able to volunteer much lately but still cares deeply about volunteering, citing his past renovation of a community center as a meaningful experience.",
+        "score": 0.5159773429255348,
+        "id": "4b4a3831-1b13-4d77-87f9-f47ab86ac2e0",
+        "created_at": "2026-11-03T00:46:22.539815+00:00",
+        "updated_at": "2026-11-03T00:46:22.539815+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 5, 2023, which he found awesome and which reminded him of the sacrifices made by military personnel.",
+        "score": 0.5119555258772789,
+        "id": "c7848dc0-7328-4869-b9e3-583905830d7a",
+        "created_at": "2026-11-03T00:39:28.689630+00:00",
+        "updated_at": "2026-11-03T00:39:28.689630+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and motivating as it reminded him of the sacrifices made by military personnel.",
+        "score": 0.5107535882071976,
+        "id": "9cd51eaf-a175-4ae2-830c-489603303066",
+        "created_at": "2026-11-03T00:39:10.025180+00:00",
+        "updated_at": "2026-11-03T00:39:10.025180+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and reminded him of the sacrifices veterans make.",
+        "score": 0.5077671454765242,
+        "id": "c16e5a98-d821-4a24-b2fd-1ab4ae307c3e",
+        "created_at": "2026-11-03T00:38:52.872959+00:00",
+        "updated_at": "2026-11-03T00:38:52.872959+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 that featured arts and crafts and games for families, which inspired him to organize similar activities for his own family and friends.",
+        "score": 0.5063439579007931,
+        "id": "8ac8b93d-2d7d-43de-b630-ccacd3082670",
+        "created_at": "2026-11-03T00:42:42.397148+00:00",
+        "updated_at": "2026-11-03T00:42:42.397148+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which he found awesome and which reminded him of the sacrifices veterans make, reinforcing his belief that they need support.",
+        "score": 0.5031798105024906,
+        "id": "3adf5b9c-d385-4d6c-bd30-26b625a86b45",
+        "created_at": "2026-11-03T00:39:01.793873+00:00",
+        "updated_at": "2026-11-03T00:39:01.793873+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices made by military personnel and reinforced his belief in showing support.",
+        "score": 0.4960954549586254,
+        "id": "f1f96d25-83f6-4604-9d65-031dc81bc55b",
+        "created_at": "2026-11-03T00:39:05.948869+00:00",
+        "updated_at": "2026-11-03T00:39:05.948869+00:00"
+      },
+      {
+        "memory": "John has children and plans to organize a family gathering with games and activities similar to a community event he attended in June 2023, which featured arts and crafts for families.",
+        "score": 0.48573437421901267,
+        "id": "e902fc89-707b-4ab1-bad4-dba9331b06ae",
+        "created_at": "2026-11-03T00:42:29.568004+00:00",
+        "updated_at": "2026-11-03T00:42:29.568004+00:00"
+      },
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.4807325600253118,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      }
+    ],
+    "search_latency_ms": 122.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A 5K charity run to raise funds for veterans and their families.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a different event than the gold answer's career fair at a local school."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The 5K charity run in his neighborhood to raise funds for veterans and their families.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a different event (a 5K charity run) rather than the gold answer's career fair at a local school."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The 5K charity run in his neighborhood to raise funds for veterans and their families.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a different event (a 5K charity run) rather than the gold answer's career fair at a local school."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The 5K charity run in his neighborhood to raise funds for veterans and their families.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a different event (a 5K charity run) rather than the gold answer's career fair at a local school."
+    }
+  }
+}

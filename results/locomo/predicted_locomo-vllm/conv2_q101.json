@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q101",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What event is Maria getting ready for at the shelter on May 25, 2023?",
+  "ground_truth_answer": "fundraiser",
+  "evidence": [
+    "D16:2"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What event is Maria getting ready for at the shelter on May 25, 2023?",
+    "search_results": [
+      {
+        "memory": "Maria organized a meal for the residents at the homeless shelter where she volunteers, helping to get everything ready and finding it meaningful to see everyone together eating and supporting each other.",
+        "score": 0.6317994047322248,
+        "id": "27a63818-c257-416e-9ea5-a125a772f24d",
+        "created_at": "2026-11-03T00:26:49.130793+00:00",
+        "updated_at": "2026-11-03T00:26:49.130793+00:00"
+      },
+      {
+        "memory": "Maria joined a gym in the week of June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving her endurance.",
+        "score": 0.6313919980127771,
+        "id": "d8291517-f991-4aaf-944b-6a1220d6bbcc",
+        "created_at": "2026-11-03T00:32:53.460368+00:00",
+        "updated_at": "2026-11-03T00:32:53.460368+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.618820721177145,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "Maria plans to volunteer at shelters next month (August 2023) as part of her next adventure after enjoying a recent hike.",
+        "score": 0.6127115261660812,
+        "id": "2707e960-028a-4c56-8b27-8fcd7367d073",
+        "created_at": "2026-11-03T00:43:13.180154+00:00",
+        "updated_at": "2026-11-03T00:43:13.180154+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, and finds that having her brings joy to her life, though it has been an adjustment to take care of her.",
+        "score": 0.6116506723362279,
+        "id": "558bbdb0-fbe3-4e2e-8b63-38a54566b692",
+        "created_at": "2026-11-03T00:47:45.939812+00:00",
+        "updated_at": "2026-11-03T00:47:45.939812+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about continuing her community involvement.",
+        "score": 0.610898586345734,
+        "id": "92c54323-c998-4850-9fc2-a1750ecd03cc",
+        "created_at": "2026-11-03T00:43:06.600033+00:00",
+        "updated_at": "2026-11-03T00:43:06.600033+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco two weeks before August 11, 2023 (around July 28, 2023), and finds that Coco brings her joy by greeting her when she comes home, though taking care of the puppy has been an adjustment.",
+        "score": 0.609610650742427,
+        "id": "801ea204-5d15-47d6-806d-a80b8c9306eb",
+        "created_at": "2026-11-03T00:47:37.294516+00:00",
+        "updated_at": "2026-11-03T00:47:37.294516+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, who is a white dog that brings her joy by greeting her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.607459530965035,
+        "id": "4ba39e46-659e-4861-8718-c97aa84b4006",
+        "created_at": "2026-11-03T00:47:34.807969+00:00",
+        "updated_at": "2026-11-03T00:47:34.807969+00:00"
+      },
+      {
+        "memory": "Maria plans to explore more and volunteer at shelters in August 2023, expressing excitement about putting her positivity out there.",
+        "score": 0.6071657695540837,
+        "id": "de91b2fc-614f-45e8-8987-b680fb40e6e2",
+        "created_at": "2026-11-03T00:43:29.358706+00:00",
+        "updated_at": "2026-11-03T00:43:29.358706+00:00"
+      },
+      {
+        "memory": "Maria got a puppy named Coco around July 28, 2023, which she describes as adorable and a source of joy that greets her when she comes home, though taking care of her has been an adjustment.",
+        "score": 0.6041369312194567,
+        "id": "75562fa8-e150-4df8-a00d-f1a42f5864f2",
+        "created_at": "2026-11-03T00:47:32.012256+00:00",
+        "updated_at": "2026-11-03T00:47:32.012256+00:00"
+      },
+      {
+        "memory": "Maria volunteered at a shelter front desk on August 11, 2023, finding fulfillment in seeing residents receive food or a bed and feeling empowered by the ability to make a difference in people's lives.",
+        "score": 0.6013349262296162,
+        "id": "873435f2-fe3f-4a2c-a47b-3333a7df9654",
+        "created_at": "2026-11-03T00:50:06.783474+00:00",
+        "updated_at": "2026-11-03T00:50:06.783474+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 2023.",
+        "score": 0.5947585498834267,
+        "id": "9fa5fa8e-36d6-49cd-8d85-caaec37e9107",
+        "created_at": "2026-11-03T00:31:54.025165+00:00",
+        "updated_at": "2026-11-03T00:31:54.025165+00:00"
+      },
+      {
+        "memory": "Maria is preparing for a fundraiser at the homeless shelter scheduled for the week of May 29, 2023, with the goal of raising enough funds to cover basic needs for the homeless residents.",
+        "score": 0.5946787906652695,
+        "id": "bbe128c2-1cc3-486e-adf7-8bb85628e1ff",
+        "created_at": "2026-11-03T00:30:47.739372+00:00",
+        "updated_at": "2026-11-03T00:30:47.739372+00:00"
+      },
+      {
+        "memory": "John and Maria worked with a local organization that helps victims of domestic abuse, raising awareness and funds at an event around August 11, 2023.",
+        "score": 0.5935690483064506,
+        "id": "3fc09f3c-16fd-44b5-8b67-5dc9be24f90b",
+        "created_at": "2026-11-03T00:47:23.446570+00:00",
+        "updated_at": "2026-11-03T00:47:23.446570+00:00"
+      },
+      {
+        "memory": "Maria started volunteering at a local dog shelter once a month around June 3, 2023.",
+        "score": 0.592763308368377,
+        "id": "06c60df2-1f3a-4ee5-8e8d-a5b051353e05",
+        "created_at": "2026-11-03T00:31:44.423830+00:00",
+        "updated_at": "2026-11-03T00:31:44.423830+00:00"
+      },
+      {
+        "memory": "Maria volunteered at the front desk of the homeless shelter on August 11, 2023, finding it rewarding to see residents' smiles when they received food or a bed.",
+        "score": 0.5844799162607501,
+        "id": "4af3a6a7-2426-4544-8d3e-de1f25289bcd",
+        "created_at": "2026-11-03T00:49:57.098389+00:00",
+        "updated_at": "2026-11-03T00:49:57.098389+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.5741694332156011,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from around April 3, 2023, showing homeless shelter volunteers gathered around a table filled with food, expressing that seeing everyone come together warms her heart and fills her with hope.",
+        "score": 0.5701528787916418,
+        "id": "9b325856-3e74-48f8-8b85-dd2ec108be0a",
+        "created_at": "2026-11-03T00:26:38.466418+00:00",
+        "updated_at": "2026-11-03T00:26:38.466418+00:00"
+      },
+      {
+        "memory": "John is planning to set up a family game day similar to Maria's picnic for his kids soon, inspired by the fun activities he saw at a community event in June 2023.",
+        "score": 0.562255839328655,
+        "id": "1566f7f2-bac6-41a8-a3f1-0213181ca298",
+        "created_at": "2026-11-03T00:42:42.392900+00:00",
+        "updated_at": "2026-11-03T00:42:42.392900+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 31, 2023, of a group of people standing around a table at a homeless shelter, emphasizing that being kind matters while volunteering.",
+        "score": 0.5591628785892502,
+        "id": "945290ae-dacb-4716-b8f8-2c37540a7c07",
+        "created_at": "2026-11-03T00:44:23.676750+00:00",
+        "updated_at": "2026-11-03T00:44:23.676750+00:00"
+      }
+    ],
+    "search_latency_ms": 33.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A meal for the residents at the homeless shelter.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies a meal for residents, not the fundraiser specified in the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A fundraiser at the homeless shelter to raise funds for the residents’ basic needs.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly identifies the event as a fundraiser, matching the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A fundraiser at the homeless shelter, scheduled for the week of May 29, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies the event as a fundraiser, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria is getting ready for a fundraiser at the homeless shelter.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly identifies the event as a fundraiser, matching the gold answer."
+    }
+  }
+}

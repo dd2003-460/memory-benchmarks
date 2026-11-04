@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q38",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Maria get in a car accident?",
+  "ground_truth_answer": "July 2, 2023",
+  "evidence": [
+    "D21:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did Maria get in a car accident?",
+    "search_results": [
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage.",
+        "score": 0.9173706588874891,
+        "id": "bff42be2-7f99-42b8-b453-38afd851512d",
+        "created_at": "2026-11-03T00:37:45.107914+00:00",
+        "updated_at": "2026-11-03T00:37:45.107914+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone was okay despite the damage.",
+        "score": 0.9153132266083226,
+        "id": "af0142b8-5313-425c-a774-9fb49a70cd6f",
+        "created_at": "2026-11-03T00:37:42.371763+00:00",
+        "updated_at": "2026-11-03T00:37:42.371763+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she shared that everyone was okay despite the damage shown in a photo of the damaged car on a flatbed.",
+        "score": 0.9151783734467775,
+        "id": "07794eb0-ec1b-4700-9581-65f0d51095e8",
+        "created_at": "2026-11-03T00:38:21.695230+00:00",
+        "updated_at": "2026-11-03T00:38:21.695230+00:00"
+      },
+      {
+        "memory": "Maria was in a car accident on July 2, 2023, when another vehicle ran a red light and hit her car; she reported that everyone involved was okay despite the damage.",
+        "score": 0.914066220250278,
+        "id": "3ddb84f4-e74a-423c-b915-8440247663b0",
+        "created_at": "2026-11-03T00:38:00.206367+00:00",
+        "updated_at": "2026-11-03T00:38:00.206367+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident on July 2, 2023, when another vehicle ran a red light and hit them, though everyone was unharmed.",
+        "score": 0.9080115862446847,
+        "id": "075ef4bd-dc73-4363-b37d-576b22e599b2",
+        "created_at": "2026-11-03T00:37:47.373446+00:00",
+        "updated_at": "2026-11-03T00:37:47.373446+00:00"
+      },
+      {
+        "memory": "Maria experienced a car accident on July 2, 2023, resulting in damage to her vehicle which was subsequently placed on a flatbed for transport.",
+        "score": 0.9040608222888681,
+        "id": "905f0a1b-130c-49cb-9086-fa56a958f96b",
+        "created_at": "2026-11-03T00:37:26.626929+00:00",
+        "updated_at": "2026-11-03T00:37:26.626929+00:00"
+      },
+      {
+        "memory": "Maria experienced an incident involving a damaged car associated with a homeless shelter on July 2, 2023, which she described as 'not so great' and shared a photo of the car on a flatbed.",
+        "score": 0.7889179643298366,
+        "id": "335b6a97-6961-45c0-888d-9d617118486f",
+        "created_at": "2026-11-03T00:37:28.997287+00:00",
+        "updated_at": "2026-11-03T00:37:28.997287+00:00"
+      },
+      {
+        "memory": "Maria's car accident on July 2, 2023 was caused by another vehicle running a red light and hitting her car, though she confirmed that everyone involved is okay.",
+        "score": 0.7091188588626367,
+        "id": "89a93962-cee4-407e-ba9e-cd729e039ed1",
+        "created_at": "2026-11-03T00:37:40.111595+00:00",
+        "updated_at": "2026-11-03T00:37:40.111595+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her home and find a new place in a hurry around July 2, 2023, which has been stressful but she is making progress, and Maria is helping her with the search.",
+        "score": 0.3065349087291654,
+        "id": "5c333c85-c76a-4dda-a381-20918a1a5354",
+        "created_at": "2026-11-03T00:37:47.369728+00:00",
+        "updated_at": "2026-11-03T00:37:47.369728+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.30568949630078845,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "Maria's cousin had to leave her previous residence in a hurry around early July 2023, which has been stressful, but Maria is helping her find a new place and notes she is making progress.",
+        "score": 0.2995472494187671,
+        "id": "658535ba-461f-4ba8-9126-79c9f8a14a04",
+        "created_at": "2026-11-03T00:37:45.116868+00:00",
+        "updated_at": "2026-11-03T00:37:45.116868+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at the nearby park, which she says has made a big impact on her well-being",
+        "score": 0.28744910523597883,
+        "id": "58ac0462-6cc0-461e-bebc-9e5d990ab9cb",
+        "created_at": "2026-11-03T00:40:54.960434+00:00",
+        "updated_at": "2026-11-03T00:40:54.960434+00:00"
+      },
+      {
+        "memory": "Maria made dinner with her mom on May 3, 2023, which included salads, sandwiches, and homemade desserts, with Maria's favorite being a banana split sundae enjoyed after volunteering.",
+        "score": 0.2808891652043842,
+        "id": "d8fba307-66d9-4769-bd51-5e9f386dcbba",
+        "created_at": "2026-11-03T00:28:43.733410+00:00",
+        "updated_at": "2026-11-03T00:28:43.733410+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.27390656538659197,
+        "id": "c27435e1-2255-4694-a24d-78870c326663",
+        "created_at": "2026-11-03T00:40:23.101472+00:00",
+        "updated_at": "2026-11-03T00:40:23.101472+00:00"
+      },
+      {
+        "memory": "Maria has been taking regular 'me-time' walks at a nearby park, which she says has made a big impact on her well-being.",
+        "score": 0.27390656538659197,
+        "id": "e24a170a-44ed-4e88-b0df-c7dc1ac53f60",
+        "created_at": "2026-11-03T00:40:33.175377+00:00",
+        "updated_at": "2026-11-03T00:40:33.175377+00:00"
+      },
+      {
+        "memory": "Maria and her mom made dinner together on May 3, 2023, featuring salads, sandwiches, and homemade desserts, including a banana split sundae that Maria enjoys after volunteering",
+        "score": 0.268767958374155,
+        "id": "4712a80e-f2c7-4b11-889e-903b6b91bbcd",
+        "created_at": "2026-11-03T00:28:37.053309+00:00",
+        "updated_at": "2026-11-03T00:28:37.053309+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.26016686849241055,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.25844057321584135,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.2547125671817853,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.25453489457887196,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      }
+    ],
+    "search_latency_ms": 59.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    }
+  }
+}

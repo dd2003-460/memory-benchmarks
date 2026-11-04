@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q154",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What type of show did Nate host where he taught vegan ice cream recipes?",
+  "ground_truth_answer": "a cooking show",
+  "evidence": [
+    "D21:4"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What type of show did Nate host where he taught vegan ice cream recipes?",
+    "search_results": [
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on September 12, 2022, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.9473323816156828,
+        "id": "593b14aa-1363-4a20-8298-23180191c8d8",
+        "created_at": "2026-11-03T03:17:45.170610+00:00",
+        "updated_at": "2026-11-03T03:17:45.170610+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, where he taught people vegan ice cream recipes, describing the experience as nerve-wracking but a blast and noting that he picked up a few new recipes.",
+        "score": 0.9418940749197835,
+        "id": "96eac831-b7b2-47d0-bb22-8efcd49819ab",
+        "created_at": "2026-11-03T03:17:20.945746+00:00",
+        "updated_at": "2026-11-03T03:17:20.945746+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on Monday, September 12, 2022, finding the experience nerve-wracking but enjoyable, and picked up several new recipes from the event.",
+        "score": 0.9410195371028731,
+        "id": "c4aac126-d686-44da-96ea-7057263082dd",
+        "created_at": "2026-11-03T03:17:30.883683+00:00",
+        "updated_at": "2026-11-03T03:17:30.883683+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.9247604371178346,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.919882214735455,
+        "id": "07dbbc09-9b02-4fa4-983b-64ac6ed4f5f0",
+        "created_at": "2026-11-03T03:17:49.200495+00:00",
+        "updated_at": "2026-11-03T03:17:49.200495+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.9039523926352395,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made, expressing interest in trying it.",
+        "score": 0.8853576418864144,
+        "id": "4a10f748-3833-410b-bc0e-baf40121e8fc",
+        "created_at": "2026-11-03T03:11:22.971762+00:00",
+        "updated_at": "2026-11-03T03:11:22.971762+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on Friday, June 18, 2022, and shared it with members of his vegan diet group, describing the experience as awesome",
+        "score": 0.881573010991924,
+        "id": "57e28ff2-bf26-4391-b632-340c5d03ccb6",
+        "created_at": "2026-11-03T03:11:19.727752+00:00",
+        "updated_at": "2026-11-03T03:11:19.727752+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.8803805899093387,
+        "id": "db581681-c9fe-43e6-bed8-0ae2d0d7a53a",
+        "created_at": "2026-11-03T03:11:22.968659+00:00",
+        "updated_at": "2026-11-03T03:11:22.968659+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group, describing the experience as awesome.",
+        "score": 0.8785199997411274,
+        "id": "ccc211d2-cff7-48dd-a2e6-feee5dda765a",
+        "created_at": "2026-11-03T03:11:13.483598+00:00",
+        "updated_at": "2026-11-03T03:11:13.483598+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022 (last Friday), and shared it with people in his vegan diet group, describing the experience as awesome.",
+        "score": 0.8773199030482987,
+        "id": "c3866411-bb6e-4ac7-a8a3-ef40a1ed867a",
+        "created_at": "2026-11-03T03:11:32.706886+00:00",
+        "updated_at": "2026-11-03T03:11:32.706886+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream using coconut milk on July 8, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.875875039117145,
+        "id": "9ee86c3e-6ef3-45ba-aebd-93c6910c155d",
+        "created_at": "2026-11-03T03:11:45.428342+00:00",
+        "updated_at": "2026-11-03T03:11:45.428342+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream using coconut milk on June 18, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.8726969318577407,
+        "id": "65d08fef-d356-4585-ac61-75c631f78821",
+        "created_at": "2026-11-03T03:11:28.558231+00:00",
+        "updated_at": "2026-11-03T03:11:28.558231+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for the recipe for the vegan ice cream he made on June 18, 2022, stating that it sounds like a good recipe",
+        "score": 0.8691010187218874,
+        "id": "9823eb82-1792-4f36-a731-e0214b69c7e4",
+        "created_at": "2026-11-03T03:11:19.731297+00:00",
+        "updated_at": "2026-11-03T03:11:19.731297+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the activity as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings.",
+        "score": 0.8116697337393811,
+        "id": "57ba8cdb-cda8-4f3d-bdef-ac6bdb39fe48",
+        "created_at": "2026-11-03T03:13:32.631384+00:00",
+        "updated_at": "2026-11-03T03:13:32.631384+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience as fun and rewarding, and shared a photo of coconut milk ice cream with whipped toppings with Joanna on August 14, 2022.",
+        "score": 0.8063333217248931,
+        "id": "e68bff46-e8a5-449b-812c-7093e9a1e326",
+        "created_at": "2026-11-03T03:13:40.691046+00:00",
+        "updated_at": "2026-11-03T03:13:40.691046+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.8022374958488054,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his coconut milk ice cream, sharing photos of colorful bowls he made on November 11, 2022.",
+        "score": 0.8001259743520054,
+        "id": "724e7913-1150-4ab6-9b7f-ad62acf3eda2",
+        "created_at": "2026-11-03T03:33:50.240305+00:00",
+        "updated_at": "2026-11-03T03:33:50.240305+00:00"
+      },
+      {
+        "memory": "Nate made lactose-free ice cream using coconut milk and invited Joanna over on November 8, 2022, where she planned to bring recipes so they could share desserts, including Nate's long-standing desire to try her chocolate and raspberry cake.",
+        "score": 0.799384345487929,
+        "id": "5d32d7bd-254d-4197-88ce-4e055f232e72",
+        "created_at": "2026-11-03T03:27:13.244170+00:00",
+        "updated_at": "2026-11-03T03:27:13.244170+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, describing the experience of sharing his love for them as fun and rewarding.",
+        "score": 0.7959552690507501,
+        "id": "dc4c894f-07bd-47fd-88dd-9317bbaf7373",
+        "created_at": "2026-11-03T03:13:20.720303+00:00",
+        "updated_at": "2026-11-03T03:13:20.720303+00:00"
+      }
+    ],
+    "search_latency_ms": 54.1,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A cooking show",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "cooking show",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core concept."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "cooking show",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core concept."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "cooking show",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's core concept."
+    }
+  }
+}

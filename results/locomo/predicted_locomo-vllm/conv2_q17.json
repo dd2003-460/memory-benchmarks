@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q17",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What might John's degree be in?",
+  "ground_truth_answer": "Political science, Public administration, Public affairs",
+  "evidence": [
+    "D9:6"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What might John's degree be in?",
+    "search_results": [
+      {
+        "memory": "John is considering a career in policymaking, motivated by his academic degree and a passion for making a positive impact through improvements in the field.",
+        "score": 0.6538858558910348,
+        "id": "429977d2-a59b-458a-b4e6-3e43da51a1ab",
+        "created_at": "2026-11-03T00:24:04.894325+00:00",
+        "updated_at": "2026-11-03T00:24:04.894325+00:00"
+      },
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.29532188710142393,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John mentors students in a program where he observed significant improvements in their confidence and skills, including a proud moment when a student excitedly showed him an essay in early August 2023.",
+        "score": 0.27984282811479394,
+        "id": "e64512c5-6f38-4013-b317-04eaca5b15df",
+        "created_at": "2026-11-03T00:48:54.959574+00:00",
+        "updated_at": "2026-11-03T00:48:54.959574+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.22445750169488649,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.22212497064397652,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is a mentor in a mentoring program where students have shown real improvement in confidence and skills, including one student who excitedly showed him their essay around August 6, 2023, which he found to be a proud moment.",
+        "score": 0.22187359592187406,
+        "id": "5d860fce-c18f-4cab-91d8-cb9f40e3e0da",
+        "created_at": "2026-11-03T00:49:08.014840+00:00",
+        "updated_at": "2026-11-03T00:49:08.014840+00:00"
+      },
+      {
+        "memory": "John is particularly interested in improving education and infrastructure within his community as specific areas for his future work in policymaking.",
+        "score": 0.2210384847330039,
+        "id": "1a5d3c06-c997-4f79-bf03-6542432b3d3d",
+        "created_at": "2026-11-03T00:24:07.566594+00:00",
+        "updated_at": "2026-11-03T00:24:07.566594+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.21530969842868072,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21501976385714888,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21501976385714888,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.21464082042214852,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.21097422580031178,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager, a role he views as a stepping stone for bigger things and a reward for his hard work.",
+        "score": 0.21073353410644358,
+        "id": "2d2daa38-d6f2-45bd-aa62-1c956e8da4d4",
+        "created_at": "2026-11-03T00:34:22.868576+00:00",
+        "updated_at": "2026-11-03T00:34:22.868576+00:00"
+      },
+      {
+        "memory": "John is exploring options to channel his passion into something meaningful, specifically considering joining local organizations or volunteering programs.",
+        "score": 0.20862852196993167,
+        "id": "300e489a-ccc3-4146-af52-3f5940594ec8",
+        "created_at": "2026-11-03T00:48:11.001080+00:00",
+        "updated_at": "2026-11-03T00:48:11.001080+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with support from home and personal grit.",
+        "score": 0.20617201792164397,
+        "id": "dcd2448f-9b0c-4f3b-bc48-9c3558d04744",
+        "created_at": "2026-11-03T00:33:57.497007+00:00",
+        "updated_at": "2026-11-03T00:33:57.497007+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school, finding the experience rewarding because he can see how much he helps the students.",
+        "score": 0.20395620051333846,
+        "id": "2e9bcfd9-a5f8-4cc6-acbb-06368f49316b",
+        "created_at": "2026-11-03T00:48:23.020732+00:00",
+        "updated_at": "2026-11-03T00:48:23.020732+00:00"
+      },
+      {
+        "memory": "John faced significant hurdles during his career progression, including technical challenges, workplace issues, and self-doubt about being on the right track, but powered through with grit and support from home.",
+        "score": 0.19990487732855777,
+        "id": "ab7ee521-152c-47b6-9091-348efa2f9b26",
+        "created_at": "2026-11-03T00:34:11.120753+00:00",
+        "updated_at": "2026-11-03T00:34:11.120753+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.1981169009406365,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John's mentoring program students have shown real improvement in confidence and skills, highlighted by a student excitedly showing John their essay around August 6-12, 2023, which was a proud moment for him.",
+        "score": 0.19750009669096677,
+        "id": "3c2cc0d8-f97e-47a4-a454-bb7cb5fe5305",
+        "created_at": "2026-11-03T00:49:03.794603+00:00",
+        "updated_at": "2026-11-03T00:49:03.794603+00:00"
+      },
+      {
+        "memory": "John plans to join local organizations or volunteering programs to channel his passion into meaningful work and make a positive difference in the world.",
+        "score": 0.19721545551003378,
+        "id": "948b76c8-94c0-40e9-be9d-08e14bc0a3c4",
+        "created_at": "2026-11-03T00:48:14.923038+00:00",
+        "updated_at": "2026-11-03T00:48:14.923038+00:00"
+      }
+    ],
+    "search_latency_ms": 58.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "public policy",
+      "memories_evaluated": 10,
+      "reason": "Public policy is closely related to and semantically overlaps with public administration and public affairs, so it captures the same general degree field."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "public policy",
+      "memories_evaluated": 20,
+      "reason": "Public policy is closely related to and semantically overlaps with public administration and public affairs, so it captures the same general degree field."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "public policy",
+      "memories_evaluated": 20,
+      "reason": "Public policy is closely related to and semantically overlaps with public administration and public affairs, so it captures the same general degree field."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Public policy",
+      "memories_evaluated": 20,
+      "reason": "Public policy is closely related to public affairs and public administration, so it semantically overlaps with the gold answer's core field."
+    }
+  }
+}

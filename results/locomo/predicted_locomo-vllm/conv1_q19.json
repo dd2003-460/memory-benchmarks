@@ -1,0 +1,113 @@
+{
+  "question_id": "conv1_q19",
+  "conversation_idx": 1,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did Gina interview for a design internship?",
+  "ground_truth_answer": "10 May, 2023",
+  "evidence": [
+    "D11:14"
+  ],
+  "user_id": "locomo_1_full01",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "When did Gina interview for a design internship?",
+    "search_results": [
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, where she felt the importance of having a creative space for dancers and self-expression.",
+        "score": 0.43847822507703216,
+        "id": "0caee53f-3c55-47a2-b9bd-f1d270d6309a",
+        "created_at": "2026-11-02T19:37:06.661093+00:00",
+        "updated_at": "2026-11-02T19:37:06.661093+00:00"
+      },
+      {
+        "memory": "Jon agreed to accept Gina's offer for help with creating content and managing social media accounts for his dance studio, planning to collaborate with her to enhance the studio's online presence.",
+        "score": 0.3933438066282856,
+        "id": "b1cc54a4-266a-4ea1-87e9-70f7dccf62d7",
+        "created_at": "2026-11-02T19:36:42.770237+00:00",
+        "updated_at": "2026-11-02T19:36:42.770237+00:00"
+      },
+      {
+        "memory": "Gina offered to help Jon with creating marketing content or managing his social media accounts for the dance studio.",
+        "score": 0.3932375853165698,
+        "id": "34008eb9-1865-4045-88c8-eca033fceef2",
+        "created_at": "2026-11-02T19:36:41.090923+00:00",
+        "updated_at": "2026-11-02T19:36:41.090923+00:00"
+      },
+      {
+        "memory": "Gina expressed belief that Jon's dance studio will become a go-to spot for self-expression and encouraged him to maintain his passion for dance.",
+        "score": 0.3927801909006118,
+        "id": "318e6ca5-4a7b-4bc0-9127-871f99a3b4f2",
+        "created_at": "2026-11-02T19:37:06.664561+00:00",
+        "updated_at": "2026-11-02T19:37:06.664561+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips, and suggested collaborating with local influencers or dance communities to raise awareness.",
+        "score": 0.34073943326102213,
+        "id": "b4ad7832-b3a5-476b-b651-f2e84f1221d2",
+        "created_at": "2026-11-02T19:36:41.086686+00:00",
+        "updated_at": "2026-11-02T19:36:41.086686+00:00"
+      },
+      {
+        "memory": "Jon attended a networking event around July 21, 2023, where he met investors and received good advice, finding the energy motivating for pursuing his goals",
+        "score": 0.08800984056649734,
+        "id": "1387ec2a-8eb4-48a9-a06e-25197e818133",
+        "created_at": "2026-11-02T19:36:29.582734+00:00",
+        "updated_at": "2026-11-02T19:36:29.582734+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the period stressful but noting that dancing has kept him going.",
+        "score": 0.07375386815605377,
+        "id": "745f3c4a-6d28-48cb-a7e5-6d6d4ed163a4",
+        "created_at": "2026-11-02T19:36:56.254490+00:00",
+        "updated_at": "2026-11-02T19:36:56.254490+00:00"
+      },
+      {
+        "memory": "Jon is excited for his dance studio to start welcoming dancers of all ages and backgrounds, viewing this inclusivity as a key goal for the business.",
+        "score": 0.05888887964411031,
+        "id": "eb6c2d0e-0237-4155-9f9c-5dbc35d615c2",
+        "created_at": "2026-11-02T19:37:09.287321+00:00",
+        "updated_at": "2026-11-02T19:37:09.287321+00:00"
+      },
+      {
+        "memory": "Jon is seeking marketing strategy advice to reach his target audience and raise awareness for his dance studio, following a networking event where he met investors.",
+        "score": 0.042520574404599845,
+        "id": "6a6a391d-aabf-4e61-9213-6f19c892284d",
+        "created_at": "2026-11-02T19:36:38.950118+00:00",
+        "updated_at": "2026-11-02T19:36:38.950118+00:00"
+      }
+    ],
+    "search_latency_ms": 48.8,
+    "total_results": 9
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories only date Gina to July 21, 2023, when she attended a dance class.",
+      "memories_evaluated": 9,
+      "reason": "The generated answer does not include the gold answer's date of 10 May 2023 and instead gives an unrelated date and event."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Step 1: SCAN ALL MEMORIES  \n- Several memories concern Jon’s dance studio, networking event, and marketing advice.  \n- Gina appears in memories where she recommends social media strategies, offers",
+      "memories_evaluated": 9,
+      "reason": "The generated answer does not mention the correct date or any relevant fact about Gina's design internship interview."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "July 21, 2023",
+      "memories_evaluated": 9,
+      "reason": "The generated date is more than 14 days away from the gold answer and does not match the correct interview date."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "July 21, 2023",
+      "memories_evaluated": 9,
+      "reason": "The generated date is more than 14 days away from the gold answer and does not match the correct interview date."
+    }
+  }
+}

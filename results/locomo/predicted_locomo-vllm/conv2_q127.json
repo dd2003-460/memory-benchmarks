@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q127",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did John feel inspired to join the military after the visit to the hospital?",
+  "ground_truth_answer": "seeing the resilience of the veterans",
+  "evidence": [
+    "D24:3"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Why did John feel inspired to join the military after the visit to the hospital?",
+    "search_results": [
+      {
+        "memory": "During his visit to the veteran's hospital in early July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6611320659107298,
+        "id": "261822a9-07e3-4e47-bb7e-1ec7bb5332ad",
+        "created_at": "2026-11-03T00:42:01.933771+00:00",
+        "updated_at": "2026-11-03T00:42:01.933771+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in July 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.660233653325221,
+        "id": "96c9fb69-062c-4249-8f46-2d97e40ec2da",
+        "created_at": "2026-11-03T00:42:17.337783+00:00",
+        "updated_at": "2026-11-03T00:42:17.337783+00:00"
+      },
+      {
+        "memory": "During his visit to a veteran's hospital the week of July 10, 2023, John heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6583941318253775,
+        "id": "f7c66a5e-af5b-4986-9c21-b37120133be2",
+        "created_at": "2026-11-03T00:41:42.392860+00:00",
+        "updated_at": "2026-11-03T00:41:42.392860+00:00"
+      },
+      {
+        "memory": "During his visit to the veteran's hospital in mid-July 2023, John met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6561006172478299,
+        "id": "85d5dec7-778c-4f81-ae4c-4d6adf629aac",
+        "created_at": "2026-11-03T00:41:59.455622+00:00",
+        "updated_at": "2026-11-03T00:41:59.455622+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met an elderly veteran named Samuel whose inspiring and heartbreaking stories filled him with hope and reminded him why he wanted to join the military.",
+        "score": 0.6530775216961461,
+        "id": "b679c40d-cc2d-475f-8615-6bdafc07f9a3",
+        "created_at": "2026-11-03T00:42:14.405577+00:00",
+        "updated_at": "2026-11-03T00:42:14.405577+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met an elderly veteran named Samuel whose inspiring and heartbreaking stories reinforced John's motivation for joining the military.",
+        "score": 0.6491992487815963,
+        "id": "e503fa25-0774-40e7-bae6-a60aef145085",
+        "created_at": "2026-11-03T00:42:10.788843+00:00",
+        "updated_at": "2026-11-03T00:42:10.788843+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, describing the experience as eye-opening and stating it made him appreciate what he has and reinforced his need to give back.",
+        "score": 0.6323227969570651,
+        "id": "07687321-2ff8-42ae-aa38-2b1fc42ca16b",
+        "created_at": "2026-11-03T00:41:37.759944+00:00",
+        "updated_at": "2026-11-03T00:41:37.759944+00:00"
+      },
+      {
+        "memory": "John feels a strong bond with his current team that he has not felt since his time in the military, finding their collective effort to serve and protect the community fulfilling and meaningful",
+        "score": 0.630336343598991,
+        "id": "4208c136-767f-4b84-a720-ec8f1f955265",
+        "created_at": "2026-11-03T00:44:38.662900+00:00",
+        "updated_at": "2026-11-03T00:44:38.662900+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it was awesome seeing people come together to support those serving the nation.",
+        "score": 0.6274941312497291,
+        "id": "6bbf222b-e921-4aa2-8252-9a9e3cc6d08d",
+        "created_at": "2026-11-03T00:44:57.050065+00:00",
+        "updated_at": "2026-11-03T00:44:57.050065+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10-16, 2023, which he found eye-opening and made him appreciate what he has and the need to give back.",
+        "score": 0.627143186185753,
+        "id": "591278a4-7769-4bd3-950c-3ac13371947e",
+        "created_at": "2026-11-03T00:41:59.450880+00:00",
+        "updated_at": "2026-11-03T00:41:59.450880+00:00"
+      },
+      {
+        "memory": "John is a veteran who joined the military and recently visited a veterans' organization where he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, which reinforced his sense of hope and resilience.",
+        "score": 0.6252911045255111,
+        "id": "6b39b3bf-7ed7-4d10-8d95-9bf2356a92bb",
+        "created_at": "2026-11-03T00:42:29.559421+00:00",
+        "updated_at": "2026-11-03T00:42:29.559421+00:00"
+      },
+      {
+        "memory": "John is part of a virtual support group and recently asked family and friends to join as advocates for the military, noting it has been awesome seeing people come together to support service members.",
+        "score": 0.6244416255290647,
+        "id": "abcfd7c8-93ff-463c-9f40-db41e7b9ac40",
+        "created_at": "2026-11-03T00:45:02.562225+00:00",
+        "updated_at": "2026-11-03T00:45:02.562225+00:00"
+      },
+      {
+        "memory": "John visited a military memorial with his kids the week of July 24, 2023, finding it a moving experience that made them awestruck and humbled while teaching them to respect those who served",
+        "score": 0.6233210370809499,
+        "id": "1b2fbf8a-7286-408e-b00e-6a5c6b747dc7",
+        "created_at": "2026-11-03T00:45:09.363909+00:00",
+        "updated_at": "2026-11-03T00:45:09.363909+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.6184335258153141,
+        "id": "8d71a920-7b74-48ff-90ff-9217dc64585c",
+        "created_at": "2026-11-03T00:42:17.333514+00:00",
+        "updated_at": "2026-11-03T00:42:17.333514+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital the week of July 10, 2023, where he met veterans and found the experience eye-opening, appreciating what he has and reinforcing his need to give back.",
+        "score": 0.6184335258153141,
+        "id": "9a840cc4-9e7b-4984-8067-2224654ff2db",
+        "created_at": "2026-11-03T00:42:01.928996+00:00",
+        "updated_at": "2026-11-03T00:42:01.928996+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial in late July 2023, where they were awestruck and humbled by the experience.",
+        "score": 0.6175791699759483,
+        "id": "38698765-2a98-401f-a1cb-da3fde1da56b",
+        "created_at": "2026-11-03T00:45:24.722116+00:00",
+        "updated_at": "2026-11-03T00:45:24.722116+00:00"
+      },
+      {
+        "memory": "John feels that his fire brigade teammates have become like family to him, noting that the bond of trust and reliance he shares with them is similar to what he felt during his time in the military.",
+        "score": 0.6163704424145348,
+        "id": "756d637d-31ca-4bac-a817-21ea682f6972",
+        "created_at": "2026-11-03T00:44:13.364427+00:00",
+        "updated_at": "2026-11-03T00:44:13.364427+00:00"
+      },
+      {
+        "memory": "John took his kids to visit a military memorial the week of July 24, 2023, where they were awestruck and humbled; John views it as important to teach children to respect and appreciate those who served their country.",
+        "score": 0.6156934802393529,
+        "id": "4f06c599-88b4-4e81-b0a3-bbbd92dcaeb8",
+        "created_at": "2026-11-03T00:45:12.567339+00:00",
+        "updated_at": "2026-11-03T00:45:12.567339+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and feels it is his true calling, finding a strong sense of purpose and passion in helping out his community.",
+        "score": 0.6148454642423589,
+        "id": "bacb8588-e0e8-44a9-95f7-25ddf6f847ea",
+        "created_at": "2026-11-03T00:49:46.168939+00:00",
+        "updated_at": "2026-11-03T00:49:46.168939+00:00"
+      },
+      {
+        "memory": "John joined a fire-fighting brigade in July 2023, inspired by Maria's volunteer work at a homeless shelter, and found the training to be intense and taxing but rewarding.",
+        "score": 0.6142943861218356,
+        "id": "f5bfbe98-941f-4d6d-a343-84aa77575af8",
+        "created_at": "2026-11-03T00:44:13.354875+00:00",
+        "updated_at": "2026-11-03T00:44:13.354875+00:00"
+      }
+    ],
+    "search_latency_ms": 27.9,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt inspired to join the military because, during his mid-July 2023 visit to the veteran’s hospital, he heard inspiring and heartbreaking stories from an elderly veteran named Samuel. Samuel’s resilience filled John with hope and reminded him why he wanted to serve, while the visit also made him appreciate what he has and reinforced his need to give back.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the veteran's resilience as the source of inspiration, matching the gold answer's core idea."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt inspired to join the military because, during his visit to the veteran’s hospital, he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that John was inspired by the resilience of veterans, with additional acceptable details."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt inspired to join the military because, during his visit to the veteran’s hospital, he heard inspiring and heartbreaking stories from an elderly veteran named Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that John was inspired by the resilience of veterans, with additional acceptable details."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John felt inspired because he heard inspiring and heartbreaking stories from elderly veteran Samuel, whose resilience filled him with hope and reminded him why he wanted to join the military.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the gold answer's core idea that John was inspired by the resilience of veterans, adding extra detail about Samuel."
+    }
+  }
+}

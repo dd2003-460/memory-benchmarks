@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q22",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John go to a convention with colleagues?",
+  "ground_truth_answer": "March 2023",
+  "evidence": [
+    "D12:9"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did John go to a convention with colleagues?",
+    "search_results": [
+      {
+        "memory": "John attended a convention with colleagues around March 2023 where they connected over their shared passion for using technology for good in the community.",
+        "score": 0.6711985158295991,
+        "id": "96248ea4-444b-4256-9db5-722712bde4c4",
+        "created_at": "2026-11-03T00:27:30.267684+00:00",
+        "updated_at": "2026-11-03T00:27:30.267684+00:00"
+      },
+      {
+        "memory": "John and his colleagues attended a convention together in March 2023, where they connected with like-minded individuals passionate about using technology for good in their community and exchanged ideas.",
+        "score": 0.6547705902576769,
+        "id": "554f7f69-775e-40e4-9d64-6d7ef3348bf9",
+        "created_at": "2026-11-03T00:27:24.445409+00:00",
+        "updated_at": "2026-11-03T00:27:24.445409+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 focused on using technology for good in the community, where he connected with like-minded individuals and brainstormed ideas.",
+        "score": 0.6545113891876543,
+        "id": "d9fa0071-6ea6-471d-b201-3e8d253b7e21",
+        "created_at": "2026-11-03T00:27:36.566771+00:00",
+        "updated_at": "2026-11-03T00:27:36.566771+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.6519268875600437,
+        "id": "4147e09c-771b-45b2-82d5-f5c4359c7d1d",
+        "created_at": "2026-11-03T00:27:38.970983+00:00",
+        "updated_at": "2026-11-03T00:27:38.970983+00:00"
+      },
+      {
+        "memory": "John attended a convention with colleagues in March 2023 where they connected with like-minded individuals passionate about using technology for good in their community.",
+        "score": 0.6519268875600437,
+        "id": "42e649da-e294-4f0f-b44c-c052acb77fbf",
+        "created_at": "2026-11-03T00:27:34.300683+00:00",
+        "updated_at": "2026-11-03T00:27:34.300683+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.6359292362140323,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John found the energy at the tech-for-good convention infectious, noting that brainstorming together with motivated people was empowering and gave him renewed purpose to make a bigger difference.",
+        "score": 0.58750122407692,
+        "id": "ccd162ed-ff16-4754-ac20-9d43cb5f89a6",
+        "created_at": "2026-11-03T00:27:38.974290+00:00",
+        "updated_at": "2026-11-03T00:27:38.974290+00:00"
+      },
+      {
+        "memory": "John found the energy at the tech-for-good convention infectious and empowering, stating that being surrounded by motivated people gave him renewed energy and inspired him to make a bigger difference.",
+        "score": 0.5845132956515078,
+        "id": "40630fff-2707-495e-b178-600f1d10cd56",
+        "created_at": "2026-11-03T00:27:36.573589+00:00",
+        "updated_at": "2026-11-03T00:27:36.573589+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.2475178448191838,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.24645344950163367,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.24608695533531164,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and motivating.",
+        "score": 0.23539470048098804,
+        "id": "60a148f6-694b-423d-938a-f91874f0bff6",
+        "created_at": "2026-11-03T00:30:32.327409+00:00",
+        "updated_at": "2026-11-03T00:30:32.327409+00:00"
+      },
+      {
+        "memory": "John is an activist who recently attended a gathering of like-minded individuals, which motivated him to continue making a difference through activism and striving for progress.",
+        "score": 0.23147856323502175,
+        "id": "901ad56d-188d-41b9-aedc-0a9998770fc5",
+        "created_at": "2026-11-03T00:39:40.558046+00:00",
+        "updated_at": "2026-11-03T00:39:40.558046+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.2296240085065786,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John hosted a small party for veterans on May 19, 2023, where they shared their stories and formed new friendships, which John found heartwarming and reinforcing of the importance of community support.",
+        "score": 0.22879432909062764,
+        "id": "2e541094-ac88-4a27-9c1b-a46e8e2ada18",
+        "created_at": "2026-11-03T00:30:36.692811+00:00",
+        "updated_at": "2026-11-03T00:30:36.692811+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.223413859982145,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.223413859982145,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John is a member of a virtual support group for the military and, around August 3, 2023, asked his family and friends to join as advocates to back those serving the nation.",
+        "score": 0.21663738344358857,
+        "id": "db361922-1b02-4bb5-9118-a647587007e2",
+        "created_at": "2026-11-03T00:44:33.354122+00:00",
+        "updated_at": "2026-11-03T00:44:33.354122+00:00"
+      },
+      {
+        "memory": "John noted that after the renovation, the community center became very busy, which he found amazing as it showed everyone coming together to help out.",
+        "score": 0.21323417056782232,
+        "id": "550d90b7-fe41-44c2-93e8-2339138b1546",
+        "created_at": "2026-11-03T00:46:19.147490+00:00",
+        "updated_at": "2026-11-03T00:46:19.147490+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.2118579958049061,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      }
+    ],
+    "search_latency_ms": 61.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "March 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer's date."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q124",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What event is Nate organizing in June 2022?",
+  "ground_truth_answer": "A gaming party",
+  "evidence": [
+    "D14:20"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What event is Nate organizing in June 2022?",
+    "search_results": [
+      {
+        "memory": "Nate is organizing a gaming party on June 17, 2022 (two weekends after June 3, 2022), and anticipates the event will be hectic but fun.",
+        "score": 0.7792523831284563,
+        "id": "d1da9b87-9215-41c3-82aa-6d6354880ef9",
+        "created_at": "2026-11-03T03:09:34.648166+00:00",
+        "updated_at": "2026-11-03T03:09:34.648166+00:00"
+      },
+      {
+        "memory": "Nate won his fourth video game tournament on July 8, 2022, which was an online event. He described the victory as indescribable and expressed pride in being able to make money doing what he loves.",
+        "score": 0.7642494108588165,
+        "id": "4d633f05-729a-4eb0-a7da-5b4a8605c2e2",
+        "created_at": "2026-11-03T03:11:45.424456+00:00",
+        "updated_at": "2026-11-03T03:11:45.424456+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party in mid-June 2022, two weekends after June 3, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.7606827288736216,
+        "id": "be3c86f2-6d34-48e1-a989-2be2a45dd5a2",
+        "created_at": "2026-11-03T03:09:48.753824+00:00",
+        "updated_at": "2026-11-03T03:09:48.753824+00:00"
+      },
+      {
+        "memory": "Nate's gaming party held on June 17, 2022, was a great success with 7 people attending, and 6 of them expressed interest in doing it again the following month.",
+        "score": 0.7565474354758367,
+        "id": "8287e95e-faf9-4f26-9b08-b448a985361b",
+        "created_at": "2026-11-03T03:11:06.983162+00:00",
+        "updated_at": "2026-11-03T03:11:06.983162+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022 (two weekends after June 3, 2022), and plans to invite both his new tournament friends and old friends/teammates from previous tournaments.",
+        "score": 0.7562721652468158,
+        "id": "74402f99-3ac3-4233-ab40-d65d0f0b0162",
+        "created_at": "2026-11-03T03:09:39.271050+00:00",
+        "updated_at": "2026-11-03T03:09:39.271050+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, attended by 7 people, where they played games and chess; 6 attendees expressed interest in repeating the event next month.",
+        "score": 0.7524019627667112,
+        "id": "acf7b626-dc8a-43cf-a4f9-55e4cb6a5010",
+        "created_at": "2026-11-03T03:11:28.554907+00:00",
+        "updated_at": "2026-11-03T03:11:28.554907+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 attendees; 6 of them said they would want to do it again next month. They also played chess afterward for fun.",
+        "score": 0.748218036259779,
+        "id": "6dce58e8-9f0a-4333-87d4-2d56a102bff4",
+        "created_at": "2026-11-03T03:11:32.698765+00:00",
+        "updated_at": "2026-11-03T03:11:32.698765+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party on June 24, 2022, which was a great success with 7 people attending; 6 attendees said they would want to do it again next month, and the group played chess afterward for fun",
+        "score": 0.7416773653916666,
+        "id": "2d330c08-0097-4ad8-abdd-1e99569c6df2",
+        "created_at": "2026-11-03T03:11:19.723665+00:00",
+        "updated_at": "2026-11-03T03:11:19.723665+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party for the weekend of June 18-19, 2022, and plans to invite his tournament friends as well as old friends and teammates from other tournaments.",
+        "score": 0.7389871834697355,
+        "id": "3ffff6c6-5368-4618-a41c-1e20a47e8a8d",
+        "created_at": "2026-11-03T03:09:52.150987+00:00",
+        "updated_at": "2026-11-03T03:09:52.150987+00:00"
+      },
+      {
+        "memory": "Nate won another regional video game tournament in the week preceding June 3, 2022, and enjoyed meeting new people and connecting with fellow gamers during the event.",
+        "score": 0.7302802475400579,
+        "id": "22e2d865-a8f0-4994-957d-e7062d217e55",
+        "created_at": "2026-11-03T03:08:58.979037+00:00",
+        "updated_at": "2026-11-03T03:08:58.979037+00:00"
+      },
+      {
+        "memory": "After winning the tournament around June 3, 2022, Nate spoke with other participants who expressed interest in hanging out later, and he shared a photo of a purple and blue controller with a star field design.",
+        "score": 0.7256145219951124,
+        "id": "913ba860-997e-4a34-a4ae-c6c2c9a5ec0d",
+        "created_at": "2026-11-03T03:09:16.502293+00:00",
+        "updated_at": "2026-11-03T03:09:16.502293+00:00"
+      },
+      {
+        "memory": "Nate won a regional video game tournament in the week preceding June 3, 2022, describing the victory as a huge confidence boost that validated his hard work and allowed him to meet new people.",
+        "score": 0.7126716426554959,
+        "id": "1f222f62-c291-4d10-aacf-2e1def25d55c",
+        "created_at": "2026-11-03T03:09:16.496939+00:00",
+        "updated_at": "2026-11-03T03:09:16.496939+00:00"
+      },
+      {
+        "memory": "Nate is providing custom controller decorations as a gift for everyone attending his gaming party on June 17, 2022.",
+        "score": 0.7096584850481421,
+        "id": "35432357-8e80-4626-9729-b07bf30150c2",
+        "created_at": "2026-11-03T03:09:43.342913+00:00",
+        "updated_at": "2026-11-03T03:09:43.342913+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his purple and blue controller with a star field design on June 3, 2022, after mentioning that players from the regional tournament he won wanted to hang out with him.",
+        "score": 0.7061468567586674,
+        "id": "44bcf9bc-8d91-4529-a926-7132e8ce543f",
+        "created_at": "2026-11-03T03:09:12.760827+00:00",
+        "updated_at": "2026-11-03T03:09:12.760827+00:00"
+      },
+      {
+        "memory": "Nate is participating in his 4th video game tournament scheduled for May 2022 and feels good about the upcoming event.",
+        "score": 0.6916571162476124,
+        "id": "43533d36-7e3e-40be-b61a-4326405b51ec",
+        "created_at": "2026-11-03T03:04:25.116296+00:00",
+        "updated_at": "2026-11-03T03:04:25.116296+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group.",
+        "score": 0.69037924250263,
+        "id": "db581681-c9fe-43e6-bed8-0ae2d0d7a53a",
+        "created_at": "2026-11-03T03:11:22.968659+00:00",
+        "updated_at": "2026-11-03T03:11:22.968659+00:00"
+      },
+      {
+        "memory": "Nate won his second gaming tournament in the week preceding May 2, 2022, playing Street Fighter at a local event after usually playing CS:GO, and described the final match as adrenaline-filled with the other finalist shaking his hand",
+        "score": 0.624342291421616,
+        "id": "2dcab955-1085-4f0a-af2e-9d1c80c2f7a6",
+        "created_at": "2026-11-03T03:05:32.537802+00:00",
+        "updated_at": "2026-11-03T03:05:32.537802+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets",
+        "score": 0.5467357009777764,
+        "id": "e0393ced-a07a-4c03-bd21-093d3754d8ac",
+        "created_at": "2026-11-03T03:14:40.193337+00:00",
+        "updated_at": "2026-11-03T03:14:40.193337+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off the weekend of August 27-28, 2022, to chill with his pets.",
+        "score": 0.5330156885707398,
+        "id": "ac7eb7e5-83f8-4337-aa5c-0b61db24594a",
+        "created_at": "2026-11-03T03:14:15.518338+00:00",
+        "updated_at": "2026-11-03T03:14:15.518338+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.5107297969184386,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      }
+    ],
+    "search_latency_ms": 73.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A gaming party in mid-June 2022, specifically for the weekend of June 18–19, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core event, a gaming party, with additional date details."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A gaming party.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate is organizing a gaming party in mid-June 2022, inviting his tournament friends and old friends/teammates.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly identifies the event as a gaming party, matching the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate is organizing a gaming party in June 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Nate is organizing a gaming party in June 2022, matching the gold answer."
+    }
+  }
+}

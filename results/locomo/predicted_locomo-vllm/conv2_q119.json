@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q119",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How often does John get to see sunsets like the one he shared with Maria?",
+  "ground_truth_answer": "At least once a week",
+  "evidence": [
+    "D22:17"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How often does John get to see sunsets like the one he shared with Maria?",
+    "search_results": [
+      {
+        "memory": "John shares that he sees sunsets at least once a week during his walks, which helps him disconnect, think, and find peace.",
+        "score": 0.8235017652050642,
+        "id": "3eaedbbb-a1c3-4656-adf3-7a9936a63ad4",
+        "created_at": "2026-11-03T00:40:23.095026+00:00",
+        "updated_at": "2026-11-03T00:40:23.095026+00:00"
+      },
+      {
+        "memory": "John sees sunsets at least once a week during his walks, which he values as a way to disconnect, think, and find peace in the world.",
+        "score": 0.6810935685048768,
+        "id": "9f04e7e1-0649-4940-8797-bc9d51efb30e",
+        "created_at": "2026-11-03T00:40:12.930885+00:00",
+        "updated_at": "2026-11-03T00:40:12.930885+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach on May 25, 2023, showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community work with Maria.",
+        "score": 0.6636926410766932,
+        "id": "8176ec01-edd3-4cb4-9f09-821fa4814e87",
+        "created_at": "2026-11-03T00:31:05.207069+00:00",
+        "updated_at": "2026-11-03T00:31:05.207069+00:00"
+      },
+      {
+        "memory": "John takes walks at least once a week to see sunsets, which he uses as a way to disconnect, think, and find peace in nature.",
+        "score": 0.6593827092299659,
+        "id": "ed0316c4-d1bc-4458-964c-c401fa3a6e15",
+        "created_at": "2026-11-03T00:40:33.171426+00:00",
+        "updated_at": "2026-11-03T00:40:33.171426+00:00"
+      },
+      {
+        "memory": "John shared a photo of a sunset over the ocean from a walk he took around June 28, 2023, noting it reminds him to take a break, breathe, and appreciate nature.",
+        "score": 0.6516838936768867,
+        "id": "3cede85f-d96f-48a8-a2b3-163d23a5b332",
+        "created_at": "2026-11-03T00:40:23.098108+00:00",
+        "updated_at": "2026-11-03T00:40:23.098108+00:00"
+      },
+      {
+        "memory": "John shared a photo from a walk he took the week of June 26, 2023, showing a sunset over the ocean with a sailboat in the distance, which serves as a reminder for him to take breaks, breathe, and appreciate nature.",
+        "score": 0.6415711814056351,
+        "id": "afd3c72f-7914-4710-b8d2-2adbdc6e9289",
+        "created_at": "2026-11-03T00:40:05.718834+00:00",
+        "updated_at": "2026-11-03T00:40:05.718834+00:00"
+      },
+      {
+        "memory": "John took a special vacation to California with his family, where they enjoyed a gorgeous sunset and an awesome night strolling the shore together, creating memories.",
+        "score": 0.6195327893114546,
+        "id": "ec2e08e2-b4f4-4595-ab14-3754e283041d",
+        "created_at": "2026-11-03T00:34:53.411032+00:00",
+        "updated_at": "2026-11-03T00:34:53.411032+00:00"
+      },
+      {
+        "memory": "Maria took a vacation to Florida with her family, where she photographed a sunset over the water and felt a strong sense of gratitude while sitting with them, valuing these moments for creating lasting memories.",
+        "score": 0.6183656015858591,
+        "id": "e06be941-867c-426c-8bfb-58b3571f5e6c",
+        "created_at": "2026-11-03T00:35:01.487295+00:00",
+        "updated_at": "2026-11-03T00:35:01.487295+00:00"
+      },
+      {
+        "memory": "John sometimes doubts if he is making a difference in his activism work, but finds it uplifting and motivating to know that people like Maria understand and support his efforts.",
+        "score": 0.5820868046721038,
+        "id": "eebf9a78-877d-452f-ac3f-77ca8fbdb076",
+        "created_at": "2026-11-03T00:39:34.284028+00:00",
+        "updated_at": "2026-11-03T00:39:34.284028+00:00"
+      },
+      {
+        "memory": "John shared a photo from his family beach vacation showing two children playing in the ocean waves, describing trips like these as being full of amazing memories.",
+        "score": 0.57919244577452,
+        "id": "52025e5f-8a34-4535-99a9-4a6a4eb599dd",
+        "created_at": "2026-11-03T00:35:09.119550+00:00",
+        "updated_at": "2026-11-03T00:35:09.119550+00:00"
+      },
+      {
+        "memory": "John sometimes doubts whether he is making a real difference in his community work but finds motivation and encouragement from knowing that people like Maria understand the value of his efforts.",
+        "score": 0.5650201776530412,
+        "id": "df17df94-e66a-425d-bf7e-a9e03df06865",
+        "created_at": "2026-11-03T00:39:53.008084+00:00",
+        "updated_at": "2026-11-03T00:39:53.008084+00:00"
+      },
+      {
+        "memory": "John shared a photo of a man sitting on a mountain overlooking a lake while encouraging Maria to keep up her courage after she discussed trying new things.",
+        "score": 0.5409140763281653,
+        "id": "3a148108-3e9e-4642-b918-1870daf13a8b",
+        "created_at": "2026-11-03T00:28:59.603483+00:00",
+        "updated_at": "2026-11-03T00:28:59.603483+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.5297466906589968,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John and Maria share a mutual belief in pushing themselves out of their comfort zones, viewing self-exploration and challenging boundaries as essential journeys for personal growth and learning.",
+        "score": 0.5204633137927992,
+        "id": "4df3c3c4-f8b5-48a7-abe7-2533df26db52",
+        "created_at": "2026-11-03T00:29:11.477623+00:00",
+        "updated_at": "2026-11-03T00:29:11.477623+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.5180552749734663,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "Maria shared a photo on July 3, 2023, showing three children sitting on a step smiling at the shelter where she volunteers, and John responded by asking for updates on the kids.",
+        "score": 0.5168198238783541,
+        "id": "6f96f389-490f-4562-ac83-d5f9ea5c084d",
+        "created_at": "2026-11-03T00:37:18.928538+00:00",
+        "updated_at": "2026-11-03T00:37:18.928538+00:00"
+      },
+      {
+        "memory": "Maria made dinner together with her mom on May 3, 2023, and shared a photo of the table filled with food from the meal.",
+        "score": 0.4749037524212798,
+        "id": "32a3f1ce-f3cc-4ece-b534-5487969e24e3",
+        "created_at": "2026-11-03T00:28:24.367216+00:00",
+        "updated_at": "2026-11-03T00:28:24.367216+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.46866061386802677,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it while discussing her family road trip to Oregon when she was younger.",
+        "score": 0.46403405553177446,
+        "id": "ce1ce1f4-88ce-4a16-a2b6-9bd0666f1584",
+        "created_at": "2026-11-03T00:32:05.299314+00:00",
+        "updated_at": "2026-11-03T00:32:05.299314+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.3600124496526709,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      }
+    ],
+    "search_latency_ms": 93.3,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "At least once a week.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "At least once a week, during his walks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact gold answer and adds extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "At least once a week.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "At least once a week, during his walks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact gold answer and adds extra detail."
+    }
+  }
+}

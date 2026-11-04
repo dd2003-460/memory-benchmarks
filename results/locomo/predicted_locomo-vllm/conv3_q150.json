@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q150",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How did Joanna celebrate after sharing her book with her writers group?",
+  "ground_truth_answer": "making a delicious treat",
+  "evidence": [
+    "D19:8"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How did Joanna celebrate after sharing her book with her writers group?",
+    "search_results": [
+      {
+        "memory": "Joanna shared her book with her writers group on the week of August 15, 2022, and received great feedback, which she found rewarding as her hard work is paying off",
+        "score": 0.9084854424130928,
+        "id": "33a4aa56-0cb7-4d47-9626-bfa58ff389f8",
+        "created_at": "2026-11-03T03:14:40.188411+00:00",
+        "updated_at": "2026-11-03T03:14:40.188411+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group in the week prior to August 22, 2022, feeling super nervous but receiving great feedback that made her feel her hard work was paying off.",
+        "score": 0.9020927830959131,
+        "id": "2aad159b-75d7-4be2-860b-11640e408fe5",
+        "created_at": "2026-11-03T03:14:07.173102+00:00",
+        "updated_at": "2026-11-03T03:14:07.173102+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15-21, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.9007970652454066,
+        "id": "22e269e5-f2ed-4a85-8759-0f70125c8e86",
+        "created_at": "2026-11-03T03:14:11.538519+00:00",
+        "updated_at": "2026-11-03T03:14:11.538519+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and received great feedback, feeling proud that her hard work is paying off.",
+        "score": 0.8981927839707009,
+        "id": "8d65fcef-0597-40c8-b61f-ee76fb5ad9b6",
+        "created_at": "2026-11-03T03:14:15.512379+00:00",
+        "updated_at": "2026-11-03T03:14:15.512379+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.874453025484969,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Joanna joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which made her feel motivated and like she finally belongs somewhere",
+        "score": 0.8728390046704021,
+        "id": "02ee203f-d412-43ad-8ae2-d3fd64dc7987",
+        "created_at": "2026-11-03T03:04:12.598846+00:00",
+        "updated_at": "2026-11-03T03:04:12.598846+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback from her writers group by making a raspberry chia pudding parfait dessert",
+        "score": 0.8252762133566286,
+        "id": "3f718a91-15b5-408c-8197-142196632149",
+        "created_at": "2026-11-03T03:14:40.190855+00:00",
+        "updated_at": "2026-11-03T03:14:40.190855+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback from her writers group by making a raspberry chia pudding parfait dessert.",
+        "score": 0.8174292489863697,
+        "id": "44762670-26b3-469b-81e9-64b94fbfa20c",
+        "created_at": "2026-11-03T03:14:15.515259+00:00",
+        "updated_at": "2026-11-03T03:14:15.515259+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.7966448819335776,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club and recently finished making a cute DIY bookmark with a plant design for one of the ladies in the group.",
+        "score": 0.738984440976345,
+        "id": "24177697-c286-4462-8c54-24fabb1d8bb1",
+        "created_at": "2026-11-03T03:20:27.562878+00:00",
+        "updated_at": "2026-11-03T03:20:27.562878+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.6833068286934397,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022 after her movie did well, sharing a photo of a notebook page containing dialogues that explore themes of loss, redemption, and forgiveness.",
+        "score": 0.6787316554230937,
+        "id": "b3b2664a-406b-433f-8f94-3421f154dc9c",
+        "created_at": "2026-11-03T03:12:42.307801+00:00",
+        "updated_at": "2026-11-03T03:12:42.307801+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and shared a photo of a notebook containing handwritten dialogues exploring themes of loss, redemption, and forgiveness.",
+        "score": 0.6740311608998723,
+        "id": "ad9bfe13-491d-49a8-892f-31a6809934a3",
+        "created_at": "2026-11-03T03:12:47.658981+00:00",
+        "updated_at": "2026-11-03T03:12:47.658981+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book recently after her movie did well, sharing a photo of herself holding a notebook with handwritten pages.",
+        "score": 0.6594421728633988,
+        "id": "63929b34-eaa0-43f5-8261-592163bf9a17",
+        "created_at": "2026-11-03T03:12:34.854375+00:00",
+        "updated_at": "2026-11-03T03:12:34.854375+00:00"
+      },
+      {
+        "memory": "Joanna started writing a book in July 2022, inspired by the success of her movie, and is considering it as her first attempt at publishing a book.",
+        "score": 0.6154983102570285,
+        "id": "7d9b3362-1ded-4109-9fd4-004ce629fb20",
+        "created_at": "2026-11-03T03:12:55.204258+00:00",
+        "updated_at": "2026-11-03T03:12:55.204258+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around October 28, 2022, and enjoyed seeing how far she has come as a writer.",
+        "score": 0.6147366444679544,
+        "id": "902b4a6c-98c5-425e-b44c-17ab9e39835d",
+        "created_at": "2026-11-03T03:25:59.273670+00:00",
+        "updated_at": "2026-11-03T03:25:59.273670+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who creates visual character designs to help bring her characters alive in her head, which she uses as a tool to write better.",
+        "score": 0.6097337698445213,
+        "id": "284d3c16-1b31-4e48-938c-176df7fa3412",
+        "created_at": "2026-11-03T03:25:06.483251+00:00",
+        "updated_at": "2026-11-03T03:25:06.483251+00:00"
+      },
+      {
+        "memory": "Joanna discovered old notebooks containing her early writings around late October 2022, which she found cool as it showed how far she has come as a writer.",
+        "score": 0.606913050498844,
+        "id": "2e811027-0f72-413e-a7d0-53046f97bee7",
+        "created_at": "2026-11-03T03:26:24.071018+00:00",
+        "updated_at": "2026-11-03T03:26:24.071018+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book in the week preceding October 6, 2022, after putting in many late nights and edits, describing the dedication as worth it.",
+        "score": 0.5953438160880171,
+        "id": "88de8619-26c0-4a5e-86b2-cafa68390b9d",
+        "created_at": "2026-11-03T03:20:10.701958+00:00",
+        "updated_at": "2026-11-03T03:20:10.701958+00:00"
+      },
+      {
+        "memory": "Joanna is writing a book that explores themes of loss, redemption, and forgiveness through dialogue, describing it as a deep and emotional story she is excited about.",
+        "score": 0.5944050090917389,
+        "id": "9613e0fd-6fb4-4f1c-8efb-9bba91f5c644",
+        "created_at": "2026-11-03T03:12:39.639682+00:00",
+        "updated_at": "2026-11-03T03:12:39.639682+00:00"
+      }
+    ],
+    "search_latency_ms": 50.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna celebrated by making a raspberry chia pudding parfait dessert.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies a specific dessert, which matches the gold answer's concept of making a delicious treat."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna celebrated by making a raspberry chia pudding parfait dessert.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a specific dessert, which matches the gold answer's concept of making a delicious treat."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna celebrated by making a raspberry chia pudding parfait dessert.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a specific dessert, which matches the gold answer's concept of making a delicious treat."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna celebrated by making a raspberry chia pudding parfait dessert.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies a specific dessert, which matches the gold answer's concept of making a delicious treat."
+    }
+  }
+}

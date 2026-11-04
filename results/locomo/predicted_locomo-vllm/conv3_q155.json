@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q155",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Nate's favorite dish from the cooking show he hosted?",
+  "ground_truth_answer": "Coconut milk ice cream",
+  "evidence": [
+    "D21:6"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Nate's favorite dish from the cooking show he hosted?",
+    "search_results": [
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes; he found the experience nerve-wracking but enjoyable and picked up several new recipes during the episode.",
+        "score": 0.6709022765393422,
+        "id": "ebb4b719-5567-4d9e-868d-77d67db5071b",
+        "created_at": "2026-11-03T03:17:35.099122+00:00",
+        "updated_at": "2026-11-03T03:17:35.099122+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, dairy-free, and having a tropical coconut twist.",
+        "score": 0.6612232133116561,
+        "id": "ce05810b-405e-4189-9cc7-1694e3a3e105",
+        "created_at": "2026-11-03T03:17:45.174891+00:00",
+        "updated_at": "2026-11-03T03:17:45.174891+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, teaching people vegan ice cream recipes, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.660638272059908,
+        "id": "07dbbc09-9b02-4fa4-983b-64ac6ed4f5f0",
+        "created_at": "2026-11-03T03:17:49.200495+00:00",
+        "updated_at": "2026-11-03T03:17:49.200495+00:00"
+      },
+      {
+        "memory": "Nate appeared on his own cooking show on September 12, 2022, where he taught people vegan ice cream recipes, describing the experience as nerve-wracking but a blast and noting that he picked up a few new recipes.",
+        "score": 0.6577284396316115,
+        "id": "96eac831-b7b2-47d0-bb22-8efcd49819ab",
+        "created_at": "2026-11-03T03:17:20.945746+00:00",
+        "updated_at": "2026-11-03T03:17:20.945746+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.6511340074594097,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.6445872191034483,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate's favorite dish from his cooking show is coconut milk ice cream, which he describes as smooth, creamy, with a tropical twist, and suitable for those with lactose intolerance or vegan preferences.",
+        "score": 0.64371117345995,
+        "id": "09ab8861-3ace-4e8c-a0e2-5e9adc8491b8",
+        "created_at": "2026-11-03T03:17:49.204031+00:00",
+        "updated_at": "2026-11-03T03:17:49.204031+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.6382241400314246,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate participated in a game tournament that was pushed back, during which he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6326465810313496,
+        "id": "e09485e3-7687-4a5a-8bd5-f8e635366795",
+        "created_at": "2026-11-03T03:30:17.364371+00:00",
+        "updated_at": "2026-11-03T03:30:17.364371+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on September 12, 2022, describing the experience as nerve-wracking but enjoyable.",
+        "score": 0.632332945390687,
+        "id": "593b14aa-1363-4a20-8298-23180191c8d8",
+        "created_at": "2026-11-03T03:17:45.170610+00:00",
+        "updated_at": "2026-11-03T03:17:45.170610+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, so he tried out cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6235180088027119,
+        "id": "18b5654c-a1b4-49d2-86fc-aa1d461a3de4",
+        "created_at": "2026-11-03T03:30:37.343236+00:00",
+        "updated_at": "2026-11-03T03:30:37.343236+00:00"
+      },
+      {
+        "memory": "Nate taught vegan ice cream recipes on his own cooking show on Monday, September 12, 2022, finding the experience nerve-wracking but enjoyable, and picked up several new recipes from the event.",
+        "score": 0.6220957486997989,
+        "id": "c4aac126-d686-44da-96ea-7057263082dd",
+        "created_at": "2026-11-03T03:17:30.883683+00:00",
+        "updated_at": "2026-11-03T03:17:30.883683+00:00"
+      },
+      {
+        "memory": "Nate's game tournament was pushed back, prompting him to try cooking homemade coconut ice cream with red sprinkles that changed the color of the mixture.",
+        "score": 0.6170756346478068,
+        "id": "fa557a45-cc31-4369-8968-71f8228b5751",
+        "created_at": "2026-11-03T03:30:33.301448+00:00",
+        "updated_at": "2026-11-03T03:30:33.301448+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles play to savor peaceful moments and sometimes brings them into the kitchen so they can watch him cook, sharing a photo of coconut milk ice cream with red sprinkles on April 17, 2022",
+        "score": 0.612238341124711,
+        "id": "2a0bfe42-7ad1-4d13-90e1-7e1c3820ca04",
+        "created_at": "2026-11-03T03:03:46.485138+00:00",
+        "updated_at": "2026-11-03T03:03:46.485138+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.6107179568427864,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for a cooking or baking session on September 5, 2022, stating that the activity brings them together, and shared a photo of a pile of cookies with sprinkles on a wooden table.",
+        "score": 0.6099049115194071,
+        "id": "83384277-b63a-47bc-9f60-1772d1ced054",
+        "created_at": "2026-11-03T03:16:08.952067+00:00",
+        "updated_at": "2026-11-03T03:16:08.952067+00:00"
+      },
+      {
+        "memory": "Nate's video game tournament was pushed back around November 9, 2022, so he tried out cooking and made homemade coconut ice cream with red sprinkles that changed the color",
+        "score": 0.6036014575982376,
+        "id": "46d67e2f-3d34-4fb2-9c5f-fad60f760a13",
+        "created_at": "2026-11-03T03:30:09.379749+00:00",
+        "updated_at": "2026-11-03T03:30:09.379749+00:00"
+      },
+      {
+        "memory": "Nate's favorite dairy-free desserts are coconut milk ice cream and dairy-free chocolate mousse, which he describes as super creamy and tasting like the real thing.",
+        "score": 0.6006825608771258,
+        "id": "81dfcf42-75d5-4c7a-a4a9-d9bf76eb1aa6",
+        "created_at": "2026-11-03T03:18:37.399595+00:00",
+        "updated_at": "2026-11-03T03:18:37.399595+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where attendees played games and then Chess afterward for fun",
+        "score": 0.5986071490641598,
+        "id": "10c2ef6a-5353-401f-ad30-1ccd1e6914a8",
+        "created_at": "2026-11-03T03:11:10.684631+00:00",
+        "updated_at": "2026-11-03T03:11:10.684631+00:00"
+      },
+      {
+        "memory": "Nate identified coconut milk ice cream as his favorite dish from his cooking show, describing it as smooth, creamy, and having a tropical twist, while noting its suitability for dairy-free and vegan diets.",
+        "score": 0.597680235115991,
+        "id": "a012f901-f39e-48a1-b034-91fe84062507",
+        "created_at": "2026-11-03T03:17:35.102080+00:00",
+        "updated_at": "2026-11-03T03:17:35.102080+00:00"
+      }
+    ],
+    "search_latency_ms": 43.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Coconut milk ice cream",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

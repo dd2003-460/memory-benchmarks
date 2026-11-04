@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q104",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is \"Little Women\" about according to Joanna?",
+  "ground_truth_answer": "Sisterhood, love, and reaching for your dreams",
+  "evidence": [
+    "D3:17"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is \"Little Women\" about according to Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna found the themes of sisterhood, love, and chasing dreams in 'Little Women' particularly resonant and meaningful to her personal experience.",
+        "score": 0.9059390883159791,
+        "id": "ad69ad6f-e7eb-448a-a2cf-12366929b111",
+        "created_at": "2026-11-03T03:19:55.058039+00:00",
+        "updated_at": "2026-11-03T03:19:55.058039+00:00"
+      },
+      {
+        "memory": "Joanna found the themes of sisterhood, love, and chasing dreams in 'Little Women' particularly resonant and spoke to her personally.",
+        "score": 0.9056459210168886,
+        "id": "6e5abe10-46f8-46ae-b19f-fb83b6a42744",
+        "created_at": "2026-11-03T03:20:10.709299+00:00",
+        "updated_at": "2026-11-03T03:20:10.709299+00:00"
+      },
+      {
+        "memory": "Joanna watched the movie 'Little Women' and found it deeply resonant, appreciating how well it explored themes of sisterhood, love, and chasing dreams.",
+        "score": 0.9010292191832034,
+        "id": "417f3e2f-b74b-47cc-b4f8-e7aaa67ec377",
+        "created_at": "2026-11-03T03:19:18.830641+00:00",
+        "updated_at": "2026-11-03T03:19:18.830641+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.8182404152648284,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.8166053527991883,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.8120680974409968,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.7979797713894096,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Joanna is a writer who was inspired by a story about a brave little turtle she read at age 10, which influenced her writing style to focus on finding courage and taking risks.",
+        "score": 0.6182051635530103,
+        "id": "090ff658-023a-4018-b576-d40edc0a5995",
+        "created_at": "2026-11-03T03:26:37.150491+00:00",
+        "updated_at": "2026-11-03T03:26:37.150491+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle, reflecting on the value of creating new memories as one grows up.",
+        "score": 0.5920326650795762,
+        "id": "47122dd3-2c9e-4993-b75a-abf20f46629a",
+        "created_at": "2026-11-03T03:30:00.778887+00:00",
+        "updated_at": "2026-11-03T03:30:00.778887+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle while discussing childhood memories with Nate.",
+        "score": 0.5898121085599187,
+        "id": "f8a1217c-decb-4698-90a1-5b2ba03e6c56",
+        "created_at": "2026-11-03T03:29:57.310296+00:00",
+        "updated_at": "2026-11-03T03:29:57.310296+00:00"
+      },
+      {
+        "memory": "When Joanna was 10 years old, she wrote a story about a brave little turtle who was scared but explored the world anyway, a piece that still influences her writing today with themes of finding courage and taking risks.",
+        "score": 0.5707562239231506,
+        "id": "1719cae0-234d-4809-aeb7-e83d8f40e6ac",
+        "created_at": "2026-11-03T03:26:24.076148+00:00",
+        "updated_at": "2026-11-03T03:26:24.076148+00:00"
+      },
+      {
+        "memory": "One of the actors on Joanna's movie set told her how much she liked the script, which gave Joanna chills and was a highlight moment for her.",
+        "score": 0.37691908576134525,
+        "id": "df4c9af1-ac79-4995-8fad-5c066390a0e2",
+        "created_at": "2026-11-03T03:33:01.271934+00:00",
+        "updated_at": "2026-11-03T03:33:01.271934+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her writing work, finding it priceless to discuss projects with them and receive feedback",
+        "score": 0.32475821283336537,
+        "id": "5385a164-9c0b-4bb8-8037-c857231660f2",
+        "created_at": "2026-11-03T03:07:22.210011+00:00",
+        "updated_at": "2026-11-03T03:07:22.210011+00:00"
+      },
+      {
+        "memory": "Joanna is a member of a writing club where she interacts with other female writers",
+        "score": 0.25567974939999794,
+        "id": "0d47bb64-51e4-4695-a046-93b41d0353e9",
+        "created_at": "2026-11-03T03:20:13.574516+00:00",
+        "updated_at": "2026-11-03T03:20:13.574516+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to get through tough times and values the support of her friends during difficult periods",
+        "score": 0.2403831017928347,
+        "id": "04284828-fce4-416a-b387-e69ffdb4138a",
+        "created_at": "2026-11-03T03:07:15.203595+00:00",
+        "updated_at": "2026-11-03T03:07:15.203595+00:00"
+      },
+      {
+        "memory": "Joanna has a brother who used to write her cute notes when they were children, which brings back sweet memories for her",
+        "score": 0.22983902330144595,
+        "id": "a5227fb7-15b0-4fc0-8879-3800e4765955",
+        "created_at": "2026-11-03T03:29:49.163824+00:00",
+        "updated_at": "2026-11-03T03:29:49.163824+00:00"
+      },
+      {
+        "memory": "Joanna's brother used to write her cute notes when they were children, which brings back sweet memories for her.",
+        "score": 0.228353168422192,
+        "id": "7582f8fe-c96e-438e-a4b8-eb326394e503",
+        "created_at": "2026-11-03T03:29:57.305804+00:00",
+        "updated_at": "2026-11-03T03:29:57.305804+00:00"
+      },
+      {
+        "memory": "Joanna's brother wrote a note that she keeps, which he used to make for her when they were kids, and it brings back sweet childhood memories",
+        "score": 0.22295781128870193,
+        "id": "570103dc-d788-4933-914b-e02817dbf5d5",
+        "created_at": "2026-11-03T03:30:09.366845+00:00",
+        "updated_at": "2026-11-03T03:30:09.366845+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.22234813784547516,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna got the idea for her new love story script from a dream.",
+        "score": 0.22129949196561882,
+        "id": "8bc68391-335d-4b02-b87e-ce5ad2c4889f",
+        "created_at": "2026-11-03T03:28:17.707180+00:00",
+        "updated_at": "2026-11-03T03:28:17.707180+00:00"
+      }
+    ],
+    "search_latency_ms": 74.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "According to Joanna, “Little Women” is about sisterhood, love, and chasing dreams.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer by identifying sisterhood, love, and chasing/reaching for dreams."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "According to Joanna, *Little Women* is about sisterhood, love, and chasing dreams.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying sisterhood, love, and chasing/reaching for dreams."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "According to Joanna, *Little Women* is about sisterhood, love, and chasing dreams.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying sisterhood, love, and chasing/reaching for dreams."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "According to Joanna, *Little Women* is about sisterhood, love, and chasing dreams.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer by identifying sisterhood, love, and chasing/reaching for dreams."
+    }
+  }
+}

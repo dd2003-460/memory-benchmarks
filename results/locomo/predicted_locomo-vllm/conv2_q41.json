@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q41",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Does John live close to a beach or the mountains?",
+  "ground_truth_answer": "beach",
+  "evidence": [
+    "D22:15"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Does John live close to a beach or the mountains?",
+    "search_results": [
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the view stunning despite the difficulty, noting it helped clear his head.",
+        "score": 0.6073890394575588,
+        "id": "707b3516-0152-47d5-8120-38e63a930ea2",
+        "created_at": "2026-11-03T00:32:03.062423+00:00",
+        "updated_at": "2026-11-03T00:32:03.062423+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach on May 25, 2023, showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community work with Maria.",
+        "score": 0.6057171498249815,
+        "id": "8176ec01-edd3-4cb4-9f09-821fa4814e87",
+        "created_at": "2026-11-03T00:31:05.207069+00:00",
+        "updated_at": "2026-11-03T00:31:05.207069+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.605412744957253,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John shared a photo from his family beach vacation showing two children playing in the ocean waves, describing trips like these as being full of amazing memories.",
+        "score": 0.5972867838205397,
+        "id": "52025e5f-8a34-4535-99a9-4a6a4eb599dd",
+        "created_at": "2026-11-03T00:35:09.119550+00:00",
+        "updated_at": "2026-11-03T00:35:09.119550+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.5965813039793856,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John reached the summit on his mountaineering trip with workmates in early June 2023, describing the view as stunning and the experience as tough but awesome, which helped clear his head.",
+        "score": 0.5914842884108313,
+        "id": "d500fef2-8b69-4559-a041-da15d3a26f73",
+        "created_at": "2026-11-03T00:32:05.294417+00:00",
+        "updated_at": "2026-11-03T00:32:05.294417+00:00"
+      },
+      {
+        "memory": "John shared a photo from his mountaineering trip showing a man standing on top of a mountain with a backpack, taken around June 12, 2023.",
+        "score": 0.5750285154343265,
+        "id": "81a57731-7c1a-4a59-be8f-08e037451b61",
+        "created_at": "2026-11-03T00:31:58.678713+00:00",
+        "updated_at": "2026-11-03T00:31:58.678713+00:00"
+      },
+      {
+        "memory": "John shared a photo of a man sitting on a mountain overlooking a lake while encouraging Maria to keep up her courage after she discussed trying new things.",
+        "score": 0.5742717777254107,
+        "id": "3a148108-3e9e-4642-b918-1870daf13a8b",
+        "created_at": "2026-11-03T00:28:59.603483+00:00",
+        "updated_at": "2026-11-03T00:28:59.603483+00:00"
+      },
+      {
+        "memory": "John describes nature experiences, such as mountaineering and camping, as feeling like a 'reset button' that helps him clear his head and find calm during difficult times.",
+        "score": 0.560467475687136,
+        "id": "c20f3801-1bf3-449b-88c2-82a2830c4a5e",
+        "created_at": "2026-11-03T00:32:15.831840+00:00",
+        "updated_at": "2026-11-03T00:32:15.831840+00:00"
+      },
+      {
+        "memory": "John shares that he sees sunsets at least once a week during his walks, which helps him disconnect, think, and find peace.",
+        "score": 0.33341515457848747,
+        "id": "3eaedbbb-a1c3-4656-adf3-7a9936a63ad4",
+        "created_at": "2026-11-03T00:40:23.095026+00:00",
+        "updated_at": "2026-11-03T00:40:23.095026+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics. He also enjoys playing board games and having movie nights at home.",
+        "score": 0.22679493290246375,
+        "id": "5b518877-b53f-4eb1-a464-3841811d7425",
+        "created_at": "2026-11-03T00:49:21.205807+00:00",
+        "updated_at": "2026-11-03T00:49:21.205807+00:00"
+      },
+      {
+        "memory": "John enjoys outdoor activities with his family, including hiking, hanging out at the park, and having picnics.",
+        "score": 0.224077963256374,
+        "id": "20f01f59-76fd-4e3b-9fa2-8f62ece78125",
+        "created_at": "2026-11-03T00:49:26.779964+00:00",
+        "updated_at": "2026-11-03T00:49:26.779964+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.21997547115496602,
+        "id": "1c3ac6d6-35e6-4252-acbf-62410e6dda9b",
+        "created_at": "2026-11-03T00:49:18.801762+00:00",
+        "updated_at": "2026-11-03T00:49:18.801762+00:00"
+      },
+      {
+        "memory": "John enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, and having picnics.",
+        "score": 0.21997547115496602,
+        "id": "f9a5244f-d04f-473e-a818-2436a7e3a986",
+        "created_at": "2026-11-03T00:49:10.171499+00:00",
+        "updated_at": "2026-11-03T00:49:10.171499+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21968848841838273,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.21968848841838273,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.21936720560264877,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John took a special vacation to California with his family, where they enjoyed a gorgeous sunset and an awesome night strolling the shore together, creating memories.",
+        "score": 0.21478433468164865,
+        "id": "ec2e08e2-b4f4-4595-ab14-3754e283041d",
+        "created_at": "2026-11-03T00:34:53.411032+00:00",
+        "updated_at": "2026-11-03T00:34:53.411032+00:00"
+      },
+      {
+        "memory": "User's name is John and he enjoys spending time outdoors with his family, including going for hikes, hanging out at the park, having picnics, playing board games, and having movie nights at home.",
+        "score": 0.21370728203561598,
+        "id": "bc788396-063d-4996-b9e4-1f17ad95f3cb",
+        "created_at": "2026-11-03T00:49:34.881293+00:00",
+        "updated_at": "2026-11-03T00:49:34.881293+00:00"
+      },
+      {
+        "memory": "John has extensive camping experience, describing it as an awesome way to get away from it all and be at one with nature due to its uncomplicated simplicity.",
+        "score": 0.20593619387560497,
+        "id": "b16f0514-2b0a-4eaf-ab92-3b1c140d0dec",
+        "created_at": "2026-11-03T00:32:38.023687+00:00",
+        "updated_at": "2026-11-03T00:32:38.023687+00:00"
+      }
+    ],
+    "search_latency_ms": 85.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "No, John does not live close to either; the memories describe the beach and mountains as destinations for vacations and trips.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly denies that John lives close to a beach, directly contradicting the gold answer which states he does."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John likely lives close to the mountains, as hiking is listed as a regular family activity, whereas beach visits are described as specific vacations to California.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states John lives close to the mountains, which directly contradicts the gold answer of 'beach' and does not contain the correct item."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lives close to a beach.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by stating John lives close to a beach."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John lives close to a beach.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer directly matches the gold answer by stating John lives close to a beach."
+    }
+  }
+}

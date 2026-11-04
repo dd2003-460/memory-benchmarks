@@ -1,0 +1,191 @@
+{
+  "question_id": "conv3_q51",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "When did Nate get Tilly for Joanna?",
+  "ground_truth_answer": "25 May, 2022",
+  "evidence": [
+    "D13:9",
+    "D24:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "When did Nate get Tilly for Joanna?",
+    "search_results": [
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps Tilly with her while she writes.",
+        "score": 0.7989953887707294,
+        "id": "1e16e016-98b2-4b07-b910-f9d2e081fb45",
+        "created_at": "2026-11-03T03:23:12.063779+00:00",
+        "updated_at": "2026-11-03T03:23:12.063779+00:00"
+      },
+      {
+        "memory": "Joanna keeps a stuffed animal dog named Tilly, given to her by Nate, which she always has with her while writing because it helps her stay focused and brings her joy.",
+        "score": 0.6365764125603458,
+        "id": "13444e6a-5b9a-4c13-a2d7-fc5002223d4e",
+        "created_at": "2026-11-03T03:23:40.598007+00:00",
+        "updated_at": "2026-11-03T03:23:40.598007+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.5470422093982654,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.5412852751395364,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.5346712587740775,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's vegan ice cream recipe for her family on the weekend of June 25-26, 2022, after Nate agreed to send her the recipe the following day.",
+        "score": 0.524442003248396,
+        "id": "0ad3ee4b-084b-4ea8-bce7-5e5df14c3190",
+        "created_at": "2026-11-03T03:11:32.710896+00:00",
+        "updated_at": "2026-11-03T03:11:32.710896+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.5221136779954754,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.5211402387111579,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate makes coconut milk ice cream with red sprinkles, which he shared a photo of with Joanna on April 17, 2022, and Joanna expressed admiration for his cooking skills",
+        "score": 0.5204107968149564,
+        "id": "2a593ad5-08c0-4b2b-aa20-802aca3c8f5b",
+        "created_at": "2026-11-03T03:03:50.058162+00:00",
+        "updated_at": "2026-11-03T03:03:50.058162+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair in the week preceding April 15, 2022, and shared this update with Joanna to show her the result",
+        "score": 0.5176937442468552,
+        "id": "f117b9a0-1c3d-429e-9609-18380e58aadf",
+        "created_at": "2026-11-03T03:02:11.100453+00:00",
+        "updated_at": "2026-11-03T03:02:11.100453+00:00"
+      },
+      {
+        "memory": "Nate agreed to start writing down his favorite memories with Joanna after she encouraged him to do so on November 7, 2022.",
+        "score": 0.5082570531404241,
+        "id": "40f70b47-ea11-4102-8adf-5c00123b8f55",
+        "created_at": "2026-11-03T03:29:57.313658+00:00",
+        "updated_at": "2026-11-03T03:29:57.313658+00:00"
+      },
+      {
+        "memory": "Joanna plans to bring her recipes to Nate's house on November 4, 2022, to share desserts, specifically including a chocolate and raspberry cake that Nate has been wanting to try.",
+        "score": 0.502212409312365,
+        "id": "26ae5713-0e08-4cfe-b42c-7cabb7f20e89",
+        "created_at": "2026-11-03T03:27:01.574464+00:00",
+        "updated_at": "2026-11-03T03:27:01.574464+00:00"
+      },
+      {
+        "memory": "User's name is Nate and he has a friend or contact named Joanna with whom he had not spoken in a long time as of March 24, 2022",
+        "score": 0.4995162589107456,
+        "id": "41fcd61a-71b0-467a-8996-097fa2437b2a",
+        "created_at": "2026-11-03T03:01:43.788400+00:00",
+        "updated_at": "2026-11-03T03:01:43.788400+00:00"
+      },
+      {
+        "memory": "Joanna confirmed she is the person in the theater stage photo shared with Nate, identifying it as a moment from her acting career.",
+        "score": 0.499134768308669,
+        "id": "a2d98a7c-3095-4264-9bb5-6fb742be395c",
+        "created_at": "2026-11-03T03:04:32.965136+00:00",
+        "updated_at": "2026-11-03T03:04:32.965136+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.4972059738461856,
+        "id": "48dc7a29-d8d3-47cd-bd40-539d981642c2",
+        "created_at": "2026-11-03T03:31:21.139979+00:00",
+        "updated_at": "2026-11-03T03:31:21.139979+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to watch other people's videos first to understand what the audience likes so his own videos do not flop when posted.",
+        "score": 0.4972059738461856,
+        "id": "84f63adb-d762-4a49-b683-e68b956b3448",
+        "created_at": "2026-11-03T03:31:42.070165+00:00",
+        "updated_at": "2026-11-03T03:31:42.070165+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to have faith in himself and continue following his writing dreams, noting that the process is tough but worth it",
+        "score": 0.49670051040174484,
+        "id": "a8f1c443-1143-4049-b7ae-ad2088da6658",
+        "created_at": "2026-11-03T03:02:04.840287+00:00",
+        "updated_at": "2026-11-03T03:02:04.840287+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.49665358372044793,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      },
+      {
+        "memory": "Nate was already planning to watch Joanna's latest movie adaptation, but discussing it with her increased his eagerness to see it.",
+        "score": 0.49640516808255297,
+        "id": "23582e34-a5c1-492a-a6e9-e1e99c062471",
+        "created_at": "2026-11-03T03:24:52.417025+00:00",
+        "updated_at": "2026-11-03T03:24:52.417025+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream after he invited her over.",
+        "score": 0.49640360484030993,
+        "id": "9b7af8ca-5c8e-467a-bcb5-ce8a714d537b",
+        "created_at": "2026-11-03T03:26:44.002052+00:00",
+        "updated_at": "2026-11-03T03:26:44.002052+00:00"
+      }
+    ],
+    "search_latency_ms": 102.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate had gotten Tilly for Joanna by November 11, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer gives a date far outside the 14-day tolerance of the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories confirm that Nate gave the stuffed animal dog, named Tilly, to Joanna, but do not specify the exact date this occurred.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the exact date is not specified, failing to provide the correct date (25 May, 2022) found in the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories confirm that Nate gave the stuffed animal dog, named Tilly, to Joanna, but do not specify the exact date this occurred.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the exact date is not specified, failing to provide the correct date (25 May, 2022) found in the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories confirm that Nate gave the stuffed animal dog, named Tilly, to Joanna, but do not specify the exact date this occurred.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the exact date is not specified, failing to provide the correct date (25 May, 2022) found in the gold answer."
+    }
+  }
+}

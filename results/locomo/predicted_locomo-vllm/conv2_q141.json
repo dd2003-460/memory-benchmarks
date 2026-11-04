@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q141",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+  "ground_truth_answer": "a local organization",
+  "evidence": [
+    "D29:10"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+    "search_results": [
+      {
+        "memory": "John organized a community event that raised awareness and funds for victims of domestic abuse in partnership with a local organization, noting the importance of supporting causes that help people suffering from abuse.",
+        "score": 0.912057184732465,
+        "id": "81d969a7-05d8-49c8-b6b4-6b09f146da3b",
+        "created_at": "2026-11-03T00:47:17.623515+00:00",
+        "updated_at": "2026-11-03T00:47:17.623515+00:00"
+      },
+      {
+        "memory": "John and Maria worked with a local organization that helps victims of domestic abuse, raising awareness and funds at an event around August 11, 2023.",
+        "score": 0.8770753061185934,
+        "id": "3fc09f3c-16fd-44b5-8b67-5dc9be24f90b",
+        "created_at": "2026-11-03T00:47:23.446570+00:00",
+        "updated_at": "2026-11-03T00:47:23.446570+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for victims of domestic abuse in partnership with a local organization dedicated to helping them.",
+        "score": 0.8662576067046539,
+        "id": "c3fe8ba7-bbcc-4fbe-b793-297b95f3b899",
+        "created_at": "2026-11-03T00:47:03.622246+00:00",
+        "updated_at": "2026-11-03T00:47:03.622246+00:00"
+      },
+      {
+        "memory": "John's veteran support event also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause John considers important despite it being a tough issue.",
+        "score": 0.8542858863226052,
+        "id": "2b53efb1-1c1e-429c-955d-f4bc91ee5780",
+        "created_at": "2026-11-03T00:47:12.944467+00:00",
+        "updated_at": "2026-11-03T00:47:12.944467+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.8488204645466864,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he highlighted as important due to the high number of people suffering from it.",
+        "score": 0.8481501856033988,
+        "id": "4f71022e-97d6-4a4f-b058-c679113d8e72",
+        "created_at": "2026-11-03T00:47:01.157114+00:00",
+        "updated_at": "2026-11-03T00:47:01.157114+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on August 6, 2023, to raise awareness and funds for veterans and their families, working with a local organization that helps victims of domestic abuse.",
+        "score": 0.8204255938574679,
+        "id": "d47e3066-a2dd-44ed-88bb-0d8fe5aa89e7",
+        "created_at": "2026-11-03T00:46:57.594478+00:00",
+        "updated_at": "2026-11-03T00:46:57.594478+00:00"
+      },
+      {
+        "memory": "John is an active blogger researching and writing about political policies, specifically focusing on education reform and infrastructure development to raise awareness and create positive change in his community.",
+        "score": 0.6049119010769702,
+        "id": "5d78b156-66fb-42f8-8a72-27b295dd354e",
+        "created_at": "2026-11-03T00:27:30.262337+00:00",
+        "updated_at": "2026-11-03T00:27:30.262337+00:00"
+      },
+      {
+        "memory": "John is actively researching political policies and writing about his thoughts and ideas to raise awareness, start conversations, and create positive change, finding the process of digging deeper into the political system eye-opening.",
+        "score": 0.5916240285998138,
+        "id": "e496e13b-8743-464b-a1e0-595fb83b1055",
+        "created_at": "2026-11-03T00:27:06.779371+00:00",
+        "updated_at": "2026-11-03T00:27:06.779371+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that securing sponsors, coordinating with the city, and promoting the event was hard work but worth it seeing community support.",
+        "score": 0.5879474812546945,
+        "id": "753ff9fe-8b4b-48d5-b32e-5f10b7aae02c",
+        "created_at": "2026-11-03T00:46:41.331982+00:00",
+        "updated_at": "2026-11-03T00:46:41.331982+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood around August 9, 2023, to raise funds for veterans and their families, which he described as hard work involving securing sponsors and coordinating with the city.",
+        "score": 0.5858328444524561,
+        "id": "75159427-3e9d-4389-93ae-39a53802bef7",
+        "created_at": "2026-11-03T00:47:05.849523+00:00",
+        "updated_at": "2026-11-03T00:47:05.849523+00:00"
+      },
+      {
+        "memory": "John organized a 5K charity run in his neighborhood on the weekend of August 5-6, 2023, to raise funds for veterans and their families, noting that it required significant effort to secure sponsors and coordinate with the city.",
+        "score": 0.5794241253656309,
+        "id": "10dac2f7-8be9-4c75-84d9-8c5921bcb6ba",
+        "created_at": "2026-11-03T00:47:01.153836+00:00",
+        "updated_at": "2026-11-03T00:47:01.153836+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while discussing community improvement efforts with Maria.",
+        "score": 0.4144959976392849,
+        "id": "2609214c-c431-4fd2-9b07-98d89fea62f9",
+        "created_at": "2026-11-03T00:30:18.758693+00:00",
+        "updated_at": "2026-11-03T00:30:18.758693+00:00"
+      },
+      {
+        "memory": "John's fire-fighting brigade raised donations including canned food, toiletries, and clothes to help out those in need, which made him feel great to be part of.",
+        "score": 0.4066107399411588,
+        "id": "b49908e8-c944-4852-b4dc-3a8e78381109",
+        "created_at": "2026-11-03T00:49:41.164292+00:00",
+        "updated_at": "2026-11-03T00:49:41.164292+00:00"
+      },
+      {
+        "memory": "John participated in a community event to raise money for a good cause on the weekend of August 5-6, 2023, noting that it had a great turnout and was amazing to be surrounded by supportive people.",
+        "score": 0.40110680023446516,
+        "id": "62b6a772-b9d8-4689-80b5-09f5bc26dcc0",
+        "created_at": "2026-11-03T00:46:29.691546+00:00",
+        "updated_at": "2026-11-03T00:46:29.691546+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.31022851024508796,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.30652209577108164,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his veteran support petition project, and they plan to work together to make a difference in the community.",
+        "score": 0.28500358187251057,
+        "id": "016301b0-9a9e-4007-afcb-4401ecc249f5",
+        "created_at": "2026-11-03T00:30:25.509096+00:00",
+        "updated_at": "2026-11-03T00:30:25.509096+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.2811282730211142,
+        "id": "237b6fe1-05b1-400b-86d0-0e8c767177fb",
+        "created_at": "2026-11-03T00:30:14.179096+00:00",
+        "updated_at": "2026-11-03T00:30:14.179096+00:00"
+      },
+      {
+        "memory": "John is working on a project to support military veterans, specifically trying to get a petition going, which he finds rewarding but stressful.",
+        "score": 0.2811282730211142,
+        "id": "e63d7985-3111-4e45-b0c6-30985da284b7",
+        "created_at": "2026-11-03T00:30:23.118723+00:00",
+        "updated_at": "2026-11-03T00:30:23.118723+00:00"
+      }
+    ],
+    "search_latency_ms": 73.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Maria' does not match the gold answer 'a local organization' and does not reference the same core entity or concept."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Maria' does not match the gold answer 'a local organization' and does not reference the same core entity or concept."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Maria' does not match the gold answer 'a local organization' and does not reference the same core entity or concept."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Maria",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Maria' does not match the gold answer 'a local organization' and does not reference the same core entity or concept."
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q92",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What kind of lighting does Nate's gaming room have?",
+  "ground_truth_answer": "red and purple lighting",
+  "evidence": [
+    "D10:2"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What kind of lighting does Nate's gaming room have?",
+    "search_results": [
+      {
+        "memory": "Nate wants to upgrade his living room to be as cozy as Joanna's movie night setup and asked for pointers on what items to get, noting he should really get a similar set up.",
+        "score": 0.6404989907382086,
+        "id": "d9c5c9eb-cb87-45c5-ba0b-4737eb73ee6e",
+        "created_at": "2026-11-03T03:22:46.967187+00:00",
+        "updated_at": "2026-11-03T03:22:46.967187+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his gaming setup, which includes a computer and a gaming chair in a dedicated gaming room, with Joanna on May 2, 2022.",
+        "score": 0.635298339773036,
+        "id": "3dfde087-3ffa-4dc4-833f-d7c4a43c736b",
+        "created_at": "2026-11-03T03:05:06.292569+00:00",
+        "updated_at": "2026-11-03T03:05:06.292569+00:00"
+      },
+      {
+        "memory": "Joanna recommended that Nate get a multi-person fluffy couch, a weighted blanket, and dimmable lights to make his living room as cozy as hers for movie nights",
+        "score": 0.6297761416068778,
+        "id": "b4e5af71-81af-4a7f-8cb7-8b6e9151ebcd",
+        "created_at": "2026-11-03T03:22:49.593014+00:00",
+        "updated_at": "2026-11-03T03:22:49.593014+00:00"
+      },
+      {
+        "memory": "Nate's favorite superhero is Iron Man, which he admires for his technology and sarcastic humor, and he owns an Iron Man action figure in his room as a reminder to keep working on his goals",
+        "score": 0.5793373430560153,
+        "id": "8abc27c8-b721-47a8-ab67-2bb962db6d0b",
+        "created_at": "2026-11-03T03:10:19.040804+00:00",
+        "updated_at": "2026-11-03T03:10:19.040804+00:00"
+      },
+      {
+        "memory": "Nate has a dedicated home gaming setup with two monitors and a laptop, which he uses for practice, competition, and playing games with friends, viewing it as essential for his career.",
+        "score": 0.5747643215230149,
+        "id": "e6518853-552e-4815-8c37-bfe861399f58",
+        "created_at": "2026-11-03T03:29:23.390816+00:00",
+        "updated_at": "2026-11-03T03:29:23.390816+00:00"
+      },
+      {
+        "memory": "Nate recently upgraded his home gaming equipment, which includes a computer monitor and keyboard on a desk, and uses this setup for practicing, competing, and playing games with friends.",
+        "score": 0.5741976371219513,
+        "id": "9222347f-0222-4ae1-acd8-f897a8e027dd",
+        "created_at": "2026-11-03T03:28:53.467520+00:00",
+        "updated_at": "2026-11-03T03:28:53.467520+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home gaming equipment around November 7, 2022, including a computer monitor and keyboard setup which he uses for practicing, competing in tournaments, and playing games with friends.",
+        "score": 0.5644003978127429,
+        "id": "343dc4ee-72e9-4485-8ba6-c80ab8f46988",
+        "created_at": "2026-11-03T03:28:47.530751+00:00",
+        "updated_at": "2026-11-03T03:28:47.530751+00:00"
+      },
+      {
+        "memory": "Nate recently upgraded his home gaming equipment, which includes a computer monitor, keyboard, and a setup with two monitors and a laptop, and he uses this dedicated space for practicing, competing, and playing games with friends.",
+        "score": 0.5632467320811956,
+        "id": "1a808763-e2f1-483c-8532-d8a2525d3837",
+        "created_at": "2026-11-03T03:29:07.062552+00:00",
+        "updated_at": "2026-11-03T03:29:07.062552+00:00"
+      },
+      {
+        "memory": "Nate started making gaming videos to share his love of gaming and connect with others who enjoy it, noting that it is a new endeavor for him but he is excited to get started.",
+        "score": 0.5604385076313321,
+        "id": "a8cc4e45-2df2-478e-b7b1-d94570bb55fb",
+        "created_at": "2026-11-03T03:31:42.066863+00:00",
+        "updated_at": "2026-11-03T03:31:42.066863+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, aiming to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.5511929584238957,
+        "id": "2d6a3639-6773-4638-8ddc-efa6ccd09b84",
+        "created_at": "2026-11-03T03:31:09.693455+00:00",
+        "updated_at": "2026-11-03T03:31:09.693455+00:00"
+      },
+      {
+        "memory": "Nate attended a video game convention where he met new friends who share his interest in games and they planned a gaming session together",
+        "score": 0.5473303744542176,
+        "id": "c21babf7-62bd-465a-9d07-fcaa781d6825",
+        "created_at": "2026-11-03T03:21:30.264339+00:00",
+        "updated_at": "2026-11-03T03:21:30.264339+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming and connect with others who enjoy it.",
+        "score": 0.5465146814356023,
+        "id": "efbd1d5f-89f9-4a9e-a066-485faa5bf546",
+        "created_at": "2026-11-03T03:31:21.136591+00:00",
+        "updated_at": "2026-11-03T03:31:21.136591+00:00"
+      },
+      {
+        "memory": "Nate was inspired to start making gaming videos because he is a big fan of them and hopes to share his love of gaming while connecting with other enthusiasts.",
+        "score": 0.5435512474704127,
+        "id": "7030d9ff-f80e-4e4e-9bf4-41ce73353bad",
+        "created_at": "2026-11-03T03:31:26.581866+00:00",
+        "updated_at": "2026-11-03T03:31:26.581866+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers with Joanna while discussing his current gaming interests on November 7, 2022.",
+        "score": 0.5432104893009265,
+        "id": "0f085430-93ce-46c2-9ec1-8df356d65d2b",
+        "created_at": "2026-11-03T03:29:10.396330+00:00",
+        "updated_at": "2026-11-03T03:29:10.396330+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where attendees played games and then Chess afterward for fun",
+        "score": 0.5428222735045157,
+        "id": "10c2ef6a-5353-401f-ad30-1ccd1e6914a8",
+        "created_at": "2026-11-03T03:11:10.684631+00:00",
+        "updated_at": "2026-11-03T03:11:10.684631+00:00"
+      },
+      {
+        "memory": "Nate started creating gaming content for YouTube to entertain people and satisfy his video game cravings when there are no tournaments going on, hoping to share his love of gaming and connect with others.",
+        "score": 0.5424414212248785,
+        "id": "b4c894d6-1540-42be-99f5-4b6be1f3d142",
+        "created_at": "2026-11-03T03:31:14.937482+00:00",
+        "updated_at": "2026-11-03T03:31:14.937482+00:00"
+      },
+      {
+        "memory": "Nate enjoys gaming and spends long days doing it, finding comfort in coming home to his pets afterwards",
+        "score": 0.5399520763528793,
+        "id": "7f709d66-7db1-43b7-8623-32da5c582fc9",
+        "created_at": "2026-11-03T03:14:40.200521+00:00",
+        "updated_at": "2026-11-03T03:14:40.200521+00:00"
+      },
+      {
+        "memory": "Nate creates gaming content for YouTube to entertain people and satisfy his video game cravings during periods when there are no tournaments going on.",
+        "score": 0.5396518652157684,
+        "id": "ff0f5f86-5f27-4775-a51d-6ad963e71723",
+        "created_at": "2026-11-03T03:30:50.642599+00:00",
+        "updated_at": "2026-11-03T03:30:50.642599+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.5381302529829269,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube as a way to entertain others and satisfy his video game cravings during periods when there are no tournaments.",
+        "score": 0.5355972739045417,
+        "id": "723cdded-1710-48c2-838f-55e79af01cac",
+        "created_at": "2026-11-03T03:30:47.956982+00:00",
+        "updated_at": "2026-11-03T03:30:47.956982+00:00"
+      }
+    ],
+    "search_latency_ms": 80.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "dimmable lights",
+      "memories_evaluated": 10,
+      "reason": "The generated answer mentions dimmable lights but does not include the gold answer's key detail of red and purple lighting."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dimmable lights",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions dimmable lights but does not include the gold answer's key detail of red and purple lighting."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dimmable lights",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions dimmable lights but does not include the gold answer's key detail of red and purple lighting."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dimmable lights",
+      "memories_evaluated": 20,
+      "reason": "The generated answer mentions dimmable lights but does not include the gold answer's key detail of red and purple lighting."
+    }
+  }
+}

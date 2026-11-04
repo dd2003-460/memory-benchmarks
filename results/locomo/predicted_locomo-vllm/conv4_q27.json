@@ -1,0 +1,191 @@
+{
+  "question_id": "conv4_q27",
+  "conversation_idx": 4,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "Which popular time management technique does Tim use to prepare for exams?",
+  "ground_truth_answer": "Pomodoro technique",
+  "evidence": [
+    "D18:3",
+    "D18:7"
+  ],
+  "user_id": "locomo_4_full01",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "Which popular time management technique does Tim use to prepare for exams?",
+    "search_results": [
+      {
+        "memory": "Tim uses a study technique of breaking sessions into smaller parts, specifically studying for 25 minutes followed by a 5-minute break for something fun, to keep himself on track and reduce overwhelm during exam preparation.",
+        "score": 0.6892104029293898,
+        "id": "7785f371-34ce-441e-8f7c-deb245b757b6",
+        "created_at": "2026-11-03T09:26:53.048221+00:00",
+        "updated_at": "2026-11-03T09:26:53.048221+00:00"
+      },
+      {
+        "memory": "Tim is preparing for upcoming exams and uses the Pomodoro technique to study, breaking sessions into 25-minute focused intervals followed by 5-minute breaks to stay on track and reduce overwhelm.",
+        "score": 0.670100958317784,
+        "id": "3dfc8b6d-867c-4bce-bffb-bb8066cb2c91",
+        "created_at": "2026-11-03T09:26:39.498093+00:00",
+        "updated_at": "2026-11-03T09:26:39.498093+00:00"
+      },
+      {
+        "memory": "Tim uses a study technique of breaking sessions into smaller parts, specifically 25 minutes of studying followed by a 5-minute break for something fun, to reduce overwhelm and stay on track.",
+        "score": 0.668883465717198,
+        "id": "a7429591-8d9f-4a2b-b3ed-39e7b2ab7b16",
+        "created_at": "2026-11-03T09:25:54.227077+00:00",
+        "updated_at": "2026-11-03T09:25:54.227077+00:00"
+      },
+      {
+        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
+        "score": 0.6473190585884068,
+        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
+        "created_at": "2026-11-03T09:19:26.759669+00:00",
+        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+      },
+      {
+        "memory": "Tim is currently swamped with exams as of November 16, 2023, and is putting in his best effort while feeling optimistic",
+        "score": 0.640649040796958,
+        "id": "8971c3d4-e27e-4903-ad3c-698455859fc7",
+        "created_at": "2026-11-03T09:26:25.478420+00:00",
+        "updated_at": "2026-11-03T09:26:25.478420+00:00"
+      },
+      {
+        "memory": "Tim is a student who finds assignments and exams overwhelming but is determined not to give up, and he is trying to balance studying with his fantasy reading hobby.",
+        "score": 0.6351928101472575,
+        "id": "4df58466-77f0-4ad0-a8ad-779765352955",
+        "created_at": "2026-11-03T09:11:02.810349+00:00",
+        "updated_at": "2026-11-03T09:11:02.810349+00:00"
+      },
+      {
+        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
+        "score": 0.6335385514052467,
+        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
+        "created_at": "2026-11-03T09:29:03.711964+00:00",
+        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+      },
+      {
+        "memory": "Tim is currently overwhelmed by school assignments and exams, finding the workload busy and stressful as of late August 2023",
+        "score": 0.6331472106843385,
+        "id": "f6c7ef45-79f5-423e-ad57-76063380b051",
+        "created_at": "2026-11-03T09:10:53.953566+00:00",
+        "updated_at": "2026-11-03T09:10:53.953566+00:00"
+      },
+      {
+        "memory": "Tim was swamped with exams around November 16, 2023, but felt optimistic and was working diligently through them.",
+        "score": 0.6320337766916195,
+        "id": "4524ba1a-d4ff-4438-8925-68cf161a8d62",
+        "created_at": "2026-11-03T09:25:54.237645+00:00",
+        "updated_at": "2026-11-03T09:25:54.237645+00:00"
+      },
+      {
+        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them diligently and feeling optimistic about putting in his best effort",
+        "score": 0.6319229329036625,
+        "id": "edcf5377-23c7-4a98-b2a0-48a8a2b278e7",
+        "created_at": "2026-11-03T09:25:27.753801+00:00",
+        "updated_at": "2026-11-03T09:25:27.753801+00:00"
+      },
+      {
+        "memory": "Tim is swamped with exams in November 2023 and is plowing through them while feeling optimistic and working diligently.",
+        "score": 0.6228653676829874,
+        "id": "79dd20b7-4ef7-4285-9d0e-7be1d1b6354c",
+        "created_at": "2026-11-03T09:25:39.144555+00:00",
+        "updated_at": "2026-11-03T09:25:39.144555+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6209740299698442,
+        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
+        "created_at": "2026-11-03T09:28:35.439717+00:00",
+        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6209740299698442,
+        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
+        "created_at": "2026-11-03T09:28:32.195322+00:00",
+        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+      },
+      {
+        "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.6184110189561518,
+        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
+        "created_at": "2026-11-03T09:28:43.322745+00:00",
+        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+      },
+      {
+        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them, while expressing support for John's ankle injury recovery.",
+        "score": 0.6124962081624127,
+        "id": "7e4f8efe-648b-4720-b953-c3efd59464fc",
+        "created_at": "2026-11-03T09:25:03.762407+00:00",
+        "updated_at": "2026-11-03T09:25:03.762407+00:00"
+      },
+      {
+        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
+        "score": 0.5989429627890528,
+        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
+        "created_at": "2026-11-03T09:10:57.499689+00:00",
+        "updated_at": "2026-11-03T09:10:57.499689+00:00"
+      },
+      {
+        "memory": "Tim uses a mobile app for language learning, which John also uses on his phone to practice Spanish.",
+        "score": 0.5692500398156962,
+        "id": "92a432b0-2ab9-40e5-93ab-4db8c2793263",
+        "created_at": "2026-11-03T09:36:13.197460+00:00",
+        "updated_at": "2026-11-03T09:36:13.197460+00:00"
+      },
+      {
+        "memory": "John uses visualization of his goals and success as a technique to maintain focus and motivation during difficult study sessions or challenging times.",
+        "score": 0.5606155127924214,
+        "id": "5bf2b92e-249b-49b2-875d-44a7df357749",
+        "created_at": "2026-11-03T09:25:39.146821+00:00",
+        "updated_at": "2026-11-03T09:25:39.146821+00:00"
+      },
+      {
+        "memory": "Tim enjoys experimenting with spices when cooking or preparing food.",
+        "score": 0.5603271714304643,
+        "id": "b60ef4f1-af75-4507-95e2-480ca23f9455",
+        "created_at": "2026-11-03T09:13:40.597243+00:00",
+        "updated_at": "2026-11-03T09:13:40.597243+00:00"
+      },
+      {
+        "memory": "John uses visualization of goals and success as a technique to stay focused and motivated during difficult study sessions",
+        "score": 0.5562153796152584,
+        "id": "b327633e-b46d-4ed5-95d0-00a2d1924bb6",
+        "created_at": "2026-11-03T09:26:25.480492+00:00",
+        "updated_at": "2026-11-03T09:26:25.480492+00:00"
+      }
+    ],
+    "search_latency_ms": 100.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 10,
+      "reason": ""
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "",
+      "memories_evaluated": 20,
+      "reason": ""
+    }
+  }
+}

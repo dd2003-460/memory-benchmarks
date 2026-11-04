@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q73",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What state did Joanna visit in summer 2021?",
+  "ground_truth_answer": "Indiana",
+  "evidence": [
+    "D28:22"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What state did Joanna visit in summer 2021?",
+    "search_results": [
+      {
+        "memory": "Joanna stated that her writing is currently consuming all her time and energy, preventing her from taking a vacation, and she is hoping for some good news soon regarding her work",
+        "score": 0.6029524061877809,
+        "id": "5bee6ab4-8c90-4527-ae21-305691feee57",
+        "created_at": "2026-11-03T03:02:46.189597+00:00",
+        "updated_at": "2026-11-03T03:02:46.189597+00:00"
+      },
+      {
+        "memory": "Joanna recently received a rejection from a production company around October 25, 2022, which she described as a setback but stated she will not let it slow her down and plans to keep pushing forward in her career",
+        "score": 0.6017071712725117,
+        "id": "4e351243-ed2f-4e1d-a0b8-5c1f740edfa1",
+        "created_at": "2026-11-03T03:24:07.105912+00:00",
+        "updated_at": "2026-11-03T03:24:07.105912+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021)",
+        "score": 0.6001187110347501,
+        "id": "cf73f94f-f2db-465f-a7ff-7dad1c37cc42",
+        "created_at": "2026-11-03T03:31:54.716075+00:00",
+        "updated_at": "2026-11-03T03:31:54.716075+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021)",
+        "score": 0.6001187110347501,
+        "id": "b44ab066-a67b-4ab5-b492-c6fb263e917d",
+        "created_at": "2026-11-03T03:31:50.667751+00:00",
+        "updated_at": "2026-11-03T03:31:50.667751+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset near Fort Wayne during a hike in the summer of 2022, describing the scene as an incredible reminder of nature's beauty.",
+        "score": 0.5981277358277366,
+        "id": "e40f1a4e-4143-4a31-826b-12522eb22266",
+        "created_at": "2026-11-03T03:31:31.219208+00:00",
+        "updated_at": "2026-11-03T03:31:31.219208+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne in the summer of 2022, describing the moment as an awesome reminder of nature's beauty.",
+        "score": 0.5960192564337798,
+        "id": "7e010256-d85a-4d0c-bae1-761b4fb605a6",
+        "created_at": "2026-11-03T03:32:14.033997+00:00",
+        "updated_at": "2026-11-03T03:32:14.033997+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls during her hike on May 12, 2022, where she took a photo of a waterfall with lush greenery and a dark sky background.",
+        "score": 0.5922249699252171,
+        "id": "4c2fea8d-6c93-4169-97ad-362582fcfd7f",
+        "created_at": "2026-11-03T03:06:28.201957+00:00",
+        "updated_at": "2026-11-03T03:06:28.201957+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream after he invited her over.",
+        "score": 0.5886020446259955,
+        "id": "9b7af8ca-5c8e-467a-bcb5-ce8a714d537b",
+        "created_at": "2026-11-03T03:26:44.002052+00:00",
+        "updated_at": "2026-11-03T03:26:44.002052+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls on May 12, 2022, describing it as peaceful and serene with soothing water sounds that made her feel calm and present.",
+        "score": 0.5857665412781844,
+        "id": "c3e8fa86-de9d-43e1-8163-9d4b27130705",
+        "created_at": "2026-11-03T03:06:34.365388+00:00",
+        "updated_at": "2026-11-03T03:06:34.365388+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.5840268802089377,
+        "id": "71e7a30f-4dd2-4ee5-a0fa-5ed17092602e",
+        "created_at": "2026-11-03T03:26:49.333522+00:00",
+        "updated_at": "2026-11-03T03:26:49.333522+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate on November 5, 2022, to try his coconut milk ice cream and will bring her own recipes so they can share desserts together.",
+        "score": 0.5840079309441719,
+        "id": "1968939e-86fb-4b86-b981-6b0e9ffb0e44",
+        "created_at": "2026-11-03T03:26:54.973602+00:00",
+        "updated_at": "2026-11-03T03:26:54.973602+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's home on November 5, 2022, to try the homemade coconut milk ice cream he offered.",
+        "score": 0.5836566272841998,
+        "id": "e180c8a2-697e-4369-b4ef-5190f9173dea",
+        "created_at": "2026-11-03T03:26:46.842540+00:00",
+        "updated_at": "2026-11-03T03:26:46.842540+00:00"
+      },
+      {
+        "memory": "Joanna visited a location called Whispering Falls during her hike on May 12, 2022, describing it as peaceful and serene with soothing water sounds that helped her feel calm and present.",
+        "score": 0.5821099274226594,
+        "id": "91ba942c-f74a-4310-a4e2-fd1aee0057af",
+        "created_at": "2026-11-03T03:06:19.957510+00:00",
+        "updated_at": "2026-11-03T03:06:19.957510+00:00"
+      },
+      {
+        "memory": "Joanna plans to visit Nate's place on November 5, 2022, to try his homemade coconut milk ice cream and will bring her own recipes to share desserts",
+        "score": 0.5817818755649415,
+        "id": "a1c53c9c-9fcd-4cf9-8db0-8641bca2b63e",
+        "created_at": "2026-11-03T03:26:58.944032+00:00",
+        "updated_at": "2026-11-03T03:26:58.944032+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, where she enjoyed the scenery and historic buildings and visited the local library which featured an old book collection.",
+        "score": 0.5750910439191046,
+        "id": "0560e8b2-c088-4cda-ae06-1a5580003380",
+        "created_at": "2026-11-03T03:12:29.464738+00:00",
+        "updated_at": "2026-11-03T03:12:29.464738+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.2512687008852072,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.24483532041803122,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town around May 12, 2022, and found more amazing trails, describing the experience as awesome and joking that she is now an expert hiker",
+        "score": 0.24482238683599356,
+        "id": "17f461f1-290d-44fb-ab1b-f40c485f44de",
+        "created_at": "2026-11-03T03:05:58.701156+00:00",
+        "updated_at": "2026-11-03T03:05:58.701156+00:00"
+      },
+      {
+        "memory": "Joanna went hiking in her town on May 12, 2022, and discovered new amazing trails, feeling confident enough to describe herself as an expert hiker.",
+        "score": 0.2441590808156618,
+        "id": "aecb4f88-2b11-4790-bbe3-4ed1fa9c477c",
+        "created_at": "2026-11-03T03:06:28.197173+00:00",
+        "updated_at": "2026-11-03T03:06:28.197173+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip for research for her next movie around July 10, 2022, describing it as a much-needed break and an opportunity to explore new places and get inspired.",
+        "score": 0.24254903420232932,
+        "id": "b21d8d21-4e48-4b63-a3e1-f7d6ed847503",
+        "created_at": "2026-11-03T03:11:47.749127+00:00",
+        "updated_at": "2026-11-03T03:11:47.749127+00:00"
+      }
+    ],
+    "search_latency_ms": 85.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Indiana",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Indiana",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Indiana",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Indiana",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

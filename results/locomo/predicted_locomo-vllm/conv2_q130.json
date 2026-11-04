@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q130",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Which activity has John done apart from yoga at the studio?",
+  "ground_truth_answer": "weight training",
+  "evidence": [
+    "D25:17"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "Which activity has John done apart from yoga at the studio?",
+    "search_results": [
+      {
+        "memory": "John shares that he frequently attends a yoga studio with a chill vibe and awesome instructors, and the studio offers classes including yoga, kickboxing, and circuit training.",
+        "score": 0.8337944517871844,
+        "id": "fa322b4b-350d-44a2-a98c-6a9da4dc0061",
+        "created_at": "2026-11-03T00:43:24.385610+00:00",
+        "updated_at": "2026-11-03T00:43:24.385610+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he appreciates for keeping his workouts interesting.",
+        "score": 0.6996248352455584,
+        "id": "e64dc561-374b-4a0c-b96f-f4e561210a1b",
+        "created_at": "2026-11-03T00:43:19.545653+00:00",
+        "updated_at": "2026-11-03T00:43:19.545653+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, which he describes as having a chill vibe and awesome instructors.",
+        "score": 0.6903174889590412,
+        "id": "1f228ad6-aaf9-47b5-aa17-031274aebe3d",
+        "created_at": "2026-11-03T00:43:29.354272+00:00",
+        "updated_at": "2026-11-03T00:43:29.354272+00:00"
+      },
+      {
+        "memory": "John frequently attends a local yoga studio that offers a variety of classes including yoga, kickboxing, and circuit training, describing the vibe as chill with awesome instructors.",
+        "score": 0.6840893562558208,
+        "id": "b09c38ee-71b4-4895-b071-74b44b528ba4",
+        "created_at": "2026-11-03T00:43:35.573582+00:00",
+        "updated_at": "2026-11-03T00:43:35.573582+00:00"
+      },
+      {
+        "memory": "John frequently attends a yoga studio that he describes as having a really chill vibe and awesome instructors, which he shared in a photo with Maria on July 22, 2023.",
+        "score": 0.6810301868232513,
+        "id": "fd15bd83-652a-4291-80c3-034fefb5c6d7",
+        "created_at": "2026-11-03T00:43:13.170702+00:00",
+        "updated_at": "2026-11-03T00:43:13.170702+00:00"
+      },
+      {
+        "memory": "John has done weight training classes at his yoga studio and finds the experience challenging yet peaceful, comparing it to yoga.",
+        "score": 0.6755500874650481,
+        "id": "13a25397-2b36-42bd-824f-64bb104c199d",
+        "created_at": "2026-11-03T00:43:31.821142+00:00",
+        "updated_at": "2026-11-03T00:43:31.821142+00:00"
+      },
+      {
+        "memory": "John has done weight training in addition to yoga and kickboxing, finding it challenging but peaceful, similar to his experience with yoga.",
+        "score": 0.6522608279868713,
+        "id": "f0aded18-a1ad-40a5-b34e-131d28ea3775",
+        "created_at": "2026-11-03T00:43:35.578110+00:00",
+        "updated_at": "2026-11-03T00:43:35.578110+00:00"
+      },
+      {
+        "memory": "John started a weekend yoga class with a colleague around April 7, 2023, after wanting to try it for a while, and reports feeling great mentally and physically due to the stretching and breathing exercises.",
+        "score": 0.6130201996589596,
+        "id": "e8980ca4-ffa0-4063-8665-cf52557e7b0f",
+        "created_at": "2026-11-03T00:24:32.771862+00:00",
+        "updated_at": "2026-11-03T00:24:32.771862+00:00"
+      },
+      {
+        "memory": "John has integrated his weekend yoga class into his daily routine, valuing it not only for physical benefits but also for the peace of mind and mindfulness it provides.",
+        "score": 0.6076826850824613,
+        "id": "5b126329-e38e-4944-b96e-ce18a07a5a8a",
+        "created_at": "2026-11-03T00:25:08.100970+00:00",
+        "updated_at": "2026-11-03T00:25:08.100970+00:00"
+      },
+      {
+        "memory": "John's weekend yoga class is a beginner-level session focusing on fundamentals such as poses and breathing, which he finds helpful for relaxation and increasing flexibility.",
+        "score": 0.6025615332073988,
+        "id": "eb17c036-3b43-4ede-8455-31135bb01f2b",
+        "created_at": "2026-11-03T00:24:50.455011+00:00",
+        "updated_at": "2026-11-03T00:24:50.455011+00:00"
+      },
+      {
+        "memory": "John's yoga instructor is praised for ensuring proper pose form, encouraging students to listen to their bodies, and creating a relaxed, welcoming environment for everyone.",
+        "score": 0.5792205795265503,
+        "id": "e94732e0-cc47-4504-a784-38cff86c0fa2",
+        "created_at": "2026-11-03T00:24:46.271436+00:00",
+        "updated_at": "2026-11-03T00:24:46.271436+00:00"
+      },
+      {
+        "memory": "John attended a community event in June 2023 featuring arts and crafts, fun activities, and games for families, which inspired him to organize similar activities with his family and friends.",
+        "score": 0.5250260461558458,
+        "id": "4dde64a3-11c5-4f93-b0c1-a2b2a2449656",
+        "created_at": "2026-11-03T00:42:25.706073+00:00",
+        "updated_at": "2026-11-03T00:42:25.706073+00:00"
+      },
+      {
+        "memory": "John's family enjoys outdoor activities such as hiking, hanging out at the park, and having picnics, as well as indoor activities like playing board games and movie nights at home.",
+        "score": 0.5201611026944677,
+        "id": "399a0406-8499-461a-a898-885e5ea76ba4",
+        "created_at": "2026-11-03T00:49:15.632235+00:00",
+        "updated_at": "2026-11-03T00:49:15.632235+00:00"
+      },
+      {
+        "memory": "John and his family work out together three times a week, which has increased their energy, strength, and endurance while motivating his kids to stay active.",
+        "score": 0.5004499388895199,
+        "id": "6bda3119-1eea-4377-bcae-3f32219d1de4",
+        "created_at": "2026-11-03T00:28:20.111926+00:00",
+        "updated_at": "2026-11-03T00:28:20.111926+00:00"
+      },
+      {
+        "memory": "Maria is trying kundalini yoga as part of her fitness routine after joining a new gym.",
+        "score": 0.4928406372805396,
+        "id": "52f4514b-7c54-4cae-a6eb-5c68749172ad",
+        "created_at": "2026-11-03T00:32:53.464221+00:00",
+        "updated_at": "2026-11-03T00:32:53.464221+00:00"
+      },
+      {
+        "memory": "John enjoys indoor family activities such as playing board games and having movie nights at home.",
+        "score": 0.49274212923749017,
+        "id": "e00fbf84-626c-46a9-938e-1910548242fb",
+        "created_at": "2026-11-03T00:49:26.782658+00:00",
+        "updated_at": "2026-11-03T00:49:26.782658+00:00"
+      },
+      {
+        "memory": "John has children and is planning to set up a fun activity similar to a picnic for them soon.",
+        "score": 0.49000937515732623,
+        "id": "701ba690-d77d-48e4-941d-902e1b24267d",
+        "created_at": "2026-11-03T00:42:17.344007+00:00",
+        "updated_at": "2026-11-03T00:42:17.344007+00:00"
+      },
+      {
+        "memory": "Maria joined a gym around June 9, 2023, and is sticking to her workout routine with a focus on getting stronger and improving endurance. She also started trying kundalini yoga.",
+        "score": 0.48613300364330814,
+        "id": "0ad63a50-409c-4e0f-9906-cd6a9362c3a6",
+        "created_at": "2026-11-03T00:33:17.576944+00:00",
+        "updated_at": "2026-11-03T00:33:17.576944+00:00"
+      },
+      {
+        "memory": "John's family also enjoys indoor activities such as playing board games and having movie nights at home.",
+        "score": 0.48115074838627425,
+        "id": "085db9c6-b5b6-42b4-9b7e-bcd1a724eb50",
+        "created_at": "2026-11-03T00:49:10.175312+00:00",
+        "updated_at": "2026-11-03T00:49:10.175312+00:00"
+      },
+      {
+        "memory": "John feels stuck in his activism work despite wanting to positively affect people and the world, and is seeking a better way to focus his passion and enthusiasm.",
+        "score": 0.4810700443490893,
+        "id": "59823800-2341-436e-9fcf-ae5a05d311d6",
+        "created_at": "2026-11-03T00:48:05.336643+00:00",
+        "updated_at": "2026-11-03T00:48:05.336643+00:00"
+      }
+    ],
+    "search_latency_ms": 59.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Weight training",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Weight training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Weight training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Weight training",
+      "memories_evaluated": 20,
+      "reason": "The generated answer exactly matches the gold answer."
+    }
+  }
+}

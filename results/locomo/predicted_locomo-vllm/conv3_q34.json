@@ -1,0 +1,192 @@
+{
+  "question_id": "conv3_q34",
+  "conversation_idx": 3,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What book recommendations has Joanna given to Nate?",
+  "ground_truth_answer": "\"Little Women\",'A Court of Thorns andRoses'.",
+  "evidence": [
+    "D3:17",
+    "D19:14",
+    "D19:16"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What book recommendations has Joanna given to Nate?",
+    "search_results": [
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over random choices, stating that he usually likes her suggestions much more.",
+        "score": 0.7937093893907111,
+        "id": "bc3427a6-cb5a-44d9-b3c9-9ec69e791478",
+        "created_at": "2026-11-03T03:29:23.397245+00:00",
+        "updated_at": "2026-11-03T03:29:23.397245+00:00"
+      },
+      {
+        "memory": "Joanna recommends that Nate find a fantasy book series to read, noting that most fiction series are great reads for relaxing.",
+        "score": 0.7871792592404205,
+        "id": "8d478aa2-7d58-4c6c-a644-0a8b33335cc1",
+        "created_at": "2026-11-03T03:14:42.689624+00:00",
+        "updated_at": "2026-11-03T03:14:42.689624+00:00"
+      },
+      {
+        "memory": "Joanna is an author who has a published book and a movie adaptation, and she recently shared that writing has become a major part of her life as an escape and a way to express feelings.",
+        "score": 0.7345391238413759,
+        "id": "1e0dbbdf-1c5c-4207-b2f2-016d0a820dd5",
+        "created_at": "2026-11-03T03:13:20.709305+00:00",
+        "updated_at": "2026-11-03T03:13:20.709305+00:00"
+      },
+      {
+        "memory": "Joanna was interested in attending a writing convention after Nate's recommendation and planned to look into it.",
+        "score": 0.6840968960245697,
+        "id": "491e5b32-f99a-4bca-9db4-f8162bda8919",
+        "created_at": "2026-11-03T03:21:47.499184+00:00",
+        "updated_at": "2026-11-03T03:21:47.499184+00:00"
+      },
+      {
+        "memory": "Nate recommends a fantasy book series to Joanna, describing it as having adventures, magic, and great characters, and considers it a must-read; he shared a photo of the books on April 21, 2022.",
+        "score": 0.676499500313308,
+        "id": "42245749-ea09-4b25-9519-016b2aa1ebe6",
+        "created_at": "2026-11-03T03:04:51.141916+00:00",
+        "updated_at": "2026-11-03T03:04:51.141916+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6721433830518204,
+        "id": "8ea7b3ff-02e4-4c23-b92d-274c6af60c7a",
+        "created_at": "2026-11-03T03:19:34.222841+00:00",
+        "updated_at": "2026-11-03T03:19:34.222841+00:00"
+      },
+      {
+        "memory": "Joanna expressed appreciation for Nate's previous recommendation regarding coconut products, noting that she really liked the suggestion he gave her a while back.",
+        "score": 0.6720377270192146,
+        "id": "b8e2f1c3-8c59-4d99-b6c2-854182c00abe",
+        "created_at": "2026-11-03T03:05:35.438013+00:00",
+        "updated_at": "2026-11-03T03:05:35.438013+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed it for its awesome acting and captivating story, which Joanna had recommended to him previously.",
+        "score": 0.6708122258269896,
+        "id": "50e5b806-14f2-463f-a79d-2fe102d04d93",
+        "created_at": "2026-11-03T03:19:49.794041+00:00",
+        "updated_at": "2026-11-03T03:19:49.794041+00:00"
+      },
+      {
+        "memory": "Nate is reading the 'A Court of Thorns and Roses' series by Sarah J. Maas, which he selected after Joanna recommended finding a fantasy book series to read for relaxation.",
+        "score": 0.670340259200479,
+        "id": "957f487d-a1ba-4a6c-905b-a7d0d9d1dd5e",
+        "created_at": "2026-11-03T03:15:00.586883+00:00",
+        "updated_at": "2026-11-03T03:15:00.586883+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and praised its acting and captivating story, noting that Joanna had recommended it to him previously.",
+        "score": 0.6693753415923849,
+        "id": "483c24b0-68a2-4016-b6c5-810db7d93e62",
+        "created_at": "2026-11-03T03:19:55.054809+00:00",
+        "updated_at": "2026-11-03T03:19:55.054809+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently and enjoyed the acting and captivating story, noting that Joanna had recommended it to him a while back.",
+        "score": 0.6690990128944901,
+        "id": "10a5a4e1-ff08-482e-80f1-9a0d7a5f924c",
+        "created_at": "2026-11-03T03:20:10.705715+00:00",
+        "updated_at": "2026-11-03T03:20:10.705715+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, describing the experience at his own convention as unforgettable.",
+        "score": 0.6622953899852685,
+        "id": "d392cff5-1b6b-4ec8-a3ec-6df26b286377",
+        "created_at": "2026-11-03T03:21:47.496975+00:00",
+        "updated_at": "2026-11-03T03:21:47.496975+00:00"
+      },
+      {
+        "memory": "Nate recommends a space opera book series to Joanna, describing it as having awesome battles and interesting characters, and notes that the action scenes are awesome and the plot rocks, calling it one of his favorites.",
+        "score": 0.6580013581168607,
+        "id": "01c388aa-1230-4c7d-90d9-f5291e1d67d3",
+        "created_at": "2026-11-03T03:15:00.594678+00:00",
+        "updated_at": "2026-11-03T03:15:00.594678+00:00"
+      },
+      {
+        "memory": "Nate recommended a space opera book series to Joanna on August 22, 2022, describing it as having awesome battles and interesting characters, and shared a photo of a poster showing a man falling off a cliff.",
+        "score": 0.6577235530728515,
+        "id": "2d3e571e-7339-4b29-83ee-02fd4a714cc0",
+        "created_at": "2026-11-03T03:14:55.519672+00:00",
+        "updated_at": "2026-11-03T03:14:55.519672+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, stating that his experience at the gaming convention on October 7, 2022 was unforgettable.",
+        "score": 0.6564238882434092,
+        "id": "ac28529a-ddb0-433f-8cbf-82b69bec034c",
+        "created_at": "2026-11-03T03:21:39.020138+00:00",
+        "updated_at": "2026-11-03T03:21:39.020138+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around late September 2022 after putting in many late nights and edits, and Nate congratulated her on completing the effort.",
+        "score": 0.6548154167927588,
+        "id": "72446f52-112b-4221-8ea7-a90d63763af3",
+        "created_at": "2026-11-03T03:19:28.908830+00:00",
+        "updated_at": "2026-11-03T03:19:28.908830+00:00"
+      },
+      {
+        "memory": "Nate is planning to read the 'A Court of Thorns and Roses' book series by Sarah J. Maas, which Joanna recommended as a fantasy series for relaxing, and he intends to share his thoughts with her once finished.",
+        "score": 0.6546204483135786,
+        "id": "91734215-7e69-4612-8773-6a9b76bda6d9",
+        "created_at": "2026-11-03T03:14:52.914390+00:00",
+        "updated_at": "2026-11-03T03:14:52.914390+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and describes it as an awesome game that has been a blast, recommending it to Joanna on November 7, 2022.",
+        "score": 0.6447121903292297,
+        "id": "713c2a33-8b97-4cdd-bb2b-1b8127b53446",
+        "created_at": "2026-11-03T03:29:10.393537+00:00",
+        "updated_at": "2026-11-03T03:29:10.393537+00:00"
+      },
+      {
+        "memory": "Nate recommended the 'A Court of Thorns and Roses' book series by Sarah J. Maas to Joanna on August 22, 2022, sharing a photo of the books stacked on a wooden table.",
+        "score": 0.6427185346146345,
+        "id": "1ed8bd67-705a-4bd1-91d9-34a4f36afc09",
+        "created_at": "2026-11-03T03:14:45.460952+00:00",
+        "updated_at": "2026-11-03T03:14:45.460952+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around September 29, 2022, after putting in many late nights and edits, and Nate congratulated her on the accomplishment.",
+        "score": 0.6406982202599676,
+        "id": "2543877c-70ab-4bad-a702-ba5d6ef37602",
+        "created_at": "2026-11-03T03:19:49.789479+00:00",
+        "updated_at": "2026-11-03T03:19:49.789479+00:00"
+      }
+    ],
+    "search_latency_ms": 122.2,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Joanna recommended that Nate read a fantasy book series; he chose *A Court of Thorns and Roses* by Sarah J. Maas.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes one of the gold answer's book recommendations, 'A Court of Thorns and Roses', so it receives partial credit."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna recommended that Nate find a fantasy book series to read for relaxation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer only gives a generic fantasy book series recommendation and does not mention either specific gold answer title."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna recommended that Nate find a fantasy book series to read for relaxation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer only gives a generic fantasy book series recommendation and does not mention either specific gold answer title."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Joanna recommended that Nate find a fantasy book series to read for relaxation.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer only gives a generic fantasy book series recommendation and does not mention either specific gold answer title."
+    }
+  }
+}

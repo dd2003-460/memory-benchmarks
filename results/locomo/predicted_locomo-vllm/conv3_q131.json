@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q131",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What does the photo on Joanna's cork board remind her of?",
+  "ground_truth_answer": "love and encouragement from her family",
+  "evidence": [
+    "D15:11"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What does the photo on Joanna's cork board remind her of?",
+    "search_results": [
+      {
+        "memory": "Joanna keeps a family photo in a picture frame on her cork board because it reminds her of the love and encouragement from her loved ones every day",
+        "score": 0.719506739660569,
+        "id": "6a304452-fa6c-4639-9591-44c9346b4be2",
+        "created_at": "2026-11-03T03:10:37.207186+00:00",
+        "updated_at": "2026-11-03T03:10:37.207186+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board in her room filled with inspiring quotes and pictures that serve as her corner of motivation and creativity",
+        "score": 0.7117178442026002,
+        "id": "dfa7eeb8-ef94-4111-8029-243121cc46d3",
+        "created_at": "2026-11-03T03:10:25.137009+00:00",
+        "updated_at": "2026-11-03T03:10:25.137009+00:00"
+      },
+      {
+        "memory": "Joanna maintains a cork board filled with inspiring quotes and pictures that serves as her personal corner of motivation and creativity",
+        "score": 0.7080173775300082,
+        "id": "3720528f-b4a0-4b4e-ad67-f348f4c2b69d",
+        "created_at": "2026-11-03T03:10:19.029652+00:00",
+        "updated_at": "2026-11-03T03:10:19.029652+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a picture frame containing a family photo with Nate on June 5, 2022, which she keeps on her cork board among quotes and mementos",
+        "score": 0.6652768050432288,
+        "id": "ebb0d797-28d8-4640-977a-66d3c4591b54",
+        "created_at": "2026-11-03T03:10:30.628150+00:00",
+        "updated_at": "2026-11-03T03:10:30.628150+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in starting his own cork board after seeing Joanna's, viewing it as a valuable way to stay motivated and inspired.",
+        "score": 0.6236326447775113,
+        "id": "e94e9c8b-db13-4ae9-a945-de021962d438",
+        "created_at": "2026-11-03T03:10:43.264475+00:00",
+        "updated_at": "2026-11-03T03:10:43.264475+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne in the summer of 2022, describing the moment as an awesome reminder of nature's beauty.",
+        "score": 0.5703033256330741,
+        "id": "7e010256-d85a-4d0c-bae1-761b4fb605a6",
+        "created_at": "2026-11-03T03:32:14.033997+00:00",
+        "updated_at": "2026-11-03T03:32:14.033997+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunflower in a field with a sunset background during a hike near Fort Wayne last summer (2021), describing it as an awesome reminder of nature's beauty.",
+        "score": 0.5686998798308871,
+        "id": "8de1d41c-2e4f-4537-aa7d-903818577207",
+        "created_at": "2026-11-03T03:31:35.183543+00:00",
+        "updated_at": "2026-11-03T03:31:35.183543+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle, reflecting on the value of creating new memories as one grows up.",
+        "score": 0.5177536271504839,
+        "id": "47122dd3-2c9e-4993-b75a-abf20f46629a",
+        "created_at": "2026-11-03T03:30:00.778887+00:00",
+        "updated_at": "2026-11-03T03:30:00.778887+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of two little girls in pink dresses standing in front of a castle while discussing childhood memories with Nate.",
+        "score": 0.5174083639936635,
+        "id": "f8a1217c-decb-4698-90a1-5b2ba03e6c56",
+        "created_at": "2026-11-03T03:29:57.310296+00:00",
+        "updated_at": "2026-11-03T03:29:57.310296+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a whiteboard with motivational quotes, arrows, and words with Joanna on October 6, 2022, as a gesture of support for her goals.",
+        "score": 0.516313062509932,
+        "id": "f6a63be5-6e15-4fdc-bedc-d0a3341799ec",
+        "created_at": "2026-11-03T03:19:49.798536+00:00",
+        "updated_at": "2026-11-03T03:19:49.798536+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her notebook covered in stickers on August 14, 2022, while discussing how she is going all out with her current writing projects.",
+        "score": 0.5162200588070258,
+        "id": "ebc92211-b045-4b3e-9e7a-2e05e40ab273",
+        "created_at": "2026-11-03T03:12:58.804217+00:00",
+        "updated_at": "2026-11-03T03:12:58.804217+00:00"
+      },
+      {
+        "memory": "Joanna owns a framed movie poster and a signed picture from a classic film, which she shared in a photo of her collection.",
+        "score": 0.5073395231590708,
+        "id": "456c30fb-94e2-4758-9a91-cbca427fe792",
+        "created_at": "2026-11-03T03:21:56.387748+00:00",
+        "updated_at": "2026-11-03T03:21:56.387748+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her chocolate raspberry tart with Nate on September 14, 2022, showing the tart with raspberries on top.",
+        "score": 0.5012662248506236,
+        "id": "9fbc0219-b03b-4a5e-8ece-66a73049cd8d",
+        "created_at": "2026-11-03T03:18:04.048866+00:00",
+        "updated_at": "2026-11-03T03:18:04.048866+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.5001646975254842,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a box containing a videogame controller with Joanna on October 25, 2022, while congratulating her on her film screening.",
+        "score": 0.4976121637481031,
+        "id": "c35e33ca-ff34-42d2-bfee-be0885833574",
+        "created_at": "2026-11-03T03:24:14.992891+00:00",
+        "updated_at": "2026-11-03T03:24:14.992891+00:00"
+      },
+      {
+        "memory": "Joanna confirmed she is the person in the theater stage photo shared with Nate, identifying it as a moment from her acting career.",
+        "score": 0.4938823005337641,
+        "id": "a2d98a7c-3095-4264-9bb5-6fb742be395c",
+        "created_at": "2026-11-03T03:04:32.965136+00:00",
+        "updated_at": "2026-11-03T03:04:32.965136+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback on her book by making a raspberry chia pudding parfait dessert, which she shared a photo of with Nate on August 22, 2022.",
+        "score": 0.49245926055307254,
+        "id": "47238472-296a-4cc7-9f22-c2a3178a7533",
+        "created_at": "2026-11-03T03:14:11.542140+00:00",
+        "updated_at": "2026-11-03T03:14:11.542140+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook on May 20, 2022, noting that the project has been quite a journey but she made it through",
+        "score": 0.49009600151225524,
+        "id": "6f938187-3790-4cb9-9410-c4979ffb7341",
+        "created_at": "2026-11-03T03:07:22.214316+00:00",
+        "updated_at": "2026-11-03T03:07:22.214316+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a waterfall with lush greenery and a dark sky background from her hike on May 12, 2022, noting that the rush of the water was soothing at that spot.",
+        "score": 0.48955603105713347,
+        "id": "331975d3-d9c6-4c7e-a7bc-90793db20496",
+        "created_at": "2026-11-03T03:06:05.208085+00:00",
+        "updated_at": "2026-11-03T03:06:05.208085+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a stuffed animal toy on a bed with Joanna on May 25, 2022, which she found cute and appreciated the thought behind it.",
+        "score": 0.4879728908397468,
+        "id": "1c254937-9056-4e5b-b147-a3f0fe6d4112",
+        "created_at": "2026-11-03T03:08:09.591902+00:00",
+        "updated_at": "2026-11-03T03:08:09.591902+00:00"
+      }
+    ],
+    "search_latency_ms": 84.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The love and encouragement from her loved ones every day.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer captures the same core idea of love and encouragement, with 'loved ones' reasonably paraphrasing 'family'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It reminds her of the love and encouragement from her loved ones every day.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea of love and encouragement, with 'loved ones' as a valid paraphrase for family."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It reminds her of the love and encouragement from her loved ones every day.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea of love and encouragement, with 'loved ones' as a valid paraphrase for family."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "It reminds her of the love and encouragement from her loved ones every day.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same core idea of love and encouragement, with 'loved ones' as a valid paraphrase for family."
+    }
+  }
+}

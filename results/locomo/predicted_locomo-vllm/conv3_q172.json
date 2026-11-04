@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q172",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How does Nate feel about Joanna's ability to bounce back from setbacks?",
+  "ground_truth_answer": "respect Joanna for being able to bounce back",
+  "evidence": [
+    "D24:15"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "How does Nate feel about Joanna's ability to bounce back from setbacks?",
+    "search_results": [
+      {
+        "memory": "Nate recently experienced a setback in a video game tournament where he did not perform well despite his efforts, but is trying to stay positive about it.",
+        "score": 0.6715406928292519,
+        "id": "2a9356ad-6ff5-4ef3-bafa-95f20101f58d",
+        "created_at": "2026-11-03T03:15:53.702096+00:00",
+        "updated_at": "2026-11-03T03:15:53.702096+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite trying his best, but is trying to stay positive about it.",
+        "score": 0.670552025438947,
+        "id": "a2a40d91-2873-46cb-956e-34cf6003a213",
+        "created_at": "2026-11-03T03:15:37.916688+00:00",
+        "updated_at": "2026-11-03T03:15:37.916688+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite trying his best, but is attempting to stay positive about the outcome.",
+        "score": 0.6671138505415345,
+        "id": "10596cbb-9edb-45d5-87c7-aaecfb0a5825",
+        "created_at": "2026-11-03T03:15:20.833148+00:00",
+        "updated_at": "2026-11-03T03:15:20.833148+00:00"
+      },
+      {
+        "memory": "Nate experienced a setback in a video game tournament around September 5, 2022, where he did not perform well despite his efforts, and is trying to stay positive about the loss.",
+        "score": 0.6647983421463928,
+        "id": "3b002a20-77d5-4dfd-8f1b-9f8fdeb75598",
+        "created_at": "2026-11-03T03:15:17.575604+00:00",
+        "updated_at": "2026-11-03T03:15:17.575604+00:00"
+      },
+      {
+        "memory": "Joanna recently received another rejection from a production company, which she described as a setback, but she is determined to keep pushing forward and not let it slow her down.",
+        "score": 0.6371046523296923,
+        "id": "eee2ee3e-2375-4ce3-950e-656c38e646c0",
+        "created_at": "2026-11-03T03:24:03.969219+00:00",
+        "updated_at": "2026-11-03T03:24:03.969219+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep grinding and moving ahead without letting it slow her down.",
+        "score": 0.6369183972785881,
+        "id": "81e3bd9c-5e75-4b98-a4dd-1362c3000396",
+        "created_at": "2026-11-03T03:23:49.469355+00:00",
+        "updated_at": "2026-11-03T03:23:49.469355+00:00"
+      },
+      {
+        "memory": "Joanna recently received a rejection from a production company around October 25, 2022, which she described as a setback but stated she will not let it slow her down and plans to keep pushing forward in her career",
+        "score": 0.6337044351865753,
+        "id": "4e351243-ed2f-4e1d-a0b8-5c1f740edfa1",
+        "created_at": "2026-11-03T03:24:07.105912+00:00",
+        "updated_at": "2026-11-03T03:24:07.105912+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback, but she remains determined to keep working hard and moving forward.",
+        "score": 0.6336953419128835,
+        "id": "1d4501a4-1fad-4c93-86f5-6d89752bcac2",
+        "created_at": "2026-11-03T03:23:55.205237+00:00",
+        "updated_at": "2026-11-03T03:23:55.205237+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 21, 2022, receiving a rejection from a production company.",
+        "score": 0.6307246246281484,
+        "id": "a780aefa-fc99-44ab-b061-55382d8c63dc",
+        "created_at": "2026-11-03T03:23:40.606694+00:00",
+        "updated_at": "2026-11-03T03:23:40.606694+00:00"
+      },
+      {
+        "memory": "Nate participated in a video game tournament around September 5, 2022, and did not perform well despite trying his best, viewing the setback as part of the learning curve while attempting to stay positive.",
+        "score": 0.6144661863494731,
+        "id": "0968a083-5fe8-44ac-8c09-efc444973ca5",
+        "created_at": "2026-11-03T03:15:28.824336+00:00",
+        "updated_at": "2026-11-03T03:15:28.824336+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches with Nate, stating that watching her characters come alive was her favorite part of the premiere because it felt like they jumped off the page.",
+        "score": 0.605675637517031,
+        "id": "5ffb049e-7844-4a50-b015-9610fcbe00ec",
+        "created_at": "2026-11-03T03:24:30.600656+00:00",
+        "updated_at": "2026-11-03T03:24:30.600656+00:00"
+      },
+      {
+        "memory": "Nate loves turtles and enjoys winning video game tournaments, comparing the feeling of victory to Joanna's success with her producer meetings.",
+        "score": 0.6043154215598985,
+        "id": "6fab63f5-74d2-4c70-8bcb-be47b838da4f",
+        "created_at": "2026-11-03T03:26:14.498917+00:00",
+        "updated_at": "2026-11-03T03:26:14.498917+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, which she described as a setback in her writing career.",
+        "score": 0.60188420299128,
+        "id": "701602ac-10ba-4749-8377-9ab84d786c1e",
+        "created_at": "2026-11-03T03:23:43.412270+00:00",
+        "updated_at": "2026-11-03T03:23:43.412270+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group the week of August 15, 2022, and while she was super nervous about the presentation, she received great feedback that made her feel her hard work is paying off.",
+        "score": 0.522030369580171,
+        "id": "d770e5eb-9543-4b46-8a99-e907d65a50f5",
+        "created_at": "2026-11-03T03:14:03.320990+00:00",
+        "updated_at": "2026-11-03T03:14:03.320990+00:00"
+      },
+      {
+        "memory": "Nate has already had two movies published and Joanna's potential success would be her third, as Nate encouraged her that at least one of her new submissions will make it to the screens.",
+        "score": 0.40814255002690353,
+        "id": "29235b1f-ca43-4cfe-aef8-6acfc79147bd",
+        "created_at": "2026-11-03T03:29:07.056805+00:00",
+        "updated_at": "2026-11-03T03:29:07.056805+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna over to either watch one of her movies together or go to the park",
+        "score": 0.40695564691731717,
+        "id": "b5a01379-4c7d-407b-995a-58fc6742a428",
+        "created_at": "2026-11-03T03:31:54.721724+00:00",
+        "updated_at": "2026-11-03T03:31:54.721724+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the trails sometime, and Nate accepted the invitation, agreeing to go hiking together.",
+        "score": 0.40474300673471103,
+        "id": "2065d53f-7831-4ff2-904d-11a16591bbf5",
+        "created_at": "2026-11-03T03:06:45.455557+00:00",
+        "updated_at": "2026-11-03T03:06:45.455557+00:00"
+      },
+      {
+        "memory": "Nate and Joanna planned to meet up on November 12, 2022, to either watch one of Joanna's movies together or go to the park.",
+        "score": 0.39386980331095706,
+        "id": "83d9cb78-8ab8-473a-a015-809ac5206bca",
+        "created_at": "2026-11-03T03:32:33.629539+00:00",
+        "updated_at": "2026-11-03T03:32:33.629539+00:00"
+      },
+      {
+        "memory": "Nate invited Joanna to join him in the kitchen for baking and cooking together, believing these activities bring them closer, and Joanna accepted the invitation.",
+        "score": 0.38786177185439313,
+        "id": "6f7695f0-6976-4008-b805-30f1ec01aee9",
+        "created_at": "2026-11-03T03:16:58.591686+00:00",
+        "updated_at": "2026-11-03T03:16:58.591686+00:00"
+      },
+      {
+        "memory": "Nate decided to start writing down his favorite memories with Joanna and things his animals like, inspired by Joanna's habit of keeping a memory notebook",
+        "score": 0.37622515370514475,
+        "id": "77e9d019-bb25-4e42-92ae-549b49518fe7",
+        "created_at": "2026-11-03T03:30:09.376078+00:00",
+        "updated_at": "2026-11-03T03:30:09.376078+00:00"
+      }
+    ],
+    "search_latency_ms": 54.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate feels positive about Joanna’s ability to bounce back, seeing her as resilient and determined to keep pushing forward after setbacks.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer expresses a positive sentiment about Joanna's resilience, which aligns with the gold answer's idea of respecting her ability to bounce back."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate feels impressed by and supportive of Joanna’s ability to bounce back; he sees her resilience as a strength and is confident she can keep pushing through setbacks.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses positive admiration and support for Joanna's resilience, which aligns with the gold answer's idea of respecting her ability to bounce back."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate admires Joanna’s resilience and is confident in her ability to bounce back from setbacks, seeing her determination as a strength and supporting her continued push forward.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer expresses admiration and confidence in Joanna's resilience, which matches the gold answer's idea of respecting her ability to bounce back."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate admires Joanna’s resilience and is supportive of her ability to bounce back from setbacks; he sees her determination as a strength and encourages her that her work will succeed.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer captures the same positive regard as the gold answer by saying Nate admires her resilience and supports her ability to bounce back."
+    }
+  }
+}

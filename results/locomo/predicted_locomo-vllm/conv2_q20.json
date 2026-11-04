@@ -1,0 +1,191 @@
+{
+  "question_id": "conv2_q20",
+  "conversation_idx": 2,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "When did John take a road trip to the Pacific Northwest?",
+  "ground_truth_answer": "2022",
+  "evidence": [
+    "D11:3",
+    "D11:5"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "When did John take a road trip to the Pacific Northwest?",
+    "search_results": [
+      {
+        "memory": "John and Maria explored the Pacific Northwest coast and visited national parks during their road trip in 2022, which John describes as having breathtaking natural beauty.",
+        "score": 0.85239541562936,
+        "id": "7a731d66-eea9-4770-8602-bdf6d421e46f",
+        "created_at": "2026-11-03T00:26:11.778135+00:00",
+        "updated_at": "2026-11-03T00:26:11.778135+00:00"
+      },
+      {
+        "memory": "John took a road trip with Maria in 2022, which he recalls as having 'bumps along the way' but still finding beauty and hope in the experience.",
+        "score": 0.7710081751840245,
+        "id": "8a58ccfe-1aeb-4c37-8d4b-835853439d12",
+        "created_at": "2026-11-03T00:25:58.095222+00:00",
+        "updated_at": "2026-11-03T00:25:58.095222+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of May 4, 2023",
+        "score": 0.6443491888148316,
+        "id": "9d809667-991f-4e03-8fc1-6dd7eee6b2fe",
+        "created_at": "2026-11-03T00:27:56.115329+00:00",
+        "updated_at": "2026-11-03T00:27:56.115329+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.6432417798986472,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of April 18, 2023.",
+        "score": 0.6411807223965615,
+        "id": "dd293ee7-14ec-456f-a9e0-2193bae2658f",
+        "created_at": "2026-11-03T00:27:40.924277+00:00",
+        "updated_at": "2026-11-03T00:27:40.924277+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the experience helped clear his head while providing comfort through good memories after losing his pet Max.",
+        "score": 0.6243019972788935,
+        "id": "14ba2838-ebe1-43c9-b84f-214eac43a04c",
+        "created_at": "2026-11-03T00:32:13.530865+00:00",
+        "updated_at": "2026-11-03T00:32:13.530865+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates the week of June 5, 2023, successfully reached the summit, and found the view stunning despite the difficulty, noting it helped clear his head.",
+        "score": 0.6141549129785211,
+        "id": "707b3516-0152-47d5-8120-38e63a930ea2",
+        "created_at": "2026-11-03T00:32:03.062423+00:00",
+        "updated_at": "2026-11-03T00:32:03.062423+00:00"
+      },
+      {
+        "memory": "John reached the summit on his mountaineering trip with workmates in early June 2023, describing the view as stunning and the experience as tough but awesome, which helped clear his head.",
+        "score": 0.6083172366997479,
+        "id": "d500fef2-8b69-4559-a041-da15d3a26f73",
+        "created_at": "2026-11-03T00:32:05.294417+00:00",
+        "updated_at": "2026-11-03T00:32:05.294417+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle",
+        "score": 0.6038923859917288,
+        "id": "f67fcfd2-278a-4d57-a37e-56d8b876e88d",
+        "created_at": "2026-11-03T00:47:56.100731+00:00",
+        "updated_at": "2026-11-03T00:47:56.100731+00:00"
+      },
+      {
+        "memory": "John and his late pet Max went on a camping trip in the summer of 2023 where they hiked, swam, and enjoyed a peaceful experience away from everyday hustle.",
+        "score": 0.6038446901953225,
+        "id": "3f008e46-de5b-4f71-9607-4cf5b491bb99",
+        "created_at": "2026-11-03T00:47:45.944437+00:00",
+        "updated_at": "2026-11-03T00:47:45.944437+00:00"
+      },
+      {
+        "memory": "John shared a photo from a recent hiking trip with his workmates, noting that their camaraderie and support motivate him to continue his volunteer work.",
+        "score": 0.6033490207379784,
+        "id": "0c8b0a26-60d0-4299-b3b9-4ca253270d4c",
+        "created_at": "2026-11-03T00:30:45.236604+00:00",
+        "updated_at": "2026-11-03T00:30:45.236604+00:00"
+      },
+      {
+        "memory": "John took a family trip in 2022 to celebrate his daughter Sara's birthday, which he describes as a source of motivation and good memories that help him stay focused on his community work.",
+        "score": 0.600422839493721,
+        "id": "5f52b211-c453-4b41-92bb-04dc777f24f0",
+        "created_at": "2026-11-03T00:39:57.214622+00:00",
+        "updated_at": "2026-11-03T00:39:57.214622+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John found peaceful and a nice break from everyday hustle.",
+        "score": 0.5974099084276758,
+        "id": "f374fefa-fa3a-417e-b202-2e2ebbb4ca09",
+        "created_at": "2026-11-03T00:47:43.303194+00:00",
+        "updated_at": "2026-11-03T00:47:43.303194+00:00"
+      },
+      {
+        "memory": "John took a family trip in July 2022 to celebrate his daughter Sara's birthday, which he describes as full of fun and good memories that motivate him to keep striving for change.",
+        "score": 0.5951279628955637,
+        "id": "0d7ebab7-d651-4ace-9318-118f622b58c2",
+        "created_at": "2026-11-03T00:39:42.835875+00:00",
+        "updated_at": "2026-11-03T00:39:42.835875+00:00"
+      },
+      {
+        "memory": "John has a daughter named Sara and took a family trip for her birthday in 2022, which created fun memories that serve as a source of motivation for his ongoing work.",
+        "score": 0.5945308812555948,
+        "id": "f2bdcaf4-5a70-4417-8744-09f13cf4379a",
+        "created_at": "2026-11-03T00:39:53.012451+00:00",
+        "updated_at": "2026-11-03T00:39:53.012451+00:00"
+      },
+      {
+        "memory": "John went on a camping trip with his late pet Max, a golden retriever, in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience that made great memories.",
+        "score": 0.5871839576360046,
+        "id": "3a1a84ed-ace9-4d8e-a430-e09f4696ab7f",
+        "created_at": "2026-11-03T00:47:37.300437+00:00",
+        "updated_at": "2026-11-03T00:47:37.300437+00:00"
+      },
+      {
+        "memory": "John went on a camping trip in nature which he found peaceful and rejuvenating, describing it as a restart for his mind and spirit that helped him appreciate small moments.",
+        "score": 0.5841219286182066,
+        "id": "b8572aaf-c53a-40db-a09d-cf12315d5e59",
+        "created_at": "2026-11-03T00:48:10.993099+00:00",
+        "updated_at": "2026-11-03T00:48:10.993099+00:00"
+      },
+      {
+        "memory": "John shared a photo of his workmates from a recent hiking trip, noting that their camaraderie and support help keep him motivated in his work on the veteran support petition.",
+        "score": 0.5786025916805666,
+        "id": "3f606ebe-7995-48db-b461-1130e4fdb681",
+        "created_at": "2026-11-03T00:30:47.743765+00:00",
+        "updated_at": "2026-11-03T00:30:47.743765+00:00"
+      },
+      {
+        "memory": "John shared a photo from his mountaineering trip showing a man standing on top of a mountain with a backpack, taken around June 12, 2023.",
+        "score": 0.562771780990708,
+        "id": "81a57731-7c1a-4a59-be8f-08e037451b61",
+        "created_at": "2026-11-03T00:31:58.678713+00:00",
+        "updated_at": "2026-11-03T00:31:58.678713+00:00"
+      },
+      {
+        "memory": "John shared a photo of a tent in the woods with a blue tarp from his recent camping trip with Max, which he found peaceful and a nice break from everyday hustle.",
+        "score": 0.547538928611651,
+        "id": "c24686db-fd7c-4aa8-a526-c86cac3f66f9",
+        "created_at": "2026-11-03T00:48:08.369021+00:00",
+        "updated_at": "2026-11-03T00:48:08.369021+00:00"
+      }
+    ],
+    "search_latency_ms": 78.0,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's year."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "In 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's year exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "In 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's year exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "In 2022.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer's year exactly."
+    }
+  }
+}

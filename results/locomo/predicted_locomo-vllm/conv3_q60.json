@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q60",
+  "conversation_idx": 3,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What Console does Nate own?",
+  "ground_truth_answer": "A Nintendo Switch; since the game \"Xenoblade 2\" is made for this console.",
+  "evidence": [
+    "D27:23"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What Console does Nate own?",
+    "search_results": [
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends recommended it to him.",
+        "score": 0.456687010377138,
+        "id": "b36dfedf-2d82-4b66-b407-e7b737421373",
+        "created_at": "2026-11-03T03:29:23.394764+00:00",
+        "updated_at": "2026-11-03T03:29:23.394764+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and started playing 'Xenoblade Chronicles' because his friends had played it and recommended it to him.",
+        "score": 0.454936656739108,
+        "id": "7a1627bb-59c8-4191-8423-0e6435b113a9",
+        "created_at": "2026-11-03T03:29:16.783708+00:00",
+        "updated_at": "2026-11-03T03:29:16.783708+00:00"
+      },
+      {
+        "memory": "Nate's dog Max is an adopted pet who is full of energy and brings Nate a lot of joy, while also keeping Nate's other pets active",
+        "score": 0.35578159074095983,
+        "id": "423f22f2-559d-465a-9f6d-57e8efaf08cd",
+        "created_at": "2026-11-03T03:07:01.087471+00:00",
+        "updated_at": "2026-11-03T03:07:01.087471+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xeonoblade Chronicles' and highly recommends it, having started the game after friends recommended it because he is a big fan of Nintendo games.",
+        "score": 0.35036354077995463,
+        "id": "ec6d376d-0d4d-4505-9a9d-aac9100a2803",
+        "created_at": "2026-11-03T03:29:19.860235+00:00",
+        "updated_at": "2026-11-03T03:29:19.860235+00:00"
+      },
+      {
+        "memory": "Nate adopted his new dog Max, who is full of energy and keeps Nate's other pets active, bringing him significant joy",
+        "score": 0.34605245927796363,
+        "id": "3c358a61-020e-45db-b5b1-ae8a6bae5738",
+        "created_at": "2026-11-03T03:07:26.499768+00:00",
+        "updated_at": "2026-11-03T03:07:26.499768+00:00"
+      },
+      {
+        "memory": "Nate provided controller accessories at his gaming party, which most of the friends liked",
+        "score": 0.3432554096935422,
+        "id": "d1c67079-fc2f-4f8c-a0b4-0e4473162b5b",
+        "created_at": "2026-11-03T03:11:10.691469+00:00",
+        "updated_at": "2026-11-03T03:11:10.691469+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and has been wanting to play the Japanese fantasy RPG Xenoblade Chronicles for a while because his friends recommended it.",
+        "score": 0.33747887293221657,
+        "id": "b5628b60-23be-40f2-8ba6-3872250bd77d",
+        "created_at": "2026-11-03T03:29:43.830443+00:00",
+        "updated_at": "2026-11-03T03:29:43.830443+00:00"
+      },
+      {
+        "memory": "Nate and the new friends he met at the game convention planned a future gaming session together",
+        "score": 0.33601244832182625,
+        "id": "5a4b43e7-22bf-4af6-b51a-eb307b845a96",
+        "created_at": "2026-11-03T03:21:24.581109+00:00",
+        "updated_at": "2026-11-03T03:21:24.581109+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it to others.",
+        "score": 0.33582519987017434,
+        "id": "d1e70f51-fd2a-4294-b75a-3403c2eb1702",
+        "created_at": "2026-11-03T03:29:23.392698+00:00",
+        "updated_at": "2026-11-03T03:29:23.392698+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and prefers not to be overly competitive during gameplay",
+        "score": 0.3266955388910372,
+        "id": "5f8c89eb-e451-4907-9f0f-a106acbc2cc3",
+        "created_at": "2026-11-03T03:21:30.268351+00:00",
+        "updated_at": "2026-11-03T03:21:30.268351+00:00"
+      },
+      {
+        "memory": "Nate and his new friends from the game convention have planned a gaming session together to continue their shared hobby.",
+        "score": 0.32638911825142947,
+        "id": "29dfbebf-f991-4522-bf64-cfcaf0d3adac",
+        "created_at": "2026-11-03T03:21:11.596158+00:00",
+        "updated_at": "2026-11-03T03:21:11.596158+00:00"
+      },
+      {
+        "memory": "Nate has been practicing for his next video game tournament as of October 25, 2022",
+        "score": 0.32202872536240806,
+        "id": "c57ca4b9-f0e0-490e-bd74-802575e21717",
+        "created_at": "2026-11-03T03:24:07.099722+00:00",
+        "updated_at": "2026-11-03T03:24:07.099722+00:00"
+      },
+      {
+        "memory": "Nate is part of a vegan diet group where he shares food items like his homemade vegan ice cream.",
+        "score": 0.31994733140159015,
+        "id": "d4099f23-c2bb-45c2-a1c2-0eaf4805c4a7",
+        "created_at": "2026-11-03T03:11:13.485757+00:00",
+        "updated_at": "2026-11-03T03:11:13.485757+00:00"
+      },
+      {
+        "memory": "Nate was practicing for an upcoming video game tournament as of October 21, 2022.",
+        "score": 0.31961700679242994,
+        "id": "077349a5-f283-406a-aed3-dcf2ead75be9",
+        "created_at": "2026-11-03T03:23:55.202681+00:00",
+        "updated_at": "2026-11-03T03:23:55.202681+00:00"
+      },
+      {
+        "memory": "Nate is getting custom controller decorations for everyone attending his gaming party as a welcome gift.",
+        "score": 0.3189977489468129,
+        "id": "53ef6a32-f110-46d9-bcc5-19618cb9f4ec",
+        "created_at": "2026-11-03T03:09:48.757049+00:00",
+        "updated_at": "2026-11-03T03:09:48.757049+00:00"
+      },
+      {
+        "memory": "Nate is currently practicing for his next video game tournament as of October 21, 2022.",
+        "score": 0.3178742344294719,
+        "id": "11965c66-d548-4bed-b820-982b84c6ce3d",
+        "created_at": "2026-11-03T03:23:49.472270+00:00",
+        "updated_at": "2026-11-03T03:23:49.472270+00:00"
+      },
+      {
+        "memory": "Nate hosted a gaming party that was a great success, where they played some Chess afterward just for fun",
+        "score": 0.31751627642724484,
+        "id": "53600cf9-f619-43f4-a0c1-ce753cf2409c",
+        "created_at": "2026-11-03T03:10:56.245307+00:00",
+        "updated_at": "2026-11-03T03:10:56.245307+00:00"
+      },
+      {
+        "memory": "Nate is a competitive gamer who uses his dedicated home setup with two monitors and a laptop for both practice and competition, viewing it as essential to his career and a personal haven to escape into the virtual world.",
+        "score": 0.27367560851005557,
+        "id": "21e0ea53-397c-4437-bcb0-e89af6d489fa",
+        "created_at": "2026-11-03T03:29:19.854763+00:00",
+        "updated_at": "2026-11-03T03:29:19.854763+00:00"
+      },
+      {
+        "memory": "Nate recently upgraded his home gaming equipment, which includes a computer monitor and keyboard on a desk, and uses this setup for practicing, competing, and playing games with friends.",
+        "score": 0.26661046447912695,
+        "id": "9222347f-0222-4ae1-acd8-f897a8e027dd",
+        "created_at": "2026-11-03T03:28:53.467520+00:00",
+        "updated_at": "2026-11-03T03:28:53.467520+00:00"
+      },
+      {
+        "memory": "Nate upgraded his home gaming equipment around November 7, 2022, including a computer monitor and keyboard setup which he uses for practicing, competing in tournaments, and playing games with friends.",
+        "score": 0.26516574551306266,
+        "id": "343dc4ee-72e9-4485-8ba6-c80ab8f46988",
+        "created_at": "2026-11-03T03:28:47.530751+00:00",
+        "updated_at": "2026-11-03T03:28:47.530751+00:00"
+      }
+    ],
+    "search_latency_ms": 141.6,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nintendo Switch",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer's console."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Nintendo console",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies only a Nintendo console, not the specific Nintendo Switch from the gold answer."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Nintendo console",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies only a Nintendo console, not the specific Nintendo Switch from the gold answer."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A Nintendo console",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies only a Nintendo console, not the specific Nintendo Switch from the gold answer."
+    }
+  }
+}

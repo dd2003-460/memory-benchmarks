@@ -1,0 +1,190 @@
+{
+  "question_id": "conv3_q194",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did Nate get a third turtle?",
+  "ground_truth_answer": "He saw another one at a pet store and wanted to get it",
+  "evidence": [
+    "D28:25"
+  ],
+  "user_id": "locomo_3_full01",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "Why did Nate get a third turtle?",
+    "search_results": [
+      {
+        "memory": "Nate is very happy with the decision to get a third turtle, stating he would not have it any other way.",
+        "score": 0.9131402807118991,
+        "id": "716e76e5-5433-4f1d-8b74-f3409bd15715",
+        "created_at": "2026-11-03T03:31:46.574276+00:00",
+        "updated_at": "2026-11-03T03:31:46.574276+00:00"
+      },
+      {
+        "memory": "Nate acquired a third pet turtle on November 9, 2022, after seeing one at a pet store and deciding to get it because his tank was large enough to accommodate three turtles.",
+        "score": 0.907042198019225,
+        "id": "2ab5e849-d028-4245-baa8-155e4cd64a9c",
+        "created_at": "2026-11-03T03:31:42.077852+00:00",
+        "updated_at": "2026-11-03T03:31:42.077852+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.9057822912223884,
+        "id": "79091a04-7650-4fa4-bc12-98c8dbd91d05",
+        "created_at": "2026-11-03T03:31:50.665104+00:00",
+        "updated_at": "2026-11-03T03:31:50.665104+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third pet turtle after seeing one at a pet store, noting that the tank is large enough for three and that turtles bring him joy and peace",
+        "score": 0.8861561312522866,
+        "id": "43e6c01d-ac0d-405c-8bfb-97af63e56163",
+        "created_at": "2026-11-03T03:31:54.712656+00:00",
+        "updated_at": "2026-11-03T03:31:54.712656+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a third pet turtle after seeing one at a pet store, noting that turtles bring him joy and peace and that his tank is large enough to accommodate three.",
+        "score": 0.8780251988432628,
+        "id": "1954f9f9-2a8a-4d08-a459-aa80cb8c8bd9",
+        "created_at": "2026-11-03T03:32:14.038120+00:00",
+        "updated_at": "2026-11-03T03:32:14.038120+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he finds cute and which have been a big help to him recently, especially during difficult times.",
+        "score": 0.7870172417276953,
+        "id": "bba63051-cc60-48e0-a798-a546eb7c1de0",
+        "created_at": "2026-11-03T03:15:37.913713+00:00",
+        "updated_at": "2026-11-03T03:15:37.913713+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when he is bored, sharing a photo of two turtles sitting on a log in a pond during their conversation on October 25, 2022.",
+        "score": 0.7824302889643138,
+        "id": "ff62fa00-1090-413c-b39e-4d92c24074b0",
+        "created_at": "2026-11-03T03:24:58.332794+00:00",
+        "updated_at": "2026-11-03T03:24:58.332794+00:00"
+      },
+      {
+        "memory": "Nate owns pet turtles that he takes out for walks when bored; on October 25, 2022, he shared photos of his two turtles sitting on a log in a pond and later relaxing in their tank after walking.",
+        "score": 0.7736941524232042,
+        "id": "2f84e572-30aa-49b4-ad81-58153151eb61",
+        "created_at": "2026-11-03T03:25:06.493652+00:00",
+        "updated_at": "2026-11-03T03:25:06.493652+00:00"
+      },
+      {
+        "memory": "Nate has a pet turtle that he enjoys spending time with, finding the companionship helpful during difficult times.",
+        "score": 0.7735578713258553,
+        "id": "c6d73195-6bfe-40a3-b3a5-d77a557c2801",
+        "created_at": "2026-11-03T03:15:53.697923+00:00",
+        "updated_at": "2026-11-03T03:15:53.697923+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he takes out for walks when bored, and they currently relax in a tank with a heat lamp after their outings.",
+        "score": 0.7580227491915762,
+        "id": "c112b5da-61de-49b5-a45e-397f44355ca1",
+        "created_at": "2026-11-03T03:25:19.557967+00:00",
+        "updated_at": "2026-11-03T03:25:19.557967+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he recently moved into a new, larger tank, which he describes as his 'little buddies' and finds calming to be around after long days of gaming",
+        "score": 0.7579022638268942,
+        "id": "87b4554e-4478-47a4-9298-68b10ccc44d5",
+        "created_at": "2026-11-03T03:14:40.184400+00:00",
+        "updated_at": "2026-11-03T03:14:40.184400+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles, describing them as calm and peaceful buddies that make coming home after a long day of gaming better.",
+        "score": 0.7572958187395814,
+        "id": "194d4e3c-f83e-4aa6-b63f-e970a342e7a2",
+        "created_at": "2026-11-03T03:14:11.534463+00:00",
+        "updated_at": "2026-11-03T03:14:11.534463+00:00"
+      },
+      {
+        "memory": "Nate recently got a new tank for his pet turtles and shared a photo of the setup with Joanna on August 22, 2022, expressing pride in his hard work paying off.",
+        "score": 0.7522718993276769,
+        "id": "32b648df-82b0-45bc-b7d0-af9c2ec9d67a",
+        "created_at": "2026-11-03T03:13:55.812100+00:00",
+        "updated_at": "2026-11-03T03:13:55.812100+00:00"
+      },
+      {
+        "memory": "Nate recently acquired a new tank for his pet turtles, noting that they are calm, peaceful 'little buddies' who bring joy when he comes home after long days of gaming.",
+        "score": 0.7461706560207253,
+        "id": "7ee69144-79d3-464f-a52e-0f24b28a8abd",
+        "created_at": "2026-11-03T03:14:07.168481+00:00",
+        "updated_at": "2026-11-03T03:14:07.168481+00:00"
+      },
+      {
+        "memory": "Nate enjoys holding his pet turtles in addition to watching them eat, describing the experience of seeing them enjoy their favorite snacks as fun and adorable.",
+        "score": 0.7448194362215819,
+        "id": "5acb4a20-de13-4b50-a634-1e1c66408ff8",
+        "created_at": "2026-11-03T03:25:22.154217+00:00",
+        "updated_at": "2026-11-03T03:25:22.154217+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his pet turtle with Joanna on April 17, 2022, showing the turtle in a bowl next to a strawberry",
+        "score": 0.7446981158089848,
+        "id": "ae84de42-35ae-44b2-85e2-944fb1278a41",
+        "created_at": "2026-11-03T03:03:41.904747+00:00",
+        "updated_at": "2026-11-03T03:03:41.904747+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that he enjoys watching play and sometimes brings into the kitchen to watch him cook, as shown in a photo shared with Joanna on April 17, 2022",
+        "score": 0.7430968835943801,
+        "id": "ffe962e0-e3b0-4176-92ce-e1d3b68d40c8",
+        "created_at": "2026-11-03T03:03:50.053544+00:00",
+        "updated_at": "2026-11-03T03:03:50.053544+00:00"
+      },
+      {
+        "memory": "Nate has liked turtles since he was a boy and considers himself knowledgeable about them, stating 'I know all about them' when discussing his pet turtles with Joanna on October 25, 2022.",
+        "score": 0.7429607868299071,
+        "id": "46bceb2c-9d23-4519-935e-595f5eb2de8c",
+        "created_at": "2026-11-03T03:25:33.526756+00:00",
+        "updated_at": "2026-11-03T03:25:33.526756+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pet turtles eat fruit because they get excited and it is cute to see.",
+        "score": 0.7408401380891704,
+        "id": "342c9a3d-3d3b-4391-9367-3411cecac80e",
+        "created_at": "2026-11-03T03:25:19.564474+00:00",
+        "updated_at": "2026-11-03T03:25:19.564474+00:00"
+      },
+      {
+        "memory": "Nate has pet turtles that cheer him up and provide happiness, particularly when he is stressed about his video game tournament progress.",
+        "score": 0.7386185352322882,
+        "id": "cadfe9b1-af86-484b-9f13-6a3ff50f5968",
+        "created_at": "2026-11-03T03:23:32.287631+00:00",
+        "updated_at": "2026-11-03T03:23:32.287631+00:00"
+      }
+    ],
+    "search_latency_ms": 116.5,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate got a third turtle because he saw one at a pet store and his tank was large enough to accommodate three turtles, and turtles bring him joy and peace.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the key fact that Nate saw a turtle at a pet store, matching the gold answer's core reason."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate got a third turtle because he saw one at a pet store and his tank was large enough to accommodate three turtles. He also values the joy and peace his turtles bring him.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Nate saw a turtle at a pet store, matching the gold answer's core reason."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate got a third turtle because he saw one at a pet store and his tank was large enough to accommodate three turtles. He also values the joy and peace his turtles bring him.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Nate saw a turtle at a pet store, matching the gold answer's core reason."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Nate got a third turtle because he saw one at a pet store and his tank was large enough to accommodate three turtles. He also values the joy and peace his turtles bring him.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the key fact that Nate saw a turtle at a pet store, matching the gold answer's core reason."
+    }
+  }
+}

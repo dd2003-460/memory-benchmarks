@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q86",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did John do that put a strain on his wallet?",
+  "ground_truth_answer": "His car broke down",
+  "evidence": [
+    "D11:1"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What did John do that put a strain on his wallet?",
+    "search_results": [
+      {
+        "memory": "John's car broke down on his way to work on Friday, April 7, 2023, and he is currently trying to get it fixed while managing the financial strain of the repair costs.",
+        "score": 0.5683753812250527,
+        "id": "0a61968a-291e-4a36-99ec-f5940d3c63ca",
+        "created_at": "2026-11-03T00:25:48.115506+00:00",
+        "updated_at": "2026-11-03T00:25:48.115506+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.2218031836220337,
+        "id": "8f168b92-7bcb-4e3c-9cd2-05cdb90a249f",
+        "created_at": "2026-11-03T00:45:48.164481+00:00",
+        "updated_at": "2026-11-03T00:45:48.164481+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company that went bankrupt, an event he did not see coming and found very rough.",
+        "score": 0.2218031836220337,
+        "id": "6ea3497e-e4c4-4b29-a66b-ad7d3fb048e7",
+        "created_at": "2026-11-03T00:45:55.003857+00:00",
+        "updated_at": "2026-11-03T00:45:55.003857+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.20199942280670086,
+        "id": "ecc9d8dd-9143-4e95-bf1f-cfeb36fe7f58",
+        "created_at": "2026-11-03T00:40:23.091830+00:00",
+        "updated_at": "2026-11-03T00:40:23.091830+00:00"
+      },
+      {
+        "memory": "John is inspired by his family, exercise, and spending time with friends.",
+        "score": 0.20199942280670086,
+        "id": "0a883642-dc6b-4531-97e5-9fad1e42e4f0",
+        "created_at": "2026-11-03T00:39:55.181696+00:00",
+        "updated_at": "2026-11-03T00:39:55.181696+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.19846100795775398,
+        "id": "0c01afd7-6c59-48dd-b16a-dba45381a9f2",
+        "created_at": "2026-11-03T00:49:08.022454+00:00",
+        "updated_at": "2026-11-03T00:49:08.022454+00:00"
+      },
+      {
+        "memory": "John has a wife and children, and he values his family highly, noting that they always have his back even when times are hard.",
+        "score": 0.19846100795775398,
+        "id": "9df06199-a980-4831-a055-fcef604f0cfa",
+        "created_at": "2026-11-03T00:49:18.797844+00:00",
+        "updated_at": "2026-11-03T00:49:18.797844+00:00"
+      },
+      {
+        "memory": "John sees his friends at least once a week, finding it a good way to disconnect, think, and find peace in a crazy world",
+        "score": 0.19223859027210552,
+        "id": "39d819dc-16d5-4992-8cd2-76c1317c98a8",
+        "created_at": "2026-11-03T00:40:54.957317+00:00",
+        "updated_at": "2026-11-03T00:40:54.957317+00:00"
+      },
+      {
+        "memory": "John and his dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John found peaceful and a nice break from everyday hustle.",
+        "score": 0.1903575550952771,
+        "id": "f374fefa-fa3a-417e-b202-2e2ebbb4ca09",
+        "created_at": "2026-11-03T00:47:43.303194+00:00",
+        "updated_at": "2026-11-03T00:47:43.303194+00:00"
+      },
+      {
+        "memory": "John offered to look for resources or organizations that could assist Maria's cousin with finding housing and asked if there was anything else he could do to help.",
+        "score": 0.18947668427083234,
+        "id": "dd7396f4-9c45-487a-8659-418cb790d4c0",
+        "created_at": "2026-11-03T00:38:21.704777+00:00",
+        "updated_at": "2026-11-03T00:38:21.704777+00:00"
+      },
+      {
+        "memory": "John is part of a community organization that he describes as being like a family, always supporting each other while working on community issues.",
+        "score": 0.18851705004424388,
+        "id": "33127391-1a3d-4c0a-ab1d-01a8835f5463",
+        "created_at": "2026-11-03T00:42:14.408103+00:00",
+        "updated_at": "2026-11-03T00:42:14.408103+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.1855560313916746,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John found the relief of the people helped during his first fire-fighting call-out to be an awesome experience.",
+        "score": 0.1849354628948297,
+        "id": "3af4fc92-d897-4142-b82a-22f2278140e5",
+        "created_at": "2026-11-03T00:43:49.076540+00:00",
+        "updated_at": "2026-11-03T00:43:49.076540+00:00"
+      },
+      {
+        "memory": "John was inspired by motivated people around him, which gave him renewed energy and a purpose to make a bigger difference in his community",
+        "score": 0.18404065838865344,
+        "id": "6082fbf4-e51c-4869-970d-982ad66ea696",
+        "created_at": "2026-11-03T00:27:56.119627+00:00",
+        "updated_at": "2026-11-03T00:27:56.119627+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with some workmates the week of June 5-11, 2023, which he found great and helpful for clearing his head while processing the loss of his dog Max.",
+        "score": 0.18325784708694245,
+        "id": "0f277bc8-b012-4c1c-8296-f7e7fdd17462",
+        "created_at": "2026-11-03T00:31:58.675402+00:00",
+        "updated_at": "2026-11-03T00:31:58.675402+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.1827071707428204,
+        "id": "f5eb3e05-9521-4dc0-b2a1-0347a013eb42",
+        "created_at": "2026-11-03T00:48:14.918644+00:00",
+        "updated_at": "2026-11-03T00:48:14.918644+00:00"
+      },
+      {
+        "memory": "John is experiencing a period of professional and personal stagnation, feeling that he is not making much of an impact and questioning his decisions and goals.",
+        "score": 0.1827071707428204,
+        "id": "fd05ec89-fe45-4dae-aa10-baa01d96c283",
+        "created_at": "2026-11-03T00:48:17.451902+00:00",
+        "updated_at": "2026-11-03T00:48:17.451902+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention in the context of his blog post about education reform.",
+        "score": 0.18024242833546017,
+        "id": "b28a687d-fd59-4c3c-9616-70ee46931592",
+        "created_at": "2026-11-03T00:27:18.422354+00:00",
+        "updated_at": "2026-11-03T00:27:18.422354+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.1798404330627023,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood in the week of July 1, 2023, which ruined many homes due to poor infrastructure and prompted John to organize community meetings to discuss solutions.",
+        "score": 0.17858489492625879,
+        "id": "be8273cf-23c1-474b-a8ea-7905379a1654",
+        "created_at": "2026-11-03T00:40:57.997547+00:00",
+        "updated_at": "2026-11-03T00:40:57.997547+00:00"
+      }
+    ],
+    "search_latency_ms": 55.4,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "He had to pay for car repairs after his car broke down.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the gold answer's core fact that John's car broke down and adds consistent extra detail about paying for repairs."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s car broke down and he had to pay for repairs, which strained his wallet.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that John's car broke down and adds consistent extra detail."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s car broke down and he had to pay for repairs, which strained his wallet.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that John's car broke down and adds consistent extra detail."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John’s car broke down and he had to pay for repairs, which strained his wallet.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the gold answer's key fact that John's car broke down and adds consistent extra detail."
+    }
+  }
+}

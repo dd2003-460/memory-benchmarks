@@ -1,0 +1,190 @@
+{
+  "question_id": "conv2_q138",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What activity did Maria take up with her friends from church in August 2023?",
+  "ground_truth_answer": "community work",
+  "evidence": [
+    "D28:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What activity did Maria take up with her friends from church in August 2023?",
+    "search_results": [
+      {
+        "memory": "Maria went camping with friends from church the weekend of June 9-10, 2023, describing it as a blast that helped take her mind off things.",
+        "score": 0.7760252598021566,
+        "id": "15839955-9dfe-401a-a656-a73e536a05cf",
+        "created_at": "2026-11-03T00:32:13.534830+00:00",
+        "updated_at": "2026-11-03T00:32:13.534830+00:00"
+      },
+      {
+        "memory": "Maria went camping with friends from her church the weekend of June 9-10, 2023, and described the experience as a blast that helped take her mind off things.",
+        "score": 0.7638337972567827,
+        "id": "df377abe-a270-4096-85ba-b0542604fef2",
+        "created_at": "2026-11-03T00:31:56.181489+00:00",
+        "updated_at": "2026-11-03T00:31:56.181489+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.7389181447758034,
+        "id": "da80b87e-8ff0-4a29-a3f8-da44e44616ba",
+        "created_at": "2026-11-03T00:46:02.850894+00:00",
+        "updated_at": "2026-11-03T00:46:02.850894+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.738480083672217,
+        "id": "f0d287a6-1d3c-42fa-a354-cd33c1b6c08d",
+        "created_at": "2026-11-03T00:46:22.530362+00:00",
+        "updated_at": "2026-11-03T00:46:22.530362+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience to be super rewarding.",
+        "score": 0.738480083672217,
+        "id": "94cec904-5cc6-4ed4-a166-d9756d69c79d",
+        "created_at": "2026-11-03T00:46:19.139377+00:00",
+        "updated_at": "2026-11-03T00:46:19.139377+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.7379653578141192,
+        "id": "88369c62-f17a-4c15-8b9a-b9eb216b8c20",
+        "created_at": "2026-11-03T00:46:13.483220+00:00",
+        "updated_at": "2026-11-03T00:46:13.483220+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.7379653578141192,
+        "id": "962f7791-2f83-46ab-a2ff-6a76025a0b7c",
+        "created_at": "2026-11-03T00:45:48.175785+00:00",
+        "updated_at": "2026-11-03T00:45:48.175785+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.7379653578141192,
+        "id": "d32c5f33-0ed2-4b27-b23b-84cef9b42dcc",
+        "created_at": "2026-11-03T00:45:57.509450+00:00",
+        "updated_at": "2026-11-03T00:45:57.509450+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, and found the experience super rewarding.",
+        "score": 0.7379653578141192,
+        "id": "f443b15e-89c6-4c98-9793-58c0d9907cb9",
+        "created_at": "2026-11-03T00:46:08.714828+00:00",
+        "updated_at": "2026-11-03T00:46:08.714828+00:00"
+      },
+      {
+        "memory": "Maria took up community work with her friends from church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.737165892089077,
+        "id": "3f977a53-ef09-408d-8427-3d949a05cda6",
+        "created_at": "2026-11-03T00:46:11.135457+00:00",
+        "updated_at": "2026-11-03T00:46:11.135457+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.735635300741797,
+        "id": "74af6cc9-2c08-4d7e-a223-66e32157b738",
+        "created_at": "2026-11-03T00:45:52.371236+00:00",
+        "updated_at": "2026-11-03T00:45:52.371236+00:00"
+      },
+      {
+        "memory": "Maria took up community work with friends from her church on August 4, 2023, finding the experience super rewarding.",
+        "score": 0.735635300741797,
+        "id": "4eff48af-c367-4c2b-89b8-0d80549556b1",
+        "created_at": "2026-11-03T00:45:55.012553+00:00",
+        "updated_at": "2026-11-03T00:45:55.012553+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, which she found refreshing due to the supportive people and nature.",
+        "score": 0.7229165758657301,
+        "id": "5d9630cd-73b2-4cb6-96b5-5f649fb5ffe0",
+        "created_at": "2026-11-03T00:42:55.730971+00:00",
+        "updated_at": "2026-11-03T00:42:55.730971+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends on the weekend of July 21-22, 2023, finding the experience refreshing and enjoyable due to being surrounded by supportive people in nature.",
+        "score": 0.7158572795467435,
+        "id": "59f9b246-c649-42c6-8c64-56ab8703d635",
+        "created_at": "2026-11-03T00:42:48.353229+00:00",
+        "updated_at": "2026-11-03T00:42:48.353229+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends the weekend of July 15-16, 2023, finding the experience refreshing and uplifting due to the supportive company and nature.",
+        "score": 0.7065555310711064,
+        "id": "86a84c0f-71c5-47b8-acd3-d7a5b427dd73",
+        "created_at": "2026-11-03T00:43:13.176185+00:00",
+        "updated_at": "2026-11-03T00:43:13.176185+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 8-9, 2023, where they relaxed under trees, played games, and ate food together.",
+        "score": 0.7002191572779604,
+        "id": "881a97a5-e3cb-42be-a6cf-f376c23b8173",
+        "created_at": "2026-11-03T00:42:01.937767+00:00",
+        "updated_at": "2026-11-03T00:42:01.937767+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from her church on the weekend of July 15-16, 2023, where they relaxed under trees, played games, and ate food.",
+        "score": 0.6976658592683218,
+        "id": "d5dfcc70-c2b3-4462-bc0d-a363804dc8d2",
+        "created_at": "2026-11-03T00:41:59.464574+00:00",
+        "updated_at": "2026-11-03T00:41:59.464574+00:00"
+      },
+      {
+        "memory": "As of June 27, 2023, Maria is going through a period of struggle but is focusing on the positive and relying on her friends and family for support.",
+        "score": 0.6975316044497445,
+        "id": "27289836-54df-465e-861c-955c8a045a51",
+        "created_at": "2026-11-03T00:35:38.450697+00:00",
+        "updated_at": "2026-11-03T00:35:38.450697+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, to feel closer to her community and faith, finding the experience really great so far.",
+        "score": 0.6929366327435,
+        "id": "61248418-c168-473d-aebf-562858266eff",
+        "created_at": "2026-11-03T00:29:31.325441+00:00",
+        "updated_at": "2026-11-03T00:29:31.325441+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church on May 5, 2023, seeking to feel closer to her community and faith, and has found the experience to be really great so far.",
+        "score": 0.6903261238888307,
+        "id": "a40f9e03-20bb-4693-9c2f-e2a2617ed824",
+        "created_at": "2026-11-03T00:29:40.949781+00:00",
+        "updated_at": "2026-11-03T00:29:40.949781+00:00"
+      }
+    ],
+    "search_latency_ms": 79.7,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Community work",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria took up community work with her friends from church in August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Maria took up community work, matching the gold answer exactly."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria took up community work with her friends from church in August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Maria took up community work, matching the gold answer exactly."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Maria took up community work with her friends from church in August 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that Maria took up community work, matching the gold answer exactly."
+    }
+  }
+}

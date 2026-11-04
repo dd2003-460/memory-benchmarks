@@ -1,0 +1,193 @@
+{
+  "question_id": "conv2_q28",
+  "conversation_idx": 2,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "What causes does John feel passionate about supporting?",
+  "ground_truth_answer": "Veterans, schools, infrastructure",
+  "evidence": [
+    "D15:3",
+    "D12:5",
+    "D9:8",
+    "D1:8"
+  ],
+  "user_id": "locomo_2_full01",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What causes does John feel passionate about supporting?",
+    "search_results": [
+      {
+        "memory": "John feels that his activism work is an uphill battle and sometimes doubts if he is making a difference, but he stays motivated by the support of people who understand his work and by his family.",
+        "score": 0.6782202770330795,
+        "id": "495be396-b329-4767-b44b-0e709d7c346d",
+        "created_at": "2026-11-03T00:39:40.567046+00:00",
+        "updated_at": "2026-11-03T00:39:40.567046+00:00"
+      },
+      {
+        "memory": "John feels that his involvement in community service and helping others is his true calling, giving him a strong sense of purpose and passion.",
+        "score": 0.6752302742668342,
+        "id": "a10e07bc-1a4a-444e-83b3-aafe3017ed54",
+        "created_at": "2026-11-03T00:50:06.778628+00:00",
+        "updated_at": "2026-11-03T00:50:06.778628+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, seeking a better way to focus his passion and enthusiasm into meaningful action.",
+        "score": 0.6748376355157812,
+        "id": "69afedda-3d65-4580-9fcd-cea11be19563",
+        "created_at": "2026-11-03T00:48:17.455870+00:00",
+        "updated_at": "2026-11-03T00:48:17.455870+00:00"
+      },
+      {
+        "memory": "John is part of an organization that he describes as being like a family, where members are passionate and always support each other.",
+        "score": 0.6740230344936489,
+        "id": "0041379c-380a-4f39-a71d-f0999feed569",
+        "created_at": "2026-11-03T00:42:17.341123+00:00",
+        "updated_at": "2026-11-03T00:42:17.341123+00:00"
+      },
+      {
+        "memory": "John is part of an organization where he works with passionate people, describing the group as a family that always supports each other.",
+        "score": 0.673533578720701,
+        "id": "cf39a055-4845-48a7-aa96-8b575dd0a640",
+        "created_at": "2026-11-03T00:41:59.458982+00:00",
+        "updated_at": "2026-11-03T00:41:59.458982+00:00"
+      },
+      {
+        "memory": "John feels stuck in his activism work despite wanting to positively affect people and the world, and is seeking a better way to focus his passion and enthusiasm.",
+        "score": 0.6658694015725822,
+        "id": "59823800-2341-436e-9fcf-ae5a05d311d6",
+        "created_at": "2026-11-03T00:48:05.336643+00:00",
+        "updated_at": "2026-11-03T00:48:05.336643+00:00"
+      },
+      {
+        "memory": "John is part of an organization focused on community work and describes the members as being like a family who always support each other, finding it great to work with such passionate people.",
+        "score": 0.6567018857105685,
+        "id": "a1fe9e28-2445-4cd5-9af1-73193854b209",
+        "created_at": "2026-11-03T00:41:56.219060+00:00",
+        "updated_at": "2026-11-03T00:41:56.219060+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade and feels it is his true calling, finding a strong sense of purpose and passion in helping out his community.",
+        "score": 0.6469734250929033,
+        "id": "bacb8588-e0e8-44a9-95f7-25ddf6f847ea",
+        "created_at": "2026-11-03T00:49:46.168939+00:00",
+        "updated_at": "2026-11-03T00:49:46.168939+00:00"
+      },
+      {
+        "memory": "John is passionate about veterans and their rights, and started a project to support them as a way of giving back for their service.",
+        "score": 0.6384490909990469,
+        "id": "aac8c058-f59a-401a-abf3-4fae5c38da15",
+        "created_at": "2026-11-03T00:30:28.028330+00:00",
+        "updated_at": "2026-11-03T00:30:28.028330+00:00"
+      },
+      {
+        "memory": "John's veteran support event also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause John considers important despite it being a tough issue.",
+        "score": 0.6268107428841914,
+        "id": "2b53efb1-1c1e-429c-955d-f4bc91ee5780",
+        "created_at": "2026-11-03T00:47:12.944467+00:00",
+        "updated_at": "2026-11-03T00:47:12.944467+00:00"
+      },
+      {
+        "memory": "John has always been passionate about veterans and their rights, and around May 13, 2023, he was motivated to start a support project as a way of giving back after realizing how much they have done for the community.",
+        "score": 0.6227807930053684,
+        "id": "35196ff7-20d8-4ac4-b1f4-264766485033",
+        "created_at": "2026-11-03T00:30:06.805521+00:00",
+        "updated_at": "2026-11-03T00:30:06.805521+00:00"
+      },
+      {
+        "memory": "John describes his veterans' organization as a family-like group of passionate people who always support each other.",
+        "score": 0.6163593490208309,
+        "id": "d49bbf35-a1ba-410d-a6d2-6806b1c402ee",
+        "created_at": "2026-11-03T00:42:29.561899+00:00",
+        "updated_at": "2026-11-03T00:42:29.561899+00:00"
+      },
+      {
+        "memory": "John considers family support vital to his success and feels lucky to have his wife and kids involved in his professional journey.",
+        "score": 0.6146727104779227,
+        "id": "845f4c4b-26fa-466c-b218-e1ca6a1bd046",
+        "created_at": "2026-11-03T00:34:22.878289+00:00",
+        "updated_at": "2026-11-03T00:34:22.878289+00:00"
+      },
+      {
+        "memory": "John joined the fire-fighting brigade around August 16, 2023, and feels it is his true calling because it gives him a sense of purpose and passion for helping his community.",
+        "score": 0.6100053584081382,
+        "id": "833ecd8a-c6d2-4325-bef0-37a0dfd19a73",
+        "created_at": "2026-11-03T00:49:48.406646+00:00",
+        "updated_at": "2026-11-03T00:49:48.406646+00:00"
+      },
+      {
+        "memory": "John's 5K charity run also raised awareness and funds for a local organization that helps victims of domestic abuse, a cause he considers important despite it being a tough issue.",
+        "score": 0.5888144078538563,
+        "id": "c2d880e7-2ea9-499b-8e66-62721ac4bbda",
+        "created_at": "2026-11-03T00:47:05.854211+00:00",
+        "updated_at": "2026-11-03T00:47:05.854211+00:00"
+      },
+      {
+        "memory": "John found being surrounded by others who shared his values and passion during the veterans' rights march motivating, reinforcing his belief in making a difference through activism.",
+        "score": 0.5732307113591324,
+        "id": "b4255f38-2db2-4dbc-b12c-1d9a124ab4ab",
+        "created_at": "2026-11-03T00:39:28.696094+00:00",
+        "updated_at": "2026-11-03T00:39:28.696094+00:00"
+      },
+      {
+        "memory": "John finds being around others who share his values and passion for activism motivating, reinforcing his belief in making a difference through collective action.",
+        "score": 0.5694958032618205,
+        "id": "9f9a7609-5171-4111-9061-686317de580c",
+        "created_at": "2026-11-03T00:39:10.034355+00:00",
+        "updated_at": "2026-11-03T00:39:10.034355+00:00"
+      },
+      {
+        "memory": "John is exploring options to channel his passion into something meaningful, specifically considering joining local organizations or volunteering programs.",
+        "score": 0.5581036734169635,
+        "id": "300e489a-ccc3-4146-af52-3f5940594ec8",
+        "created_at": "2026-11-03T00:48:11.001080+00:00",
+        "updated_at": "2026-11-03T00:48:11.001080+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.5555454380560725,
+        "id": "eeee4313-4722-4ee9-ab50-11f6cb83225f",
+        "created_at": "2026-11-03T00:48:08.364873+00:00",
+        "updated_at": "2026-11-03T00:48:08.364873+00:00"
+      },
+      {
+        "memory": "John is currently feeling stuck and questioning his decisions and goals because he feels he is not making much of an impact, despite wanting to positively affect people and the world.",
+        "score": 0.5555454380560725,
+        "id": "f419d208-c055-4780-a91d-9cc4419120b5",
+        "created_at": "2026-11-03T00:48:10.988944+00:00",
+        "updated_at": "2026-11-03T00:48:10.988944+00:00"
+      }
+    ],
+    "search_latency_ms": 54.8,
+    "total_results": 20
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John feels passionate about supporting veterans and their rights, victims of domestic abuse, and community service/helping others in his community.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes veterans, which is one of the gold answer's causes."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John feels passionate about supporting veterans and their rights, victims of domestic abuse, and community service/helping others, including through activism and community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans, which is one of the gold answer's causes."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John feels passionate about supporting veterans and their rights, victims of domestic abuse, and community service/helping others, including through activism and community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans, which is one of the gold answer's causes."
+    },
+    "top_200": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John feels passionate about supporting veterans and their rights, victims of domestic abuse, and community service/helping others, including through activism and community work.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes veterans, which is one of the gold answer's causes."
+    }
+  }
+}
