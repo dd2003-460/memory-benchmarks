@@ -99,6 +99,20 @@ conv1 按类别：single-hop 70.5%→75.0%, temporal 80.8%→84.6%, multi-hop 72
 
 结论：**加大 cutoff 救不了 open-domain**。top_50 是 overall 最优（79.0%），但 open-domain 从 top_10 到 top_200 只在 54-59% 间波动，说明瓶颈不是"检索池太小"而是"检索到的记忆本身不含答案所需细节"（ingestion 时丢失或从未写入）。后续方向应是 ingestion 侧（保留更多细节/改分块策略）+ query rewriting，而非扩大检索窗口。
 
+**open-domain 根因定位（2026-11-04 决定性实验）**：
+
+用 conv4 错例 "Who is Anthony?" 做对照实验：
+1. mem0 OSS 抽取器本身**能保留实体名**——单 turn 喂入后输出 "Tim and his friend Anthony attended a charity event featuring an intense Harry Potter trivia contest..."（ADD 成功）
+2. 但该记忆在正式 full01 ingestion 中**没进库**：对 "charity event Harry Potter trivia contest" 检索 20 条命中，只有 1 条含 trivia 且**无 Anthony 名字**（"John attended a charity event featuring Harry Potter trivia in August 2023..."）
+3. 原始对话中 Anthony 只出现 1 次（session_4 turn 7），该 turn 被 ingest 时被 mem0 的去重/合并逻辑与既有的"John 参加慈善活动"记忆合并，**实体名在合并时丢失**
+
+根因：**mem0 的记忆去重/合并（UPDATE 路径）会丢实体名**。当新 turn 与旧记忆主题重叠时，LLM 判分器选择 UPDATE 而非 ADD，合并后的文本把低频实体（Anthony，全库仅出现 1 次）抹掉了。这是 mem0 OSS 的已知弱点（其去重 prompt 偏向主题摘要而非实体保真）。
+
+修复方向（按性价比排序）：
+1. **改 mem0 的 UPDATE 判定 prompt**（让它倾向 ADD 而非合并）——需改 mem0 源码或配置，中等工作量
+2. **ingestion 后加实体保真校验层**：抽一遍原文里的人名/组织名/品牌，检查是否出现在对应记忆中，缺失则补 ADD——纯 post-hoc，不动 mem0 核心
+3. **答题侧 query rewriting**：对 open-domain 问题先做实体抽取再检索——治标不治本
+
 ## 外部参照系（2026-11-04 调研，conf: 中——各家协议不完全一致，仅量级对比）
 
 Mem0 论文（arXiv:2504.19413）公开数字（gpt-4o-mini answerer+judge，1540 题，排除 adversarial 类）：
