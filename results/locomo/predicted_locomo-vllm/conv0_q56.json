@@ -9,42 +9,183 @@
     "D14:15",
     "D4:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What symbols are important to Caroline?",
-    "search_results": [],
-    "search_latency_ms": 16.0,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline received a necklace featuring a cross and a heart from her grandmother in Sweden when she was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.6654943514365358,
+        "id": "6e0f15fb-ec6b-4267-9d39-80dfebcb21a7",
+        "created_at": "2026-11-04T05:17:48.250489+00:00",
+        "updated_at": "2026-11-04T05:17:48.250489+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.6612199131578477,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline received a special necklace from her grandmother in Sweden when she was young, which symbolizes love, faith, and strength and serves as a reminder of her roots and family support.",
+        "score": 0.6594361757881722,
+        "id": "6ccc01af-a12e-4e5e-9be6-aa32ae4ca84a",
+        "created_at": "2026-11-04T05:18:19.806351+00:00",
+        "updated_at": "2026-11-04T05:18:19.806351+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden and owns a special necklace with a cross and heart that was a gift from her grandmother when she was young, symbolizing love, faith, strength, and her roots.",
+        "score": 0.6533444807540002,
+        "id": "f71f1647-fd45-4fe0-b066-1124b8bc4368",
+        "created_at": "2026-11-04T05:17:55.692771+00:00",
+        "updated_at": "2026-11-04T05:17:55.692771+00:00"
+      },
+      {
+        "memory": "Caroline views art as a symbol of togetherness that celebrates differences and brings people closer, and she expressed interest in creating similar works in the future.",
+        "score": 0.6513447887979769,
+        "id": "52ae85ca-6c23-49b2-b5b7-815481956acd",
+        "created_at": "2026-11-04T05:59:26.157146+00:00",
+        "updated_at": "2026-11-04T05:59:26.157146+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.6489120310043359,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6451132014403311,
+        "id": "ba3d2efc-d758-495e-9078-d3c8e14312d3",
+        "created_at": "2026-11-04T05:23:27.589481+00:00",
+        "updated_at": "2026-11-04T05:23:27.589481+00:00"
+      },
+      {
+        "memory": "Caroline's favorite color is blue because it makes her feel relaxed, and she associates sunflowers with warmth and happiness while viewing roses as symbols of love and beauty.",
+        "score": 0.6451132014403311,
+        "id": "356d6a17-ce10-4959-9e13-f050103dff94",
+        "created_at": "2026-11-04T05:23:48.359902+00:00",
+        "updated_at": "2026-11-04T05:23:48.359902+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to create art similar to a painted sidewalk with a rainbow design, viewing it as a symbol of togetherness that celebrates differences and brings people closer together.",
+        "score": 0.6402962908159906,
+        "id": "c54209e6-f3ab-4202-bb46-36ae0f781840",
+        "created_at": "2026-11-04T05:59:01.075387+00:00",
+        "updated_at": "2026-11-04T05:59:01.075387+00:00"
+      },
+      {
+        "memory": "Caroline finds the rainbow flag mural important because it reflects the courage and strength of the trans community, while the eagle symbolizes freedom and pride, representing her own resilience and that of others.",
+        "score": 0.6330868683491329,
+        "id": "1b87920a-2a57-474f-8068-dcbf199106b1",
+        "created_at": "2026-11-04T05:58:07.866608+00:00",
+        "updated_at": "2026-11-04T05:58:07.866608+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking. She describes it as a reminder to love her authentic self, noting that while it took time, she is finally proud of who she is.",
+        "score": 0.6286220750157896,
+        "id": "fdcf5ad1-0d61-452f-a8fc-0e820e1ce570",
+        "created_at": "2026-11-04T06:01:43.676483+00:00",
+        "updated_at": "2026-11-04T06:01:43.676483+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same, emphasizing the importance of promoting LGBTQ rights and having supportive people around her.",
+        "score": 0.6267938721564119,
+        "id": "e6f89271-d691-4554-94f7-7814812fe823",
+        "created_at": "2026-11-04T05:56:59.718324+00:00",
+        "updated_at": "2026-11-04T05:56:59.718324+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting with red and blue brush strokes to represent her journey, using the colors to symbolize smashing the rigid binary gender system and celebrating her authentic self.",
+        "score": 0.626530219229048,
+        "id": "b644f069-3ac7-4956-bd52-eacc26d224f1",
+        "created_at": "2026-11-04T06:02:06.111279+00:00",
+        "updated_at": "2026-11-04T06:02:06.111279+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting using red and blue to represent the binary gender system, with mixed colors symbolizing the rejection of rigid thinking and her pride in being her authentic self.",
+        "score": 0.6245541155892795,
+        "id": "14852e9d-332a-4c62-bc2f-4c4ca30438a7",
+        "created_at": "2026-11-04T06:02:09.163880+00:00",
+        "updated_at": "2026-11-04T06:02:09.163880+00:00"
+      },
+      {
+        "memory": "Caroline expressed interest in creating art that symbolizes togetherness and celebrating differences, inspired by a painted sidewalk with a rainbow design.",
+        "score": 0.619039138830925,
+        "id": "6664aa0c-3359-4c58-a773-b46591c8f90d",
+        "created_at": "2026-11-04T05:59:07.221868+00:00",
+        "updated_at": "2026-11-04T05:59:07.221868+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6177747858256121,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline finds a rainbow flag mural special because it reflects the courage and strength of the trans community, with an eagle symbolizing freedom, pride, and her own resilience as well as that of others.",
+        "score": 0.6160707554847126,
+        "id": "fbf7c6af-79d0-441b-933a-ff9865aa6a39",
+        "created_at": "2026-11-04T05:58:39.165391+00:00",
+        "updated_at": "2026-11-04T05:58:39.165391+00:00"
+      },
+      {
+        "memory": "Caroline finds the rainbow flag mural special because it reflects the courage and strength of the trans community, with the eagle symbolizing freedom, pride, and her own resilience.",
+        "score": 0.6100008495606646,
+        "id": "26b3eb88-308d-4f7e-a211-870dd6da3812",
+        "created_at": "2026-11-04T05:59:07.213727+00:00",
+        "updated_at": "2026-11-04T05:59:07.213727+00:00"
+      },
+      {
+        "memory": "Caroline finds the rainbow flag mural special because it reflects the courage and strength of the trans community, with the eagle symbolizing freedom, pride, and her own resilience.",
+        "score": 0.6100008495606646,
+        "id": "66961226-b144-4504-b875-766916003062",
+        "created_at": "2026-11-04T05:58:53.103067+00:00",
+        "updated_at": "2026-11-04T05:58:53.103067+00:00"
+      },
+      {
+        "memory": "Caroline finds the rainbow flag mural special because it reflects the courage and strength of the trans community, with the eagle symbolizing freedom, pride, and her own resilience.",
+        "score": 0.6100008495606646,
+        "id": "268361e6-dad4-4351-adaf-8503a4609d72",
+        "created_at": "2026-11-04T05:58:44.938592+00:00",
+        "updated_at": "2026-11-04T05:58:44.938592+00:00"
+      }
+    ],
+    "search_latency_ms": 112.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The symbols important to Caroline are the **cross** and **heart** (on a necklace from her grandmother, symbolizing love, faith, strength, and her roots), the **rainbow flag** (symbolizing the courage and strength of the trans community and togetherness), the **eagle** (symbolizing freedom and pride), **sunflowers** (associated with warmth and happiness), and **roses** (symbols of love and beauty). She also views **art** as a symbol of togetherness.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes the 'rainbow flag', which is one of the two items in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The symbols important to Caroline include a **necklace with a cross and heart** (symbolizing love, faith, strength, and her roots), the **rainbow flag** (symbolizing courage, strength, togetherness, and celebrating differences), an **eagle** (symbolizing freedom, pride, and resilience), **sunflowers** (associated with warmth and happiness), **roses** (associated with love and beauty), and **red and blue brush strokes** in her art (symbolizing the binary gender system and the rejection of rigid thinking).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the 'rainbow flag', which is one of the items in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The symbols important to Caroline include a **necklace with a cross and heart** (symbolizing love, faith, strength, and her roots), the **rainbow flag** (symbolizing courage, strength, togetherness, and celebrating differences), an **eagle** (symbolizing freedom, pride, and resilience), **sunflowers** (associated with warmth and happiness), **roses** (associated with love and beauty), and **red and blue brush strokes** in her art (symbolizing the binary gender system and the rejection of rigid thinking).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the 'rainbow flag', which is one of the items in the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline finds the following symbols important:\n*   **A necklace with a cross and heart:** Symbolizes love, faith, strength, and her roots/family support.\n*   **Sunflowers:** Associated with warmth and happiness.\n*   **Roses:** Associated with love and beauty.\n*   **The Rainbow Flag:** Reflects the courage and strength of the trans community, as well as togetherness and celebrating differences.\n*   **An Eagle:** Symbolizes freedom, pride, and resilience.\n*   **Red and Blue Brush Strokes (in her painting):** Symbolize the binary gender system and the smashing of rigid thinking to celebrate her authentic self.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the 'Rainbow Flag', which is one of the two items in the gold answer, satisfying the partial credit rule."
     }
   }
 }

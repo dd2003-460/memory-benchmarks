@@ -6,42 +6,183 @@
   "question": "Would Melanie be considered a member of the LGBTQ community?",
   "ground_truth_answer": "Likely no, she does not refer to herself as part of it",
   "evidence": [],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Melanie be considered a member of the LGBTQ community?",
-    "search_results": [],
-    "search_latency_ms": 41.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is a trans woman who identifies with the LGBTQ community and is actively looking into careers in counseling and mental health to help others.",
+        "score": 0.7973491459709698,
+        "id": "1eaf9720-034e-40a4-aa8a-f0689cb2cfdd",
+        "created_at": "2026-11-04T05:22:26.616937+00:00",
+        "updated_at": "2026-11-04T05:22:26.616937+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.7723423318025338,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline's LGBTQ activist group is named 'Connected LGBTQ Activists' and consists of diverse members who invest in positive changes, holding regular meetings to plan events and campaigns while supporting one another.",
+        "score": 0.748080700586007,
+        "id": "1782a52f-5d41-46a1-9cb2-c4c85c15b9ec",
+        "created_at": "2026-11-04T05:52:14.917277+00:00",
+        "updated_at": "2026-11-04T05:52:14.917277+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to help make a difference in LGBTQ rights and community support, driven by her own struggles with mental health and the helpful support she received during her transition",
+        "score": 0.7479193756775333,
+        "id": "beee75a6-6ab1-4287-9c39-bdcb45eb7645",
+        "created_at": "2026-11-04T05:22:16.334444+00:00",
+        "updated_at": "2026-11-04T05:22:16.334444+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.7454712843056712,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to have a platform to be herself, support others' rights, and make a real difference in the community.",
+        "score": 0.7352066105858026,
+        "id": "eb66f416-37d3-4361-b9b3-c82784a0691e",
+        "created_at": "2026-11-04T05:52:40.064137+00:00",
+        "updated_at": "2026-11-04T05:52:40.064137+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community support.",
+        "score": 0.7303359401395888,
+        "id": "02834b4a-5317-429b-b676-9747d05e425c",
+        "created_at": "2026-11-04T05:22:21.030823+00:00",
+        "updated_at": "2026-11-04T05:22:21.030823+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to speak her truth and support community rights.",
+        "score": 0.7297083254127132,
+        "id": "2dfdc026-8371-4fcb-8ef4-015afc5afa30",
+        "created_at": "2026-11-04T05:52:44.894741+00:00",
+        "updated_at": "2026-11-04T05:52:44.894741+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community.",
+        "score": 0.7297022942154499,
+        "id": "6013bc8d-f76a-40bf-b7f2-21af118ed4f8",
+        "created_at": "2026-11-04T05:22:11.270617+00:00",
+        "updated_at": "2026-11-04T05:22:11.270617+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group on July 18, 2023, and finds it fulfilling to meet passionate people and use her voice to make a real difference in rights and community support.",
+        "score": 0.729672536027601,
+        "id": "62edd22e-2812-4a44-9b50-e59b85cf91ae",
+        "created_at": "2026-11-04T05:51:52.578227+00:00",
+        "updated_at": "2026-11-04T05:51:52.578227+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 14-16, 2023, and finds it rewarding to help the community",
+        "score": 0.7264501493263931,
+        "id": "a6a130ce-a602-4a10-af0c-c9bbc6e8dc88",
+        "created_at": "2026-11-04T05:24:37.874534+00:00",
+        "updated_at": "2026-11-04T05:24:37.874534+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.7217321778792481,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth in early July 2023, finding the work rewarding as she supports young people in the community.",
+        "score": 0.7193214587670466,
+        "id": "bd4c951f-3544-40d9-a7fc-d92dfafcad18",
+        "created_at": "2026-11-04T05:25:01.592401+00:00",
+        "updated_at": "2026-11-04T05:25:01.592401+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.7153633459336664,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline is organizing an LGBTQ art show in September 2023 where she will exhibit her own paintings alongside other LGBTQ artists, aiming to promote understanding and acceptance within the community.",
+        "score": 0.7127626726576943,
+        "id": "69f990b9-a0ac-4f5e-b053-067e4b564bfa",
+        "created_at": "2026-11-04T05:59:56.633425+00:00",
+        "updated_at": "2026-11-04T05:59:56.633425+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.6946186885499415,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt welcomed and accepted in the environment",
+        "score": 0.6917920009405425,
+        "id": "7b970cfb-db33-4fbf-8d2b-2f4d91a96cd7",
+        "created_at": "2026-11-04T05:22:16.330244+00:00",
+        "updated_at": "2026-11-04T05:22:16.330244+00:00"
+      },
+      {
+        "memory": "Caroline's activist group, 'Connected LGBTQ Activists', holds regular meetings and plans events and campaigns to promote positive change and inclusivity.",
+        "score": 0.6914362304092583,
+        "id": "a7d234e3-e4ee-4c27-957f-75e60cd1e242",
+        "created_at": "2026-11-04T05:52:44.898203+00:00",
+        "updated_at": "2026-11-04T05:52:44.898203+00:00"
+      },
+      {
+        "memory": "Caroline wants to live authentically and help others do the same, emphasizing the importance of promoting LGBTQ rights and having supportive people around her.",
+        "score": 0.6896779642176939,
+        "id": "e6f89271-d691-4554-94f7-7814812fe823",
+        "created_at": "2026-11-04T05:56:59.718324+00:00",
+        "updated_at": "2026-11-04T05:56:59.718324+00:00"
+      },
+      {
+        "memory": "The 'Connected LGBTQ Activists' group holds regular meetings and plans events and campaigns to promote positive changes and support each other.",
+        "score": 0.6800026528763222,
+        "id": "7b07f33a-1b3e-4bb7-8b82-0cb242ffc4a7",
+        "created_at": "2026-11-04T05:52:40.066334+00:00",
+        "updated_at": "2026-11-04T05:52:40.066334+00:00"
+      }
+    ],
+    "search_latency_ms": 134.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "The provided memories indicate that **Caroline** is a member of the LGBTQ community (identifying as a trans woman), but they do not contain any information about Melanie.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer incorrectly identifies Caroline as the LGBTQ member and states there is no information about Melanie, whereas the gold answer specifically addresses Melanie's status as likely not being a member; thus, the generated answer fails to address the correct subject and contains no correct items from the gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "The memories identify Caroline as a trans woman who identifies with the LGBTQ community, but they do not contain any information about Melanie.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer incorrectly identifies Caroline as the subject and claims there is no information about Melanie, whereas the gold answer provides a specific assessment of Melanie's status; thus, it contains zero correct items from the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "The memories indicate that Caroline is a trans woman who identifies with the LGBTQ community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer discusses Caroline instead of Melanie and incorrectly identifies her as a trans woman, failing to address the question about Melanie's LGBTQ status."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "The memories describe Caroline as a trans woman who identifies with the LGBTQ community and is actively involved in LGBTQ organizations, but they do not contain any information about Melanie.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer incorrectly identifies the subject as Caroline instead of Melanie and fails to provide the gold answer's conclusion that Melanie is likely not part of the LGBTQ community."
     }
   }
 }

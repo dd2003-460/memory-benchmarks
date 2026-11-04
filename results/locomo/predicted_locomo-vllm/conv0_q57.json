@@ -8,42 +8,183 @@
   "evidence": [
     "D14:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline encounter people on a hike and have a negative experience?",
-    "search_results": [],
-    "search_latency_ms": 20.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.8660787072365934,
+        "id": "657ce18e-1f61-4415-b3ba-eecade6d7467",
+        "created_at": "2026-11-04T05:54:45.034827+00:00",
+        "updated_at": "2026-11-04T05:54:45.034827+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.8660787072365934,
+        "id": "c87ff44e-77a8-44ea-8b96-29d9d9718282",
+        "created_at": "2026-11-04T05:54:36.282209+00:00",
+        "updated_at": "2026-11-04T05:54:36.282209+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting to her, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.8654553088506342,
+        "id": "bad7df48-5a47-4bcf-b35b-56812ae0821c",
+        "created_at": "2026-11-04T05:54:15.035119+00:00",
+        "updated_at": "2026-11-04T05:54:15.035119+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that more work is needed for LGBTQ rights.",
+        "score": 0.8643091464237372,
+        "id": "f60178b7-667e-4827-b5e5-d7ef332d251d",
+        "created_at": "2026-11-04T05:54:41.969580+00:00",
+        "updated_at": "2026-11-04T05:54:41.969580+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18-24, 2023, and had a negative encounter with some people that upset her, leading her to write an apology letter to them",
+        "score": 0.845862544853546,
+        "id": "c953b0e4-8a82-4f40-aa8c-86cd8b4cef17",
+        "created_at": "2026-11-04T05:57:04.950671+00:00",
+        "updated_at": "2026-11-04T05:57:04.950671+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.8385042247678385,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.7921981559754823,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.7886692632274742,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline had an upsetting experience on a hike around August 17, 2023, when she encountered religious conservatives who said something hurtful, reinforcing her belief in the ongoing need for LGBTQ rights advocacy.",
+        "score": 0.7687266048985413,
+        "id": "4bb61b2d-bfbd-4d40-9bee-793804f49225",
+        "created_at": "2026-11-04T05:54:18.450108+00:00",
+        "updated_at": "2026-11-04T05:54:18.450108+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.7541014963479941,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18, 2023, and got into a bad spot with some people; she felt it bugged her and tried to apologize to them, sharing a photo of a letter apology related to the encounter.",
+        "score": 0.7188815896810162,
+        "id": "e64f72d5-2056-4114-b48a-596b04832a73",
+        "created_at": "2026-11-04T05:57:17.706250+00:00",
+        "updated_at": "2026-11-04T05:57:17.706250+00:00"
+      },
+      {
+        "memory": "Caroline went hiking last week around August 18-24, 2023, and got into a bad spot with some people, which she tried to resolve by apologizing to them.",
+        "score": 0.7180656997455276,
+        "id": "04f300ee-93cf-4018-bd9d-beeb0ddb8f28",
+        "created_at": "2026-11-04T05:57:38.761947+00:00",
+        "updated_at": "2026-11-04T05:57:38.761947+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18, 2023, and got into a bad spot with some people; she felt it bugged her and tried to apologize to them.",
+        "score": 0.7124211067019581,
+        "id": "5b74770e-ec25-4b61-a743-82497827277e",
+        "created_at": "2026-11-04T05:57:44.089156+00:00",
+        "updated_at": "2026-11-04T05:57:44.089156+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18, 2023, and got into a bad spot with some people; she felt it bugged her and tried to apologize to them.",
+        "score": 0.7124211067019581,
+        "id": "d526d5fb-2c93-49b8-b527-12ea1f97387c",
+        "created_at": "2026-11-04T05:57:28.921296+00:00",
+        "updated_at": "2026-11-04T05:57:28.921296+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18, 2023, and got into a bad spot with some people; she felt it bugged her and tried to apologize to them.",
+        "score": 0.7124211067019581,
+        "id": "7430be7e-70d2-4a36-a00c-aff905586b9b",
+        "created_at": "2026-11-04T05:57:08.077291+00:00",
+        "updated_at": "2026-11-04T05:57:08.077291+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have supportive people around her who accept her, which provides comfort during difficult times like the incident on her recent hike.",
+        "score": 0.6880893858796303,
+        "id": "049e42e5-200f-44c5-a69c-9eddbf748574",
+        "created_at": "2026-11-04T05:54:45.039255+00:00",
+        "updated_at": "2026-11-04T05:54:45.039255+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18, 2023, and encountered a difficult situation with some people that bothered her; she took the initiative to apologize to them, which Melanie praised as courageous and mature.",
+        "score": 0.6787261606059647,
+        "id": "9546aef0-997a-4d42-a4d3-a2cbfd547249",
+        "created_at": "2026-11-04T05:57:32.042635+00:00",
+        "updated_at": "2026-11-04T05:57:32.042635+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have people around her who accept and support her, which gives her confidence that she will be okay despite facing challenges like the recent hike incident.",
+        "score": 0.6770886779562022,
+        "id": "99698859-a3ca-4779-8eb5-c88b7dc37602",
+        "created_at": "2026-11-04T05:54:15.038483+00:00",
+        "updated_at": "2026-11-04T05:54:15.038483+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a letter of apology related to her hiking encounter on August 25, 2023.",
+        "score": 0.6701332468266,
+        "id": "71025fcc-6360-4dbc-9016-74383b439b58",
+        "created_at": "2026-11-04T05:57:08.079252+00:00",
+        "updated_at": "2026-11-04T05:57:08.079252+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.6525212951850239,
+        "id": "f02390cd-9719-45a4-b705-598fbda60dce",
+        "created_at": "2026-11-04T05:59:07.211022+00:00",
+        "updated_at": "2026-11-04T05:59:07.211022+00:00"
+      }
+    ],
+    "search_latency_ms": 107.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 17, 2023",
+      "memories_evaluated": 10,
+      "reason": "The gold answer specifies the week before August 25, 2023 (Aug 18-24), while the generated answer says around August 17, 2023, which is within the 14-day date tolerance window."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 17, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 25, 2023 (Aug 18-24), while the generated answer says around August 17, 2023, which is within the 14-day date tolerance window."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 17, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 25, 2023 (Aug 18-24), while the generated answer says around August 17, 2023, which is within the 14-day date tolerance window."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 17, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 25, 2023 (Aug 18-24), while the generated answer says around August 17, 2023, which is within the 14-day date tolerance window."
     }
   }
 }

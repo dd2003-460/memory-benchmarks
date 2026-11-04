@@ -9,42 +9,183 @@
     "D6:6",
     "D4:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What do Melanie's kids like?",
-    "search_results": [],
-    "search_latency_ms": 1554667.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.7857864732192051,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent family camping trip to be a special, unforgettable moment together.",
+        "score": 0.6777504576851284,
+        "id": "3bb099bc-2221-4cde-b940-2657bfc5d96f",
+        "created_at": "2026-11-04T05:18:35.283458+00:00",
+        "updated_at": "2026-11-04T05:18:35.283458+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she described the recent mountain camping trip as a special, unforgettable family moment.",
+        "score": 0.6702558340130099,
+        "id": "96545ebd-1edb-44bc-9f3e-0599bc0265b9",
+        "created_at": "2026-11-04T05:18:01.029864+00:00",
+        "updated_at": "2026-11-04T05:18:01.029864+00:00"
+      },
+      {
+        "memory": "Melanie has two younger kids who love nature, and she found the recent mountain camping trip to be a special, unforgettable family moment.",
+        "score": 0.6667648476997377,
+        "id": "35cd7ffb-e132-42cd-8112-6b0005aef128",
+        "created_at": "2026-11-04T05:18:07.250196+00:00",
+        "updated_at": "2026-11-04T05:18:07.250196+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6615137173189748,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6567213893018872,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach with her kids recently, sharing a photo of three children playing with a kite on the sandy shore, noting that the kids had a blast.",
+        "score": 0.6554177765321475,
+        "id": "89ce89ea-57e4-4623-a44b-c6d01a5b099d",
+        "created_at": "2026-11-04T05:52:33.632847+00:00",
+        "updated_at": "2026-11-04T05:52:33.632847+00:00"
+      },
+      {
+        "memory": "Caroline commented that Melanie's kids look cute and bring lots of joy, and asked how they handled the car accident during the family road trip.",
+        "score": 0.6546776978010054,
+        "id": "0f6d4d23-9dac-4b5a-89b1-5a2d8bc94abc",
+        "created_at": "2026-11-04T06:03:28.297308+00:00",
+        "updated_at": "2026-11-04T06:03:28.297308+00:00"
+      },
+      {
+        "memory": "Melanie visited a park with kids on the weekend of October 7-8, 2023, which she described as a joyful and happy experience that showed her life's beauty.",
+        "score": 0.6534327331253287,
+        "id": "72ead1b4-4591-422e-873e-9326579b81ad",
+        "created_at": "2026-11-04T06:02:06.121181+00:00",
+        "updated_at": "2026-11-04T06:02:06.121181+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022, and while the process was long, they are now super happy with their new kid. This experience inspired Melanie to consider adopting herself.",
+        "score": 0.6524753880530643,
+        "id": "88f4b776-87a1-4f28-be92-78d2da8814ae",
+        "created_at": "2026-11-04T06:02:13.533375+00:00",
+        "updated_at": "2026-11-04T06:02:13.533375+00:00"
+      },
+      {
+        "memory": "After the accident, Melanie reassured her children that their brother would be okay, noting that they are tough and resilient kids who give her strength to keep going.",
+        "score": 0.6516878949041228,
+        "id": "a305dfaa-18ac-4a81-be0e-d390ca2d0b87",
+        "created_at": "2026-11-04T06:03:44.685378+00:00",
+        "updated_at": "2026-11-04T06:03:44.685378+00:00"
+      },
+      {
+        "memory": "Melanie's two younger kids were scared during the car accident on the October 14-15, 2023 road trip but were reassured by their parents that their brother would be okay, and Melanie describes them as tough kids.",
+        "score": 0.64909841003436,
+        "id": "6ba61cbd-5530-49a7-8f1e-64f413258121",
+        "created_at": "2026-11-04T06:03:30.618266+00:00",
+        "updated_at": "2026-11-04T06:03:30.618266+00:00"
+      },
+      {
+        "memory": "Melanie stated on June 9, 2023, that she is lucky to have her husband and kids who keep her motivated, and shared a photo of them hiking in nature near a waterfall.",
+        "score": 0.6441744187569699,
+        "id": "0d694607-70af-45fb-8f35-49e9a3c7b711",
+        "created_at": "2026-11-04T05:16:49.697509+00:00",
+        "updated_at": "2026-11-04T05:16:49.697509+00:00"
+      },
+      {
+        "memory": "Melanie has a friend who adopted a child in 2022; the process was long but the friend is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.6440052356086909,
+        "id": "b8e73f04-1e7a-4028-935e-768d13baa8d3",
+        "created_at": "2026-11-04T06:02:18.583013+00:00",
+        "updated_at": "2026-11-04T06:02:18.583013+00:00"
+      },
+      {
+        "memory": "Melanie goes to the beach with her kids only once or twice a year, considering those times special for spending time together, and shared a photo of a sand castle on the beach.",
+        "score": 0.6439634495306605,
+        "id": "62d41686-da01-4fab-982e-0e41a6b49919",
+        "created_at": "2026-11-04T05:52:40.071748+00:00",
+        "updated_at": "2026-11-04T05:52:40.071748+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.6420844544587777,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.6413671279818325,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.6404738399484373,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie attended a café with her kids last weekend (around September 9-10, 2023) and shared a photo of thoughtful signs there, expressing that it brought her happiness",
+        "score": 0.6363566617019785,
+        "id": "d8af593c-5bb3-4e8f-adf9-b77b66d6bd0a",
+        "created_at": "2026-11-04T06:01:56.684188+00:00",
+        "updated_at": "2026-11-04T06:01:56.684188+00:00"
+      },
+      {
+        "memory": "During her family camping trip in the mountains around June 20, 2023, Melanie explored nature, roasted marshmallows around a campfire, went on a hike with an amazing view from the top, and noted that her two younger kids love nature.",
+        "score": 0.6359207291719907,
+        "id": "4e5b801b-5289-4fd1-88bf-6fb41449ddc7",
+        "created_at": "2026-11-04T05:17:55.700693+00:00",
+        "updated_at": "2026-11-04T05:17:55.700693+00:00"
+      }
+    ],
+    "search_latency_ms": 96.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "nature",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'nature', which is one of the correct items from the gold answer list."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "nature",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'nature', which is one of the correct items from the gold answer list."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "nature",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'nature', which is one of the correct items from the gold answer list."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "nature",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'nature', which is one of the correct items from the gold answer list."
     }
   }
 }

@@ -9,42 +9,183 @@
     "D1:9",
     "D1:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What fields would Caroline be likely to pursue in her educaton?",
-    "search_results": [],
-    "search_latency_ms": 17.3,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.7684816298476165,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the field is tough but rewarding.",
+        "score": 0.6522286758328192,
+        "id": "62c89cb0-bb06-4e16-b95b-b7d15eaa4c0c",
+        "created_at": "2026-11-04T05:21:25.442934+00:00",
+        "updated_at": "2026-11-04T05:21:25.442934+00:00"
+      },
+      {
+        "memory": "Caroline is interested in pursuing a career in counseling or working in mental health, motivated by a desire to support individuals with similar issues to her own, as discussed with Melanie on May 8, 2023",
+        "score": 0.6446429107757514,
+        "id": "6e1018da-6f75-421c-af8d-6630f90572c0",
+        "created_at": "2026-11-04T05:14:27.579779+00:00",
+        "updated_at": "2026-11-04T05:14:27.579779+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health, specifically aiming to work with trans people to help them accept themselves and support their well-being.",
+        "score": 0.6342828275030368,
+        "id": "37428ab2-c9bd-4028-b396-e3dbf4e75f93",
+        "created_at": "2026-11-04T05:18:59.455901+00:00",
+        "updated_at": "2026-11-04T05:18:59.455901+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6310910725819899,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health with a specific focus on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.6236029775040944,
+        "id": "91a17369-c18b-4081-8ce6-14e834c3bc4e",
+        "created_at": "2026-11-04T05:18:46.221470+00:00",
+        "updated_at": "2026-11-04T05:18:46.221470+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, feeling ready to be a mom and provide a safe, loving home for children who need it, and contacted her mentor for advice on the process in October 2023.",
+        "score": 0.6194984504252767,
+        "id": "f1f420e8-1004-476e-8987-b7c059967622",
+        "created_at": "2026-11-04T06:02:32.133675+00:00",
+        "updated_at": "2026-11-04T06:02:32.133675+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.6176984608346244,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption and contacted her mentor for advice, expressing a strong desire to be a mom and provide a safe, loving home for children who need it.",
+        "score": 0.6149635782071923,
+        "id": "76d6badb-0737-4f30-b0ff-ba69aa5fbebc",
+        "created_at": "2026-11-04T06:02:24.070122+00:00",
+        "updated_at": "2026-11-04T06:02:24.070122+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, an experience she found special and which sparked her lifelong love for horses.",
+        "score": 0.61337722504875,
+        "id": "9e9c93c8-1e7d-4014-9490-85bb28a49771",
+        "created_at": "2026-11-04T05:56:54.257862+00:00",
+        "updated_at": "2026-11-04T05:56:54.257862+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.6115493056233748,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "Caroline's motivation for pursuing a career in counseling stems from her own struggles with mental health, where she found that having a support system was crucial and helpful.",
+        "score": 0.6111114614787712,
+        "id": "43f7d673-6147-444a-8fe5-22898a4ea5fc",
+        "created_at": "2026-11-04T05:22:26.621441+00:00",
+        "updated_at": "2026-11-04T05:22:26.621441+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, an experience she found special and which sparked her lifelong love for horses",
+        "score": 0.610058356438395,
+        "id": "7cd8bded-68ca-408b-b948-c61e1f2fa5d4",
+        "created_at": "2026-11-04T05:56:48.929932+00:00",
+        "updated_at": "2026-11-04T05:56:48.929932+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.5995450156133612,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.37731636010934066,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.3714415949823124,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.36485863155289583,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.36448528108258627,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline views music as cathartic and uplifting, believing that playing and singing allow her to express herself and connect with others.",
+        "score": 0.3470285745508547,
+        "id": "c82e232d-731c-4334-821a-5bf1385532cf",
+        "created_at": "2026-11-04T06:00:58.244753+00:00",
+        "updated_at": "2026-11-04T06:00:58.244753+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.31177059570920934,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      }
+    ],
+    "search_latency_ms": 101.7,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "counseling and mental health",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'counseling', which matches the 'counseling certification' item in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "counseling and mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'counseling', which matches the 'counseling certification' item in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "counseling and mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'counseling', which matches the 'counseling certification' item in the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to determine what fields Caroline would be likely to pursue in her education.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information to answer the question, whereas the gold answer provides specific fields (Psychology, counseling certification), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "counseling and mental health",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'counseling', which matches the 'counseling certification' item in the gold answer, satisfying the partial credit rule."
     }
   }
 }

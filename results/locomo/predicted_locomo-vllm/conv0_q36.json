@@ -8,42 +8,183 @@
   "evidence": [
     "D9:2"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline join a mentorship program?",
-    "search_results": [],
-    "search_latency_ms": 35.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth in early July 2023, finding the work rewarding as she supports young people in the community.",
+        "score": 0.9040959809144317,
+        "id": "bd4c951f-3544-40d9-a7fc-d92dfafcad18",
+        "created_at": "2026-11-04T05:25:01.592401+00:00",
+        "updated_at": "2026-11-04T05:25:01.592401+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around mid-July 2023 and finds it rewarding to help the community.",
+        "score": 0.9009591261107073,
+        "id": "028d1380-fcd2-4ec8-8390-7a38d072cdfe",
+        "created_at": "2026-11-04T05:24:56.198023+00:00",
+        "updated_at": "2026-11-04T05:24:56.198023+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 2023, finding the work rewarding and inspiring due to the resilience of the young people she supports.",
+        "score": 0.8992418802830503,
+        "id": "34df8c67-a5ef-49fa-9044-791a61356500",
+        "created_at": "2026-11-04T05:24:53.316396+00:00",
+        "updated_at": "2026-11-04T05:24:53.316396+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 10, 2023, and finds it rewarding to help the community by supporting young people.",
+        "score": 0.8952643554347912,
+        "id": "6e8ec9a6-c5b4-4169-b2c0-502d26eb9878",
+        "created_at": "2026-11-04T05:24:50.437274+00:00",
+        "updated_at": "2026-11-04T05:24:50.437274+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 14-16, 2023, and finds it rewarding to help the community",
+        "score": 0.8882296958292691,
+        "id": "a6a130ce-a602-4a10-af0c-c9bbc6e8dc88",
+        "created_at": "2026-11-04T05:24:37.874534+00:00",
+        "updated_at": "2026-11-04T05:24:37.874534+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 10, 2023 (the weekend before July 17, 2023) and finds it rewarding to help the community.",
+        "score": 0.8872669322561461,
+        "id": "c2ce7739-54e1-4923-bde2-25d8aefa10ff",
+        "created_at": "2026-11-04T05:24:40.731437+00:00",
+        "updated_at": "2026-11-04T05:24:40.731437+00:00"
+      },
+      {
+        "memory": "Caroline finds the LGBTQ youth mentoring program inspiring, noting that she has met amazing young people and is impressed by their resilience and strength while supporting them.",
+        "score": 0.672991540552984,
+        "id": "e9ace68a-2e1e-4e05-be0d-c5f10236908e",
+        "created_at": "2026-11-04T05:24:43.450675+00:00",
+        "updated_at": "2026-11-04T05:24:43.450675+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.41382945571196805,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen, working with them on building confidence and finding positive strategies, which has been paying off.",
+        "score": 0.4077528754743292,
+        "id": "52d942f9-220f-4159-af42-1c168231bc5c",
+        "created_at": "2026-11-04T05:24:53.319953+00:00",
+        "updated_at": "2026-11-04T05:24:53.319953+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen, working with them on building confidence and finding positive strategies, which has been paying off.",
+        "score": 0.4077528754743292,
+        "id": "3c40ff00-2781-4ec5-9373-8a9cff69d46f",
+        "created_at": "2026-11-04T05:24:50.441451+00:00",
+        "updated_at": "2026-11-04T05:24:50.441451+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen and has been working with them on building confidence and finding positive strategies, noting that the efforts are paying off.",
+        "score": 0.4002842546211026,
+        "id": "b32e746d-d4c3-4b76-bb8d-29d6ed03526f",
+        "created_at": "2026-11-04T05:24:47.843418+00:00",
+        "updated_at": "2026-11-04T05:24:47.843418+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen and they have been working together on building confidence and finding positive coping strategies.",
+        "score": 0.38767504266029984,
+        "id": "4cd5f178-ea26-4632-ba9e-0b4f0c8c42ff",
+        "created_at": "2026-11-04T05:25:01.594775+00:00",
+        "updated_at": "2026-11-04T05:25:01.594775+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.38187074721176273,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.38042954052374406,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.36209019038961077,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the application process.",
+        "score": 0.3407758602985623,
+        "id": "4f83cd76-af98-4ebb-8eac-fffb6777b31c",
+        "created_at": "2026-11-04T05:55:39.032693+00:00",
+        "updated_at": "2026-11-04T05:55:39.032693+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that helped her prepare for the adoption process.",
+        "score": 0.31204101540825063,
+        "id": "2f3ac742-14f2-477f-872c-40738b6dae34",
+        "created_at": "2026-11-04T05:55:35.027653+00:00",
+        "updated_at": "2026-11-04T05:55:35.027653+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.30787459546838525,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.30564046932479844,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Caroline contacted her mentor for adoption advice, expressing readiness to become a mother and share her love and family.",
+        "score": 0.27230164591922873,
+        "id": "d43ff30e-22e9-4b51-a9ea-d323afe31b46",
+        "created_at": "2026-11-04T06:02:09.175425+00:00",
+        "updated_at": "2026-11-04T06:02:09.175425+00:00"
+      }
+    ],
+    "search_latency_ms": 80.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "**Step 1: SCAN ALL MEMORIES**\nI will read through each memory to find information regarding when Caroline joined a mentorship program.\n\n1.  \"Caroline joined a mentorship program for LGBTQ youth around **July 14-16, 2023**...\"\n2.  \"Caroline joined a mentorship program for LGBTQ youth around **July 10, 2023** (the weekend before July 17, 2023)...\"\n3.  \"Caroline finds the LGBTQ youth mentoring program inspiring...\" (No date)\n4.  \"Caroline joined a mentorship program for LGBTQ youth around **July 10, 2023**...\"\n5.  \"Caroline mentors a transgender teen...\" (No date)\n6.  \"Caroline joined a mentorship program for LGBTQ youth around **July 2023**...\"\n7.  \"Caroline mentors a transgender teen...\" (No date)\n8.  \"Caroline joined a mentorship program for LGBTQ youth around **mid-July 2023**...\"\n9.  \"Caroline joined a mentorship program for LGBTQ youth in **early July 2023**...\"\n10. \"Caroline volunteers at a youth center...\" (No specific join date for the mentorship program mentioned here, though related).\n\n**Step 2: ENTITY VERIFICATION**\nAll memories refer to \"Caroline\" and her joining a \"mentorship program for LGBTQ youth\". The entity is consistent across all relevant memories.\n\n**Step 3: COMBINE AND CROSS-REFERENCE**\nI have several date candidates:\n*   July 14-16, 2023\n*   July 10, 2023 (explicitly noted as \"the weekend before July 17, 2023\")\n*   July 2023 (generic)\n*   Mid-July 2023\n*   Early July 2023\n\nLet's analyze the specificity and consistency:\n*   \"Early July\" and \"Mid-July\" are vague.\n*   \"July 14-16\" is a specific range.\n*   \"July 10\" is a specific date.\n*   Memory 2 provides a specific date (July 10) and a contextual anchor (\"the weekend before July 17, 2023\"). July 10, 2023, was indeed a Monday, and the weekend before July 17 (which was a Monday) would be July 15-16. Wait, let's check the calendar for 2023.\n    *   July 17, 2023 was a Monday.\n    *   The weekend before July 17 would be Saturday July 15 and Sunday July 16.\n    *   Memory 1 says \"July 14-16\".\n    *   Memory 2 says \"July 10... (the weekend before July 17)\". This parenthetical explanation in Memory 2 seems slightly contradictory or imprecise if it claims July 10 is the weekend before July 17. However, Memory 2 explicitly states the date as **July 10, 2023**.\n    *   Memory 1 states **July 14-16, 2023**.\n    *   Memory 4 states **July 10, 2023**.\n\nLet's look at the phrasing. \"Around\" is used in all specific date memories.\nMemory 1: \"around July 14-16, 2023\"\nMemory 2: \"around July 10, 2023\"\nMemory 4: \"around July 10, 2023\"\n\nThere is a conflict between July 10 and July 14-16.\nLet's re-read Memory 2 carefully: \"around July 10, 2023 (the weekend before July 17, 2023)\".\nIf the user meant the weekend *of* July 17, that's July 15-16.\nIf the user meant the weekend *before* the week of July 17, that's July 8-9.\nJuly 10 is a Monday.\nJuly 14 is a Friday. July 15 is Saturday. July 16 is Sunday.\n\nMemory 1 says \"July 14-16\". This covers the weekend of July 15-16.\nMemory 2 and 4 say \"July 10\".\n\nWhich is more likely?\nOften, \"joined\" might refer to the start of a program.\nLet's look at Memory 8: \"mid-July 2023\". July 14-16 is mid-July. July 10 is early-to-mid July.\nMemory 9: \"early July 2023\". July 10 fits \"early July\" better than July 14-16.\n\nHowever, Memory 2 and 4 both cite **July 10**. Memory 1 cites **July 14-16**.\nMemory 2 has a specific parenthetical that might be a user error in the memory generation or a specific reference point.\nLet's look at the frequency.\nJuly 10 appears in Memory 2 and Memory 4.\nJuly 14-16 appears in Memory 1.\n\"Mid-July\" appears in Memory 8.\n\"Early July\" appears in Memory 9.\n\nUsually, specific dates are preferred. Between July 10 and July 14-16, July 10 is a single day, while 14-16 is a range.\nHowever, looking at the pattern of these retrieved memories, they often repeat the same core fact with slight variations.\nMemory 2: \"around July 10, 2023\"\nMemory 4: \"around July 10, 2023\"\nMemory 1: \"around July 14-16, 2023\"\n\nIs there a way to disambiguate?\nMemory 2 says \"the weekend before July 17\". If the program started on the weekend, July 15-16 is the weekend before July 17. This aligns with Memory 1 (July 14-16).\nMemory 2's text \"July 10... (the weekend before July 17)\" is internally inconsistent because July 10 is not the weekend before July 17.\nMemory 1's \"July 14-16\" aligns perfectly with \"the weekend before July 17\" (July 15-16).\nTherefore, it is highly probable that the \"July 10\" in Memories 2 and 4 is a slight error or refers to a different aspect (e.g., application date vs start date), OR the \"weekend before July 17\" note in Memory 2 is the key anchor.\nIf the anchor is \"weekend before July 17\", that is July 15-16.\nMemory 1 says \"July 14-16\". This includes the weekend.\nMemory 8 says \"mid-July\". July 14-16 is mid-July.\nMemory 9 says \"early July\". July 10 is early July.\n\nLet's look at the \"Step 4: SELECT THE BEST ANSWER\" instruction: \"ALWAYS choose the MOST SPECIFIC detail available.\"\n\"July 14-16, 2023\" is a specific range.\n\"July 10, 2023\" is a specific date.\n\nHowever, the internal contradiction in Memory 2 (July 10 is not the weekend before July 17) makes the \"July 10\" date suspect if we trust the parenthetical. If we trust the parenthetical \"weekend before July 17\", the date is July 15-16. Memory 1 says July 14-16. This is a very strong match.\nMemory 1: \"July 14-16, 2023\"\nMemory 2: \"July 10... (weekend before July 17)\" -> The parenthetical suggests the event happened on the weekend before July 17.\nMemory 4: \"July 10\"\n\nIf I have to choose between July 10 and July 14-16:\nThe \"weekend before July 17\" is a very specific temporal marker. July 15-16 is that weekend.\nMemory 1 explicitly lists \"July 14-16\".\nMemory 2 and 4 list \"July 10\".\nIt is possible the user joined *around* July 10, but the specific \"weekend\" reference points to the 15th/16th.\nHowever, \"around July 10\" is repeated twice. \"Around July 14-16\" is repeated once.\nBut \"Mid-July\" (Memory 8) supports the 14-16 date more than the 10th (which is often considered early July).\n\"Early July\" (Memory 9) supports the 10th.\n\nLet's look at the dates again.\nJuly 10, 2023 was a Monday.\nJuly 14, 2023 was a Friday.\nJuly 15, 2023 was a Saturday.\nJuly 16, 2023 was a Sunday.\nJuly 17, 2023 was a Monday.\n\nIf the memory says \"the weekend before July 17\", it means July 15-16.\nMemory 1 says \"July 14-16\". This covers the weekend.\nMemory 2 says \"July 10\" but adds the note about the weekend before July 17. This suggests the memory generator might have conflated the start date or the user's recollection.\nGiven the instruction to prefer specific details and cross-reference:\nThe \"weekend before July 17\" is a strong clue.\nMemory 1 (July 14-16) is consistent with \"weekend before July 17\".\nMemory 2 (July 10) is inconsistent with \"weekend before July 17\" unless \"around\" is doing a lot of heavy lifting.\n\nHowever, usually, in these datasets, if a specific date like \"July 10\" is mentioned in multiple memories, it might be the intended answer, even if the parenthetical is weird. But \"July 14-16\" is also specific.\nLet's look at Memory 8: \"mid-July\". July 14-16 is mid-July. July 10 is borderline early/mid.\nLet's look at Memory 9: \"early July\". July 10 is early July.\n\nThere is a split.\nLet's consider the phrase \"joined a mentorship program\".\nIf I must pick one, \"around July 10, 2023\" appears in two memories (2 and 4). \"Around July 14-16, 2023\" appears in one (1).\nHowever, the parenthetical in Memory 2 is very specific: \"the weekend before July 17, 2023\".\nIf I assume the parenthetical is the ground truth for the *timeframe*, then the weekend is July 15-16.\nMemory 1 says July 14-16.\nThis makes Memory 1 and the parenthetical of Memory 2 align on the *weekend* aspect.\nMemory 4 just says July 10.\n\nLet's look at the \"Step 5: TEMPORAL GROUNDING\".\n\"Use dates explicitly stated in memory text.\"\nMemory 1: July 14-16, 2023.\nMemory 2: July 10, 2023.\nMemory 4: July 10, 2023.\n\nIf I answer \"July 10, 2023\", I am ignoring the \"weekend before July 17\" clue which points to July 15-16.\nIf I answer \"July 14-16, 2023\", I am aligning with the \"weekend before July 17\" clue and the \"mid-July\" clue.\nAlso, \"July 14-16\" is a range that *contains* the weekend.\nLet's check if \"July 10\" could be the answer. If the program started on July 10, and the user remembers it as \"the weekend before July 17\", that's a 5-6 day gap. That's a stretch for \"the weekend before\".\nIf the program started on July 14-16, and the user remembers it as \"the weekend before July 17\", that's a perfect match.\nTherefore, the \"July 10\" in Memories 2 and 4 is likely a misremembered date or a different event (e.g., application), while the *joining* (start of mentorship) happened on the weekend.\nMemory 1 is the most consistent with the specific temporal anchor \"weekend before July 17\".\n\nHowever, I must be careful. \"Around July 10\" is stated twice.\nLet's look at the exact wording of Memory 2: \"around July 10, 2023 (the weekend before July 17, 2023)\".\nThis is a contradiction within the memory itself.\nMemory 1: \"around July 14-16, 2023\".\nMemory 4: \"around July 10, 2023\".\n\nIf I have to choose the *best* answer, I should look for the one that resolves the ambiguity.\nThe \"weekend before July 17\" is a very specific relative date.\nJuly 15-16 is the weekend before July 17.\nMemory 1 says July 14-16.\nThis is a strong match.\nMemory 2's \"July 10\" contradicts its own parenthetical.\nMemory 4's \"July 10\" has no parenthetical.\n\nIs it possible the answer is \"July 2023\"?\nMemory 6 says \"around July 2023\".\nMemory 8 says \"mid-July 2023\".\nMemory 9 says \"early July 2023\".\n\nThe question asks \"When did Caroline join...\".\nSpecific dates are better.\nBetween \"July 10\" and \"July 14-16\":\nThe \"weekend before July 17\" clue is the tie-breaker. It points to July 15-16.\nMemory 1 (July 14-16) covers this.\nMemory 2 (July 10) does not.\nTherefore, Memory 1 is the most reliable source for the specific timing, supported by the relative date clue in Memory 2.\n\nWait, looking closer at Memory 2: \"around July 10, 2023 (the weekend before July 17, 2023)\".\nMaybe the user considers July 10 to be \"the weekend before\"? No, that's factually wrong.\nMaybe the \"July 10\" is a typo for \"July 15\"?\nOr maybe the \"weekend before July 17\" is the correct anchor, and \"July 10\" is the error.\nGiven Memory 1 explicitly says \"July 14-16\", and that range includes the weekend before July 17, I will prioritize that.\n\nHowever, often in these tasks, if a specific date like \"July 10\" is repeated, it might be the intended \"fact\" despite the confusing parenthetical. But \"July 14-16\" is also specific.\nLet's look at the \"Step 4\" instruction: \"A lower-ranked memory that directly answers the question beats a higher-ranked one that is only tangentially related.\"\nAll are directly related.\n\"ALWAYS choose the MOST SPECIFIC detail available.\"\n\"July 14-16, 2023\" is a specific range.\n\"July 10, 2023\" is a specific date.\n\nLet's reconsider the \"weekend before July 17\".\nIf I say \"I joined the program the weekend before July 17\", I mean July 15-16.\nMemory 1 says \"July 14-16\".\nMemory 2 says \"July 10\" but *also* says \"the weekend before July 17\".\nIf I combine them, the \"weekend before July 17\" is a more descriptive and verifiable anchor than the potentially erroneous \"July 10\".\nAlso, Memory 8 says \"mid-July\". July 14-16 is mid-July. July 10 is early July.\nMemory 9 says \"early July\".\nSo we have:\n- Early July (Mem 9)\n- Mid-July (Mem 8)\n- July 10 (Mem 2, 4)\n- July 14-16 (Mem 1)\n\nThe \"weekend before July 17\" clue in Mem 2 strongly supports the Mid-July/July 14-16 timeframe.\nI will go with **July 14-16, 2023** or **mid-July 2023**.\nThe question asks \"When\".\n\"July 14-16, 2023\" is the most specific and consistent with the \"weekend before July 17\" anchor.\n\nHowever, I should check if \"July 10\" is the intended answer because it appears twice.\nIf I answer \"July 10, 2023\", I am ignoring the \"weekend before July 17\" clue.\nIf I answer \"July 14-16, 2023\", I am using the clue.\nLet's assume the \"weekend before July 17\" is the correct temporal reference.\nThe weekend before July 17, 2023 is July 15-16.\nMemory 1 says July 14-16.\nThis is a very",
+      "memories_evaluated": 10,
+      "reason": "The generated answer concludes with 'July 14-16, 2023', which falls within the 14-day tolerance of the gold answer 'The weekend before 17 July 2023' (July 15-16, 2023) and semantically matches the timeframe."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 14-16, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 14-16, 2023' falls within the 14-day tolerance window of the gold answer 'The weekend before 17 July 2023' (which refers to July 15-16, 2023)."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 14-16, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 14-16, 2023' falls within the 14-day tolerance window of the gold answer 'The weekend before 17 July 2023' (which refers to July 15-16, 2023)."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "mid-July 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'mid-July 2023' is consistent with the gold answer 'the weekend before 17 July 2023' (which is July 15-16, 2023), falling within the acceptable date tolerance."
     }
   }
 }

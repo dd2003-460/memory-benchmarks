@@ -8,42 +8,183 @@
   "evidence": [
     "D1:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What is Caroline's identity?",
-    "search_results": [],
-    "search_latency_ms": 14.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline views books as essential guides that motivate her, help her discover her identity, and remind her to persevere, describing them as a huge part of her personal journey.",
+        "score": 0.6600773178906639,
+        "id": "8224cba1-6f97-418f-bbb0-45dbee3d2112",
+        "created_at": "2026-11-04T05:22:31.903675+00:00",
+        "updated_at": "2026-11-04T05:22:31.903675+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.654867339888268,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline felt liberated and empowered while painting her recent self-portrait, describing the process as therapeutic and a way to explore her identity and be true to herself.",
+        "score": 0.6510517340958997,
+        "id": "b278040d-e137-4d5f-9b03-d3b95676a57b",
+        "created_at": "2026-11-04T05:56:31.740970+00:00",
+        "updated_at": "2026-11-04T05:56:31.740970+00:00"
+      },
+      {
+        "memory": "Caroline found self-acceptance to be a long process but credits friends, family, and role models for helping her through tough times and discovering her true identity, which motivates her to pass that same support to others.",
+        "score": 0.6503554530617041,
+        "id": "d498e604-9698-4818-9173-f0c14c0e2bfd",
+        "created_at": "2026-11-04T06:04:44.974576+00:00",
+        "updated_at": "2026-11-04T06:04:44.974576+00:00"
+      },
+      {
+        "memory": "Caroline created a painting titled 'Embracing Identity' featuring a woman, which she describes as representing the journey of self-acceptance with themes of warmth, love, and comfort in being oneself.",
+        "score": 0.6461566245604495,
+        "id": "d2282fcc-9a42-4d91-8666-467566d045c1",
+        "created_at": "2026-11-04T05:54:11.061102+00:00",
+        "updated_at": "2026-11-04T05:54:11.061102+00:00"
+      },
+      {
+        "memory": "Caroline described finding self-acceptance as a long process that was supported by friends, family, and role models, which helped her discover her true identity during her transition.",
+        "score": 0.6434731881574621,
+        "id": "2e74a7c4-60b9-48b8-bff9-32a1755e40b1",
+        "created_at": "2026-11-04T06:04:38.587536+00:00",
+        "updated_at": "2026-11-04T06:04:38.587536+00:00"
+      },
+      {
+        "memory": "Caroline feels liberated and empowered when painting, using art as a therapeutic way to explore her identity and be true to herself",
+        "score": 0.6393136658264784,
+        "id": "e98781dd-cf17-4ec5-8341-a1d56e5a4f23",
+        "created_at": "2026-11-04T05:56:48.941753+00:00",
+        "updated_at": "2026-11-04T05:56:48.941753+00:00"
+      },
+      {
+        "memory": "Caroline described the process of creating her self-portrait as feeling liberated and empowered, noting that painting helps her explore her identity, be true to herself, and serves as a therapeutic outlet.",
+        "score": 0.6384425183505412,
+        "id": "75c2be1b-1de0-45ad-9b08-d8da7e5938ce",
+        "created_at": "2026-11-04T05:56:54.266065+00:00",
+        "updated_at": "2026-11-04T05:56:54.266065+00:00"
+      },
+      {
+        "memory": "Caroline created a painting titled 'Embracing Identity' featuring a woman in a red shirt, which she described as representing the journey of acceptance and aiming to show warmth, love, and self-acceptance.",
+        "score": 0.6373079496180052,
+        "id": "284e8ea8-72e8-42d6-84f3-4ce105ffa53a",
+        "created_at": "2026-11-04T05:53:56.611728+00:00",
+        "updated_at": "2026-11-04T05:53:56.611728+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.48637474152410337,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.47640496053053544,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.4717074003821849,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.4655034807649721,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.44179593805406486,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.42864994436222714,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.4189817595723492,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.4177933642132715,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.41430794968401585,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.4142126662824652,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.41320487537616923,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      }
+    ],
+    "search_latency_ms": 64.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "trans woman",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'trans woman' is a direct paraphrase of the gold answer 'Transgender woman'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline is a trans woman from Sweden.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies Caroline as a trans woman, which matches the core identity in the gold answer, and adds extra detail about her origin."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "trans woman",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'trans woman' is a direct paraphrase of the gold answer 'Transgender woman'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her identity.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about Caroline, whereas the gold answer explicitly states her identity is a transgender woman, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline is a trans woman from Sweden.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies Caroline as a trans woman, which matches the core identity in the gold answer, and adds extra detail about her origin."
     }
   }
 }

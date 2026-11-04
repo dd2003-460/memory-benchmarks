@@ -8,42 +8,183 @@
   "evidence": [
     "D4:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How long ago was Caroline's 18th birthday?",
-    "search_results": [],
-    "search_latency_ms": 40.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday in June 2013, which reminds her of art and self-expression.",
+        "score": 0.6519796304735588,
+        "id": "1ebe2b79-3af0-4c75-8093-e050d2b5c812",
+        "created_at": "2026-11-04T05:17:55.696279+00:00",
+        "updated_at": "2026-11-04T05:17:55.696279+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago (around 2013), which reminds her of art and self-expression.",
+        "score": 0.6462666801728892,
+        "id": "2a2971a4-f499-4ce9-81bd-5eb6d91237a2",
+        "created_at": "2026-11-04T05:18:19.809054+00:00",
+        "updated_at": "2026-11-04T05:18:19.809054+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago, which features awesome patterns and colors that remind her of art and self-expression.",
+        "score": 0.6369022399074418,
+        "id": "b67bf3a8-1698-4001-acf2-7fd3b1070a43",
+        "created_at": "2026-11-04T05:18:01.033355+00:00",
+        "updated_at": "2026-11-04T05:18:01.033355+00:00"
+      },
+      {
+        "memory": "Caroline has a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she values for its sentimental connection to art and self-expression.",
+        "score": 0.6333249945511866,
+        "id": "772e7a16-2f60-46f1-859f-845b5345b7fa",
+        "created_at": "2026-11-04T05:18:30.176902+00:00",
+        "updated_at": "2026-11-04T05:18:30.176902+00:00"
+      },
+      {
+        "memory": "Caroline treasures a hand-painted bowl made by a friend for her 18th birthday ten years ago (around 2013), which she associates with art and self-expression due to its pattern and colors.",
+        "score": 0.6328821852357533,
+        "id": "3cd41221-2dc3-4b8f-a1c8-0bb98977c4d7",
+        "created_at": "2026-11-04T05:18:14.158059+00:00",
+        "updated_at": "2026-11-04T05:18:14.158059+00:00"
+      },
+      {
+        "memory": "Caroline owns a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she treasures as a reminder of art and self-expression.",
+        "score": 0.6267120599216448,
+        "id": "9982edc9-ce55-44bb-8296-657b0030e5b1",
+        "created_at": "2026-11-04T05:17:43.121717+00:00",
+        "updated_at": "2026-11-04T05:17:43.121717+00:00"
+      },
+      {
+        "memory": "Caroline owns a hand-painted bowl with an awesome pattern and colors that was made by a friend for her 18th birthday ten years ago, which she treasures as a reminder of art and self-expression.",
+        "score": 0.6267120599216448,
+        "id": "0bf216e4-15cc-40eb-9c19-46899029c7c1",
+        "created_at": "2026-11-04T05:17:48.246848+00:00",
+        "updated_at": "2026-11-04T05:17:48.246848+00:00"
+      },
+      {
+        "memory": "Caroline has a hand-painted bowl made by a friend for her 18th birthday ten years ago (around 2013), which she values for its pattern, colors, and association with art and self-expression.",
+        "score": 0.6244261996167073,
+        "id": "41141260-28c3-472c-a2f0-e491f5a37221",
+        "created_at": "2026-11-04T05:18:07.244796+00:00",
+        "updated_at": "2026-11-04T05:18:07.244796+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, around 2018, and finds it a great way to express herself and escape into her emotions.",
+        "score": 0.6234226658096481,
+        "id": "29b18655-1fb8-4241-ae0b-178389d6e0e2",
+        "created_at": "2026-11-04T06:01:02.947535+00:00",
+        "updated_at": "2026-11-04T06:01:02.947535+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, around 2018, and finds it a great way to express herself and escape into her emotions.",
+        "score": 0.6234226658096481,
+        "id": "50eb22c9-a7f7-40a8-8d4e-b4cd18509889",
+        "created_at": "2026-11-04T06:00:58.241108+00:00",
+        "updated_at": "2026-11-04T06:00:58.241108+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.6181116731608852,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, using it as a way to express herself and escape into her emotions.",
+        "score": 0.6123539961555787,
+        "id": "0986493b-7a3c-4439-958f-8767f8cf1942",
+        "created_at": "2026-11-04T06:01:16.466752+00:00",
+        "updated_at": "2026-11-04T06:01:16.466752+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a plate with floral patterns with Caroline on August 25, 2023, while discussing Caroline's recent hiking incident.",
+        "score": 0.3049235584529087,
+        "id": "3f0204e4-3281-467e-822c-7c2f63e885ca",
+        "created_at": "2026-11-04T05:57:08.082228+00:00",
+        "updated_at": "2026-11-04T05:57:08.082228+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.3027714711688051,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade a few weeks before July 15, 2023, which she described as a special memory.",
+        "score": 0.2994889183935654,
+        "id": "da1f21fd-aeb8-43d3-b269-11008a19f0a2",
+        "created_at": "2026-11-04T05:23:44.952393+00:00",
+        "updated_at": "2026-11-04T05:23:44.952393+00:00"
+      },
+      {
+        "memory": "Caroline attended a poetry reading on Friday, October 6, 2023, which she found really powerful.",
+        "score": 0.28962803041390084,
+        "id": "c1207f7f-8cce-4176-9481-8d137bb611c8",
+        "created_at": "2026-11-04T06:02:51.865600+00:00",
+        "updated_at": "2026-11-04T06:02:51.865600+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.2865177943958984,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "User's name is Caroline and she has a friend or acquaintance named Mel whom she greeted on May 8, 2023",
+        "score": 0.2852382570798323,
+        "id": "6f81a3aa-d83f-4e84-a45a-950cf2eca70b",
+        "created_at": "2026-11-04T05:14:16.590371+00:00",
+        "updated_at": "2026-11-04T05:14:16.590371+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a letter of apology related to her hiking encounter on August 25, 2023.",
+        "score": 0.28095478124714524,
+        "id": "71025fcc-6360-4dbc-9016-74383b439b58",
+        "created_at": "2026-11-04T05:57:08.079252+00:00",
+        "updated_at": "2026-11-04T05:57:08.079252+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a family frisbee game with Caroline during their conversation on July 3, 2023.",
+        "score": 0.2762043421250617,
+        "id": "97c81b02-7d31-454c-be00-27054511928a",
+        "created_at": "2026-11-04T05:20:30.807801+00:00",
+        "updated_at": "2026-11-04T05:20:30.807801+00:00"
+      }
+    ],
+    "search_latency_ms": 112.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline's birthday or age, so it is impossible to determine how long ago her 18th birthday was.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information available, whereas the gold answer provides a specific timeframe (10 years ago), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Ten years ago",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Ten years ago' is a direct paraphrase of the gold answer '10 years ago'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline's birthday or age, so it is impossible to determine how long ago her 18th birthday was.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information available, whereas the gold answer provides a specific timeframe (10 years ago), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "10 years ago",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline's birthday or age, so it is impossible to determine how long ago her 18th birthday was.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information available, whereas the gold answer provides a specific timeframe (10 years ago), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "ten years ago",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'ten years ago' is a direct paraphrase of the gold answer '10 years ago'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline's birthday or age, so it is impossible to determine how long ago her 18th birthday was.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information available, whereas the gold answer provides a specific timeframe (10 years ago), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "ten years ago",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'ten years ago' is a direct paraphrase of the gold answer '10 years ago'."
     }
   }
 }

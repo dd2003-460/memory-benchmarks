@@ -9,42 +9,183 @@
     "D15:26",
     "D2:5"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What instruments does Melanie play?",
-    "search_results": [],
-    "search_latency_ms": 22.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and finds it a great way to express herself and relax.",
+        "score": 0.697069761220802,
+        "id": "78e02b1c-74d3-494e-8105-76dc0593046c",
+        "created_at": "2026-11-04T06:01:06.987358+00:00",
+        "updated_at": "2026-11-04T06:01:06.987358+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.6902278974827079,
+        "id": "4681353b-8104-4aeb-8191-e756fd6eb7b1",
+        "created_at": "2026-11-04T06:01:24.081119+00:00",
+        "updated_at": "2026-11-04T06:01:24.081119+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.6902278974827079,
+        "id": "ef203662-42e9-47ba-a3d1-870233c08650",
+        "created_at": "2026-11-04T06:01:16.474494+00:00",
+        "updated_at": "2026-11-04T06:01:16.474494+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and views it as an expression of herself and a way to relax.",
+        "score": 0.6887946812897442,
+        "id": "6b8f43fa-2585-4f95-9a9a-5091bb34a7dd",
+        "created_at": "2026-11-04T06:01:32.080520+00:00",
+        "updated_at": "2026-11-04T06:01:32.080520+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show featuring the band 'Summer Sounds' playing pop songs, which she found fun and lively, noting how music brings people together.",
+        "score": 0.6461423364276894,
+        "id": "3cb0c25f-80f5-466f-9d41-33982c2504e0",
+        "created_at": "2026-11-04T06:00:51.702321+00:00",
+        "updated_at": "2026-11-04T06:00:51.702321+00:00"
+      },
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.6405880761926279,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie identified the band in her shared concert photo as 'Summer Sounds', describing them as playing an awesome pop song that got everyone dancing and singing, creating a fun and lively atmosphere.",
+        "score": 0.6313154752643559,
+        "id": "6e505573-4f16-4cce-8c00-49eb19fa18b5",
+        "created_at": "2026-11-04T06:00:44.544988+00:00",
+        "updated_at": "2026-11-04T06:00:44.544988+00:00"
+      },
+      {
+        "memory": "Melanie carves out daily me-time by running, reading, or playing the violin to refresh herself and stay present for her family, as she shared with Caroline on May 25, 2023",
+        "score": 0.6284862358837554,
+        "id": "b6c4e661-f73c-4256-9f20-65cdd7c0662e",
+        "created_at": "2026-11-04T05:15:35.902982+00:00",
+        "updated_at": "2026-11-04T05:15:35.902982+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, which she describes as sweet, playful, and brightening up the household.",
+        "score": 0.6151589529280582,
+        "id": "0de7cb21-3d21-4613-b41c-4067d0329c66",
+        "created_at": "2026-11-04T05:22:56.201905+00:00",
+        "updated_at": "2026-11-04T05:22:56.201905+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat named Luna and Oliver, who are described as sweet, playful, and brighten up the household.",
+        "score": 0.6116812271542079,
+        "id": "afdd692f-dccd-4157-a43f-a1be52ba862e",
+        "created_at": "2026-11-04T05:23:00.635168+00:00",
+        "updated_at": "2026-11-04T05:23:00.635168+00:00"
+      },
+      {
+        "memory": "Melanie went to the beach with her kids recently, sharing a photo of three children playing with a kite on the sandy shore, noting that the kids had a blast.",
+        "score": 0.6049537407438821,
+        "id": "89ce89ea-57e4-4623-a44b-c6d01a5b099d",
+        "created_at": "2026-11-04T05:52:33.632847+00:00",
+        "updated_at": "2026-11-04T05:52:33.632847+00:00"
+      },
+      {
+        "memory": "Melanie has children who enjoyed playing on a jungle gym at a park around August 27, 2023.",
+        "score": 0.6038097275323229,
+        "id": "965fd577-3992-42ee-b3a3-28547b4082c2",
+        "created_at": "2026-11-04T06:00:04.636095+00:00",
+        "updated_at": "2026-11-04T06:00:04.636095+00:00"
+      },
+      {
+        "memory": "Melanie has two pets named Luna (a dog) and Oliver (a cat), which she describes as sweet, playful, and brightening up the house.",
+        "score": 0.602151945945307,
+        "id": "7086b6bc-63b3-4686-8744-d1738b654f50",
+        "created_at": "2026-11-04T05:22:49.559894+00:00",
+        "updated_at": "2026-11-04T05:22:49.559894+00:00"
+      },
+      {
+        "memory": "Melanie's dog is named Luna and her cat is named Oliver, whom she describes as sweet, playful, and lively in the house.",
+        "score": 0.5875604867585902,
+        "id": "86acc903-cad9-485c-af32-18f08256b17e",
+        "created_at": "2026-11-04T05:22:41.842459+00:00",
+        "updated_at": "2026-11-04T05:22:41.842459+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5866736435842301,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023.",
+        "score": 0.5863076435934717,
+        "id": "7fd82bcd-40b3-4f39-ae85-c6f09d5e99a7",
+        "created_at": "2026-11-04T05:56:01.202137+00:00",
+        "updated_at": "2026-11-04T05:56:01.202137+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023.",
+        "score": 0.5863076435934717,
+        "id": "351cd119-34b1-4c64-a25f-3a799f471c77",
+        "created_at": "2026-11-04T05:55:53.939617+00:00",
+        "updated_at": "2026-11-04T05:55:53.939617+00:00"
+      },
+      {
+        "memory": "Melanie has a cat named Bailey in addition to Oliver, and she shared a photo of Oliver playing frisbee in the backyard on August 23, 2023",
+        "score": 0.5830957994425435,
+        "id": "d72ebba2-a529-403e-bfc8-d975aec1887f",
+        "created_at": "2026-11-04T05:56:24.907330+00:00",
+        "updated_at": "2026-11-04T05:56:24.907330+00:00"
+      },
+      {
+        "memory": "Melanie recently took her three children to the beach where they played frisbee and flew a kite, noting that they only go to the beach once or twice a year but find those times special.",
+        "score": 0.5825507033198007,
+        "id": "3a091438-95f8-4c3c-bea4-a780cdcfc7c6",
+        "created_at": "2026-11-04T05:52:44.906296+00:00",
+        "updated_at": "2026-11-04T05:52:44.906296+00:00"
+      },
+      {
+        "memory": "Melanie described a recent family picnic as fun, noting that they played games, ate good food, and hung out together, which she feels makes life awesome.",
+        "score": 0.5802370584464307,
+        "id": "9cd19b6d-0f4b-4536-9d5d-f03e8c0a3210",
+        "created_at": "2026-11-04T05:17:06.071821+00:00",
+        "updated_at": "2026-11-04T05:17:06.071821+00:00"
+      }
+    ],
+    "search_latency_ms": 99.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "violin and clarinet",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists the exact same instruments (violin and clarinet) as the gold answer, just in reverse order."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "violin and clarinet",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists the exact same instruments (violin and clarinet) as the gold answer, just in reverse order."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "violin and clarinet",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists the exact same instruments (violin and clarinet) as the gold answer, just in reverse order."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "violin and clarinet",
+      "memories_evaluated": 20,
+      "reason": "The generated answer lists the exact same instruments (violin and clarinet) as the gold answer, just in reverse order."
     }
   }
 }

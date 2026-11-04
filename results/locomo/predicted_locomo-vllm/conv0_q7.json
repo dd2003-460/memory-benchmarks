@@ -9,42 +9,183 @@
     "D3:13",
     "D2:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What is Caroline's relationship status?",
-    "search_results": [],
-    "search_latency_ms": 29.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.7095575108335599,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline's relationships have shifted due to her transition; while some close friends remained supportive, others were unable to handle it, leaving her happier and more genuine in her current connections.",
+        "score": 0.7046386200828961,
+        "id": "1efdaf7e-5410-47bb-9f2e-031179630c14",
+        "created_at": "2026-11-04T06:01:52.874168+00:00",
+        "updated_at": "2026-11-04T06:01:52.874168+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, finding her current relationships more genuine and herself much happier.",
+        "score": 0.6940601140017828,
+        "id": "be919a79-79db-4088-bd66-0a875d1275cb",
+        "created_at": "2026-11-04T06:02:06.116658+00:00",
+        "updated_at": "2026-11-04T06:02:06.116658+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, leading to more genuine connections.",
+        "score": 0.6878108936515748,
+        "id": "22a772a9-c557-4f05-a406-deb242d85b0c",
+        "created_at": "2026-11-04T06:02:09.168092+00:00",
+        "updated_at": "2026-11-04T06:02:09.168092+00:00"
+      },
+      {
+        "memory": "Caroline's transition as a trans woman changed her relationships, with some close friends continuing to support her while others were unable to handle it; she now feels happier and finds her relationships more genuine by being around those who accept and love her.",
+        "score": 0.6655262166968001,
+        "id": "3aa99a90-7cf9-480d-8594-b4689bbe54c9",
+        "created_at": "2026-11-04T06:01:49.285349+00:00",
+        "updated_at": "2026-11-04T06:01:49.285349+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5886211725239092,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.4782963759198198,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.47002890816358345,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.426497623708325,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.42527926777704056,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.42430395203435084,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.4163538258196725,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Caroline stated on June 9, 2023, that her friends, family, and mentors are her 'rocks' who motivate her and give her the strength to push on.",
+        "score": 0.4150362319428183,
+        "id": "72109b21-7872-4b57-a176-e916e80f8c07",
+        "created_at": "2026-11-04T05:16:41.987606+00:00",
+        "updated_at": "2026-11-04T05:16:41.987606+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.4139874883422083,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.413390971304064,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.41290871494445813,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.4113045858162344,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, where she found the atmosphere of love and acceptance encouraging.",
+        "score": 0.4086358059135929,
+        "id": "2feaebce-3fc1-4903-8b1d-7c6d57b0d295",
+        "created_at": "2026-11-04T05:25:01.597165+00:00",
+        "updated_at": "2026-11-04T05:25:01.597165+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.404949934131535,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.39806018725685705,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      }
+    ],
+    "search_latency_ms": 141.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+      "generated_answer": "Caroline has supportive friendships, including a close friendship with Melanie, and a mentoring relationship with a transgender teen.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer discusses friendships and mentoring relationships but fails to mention that Caroline is single, which is the specific fact required by the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "The memories do not specify a romantic partner, but indicate that Caroline is supported by friends, family, and mentors, and has a mentoring relationship with a transgender teen. Her relationships have become more genuine and she feels happier with the people who accept her.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer does not explicitly state that Caroline is single, but it notes the absence of a specified romantic partner and focuses on other relationships, which is semantically consistent with the gold answer's core fact of being single."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline is supported by a close circle of friends, family, and mentors, with no romantic partner mentioned in her social circle.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states that no romantic partner is mentioned, which semantically aligns with the gold answer of being single."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "I don't have any information about Caroline's relationship status in the provided memories.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer explicitly states a lack of information and fails to provide the correct status 'Single', resulting in zero correct items."
+      "generated_answer": "Caroline's relationships have changed due to her transition; while some close friends were unable to handle it and left, she remains supported by friends, family, and a mentee, finding her current connections more genuine and supportive.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer discusses the quality and changes in Caroline's social connections but does not explicitly state her romantic relationship status (single), which is the specific fact required by the gold answer."
     }
   }
 }

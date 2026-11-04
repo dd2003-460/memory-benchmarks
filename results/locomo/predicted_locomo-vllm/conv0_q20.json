@@ -8,42 +8,183 @@
   "evidence": [
     "D6:4"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie go to the museum?",
-    "search_results": [],
-    "search_latency_ms": 1554284.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.6765741239519241,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit; Melanie noted that seeing their excitement reminded her why she loves being a mom.",
+        "score": 0.6692026455855576,
+        "id": "155c2dad-9198-4ded-86e3-15261877ae41",
+        "created_at": "2026-11-04T05:21:46.421198+00:00",
+        "updated_at": "2026-11-04T05:21:46.421198+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they visited the dinosaur exhibit; Melanie noted that the kids love learning about animals and found the experience rewarding as a mom.",
+        "score": 0.6685017864010192,
+        "id": "320feb90-5521-4b27-80b3-4d6437baa5fa",
+        "created_at": "2026-11-04T05:21:49.351594+00:00",
+        "updated_at": "2026-11-04T05:21:49.351594+00:00"
+      },
+      {
+        "memory": "Melanie took her children to a museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.6673252080249447,
+        "id": "19de4acf-9870-4189-8a79-cb10264fe005",
+        "created_at": "2026-11-04T05:21:38.033320+00:00",
+        "updated_at": "2026-11-04T05:21:38.033320+00:00"
+      },
+      {
+        "memory": "Melanie took her two kids to a museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.6659523011000513,
+        "id": "24433965-ce93-419b-979d-a6bef96b1144",
+        "created_at": "2026-11-04T05:21:33.033057+00:00",
+        "updated_at": "2026-11-04T05:21:33.033057+00:00"
+      },
+      {
+        "memory": "Melanie took her two younger kids to the museum on July 5, 2023, enjoying watching their eyes light up during the visit.",
+        "score": 0.6644868021001966,
+        "id": "d29eacf2-7177-43af-af2b-1f5599696b4b",
+        "created_at": "2026-11-04T05:21:25.448503+00:00",
+        "updated_at": "2026-11-04T05:21:25.448503+00:00"
+      },
+      {
+        "memory": "Melanie took her two kids to the museum on July 5, 2023, where they were particularly excited about the dinosaur exhibit and learning about animal bones.",
+        "score": 0.6632034358117032,
+        "id": "72376b63-1588-4140-b423-363c7122acf2",
+        "created_at": "2026-11-04T05:21:40.484142+00:00",
+        "updated_at": "2026-11-04T05:21:40.484142+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit, and she shared a photo of them laughing with Caroline.",
+        "score": 0.6602330005381509,
+        "id": "e5bc0f3d-62e3-4b7d-89fc-9b2a6d7e9070",
+        "created_at": "2026-11-04T05:21:27.871393+00:00",
+        "updated_at": "2026-11-04T05:21:27.871393+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5563285542553504,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.5388453921120925,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.5363223583271635,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.5353723910850579,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.530913980626451,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in late 2022, and while the process was long, they are now super happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5245991782502352,
+        "id": "8a1de840-c576-4745-bb0b-4f0248b27690",
+        "created_at": "2026-11-04T06:02:32.138412+00:00",
+        "updated_at": "2026-11-04T06:02:32.138412+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5239575767180379,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.5238523778513736,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's friend adopted a child in 2022 after a long process and is now very happy with their new kid, which inspired Melanie to consider adopting herself.",
+        "score": 0.5220132790395883,
+        "id": "3281f6c5-0f1a-4cb7-b651-502b4b3bb30f",
+        "created_at": "2026-11-04T06:02:24.074101+00:00",
+        "updated_at": "2026-11-04T06:02:24.074101+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.5184658256954601,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, and described it as a really nice time together.",
+        "score": 0.47928017875761286,
+        "id": "80bac729-137b-452f-af2d-a96350fd0070",
+        "created_at": "2026-11-04T05:17:52.569948+00:00",
+        "updated_at": "2026-11-04T05:17:52.569948+00:00"
+      },
+      {
+        "memory": "Melanie got hurt in September 2023 and had to take a break from pottery, which she uses for self-expression and peace.",
+        "score": 0.47457637160139976,
+        "id": "74087537-0c51-4c40-a995-8e55619fc5bc",
+        "created_at": "2026-11-04T06:02:40.715873+00:00",
+        "updated_at": "2026-11-04T06:02:40.715873+00:00"
+      }
+    ],
+    "search_latency_ms": 97.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 5, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'July 5, 2023' is the exact same date as the gold answer '5 July 2023', just formatted differently."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 5, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 5, 2023' is the exact same date as the gold answer '5 July 2023', just formatted differently."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 5, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 5, 2023' is the exact same date as the gold answer '5 July 2023', just formatted differently."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 5, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 5, 2023' is the exact same date as the gold answer '5 July 2023', just formatted differently."
     }
   }
 }

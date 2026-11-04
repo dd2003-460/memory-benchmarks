@@ -9,42 +9,183 @@
     "D7:5",
     "D7:9"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Caroline pursue writing as a career option?",
-    "search_results": [],
-    "search_latency_ms": 1554380.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline plans to continue her education and explore career options, which she finds exciting, as discussed with Melanie on May 8, 2023",
+        "score": 0.8371756344112778,
+        "id": "12eca47a-aef0-4574-86ae-224aee51bb90",
+        "created_at": "2026-11-04T05:14:25.659943+00:00",
+        "updated_at": "2026-11-04T05:14:25.659943+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.7795595751477171,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while finding the process tough but rewarding.",
+        "score": 0.66163231010691,
+        "id": "26a1748f-14d0-42f3-8b85-9937a05a0f79",
+        "created_at": "2026-11-04T05:21:46.415978+00:00",
+        "updated_at": "2026-11-04T05:21:46.415978+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the field is tough but rewarding.",
+        "score": 0.659675159459582,
+        "id": "62c89cb0-bb06-4e16-b95b-b7d15eaa4c0c",
+        "created_at": "2026-11-04T05:21:25.442934+00:00",
+        "updated_at": "2026-11-04T05:21:25.442934+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, though she finds the path tough but rewarding.",
+        "score": 0.6592359233051078,
+        "id": "b2186499-5e9a-4c49-baeb-5407b55e4a28",
+        "created_at": "2026-11-04T05:21:38.028712+00:00",
+        "updated_at": "2026-11-04T05:21:38.028712+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the difficulty but finding it rewarding.",
+        "score": 0.6581023610194076,
+        "id": "a142365a-ecc3-411a-b06d-d6a20b5ac778",
+        "created_at": "2026-11-04T05:21:33.029424+00:00",
+        "updated_at": "2026-11-04T05:21:33.029424+00:00"
+      },
+      {
+        "memory": "Caroline has been exploring careers in counseling or mental health work, driven by a passion for helping people and making a positive impact, while finding the path tough but rewarding.",
+        "score": 0.6576531606790739,
+        "id": "5772e56f-260d-49b6-8f34-0347494ba037",
+        "created_at": "2026-11-04T05:21:27.866513+00:00",
+        "updated_at": "2026-11-04T05:21:27.866513+00:00"
+      },
+      {
+        "memory": "Caroline is interested in pursuing a career in counseling or working in mental health, motivated by a desire to support individuals with similar issues to her own, as discussed with Melanie on May 8, 2023",
+        "score": 0.6532763170721333,
+        "id": "6e1018da-6f75-421c-af8d-6630f90572c0",
+        "created_at": "2026-11-04T05:14:27.579779+00:00",
+        "updated_at": "2026-11-04T05:14:27.579779+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health, specifically aiming to work with trans people to help them accept themselves and support their well-being.",
+        "score": 0.6423557234968086,
+        "id": "37428ab2-c9bd-4028-b396-e3dbf4e75f93",
+        "created_at": "2026-11-04T05:18:59.455901+00:00",
+        "updated_at": "2026-11-04T05:18:59.455901+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling and mental health, motivated by her own past struggles with mental health and the supportive help she received, which inspired her to assist others on their journeys.",
+        "score": 0.6410513787657707,
+        "id": "50c53ca2-beca-4e97-a180-a74c626ea224",
+        "created_at": "2026-11-04T05:22:31.893408+00:00",
+        "updated_at": "2026-11-04T05:22:31.893408+00:00"
+      },
+      {
+        "memory": "Caroline is considering a career in counseling specifically focused on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.6351826329454077,
+        "id": "6479b1f2-5334-41bf-86e3-e462e7e57b35",
+        "created_at": "2026-11-04T05:18:23.669598+00:00",
+        "updated_at": "2026-11-04T05:18:23.669598+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing a career in counseling and mental health with a specific focus on working with trans people, aiming to help them accept themselves and support their mental health.",
+        "score": 0.6320717318800064,
+        "id": "91a17369-c18b-4081-8ce6-14e834c3bc4e",
+        "created_at": "2026-11-04T05:18:46.221470+00:00",
+        "updated_at": "2026-11-04T05:18:46.221470+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.630433204436939,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who identifies with the LGBTQ community and is actively looking into careers in counseling and mental health to help others.",
+        "score": 0.6265054874863579,
+        "id": "1eaf9720-034e-40a4-aa8a-f0689cb2cfdd",
+        "created_at": "2026-11-04T05:22:26.616937+00:00",
+        "updated_at": "2026-11-04T05:22:26.616937+00:00"
+      },
+      {
+        "memory": "Caroline is exploring counseling and mental health as a career with a specific focus on working with trans people to help them accept themselves and support their mental health",
+        "score": 0.6231536546547878,
+        "id": "0b8d07f6-3f44-4328-a93a-da84960d7f85",
+        "created_at": "2026-11-04T05:18:40.782217+00:00",
+        "updated_at": "2026-11-04T05:18:40.782217+00:00"
+      },
+      {
+        "memory": "Caroline's motivation for pursuing a career in counseling stems from her own struggles with mental health, where she found that having a support system was crucial and helpful.",
+        "score": 0.6131020092602999,
+        "id": "43f7d673-6147-444a-8fe5-22898a4ea5fc",
+        "created_at": "2026-11-04T05:22:26.621441+00:00",
+        "updated_at": "2026-11-04T05:22:26.621441+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, feeling ready to be a mom and provide a safe, loving home for children who need it, and contacted her mentor for advice on the process in October 2023.",
+        "score": 0.6050118093940446,
+        "id": "f1f420e8-1004-476e-8987-b7c059967622",
+        "created_at": "2026-11-04T06:02:32.133675+00:00",
+        "updated_at": "2026-11-04T06:02:32.133675+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ+ pride parade motivated Caroline to use her personal story to help others, reinforcing her decision to pursue a career in counseling and mental health.",
+        "score": 0.6030866428013276,
+        "id": "dad7653b-c031-4a1d-94c1-bd1fef6d563c",
+        "created_at": "2026-11-04T05:19:54.435441+00:00",
+        "updated_at": "2026-11-04T05:19:54.435441+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.3675812840723651,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.35496360205374905,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      }
+    ],
+    "search_latency_ms": 117.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline is pursuing a career in counseling and mental health, specifically aiming to work with trans people and support their well-being, motivated by her own past struggles and a desire to help others.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies that Caroline would not pursue writing as a career, aligning with the gold answer's 'Likely no', and provides specific details about her actual career path in counseling."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, Caroline is focused on pursuing a career in counseling and mental health, specifically working with trans people, and there is no mention of her considering writing as a career option.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer aligns with the gold answer by stating that Caroline is unlikely to pursue writing, instead focusing on counseling, which matches the 'Likely no' sentiment."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "No, the memories indicate that Caroline is focused on pursuing a career in counseling and mental health, specifically working with trans people, and do not mention an interest in writing as a career option.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer aligns with the gold answer by stating that Caroline is unlikely to pursue writing as a career, instead focusing on counseling."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "No",
-      "memories_evaluated": 0,
-      "reason": "The generated answer 'No' aligns with the core sentiment of the gold answer 'Likely no', correctly identifying that Caroline would not pursue writing as a career."
+      "generated_answer": "No, Caroline is focused on pursuing a career in counseling and mental health, specifically working with trans people, and there is no mention of her considering writing as a career option.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer aligns with the gold answer by stating that Caroline is unlikely to pursue writing, instead focusing on counseling, which matches the 'Likely no' sentiment."
     }
   }
 }

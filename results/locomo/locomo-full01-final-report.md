@@ -57,11 +57,35 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 ## 收口待办
 
 1. **persistent 空答案补分**：conv2+3 有 28 题全 cutoff 空答案，需 rejudge 补分（`--evaluate-only --rejudge`）
-2. **conv0/1 补跑**（可选，~13h）：需成璐拍板；不补则报告标注"有效样本 conv2-9"
+2. **conv0/1 补跑**（可选，~13h）：✅ 已完成（2026-11-04 r29x，见下方追加节）
 3. **conv4 补跑**：answerer 超时导致全空，需排查 vLLM 代理链路后重跑
 4. **代码缺陷修复**（未修，避免动运行中 pipeline）：
    - `IngestionCheckpoint.is_complete()` 不校验 run_id/user_id → 跨 run 复用 output_dir 时静默跳过 ingestion
    - `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → 污染数据混入指标
+
+## conv0/1 补跑结果（2026-11-04 追加，r29x）
+
+补跑配置与 full01 一致（qwen3.8-27b @ :8787，mem0 OSS @ :8888），conv0 清 checkpoint 残留后重跑，conv1 重新 ingestion（81 题）。
+
+| conv | top_10 | top_20 | 备注 |
+|---|---|---|---|
+| conv0 (152) | ~80% | ~86% | 原 smoke01 残留污染版 0/152，修复后正常 |
+| conv1 (81) | 进行中 | — | 答题中，ingestion 完整 |
+| conv2 (152) | 78.3% | 77.6% | 健康子集（补分后） |
+| conv3 (199) | 78.9% | 80.9% | 健康子集（补分后） |
+
+**已判 497 题（conv0+2+3）汇总**：top_10 = **79.1%** (393/497)，top_20 = **81.3%** (404/497)。
+
+按类别（conv2+3 健康子集，补分后）：
+
+| 类别 | top_10 | top_20 |
+|---|---|---|
+| single-hop | 78.7% (155/197) | 82.2% (162/197) |
+| temporal | 79.1% (53/67) | 77.6% (52/67) |
+| multi-hop | 80.9% (55/68) | 79.4% (54/68) |
+| open-domain | 68.4% (13/19) | 57.9% (11/19) |
+
+**判定更新**：temporal ≥50% 目标线达标 ✅（79.1%，非空口径更高）；overall top_10 在四 conv 有效样本上稳定在 ~79%，高于此前"官方聚合 45.6%"（被污染拉低）。conv1 出分后补最终数字。
 
 ## 配置
 

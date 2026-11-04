@@ -8,42 +8,183 @@
   "evidence": [
     "D6:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline have a picnic?",
-    "search_results": [],
-    "search_latency_ms": 1554409.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline had a picnic with friends and family the week of June 26, 2023, and expressed gratitude for their support during her transition, noting that they make all the difference.",
+        "score": 0.6927664475263745,
+        "id": "e454b2da-d751-4ea7-8ed7-41b4845116f2",
+        "created_at": "2026-11-04T05:21:49.348113+00:00",
+        "updated_at": "2026-11-04T05:21:49.348113+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, which she credits with helping her appreciate the support network that aids her transition.",
+        "score": 0.6863562522193412,
+        "id": "4b7378d5-7e19-4bac-b856-c8e3db41682a",
+        "created_at": "2026-11-04T05:21:55.168351+00:00",
+        "updated_at": "2026-11-04T05:21:55.168351+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.6850663152526351,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, who are supporting her through her transition, and she feels lucky to have their help.",
+        "score": 0.6835176553476547,
+        "id": "57b0b814-ae03-44d2-8913-2c7ad6b6b234",
+        "created_at": "2026-11-04T05:21:46.433185+00:00",
+        "updated_at": "2026-11-04T05:21:46.433185+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5290464142653619,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.4479239793654373,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a plate with floral patterns with Caroline on August 25, 2023, while discussing Caroline's recent hiking incident.",
+        "score": 0.43225879438148906,
+        "id": "3f0204e4-3281-467e-822c-7c2f63e885ca",
+        "created_at": "2026-11-04T05:57:08.082228+00:00",
+        "updated_at": "2026-11-04T05:57:08.082228+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie attended a Pride fest together in August 2022, which Caroline described as a blast and credited their supportive friends for making the experience worthwhile.",
+        "score": 0.4225752426674657,
+        "id": "e78215cf-7fb4-4639-85fe-ff260c1ba765",
+        "created_at": "2026-11-04T05:54:59.035760+00:00",
+        "updated_at": "2026-11-04T05:54:59.035760+00:00"
+      },
+      {
+        "memory": "Caroline has a guinea pig named Oscar who loves eating vegetables, particularly parsley, and Caroline shared a photo of him munching parsley in his playpen on August 23, 2023.",
+        "score": 0.41957048102403416,
+        "id": "1f570c5e-28d6-4394-ab5a-868f4878fa9f",
+        "created_at": "2026-11-04T05:56:01.199656+00:00",
+        "updated_at": "2026-11-04T05:56:01.199656+00:00"
+      },
+      {
+        "memory": "Caroline has a guinea pig named Oscar who loves eating vegetables, particularly parsley, and Caroline shared a photo of him munching parsley in his playpen on August 23, 2023.",
+        "score": 0.41957048102403416,
+        "id": "6dcb24a8-19f6-49d6-9bc5-80da37afc2e9",
+        "created_at": "2026-11-04T05:55:53.936895+00:00",
+        "updated_at": "2026-11-04T05:55:53.936895+00:00"
+      },
+      {
+        "memory": "Caroline and her mentee attended an LGBT pride event in June 2023, where Caroline found the atmosphere of love and acceptance encouraging and was particularly moved by seeing her mentee's face light up at the support.",
+        "score": 0.4184823875744306,
+        "id": "403882c7-dcf2-438d-a9f7-fc0c25e83f8a",
+        "created_at": "2026-11-04T05:51:41.960610+00:00",
+        "updated_at": "2026-11-04T05:51:41.960610+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo from a gathering with her group of friends and family in a yard that took place around June 2, 2023.",
+        "score": 0.40445767641851055,
+        "id": "cd47a594-bbb6-4872-a026-e6df680d6842",
+        "created_at": "2026-11-04T05:16:41.990472+00:00",
+        "updated_at": "2026-11-04T05:16:41.990472+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.3978158376661036,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline shared a photo of a letter of apology related to her hiking encounter on August 25, 2023.",
+        "score": 0.38949077103355606,
+        "id": "71025fcc-6360-4dbc-9016-74383b439b58",
+        "created_at": "2026-11-04T05:57:08.079252+00:00",
+        "updated_at": "2026-11-04T05:57:08.079252+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade a few weeks before July 15, 2023, which she described as a special memory.",
+        "score": 0.3884924379238056,
+        "id": "da1f21fd-aeb8-43d3-b269-11008a19f0a2",
+        "created_at": "2026-11-04T05:23:44.952393+00:00",
+        "updated_at": "2026-11-04T05:23:44.952393+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a family frisbee game with Caroline during their conversation on July 3, 2023.",
+        "score": 0.38493442667373445,
+        "id": "97c81b02-7d31-454c-be00-27054511928a",
+        "created_at": "2026-11-04T05:20:30.807801+00:00",
+        "updated_at": "2026-11-04T05:20:30.807801+00:00"
+      },
+      {
+        "memory": "Caroline loves the color blue, stating it is her favorite because it makes her feel relaxed.",
+        "score": 0.3842352404307038,
+        "id": "ac001b54-94b0-4b51-98c2-8ede1c499239",
+        "created_at": "2026-11-04T05:23:50.875439+00:00",
+        "updated_at": "2026-11-04T05:23:50.875439+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.38328166880186537,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.3786638674965547,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.3758131533407092,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      }
+    ],
+    "search_latency_ms": 94.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "the week of June 26, 2023 (around June 29, 2023)",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies the week of June 26, 2023, which is the week immediately preceding July 6, 2023, matching the gold answer's timeframe."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before July 6, 2023 (June 26-30), and the generated answer of June 29, 2023 falls within this timeframe and is well within the 14-day tolerance."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before July 6, 2023 (June 26-30), and the generated answer of June 29, 2023 falls within this timeframe and is well within the 14-day tolerance."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before July 6, 2023 (June 26-30), and the generated answer of June 29, 2023 falls within this timeframe and is well within the 14-day tolerance."
     }
   }
 }

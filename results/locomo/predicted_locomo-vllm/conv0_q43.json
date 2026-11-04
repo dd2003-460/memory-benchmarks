@@ -10,42 +10,183 @@
     "D11:8",
     "D9:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What kind of art does Caroline make?",
-    "search_results": [],
-    "search_latency_ms": 31.3,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline has been creating art since she was approximately 17 years old, finding the process empowering and cathartic as it allows her to express things that are difficult to put into words.",
+        "score": 0.7007547375442935,
+        "id": "a045b817-fb78-4a1b-94bc-063e3e5c76f3",
+        "created_at": "2026-11-04T06:01:28.625632+00:00",
+        "updated_at": "2026-11-04T06:01:28.625632+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.6986125861208106,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline has been creating art since she was 17 years old, describing the process as empowering and cathartic because it allows her to express things that are difficult to put into words.",
+        "score": 0.6972157157015644,
+        "id": "2b474ac7-8b62-4532-97af-5da18c64c0ee",
+        "created_at": "2026-11-04T06:01:32.069093+00:00",
+        "updated_at": "2026-11-04T06:01:32.069093+00:00"
+      },
+      {
+        "memory": "Caroline has been creating art since she was 17, finding the process empowering and cathartic as it allows her to express things that are difficult to put into words.",
+        "score": 0.6970122924445997,
+        "id": "26a366c7-9221-4943-82a5-989e4ef116ba",
+        "created_at": "2026-11-04T06:01:52.857304+00:00",
+        "updated_at": "2026-11-04T06:01:52.857304+00:00"
+      },
+      {
+        "memory": "Caroline uses art to explore her transition and changing body, finding it a valuable way to work through personal experiences and learn to accept the beauty of imperfections.",
+        "score": 0.6914064647664877,
+        "id": "6c9fcdca-6dee-44ff-a1aa-b3a15be226bc",
+        "created_at": "2026-11-04T05:54:03.043562+00:00",
+        "updated_at": "2026-11-04T05:54:03.043562+00:00"
+      },
+      {
+        "memory": "Caroline has been into art since she was 17 and finds it empowering and cathartic, noting that art can express things that are hard to put into words",
+        "score": 0.6895094555621099,
+        "id": "197074f5-0afa-49f7-8022-665acd54fe05",
+        "created_at": "2026-11-04T06:01:56.663106+00:00",
+        "updated_at": "2026-11-04T06:01:56.663106+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.6886342964772875,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline feels liberated and empowered when painting, using art as a therapeutic way to explore her identity and be true to herself",
+        "score": 0.6880058569662467,
+        "id": "e98781dd-cf17-4ec5-8341-a1d56e5a4f23",
+        "created_at": "2026-11-04T05:56:48.941753+00:00",
+        "updated_at": "2026-11-04T05:56:48.941753+00:00"
+      },
+      {
+        "memory": "Caroline finds that art allows her to explore her transition and changing body, serving as a way to work through personal challenges and accept the beauty of imperfections.",
+        "score": 0.684866670322478,
+        "id": "5d6b8292-2a81-4c32-9caa-04ed2f4d45b0",
+        "created_at": "2026-11-04T05:54:18.446061+00:00",
+        "updated_at": "2026-11-04T05:54:18.446061+00:00"
+      },
+      {
+        "memory": "Caroline finds that art allows her to explore her transition and changing body, serving as a therapeutic way to process her experiences and learn to accept the beauty of imperfections.",
+        "score": 0.6814979521116757,
+        "id": "56f7af32-43ef-409d-ba54-846c0d1af805",
+        "created_at": "2026-11-04T05:54:11.063566+00:00",
+        "updated_at": "2026-11-04T05:54:11.063566+00:00"
+      },
+      {
+        "memory": "Caroline views art as a source of joy that helps her express feelings and capture beautiful moments, such as depicting bouquets of flowers in her work.",
+        "score": 0.6804491718222907,
+        "id": "bf4c3da0-2a21-416c-9322-cb253711902a",
+        "created_at": "2026-11-04T05:59:22.078228+00:00",
+        "updated_at": "2026-11-04T05:59:22.078228+00:00"
+      },
+      {
+        "memory": "Caroline has recently been experimenting with abstract art, describing the process as freeing and a form of self-expression that allows her to put feelings on canvas without a plan",
+        "score": 0.6784646334829753,
+        "id": "6517dc49-08ea-4266-8c79-4e5f141dc3a4",
+        "created_at": "2026-11-04T06:02:55.391838+00:00",
+        "updated_at": "2026-11-04T06:02:55.391838+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to express her feelings and explore her gender identity, finding that creating art was crucial during her transition as it helped her understand and accept herself.",
+        "score": 0.6780324541495217,
+        "id": "f38a23ba-b78c-4707-b597-eb183fcca0f3",
+        "created_at": "2026-11-04T06:01:34.703508+00:00",
+        "updated_at": "2026-11-04T06:01:34.703508+00:00"
+      },
+      {
+        "memory": "Caroline is an LGBTQ+ artist who is putting together and exhibiting her paintings in an LGBTQ art show scheduled for September 2023, aiming to spread understanding and acceptance within the community.",
+        "score": 0.6780149940521869,
+        "id": "a108089f-2f4f-477b-85b6-6ef86abba893",
+        "created_at": "2026-11-04T06:00:13.250961+00:00",
+        "updated_at": "2026-11-04T06:00:13.250961+00:00"
+      },
+      {
+        "memory": "Caroline has not done pottery yet but is open to trying new art forms and might try pottery sometime",
+        "score": 0.6734451164514932,
+        "id": "d3475e5d-4a37-4dac-bf2d-892a3bb6045a",
+        "created_at": "2026-11-04T06:01:56.674013+00:00",
+        "updated_at": "2026-11-04T06:01:56.674013+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who has been creating art since she was 17, finding the process empowering and cathartic for expressing feelings that are hard to put into words.",
+        "score": 0.6734418928404172,
+        "id": "9675e8e1-90e9-4a1b-80c1-d1cab3de464d",
+        "created_at": "2026-11-04T06:01:46.608754+00:00",
+        "updated_at": "2026-11-04T06:01:46.608754+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6727892169975054,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline views art as a symbol of togetherness that celebrates differences and brings people closer, and she expressed interest in creating similar works in the future.",
+        "score": 0.6709693171472708,
+        "id": "52ae85ca-6c23-49b2-b5b7-815481956acd",
+        "created_at": "2026-11-04T05:59:26.157146+00:00",
+        "updated_at": "2026-11-04T05:59:26.157146+00:00"
+      },
+      {
+        "memory": "Caroline has not tried pottery yet but is open to experimenting with new art forms in the future.",
+        "score": 0.6702531025269883,
+        "id": "c76c4ce9-da64-4e17-a780-9b3a7690aa88",
+        "created_at": "2026-11-04T06:01:52.867984+00:00",
+        "updated_at": "2026-11-04T06:01:52.867984+00:00"
+      },
+      {
+        "memory": "Caroline is inspired by seeing her art make a difference for the LGBTQ+ community and feels thankful for the support of her friends, family, and mentors, which motivates her to continue creating art.",
+        "score": 0.6699432008292288,
+        "id": "19ec5367-90ab-43da-9234-6a89159c73f0",
+        "created_at": "2026-11-04T06:01:24.077198+00:00",
+        "updated_at": "2026-11-04T06:01:24.077198+00:00"
+      }
+    ],
+    "search_latency_ms": 114.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Painting and drawing, particularly of flowers and nature",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes representational art (flowers and nature), which is a different style from the gold answer's 'abstract art', and does not contain any correct items from the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline makes paintings and drawings, often featuring flowers and nature, and she has also been experimenting with abstract art.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions that Caroline has been experimenting with abstract art, which matches the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline makes paintings and drawings, often featuring flowers and nature, and she has also been experimenting with abstract art.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions that Caroline has been experimenting with abstract art, which matches the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline makes paintings and drawings, often featuring flowers and nature, and has recently been experimenting with abstract art.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly mentions that Caroline has been experimenting with abstract art, which matches the gold answer."
     }
   }
 }

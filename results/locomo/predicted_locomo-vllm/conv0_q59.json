@@ -9,42 +9,183 @@
     "D14:19",
     "D12:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Caroline be considered religious?",
-    "search_results": [],
-    "search_latency_ms": 13.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline had an upsetting experience on a hike around August 17, 2023, when she encountered religious conservatives who said something hurtful, reinforcing her belief in the ongoing need for LGBTQ rights advocacy.",
+        "score": 0.6252557182219832,
+        "id": "4bb61b2d-bfbd-4d40-9bee-793804f49225",
+        "created_at": "2026-11-04T05:54:18.450108+00:00",
+        "updated_at": "2026-11-04T05:54:18.450108+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting to her, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.6250257510282589,
+        "id": "bad7df48-5a47-4bcf-b35b-56812ae0821c",
+        "created_at": "2026-11-04T05:54:15.035119+00:00",
+        "updated_at": "2026-11-04T05:54:15.035119+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.6229861642663652,
+        "id": "c87ff44e-77a8-44ea-8b96-29d9d9718282",
+        "created_at": "2026-11-04T05:54:36.282209+00:00",
+        "updated_at": "2026-11-04T05:54:36.282209+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.6229861642663652,
+        "id": "657ce18e-1f61-4415-b3ba-eecade6d7467",
+        "created_at": "2026-11-04T05:54:45.034827+00:00",
+        "updated_at": "2026-11-04T05:54:45.034827+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that more work is needed for LGBTQ rights.",
+        "score": 0.6204228801730209,
+        "id": "f60178b7-667e-4827-b5e5-d7ef332d251d",
+        "created_at": "2026-11-04T05:54:41.969580+00:00",
+        "updated_at": "2026-11-04T05:54:41.969580+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5391331753245806,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline owns a sentimental necklace featuring a cross and a heart, which was a gift from her grandmother in Sweden when Caroline was young; it symbolizes love, faith, and strength, serving as a reminder of her roots and family support.",
+        "score": 0.41880810402247537,
+        "id": "023edebb-8917-43b8-b0c2-20a81c53882c",
+        "created_at": "2026-11-04T05:18:14.153166+00:00",
+        "updated_at": "2026-11-04T05:18:14.153166+00:00"
+      },
+      {
+        "memory": "Caroline owns a special necklace featuring a cross and heart that was a gift from her grandmother in Sweden when Caroline was young, symbolizing love, faith, and strength as a reminder of her roots.",
+        "score": 0.41801575050273393,
+        "id": "6199fa42-fd1c-4ac4-9b2f-2a20f7587454",
+        "created_at": "2026-11-04T05:17:38.585725+00:00",
+        "updated_at": "2026-11-04T05:17:38.585725+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.4156513334537569,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.3866755608643063,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.3825730895431521,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline believes that pets bring a significant amount of joy to her life.",
+        "score": 0.37950173611030513,
+        "id": "3bf9d93d-80d3-48fe-a5a2-c3d11d0e89fa",
+        "created_at": "2026-11-04T05:22:29.179530+00:00",
+        "updated_at": "2026-11-04T05:22:29.179530+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.3789529530464292,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.37672626040534046,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.37391609144219534,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.373269150998013,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.3637383037158101,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline views music as cathartic and uplifting, believing that playing and singing allow her to express herself and connect with others.",
+        "score": 0.3466393843553013,
+        "id": "c82e232d-731c-4334-821a-5bf1385532cf",
+        "created_at": "2026-11-04T06:00:58.244753+00:00",
+        "updated_at": "2026-11-04T06:00:58.244753+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.23901212935796368,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who created a stained glass window for a local church to represent her personal journey and the importance of accepting growth and change in life.",
+        "score": 0.2354682128453191,
+        "id": "4944e30e-d778-4a70-9cf7-2a0de16856b0",
+        "created_at": "2026-11-04T05:59:26.152495+00:00",
+        "updated_at": "2026-11-04T05:59:26.152495+00:00"
+      }
+    ],
+    "search_latency_ms": 108.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Somewhat, as she wears a cross necklace that symbolizes faith and serves as a reminder of her roots, but she has had negative experiences with religious conservatives, suggesting a complex relationship with organized or conservative religion.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies Caroline as 'somewhat' religious, which aligns with the core sentiment of the gold answer, and provides additional context that does not contradict the main point."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, Caroline would likely be considered religious, as she owns a necklace with a cross symbolizing faith and created a stained glass window for a local church.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer states Caroline is 'likely be considered religious' (affirmative), whereas the gold answer specifies she is 'Somewhat, but not extremely religious' (qualified/moderate); while both acknowledge a degree of religiosity, the generated answer lacks the crucial qualifier 'not extremely' and presents a stronger affirmation, but under Rule 1 (Partial Credit) and Rule 5 (Semantic Overlap), it still captures the core concept that she has religious attributes/identity, which is a subset of the gold answer's nuanced position. However, the gold answer explicitly downplays the extent ('not extremely'), and the generated answer does not reflect this limitation, potentially misrepresenting the degree. But since the generated answer does not contradict the 'somewhat' part (it doesn't say 'extremely religious'), and it correctly identifies her as having religious markers, it aligns with the 'somewhat' aspect. The key is that 'somewhat religious' implies she is religious to some degree, which the generated answer affirms. Therefore, it contains at least one correct element (that she is religious to some degree)."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Yes, Caroline would be considered somewhat religious, as she owns a necklace with a cross that symbolizes faith and has created a stained glass window for a local church.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer correctly identifies Caroline as 'somewhat religious,' which aligns with the core sentiment of the gold answer ('Somewhat, but not extremely religious'), and the additional details provided are acceptable under the rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "somewhat",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'somewhat' captures the core degree of religiosity stated in the gold answer ('Somewhat, but not extremely religious'), satisfying the partial credit and semantic overlap rules."
     }
   }
 }

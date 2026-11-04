@@ -9,42 +9,183 @@
     "D9:2",
     "D3:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What events has Caroline participated in to help children?",
-    "search_results": [],
-    "search_latency_ms": 33.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.7811810275006285,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline felt super powerful giving her talk at the school event around June 2, 2023, where she shared her personal journey, struggles, and growth since coming out, noting that the audience related to her story and was inspired to become better allies.",
+        "score": 0.6563430939457792,
+        "id": "c64a7faf-09b0-4044-9bf2-53175329c9c4",
+        "created_at": "2026-11-04T05:16:23.157347+00:00",
+        "updated_at": "2026-11-04T05:16:23.157347+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, which she credits with helping her appreciate the support network that aids her transition.",
+        "score": 0.655931455530509,
+        "id": "4b7378d5-7e19-4bac-b856-c8e3db41682a",
+        "created_at": "2026-11-04T05:21:55.168351+00:00",
+        "updated_at": "2026-11-04T05:21:55.168351+00:00"
+      },
+      {
+        "memory": "Caroline is helping organize a talent show for kids at the youth center scheduled for September 2023, looking forward to seeing everyone have fun and feel proud of their talents.",
+        "score": 0.6520702034001677,
+        "id": "1e8670fe-47bf-458d-b93a-20c307927df3",
+        "created_at": "2026-11-04T06:00:42.171217+00:00",
+        "updated_at": "2026-11-04T06:00:42.171217+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional, reinforcing her determination to adopt children in need.",
+        "score": 0.6517311582276002,
+        "id": "91a5c49d-e3dc-4062-8af0-2933d05d3f0a",
+        "created_at": "2026-11-04T05:23:44.940082+00:00",
+        "updated_at": "2026-11-04T05:23:44.940082+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional, reinforcing her determination to adopt children in need.",
+        "score": 0.6517311582276002,
+        "id": "fcdf5327-8b90-45e2-a38a-478c167a1987",
+        "created_at": "2026-11-04T05:23:25.365466+00:00",
+        "updated_at": "2026-11-04T05:23:25.365466+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.6482393005999331,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.6433719306941688,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.6429678883772073,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, describing it as awesome and encouraging due to the love and acceptance present.",
+        "score": 0.6419084316798835,
+        "id": "8359da61-69f1-4faa-a278-16d10a94b56c",
+        "created_at": "2026-11-04T05:24:56.204570+00:00",
+        "updated_at": "2026-11-04T05:24:56.204570+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption, feeling ready to be a mom and provide a safe, loving home for children who need it, and contacted her mentor for advice on the process in October 2023.",
+        "score": 0.6404401806344313,
+        "id": "f1f420e8-1004-476e-8987-b7c059967622",
+        "created_at": "2026-11-04T06:02:32.133675+00:00",
+        "updated_at": "2026-11-04T06:02:32.133675+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.640242180478132,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline used to go horseback riding with her dad through the fields as a child, which was a special experience that instilled in her a lifelong love for horses.",
+        "score": 0.6401926943273123,
+        "id": "e3389129-f504-4729-832b-8e632058d8db",
+        "created_at": "2026-11-04T05:56:39.743781+00:00",
+        "updated_at": "2026-11-04T05:56:39.743781+00:00"
+      },
+      {
+        "memory": "Caroline is pursuing adoption and contacted her mentor for advice, expressing a strong desire to be a mom and provide a safe, loving home for children who need it.",
+        "score": 0.6380766281124491,
+        "id": "76d6badb-0737-4f30-b0ff-ba69aa5fbebc",
+        "created_at": "2026-11-04T06:02:24.070122+00:00",
+        "updated_at": "2026-11-04T06:02:24.070122+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional due to the many people wanting to create loving homes for children in need, further strengthening her determination to adopt.",
+        "score": 0.6374533935305332,
+        "id": "3c2b1def-40bd-4910-be29-688548039352",
+        "created_at": "2026-11-04T05:23:48.356613+00:00",
+        "updated_at": "2026-11-04T05:23:48.356613+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.6365352441731333,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline is actively looking into counseling and mental health job opportunities, motivated by her own past struggles with mental health and the helpful support she received, which inspired her to help others on their journeys.",
+        "score": 0.6365172981461726,
+        "id": "af342220-e053-454e-8579-f16f4015bf72",
+        "created_at": "2026-11-04T05:22:21.038634+00:00",
+        "updated_at": "2026-11-04T05:22:21.038634+00:00"
+      },
+      {
+        "memory": "Caroline attended a council meeting for adoption on July 14, 2023, which she found inspiring and emotional due to the presence of many people wanting to create loving homes for children in need, further strengthening her determination to adopt.",
+        "score": 0.6363484144249004,
+        "id": "f29019dd-87dd-4f68-a3d1-4052bd3dd91c",
+        "created_at": "2026-11-04T05:23:22.678623+00:00",
+        "updated_at": "2026-11-04T05:23:22.678623+00:00"
+      },
+      {
+        "memory": "Caroline views adoption as a way to give back and show love and acceptance, aiming to create a safe and loving home where children can experience these values.",
+        "score": 0.6353377353277484,
+        "id": "30e36e98-2292-45e6-a6d1-d9eba650a546",
+        "created_at": "2026-11-04T06:04:27.152384+00:00",
+        "updated_at": "2026-11-04T06:04:27.152384+00:00"
+      },
+      {
+        "memory": "Caroline struggled with mental health in the past and found that the support she received was highly helpful, which motivated her to pursue a career in counseling and mental health to help others on their own journeys.",
+        "score": 0.6335297926130271,
+        "id": "f7358440-b78e-4cda-9e09-d841bcfc7481",
+        "created_at": "2026-11-04T05:22:37.037867+00:00",
+        "updated_at": "2026-11-04T05:22:37.037867+00:00"
+      }
+    ],
+    "search_latency_ms": 102.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has participated in speaking at a school event to encourage students, attending a council meeting for adoption, attending an LGBT pride event with the teen she mentors, and helping organize a talent show for kids at the youth center.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'speaking at a school event' which matches the gold answer's 'school speech', and 'the teen she mentors' which confirms participation in a mentoring program, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline participated in a school event where she spoke to students about her transgender journey and encouraged them to become better allies, attended a council meeting for adoption to support creating loving homes for children in need, and is helping organize a talent show for kids at the youth center.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'spoke to students' which is a paraphrase of the gold answer's 'school speech', satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline participated in speaking at a school event in June 2023 to encourage students, attending a council meeting for adoption in July 2023 to further her goal of adopting children, and helping organize a talent show for kids at the youth center in September 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'speaking at a school event', which is a paraphrase of the gold answer's 'school speech', satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline participated in speaking at a school event to encourage students to become better allies, attending a council meeting for adoption to pursue adopting children in need, and helping organize a talent show for kids at the youth center.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'speaking at a school event', which is a paraphrase of the gold answer's 'school speech', satisfying the partial credit rule."
     }
   }
 }

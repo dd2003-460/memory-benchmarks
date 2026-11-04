@@ -8,42 +8,183 @@
   "evidence": [
     "D4:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie go camping in June?",
-    "search_results": [],
-    "search_latency_ms": 38.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.7920391051793567,
+        "id": "9c5311e3-1a9d-46a3-8693-eae99263a9d9",
+        "created_at": "2026-11-04T06:01:32.075450+00:00",
+        "updated_at": "2026-11-04T06:01:32.075450+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.7920391051793567,
+        "id": "0b4ccf54-67a3-4e2b-85b3-af3a2e4e373f",
+        "created_at": "2026-11-04T06:01:24.092086+00:00",
+        "updated_at": "2026-11-04T06:01:24.092086+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.7786153509671367,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 19-25, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.7691818340948957,
+        "id": "53212d5a-b4e5-409a-bba5-a1491e57becd",
+        "created_at": "2026-11-04T05:18:35.280909+00:00",
+        "updated_at": "2026-11-04T05:18:35.280909+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.7664475802447392,
+        "id": "d29f48d5-585b-4684-b9a2-493241214dcf",
+        "created_at": "2026-11-04T05:18:07.247890+00:00",
+        "updated_at": "2026-11-04T05:18:07.247890+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.7664475802447392,
+        "id": "cc563d39-99cb-4b40-bf96-08c3f1ca6b96",
+        "created_at": "2026-11-04T05:18:01.027417+00:00",
+        "updated_at": "2026-11-04T05:18:01.027417+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.7562434763526313,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, and described it as a really nice time together.",
+        "score": 0.7545618812135546,
+        "id": "80bac729-137b-452f-af2d-a96350fd0070",
+        "created_at": "2026-11-04T05:17:52.569948+00:00",
+        "updated_at": "2026-11-04T05:17:52.569948+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, describing it as a really nice time together.",
+        "score": 0.7541690006592248,
+        "id": "be9c671d-e23a-40c9-9779-acc3b58d8a7d",
+        "created_at": "2026-11-04T05:17:48.252806+00:00",
+        "updated_at": "2026-11-04T05:17:48.252806+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.7526660495996869,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.7429559081579835,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family around July 3-4, 2023 (two weekends before July 17, 2023) and enjoyed unplugging and spending time with her kids.",
+        "score": 0.7414037326419057,
+        "id": "ece910a0-676d-4500-a06f-0f78ad214d43",
+        "created_at": "2026-11-04T05:24:43.459029+00:00",
+        "updated_at": "2026-11-04T05:24:43.459029+00:00"
+      },
+      {
+        "memory": "During her family camping trip in the mountains around June 20, 2023, Melanie explored nature, roasted marshmallows around a campfire, went on a hike with an amazing view from the top, and noted that her two younger kids love nature.",
+        "score": 0.7393777947152076,
+        "id": "4e5b801b-5289-4fd1-88bf-6fb41449ddc7",
+        "created_at": "2026-11-04T05:17:55.700693+00:00",
+        "updated_at": "2026-11-04T05:17:55.700693+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family two weekends before July 17, 2023 (around early July 2023), and described it as a great opportunity to unplug and spend time with her kids.",
+        "score": 0.7336914649982044,
+        "id": "a49bdc0a-6868-4607-8101-dd4992af48fc",
+        "created_at": "2026-11-04T05:24:35.452428+00:00",
+        "updated_at": "2026-11-04T05:24:35.452428+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family two weekends before July 17, 2023 (around early July 2023), and found it great to unplug and hang out with her kids.",
+        "score": 0.7328812492640238,
+        "id": "7d3ff3cf-41f4-47a6-a9c3-1ad493245d48",
+        "created_at": "2026-11-04T05:24:56.194673+00:00",
+        "updated_at": "2026-11-04T05:24:56.194673+00:00"
+      },
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.7271687272912981,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip in the forest two weeks before July 17, 2023, where she unplugged and spent time with her kids",
+        "score": 0.7205057266123703,
+        "id": "1b45ab31-25c7-49fe-8299-dcd1009e1f02",
+        "created_at": "2026-11-04T05:24:37.879863+00:00",
+        "updated_at": "2026-11-04T05:24:37.879863+00:00"
+      },
+      {
+        "memory": "Melanie stated on June 9, 2023, that she is lucky to have her husband and kids who keep her motivated, and shared a photo of them hiking in nature near a waterfall.",
+        "score": 0.6988307345978649,
+        "id": "0d694607-70af-45fb-8f35-49e9a3c7b711",
+        "created_at": "2026-11-04T05:16:49.697509+00:00",
+        "updated_at": "2026-11-04T05:16:49.697509+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her family camping at the beach around July 6, 2023, noting that they love the activity because it brings them closer together.",
+        "score": 0.695867876934628,
+        "id": "9191ef38-f7c4-4afb-9750-55e9f5a82b7f",
+        "created_at": "2026-11-04T05:21:57.407212+00:00",
+        "updated_at": "2026-11-04T05:21:57.407212+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.6658588651692103,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      }
+    ],
+    "search_latency_ms": 106.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 19-25, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'around June 19-25, 2023' falls within the 14-day tolerance window of the gold answer 'the week before 27 June 2023' (which is June 20-26, 2023)."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 20, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 27, 2023 (June 20-26), and the generated answer 'around June 20, 2023' falls within this timeframe and is consistent with the date tolerance rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 20, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 27, 2023 (June 20-26), and the generated answer 'around June 20, 2023' falls within this timeframe and is consistent with the date tolerance rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around June 20, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 27, 2023 (June 20-26), and the generated answer 'around June 20, 2023' falls within this timeframe and is consistent with the date tolerance rules."
     }
   }
 }

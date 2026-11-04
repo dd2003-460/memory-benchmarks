@@ -8,42 +8,183 @@
   "evidence": [
     "D1:12"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie paint a sunrise?",
-    "search_results": [],
-    "search_latency_ms": 13.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie painted the lake sunrise artwork herself last year (2022) and considers it special to her, as she revealed to Caroline on May 8, 2023",
+        "score": 0.6794727368424686,
+        "id": "9a31c0c9-d438-4a98-8c10-bd13a7d5e254",
+        "created_at": "2026-11-04T05:15:10.734408+00:00",
+        "updated_at": "2026-11-04T05:15:10.734408+00:00"
+      },
+      {
+        "memory": "Melanie created a landscape painting inspired by sunsets around October 6-12, 2023, featuring vibrant purple and pink colors that make her feel calm.",
+        "score": 0.6699737447348022,
+        "id": "bd94dc15-95ff-44ed-a779-e29de8d7eeb9",
+        "created_at": "2026-11-04T06:02:35.266631+00:00",
+        "updated_at": "2026-11-04T06:02:35.266631+00:00"
+      },
+      {
+        "memory": "Melanie and her kids enjoy painting together, particularly nature-inspired pieces, and created a new painting of a sunset with a palm tree on the weekend of July 8-9, 2023.",
+        "score": 0.6693012269150661,
+        "id": "452741cc-f1a6-4688-b224-a74b0e809fd9",
+        "created_at": "2026-11-04T05:23:15.850712+00:00",
+        "updated_at": "2026-11-04T05:23:15.850712+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6680409098060816,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape featuring a vibrant purple sunset with a pink sky last week, inspired by sunsets because the colors make her feel calm.",
+        "score": 0.6675175122301948,
+        "id": "5557378e-9f96-4144-b95f-69e1d93fc195",
+        "created_at": "2026-11-04T06:03:04.556401+00:00",
+        "updated_at": "2026-11-04T06:03:04.556401+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting nature-inspired artwork with her children, including a recent piece from July 8-9, 2023 featuring a sunset with a palm tree.",
+        "score": 0.6578668630049488,
+        "id": "2cf8bc8f-139b-416a-9875-e1097288fd3d",
+        "created_at": "2026-11-04T05:23:30.968905+00:00",
+        "updated_at": "2026-11-04T05:23:30.968905+00:00"
+      },
+      {
+        "memory": "Melanie shared a recent painting of a sunflower on canvas with Caroline on August 25, 2023, as an example of her landscape and still life work.",
+        "score": 0.6572344013185826,
+        "id": "837a65b1-cb3c-4a88-b265-08b4f984f46f",
+        "created_at": "2026-11-04T05:59:32.747982+00:00",
+        "updated_at": "2026-11-04T05:59:32.747982+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape featuring a vibrant purple sunset with a pink sky around October 6, 2023, inspired by sunsets because the colors make her feel calm.",
+        "score": 0.65511389236548,
+        "id": "204e7638-1ffa-4983-bea0-bb560d3bbf47",
+        "created_at": "2026-11-04T06:02:43.912344+00:00",
+        "updated_at": "2026-11-04T06:02:43.912344+00:00"
+      },
+      {
+        "memory": "Melanie and her kids collaborated on a nature-inspired painting of a sunset with a palm tree, which they described as a bonding experience where they chatted about nature while working together.",
+        "score": 0.6544723786601774,
+        "id": "bc11380b-afc4-46f2-8f4f-1576c4936cdd",
+        "created_at": "2026-11-04T05:23:20.330485+00:00",
+        "updated_at": "2026-11-04T05:23:20.330485+00:00"
+      },
+      {
+        "memory": "Melanie's favorite type of art is painting landscapes and still life, and she shared a recent painting of a sunflower on canvas.",
+        "score": 0.6542345785710122,
+        "id": "d0a4f15a-e98b-45e6-9790-877036d724b7",
+        "created_at": "2026-11-04T06:00:01.342572+00:00",
+        "updated_at": "2026-11-04T06:00:01.342572+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns, which inspired her to create eye-catching art that makes people smile, and she views painting as a way to express feelings and be creative",
+        "score": 0.6502630351378139,
+        "id": "bcd6fa8b-abb2-4bd4-bd1b-470bf84d8cf2",
+        "created_at": "2026-11-04T05:54:55.724364+00:00",
+        "updated_at": "2026-11-04T05:54:55.724364+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.649702464102758,
+        "id": "0e579ad8-5fcb-4857-98fa-6826d5dac893",
+        "created_at": "2026-11-04T05:54:45.045277+00:00",
+        "updated_at": "2026-11-04T05:54:45.045277+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.649702464102758,
+        "id": "12e9fad7-91f3-4b99-aecf-6649b010d37d",
+        "created_at": "2026-11-04T05:54:36.292947+00:00",
+        "updated_at": "2026-11-04T05:54:36.292947+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape of a vibrant purple sunset with a pink sky around October 6, 2023, finding the colors calming and inspired by sunsets.",
+        "score": 0.6472015756663269,
+        "id": "b7d63496-fc9c-4939-af23-f9d204e0addf",
+        "created_at": "2026-11-04T06:02:58.543466+00:00",
+        "updated_at": "2026-11-04T06:02:58.543466+00:00"
+      },
+      {
+        "memory": "Melanie, Caroline's friend, loves painting landscapes and still life, recently creating a painting of sunflowers and planning new works inspired by autumn.",
+        "score": 0.6446527415290055,
+        "id": "7cb207db-e98c-44c5-930c-46ef873bd632",
+        "created_at": "2026-11-04T05:59:49.977802+00:00",
+        "updated_at": "2026-11-04T05:59:49.977802+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape of a vibrant purple sunset with a pink sky around October 6, 2023, finding the colors calming.",
+        "score": 0.6431816076681975,
+        "id": "5ed81fb7-8947-4ad6-a896-d429c11fd247",
+        "created_at": "2026-11-04T06:02:51.856562+00:00",
+        "updated_at": "2026-11-04T06:02:51.856562+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a painting depicting a sunset over a lake with Caroline on May 8, 2023",
+        "score": 0.6430381809876276,
+        "id": "208740bd-0a3b-43ed-b0dd-dfa4242a1996",
+        "created_at": "2026-11-04T05:14:39.081427+00:00",
+        "updated_at": "2026-11-04T05:14:39.081427+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape of a vibrant purple sunset with a pink sky around October 6, 2023, inspired by sunsets which make her feel calm",
+        "score": 0.6397199550816377,
+        "id": "1dc7a26f-660b-41cd-8bca-150efae79b08",
+        "created_at": "2026-11-04T06:02:55.385414+00:00",
+        "updated_at": "2026-11-04T06:02:55.385414+00:00"
+      },
+      {
+        "memory": "Melanie shared an abstract painting with vibrant colors and a blue background that she created around October 13, 2023, noting how art allows them to express emotions.",
+        "score": 0.6379608415313632,
+        "id": "2ca289ee-b0ef-4591-a249-d4a020d18f30",
+        "created_at": "2026-11-04T06:02:43.917702+00:00",
+        "updated_at": "2026-11-04T06:02:43.917702+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about using vibrant colors and patterns in her art to catch the eye and make people smile, viewing painting as a way to express feelings and be creative where each stroke carries a part of her.",
+        "score": 0.6336471536055656,
+        "id": "3adbf726-d00c-4027-8da7-1440ac3bff33",
+        "created_at": "2026-11-04T05:54:48.865483+00:00",
+        "updated_at": "2026-11-04T05:54:48.865483+00:00"
+      }
+    ],
+    "search_latency_ms": 98.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie painting a sunrise.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides a specific year (2022), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie painting a sunrise.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides a specific year (2022), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie painting a sunrise.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides a specific year (2022), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie painting a sunrise.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides a specific year (2022), meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

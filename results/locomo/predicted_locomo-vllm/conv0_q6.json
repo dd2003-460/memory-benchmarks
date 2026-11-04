@@ -8,42 +8,183 @@
   "evidence": [
     "D2:7"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When is Melanie planning on going camping?",
-    "search_results": [],
-    "search_latency_ms": 25.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went camping with her family two weekends before July 17, 2023 (around early July 2023), and described it as a great opportunity to unplug and spend time with her kids.",
+        "score": 0.723308505593005,
+        "id": "a49bdc0a-6868-4607-8101-dd4992af48fc",
+        "created_at": "2026-11-04T05:24:35.452428+00:00",
+        "updated_at": "2026-11-04T05:24:35.452428+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family around July 3-4, 2023 (two weekends before July 17, 2023) and enjoyed unplugging and spending time with her kids.",
+        "score": 0.722554876326125,
+        "id": "ece910a0-676d-4500-a06f-0f78ad214d43",
+        "created_at": "2026-11-04T05:24:43.459029+00:00",
+        "updated_at": "2026-11-04T05:24:43.459029+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her family two weekends before July 17, 2023 (around early July 2023), and found it great to unplug and hang out with her kids.",
+        "score": 0.7214218293326204,
+        "id": "7d3ff3cf-41f4-47a6-a9c3-1ad493245d48",
+        "created_at": "2026-11-04T05:24:56.194673+00:00",
+        "updated_at": "2026-11-04T05:24:56.194673+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.7067802323219721,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip in the forest two weeks before July 17, 2023, where she unplugged and spent time with her kids",
+        "score": 0.7000689027169936,
+        "id": "1b45ab31-25c7-49fe-8299-dcd1009e1f02",
+        "created_at": "2026-11-04T05:24:37.879863+00:00",
+        "updated_at": "2026-11-04T05:24:37.879863+00:00"
+      },
+      {
+        "memory": "Melanie went on a camping trip with her family in the forest around July 3, 2023 (two weeks before July 17, 2023), where they roasted marshmallows by the campfire and spent quality time unplugged with her kids.",
+        "score": 0.694452450652498,
+        "id": "b07143a4-186c-4732-b654-b477e9ba7241",
+        "created_at": "2026-11-04T05:24:40.723477+00:00",
+        "updated_at": "2026-11-04T05:24:40.723477+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.6930101684235651,
+        "id": "0b4ccf54-67a3-4e2b-85b3-af3a2e4e373f",
+        "created_at": "2026-11-04T06:01:24.092086+00:00",
+        "updated_at": "2026-11-04T06:01:24.092086+00:00"
+      },
+      {
+        "memory": "Melanie went camping with her kids a few weeks before September 13, 2023, where they explored the forest, hiked, roasted marshmallows, and shared stories around the campfire.",
+        "score": 0.6930101684235651,
+        "id": "9c5311e3-1a9d-46a3-8693-eae99263a9d9",
+        "created_at": "2026-11-04T06:01:32.075450+00:00",
+        "updated_at": "2026-11-04T06:01:32.075450+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, describing it as a really nice time together.",
+        "score": 0.6897955059636952,
+        "id": "be9c671d-e23a-40c9-9779-acc3b58d8a7d",
+        "created_at": "2026-11-04T05:17:48.252806+00:00",
+        "updated_at": "2026-11-04T05:17:48.252806+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, and described it as a really nice time together.",
+        "score": 0.6853596383089743,
+        "id": "80bac729-137b-452f-af2d-a96350fd0070",
+        "created_at": "2026-11-04T05:17:52.569948+00:00",
+        "updated_at": "2026-11-04T05:17:52.569948+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her family camping at the beach around July 6, 2023, noting that they love the activity because it brings them closer together.",
+        "score": 0.6844108671116419,
+        "id": "9191ef38-f7c4-4afb-9750-55e9f5a82b7f",
+        "created_at": "2026-11-04T05:21:57.407212+00:00",
+        "updated_at": "2026-11-04T05:21:57.407212+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 19-25, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6839493705537779,
+        "id": "53212d5a-b4e5-409a-bba5-a1491e57becd",
+        "created_at": "2026-11-04T05:18:35.280909+00:00",
+        "updated_at": "2026-11-04T05:18:35.280909+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6814943657527172,
+        "id": "d29f48d5-585b-4684-b9a2-493241214dcf",
+        "created_at": "2026-11-04T05:18:07.247890+00:00",
+        "updated_at": "2026-11-04T05:18:07.247890+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with an amazing view from the top.",
+        "score": 0.6814943657527172,
+        "id": "cc563d39-99cb-4b40-bf96-08c3f1ca6b96",
+        "created_at": "2026-11-04T05:18:01.027417+00:00",
+        "updated_at": "2026-11-04T05:18:01.027417+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.6747548274093926,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.6737255905944275,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.6726580825424009,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.668833671027657,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.6688284872447027,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6683921664467042,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      }
+    ],
+    "search_latency_ms": 102.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to answer this question.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "June 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to answer this question.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), so it contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "June 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to answer this question.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), so it contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "June 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "There are no relevant memories provided to answer this question.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no relevant information, whereas the gold answer provides a specific date (June 2023), meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "June 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

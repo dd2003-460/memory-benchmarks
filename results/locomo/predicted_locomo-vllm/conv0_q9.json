@@ -8,42 +8,183 @@
   "evidence": [
     "D3:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline meet up with her friends, family, and mentors?",
-    "search_results": [],
-    "search_latency_ms": 30.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.8056802007841259,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.6868693459664691,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline moved from her home country approximately 4 years before June 9, 2023, and has known her current group of friends since that move; their support was especially important to her after a tough breakup.",
+        "score": 0.6810755346423963,
+        "id": "2f091231-881d-4a99-94fc-17cb81f1495d",
+        "created_at": "2026-11-04T05:16:59.923269+00:00",
+        "updated_at": "2026-11-04T05:16:59.923269+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, which she credits with helping her appreciate the support network that aids her transition.",
+        "score": 0.6801351623416326,
+        "id": "4b7378d5-7e19-4bac-b856-c8e3db41682a",
+        "created_at": "2026-11-04T05:21:55.168351+00:00",
+        "updated_at": "2026-11-04T05:21:55.168351+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Caroline contacted her mentor for adoption advice, expressing readiness to become a mother and share her love and family.",
+        "score": 0.6793889861918051,
+        "id": "d43ff30e-22e9-4b51-a9ea-d323afe31b46",
+        "created_at": "2026-11-04T06:02:09.175425+00:00",
+        "updated_at": "2026-11-04T06:02:09.175425+00:00"
+      },
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.6787476704424782,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family the week of June 26, 2023, and expressed gratitude for their support during her transition, noting that they make all the difference.",
+        "score": 0.6759189534240508,
+        "id": "e454b2da-d751-4ea7-8ed7-41b4845116f2",
+        "created_at": "2026-11-04T05:21:49.348113+00:00",
+        "updated_at": "2026-11-04T05:21:49.348113+00:00"
+      },
+      {
+        "memory": "Caroline has known her close friends for four years, since moving from her home country around June 2019, and credits their support for helping her through a tough breakup.",
+        "score": 0.6722042079794845,
+        "id": "8ff376f8-3c34-4e46-8366-611fbee245e4",
+        "created_at": "2026-11-04T05:16:46.760429+00:00",
+        "updated_at": "2026-11-04T05:16:46.760429+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice on October 13, 2023, expressing readiness to become a mom and share her love and family.",
+        "score": 0.6717147184829184,
+        "id": "8c3c22ad-820e-42ab-838a-eea5b593d9f5",
+        "created_at": "2026-11-04T06:02:06.124501+00:00",
+        "updated_at": "2026-11-04T06:02:06.124501+00:00"
+      },
+      {
+        "memory": "Caroline's relationships have shifted due to her transition; while some close friends remained supportive, others were unable to handle it, leaving her happier and more genuine in her current connections.",
+        "score": 0.6674719968846134,
+        "id": "1efdaf7e-5410-47bb-9f2e-031179630c14",
+        "created_at": "2026-11-04T06:01:52.874168+00:00",
+        "updated_at": "2026-11-04T06:01:52.874168+00:00"
+      },
+      {
+        "memory": "Caroline stated on June 9, 2023, that her friends, family, and mentors are her 'rocks' who motivate her and give her the strength to push on.",
+        "score": 0.66670538476461,
+        "id": "72109b21-7872-4b57-a176-e916e80f8c07",
+        "created_at": "2026-11-04T05:16:41.987606+00:00",
+        "updated_at": "2026-11-04T05:16:41.987606+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, who are supporting her through her transition, and she feels lucky to have their help.",
+        "score": 0.6660931256378281,
+        "id": "57b0b814-ae03-44d2-8913-2c7ad6b6b234",
+        "created_at": "2026-11-04T05:21:46.433185+00:00",
+        "updated_at": "2026-11-04T05:21:46.433185+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.663004777748636,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors other transgender teens, focusing on building confidence and finding positive strategies.",
+        "score": 0.6625523890738029,
+        "id": "7faafc18-5eb1-4db5-b73f-19e9655f2d58",
+        "created_at": "2026-11-04T05:25:06.651328+00:00",
+        "updated_at": "2026-11-04T05:25:06.651328+00:00"
+      },
+      {
+        "memory": "Caroline found self-acceptance to be a long process but credits friends, family, and role models for helping her through tough times and discovering her true identity, which motivates her to pass that same support to others.",
+        "score": 0.6614688552003647,
+        "id": "d498e604-9698-4818-9173-f0c14c0e2bfd",
+        "created_at": "2026-11-04T06:04:44.974576+00:00",
+        "updated_at": "2026-11-04T06:04:44.974576+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.6610167286072811,
+        "id": "3665c2a3-4e83-417c-ad19-06c12425e7a7",
+        "created_at": "2026-11-04T05:51:41.956365+00:00",
+        "updated_at": "2026-11-04T05:51:41.956365+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.6610167286072811,
+        "id": "bd0ab8cd-bd9f-49d9-ba4e-bd14c8717e94",
+        "created_at": "2026-11-04T05:51:37.151794+00:00",
+        "updated_at": "2026-11-04T05:51:37.151794+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.6610167286072811,
+        "id": "4b44eff5-3559-4775-a7ad-b8cadaafabb9",
+        "created_at": "2026-11-04T05:24:56.201014+00:00",
+        "updated_at": "2026-11-04T05:24:56.201014+00:00"
+      },
+      {
+        "memory": "Caroline contacted her mentor for adoption advice around October 13, 2023, expressing readiness to adopt and provide a safe, loving home for children who need it.",
+        "score": 0.6604963619650047,
+        "id": "b4bc5223-1ed6-4592-8c67-d6c49ed26c62",
+        "created_at": "2026-11-04T06:02:18.577808+00:00",
+        "updated_at": "2026-11-04T06:02:18.577808+00:00"
+      },
+      {
+        "memory": "Caroline described finding self-acceptance as a long process that was supported by friends, family, and role models, which helped her discover her true identity during her transition.",
+        "score": 0.6600844371899851,
+        "id": "2e74a7c4-60b9-48b8-bff9-32a1755e40b1",
+        "created_at": "2026-11-04T06:04:38.587536+00:00",
+        "updated_at": "2026-11-04T06:04:38.587536+00:00"
+      }
+    ],
+    "search_latency_ms": 101.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline meeting up with her friends, family, and mentors.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information, whereas the gold answer provides a specific date, so it contains zero correct items."
+      "generated_answer": "the week of June 26, 2023 (around June 29, 2023)",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies the week of June 26, 2023, which is approximately three weeks after the gold answer's date of the week before June 9, 2023, exceeding the 14-day tolerance."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline meeting up with her friends, family, and mentors.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information, whereas the gold answer provides a specific date, so it contains zero correct items."
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 9, 2023, while the generated answer states around June 29, 2023, which is approximately three weeks later and falls outside the 14-day tolerance window."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline meeting up with her friends, family, and mentors.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information, whereas the gold answer provides a specific date, so it contains zero correct items."
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 9, 2023, while the generated answer states around June 29, 2023, which is approximately three weeks later and falls outside the 14-day tolerance window."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline meeting up with her friends, family, and mentors.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information, whereas the gold answer provides a specific date, so it contains zero correct items."
+      "generated_answer": "around June 29, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before June 9, 2023, while the generated answer states around June 29, 2023, which is approximately three weeks later and falls outside the 14-day tolerance window."
     }
   }
 }

@@ -11,42 +11,183 @@
     "D1:12",
     "D1:18"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What activities does Melanie partake in?",
-    "search_results": [],
-    "search_latency_ms": 23.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.6431263262114494,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6414086102000064,
+        "id": "e2c527e0-e2de-43b0-a02d-668a96cd4b2e",
+        "created_at": "2026-11-04T06:03:55.351987+00:00",
+        "updated_at": "2026-11-04T06:03:55.351987+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.6414086102000064,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      },
+      {
+        "memory": "Melanie suffered an injury in September 2023 that forced her to take a break from pottery, an activity she relies on for self-expression and peace.",
+        "score": 0.6355517282353204,
+        "id": "b50182b5-cf44-44a4-a443-aaa26014617d",
+        "created_at": "2026-11-04T06:02:24.082912+00:00",
+        "updated_at": "2026-11-04T06:02:24.082912+00:00"
+      },
+      {
+        "memory": "Melanie suffered an injury in September 2023 that forced her to take a break from pottery, an activity she uses for self-expression and peace.",
+        "score": 0.6316837036152108,
+        "id": "10bccace-ddb3-4722-acda-278afc3fe036",
+        "created_at": "2026-11-04T06:02:29.200407+00:00",
+        "updated_at": "2026-11-04T06:02:29.200407+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.6266307210835973,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her family camping at the beach around a campfire, noting that they love the activity because it brings them closer together.",
+        "score": 0.6258088799671845,
+        "id": "6daa4393-adda-49c6-814f-d47692c43283",
+        "created_at": "2026-11-04T05:22:11.279520+00:00",
+        "updated_at": "2026-11-04T05:22:11.279520+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.5417069589865674,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's family has an annual summer camping trip tradition where they roast marshmallows, tell stories around the campfire, and enjoy each other's company, which Melanie considers the highlight of her summer.",
+        "score": 0.5386811702903989,
+        "id": "40d2012b-df66-4f4c-84dc-93a3459721aa",
+        "created_at": "2026-11-04T05:53:09.137576+00:00",
+        "updated_at": "2026-11-04T05:53:09.137576+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5343394310554502,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.5323549651692994,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5241363127270472,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.5195223076010687,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and views it as an expression of herself and a way to relax.",
+        "score": 0.5067141777212522,
+        "id": "6b8f43fa-2585-4f95-9a9a-5091bb34a7dd",
+        "created_at": "2026-11-04T06:01:32.080520+00:00",
+        "updated_at": "2026-11-04T06:01:32.080520+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and finds it a great way to express herself and relax.",
+        "score": 0.5056858396090761,
+        "id": "78e02b1c-74d3-494e-8105-76dc0593046c",
+        "created_at": "2026-11-04T06:01:06.987358+00:00",
+        "updated_at": "2026-11-04T06:01:06.987358+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.5042818416878261,
+        "id": "ef203662-42e9-47ba-a3d1-870233c08650",
+        "created_at": "2026-11-04T06:01:16.474494+00:00",
+        "updated_at": "2026-11-04T06:01:16.474494+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.5042818416878261,
+        "id": "4681353b-8104-4aeb-8191-e756fd6eb7b1",
+        "created_at": "2026-11-04T06:01:24.081119+00:00",
+        "updated_at": "2026-11-04T06:01:24.081119+00:00"
+      },
+      {
+        "memory": "Melanie has a dog and a cat, which she says brighten up their day and always make them smile.",
+        "score": 0.48872948989273296,
+        "id": "3c5fd5c6-7658-43cf-8e1d-d83e015ce26b",
+        "created_at": "2026-11-04T05:22:37.051166+00:00",
+        "updated_at": "2026-11-04T05:22:37.051166+00:00"
+      },
+      {
+        "memory": "Melanie, a friend of Caroline, mentioned on May 8, 2023 that she is busy with her kids and work",
+        "score": 0.488639239649064,
+        "id": "b81a8086-3aad-4cb1-8219-c198b91995f9",
+        "created_at": "2026-11-04T05:14:18.640122+00:00",
+        "updated_at": "2026-11-04T05:14:18.640122+00:00"
+      },
+      {
+        "memory": "Melanie's family has been supportive during her move, helping out and showing love and support through tough times.",
+        "score": 0.4858110979373332,
+        "id": "930ecc95-4e59-469f-865b-b1513ae34237",
+        "created_at": "2026-11-04T05:24:18.761536+00:00",
+        "updated_at": "2026-11-04T05:24:18.761536+00:00"
+      }
+    ],
+    "search_latency_ms": 131.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Camping, hiking, pottery, roasting marshmallows, and exploring nature/playing outdoors",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'camping' and 'pottery', which are two of the four items listed in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie partakes in camping, hiking, pottery, playing the clarinet, going on road trips, and visiting parks to explore and play outdoors.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'camping' and 'pottery', which are two of the four items listed in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Pottery, playing the clarinet, camping, hiking, road trips, work, and caring for her children and pets",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'pottery' and 'camping', which are two of the four items in the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie partakes in pottery, playing the clarinet, camping, hiking, exploring nature, visiting parks, playing outdoors, road trips, work, and caring for her children and pets.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'pottery' and 'camping', which are two of the four items in the gold answer, satisfying the partial credit rule."
     }
   }
 }

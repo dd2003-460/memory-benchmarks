@@ -8,42 +8,183 @@
   "evidence": [
     "D2:8"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What did Caroline research?",
-    "search_results": [],
-    "search_latency_ms": 109.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is researching adoption agencies because having a family and providing a loving home to children in need has been a dream of hers, as she mentioned to Melanie on May 25, 2023.",
+        "score": 0.6365305715318352,
+        "id": "e7fab20d-f39e-4e7a-9577-413c4bb5d006",
+        "created_at": "2026-11-04T05:15:43.918342+00:00",
+        "updated_at": "2026-11-04T05:15:43.918342+00:00"
+      },
+      {
+        "memory": "Caroline chose a specific adoption agency because it supports LGBTQ+ individuals with adoption, noting that its inclusivity and support resonated with her during her research on May 25, 2023.",
+        "score": 0.6217561287721465,
+        "id": "05be76d1-a95b-497f-95aa-47624fc4aba8",
+        "created_at": "2026-11-04T05:15:54.051684+00:00",
+        "updated_at": "2026-11-04T05:15:54.051684+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.5693707592954921,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.46900374961213104,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.40594711931371535,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the application process.",
+        "score": 0.40394656990151184,
+        "id": "4f83cd76-af98-4ebb-8eac-fffb6777b31c",
+        "created_at": "2026-11-04T05:55:39.032693+00:00",
+        "updated_at": "2026-11-04T05:55:39.032693+00:00"
+      },
+      {
+        "memory": "Caroline stated on June 9, 2023, that her friends, family, and mentors are her 'rocks' who motivate her and give her the strength to push on.",
+        "score": 0.40196613921769686,
+        "id": "72109b21-7872-4b57-a176-e916e80f8c07",
+        "created_at": "2026-11-04T05:16:41.987606+00:00",
+        "updated_at": "2026-11-04T05:16:41.987606+00:00"
+      },
+      {
+        "memory": "Caroline received assistance from an adoption advice and support group that she attended, which helped her with the decision to apply for adoption.",
+        "score": 0.3959096314197324,
+        "id": "6ed84bfe-0e9f-4cca-b64e-ea8386e11d40",
+        "created_at": "2026-11-04T05:55:31.484018+00:00",
+        "updated_at": "2026-11-04T05:55:31.484018+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.39567335774735507,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.39476242623545427,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.3918503968104651,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.38106475205560597,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at a youth center, where she guides and supports young people by sharing her personal story to help them feel less alone, finding the experience powerful and emotionally fulfilling.",
+        "score": 0.3780477725409931,
+        "id": "3923c16e-a59b-4e3c-ae3e-1a9cc987c498",
+        "created_at": "2026-11-04T06:00:42.161750+00:00",
+        "updated_at": "2026-11-04T06:00:42.161750+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen, working with them on building confidence and finding positive strategies, which has been paying off.",
+        "score": 0.36665888634868765,
+        "id": "52d942f9-220f-4159-af42-1c168231bc5c",
+        "created_at": "2026-11-04T05:24:53.319953+00:00",
+        "updated_at": "2026-11-04T05:24:53.319953+00:00"
+      },
+      {
+        "memory": "Caroline mentors a transgender teen, working with them on building confidence and finding positive strategies, which has been paying off.",
+        "score": 0.36665888634868765,
+        "id": "3c40ff00-2781-4ec5-9373-8a9cff69d46f",
+        "created_at": "2026-11-04T05:24:50.441451+00:00",
+        "updated_at": "2026-11-04T05:24:50.441451+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.2526727650992139,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while finding the process tough but rewarding.",
+        "score": 0.2526043952782798,
+        "id": "26a1748f-14d0-42f3-8b85-9937a05a0f79",
+        "created_at": "2026-11-04T05:21:46.415978+00:00",
+        "updated_at": "2026-11-04T05:21:46.415978+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.24892024701879284,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline is exploring careers in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the difficulty but finding it rewarding.",
+        "score": 0.24708742372260345,
+        "id": "a142365a-ecc3-411a-b06d-d6a20b5ac778",
+        "created_at": "2026-11-04T05:21:33.029424+00:00",
+        "updated_at": "2026-11-04T05:21:33.029424+00:00"
+      },
+      {
+        "memory": "Caroline is exploring a career in counseling or mental health work, driven by a passion for helping people and making a positive impact, while acknowledging the field is tough but rewarding.",
+        "score": 0.24617354991442034,
+        "id": "62c89cb0-bb06-4e16-b95b-b7d15eaa4c0c",
+        "created_at": "2026-11-04T05:21:25.442934+00:00",
+        "updated_at": "2026-11-04T05:21:25.442934+00:00"
+      }
+    ],
+    "search_latency_ms": 124.5,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about what Caroline researched.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information about what Caroline researched, whereas the gold answer specifies that she researched adoption agencies, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "adoption agencies",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about what Caroline researched.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information about what Caroline researched, whereas the gold answer specifies that she researched adoption agencies, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "adoption agencies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about what Caroline researched.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information about what Caroline researched, whereas the gold answer specifies that she researched adoption agencies, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "adoption agencies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about what Caroline researched.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information about what Caroline researched, whereas the gold answer specifies that she researched adoption agencies, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "adoption agencies",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

@@ -9,42 +9,183 @@
     "D3:13",
     "D4:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Where did Caroline move from 4 years ago?",
-    "search_results": [],
-    "search_latency_ms": 30.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline moved from her home country approximately 4 years before June 9, 2023, and has known her current group of friends since that move; their support was especially important to her after a tough breakup.",
+        "score": 0.7284094620373285,
+        "id": "2f091231-881d-4a99-94fc-17cb81f1495d",
+        "created_at": "2026-11-04T05:16:59.923269+00:00",
+        "updated_at": "2026-11-04T05:16:59.923269+00:00"
+      },
+      {
+        "memory": "Caroline has known her close friends for four years, since moving from her home country around June 2019, and credits their support for helping her through a tough breakup.",
+        "score": 0.6810701377337645,
+        "id": "8ff376f8-3c34-4e46-8366-611fbee245e4",
+        "created_at": "2026-11-04T05:16:46.760429+00:00",
+        "updated_at": "2026-11-04T05:16:46.760429+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.6799970163862901,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, around 2018, and finds it a great way to express herself and escape into her emotions.",
+        "score": 0.6261648766837886,
+        "id": "50eb22c9-a7f7-40a8-8d4e-b4cd18509889",
+        "created_at": "2026-11-04T06:00:58.241108+00:00",
+        "updated_at": "2026-11-04T06:00:58.241108+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, around 2018, and finds it a great way to express herself and escape into her emotions.",
+        "score": 0.6261648766837886,
+        "id": "29b18655-1fb8-4241-ae0b-178389d6e0e2",
+        "created_at": "2026-11-04T06:01:02.947535+00:00",
+        "updated_at": "2026-11-04T06:01:02.947535+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar about five years ago, using it as a way to express herself and escape into her emotions.",
+        "score": 0.6248793727636042,
+        "id": "0986493b-7a3c-4439-958f-8767f8cf1942",
+        "created_at": "2026-11-04T06:01:16.466752+00:00",
+        "updated_at": "2026-11-04T06:01:16.466752+00:00"
+      },
+      {
+        "memory": "Caroline started playing acoustic guitar around August 2018, approximately five years before the conversation, and finds it a great way to express herself and escape into her emotions.",
+        "score": 0.6149395411796742,
+        "id": "d7d2b5ec-38bc-430d-8d9f-47cbcb12f97a",
+        "created_at": "2026-11-04T06:00:55.794157+00:00",
+        "updated_at": "2026-11-04T06:00:55.794157+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.3712940419066534,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.3454114578904667,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.3308281978297229,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.3174167670412139,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.2573161956793578,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline's relationships have shifted due to her transition; while some close friends remained supportive, others were unable to handle it, leaving her happier and more genuine in her current connections.",
+        "score": 0.25400225232306073,
+        "id": "1efdaf7e-5410-47bb-9f2e-031179630c14",
+        "created_at": "2026-11-04T06:01:52.874168+00:00",
+        "updated_at": "2026-11-04T06:01:52.874168+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, finding her current relationships more genuine and herself much happier.",
+        "score": 0.2526705039551345,
+        "id": "be919a79-79db-4088-bd66-0a875d1275cb",
+        "created_at": "2026-11-04T06:02:06.116658+00:00",
+        "updated_at": "2026-11-04T06:02:06.116658+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, leading to more genuine connections.",
+        "score": 0.2504684927891784,
+        "id": "22a772a9-c557-4f05-a406-deb242d85b0c",
+        "created_at": "2026-11-04T06:02:09.168092+00:00",
+        "updated_at": "2026-11-04T06:02:09.168092+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who has completed her transition and is now focused on creating a safe, loving home for children in need, believing that love and acceptance should be everyone's right.",
+        "score": 0.25041204875056905,
+        "id": "2a84ffbb-8533-439e-8f63-e50fed60dc64",
+        "created_at": "2026-11-04T06:04:44.968521+00:00",
+        "updated_at": "2026-11-04T06:04:44.968521+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.2447431754597597,
+        "id": "f02390cd-9719-45a4-b705-598fbda60dce",
+        "created_at": "2026-11-04T05:59:07.211022+00:00",
+        "updated_at": "2026-11-04T05:59:07.211022+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.2447431754597597,
+        "id": "95152622-08f4-4cd7-8e13-1acacd3a6d80",
+        "created_at": "2026-11-04T05:58:39.161249+00:00",
+        "updated_at": "2026-11-04T05:58:39.161249+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.24315293851855543,
+        "id": "9dd2edf8-b89c-402a-b098-8591c2468ea1",
+        "created_at": "2026-11-04T05:58:44.935765+00:00",
+        "updated_at": "2026-11-04T05:58:44.935765+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.2431529385185554,
+        "id": "5b46b3fb-56b4-40aa-82cc-64c083576316",
+        "created_at": "2026-11-04T05:58:53.099535+00:00",
+        "updated_at": "2026-11-04T05:58:53.099535+00:00"
+      }
+    ],
+    "search_latency_ms": 101.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or where she moved from.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that there is no information available, whereas the gold answer provides the specific location 'Sweden', meaning the generated answer contains zero correct items."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Sweden",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

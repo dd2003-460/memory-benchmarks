@@ -8,42 +8,183 @@
   "evidence": [
     "D12:15"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline and Melanie go to a pride fesetival together?",
-    "search_results": [],
-    "search_latency_ms": 26.1,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline and Melanie attended a Pride festival together last year (around August 2022) with their group of supportive friends, which they both found to be a blast and memorable.",
+        "score": 0.8573918934129118,
+        "id": "7e2c2d66-07ad-4c49-9b93-d5305d68390a",
+        "created_at": "2026-11-04T05:55:15.403882+00:00",
+        "updated_at": "2026-11-04T05:55:15.403882+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie attended a Pride fest together in August 2022, which Caroline described as a blast and credited their supportive friends for making the experience worthwhile.",
+        "score": 0.8464723100168363,
+        "id": "e78215cf-7fb4-4639-85fe-ff260c1ba765",
+        "created_at": "2026-11-04T05:54:59.035760+00:00",
+        "updated_at": "2026-11-04T05:54:59.035760+00:00"
+      },
+      {
+        "memory": "Caroline and Melanie attended a Pride festival together last year (2022) with their group of supportive friends, which Caroline described as a blast and worth it for the support.",
+        "score": 0.8456949984360659,
+        "id": "2f587b5a-9b1b-47ad-a8b0-313cc7277f00",
+        "created_at": "2026-11-04T05:55:20.890619+00:00",
+        "updated_at": "2026-11-04T05:55:20.890619+00:00"
+      },
+      {
+        "memory": "Melanie and her friends, including Caroline, attended the Pride festival in August 2022 (last year relative to August 17, 2023) and enjoyed a supportive and fun experience together.",
+        "score": 0.8375006343170008,
+        "id": "407a15e2-e614-43e0-b29c-333d4467e7ee",
+        "created_at": "2026-11-04T05:55:11.831247+00:00",
+        "updated_at": "2026-11-04T05:55:11.831247+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.7544938259063657,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.7520456992365261,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade a few weeks before July 15, 2023, which she described as a special memory.",
+        "score": 0.7518427902297791,
+        "id": "da1f21fd-aeb8-43d3-b269-11008a19f0a2",
+        "created_at": "2026-11-04T05:23:44.952393+00:00",
+        "updated_at": "2026-11-04T05:23:44.952393+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade a few weeks before July 15, 2023, where she joined in and felt accepted, happy, proud, and grateful for the supportive community around her.",
+        "score": 0.7480360033551224,
+        "id": "b24d60a2-638e-41da-96d1-d68b9d7e9175",
+        "created_at": "2026-11-04T05:24:00.646178+00:00",
+        "updated_at": "2026-11-04T05:24:00.646178+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ pride event around July 17, 2023, which she found encouraging due to the love and acceptance present, and highlighted seeing her mentee's face light up from the support as the best moment.",
+        "score": 0.7438660714727814,
+        "id": "ba7f4c57-bfc4-4aaf-b48b-3ab6b956b4c5",
+        "created_at": "2026-11-04T05:51:46.354013+00:00",
+        "updated_at": "2026-11-04T05:51:46.354013+00:00"
+      },
+      {
+        "memory": "Caroline found a vibrant rainbow sidewalk in her neighborhood during Pride Month in August 2023, which she photographed because it reminded her that love and acceptance are everywhere.",
+        "score": 0.7437269707493188,
+        "id": "f33e2ab5-68a5-4d90-bbe6-dd19267ba2f1",
+        "created_at": "2026-11-04T05:59:16.305888+00:00",
+        "updated_at": "2026-11-04T05:59:16.305888+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade around early June 2023, where she joined in the march and felt accepted, happy, proud, and grateful for the supportive community.",
+        "score": 0.7436089934855348,
+        "id": "58a445d8-eae0-48f4-8f30-9d0e871ffab0",
+        "created_at": "2026-11-04T05:23:55.934263+00:00",
+        "updated_at": "2026-11-04T05:23:55.934263+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, which she found inspiring and full of energy and love, reinforcing her commitment to standing up for equality and LGBTQ rights.",
+        "score": 0.7434126422227452,
+        "id": "8cc3872b-4f93-4fb6-baca-7294691d884f",
+        "created_at": "2026-11-04T05:53:59.825364+00:00",
+        "updated_at": "2026-11-04T05:53:59.825364+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, which she found inspiring and full of energy and love, reinforcing her commitment to standing up for equality and LGBTQ rights.",
+        "score": 0.7434126422227452,
+        "id": "33bf245d-b847-48f0-aa4d-a3e22d2de541",
+        "created_at": "2026-11-04T05:53:47.110882+00:00",
+        "updated_at": "2026-11-04T05:53:47.110882+00:00"
+      },
+      {
+        "memory": "Caroline came across a vibrant rainbow sidewalk in her neighborhood during Pride Month in August 2023, which she found welcoming and took a picture of to remind herself that love and acceptance are everywhere.",
+        "score": 0.7427681756316069,
+        "id": "f3332a74-bbb1-4708-bf63-5b4258e30d06",
+        "created_at": "2026-11-04T05:59:10.070654+00:00",
+        "updated_at": "2026-11-04T05:59:10.070654+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in the week preceding July 3, 2023, which made her feel a sense of belonging and highlighted the growth of the community to her.",
+        "score": 0.7421349133960035,
+        "id": "309954f8-ef81-407f-9f30-c3ea9afa568d",
+        "created_at": "2026-11-04T05:20:30.799224+00:00",
+        "updated_at": "2026-11-04T05:20:30.799224+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade the week of June 26, 2023, where she felt a strong sense of belonging and was inspired by the growth of the community.",
+        "score": 0.7420100775873438,
+        "id": "e9c02309-6e4e-4e90-b449-33d6fe04dcda",
+        "created_at": "2026-11-04T05:18:59.467912+00:00",
+        "updated_at": "2026-11-04T05:18:59.467912+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, describing it as awesome with lots of energy and love, which made her feel proud and reminded her of the importance of standing up for equality.",
+        "score": 0.7413940234374764,
+        "id": "8b4b68d9-4528-4b82-bbf4-4c5f527f9baa",
+        "created_at": "2026-11-04T05:53:29.957209+00:00",
+        "updated_at": "2026-11-04T05:53:29.957209+00:00"
+      },
+      {
+        "memory": "Caroline participated in a pride parade on August 11, 2023, finding the experience inspiring and energizing, which reinforced her commitment to fighting for LGBTQ rights.",
+        "score": 0.7412037714626563,
+        "id": "cff6b825-035f-40e0-9f04-19969d4e7427",
+        "created_at": "2026-11-04T05:53:40.654858+00:00",
+        "updated_at": "2026-11-04T05:53:40.654858+00:00"
+      },
+      {
+        "memory": "Caroline discovered a vibrant rainbow sidewalk in her neighborhood during Pride Month around August 2023 while walking, which she photographed because it felt welcoming and reminded her that love and acceptance are everywhere.",
+        "score": 0.7406781774037036,
+        "id": "b6f4f861-4fc9-4c41-a39e-8886c743dd59",
+        "created_at": "2026-11-04T05:59:26.160910+00:00",
+        "updated_at": "2026-11-04T05:59:26.160910+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, describing it as an awesome experience filled with energy and love that made her proud and reinforced the importance of standing up for equality.",
+        "score": 0.7405490187294385,
+        "id": "ea18e263-ee76-40a7-950e-b9537e024641",
+        "created_at": "2026-11-04T05:53:34.125537+00:00",
+        "updated_at": "2026-11-04T05:53:34.125537+00:00"
+      }
+    ],
+    "search_latency_ms": 126.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "August 2022",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies August 2022, which falls within the year 2022 provided in the gold answer, satisfying the date tolerance rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "August 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies August 2022, which falls within the year 2022 provided in the gold answer, satisfying the date tolerance rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "August 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies August 2022, which falls within the year 2022 provided in the gold answer, satisfying the date tolerance rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "August 2022",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies August 2022, which falls within the year 2022 provided in the gold answer, satisfying the date tolerance rule."
     }
   }
 }

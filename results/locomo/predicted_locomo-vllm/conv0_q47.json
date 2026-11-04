@@ -9,42 +9,183 @@
     "D12:1",
     "D3:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Who supports Caroline when she has a negative experience?",
-    "search_results": [],
-    "search_latency_ms": 26.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that more work is needed for LGBTQ rights.",
+        "score": 0.8653635790106223,
+        "id": "f60178b7-667e-4827-b5e5-d7ef332d251d",
+        "created_at": "2026-11-04T05:54:41.969580+00:00",
+        "updated_at": "2026-11-04T05:54:41.969580+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting to her, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.8641446857078549,
+        "id": "bad7df48-5a47-4bcf-b35b-56812ae0821c",
+        "created_at": "2026-11-04T05:54:15.035119+00:00",
+        "updated_at": "2026-11-04T05:54:15.035119+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.862970127551046,
+        "id": "c87ff44e-77a8-44ea-8b96-29d9d9718282",
+        "created_at": "2026-11-04T05:54:36.282209+00:00",
+        "updated_at": "2026-11-04T05:54:36.282209+00:00"
+      },
+      {
+        "memory": "Caroline had a negative experience on a hike around August 17, 2023, when she encountered religious conservatives who said something upsetting, reinforcing her belief that significant work remains for LGBTQ rights.",
+        "score": 0.862970127551046,
+        "id": "657ce18e-1f61-4415-b3ba-eecade6d7467",
+        "created_at": "2026-11-04T05:54:45.034827+00:00",
+        "updated_at": "2026-11-04T05:54:45.034827+00:00"
+      },
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.845462400472466,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.8446109858536662,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pass on the same support and love she received from her community to others, viewing this journey as a gift that allows her to help others with their own experiences.",
+        "score": 0.8124590321694545,
+        "id": "0b13f3bc-c62a-47e1-8a19-d1a37304765b",
+        "created_at": "2026-11-04T06:04:38.591426+00:00",
+        "updated_at": "2026-11-04T06:04:38.591426+00:00"
+      },
+      {
+        "memory": "Caroline volunteers at an LGBTQ+ youth center, finding the experience gratifying as she talks with young people and is reminded of the importance of kindness and support.",
+        "score": 0.8038022841692554,
+        "id": "7c2a67ed-ca3a-4e82-b499-041ba2a78f11",
+        "created_at": "2026-11-04T06:00:04.632677+00:00",
+        "updated_at": "2026-11-04T06:00:04.632677+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.7963774514378137,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.7857212467273084,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline went hiking the week of August 18-24, 2023, and had a negative encounter with some people that upset her, leading her to write an apology letter to them",
+        "score": 0.7820229952042552,
+        "id": "c953b0e4-8a82-4f40-aa8c-86cd8b4cef17",
+        "created_at": "2026-11-04T05:57:04.950671+00:00",
+        "updated_at": "2026-11-04T05:57:04.950671+00:00"
+      },
+      {
+        "memory": "Caroline believes sharing personal experiences is important to promote understanding and acceptance, aiming to pass on the love and support she has received by building a strong, supportive community of hope through storytelling.",
+        "score": 0.7761826871995101,
+        "id": "0262cec7-d0d0-4325-8eac-0b93e48e2a04",
+        "created_at": "2026-11-04T05:16:27.804434+00:00",
+        "updated_at": "2026-11-04T05:16:27.804434+00:00"
+      },
+      {
+        "memory": "Caroline finds it deeply meaningful to have a community where she is accepted, loved, and supported, noting that having people who understand her experiences has made a huge difference in her life.",
+        "score": 0.6943670570326297,
+        "id": "561edcf2-5eed-4678-a02a-5cf582639ee2",
+        "created_at": "2026-11-04T05:57:55.265523+00:00",
+        "updated_at": "2026-11-04T05:57:55.265523+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.6873531567937283,
+        "id": "9dd2edf8-b89c-402a-b098-8591c2468ea1",
+        "created_at": "2026-11-04T05:58:44.935765+00:00",
+        "updated_at": "2026-11-04T05:58:44.935765+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she feels accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.6873531567937283,
+        "id": "5b46b3fb-56b4-40aa-82cc-64c083576316",
+        "created_at": "2026-11-04T05:58:53.099535+00:00",
+        "updated_at": "2026-11-04T05:58:53.099535+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.6869085402847147,
+        "id": "95152622-08f4-4cd7-8e13-1acacd3a6d80",
+        "created_at": "2026-11-04T05:58:39.161249+00:00",
+        "updated_at": "2026-11-04T05:58:39.161249+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who values finding a community where she is accepted, loved, and supported, noting that having people who understand her experience has made a huge difference to her.",
+        "score": 0.6869085402847147,
+        "id": "f02390cd-9719-45a4-b705-598fbda60dce",
+        "created_at": "2026-11-04T05:59:07.211022+00:00",
+        "updated_at": "2026-11-04T05:59:07.211022+00:00"
+      },
+      {
+        "memory": "Caroline is motivated to pursue counseling because her own journey and the support she received made a huge difference, leading her to want to help others go through similar experiences and create a safe, inviting place for people to grow.",
+        "score": 0.6834079405098313,
+        "id": "f368b45b-3e7e-442d-9d81-e9aa96ef5815",
+        "created_at": "2026-11-04T05:18:30.184808+00:00",
+        "updated_at": "2026-11-04T05:18:30.184808+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have people around her who accept and support her, which gives her confidence that she will be okay despite facing challenges like the recent hike incident.",
+        "score": 0.6732918908035826,
+        "id": "99698859-a3ca-4779-8eb5-c88b7dc37602",
+        "created_at": "2026-11-04T05:54:15.038483+00:00",
+        "updated_at": "2026-11-04T05:54:15.038483+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have supportive people around her who accept her, which provides comfort during difficult times like the incident on her recent hike.",
+        "score": 0.6683833480351711,
+        "id": "049e42e5-200f-44c5-a69c-9eddbf748574",
+        "created_at": "2026-11-04T05:54:45.039255+00:00",
+        "updated_at": "2026-11-04T05:54:45.039255+00:00"
+      }
+    ],
+    "search_latency_ms": 107.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Supportive people around her who accept her (her community)",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies 'supportive people' and 'community' as the source of support, which semantically overlaps with the gold answer's specific categories of 'mentors, family, and friends' as they all represent the social support network surrounding Caroline."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "People around her who accept and support her, and her community",
+      "memories_evaluated": 20,
+      "reason": "The generated answer refers to 'people around her' and 'her community,' which are broad paraphrases that semantically encompass the specific groups listed in the gold answer (mentors, family, and friends)."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her community and the people around her who accept and support her",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's 'community and the people around her' is a reasonable paraphrase for the gold answer's 'mentors, family, and friends', as all refer to the social support network surrounding Caroline."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Her community and the people around her who accept and support her",
+      "memories_evaluated": 20,
+      "reason": "The generated answer's 'community and the people around her' is a reasonable paraphrase for the gold answer's 'mentors, family, and friends', as all refer to the social support network surrounding Caroline."
     }
   }
 }

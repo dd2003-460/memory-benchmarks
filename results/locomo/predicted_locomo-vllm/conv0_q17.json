@@ -8,42 +8,183 @@
   "evidence": [
     "D5:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When is Caroline going to the transgender conference?",
-    "search_results": [],
-    "search_latency_ms": 27.9,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other community members and learn more about advocacy.",
+        "score": 0.9385160499800909,
+        "id": "ba9cb83a-6446-4551-ac76-6ee525753eb5",
+        "created_at": "2026-11-04T05:21:30.163002+00:00",
+        "updated_at": "2026-11-04T05:21:30.163002+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other people in the community and learn more about advocacy.",
+        "score": 0.9375748389067257,
+        "id": "e4143211-9fcd-46fe-860f-a8b2ef07e7df",
+        "created_at": "2026-11-04T05:20:55.919808+00:00",
+        "updated_at": "2026-11-04T05:20:55.919808+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other people in the community and learn more about advocacy.",
+        "score": 0.9328256467029687,
+        "id": "8b49f212-c3a0-4206-8574-377bbdf0ea7f",
+        "created_at": "2026-11-04T05:21:14.108377+00:00",
+        "updated_at": "2026-11-04T05:21:14.108377+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other community members and learn more about advocacy, expressing excitement about the experience.",
+        "score": 0.9321971124233264,
+        "id": "f3331d60-9e49-44d8-97ca-b2f10cae7406",
+        "created_at": "2026-11-04T05:21:33.026517+00:00",
+        "updated_at": "2026-11-04T05:21:33.026517+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who is attending a transgender conference in July 2023 to meet community members and learn more about advocacy.",
+        "score": 0.931856205731623,
+        "id": "caf5d965-da5d-433b-bd42-76bd1c56e28c",
+        "created_at": "2026-11-04T05:21:27.860694+00:00",
+        "updated_at": "2026-11-04T05:21:27.860694+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have similar journeys and felt totally accepted in a welcoming environment.",
+        "score": 0.852246523829199,
+        "id": "cdd4851d-b480-4021-8feb-7f7e6460706c",
+        "created_at": "2026-11-04T05:22:00.056793+00:00",
+        "updated_at": "2026-11-04T05:22:00.056793+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community.",
+        "score": 0.8513951183928924,
+        "id": "6013bc8d-f76a-40bf-b7f2-21af118ed4f8",
+        "created_at": "2026-11-04T05:22:11.270617+00:00",
+        "updated_at": "2026-11-04T05:22:11.270617+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community support.",
+        "score": 0.8505175275223656,
+        "id": "02834b4a-5317-429b-b676-9747d05e425c",
+        "created_at": "2026-11-04T05:22:21.030823+00:00",
+        "updated_at": "2026-11-04T05:22:21.030823+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt welcomed and accepted in the environment",
+        "score": 0.8489105177687938,
+        "id": "7b970cfb-db33-4fbf-8d2b-2f4d91a96cd7",
+        "created_at": "2026-11-04T05:22:16.330244+00:00",
+        "updated_at": "2026-11-04T05:22:16.330244+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ conference on July 10, 2023, reinforced Caroline's commitment to fighting for trans rights and spreading awareness within the community.",
+        "score": 0.8396835757666032,
+        "id": "c70217a9-59b9-40ed-a70c-bb2c26baff79",
+        "created_at": "2026-11-04T05:22:00.063196+00:00",
+        "updated_at": "2026-11-04T05:22:00.063196+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.8290091590292434,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, describing it as awesome and encouraging due to the love and acceptance present.",
+        "score": 0.8128385311459836,
+        "id": "8359da61-69f1-4faa-a278-16d10a94b56c",
+        "created_at": "2026-11-04T05:24:56.204570+00:00",
+        "updated_at": "2026-11-04T05:24:56.204570+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.8118795281371559,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.8052482719371705,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors other transgender teens, focusing on building confidence and finding positive strategies.",
+        "score": 0.7868813856945669,
+        "id": "7faafc18-5eb1-4db5-b73f-19e9655f2d58",
+        "created_at": "2026-11-04T05:25:06.651328+00:00",
+        "updated_at": "2026-11-04T05:25:06.651328+00:00"
+      },
+      {
+        "memory": "Caroline found the transgender stories shared at the LGBTQ support group on May 7, 2023, to be inspiring and expressed feeling happy and thankful for the support received",
+        "score": 0.7848825488849969,
+        "id": "4ecbfd49-eaed-4268-9105-7b3e0f34289a",
+        "created_at": "2026-11-04T05:14:22.138790+00:00",
+        "updated_at": "2026-11-04T05:14:22.138790+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.779574648229316,
+        "id": "3665c2a3-4e83-417c-ad19-06c12425e7a7",
+        "created_at": "2026-11-04T05:51:41.956365+00:00",
+        "updated_at": "2026-11-04T05:51:41.956365+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.779574648229316,
+        "id": "bd0ab8cd-bd9f-49d9-ba4e-bd14c8717e94",
+        "created_at": "2026-11-04T05:51:37.151794+00:00",
+        "updated_at": "2026-11-04T05:51:37.151794+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who mentors a transgender teen, focusing on building confidence and finding positive strategies.",
+        "score": 0.779574648229316,
+        "id": "4b44eff5-3559-4775-a7ad-b8cadaafabb9",
+        "created_at": "2026-11-04T05:24:56.201014+00:00",
+        "updated_at": "2026-11-04T05:24:56.201014+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender artist who uses her work to express her trans experience, advocate for the LGBTQ+ community, and promote acceptance and inclusivity.",
+        "score": 0.7773727933921861,
+        "id": "f745ba7c-7dae-40c1-aa9d-4e921ef128c4",
+        "created_at": "2026-11-04T05:54:11.058029+00:00",
+        "updated_at": "2026-11-04T05:54:11.058029+00:00"
+      }
+    ],
+    "search_latency_ms": 125.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer specifies a date in July 2023, which falls within the month specified in the gold answer and satisfies the date tolerance rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies a date in July 2023, which falls within the month specified in the gold answer and satisfies the date tolerance rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies a date in July 2023, which falls within the month specified in the gold answer and satisfies the date tolerance rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer specifies a date in July 2023, which falls within the month specified in the gold answer and satisfies the date tolerance rule."
     }
   }
 }

@@ -8,42 +8,183 @@
   "evidence": [
     "D5:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline go to a pride parade during the summer?",
-    "search_results": [],
-    "search_latency_ms": 34.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended a pride parade a few weeks before July 15, 2023, which she described as a special memory.",
+        "score": 0.9160135777841738,
+        "id": "da1f21fd-aeb8-43d3-b269-11008a19f0a2",
+        "created_at": "2026-11-04T05:23:44.952393+00:00",
+        "updated_at": "2026-11-04T05:23:44.952393+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, describing it as an awesome experience filled with energy and love that made her proud and reinforced the importance of standing up for equality.",
+        "score": 0.9106115225890921,
+        "id": "ea18e263-ee76-40a7-950e-b9537e024641",
+        "created_at": "2026-11-04T05:53:34.125537+00:00",
+        "updated_at": "2026-11-04T05:53:34.125537+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, describing it as awesome with lots of energy and love, which made her feel proud and reminded her of the importance of standing up for equality.",
+        "score": 0.9056373518947096,
+        "id": "8b4b68d9-4528-4b82-bbf4-4c5f527f9baa",
+        "created_at": "2026-11-04T05:53:29.957209+00:00",
+        "updated_at": "2026-11-04T05:53:29.957209+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, which she found inspiring and full of energy and love, reinforcing her commitment to standing up for equality and LGBTQ rights.",
+        "score": 0.9019166962568601,
+        "id": "33bf245d-b847-48f0-aa4d-a3e22d2de541",
+        "created_at": "2026-11-04T05:53:47.110882+00:00",
+        "updated_at": "2026-11-04T05:53:47.110882+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, which she found inspiring and full of energy and love, reinforcing her commitment to standing up for equality and LGBTQ rights.",
+        "score": 0.9019166962568601,
+        "id": "8cc3872b-4f93-4fb6-baca-7294691d884f",
+        "created_at": "2026-11-04T05:53:59.825364+00:00",
+        "updated_at": "2026-11-04T05:53:59.825364+00:00"
+      },
+      {
+        "memory": "Caroline attended a pride parade on August 11, 2023, which she found inspiring and energizing, reinforcing her commitment to standing up for equality and LGBTQ rights.",
+        "score": 0.899696139039056,
+        "id": "68f245b5-10a0-4ce2-b5af-738bdd83e831",
+        "created_at": "2026-11-04T05:53:53.348833+00:00",
+        "updated_at": "2026-11-04T05:53:53.348833+00:00"
+      },
+      {
+        "memory": "Caroline participated in a pride parade on August 11, 2023, finding the experience inspiring and energizing, which reinforced her commitment to fighting for LGBTQ rights.",
+        "score": 0.8986086652710018,
+        "id": "cff6b825-035f-40e0-9f04-19969d4e7427",
+        "created_at": "2026-11-04T05:53:40.654858+00:00",
+        "updated_at": "2026-11-04T05:53:40.654858+00:00"
+      },
+      {
+        "memory": "A pride parade was held in Caroline's city around July 15-16, 2023, which she missed but found to be a powerful reminder of equality and inclusivity.",
+        "score": 0.8966842748598183,
+        "id": "7ac0915c-1244-4d6d-8343-2f7d64ac8e4d",
+        "created_at": "2026-11-04T05:52:40.068778+00:00",
+        "updated_at": "2026-11-04T05:52:40.068778+00:00"
+      },
+      {
+        "memory": "A pride parade was held in Caroline's city around July 15-16, 2023; she missed the event but found it a powerful reminder of the fight for equality and inclusivity.",
+        "score": 0.8962888159907388,
+        "id": "ac94eb13-aa3b-40a1-a518-b3a2969e140d",
+        "created_at": "2026-11-04T05:52:44.902259+00:00",
+        "updated_at": "2026-11-04T05:52:44.902259+00:00"
+      },
+      {
+        "memory": "A pride parade was held in Caroline's city around July 15-16, 2023, which she missed but viewed as a powerful reminder of equality and inclusivity.",
+        "score": 0.8961803385247643,
+        "id": "a76e289f-2257-4bd1-9b94-187c2220c81a",
+        "created_at": "2026-11-04T05:52:33.628757+00:00",
+        "updated_at": "2026-11-04T05:52:33.628757+00:00"
+      },
+      {
+        "memory": "Caroline missed the city pride parade held on July 15, 2023, but described it as a powerful reminder that the fight for equality and inclusivity is not alone and that change is possible.",
+        "score": 0.8852988140820612,
+        "id": "1fa8c2e1-592e-48cd-8b1a-c6c459b85f6b",
+        "created_at": "2026-11-04T05:52:30.757556+00:00",
+        "updated_at": "2026-11-04T05:52:30.757556+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade a few weeks before July 15, 2023, where she joined in and felt accepted, happy, proud, and grateful for the supportive community around her.",
+        "score": 0.8801901273250785,
+        "id": "b24d60a2-638e-41da-96d1-d68b9d7e9175",
+        "created_at": "2026-11-04T05:24:00.646178+00:00",
+        "updated_at": "2026-11-04T05:24:00.646178+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade around early June 2023, where she joined in the march and felt accepted, happy, proud, and grateful for the supportive community.",
+        "score": 0.8782998085605811,
+        "id": "58a445d8-eae0-48f4-8f30-9d0e871ffab0",
+        "created_at": "2026-11-04T05:23:55.934263+00:00",
+        "updated_at": "2026-11-04T05:23:55.934263+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in early July 2023, a few weeks before July 15, 2023, and shared a photo of the march featuring people walking down the street with rainbow flags.",
+        "score": 0.8770704197694753,
+        "id": "9f836735-6383-4129-b29a-6f1ce4735545",
+        "created_at": "2026-11-04T05:23:42.156232+00:00",
+        "updated_at": "2026-11-04T05:23:42.156232+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in early July 2023, where she participated and felt accepted, happy, and celebrated by the community, describing it as a top memory.",
+        "score": 0.8744524310684035,
+        "id": "047cd595-4a8d-4119-8691-3e8f44c17ac1",
+        "created_at": "2026-11-04T05:23:50.880186+00:00",
+        "updated_at": "2026-11-04T05:23:50.880186+00:00"
+      },
+      {
+        "memory": "Caroline participated in an LGBTQ+ pride parade on July 15, 2023, describing it as a top memory where she felt accepted, proud, and grateful for her supportive community.",
+        "score": 0.8741093929968402,
+        "id": "1bbe79d4-36e8-41dc-8559-7e65593f8a9b",
+        "created_at": "2026-11-04T05:24:10.244754+00:00",
+        "updated_at": "2026-11-04T05:24:10.244754+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in the week preceding July 3, 2023, which made her feel a sense of belonging and highlighted the growth of the community to her.",
+        "score": 0.8739116231971076,
+        "id": "309954f8-ef81-407f-9f30-c3ea9afa568d",
+        "created_at": "2026-11-04T05:20:30.799224+00:00",
+        "updated_at": "2026-11-04T05:20:30.799224+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade the week of June 26, 2023, where she felt a strong sense of belonging and was inspired by the growth of the community.",
+        "score": 0.8706270562598274,
+        "id": "e9c02309-6e4e-4e90-b449-33d6fe04dcda",
+        "created_at": "2026-11-04T05:18:59.467912+00:00",
+        "updated_at": "2026-11-04T05:18:59.467912+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in the week preceding July 3, 2023, where she felt a strong sense of belonging and was inspired by the growth of the community.",
+        "score": 0.8704454497945804,
+        "id": "1a367a1b-31b0-4f19-b7e3-9cc527bf5bb2",
+        "created_at": "2026-11-04T05:19:54.432597+00:00",
+        "updated_at": "2026-11-04T05:19:54.432597+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade the week of June 26, 2023, and felt a strong sense of belonging while noting how much the community has grown.",
+        "score": 0.8698932474911081,
+        "id": "710f455c-4d16-4a08-a0ec-47db1e928675",
+        "created_at": "2026-11-04T05:18:48.944168+00:00",
+        "updated_at": "2026-11-04T05:18:48.944168+00:00"
+      }
+    ],
+    "search_latency_ms": 86.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "August 11, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer (August 11, 2023) is more than 14 days away from the gold answer (the week before July 3, 2023), violating the date tolerance rule."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "August 11, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (August 11, 2023) is more than 14 days away from the gold answer (the week before July 3, 2023), violating the date tolerance rule."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "August 11, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (August 11, 2023) is more than 14 days away from the gold answer (the week before July 3, 2023), violating the date tolerance rule."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "August 11, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer (August 11, 2023) is more than 14 days away from the gold answer (the week before July 3, 2023), violating the date tolerance rule."
     }
   }
 }

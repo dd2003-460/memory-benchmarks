@@ -11,42 +11,183 @@
     "D3:1",
     "D1:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What LGBTQ+ events has Caroline participated in?",
-    "search_results": [],
-    "search_latency_ms": 39.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, and they had a great time together.",
+        "score": 0.8858299154657647,
+        "id": "bfd033cc-b420-4f71-9179-930538c347f1",
+        "created_at": "2026-11-04T05:24:50.444599+00:00",
+        "updated_at": "2026-11-04T05:24:50.444599+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, a transgender teen, and they had a great time together.",
+        "score": 0.8816035257042726,
+        "id": "526b5114-780c-405b-a9ef-321daf7a728d",
+        "created_at": "2026-11-04T05:24:47.845815+00:00",
+        "updated_at": "2026-11-04T05:24:47.845815+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with the transgender teen she mentors, describing it as awesome and encouraging due to the love and acceptance present.",
+        "score": 0.8815251322420596,
+        "id": "8359da61-69f1-4faa-a278-16d10a94b56c",
+        "created_at": "2026-11-04T05:24:56.204570+00:00",
+        "updated_at": "2026-11-04T05:24:56.204570+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, describing it as awesome and encouraging due to the surrounding love and acceptance.",
+        "score": 0.8718451884925914,
+        "id": "8cd987b4-8c57-46c7-9b2c-67fcbc541d3f",
+        "created_at": "2026-11-04T05:24:53.324595+00:00",
+        "updated_at": "2026-11-04T05:24:53.324595+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.8712284589490729,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, where she found the atmosphere of love and acceptance encouraging.",
+        "score": 0.8676068606842188,
+        "id": "d02ca1e0-c509-43c6-9b68-5b80f8a6f848",
+        "created_at": "2026-11-04T05:25:06.653555+00:00",
+        "updated_at": "2026-11-04T05:25:06.653555+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBT pride event in June 2023 with her mentee, where she found the atmosphere of love and acceptance encouraging.",
+        "score": 0.8676068606842188,
+        "id": "2feaebce-3fc1-4903-8b1d-7c6d57b0d295",
+        "created_at": "2026-11-04T05:25:01.597165+00:00",
+        "updated_at": "2026-11-04T05:25:01.597165+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.8634398491156556,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline and her mentee attended an LGBT pride event in June 2023, where Caroline found the atmosphere of love and acceptance encouraging and was particularly moved by seeing her mentee's face light up at the support.",
+        "score": 0.8627654955219711,
+        "id": "403882c7-dcf2-438d-a9f7-fc0c25e83f8a",
+        "created_at": "2026-11-04T05:51:41.960610+00:00",
+        "updated_at": "2026-11-04T05:51:41.960610+00:00"
+      },
+      {
+        "memory": "Caroline and her mentee attended an LGBT pride event in June 2023, where Caroline found the atmosphere of love and acceptance encouraging.",
+        "score": 0.8619547739224286,
+        "id": "22c4b72a-4f36-4bb4-9022-01282ce04bdc",
+        "created_at": "2026-11-04T05:51:37.156006+00:00",
+        "updated_at": "2026-11-04T05:51:37.156006+00:00"
+      },
+      {
+        "memory": "Caroline's activist group, 'Connected LGBTQ Activists', holds regular meetings and plans events and campaigns to promote positive change and inclusivity.",
+        "score": 0.8613633377113153,
+        "id": "a7d234e3-e4ee-4c27-957f-75e60cd1e242",
+        "created_at": "2026-11-04T05:52:44.898203+00:00",
+        "updated_at": "2026-11-04T05:52:44.898203+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ pride event around July 17, 2023, which she found encouraging due to the love and acceptance present, and highlighted seeing her mentee's face light up from the support as the best moment.",
+        "score": 0.860098747187125,
+        "id": "ba7f4c57-bfc4-4aaf-b48b-3ab6b956b4c5",
+        "created_at": "2026-11-04T05:51:46.354013+00:00",
+        "updated_at": "2026-11-04T05:51:46.354013+00:00"
+      },
+      {
+        "memory": "Caroline described the best part of attending the LGBT pride event in June 2023 with her mentee as seeing their face light up when they witnessed the support, which she found to be a special moment.",
+        "score": 0.8567423680881492,
+        "id": "50ca758a-430f-4c61-801f-0b2a75e9586c",
+        "created_at": "2026-11-04T05:24:58.858724+00:00",
+        "updated_at": "2026-11-04T05:24:58.858724+00:00"
+      },
+      {
+        "memory": "Caroline's LGBTQ activist group is named 'Connected LGBTQ Activists' and consists of diverse members who invest in positive changes, holding regular meetings to plan events and campaigns while supporting one another.",
+        "score": 0.8554444750386784,
+        "id": "1782a52f-5d41-46a1-9cb2-c4c85c15b9ec",
+        "created_at": "2026-11-04T05:52:14.917277+00:00",
+        "updated_at": "2026-11-04T05:52:14.917277+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ+ pride parade in early July 2023, where she participated and felt accepted, happy, and celebrated by the community, describing it as a top memory.",
+        "score": 0.8246610031482252,
+        "id": "047cd595-4a8d-4119-8691-3e8f44c17ac1",
+        "created_at": "2026-11-04T05:23:50.880186+00:00",
+        "updated_at": "2026-11-04T05:23:50.880186+00:00"
+      },
+      {
+        "memory": "Caroline participated in an LGBTQ+ pride parade on July 15, 2023, describing it as a top memory where she felt accepted, proud, and grateful for her supportive community.",
+        "score": 0.8212404693863637,
+        "id": "1bbe79d4-36e8-41dc-8559-7e65593f8a9b",
+        "created_at": "2026-11-04T05:24:10.244754+00:00",
+        "updated_at": "2026-11-04T05:24:10.244754+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.6486650597999486,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.6231354338607151,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.6039391539552288,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.47844727568881174,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      }
+    ],
+    "search_latency_ms": 127.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has participated in a school event where she spoke about her transgender journey, an LGBT pride event with her mentee, and regular meetings and events with the 'Connected LGBTQ Activists' group.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer correctly identifies the school speech (as a school event where she spoke), the Pride parade (as an LGBT pride event), and the support group (as meetings with the 'Connected LGBTQ Activists' group), matching all items in the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline has participated in the following LGBTQ+ events:\n1. An LGBTQ support group on May 7, 2023.\n2. A school event on June 2, 2023, where she shared her transgender journey.\n3. An LGBT pride event in June 2023, which she attended with her mentee.\n4. An LGBTQ+ pride parade on July 15, 2023.\n5. An LGBTQ pride event on July 17, 2023, which she attended with her mentee.\n6. She joined the LGBTQ activist group 'Connected LGBTQ Activists' on July 18, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all three items from the gold answer: 'LGBTQ support group' matches 'support group', 'school event... shared her transgender journey' matches 'school speech', and 'LGBTQ pride parade' matches 'Pride parade'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline participated in an LGBTQ support group on May 7, 2023; a school event around June 2, 2023 where she shared her journey; an LGBT pride event in June 2023 with her mentee; an LGBTQ+ pride parade on July 15, 2023; an LGBTQ pride event around July 17, 2023 with her mentee; and she joined the 'Connected LGBTQ Activists' group on July 18, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all three items from the gold answer: 'LGBTQ support group' matches 'support group', 'school event... where she shared her journey' matches 'school speech', and 'LGBTQ+ pride parade' matches 'Pride parade'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Caroline participated in an LGBTQ support group on May 7, 2023; a school event on June 2, 2023 where she shared her journey; an LGBT pride event in June 2023 with her mentee; an LGBTQ+ pride parade on July 15, 2023; an LGBTQ pride event on July 17, 2023 with her mentee; and she joined the 'Connected LGBTQ Activists' group on July 18, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes all three items from the gold answer: 'LGBTQ support group' matches 'support group', 'school event... where she shared her journey' matches 'school speech', and 'LGBTQ+ pride parade' matches 'Pride parade'."
     }
   }
 }

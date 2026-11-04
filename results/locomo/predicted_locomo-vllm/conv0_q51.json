@@ -10,42 +10,183 @@
     "D8:6",
     "D1:12"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What has Melanie painted?",
-    "search_results": [],
-    "search_latency_ms": 13.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.7168712877767456,
+        "id": "12e9fad7-91f3-4b99-aecf-6649b010d37d",
+        "created_at": "2026-11-04T05:54:36.292947+00:00",
+        "updated_at": "2026-11-04T05:54:36.292947+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.7168712877767456,
+        "id": "0e579ad8-5fcb-4857-98fa-6826d5dac893",
+        "created_at": "2026-11-04T05:54:45.045277+00:00",
+        "updated_at": "2026-11-04T05:54:45.045277+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns, which inspired her to create eye-catching art that makes people smile, and she views painting as a way to express feelings and be creative",
+        "score": 0.7116960755414034,
+        "id": "bcd6fa8b-abb2-4bd4-bd1b-470bf84d8cf2",
+        "created_at": "2026-11-04T05:54:55.724364+00:00",
+        "updated_at": "2026-11-04T05:54:55.724364+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about using vibrant colors and patterns in her art to catch the eye and make people smile, viewing painting as a way to express feelings and be creative where each stroke carries a part of her.",
+        "score": 0.7014096493221069,
+        "id": "3adbf726-d00c-4027-8da7-1440ac3bff33",
+        "created_at": "2026-11-04T05:54:48.865483+00:00",
+        "updated_at": "2026-11-04T05:54:48.865483+00:00"
+      },
+      {
+        "memory": "Melanie is passionate about painting, using it as a creative outlet to express feelings and bring joy to others, describing art as a sanctuary and source of comfort and fulfillment.",
+        "score": 0.6984255289744301,
+        "id": "b2176338-4ed8-4abd-9edf-93a1e9b76b51",
+        "created_at": "2026-11-04T05:55:11.836691+00:00",
+        "updated_at": "2026-11-04T05:55:11.836691+00:00"
+      },
+      {
+        "memory": "Melanie's favorite type of art is painting landscapes and still life, and she shared a recent painting of a sunflower on canvas.",
+        "score": 0.6920397974009178,
+        "id": "d0a4f15a-e98b-45e6-9790-877036d724b7",
+        "created_at": "2026-11-04T06:00:01.342572+00:00",
+        "updated_at": "2026-11-04T06:00:01.342572+00:00"
+      },
+      {
+        "memory": "Melanie describes painting as a way to express feelings and be creative, noting that each stroke carries a part of her and that art serves as a sanctuary and source of comfort.",
+        "score": 0.6773793649119126,
+        "id": "1780ea8f-4777-4d94-a44d-7b2d771a7d3c",
+        "created_at": "2026-11-04T05:54:41.975200+00:00",
+        "updated_at": "2026-11-04T05:54:41.975200+00:00"
+      },
+      {
+        "memory": "Melanie shared an abstract painting with vibrant colors and a blue background that she created around October 13, 2023, noting how art allows them to express emotions.",
+        "score": 0.6763294291290298,
+        "id": "2ca289ee-b0ef-4591-a249-d4a020d18f30",
+        "created_at": "2026-11-04T06:02:43.917702+00:00",
+        "updated_at": "2026-11-04T06:02:43.917702+00:00"
+      },
+      {
+        "memory": "Melanie has been involved in art for seven years and identifies painting and pottery as her primary creative muses, describing them as calming and satisfying outlets.",
+        "score": 0.6762788347011747,
+        "id": "630f08ab-b7ff-403a-b9cc-a0c77e1c7a3e",
+        "created_at": "2026-11-04T06:01:52.860318+00:00",
+        "updated_at": "2026-11-04T06:01:52.860318+00:00"
+      },
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6760395878204153,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie loves painting animals, finding the process peaceful and special due to the grace of the subjects",
+        "score": 0.674033107191254,
+        "id": "7f03c3c5-0c19-4906-9341-d2c80fe39b65",
+        "created_at": "2026-11-04T05:56:48.935862+00:00",
+        "updated_at": "2026-11-04T05:56:48.935862+00:00"
+      },
+      {
+        "memory": "Melanie created an abstract painting with vibrant colors and a blue background around October 6-12, 2023, finding that art allows her to express emotions.",
+        "score": 0.6724636519290165,
+        "id": "7a41e6dd-ed46-449a-951f-d2524b902b83",
+        "created_at": "2026-11-04T06:02:40.722013+00:00",
+        "updated_at": "2026-11-04T06:02:40.722013+00:00"
+      },
+      {
+        "memory": "Melanie has been creating art for seven years, finding painting and pottery to be her true muses that provide a calming and satisfying experience.",
+        "score": 0.6710307139597395,
+        "id": "02db0372-a6ea-4fb6-9a6e-50d0a3cbfed4",
+        "created_at": "2026-11-04T06:01:32.065735+00:00",
+        "updated_at": "2026-11-04T06:01:32.065735+00:00"
+      },
+      {
+        "memory": "Melanie stated that painting landscapes and still life is her favorite type of art, adding to her known preference for painting animals.",
+        "score": 0.6709236911557603,
+        "id": "c0452958-add7-4ce1-920b-d97aba081f03",
+        "created_at": "2026-11-04T05:59:32.742596+00:00",
+        "updated_at": "2026-11-04T05:59:32.742596+00:00"
+      },
+      {
+        "memory": "Melanie enjoys painting nature-inspired artwork with her children, including a recent piece from July 8-9, 2023 featuring a sunset with a palm tree.",
+        "score": 0.6702789771144217,
+        "id": "2cf8bc8f-139b-416a-9875-e1097288fd3d",
+        "created_at": "2026-11-04T05:23:30.968905+00:00",
+        "updated_at": "2026-11-04T05:23:30.968905+00:00"
+      },
+      {
+        "memory": "Melanie created a colorful ceramic bowl with patterns designed to catch the eye and make people smile, explaining that painting helps her express feelings and be creative, with each stroke carrying a part of her.",
+        "score": 0.669970373986557,
+        "id": "add6e474-dc48-44ec-aff3-8acee6df037f",
+        "created_at": "2026-11-04T05:54:29.421258+00:00",
+        "updated_at": "2026-11-04T05:54:29.421258+00:00"
+      },
+      {
+        "memory": "Melanie created a landscape painting inspired by sunsets around October 6-12, 2023, featuring vibrant purple and pink colors that make her feel calm.",
+        "score": 0.6696216071852668,
+        "id": "bd94dc15-95ff-44ed-a779-e29de8d7eeb9",
+        "created_at": "2026-11-04T06:02:35.266631+00:00",
+        "updated_at": "2026-11-04T06:02:35.266631+00:00"
+      },
+      {
+        "memory": "Melanie has been into art for seven years and found her real muses in painting and pottery, describing them as calming and satisfying",
+        "score": 0.6676581407009389,
+        "id": "cab9a55d-4ab8-43a2-89c9-10e7015bf8de",
+        "created_at": "2026-11-04T06:01:56.665879+00:00",
+        "updated_at": "2026-11-04T06:01:56.665879+00:00"
+      },
+      {
+        "memory": "Melanie has been into art for seven years and recently found her true muses in painting and pottery, describing both as calming and satisfying creative outlets.",
+        "score": 0.6646264973793075,
+        "id": "7f333e8d-00c5-407e-9abf-ec84ba768271",
+        "created_at": "2026-11-04T06:01:46.615592+00:00",
+        "updated_at": "2026-11-04T06:01:46.615592+00:00"
+      },
+      {
+        "memory": "Melanie painted a landscape featuring a vibrant purple sunset with a pink sky last week, inspired by sunsets because the colors make her feel calm.",
+        "score": 0.6638327960218077,
+        "id": "5557378e-9f96-4144-b95f-69e1d93fc195",
+        "created_at": "2026-11-04T06:03:04.556401+00:00",
+        "updated_at": "2026-11-04T06:03:04.556401+00:00"
+      }
+    ],
+    "search_latency_ms": 96.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "landscapes, still lifes, sunflowers, and abstract paintings",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists 'landscapes, still lifes, sunflowers, and abstract paintings', which do not match the specific items in the gold answer ('Horse, sunset, sunrise') and do not semantically overlap with the specific subjects mentioned."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has painted a sunset with a palm tree, sunflowers, a landscape inspired by sunsets featuring vibrant purple and pink colors, and an abstract painting with vibrant colors and a blue background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'sunset', which is one of the items in the gold answer list, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has painted a sunset with a palm tree, sunflowers, a landscape painting inspired by sunsets featuring vibrant purple and pink colors, and an abstract painting with vibrant colors and a blue background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'sunset', which is one of the items in the gold answer list, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has painted a sunset with a palm tree, sunflowers, a landscape featuring a vibrant purple sunset with a pink sky, and an abstract painting with vibrant colors and a blue background.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'sunset', which is one of the items in the gold answer list, satisfying the partial credit rule."
     }
   }
 }

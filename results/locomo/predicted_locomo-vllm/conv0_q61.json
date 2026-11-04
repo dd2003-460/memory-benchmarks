@@ -9,42 +9,183 @@
     "D15:16",
     "D11:3"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What musical artists/bands has Melanie seen?",
-    "search_results": [],
-    "search_latency_ms": 16.5,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.784639618800821,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.7789244523693032,
+        "id": "f4594a72-b177-4b49-8a71-ed00e240a1c5",
+        "created_at": "2026-11-04T06:01:24.084440+00:00",
+        "updated_at": "2026-11-04T06:01:24.084440+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, such as Bach and Mozart, and modern music like Ed Sheeran's 'Perfect'.",
+        "score": 0.7789244523693032,
+        "id": "34761b16-905d-430b-8bdb-462ead090baa",
+        "created_at": "2026-11-04T06:01:16.477842+00:00",
+        "updated_at": "2026-11-04T06:01:16.477842+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music by Bach and Mozart and modern music such as Ed Sheeran's 'Perfect'.",
+        "score": 0.7694141814461248,
+        "id": "d7121940-9087-42fd-ae69-0471acc37385",
+        "created_at": "2026-11-04T06:01:32.082989+00:00",
+        "updated_at": "2026-11-04T06:01:32.082989+00:00"
+      },
+      {
+        "memory": "Melanie enjoys listening to both classical music, specifically Bach and Mozart, and modern music, citing Ed Sheeran's 'Perfect' as a favorite.",
+        "score": 0.7683036109800995,
+        "id": "8f943cc8-07ce-4e9b-8c52-80a4fff9b737",
+        "created_at": "2026-11-04T06:01:11.028885+00:00",
+        "updated_at": "2026-11-04T06:01:11.028885+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show featuring the band 'Summer Sounds' playing pop songs, which she found fun and lively, noting how music brings people together.",
+        "score": 0.7627379545593044,
+        "id": "3cb0c25f-80f5-466f-9d41-33982c2504e0",
+        "created_at": "2026-11-04T06:00:51.702321+00:00",
+        "updated_at": "2026-11-04T06:00:51.702321+00:00"
+      },
+      {
+        "memory": "Melanie attended a live music show recently, describing it as fun and noting that it reminded her of how music brings people together, while sharing a photo of a concert crowd with hands in the air.",
+        "score": 0.7589807655426816,
+        "id": "2544e853-2e1a-4b26-8609-9931b057a8c7",
+        "created_at": "2026-11-04T06:00:39.226130+00:00",
+        "updated_at": "2026-11-04T06:00:39.226130+00:00"
+      },
+      {
+        "memory": "Melanie expressed that she loves live music while discussing Caroline's upcoming talent show for the kids at the youth center.",
+        "score": 0.7223897905103307,
+        "id": "4684a7e1-3e46-492e-8872-ab5da262652a",
+        "created_at": "2026-11-04T06:00:34.440833+00:00",
+        "updated_at": "2026-11-04T06:00:34.440833+00:00"
+      },
+      {
+        "memory": "Melanie identified the band in her shared concert photo as 'Summer Sounds', describing them as playing an awesome pop song that got everyone dancing and singing, creating a fun and lively atmosphere.",
+        "score": 0.6275924216503939,
+        "id": "6e505573-4f16-4cce-8c00-49eb19fa18b5",
+        "created_at": "2026-11-04T06:00:44.544988+00:00",
+        "updated_at": "2026-11-04T06:00:44.544988+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday with a concert on August 13, 2023, surrounded by music and a warm summer breeze, expressing gratitude for the special moments shared with her kids.",
+        "score": 0.6181558001691939,
+        "id": "333bb1a9-43aa-433d-b39e-adef7320d9ad",
+        "created_at": "2026-11-04T05:53:20.183561+00:00",
+        "updated_at": "2026-11-04T05:53:20.183561+00:00"
+      },
+      {
+        "memory": "Melanie attended a concert on August 13, 2023, featuring Matt Patterson, which she described as an amazing celebration of her daughter's birthday surrounded by music and joy.",
+        "score": 0.6166082807854489,
+        "id": "7b7c4183-5e48-4d0f-b6ce-711cef719390",
+        "created_at": "2026-11-04T05:53:40.649480+00:00",
+        "updated_at": "2026-11-04T05:53:40.649480+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, which she described as an amazing experience surrounded by music and joy.",
+        "score": 0.6056468555127344,
+        "id": "c3fa5ea4-c81b-4931-9ff3-fb555c32a317",
+        "created_at": "2026-11-04T05:53:53.345982+00:00",
+        "updated_at": "2026-11-04T05:53:53.345982+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, joy, and warm summer breeze while watching her kids' smiles.",
+        "score": 0.6053523512353141,
+        "id": "b5289aa3-85f6-42af-82bd-ef0c538bc2ed",
+        "created_at": "2026-11-04T05:53:29.962869+00:00",
+        "updated_at": "2026-11-04T05:53:29.962869+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday at a concert by Matt Patterson around August 13, 2023, enjoying the music, warm summer breeze, and seeing her kids' smiles.",
+        "score": 0.6049726866726138,
+        "id": "e6e48141-71b9-4544-b67d-a6b2b18dbf96",
+        "created_at": "2026-11-04T05:53:34.129883+00:00",
+        "updated_at": "2026-11-04T05:53:34.129883+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing and surrounded by music, joy, and warm summer breeze.",
+        "score": 0.6036058210848331,
+        "id": "0058bf56-a97d-4609-9d33-c64952a5ae82",
+        "created_at": "2026-11-04T05:53:47.106116+00:00",
+        "updated_at": "2026-11-04T05:53:47.106116+00:00"
+      },
+      {
+        "memory": "Melanie celebrated her daughter's birthday on August 13, 2023, with a concert featuring Matt Patterson, describing the event as amazing with music, joy, and a warm summer breeze.",
+        "score": 0.6014725624004356,
+        "id": "d6e66e0a-784d-4ce4-b046-531a257f9136",
+        "created_at": "2026-11-04T05:53:25.649395+00:00",
+        "updated_at": "2026-11-04T05:53:25.649395+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and finds it a great way to express herself and relax.",
+        "score": 0.38094954532238773,
+        "id": "78e02b1c-74d3-494e-8105-76dc0593046c",
+        "created_at": "2026-11-04T06:01:06.987358+00:00",
+        "updated_at": "2026-11-04T06:01:06.987358+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and views it as an expression of herself and a way to relax.",
+        "score": 0.3771531920251882,
+        "id": "6b8f43fa-2585-4f95-9a9a-5091bb34a7dd",
+        "created_at": "2026-11-04T06:01:32.080520+00:00",
+        "updated_at": "2026-11-04T06:01:32.080520+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.37179164254204156,
+        "id": "4681353b-8104-4aeb-8191-e756fd6eb7b1",
+        "created_at": "2026-11-04T06:01:24.081119+00:00",
+        "updated_at": "2026-11-04T06:01:24.081119+00:00"
+      },
+      {
+        "memory": "Melanie plays the clarinet, having started when she was young, and uses it as an expression of herself and a way to relax.",
+        "score": 0.37179164254204156,
+        "id": "ef203662-42e9-47ba-a3d1-870233c08650",
+        "created_at": "2026-11-04T06:01:16.474494+00:00",
+        "updated_at": "2026-11-04T06:01:16.474494+00:00"
+      }
+    ],
+    "search_latency_ms": 163.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Summer Sounds",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'Summer Sounds', which is one of the correct items listed in the gold answer, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson and Summer Sounds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both correct items from the gold answer: Matt Patterson and Summer Sounds."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson and Summer Sounds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both artists from the gold answer (Matt Patterson and Summer Sounds), just in a different order."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Matt Patterson and Summer Sounds",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes both correct items from the gold answer: Matt Patterson and Summer Sounds."
     }
   }
 }

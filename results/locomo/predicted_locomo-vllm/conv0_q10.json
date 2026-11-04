@@ -8,42 +8,183 @@
   "evidence": [
     "D3:13"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "How long has Caroline had her current group of friends for?",
-    "search_results": [],
-    "search_latency_ms": 29.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.7669366330866269,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline moved from her home country approximately 4 years before June 9, 2023, and has known her current group of friends since that move; their support was especially important to her after a tough breakup.",
+        "score": 0.7256032051889839,
+        "id": "2f091231-881d-4a99-94fc-17cb81f1495d",
+        "created_at": "2026-11-04T05:16:59.923269+00:00",
+        "updated_at": "2026-11-04T05:16:59.923269+00:00"
+      },
+      {
+        "memory": "Caroline has known her close friends for four years, since moving from her home country around June 2019, and credits their support for helping her through a tough breakup.",
+        "score": 0.6977113827615546,
+        "id": "8ff376f8-3c34-4e46-8366-611fbee245e4",
+        "created_at": "2026-11-04T05:16:46.760429+00:00",
+        "updated_at": "2026-11-04T05:16:46.760429+00:00"
+      },
+      {
+        "memory": "Caroline's relationships have shifted due to her transition; while some close friends remained supportive, others were unable to handle it, leaving her happier and more genuine in her current connections.",
+        "score": 0.688331090603693,
+        "id": "1efdaf7e-5410-47bb-9f2e-031179630c14",
+        "created_at": "2026-11-04T06:01:52.874168+00:00",
+        "updated_at": "2026-11-04T06:01:52.874168+00:00"
+      },
+      {
+        "memory": "Caroline's relationships changed after her transition: some close friends continued to support her while others could not handle it, leaving her happier and feeling more genuine connections with those who accept her",
+        "score": 0.6761327922350119,
+        "id": "0ec846bc-afda-48a4-9733-75e01aa8880d",
+        "created_at": "2026-11-04T06:01:56.680579+00:00",
+        "updated_at": "2026-11-04T06:01:56.680579+00:00"
+      },
+      {
+        "memory": "Caroline went biking with her group of friends last weekend around September 9-10, 2023, finding the experience refreshing and enjoyable.",
+        "score": 0.6669893684506015,
+        "id": "dbfd9f7f-a285-472b-bea3-1ed6499a9e38",
+        "created_at": "2026-11-04T06:01:24.087678+00:00",
+        "updated_at": "2026-11-04T06:01:24.087678+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, finding her current relationships more genuine and herself much happier.",
+        "score": 0.6632610599808936,
+        "id": "be919a79-79db-4088-bd66-0a875d1275cb",
+        "created_at": "2026-11-04T06:02:06.116658+00:00",
+        "updated_at": "2026-11-04T06:02:06.116658+00:00"
+      },
+      {
+        "memory": "Caroline went biking with her group of friends ('the gang') on the weekend of September 9-10, 2023, and found the experience refreshing while seeing cool sights.",
+        "score": 0.6611269038687748,
+        "id": "efef5aa9-b7f7-4169-aeec-bfc215ffa6fc",
+        "created_at": "2026-11-04T06:01:13.597604+00:00",
+        "updated_at": "2026-11-04T06:01:13.597604+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group on July 18, 2023, and finds it fulfilling to meet passionate people and use her voice to make a real difference in rights and community support.",
+        "score": 0.6604600431491235,
+        "id": "62edd22e-2812-4a44-9b50-e59b85cf91ae",
+        "created_at": "2026-11-04T05:51:52.578227+00:00",
+        "updated_at": "2026-11-04T05:51:52.578227+00:00"
+      },
+      {
+        "memory": "Caroline went biking with her group of friends last weekend before September 13, 2023, which she found refreshing and enjoyed seeing the natural scenery.",
+        "score": 0.6577604418953995,
+        "id": "497757e2-fe5c-4e1a-b4ba-05cc41d6cfca",
+        "created_at": "2026-11-04T06:01:32.078027+00:00",
+        "updated_at": "2026-11-04T06:01:32.078027+00:00"
+      },
+      {
+        "memory": "Caroline's transition has changed her relationships; while some close friends were unable to handle it, she remains supported by those who accept her, leading to more genuine connections.",
+        "score": 0.6575527425901557,
+        "id": "22a772a9-c557-4f05-a406-deb242d85b0c",
+        "created_at": "2026-11-04T06:02:09.168092+00:00",
+        "updated_at": "2026-11-04T06:02:09.168092+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.657493156488976,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, which she credits with helping her appreciate the support network that aids her transition.",
+        "score": 0.6514210002475752,
+        "id": "4b7378d5-7e19-4bac-b856-c8e3db41682a",
+        "created_at": "2026-11-04T05:21:55.168351+00:00",
+        "updated_at": "2026-11-04T05:21:55.168351+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to have a platform to be herself, support others' rights, and make a real difference in the community.",
+        "score": 0.6473187480116331,
+        "id": "eb66f416-37d3-4361-b9b3-c82784a0691e",
+        "created_at": "2026-11-04T05:52:40.064137+00:00",
+        "updated_at": "2026-11-04T05:52:40.064137+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to speak her truth and support community rights.",
+        "score": 0.6464859032107415,
+        "id": "2dfdc026-8371-4fcb-8ef4-015afc5afa30",
+        "created_at": "2026-11-04T05:52:44.894741+00:00",
+        "updated_at": "2026-11-04T05:52:44.894741+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family the week of June 26, 2023, and expressed gratitude for their support during her transition, noting that they make all the difference.",
+        "score": 0.6440984509882864,
+        "id": "e454b2da-d751-4ea7-8ed7-41b4845116f2",
+        "created_at": "2026-11-04T05:21:49.348113+00:00",
+        "updated_at": "2026-11-04T05:21:49.348113+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with friends and family around June 29, 2023, who are supporting her through her transition, and she feels lucky to have their help.",
+        "score": 0.6418788814590748,
+        "id": "57b0b814-ae03-44d2-8913-2c7ad6b6b234",
+        "created_at": "2026-11-04T05:21:46.433185+00:00",
+        "updated_at": "2026-11-04T05:21:46.433185+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.6391808015257273,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.6391528882329754,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline found self-acceptance to be a long process but credits friends, family, and role models for helping her through tough times and discovering her true identity, which motivates her to pass that same support to others.",
+        "score": 0.6377743889266261,
+        "id": "d498e604-9698-4818-9173-f0c14c0e2bfd",
+        "created_at": "2026-11-04T06:04:44.974576+00:00",
+        "updated_at": "2026-11-04T06:04:44.974576+00:00"
+      }
+    ],
+    "search_latency_ms": 98.1,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her group of friends, so it is not possible to determine how long she has had her current group of friends.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that the information is not available, whereas the gold answer provides a specific duration of 4 years, meaning no correct items from the gold answer are present."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "four years",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'four years' is an exact match for the gold answer '4 years'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her group of friends, so it is not possible to determine how long she has had her current group of friends.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that the information is not available, whereas the gold answer provides a specific duration of 4 years, meaning no correct items from the gold answer are present."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "four years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'four years' is an exact match for the gold answer '4 years'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her group of friends, so it is impossible to determine how long she has had them.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that the information is not available, whereas the gold answer provides a specific duration of 4 years, meaning no correct items from the gold answer are present."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "four years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'four years' is an exact match for the gold answer '4 years'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Caroline or her group of friends, so it is impossible to determine how long she has had them.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer states that the information is not available, whereas the gold answer provides a specific duration of 4 years, meaning no correct items from the gold answer are present."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "four years",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'four years' is an exact match for the gold answer '4 years'."
     }
   }
 }

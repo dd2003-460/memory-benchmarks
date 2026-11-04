@@ -8,42 +8,183 @@
   "evidence": [
     "D12:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What would Caroline's political leaning likely be?",
-    "search_results": [],
-    "search_latency_ms": 1171.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline values having supportive people around her who accept her, which helps her cope with challenging experiences like the one she had on a recent hike.",
+        "score": 0.7742382329306354,
+        "id": "e5fe3b5d-d4c9-414a-a4f6-19b4b6fa3874",
+        "created_at": "2026-11-04T05:54:36.285949+00:00",
+        "updated_at": "2026-11-04T05:54:36.285949+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have people around her who accept and support her, which gives her confidence that she will be okay despite facing challenges like the recent hike incident.",
+        "score": 0.6241050196613689,
+        "id": "99698859-a3ca-4779-8eb5-c88b7dc37602",
+        "created_at": "2026-11-04T05:54:15.038483+00:00",
+        "updated_at": "2026-11-04T05:54:15.038483+00:00"
+      },
+      {
+        "memory": "Caroline finds it helpful to have supportive people around her who accept her, which provides comfort during difficult times like the incident on her recent hike.",
+        "score": 0.601902400742484,
+        "id": "049e42e5-200f-44c5-a69c-9eddbf748574",
+        "created_at": "2026-11-04T05:54:45.039255+00:00",
+        "updated_at": "2026-11-04T05:54:45.039255+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.5996700860936724,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around who help her and others be true to themselves.",
+        "score": 0.38367022554077324,
+        "id": "fca59ecb-7548-4962-ad81-73a36ee69094",
+        "created_at": "2026-11-04T05:56:54.268792+00:00",
+        "updated_at": "2026-11-04T05:56:54.268792+00:00"
+      },
+      {
+        "memory": "Caroline identifies realizing she can be herself without fear and having the courage to transition as her best part of the experience, describing it as freeing to express herself authentically with support from others.",
+        "score": 0.37780159414677383,
+        "id": "35642185-0860-401f-967d-9c740bf21a36",
+        "created_at": "2026-11-04T05:24:03.015969+00:00",
+        "updated_at": "2026-11-04T05:24:03.015969+00:00"
+      },
+      {
+        "memory": "Caroline values living authentically and promoting LGBTQ rights, finding freedom in having supportive people around and helping others to be true to themselves",
+        "score": 0.37353372860488127,
+        "id": "05d0a6d8-e5f7-4604-bf82-7089de425a76",
+        "created_at": "2026-11-04T05:56:48.944362+00:00",
+        "updated_at": "2026-11-04T05:56:48.944362+00:00"
+      },
+      {
+        "memory": "Caroline volunteers for the LGBTQ+ community, finding inspiration in seeing her work make a difference and help create a more loving world, supported by her friends, family, and mentors.",
+        "score": 0.36649543488347824,
+        "id": "ff657226-06ac-4e81-a02c-e17a2f1cd6dc",
+        "created_at": "2026-11-04T06:01:32.072379+00:00",
+        "updated_at": "2026-11-04T06:01:32.072379+00:00"
+      },
+      {
+        "memory": "Caroline views music as cathartic and uplifting, believing that playing and singing allow her to express herself and connect with others.",
+        "score": 0.33532474290626374,
+        "id": "c82e232d-731c-4334-821a-5bf1385532cf",
+        "created_at": "2026-11-04T06:00:58.244753+00:00",
+        "updated_at": "2026-11-04T06:00:58.244753+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, which she refers to as her home country.",
+        "score": 0.3072132781702922,
+        "id": "8cc350ff-5e16-4d67-ac78-7e85bde19625",
+        "created_at": "2026-11-04T05:17:38.588057+00:00",
+        "updated_at": "2026-11-04T05:17:38.588057+00:00"
+      },
+      {
+        "memory": "Caroline is a mentor who found it deeply rewarding to see her mentee's face light up when they realized the support Caroline was providing, describing it as a special moment.",
+        "score": 0.30599754339179613,
+        "id": "dd7701b9-477f-41d6-b737-94d64181a0ed",
+        "created_at": "2026-11-04T05:51:50.391586+00:00",
+        "updated_at": "2026-11-04T05:51:50.391586+00:00"
+      },
+      {
+        "memory": "Melanie values her friendship with Caroline, noting that Caroline has always been there for her and makes life's struggles more bearable.",
+        "score": 0.3052497489173532,
+        "id": "b5287264-c540-4e56-9f7c-79ecde8abd23",
+        "created_at": "2026-11-04T05:55:11.839033+00:00",
+        "updated_at": "2026-11-04T05:55:11.839033+00:00"
+      },
+      {
+        "memory": "Caroline believes that while significant progress has been made in LGBTQ rights, there is still much work to be done, and she is motivated to help make a difference in the community.",
+        "score": 0.30330315143535463,
+        "id": "4314c06f-baae-4851-94f8-8744c5b0b5cb",
+        "created_at": "2026-11-04T05:22:11.275756+00:00",
+        "updated_at": "2026-11-04T05:22:11.275756+00:00"
+      },
+      {
+        "memory": "Caroline started transitioning three years ago, which places the start of her transition around mid-2020",
+        "score": 0.2944470163859233,
+        "id": "3bbc9d2b-ecb1-4197-a41a-f9edcbe0b9a8",
+        "created_at": "2026-11-04T05:16:17.682541+00:00",
+        "updated_at": "2026-11-04T05:16:17.682541+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.2884869226744359,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.2852715816642957,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline is from Sweden, where her grandmother lives, and considers the country her home country.",
+        "score": 0.2838051594264671,
+        "id": "f7f477ac-d801-47f4-a662-bb68c9fe4d67",
+        "created_at": "2026-11-04T05:18:07.240905+00:00",
+        "updated_at": "2026-11-04T05:18:07.240905+00:00"
+      },
+      {
+        "memory": "Caroline had a picnic with her friends and family in the week of June 26, 2023, who are helping support her through her transition.",
+        "score": 0.2784865794070627,
+        "id": "2bc56c5d-de7b-4a72-ae99-12a25593802e",
+        "created_at": "2026-11-04T05:21:42.996521+00:00",
+        "updated_at": "2026-11-04T05:21:42.996521+00:00"
+      },
+      {
+        "memory": "Caroline expressed a desire to help make a difference in LGBTQ rights, acknowledging that while progress has been made, there is still plenty of work to be done.",
+        "score": 0.2757552363821679,
+        "id": "a462b947-a96b-49ae-b522-0a02596a649b",
+        "created_at": "2026-11-04T05:22:04.438520+00:00",
+        "updated_at": "2026-11-04T05:22:04.438520+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who uses her work to represent inclusivity and diversity, specifically speaking up for the LGBTQ+ community and pushing for acceptance.",
+        "score": 0.2365262965716214,
+        "id": "09cabcd5-39c5-4e7d-8944-b3e81d77380e",
+        "created_at": "2026-11-04T05:53:47.114618+00:00",
+        "updated_at": "2026-11-04T05:53:47.114618+00:00"
+      }
+    ],
+    "search_latency_ms": 87.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Progressive or Liberal",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'Liberal', which is an exact match for the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Liberal or progressive",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Liberal', which is the exact match for the gold answer, and 'progressive' is a valid synonym in this context."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Progressive or liberal, with a strong focus on social justice, inclusivity, and LGBTQ+ rights",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'liberal', which matches the gold answer exactly, and adds consistent additional details."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Liberal or progressive",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes the exact term 'Liberal' from the gold answer, satisfying the requirement for at least one correct item."
     }
   }
 }

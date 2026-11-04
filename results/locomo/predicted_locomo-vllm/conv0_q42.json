@@ -9,42 +9,183 @@
     "D10:12",
     "D10:14"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "Would Melanie be more interested in going to a national park or a theme park?",
-    "search_results": [],
-    "search_latency_ms": 70.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie visited a park with kids on the weekend of October 7-8, 2023, which she described as a joyful and happy experience that showed her life's beauty.",
+        "score": 0.6578472076161402,
+        "id": "72ead1b4-4591-422e-873e-9326579b81ad",
+        "created_at": "2026-11-04T06:02:06.121181+00:00",
+        "updated_at": "2026-11-04T06:02:06.121181+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.6388251610223388,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors.",
+        "score": 0.6367551663448867,
+        "id": "e1e3aa63-b6f9-4b51-b2a1-0ac3573761bb",
+        "created_at": "2026-11-04T06:00:29.005627+00:00",
+        "updated_at": "2026-11-04T06:00:29.005627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the playground equipment like climbing nets and slides.",
+        "score": 0.6289334898445615,
+        "id": "05248bf6-162b-4bac-a0ca-31a3e64bf012",
+        "created_at": "2026-11-04T06:00:01.354836+00:00",
+        "updated_at": "2026-11-04T06:00:01.354836+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the playground.",
+        "score": 0.6261618730844105,
+        "id": "b8ade876-9899-44a0-afad-863850ad3837",
+        "created_at": "2026-11-04T06:00:23.805891+00:00",
+        "updated_at": "2026-11-04T06:00:23.805891+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing on the jungle gym outdoors.",
+        "score": 0.6239722352221947,
+        "id": "454fba23-cae9-4c21-94bf-4405ff75ed32",
+        "created_at": "2026-11-04T06:00:34.430100+00:00",
+        "updated_at": "2026-11-04T06:00:34.430100+00:00"
+      },
+      {
+        "memory": "Melanie visited a park with her kids around October 7-8, 2023, where they had a joyful time despite a precautionary sign that initially concerned Caroline.",
+        "score": 0.621563771654403,
+        "id": "3dac083c-e9f8-4108-9750-b3357fdac8f6",
+        "created_at": "2026-11-04T06:02:09.172044+00:00",
+        "updated_at": "2026-11-04T06:02:09.172044+00:00"
+      },
+      {
+        "memory": "Melanie enjoys live music and shared photos from a recent outdoor concert featuring a band playing on a stage in a park, noting that the experience reminded her how music brings people together.",
+        "score": 0.6038785646744058,
+        "id": "ae6f1e12-22ea-4f60-b6ee-b1006e81a19b",
+        "created_at": "2026-11-04T06:00:42.175544+00:00",
+        "updated_at": "2026-11-04T06:00:42.175544+00:00"
+      },
+      {
+        "memory": "Melanie has children who enjoyed playing on a jungle gym at a park around August 27, 2023.",
+        "score": 0.6037875265795616,
+        "id": "965fd577-3992-42ee-b3a3-28547b4082c2",
+        "created_at": "2026-11-04T06:00:04.636095+00:00",
+        "updated_at": "2026-11-04T06:00:04.636095+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of a family picnic at a park where she and her husband sat on a blanket eating food, describing the day as fun with games, good food, and quality time together.",
+        "score": 0.6037066303148204,
+        "id": "791f1159-de9e-4ec8-b8c7-fd4ca9bbdcce",
+        "created_at": "2026-11-04T05:17:18.028149+00:00",
+        "updated_at": "2026-11-04T05:17:18.028149+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.6017347902409653,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      },
+      {
+        "memory": "Melanie went on a family hiking trip in the mountains around October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that her kids loved it.",
+        "score": 0.6007605446287447,
+        "id": "608e2bad-c8e4-401a-adf6-0486766b38ec",
+        "created_at": "2026-11-04T06:03:57.774546+00:00",
+        "updated_at": "2026-11-04T06:03:57.774546+00:00"
+      },
+      {
+        "memory": "During her family camping trip in the mountains around June 20, 2023, Melanie explored nature, roasted marshmallows around a campfire, went on a hike with an amazing view from the top, and noted that her two younger kids love nature.",
+        "score": 0.5982813877123377,
+        "id": "4e5b801b-5289-4fd1-88bf-6fb41449ddc7",
+        "created_at": "2026-11-04T05:17:55.700693+00:00",
+        "updated_at": "2026-11-04T05:17:55.700693+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.5952538371753312,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a relaxing way to unwind after a recent road trip and a chance to bond over stories and campfires.",
+        "score": 0.5943073073718292,
+        "id": "85ab54ea-860e-48d5-88b1-d42e16398b88",
+        "created_at": "2026-11-04T06:04:07.339773+00:00",
+        "updated_at": "2026-11-04T06:04:07.339773+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and an opportunity for the kids to have fun.",
+        "score": 0.5937933228041287,
+        "id": "e9b1adb7-dac8-48f6-8f62-b03e3430b536",
+        "created_at": "2026-11-04T06:04:09.780777+00:00",
+        "updated_at": "2026-11-04T06:04:09.780777+00:00"
+      },
+      {
+        "memory": "Melanie went on a family camping trip where they explored nature, roasted marshmallows around the campfire, and hiked to a scenic viewpoint, noting that her two younger kids love nature and she found the experience special and unforgettable",
+        "score": 0.5928859802107488,
+        "id": "95a16d20-82a9-4474-8901-a7331bcdb754",
+        "created_at": "2026-11-04T05:18:40.779615+00:00",
+        "updated_at": "2026-11-04T05:18:40.779615+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after their recent road trip and an activity the kids loved.",
+        "score": 0.5919414472106859,
+        "id": "dffcd7c9-b282-438a-a2c4-3e54b77d8ab6",
+        "created_at": "2026-11-04T06:03:52.993386+00:00",
+        "updated_at": "2026-11-04T06:03:52.993386+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip and noted that the kids loved it.",
+        "score": 0.5908696847215583,
+        "id": "d7f9de64-673a-499c-a4c2-7a33bee2e0bb",
+        "created_at": "2026-11-04T06:04:00.206081+00:00",
+        "updated_at": "2026-11-04T06:04:00.206081+00:00"
+      },
+      {
+        "memory": "Melanie went hiking in the mountains with her family on October 19, 2023, which she described as a nice way to relax after a recent road trip; the kids enjoyed the activity.",
+        "score": 0.590174359512242,
+        "id": "a270ec42-02cf-493d-8d31-b44418b8f9b3",
+        "created_at": "2026-11-04T06:04:02.839696+00:00",
+        "updated_at": "2026-11-04T06:04:02.839696+00:00"
+      }
+    ],
+    "search_latency_ms": 132.4,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "national park",
+      "memories_evaluated": 10,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "national park",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "national park",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "national park",
+      "memories_evaluated": 20,
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

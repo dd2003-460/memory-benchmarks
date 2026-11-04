@@ -8,42 +8,183 @@
   "evidence": [
     "D5:4"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie sign up for a pottery class?",
-    "search_results": [],
-    "search_latency_ms": 29.4,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.9192934604114681,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a form of therapy that allows her to express herself creatively and relax.",
+        "score": 0.9179859378440268,
+        "id": "c8778571-c3dd-470b-b393-440515cc7a29",
+        "created_at": "2026-11-04T05:18:59.474657+00:00",
+        "updated_at": "2026-11-04T05:18:59.474657+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapeutic for expressing herself and getting creative.",
+        "score": 0.9150775872260442,
+        "id": "863acfdc-ed77-4159-9667-6ad88f7f4c0d",
+        "created_at": "2026-11-04T05:20:30.805646+00:00",
+        "updated_at": "2026-11-04T05:20:30.805646+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapy that allows her to express herself and get creative.",
+        "score": 0.9139598301167974,
+        "id": "ac1868e6-c55e-4eb9-9dbc-af2cc9fccb86",
+        "created_at": "2026-11-04T05:21:14.095524+00:00",
+        "updated_at": "2026-11-04T05:21:14.095524+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.8814986025394935,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie made a pottery piece in class on August 24, 2023, and describes pottery as relaxing and creative.",
+        "score": 0.8787273081618278,
+        "id": "1f83b728-270b-4f29-8f9e-de017f1e3a4d",
+        "created_at": "2026-11-04T05:58:00.805902+00:00",
+        "updated_at": "2026-11-04T05:58:00.805902+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.8746095215903319,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.8718975229614084,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.8718425599945979,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8711777664995937,
+        "id": "541aca91-1956-4564-bf9d-e1f9f085981f",
+        "created_at": "2026-11-04T05:57:44.091565+00:00",
+        "updated_at": "2026-11-04T05:57:44.091565+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8711777664995937,
+        "id": "86fddf90-54ec-4523-b385-ffef911062fb",
+        "created_at": "2026-11-04T05:57:38.763970+00:00",
+        "updated_at": "2026-11-04T05:57:38.763970+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.8711777664995937,
+        "id": "65231ceb-ed9f-44bd-96ec-617c271a1e52",
+        "created_at": "2026-11-04T05:57:28.925043+00:00",
+        "updated_at": "2026-11-04T05:57:28.925043+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, and finds the activity relaxing and creative",
+        "score": 0.865620377655517,
+        "id": "373de4e9-e448-43a3-9e7a-595ee354dc5a",
+        "created_at": "2026-11-04T05:57:49.617216+00:00",
+        "updated_at": "2026-11-04T05:57:49.617216+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and shared a photo of the plate/bowl with Caroline.",
+        "score": 0.8654327079574438,
+        "id": "2c2b0492-39f0-47c3-b5ad-2d1b7e8ba58e",
+        "created_at": "2026-11-04T05:57:17.709621+00:00",
+        "updated_at": "2026-11-04T05:57:17.709621+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.865081822017338,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.8641081446428786,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the work involved.",
+        "score": 0.8639336317942776,
+        "id": "33033d1a-6f6e-41f2-ba7f-faacc5b2f8f5",
+        "created_at": "2026-11-04T05:19:54.440243+00:00",
+        "updated_at": "2026-11-04T05:19:54.440243+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and asked Caroline if she had tried it.",
+        "score": 0.8614587979391141,
+        "id": "1d97ffde-19dc-4af9-8211-d5efe33fd5c2",
+        "created_at": "2026-11-04T05:57:32.046273+00:00",
+        "updated_at": "2026-11-04T05:57:32.046273+00:00"
+      },
+      {
+        "memory": "Melanie made a bowl with a black and white flower design in her pottery class and shared a photo of it with Caroline on July 3, 2023.",
+        "score": 0.8508787129557234,
+        "id": "2952844d-fd12-491a-bd4f-18422aa373be",
+        "created_at": "2026-11-04T05:21:14.100278+00:00",
+        "updated_at": "2026-11-04T05:21:14.100278+00:00"
+      },
+      {
+        "memory": "Melanie completed a pottery project, specifically a ceramic bowl with a colorful design, and shared a photo of it with Caroline on August 17, 2023, expressing pride in the work.",
+        "score": 0.8417450118041255,
+        "id": "f70ed6a0-1ba4-4aba-8643-93afce05d193",
+        "created_at": "2026-11-04T05:54:48.862153+00:00",
+        "updated_at": "2026-11-04T05:54:48.862153+00:00"
+      }
+    ],
+    "search_latency_ms": 115.9,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'July 2, 2023' is the exact same date as the gold answer '2 July 2023', just formatted differently."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 2, 2023' is the exact same date as the gold answer '2 July 2023', just formatted differently."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 2, 2023' is the exact same date as the gold answer '2 July 2023', just formatted differently."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 2, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 2, 2023' is the exact same date as the gold answer '2 July 2023', just formatted differently."
     }
   }
 }

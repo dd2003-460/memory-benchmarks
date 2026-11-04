@@ -9,42 +9,183 @@
     "D14:5",
     "D8:6"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What subject have Caroline and Melanie both painted?",
-    "search_results": [],
-    "search_latency_ms": 22.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie's favorite art forms are painting landscapes and still life, and she shared a recent painting of sunflowers with Caroline on August 28, 2023.",
+        "score": 0.6887829120417137,
+        "id": "c6de204c-668a-4c93-90c4-008f076661e5",
+        "created_at": "2026-11-04T05:59:56.626902+00:00",
+        "updated_at": "2026-11-04T05:59:56.626902+00:00"
+      },
+      {
+        "memory": "Melanie, Caroline's friend, loves painting landscapes and still life, recently creating a painting of sunflowers and planning new works inspired by autumn.",
+        "score": 0.6864713756977774,
+        "id": "7cb207db-e98c-44c5-930c-46ef873bd632",
+        "created_at": "2026-11-04T05:59:49.977802+00:00",
+        "updated_at": "2026-11-04T05:59:49.977802+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview image of a painting with a blue and yellow design for her upcoming LGBTQ art show with Melanie on July 17, 2023.",
+        "score": 0.6864460115003246,
+        "id": "8ce4d1fa-065a-43ee-bd82-db10c646b8fd",
+        "created_at": "2026-11-04T05:25:06.660545+00:00",
+        "updated_at": "2026-11-04T05:25:06.660545+00:00"
+      },
+      {
+        "memory": "Melanie shared a recent painting of a sunflower on canvas with Caroline on August 25, 2023, as an example of her landscape and still life work.",
+        "score": 0.6769436268312741,
+        "id": "837a65b1-cb3c-4a88-b265-08b4f984f46f",
+        "created_at": "2026-11-04T05:59:32.747982+00:00",
+        "updated_at": "2026-11-04T05:59:32.747982+00:00"
+      },
+      {
+        "memory": "Melanie created a ceramic bowl with a colorful design and patterns, which she shared with Caroline on August 17, 2023, expressing pride in the project and describing painting as a way to express feelings and be creative.",
+        "score": 0.6750606528024024,
+        "id": "198d3559-04ce-4677-9b8d-6da19ba38c15",
+        "created_at": "2026-11-04T05:54:51.703690+00:00",
+        "updated_at": "2026-11-04T05:54:51.703690+00:00"
+      },
+      {
+        "memory": "Melanie describes painting as a fun way to express her feelings, get creative, and relax after a long day, sharing this with Caroline on May 8, 2023",
+        "score": 0.6726476058937185,
+        "id": "4334428e-7220-4399-92b8-f7effbe4c280",
+        "created_at": "2026-11-04T05:15:16.629657+00:00",
+        "updated_at": "2026-11-04T05:15:16.629657+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around August 16, 2023, featuring vibrant colors and a blue face, which she shared with Melanie.",
+        "score": 0.6723132896407124,
+        "id": "44129732-7721-49e5-af8b-087204ce97c4",
+        "created_at": "2026-11-04T05:56:54.263056+00:00",
+        "updated_at": "2026-11-04T05:56:54.263056+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.6721793753750724,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview painting for her upcoming art show with Melanie on July 17, 2023; the artwork depicts a tree with a bright sun in the background.",
+        "score": 0.6674035067462983,
+        "id": "33fb8af3-2947-4776-bdfa-51fce3c3344b",
+        "created_at": "2026-11-04T05:51:41.968582+00:00",
+        "updated_at": "2026-11-04T05:51:41.968582+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6649467888260705,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to express her feelings and explore her gender identity, finding that creating art was crucial during her transition as it helped her understand and accept herself.",
+        "score": 0.6646735738724723,
+        "id": "f38a23ba-b78c-4707-b597-eb183fcca0f3",
+        "created_at": "2026-11-04T06:01:34.703508+00:00",
+        "updated_at": "2026-11-04T06:01:34.703508+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around August 16, 2023, featuring vibrant colors including a blue face, which she shared with Melanie",
+        "score": 0.660567394388322,
+        "id": "27e24405-628c-4d49-8df1-3ef5a6b29582",
+        "created_at": "2026-11-04T05:56:48.939112+00:00",
+        "updated_at": "2026-11-04T05:56:48.939112+00:00"
+      },
+      {
+        "memory": "Caroline feels liberated and empowered when painting, using art as a therapeutic way to explore her identity and be true to herself",
+        "score": 0.6565281734024342,
+        "id": "e98781dd-cf17-4ec5-8341-a1d56e5a4f23",
+        "created_at": "2026-11-04T05:56:48.941753+00:00",
+        "updated_at": "2026-11-04T05:56:48.941753+00:00"
+      },
+      {
+        "memory": "Caroline finds painting therapeutic as it helps her explore her identity, be true to herself, and express herself creatively.",
+        "score": 0.6500912479475216,
+        "id": "d783d67a-ec04-45c2-a193-444757afd875",
+        "created_at": "2026-11-04T05:56:39.749181+00:00",
+        "updated_at": "2026-11-04T05:56:39.749181+00:00"
+      },
+      {
+        "memory": "Melanie loves painting animals, finding the process peaceful and special due to the grace of the subjects",
+        "score": 0.6499596534256963,
+        "id": "7f03c3c5-0c19-4906-9341-d2c80fe39b65",
+        "created_at": "2026-11-04T05:56:48.935862+00:00",
+        "updated_at": "2026-11-04T05:56:48.935862+00:00"
+      },
+      {
+        "memory": "Caroline shared a preview painting for her upcoming art show depicting a tree with a bright sun in the background, which she painted after visiting an LGBTQ center to capture everyone's unity and strength.",
+        "score": 0.6488131350949927,
+        "id": "7ec4a0e2-f6b3-4618-b42f-dc473fa72e33",
+        "created_at": "2026-11-04T05:51:50.399717+00:00",
+        "updated_at": "2026-11-04T05:51:50.399717+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.6487001259515486,
+        "id": "12e9fad7-91f3-4b99-aecf-6649b010d37d",
+        "created_at": "2026-11-04T05:54:36.292947+00:00",
+        "updated_at": "2026-11-04T05:54:36.292947+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns in art, creating pieces intended to catch the eye and make people smile, and views painting as a way to express feelings and be creative.",
+        "score": 0.6487001259515486,
+        "id": "0e579ad8-5fcb-4857-98fa-6826d5dac893",
+        "created_at": "2026-11-04T05:54:45.045277+00:00",
+        "updated_at": "2026-11-04T05:54:45.045277+00:00"
+      },
+      {
+        "memory": "Melanie is obsessed with colors and patterns, which inspired her to create eye-catching art that makes people smile, and she views painting as a way to express feelings and be creative",
+        "score": 0.6477611439576372,
+        "id": "bcd6fa8b-abb2-4bd4-bd1b-470bf84d8cf2",
+        "created_at": "2026-11-04T05:54:55.724364+00:00",
+        "updated_at": "2026-11-04T05:54:55.724364+00:00"
+      },
+      {
+        "memory": "While taking a break from pottery due to injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6471853452614778,
+        "id": "bac40d50-f329-4c9f-b6c9-edb1944e119b",
+        "created_at": "2026-11-04T06:02:32.146280+00:00",
+        "updated_at": "2026-11-04T06:02:32.146280+00:00"
+      }
+    ],
+    "search_latency_ms": 123.6,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Landscapes",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Landscapes' is a broader category that does not specifically identify the subject 'Sunsets' mentioned in the gold answer, and 'Sunsets' is not explicitly included in the generated response."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Landscapes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Landscapes' is a broader category that does not specifically identify the subject 'Sunsets' mentioned in the gold answer, and 'Sunsets' is not explicitly included in the generated response."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Landscapes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Landscapes' is a broader category that does not specifically identify the subject 'Sunsets' mentioned in the gold answer, and 'Sunsets' is not explicitly included in the generated response."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "generated_answer": "Landscapes",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Landscapes' is a broader category that does not specifically identify the subject 'Sunsets' mentioned in the gold answer, and 'Sunsets' is not explicitly included in the generated response."
     }
   }
 }

@@ -9,42 +9,183 @@
     "D7:8",
     "D6:10"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What books has Melanie read?",
-    "search_results": [],
-    "search_latency_ms": 1554381.2,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.7055156928651705,
+        "id": "f8f5cc84-74ba-4c43-a952-28a9b52a9094",
+        "created_at": "2026-11-04T06:02:40.719060+00:00",
+        "updated_at": "2026-11-04T06:02:40.719060+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.7055156928651705,
+        "id": "09cab859-e567-4bfb-88a4-360d4555f7ab",
+        "created_at": "2026-11-04T06:02:43.909765+00:00",
+        "updated_at": "2026-11-04T06:02:43.909765+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.7055156928651705,
+        "id": "53d384a0-46ac-495d-9472-5c7a332ee26f",
+        "created_at": "2026-11-04T06:02:35.262773+00:00",
+        "updated_at": "2026-11-04T06:02:35.262773+00:00"
+      },
+      {
+        "memory": "While recovering from her injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.7055156928651705,
+        "id": "91b9209a-0887-4daf-928d-f95b6986065c",
+        "created_at": "2026-11-04T06:02:51.853727+00:00",
+        "updated_at": "2026-11-04T06:02:51.853727+00:00"
+      },
+      {
+        "memory": "While taking a break from pottery due to injury, Melanie has been reading a book recommended by Caroline and painting to keep busy.",
+        "score": 0.6855180782051644,
+        "id": "bac40d50-f329-4c9f-b6c9-edb1944e119b",
+        "created_at": "2026-11-04T06:02:32.146280+00:00",
+        "updated_at": "2026-11-04T06:02:32.146280+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book is 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.6828110787721555,
+        "id": "123ed668-743d-419b-9492-7a384bcdafaf",
+        "created_at": "2026-11-04T05:21:40.488085+00:00",
+        "updated_at": "2026-11-04T05:21:40.488085+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.682226922886429,
+        "id": "3709dd54-5124-4ae0-b23f-902e410a41bd",
+        "created_at": "2026-11-04T05:21:49.354675+00:00",
+        "updated_at": "2026-11-04T05:21:49.354675+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for showing how friendship and compassion can make a difference.",
+        "score": 0.682226922886429,
+        "id": "819a0668-f44e-49e7-a357-42166d57b564",
+        "created_at": "2026-11-04T05:21:52.375784+00:00",
+        "updated_at": "2026-11-04T05:21:52.375784+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.6799473814317237,
+        "id": "691ed905-3a9e-4b3f-8658-d52678fcd57b",
+        "created_at": "2026-11-04T05:21:43.001513+00:00",
+        "updated_at": "2026-11-04T05:21:43.001513+00:00"
+      },
+      {
+        "memory": "Melanie's favorite childhood book was 'Charlotte's Web', which she loved for its themes of friendship and compassion making a difference.",
+        "score": 0.6799473814317237,
+        "id": "296d29d9-3159-4d2e-9f94-ea6737ad8a78",
+        "created_at": "2026-11-04T05:21:46.429600+00:00",
+        "updated_at": "2026-11-04T05:21:46.429600+00:00"
+      },
+      {
+        "memory": "Melanie loved reading 'Charlotte's Web' as a child and values the lessons about friendship and compassion in the story.",
+        "score": 0.6682567160447233,
+        "id": "80d47a52-88e5-4084-a73c-f539fc89f8ca",
+        "created_at": "2026-11-04T05:21:55.163753+00:00",
+        "updated_at": "2026-11-04T05:21:55.163753+00:00"
+      },
+      {
+        "memory": "Melanie read a book last year (around 2022) that reminds her to always pursue her dreams, which she shared with Caroline as inspiration for her career path",
+        "score": 0.6617545103066249,
+        "id": "8996cf62-988d-4b47-bfc7-db5f400139ae",
+        "created_at": "2026-11-04T05:22:16.338578+00:00",
+        "updated_at": "2026-11-04T05:22:16.338578+00:00"
+      },
+      {
+        "memory": "As of October 13, 2023, Melanie is recovering from her injury, keeping busy by reading a book Caroline recommended previously and painting.",
+        "score": 0.657339441849099,
+        "id": "e991e95e-40d0-4a2d-9b0d-4bcc7338c13a",
+        "created_at": "2026-11-04T06:02:29.204377+00:00",
+        "updated_at": "2026-11-04T06:02:29.204377+00:00"
+      },
+      {
+        "memory": "Melanie has been taking a break from pottery due to personal difficulties but is coping by reading a book recommended by Caroline and painting",
+        "score": 0.6499154595797217,
+        "id": "c4c0cec8-7bb6-4dce-82b7-ae8a8e619b08",
+        "created_at": "2026-11-04T06:02:55.381974+00:00",
+        "updated_at": "2026-11-04T06:02:55.381974+00:00"
+      },
+      {
+        "memory": "Melanie is reading a book recommended by Caroline and has been painting to keep busy, describing the experience as tough but manageable.",
+        "score": 0.643937437141662,
+        "id": "a060928f-6364-4387-9098-e5a901946f5f",
+        "created_at": "2026-11-04T06:02:58.539972+00:00",
+        "updated_at": "2026-11-04T06:02:58.539972+00:00"
+      },
+      {
+        "memory": "Caroline loves reading and views books as a source of guidance, motivation, and self-discovery that plays a huge part in her personal journey",
+        "score": 0.6058092021827346,
+        "id": "c5e544a1-73f5-411b-ab4f-3c9968010082",
+        "created_at": "2026-11-04T05:22:18.598244+00:00",
+        "updated_at": "2026-11-04T05:22:18.598244+00:00"
+      },
+      {
+        "memory": "Melanie carves out daily me-time by running, reading, or playing the violin to refresh herself and stay present for her family, as she shared with Caroline on May 25, 2023",
+        "score": 0.6037831772522122,
+        "id": "b6c4e661-f73c-4256-9f20-65cdd7c0662e",
+        "created_at": "2026-11-04T05:15:35.902982+00:00",
+        "updated_at": "2026-11-04T05:15:35.902982+00:00"
+      },
+      {
+        "memory": "Melanie has never attended a poetry reading before, as stated during her conversation with Caroline on October 13, 2023.",
+        "score": 0.6013044909678047,
+        "id": "61f2247b-7789-43eb-8def-7f078d2f2e98",
+        "created_at": "2026-11-04T06:03:14.148960+00:00",
+        "updated_at": "2026-11-04T06:03:14.148960+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.5186434216954237,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.5107640520836835,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      }
+    ],
+    "search_latency_ms": 86.0,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Charlotte's Web",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'Charlotte's Web', which is one of the correct items from the gold answer list, satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has read *Charlotte's Web*, a book that reminds her to pursue her dreams (read around 2022), and a book recommended by Caroline (read in 2023).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Charlotte's Web', which is one of the two books listed in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie has read *Charlotte's Web*, a book about pursuing her dreams (read around 2022), and a book recommended by Caroline.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Charlotte's Web', which is one of the correct items from the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "'Charlotte's Web', a book that reminds her to pursue her dreams, and a book recommended by Caroline",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'Charlotte's Web', which is one of the correct items from the gold answer, satisfying the partial credit rule."
     }
   }
 }

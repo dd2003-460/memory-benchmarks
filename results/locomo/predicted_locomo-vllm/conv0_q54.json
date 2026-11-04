@@ -8,42 +8,183 @@
   "evidence": [
     "D13:11"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline draw a self-portrait?",
-    "search_results": [],
-    "search_latency_ms": 31.8,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline described the process of creating her self-portrait as feeling liberated and empowered, noting that painting helps her explore her identity, be true to herself, and serves as a therapeutic outlet.",
+        "score": 0.9021132534454935,
+        "id": "75c2be1b-1de0-45ad-9b08-d8da7e5938ce",
+        "created_at": "2026-11-04T05:56:54.266065+00:00",
+        "updated_at": "2026-11-04T05:56:54.266065+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting with vibrant colors and a blue face around August 16, 2023, feeling liberated and empowered while exploring her identity.",
+        "score": 0.8893685414137611,
+        "id": "5ca9ca1a-a2b4-42bb-acb9-955fbfbad69c",
+        "created_at": "2026-11-04T05:56:39.746748+00:00",
+        "updated_at": "2026-11-04T05:56:39.746748+00:00"
+      },
+      {
+        "memory": "Caroline felt liberated and empowered while painting her recent self-portrait, describing the process as therapeutic and a way to explore her identity and be true to herself.",
+        "score": 0.8885450836794716,
+        "id": "b278040d-e137-4d5f-9b03-d3b95676a57b",
+        "created_at": "2026-11-04T05:56:31.740970+00:00",
+        "updated_at": "2026-11-04T05:56:31.740970+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around August 16, 2023, featuring vibrant colors and a blue face, which she shared with Melanie.",
+        "score": 0.8873002948259202,
+        "id": "44129732-7721-49e5-af8b-087204ce97c4",
+        "created_at": "2026-11-04T05:56:54.263056+00:00",
+        "updated_at": "2026-11-04T05:56:54.263056+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting featuring a woman with a blue face using vibrant colors last week around August 16, 2023, and stated that painting is great for expressing herself",
+        "score": 0.880487847963515,
+        "id": "241822d3-aa6c-4273-9f4b-89e65a173391",
+        "created_at": "2026-11-04T05:56:24.918477+00:00",
+        "updated_at": "2026-11-04T05:56:24.918477+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting featuring a woman with a blue face in vibrant colors around August 16, 2023, describing the experience as liberated and empowered.",
+        "score": 0.8766080405718103,
+        "id": "fbb09045-64ba-4150-97ce-77c491878b6b",
+        "created_at": "2026-11-04T05:56:59.713533+00:00",
+        "updated_at": "2026-11-04T05:56:59.713533+00:00"
+      },
+      {
+        "memory": "Caroline created a self-portrait painting around August 16, 2023, featuring vibrant colors including a blue face, which she shared with Melanie",
+        "score": 0.8728998777652809,
+        "id": "27e24405-628c-4d49-8df1-3ef5a6b29582",
+        "created_at": "2026-11-04T05:56:48.939112+00:00",
+        "updated_at": "2026-11-04T05:56:48.939112+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who uses painting and drawing to express feelings and explore her gender identity; creating art was important during her transition and helped her understand herself",
+        "score": 0.6829797423420991,
+        "id": "490ba239-2e24-4a0a-bf22-fc49f2aaba81",
+        "created_at": "2026-11-04T06:01:56.671883+00:00",
+        "updated_at": "2026-11-04T06:01:56.671883+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to express her feelings and explore her gender identity, finding that creating art was crucial during her transition as it helped her understand and accept herself.",
+        "score": 0.6808810632760036,
+        "id": "f38a23ba-b78c-4707-b597-eb183fcca0f3",
+        "created_at": "2026-11-04T06:01:34.703508+00:00",
+        "updated_at": "2026-11-04T06:01:34.703508+00:00"
+      },
+      {
+        "memory": "Caroline uses painting and drawing to explore her gender identity and found art particularly important during her transition, helping her understand herself and express complex feelings.",
+        "score": 0.6705805398702706,
+        "id": "ff12cbce-fe37-4ceb-b70e-7823e7ba8960",
+        "created_at": "2026-11-04T06:01:52.865949+00:00",
+        "updated_at": "2026-11-04T06:01:52.865949+00:00"
+      },
+      {
+        "memory": "Caroline is an artist who enjoys drawing flowers and nature, finding that art helps her express feelings and capture beautiful moments like a bouquet of wildflowers.",
+        "score": 0.6703315013398772,
+        "id": "c9379695-1559-471f-9c66-41ad8c81c538",
+        "created_at": "2026-11-04T06:00:01.338693+00:00",
+        "updated_at": "2026-11-04T06:00:01.338693+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting with red and blue brush strokes to represent her journey, using the colors to symbolize smashing the rigid binary gender system and celebrating her authentic self.",
+        "score": 0.6686997605113182,
+        "id": "b644f069-3ac7-4956-bd52-eacc26d224f1",
+        "created_at": "2026-11-04T06:02:06.111279+00:00",
+        "updated_at": "2026-11-04T06:02:06.111279+00:00"
+      },
+      {
+        "memory": "Caroline views art as a mood-booster and was happy to see someone drawing on the ground with chalk around late August 2023, noting that creativity can lighten someone's day.",
+        "score": 0.6583500303875708,
+        "id": "4438bd5b-995a-4a1f-89b3-efcd233b642c",
+        "created_at": "2026-11-04T05:59:16.310666+00:00",
+        "updated_at": "2026-11-04T05:59:16.310666+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who created a painting using red and blue to represent the binary gender system, with mixed colors symbolizing the rejection of rigid thinking and her pride in being her authentic self.",
+        "score": 0.6520168798776454,
+        "id": "14852e9d-332a-4c62-bc2f-4c4ca30438a7",
+        "created_at": "2026-11-04T06:02:09.163880+00:00",
+        "updated_at": "2026-11-04T06:02:09.163880+00:00"
+      },
+      {
+        "memory": "Caroline created a painting with red and blue brush strokes to represent her path as a trans woman, where the colors symbolize the binary gender system and their mix signifies smashing rigid thinking. She describes it as a reminder to love her authentic self, noting that while it took time, she is finally proud of who she is.",
+        "score": 0.6519397947086446,
+        "id": "fdcf5ad1-0d61-452f-a8fc-0e820e1ce570",
+        "created_at": "2026-11-04T06:01:43.676483+00:00",
+        "updated_at": "2026-11-04T06:01:43.676483+00:00"
+      },
+      {
+        "memory": "Caroline was inspired by the transgender poetry reading to create art and drew a picture of a woman in a dress that symbolizes freedom, authenticity, and embracing her womanhood.",
+        "score": 0.6515618076915687,
+        "id": "bae21aa7-63a2-415f-b064-d9d014944006",
+        "created_at": "2026-11-04T06:03:09.410018+00:00",
+        "updated_at": "2026-11-04T06:03:09.410018+00:00"
+      },
+      {
+        "memory": "Caroline enjoys drawing flowers, describing it as one of her favorite artistic activities that allows her to express feelings and capture moments from nature.",
+        "score": 0.6487052555382985,
+        "id": "130880ff-0fe9-4555-bcf8-c3723bf02079",
+        "created_at": "2026-11-04T05:59:56.622688+00:00",
+        "updated_at": "2026-11-04T05:59:56.622688+00:00"
+      },
+      {
+        "memory": "Caroline identifies drawing flowers as one of her favorite artistic activities and values appreciating nature and sharing it with others.",
+        "score": 0.6463922685158165,
+        "id": "4acc68fc-d64f-4cad-b42b-af6fdfee3699",
+        "created_at": "2026-11-04T05:59:29.292712+00:00",
+        "updated_at": "2026-11-04T05:59:29.292712+00:00"
+      },
+      {
+        "memory": "Caroline enjoys drawing flowers as a favorite artistic activity, finding joy in appreciating nature and sharing it through art to express feelings and capture moments.",
+        "score": 0.6456556013978495,
+        "id": "c38fa3a6-bba2-4686-93a0-c4a0c44b5925",
+        "created_at": "2026-11-04T05:59:49.972924+00:00",
+        "updated_at": "2026-11-04T05:59:49.972924+00:00"
+      },
+      {
+        "memory": "Caroline has recently been experimenting with abstract art, describing the process as freeing and a form of self-expression that allows her to put feelings on canvas without a plan",
+        "score": 0.6455874712074939,
+        "id": "6517dc49-08ea-4266-8c79-4e5f141dc3a4",
+        "created_at": "2026-11-04T06:02:55.391838+00:00",
+        "updated_at": "2026-11-04T06:02:55.391838+00:00"
+      }
+    ],
+    "search_latency_ms": 88.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "August 16, 2023",
+      "memories_evaluated": 10,
+      "reason": "The gold answer specifies the week before August 23, 2023 (Aug 16-22), and the generated answer of August 16, 2023 falls within that timeframe."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 16, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 23, 2023 (Aug 16-22), and the generated answer 'around August 16, 2023' falls within this timeframe and is within the 14-day tolerance."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 16, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 23, 2023 (Aug 16-22), and the generated answer 'around August 16, 2023' falls within this timeframe and is within the 14-day tolerance."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "around August 16, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the week before August 23, 2023 (Aug 16-22), and the generated answer 'around August 16, 2023' falls within this timeframe and is within the 14-day tolerance."
     }
   }
 }

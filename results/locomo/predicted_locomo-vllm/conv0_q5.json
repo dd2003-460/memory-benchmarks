@@ -8,42 +8,183 @@
   "evidence": [
     "D2:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Melanie run a charity race?",
-    "search_results": [],
-    "search_latency_ms": 20.6,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie ran a charity race for mental health on May 21, 2023, and found the experience rewarding as it made her reflect on the importance of taking care of their minds",
+        "score": 0.8809339814763335,
+        "id": "dee1aa03-dfaa-4293-affd-b0f743cc82a7",
+        "created_at": "2026-11-04T05:15:23.901063+00:00",
+        "updated_at": "2026-11-04T05:15:23.901063+00:00"
+      },
+      {
+        "memory": "Melanie uses running as a way to destress and clear her mind, noting on July 12, 2023, that she has been running for a longer period since their last conversation.",
+        "score": 0.6362601539850903,
+        "id": "9beb3ac6-69e6-4839-b850-e8289e374986",
+        "created_at": "2026-11-04T05:22:46.728943+00:00",
+        "updated_at": "2026-11-04T05:22:46.728943+00:00"
+      },
+      {
+        "memory": "Melanie's new shoes are specifically intended for running, as she clarified to Caroline on July 12, 2023.",
+        "score": 0.6323821274892751,
+        "id": "f76d1f90-2875-4be8-8bd3-ba8409ad28d5",
+        "created_at": "2026-11-04T05:22:46.733078+00:00",
+        "updated_at": "2026-11-04T05:22:46.733078+00:00"
+      },
+      {
+        "memory": "Melanie recently bought new pink running shoes for running, which she uses as a way to destress and clear her mind; she has been running longer since their last chat.",
+        "score": 0.6136957098520605,
+        "id": "9b453aae-228d-40fb-a588-e5aa7c4ca08f",
+        "created_at": "2026-11-04T05:22:49.564195+00:00",
+        "updated_at": "2026-11-04T05:22:49.564195+00:00"
+      },
+      {
+        "memory": "Melanie has been running longer distances since their last chat in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.6128883380716281,
+        "id": "bde74488-9d66-435a-b380-177138affd09",
+        "created_at": "2026-11-04T05:23:00.641860+00:00",
+        "updated_at": "2026-11-04T05:23:00.641860+00:00"
+      },
+      {
+        "memory": "Melanie recently purchased new purple running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.6053665012534065,
+        "id": "89b940f8-02a5-46a2-a1ce-700cb8b58fa5",
+        "created_at": "2026-11-04T05:23:00.638414+00:00",
+        "updated_at": "2026-11-04T05:23:00.638414+00:00"
+      },
+      {
+        "memory": "Melanie has been increasing her running distance since their last conversation in July 2023, finding it beneficial for her mental health and headspace.",
+        "score": 0.605034146629786,
+        "id": "7810b279-091e-43f8-9193-a2e964991eab",
+        "created_at": "2026-11-04T05:22:56.210459+00:00",
+        "updated_at": "2026-11-04T05:22:56.210459+00:00"
+      },
+      {
+        "memory": "Melanie recently acquired new pink running shoes for running, which she uses to de-stress and clear her mind.",
+        "score": 0.5993453621061797,
+        "id": "cd15e0b6-7060-4a57-82ae-ec088f0065de",
+        "created_at": "2026-11-04T05:22:56.206160+00:00",
+        "updated_at": "2026-11-04T05:22:56.206160+00:00"
+      },
+      {
+        "memory": "Melanie carves out daily me-time by running, reading, or playing the violin to refresh herself and stay present for her family, as she shared with Caroline on May 25, 2023",
+        "score": 0.5952913606944485,
+        "id": "b6c4e661-f73c-4256-9f20-65cdd7c0662e",
+        "created_at": "2026-11-04T05:15:35.902982+00:00",
+        "updated_at": "2026-11-04T05:15:35.902982+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a park on August 27, 2023, where they enjoyed exploring and playing outdoors, which Melanie appreciated as a nice time for them to have fun.",
+        "score": 0.4119806412475152,
+        "id": "b6f608e5-b5ce-4a3e-85e9-d440ffb06a40",
+        "created_at": "2026-11-04T06:00:13.258714+00:00",
+        "updated_at": "2026-11-04T06:00:13.258714+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish family.",
+        "score": 0.3818217699158226,
+        "id": "e1f18ad5-aa8d-435e-9165-23d4d5a95a6d",
+        "created_at": "2026-11-04T06:03:25.846792+00:00",
+        "updated_at": "2026-11-04T06:03:25.846792+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip the weekend of October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.3805660506861918,
+        "id": "d80d57d4-0700-488a-b87f-60f38fb67f41",
+        "created_at": "2026-11-04T06:03:39.885392+00:00",
+        "updated_at": "2026-11-04T06:03:39.885392+00:00"
+      },
+      {
+        "memory": "Melanie's son was involved in a car accident during a family road trip to the Grand Canyon around October 14-15, 2023; he was uninjured, and Melanie described the experience as scary but a reminder to cherish her family.",
+        "score": 0.37861832260912376,
+        "id": "e3b6be53-e2e5-47f0-b0c4-6b8761c4f45f",
+        "created_at": "2026-11-04T06:03:35.141509+00:00",
+        "updated_at": "2026-11-04T06:03:35.141509+00:00"
+      },
+      {
+        "memory": "Melanie has multiple children who were present during the recent car accident; they were scared but resilient, and Melanie reassured them that their brother would be okay.",
+        "score": 0.3700480212508531,
+        "id": "8d446fea-4483-407e-b7bc-3c7c0df4be77",
+        "created_at": "2026-11-04T06:03:35.145386+00:00",
+        "updated_at": "2026-11-04T06:03:35.145386+00:00"
+      },
+      {
+        "memory": "Melanie's family enjoyed visiting the Grand Canyon during their trip following the accident, and Melanie shared photos of her kids there on October 20, 2023.",
+        "score": 0.3690394031483773,
+        "id": "23cc2358-4f38-4945-8432-35908c78dec3",
+        "created_at": "2026-11-04T06:03:44.681624+00:00",
+        "updated_at": "2026-11-04T06:03:44.681624+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to the museum on July 5, 2023, where they enjoyed the dinosaur exhibit and learning about animal bones, which reminded Melanie why she loves being a mom.",
+        "score": 0.3689415720275857,
+        "id": "3de21bec-fac9-4b0e-956e-0255fb4db072",
+        "created_at": "2026-11-04T05:21:52.367715+00:00",
+        "updated_at": "2026-11-04T05:21:52.367715+00:00"
+      },
+      {
+        "memory": "Melanie shares that her husband and kids keep her motivated and provide support, and she shared a photo of a man and a little girl standing in front of a waterfall with Caroline on June 9, 2023.",
+        "score": 0.3685359469510037,
+        "id": "babcbecc-0cc6-48c0-bdd8-cf9884cb41e9",
+        "created_at": "2026-11-04T05:17:03.271746+00:00",
+        "updated_at": "2026-11-04T05:17:03.271746+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the time special.",
+        "score": 0.36694161955231064,
+        "id": "74f17162-91e9-418d-aade-9d1176401e03",
+        "created_at": "2026-11-04T05:18:14.163028+00:00",
+        "updated_at": "2026-11-04T05:18:14.163028+00:00"
+      },
+      {
+        "memory": "Melanie's kids are excited about summer break, and Melanie is planning to go camping with them in June 2023, as she mentioned to Caroline on May 25, 2023",
+        "score": 0.36346349450612625,
+        "id": "60bbd690-fe67-42ed-ac72-e5f88aa06d67",
+        "created_at": "2026-11-04T05:15:40.503605+00:00",
+        "updated_at": "2026-11-04T05:15:40.503605+00:00"
+      },
+      {
+        "memory": "Melanie took her family camping in the mountains around June 20, 2023, where they explored nature, roasted marshmallows around a campfire, and went on a hike with amazing views; Melanie noted that her two younger kids love nature and found the experience special and unforgettable.",
+        "score": 0.3633272761752052,
+        "id": "bd6c067b-b6c7-4f49-9dce-2615c4fb082e",
+        "created_at": "2026-11-04T05:18:30.180896+00:00",
+        "updated_at": "2026-11-04T05:18:30.180896+00:00"
+      }
+    ],
+    "search_latency_ms": 109.8,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie running a charity race.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "May 21, 2023",
+      "memories_evaluated": 10,
+      "reason": "The gold answer specifies the Sunday before May 25, 2023, which is May 21, 2023; the generated answer provides this exact date."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie running a charity race.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "May 21, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the Sunday before May 25, 2023, which is May 21, 2023, matching the generated answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie running a charity race.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "May 21, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the Sunday before May 25, 2023, which is May 21, 2023, matching the generated answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain any information about Melanie running a charity race.",
-      "memories_evaluated": 0,
-      "reason": "The generated answer claims there is no information about the event, whereas the gold answer provides a specific date, meaning the generated answer contains zero correct items from the gold answer."
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "May 21, 2023",
+      "memories_evaluated": 20,
+      "reason": "The gold answer specifies the Sunday before May 25, 2023, which is May 21, 2023; the generated answer provides this exact date."
     }
   }
 }

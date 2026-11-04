@@ -8,42 +8,183 @@
   "evidence": [
     "D7:1"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "When did Caroline go to the LGBTQ conference?",
-    "search_results": [],
-    "search_latency_ms": 1554628.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community.",
+        "score": 0.9307035294897122,
+        "id": "6013bc8d-f76a-40bf-b7f2-21af118ed4f8",
+        "created_at": "2026-11-04T05:22:11.270617+00:00",
+        "updated_at": "2026-11-04T05:22:11.270617+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt welcomed and accepted in the environment",
+        "score": 0.9295306318788518,
+        "id": "7b970cfb-db33-4fbf-8d2b-2f4d91a96cd7",
+        "created_at": "2026-11-04T05:22:16.330244+00:00",
+        "updated_at": "2026-11-04T05:22:16.330244+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have gone through similar journeys and felt a strong sense of acceptance and community support.",
+        "score": 0.9295008413683432,
+        "id": "02834b4a-5317-429b-b676-9747d05e425c",
+        "created_at": "2026-11-04T05:22:21.030823+00:00",
+        "updated_at": "2026-11-04T05:22:21.030823+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ conference on July 10, 2023, where she connected with people who have similar journeys and felt totally accepted in a welcoming environment.",
+        "score": 0.926740428314144,
+        "id": "cdd4851d-b480-4021-8feb-7f7e6460706c",
+        "created_at": "2026-11-04T05:22:00.056793+00:00",
+        "updated_at": "2026-11-04T05:22:00.056793+00:00"
+      },
+      {
+        "memory": "The experience at the LGBTQ conference on July 10, 2023, reinforced Caroline's commitment to fighting for trans rights and spreading awareness within the community.",
+        "score": 0.8975047228282401,
+        "id": "c70217a9-59b9-40ed-a70c-bb2c26baff79",
+        "created_at": "2026-11-04T05:22:00.063196+00:00",
+        "updated_at": "2026-11-04T05:22:00.063196+00:00"
+      },
+      {
+        "memory": "Caroline spoke at a school event around June 2, 2023, where she shared her transgender journey and encouraged students to get involved in the LGBTQ community, noting that their reactions were great",
+        "score": 0.8700068535181431,
+        "id": "079fc692-39e3-4350-96b9-48c6593b8805",
+        "created_at": "2026-11-04T05:16:17.680146+00:00",
+        "updated_at": "2026-11-04T05:16:17.680146+00:00"
+      },
+      {
+        "memory": "Caroline is a transgender woman who is attending a transgender conference in July 2023 to meet community members and learn more about advocacy.",
+        "score": 0.8693339043474676,
+        "id": "caf5d965-da5d-433b-bd42-76bd1c56e28c",
+        "created_at": "2026-11-04T05:21:27.860694+00:00",
+        "updated_at": "2026-11-04T05:21:27.860694+00:00"
+      },
+      {
+        "memory": "Caroline attended an LGBTQ support group on May 7, 2023, and described the experience as powerful",
+        "score": 0.8662384853132389,
+        "id": "5d43c282-8278-49c3-9834-cd9e4f25483d",
+        "created_at": "2026-11-04T05:14:20.208237+00:00",
+        "updated_at": "2026-11-04T05:14:20.208237+00:00"
+      },
+      {
+        "memory": "Caroline is a trans woman who identifies with the LGBTQ community and is actively looking into careers in counseling and mental health to help others.",
+        "score": 0.8639330746741998,
+        "id": "1eaf9720-034e-40a4-aa8a-f0689cb2cfdd",
+        "created_at": "2026-11-04T05:22:26.616937+00:00",
+        "updated_at": "2026-11-04T05:22:26.616937+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other people in the community and learn more about advocacy.",
+        "score": 0.8621797129043701,
+        "id": "8b49f212-c3a0-4206-8574-377bbdf0ea7f",
+        "created_at": "2026-11-04T05:21:14.108377+00:00",
+        "updated_at": "2026-11-04T05:21:14.108377+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other community members and learn more about advocacy.",
+        "score": 0.8618976045955611,
+        "id": "ba9cb83a-6446-4551-ac76-6ee525753eb5",
+        "created_at": "2026-11-04T05:21:30.163002+00:00",
+        "updated_at": "2026-11-04T05:21:30.163002+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 to meet other community members and learn more about advocacy, expressing excitement about the experience.",
+        "score": 0.860742154013287,
+        "id": "f3331d60-9e49-44d8-97ca-b2f10cae7406",
+        "created_at": "2026-11-04T05:21:33.026517+00:00",
+        "updated_at": "2026-11-04T05:21:33.026517+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, where she meets passionate people and participates in regular meetings, events, and campaigns to support rights and community.",
+        "score": 0.8601679827917691,
+        "id": "4f6d8a87-84e8-4950-b4e3-b8419f89aafb",
+        "created_at": "2026-11-04T05:52:33.620148+00:00",
+        "updated_at": "2026-11-04T05:52:33.620148+00:00"
+      },
+      {
+        "memory": "Caroline is attending a transgender conference in July 2023 and is excited to meet other people in the community and learn more about advocacy.",
+        "score": 0.8599083032133901,
+        "id": "e4143211-9fcd-46fe-860f-a8b2ef07e7df",
+        "created_at": "2026-11-04T05:20:55.919808+00:00",
+        "updated_at": "2026-11-04T05:20:55.919808+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group on July 18, 2023, and finds it fulfilling to meet passionate people and use her voice to make a real difference in rights and community support.",
+        "score": 0.8539449646606562,
+        "id": "62edd22e-2812-4a44-9b50-e59b85cf91ae",
+        "created_at": "2026-11-04T05:51:52.578227+00:00",
+        "updated_at": "2026-11-04T05:51:52.578227+00:00"
+      },
+      {
+        "memory": "Caroline stated that the LGBTQ support group she attended has made her feel accepted and given her the courage to embrace herself",
+        "score": 0.8503240030258636,
+        "id": "1db7de4d-74e1-44a2-8366-826ec99ff1ac",
+        "created_at": "2026-11-04T05:14:23.942590+00:00",
+        "updated_at": "2026-11-04T05:14:23.942590+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to have a platform to be herself, support others' rights, and make a real difference in the community.",
+        "score": 0.8492270729705493,
+        "id": "eb66f416-37d3-4361-b9b3-c82784a0691e",
+        "created_at": "2026-11-04T05:52:40.064137+00:00",
+        "updated_at": "2026-11-04T05:52:40.064137+00:00"
+      },
+      {
+        "memory": "Caroline joined a new LGBTQ activist group called 'Connected LGBTQ Activists' on July 18, 2023, and finds it fulfilling to speak her truth and support community rights.",
+        "score": 0.8480189868322384,
+        "id": "2dfdc026-8371-4fcb-8ef4-015afc5afa30",
+        "created_at": "2026-11-04T05:52:44.894741+00:00",
+        "updated_at": "2026-11-04T05:52:44.894741+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 10, 2023 (the weekend before July 17, 2023) and finds it rewarding to help the community.",
+        "score": 0.8439157761661518,
+        "id": "c2ce7739-54e1-4923-bde2-25d8aefa10ff",
+        "created_at": "2026-11-04T05:24:40.731437+00:00",
+        "updated_at": "2026-11-04T05:24:40.731437+00:00"
+      },
+      {
+        "memory": "Caroline joined a mentorship program for LGBTQ youth around July 14-16, 2023, and finds it rewarding to help the community",
+        "score": 0.8412842519855321,
+        "id": "a6a130ce-a602-4a10-af0c-c9bbc6e8dc88",
+        "created_at": "2026-11-04T05:24:37.874534+00:00",
+        "updated_at": "2026-11-04T05:24:37.874534+00:00"
+      }
+    ],
+    "search_latency_ms": 140.2,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'July 10, 2023' is the exact same date as the gold answer '10 July 2023', just formatted differently."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 10, 2023' is the exact same date as the gold answer '10 July 2023', just formatted differently."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 10, 2023' is the exact same date as the gold answer '10 July 2023', just formatted differently."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "July 10, 2023",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'July 10, 2023' is the exact same date as the gold answer '10 July 2023', just formatted differently."
     }
   }
 }

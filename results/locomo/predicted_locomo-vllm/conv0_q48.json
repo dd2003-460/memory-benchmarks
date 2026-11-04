@@ -10,42 +10,183 @@
     "D8:4",
     "D5:6"
   ],
-  "user_id": "locomo_0_smoke01",
+  "user_id": "locomo_0_full01",
   "reference_date": "9:55 am on 22 October, 2023",
   "retrieval": {
     "search_query": "What types of pottery have Melanie and her kids made?",
-    "search_results": [],
-    "search_latency_ms": 31.7,
-    "total_results": 0
+    "search_results": [
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and she found the experience fun and therapeutic.",
+        "score": 0.7116364453615842,
+        "id": "f7bf8683-86d2-4881-af19-148366f86f25",
+        "created_at": "2026-11-04T05:23:09.132627+00:00",
+        "updated_at": "2026-11-04T05:23:09.132627+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they all made their own pots and found the experience fun and therapeutic.",
+        "score": 0.7092993780182003,
+        "id": "990274ba-06de-47c2-b373-26e65885f162",
+        "created_at": "2026-11-04T05:23:06.628457+00:00",
+        "updated_at": "2026-11-04T05:23:06.628457+00:00"
+      },
+      {
+        "memory": "Melanie took her kids to a pottery workshop on July 14, 2023, where they made their own pots and found the experience fun and therapeutic.",
+        "score": 0.7078056783503371,
+        "id": "85ca25e2-f5f4-447f-8a64-67152a59dbbb",
+        "created_at": "2026-11-04T05:23:30.961432+00:00",
+        "updated_at": "2026-11-04T05:23:30.961432+00:00"
+      },
+      {
+        "memory": "Melanie's kids loved the pottery workshop on July 14, 2023, were excited to get their hands dirty with clay, and Melanie found it special to watch their creativity and imagination come to life.",
+        "score": 0.6996972964697453,
+        "id": "7fc1084a-5b98-413d-a906-b0209990bee1",
+        "created_at": "2026-11-04T05:23:11.562266+00:00",
+        "updated_at": "2026-11-04T05:23:11.562266+00:00"
+      },
+      {
+        "memory": "Melanie uses pottery as a form of self-expression and peace, but had to take a break from it after getting hurt in September 2023.",
+        "score": 0.6951595669810546,
+        "id": "cba492d6-f1d9-490b-92f8-e534c2b93c15",
+        "created_at": "2026-11-04T06:02:32.142480+00:00",
+        "updated_at": "2026-11-04T06:02:32.142480+00:00"
+      },
+      {
+        "memory": "Melanie made the black and white flower design pottery bowl herself in her pottery class, noting that it took some work but she is proud of the result.",
+        "score": 0.6944595450050793,
+        "id": "9df2468f-b00c-4b00-9bac-1630e6628c10",
+        "created_at": "2026-11-04T05:19:46.504540+00:00",
+        "updated_at": "2026-11-04T05:19:46.504540+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creation, specifically a bowl with intricate patterns and purple glaze, alongside other bowls and a starfish.",
+        "score": 0.693196233986086,
+        "id": "2e00f69d-4613-48c6-ab1c-28aa046ce670",
+        "created_at": "2026-11-04T06:01:46.618628+00:00",
+        "updated_at": "2026-11-04T06:01:46.618628+00:00"
+      },
+      {
+        "memory": "Melanie made a pottery piece in class on August 24, 2023, and describes pottery as relaxing and creative.",
+        "score": 0.6882464568626504,
+        "id": "1f83b728-270b-4f29-8f9e-de017f1e3a4d",
+        "created_at": "2026-11-04T05:58:00.805902+00:00",
+        "updated_at": "2026-11-04T05:58:00.805902+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the result, noting that pottery is a huge part of her life and helps her express emotions.",
+        "score": 0.6843433930516895,
+        "id": "d1d888fa-0e67-4219-a3d8-70e42c8f2c2f",
+        "created_at": "2026-11-04T05:20:30.811483+00:00",
+        "updated_at": "2026-11-04T05:20:30.811483+00:00"
+      },
+      {
+        "memory": "Melanie describes pottery as a huge part of her life rather than just a hobby, stating that working with clay helps her express emotions and brings her joy.",
+        "score": 0.6828581869884636,
+        "id": "18406e55-4662-44a7-8cad-efcccd712f7c",
+        "created_at": "2026-11-04T05:21:14.105193+00:00",
+        "updated_at": "2026-11-04T05:21:14.105193+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a therapeutic activity that allows her to express herself creatively and find calm.",
+        "score": 0.6803810259852572,
+        "id": "f601779b-f7c1-4df9-8633-2f4d496cee98",
+        "created_at": "2026-11-04T05:19:54.438042+00:00",
+        "updated_at": "2026-11-04T05:19:54.438042+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as a form of therapy that allows her to express herself creatively and relax.",
+        "score": 0.6792507524743804,
+        "id": "c8778571-c3dd-470b-b393-440515cc7a29",
+        "created_at": "2026-11-04T05:18:59.474657+00:00",
+        "updated_at": "2026-11-04T05:18:59.474657+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6770400822477497,
+        "id": "541aca91-1956-4564-bf9d-e1f9f085981f",
+        "created_at": "2026-11-04T05:57:44.091565+00:00",
+        "updated_at": "2026-11-04T05:57:44.091565+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6770400822477497,
+        "id": "86fddf90-54ec-4523-b385-ffef911062fb",
+        "created_at": "2026-11-04T05:57:38.763970+00:00",
+        "updated_at": "2026-11-04T05:57:38.763970+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative.",
+        "score": 0.6770400822477497,
+        "id": "65231ceb-ed9f-44bd-96ec-617c271a1e52",
+        "created_at": "2026-11-04T05:57:28.925043+00:00",
+        "updated_at": "2026-11-04T05:57:28.925043+00:00"
+      },
+      {
+        "memory": "Melanie shared a photo of her pottery creations, which included a group of bowls with intricate patterns and purple glaze alongside a starfish on a white surface",
+        "score": 0.6767777628707125,
+        "id": "b4d59bbd-799e-435f-af54-03d4e4825748",
+        "created_at": "2026-11-04T06:01:56.669039+00:00",
+        "updated_at": "2026-11-04T06:01:56.669039+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapy that allows her to express herself and get creative.",
+        "score": 0.6756095918368052,
+        "id": "ac1868e6-c55e-4eb9-9dbc-af2cc9fccb86",
+        "created_at": "2026-11-04T05:21:14.095524+00:00",
+        "updated_at": "2026-11-04T05:21:14.095524+00:00"
+      },
+      {
+        "memory": "Melanie made a purple bowl with floral patterns in pottery class on August 24, 2023, describing pottery as relaxing and creative, and shared a photo of the plate/bowl with Caroline.",
+        "score": 0.6713741705407896,
+        "id": "2c2b0492-39f0-47c3-b5ad-2d1b7e8ba58e",
+        "created_at": "2026-11-04T05:57:17.709621+00:00",
+        "updated_at": "2026-11-04T05:57:17.709621+00:00"
+      },
+      {
+        "memory": "Melanie signed up for a pottery class on July 2, 2023, describing it as therapeutic for expressing herself and getting creative.",
+        "score": 0.6708125382899561,
+        "id": "863acfdc-ed77-4159-9667-6ad88f7f4c0d",
+        "created_at": "2026-11-04T05:20:30.805646+00:00",
+        "updated_at": "2026-11-04T05:20:30.805646+00:00"
+      },
+      {
+        "memory": "Melanie created a bowl with a black and white flower design in her pottery class and expressed pride in the work involved.",
+        "score": 0.6699955110764733,
+        "id": "33033d1a-6f6e-41f2-ba7f-faacc5b2f8f5",
+        "created_at": "2026-11-04T05:19:54.440243+00:00",
+        "updated_at": "2026-11-04T05:19:54.440243+00:00"
+      }
+    ],
+    "search_latency_ms": 112.3,
+    "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Bowls and pots",
+      "memories_evaluated": 10,
+      "reason": "The generated answer includes 'Bowls', which is one of the items listed in the gold answer ('bowls, cup'), satisfying the partial credit rule."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie made black and white flower design bowls and purple bowls with floral patterns, while she and her kids made pots together.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'bowls', which is one of the items in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie made a black and white flower design bowl and a purple bowl with floral patterns, while she and her kids made pots.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'bowl', which matches the gold answer item 'bowls', satisfying the partial credit rule."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "",
-      "memories_evaluated": 0,
-      "reason": ""
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Melanie made black and white flower design bowls and purple bowls with floral patterns, while she and her kids made pots together.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer includes 'bowls', which is one of the items in the gold answer, satisfying the partial credit rule."
     }
   }
 }
