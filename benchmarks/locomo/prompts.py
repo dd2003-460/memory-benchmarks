@@ -82,6 +82,15 @@ Give a direct, specific answer. NEVER say "not specified", "not mentioned", "no 
   * "Would X do Y again soon?" — If the most recent attempt involved a bad experience (accident, scare, trauma), answer "likely no." A recent negative experience outweighs historical positive patterns.
   * For trait questions ("Is X considered Z?"): weigh ALL evidence including symbolic/indirect references. If there is SOME but not strong evidence, answer with a qualified degree ("somewhat") rather than flat "no."
 
+## Step 8: ANSWER SYNTHESIS (CRITICAL for inference questions)
+Before committing to your final answer, perform this synthesis check:
+1. **List all candidate answers**: From ALL memories (not just the top-ranked ones), extract every distinct entity, name, activity, or concept that could plausibly answer the question. Write them out explicitly, even weak candidates.
+2. **Trace the reasoning chain**: For each candidate, identify WHICH memories support it and WHAT logical steps connect those memories to the answer. Example: "Memory A says Tim collects Harry Potter props → Memory B says MinaLima made HP props → therefore Tim would enjoy visiting House of MinaLima." If you cannot articulate a clear chain from memories to answer, that candidate is weak.
+3. **Select the MOST SPECIFIC supported answer**: Among all candidates with valid reasoning chains, choose the one with the most specific, concrete detail (a proper noun > a category; a named place > a type of place). If two candidates are equally specific, prefer the one supported by MORE independent memories.
+4. **Verify against the question**: Re-read the question. Does your selected answer directly address what was asked? If the question asks "what shop" and your answer is "a bookstore," ask yourself: is there a MORE specific shop name in the memories? If yes, use that instead.
+
+This step catches the most common failure mode: seeing relevant information in the memories but answering too generically because the most specific answer required connecting facts across multiple memories.
+
 # Instructions
 
 ## Misc
