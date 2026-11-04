@@ -75,22 +75,22 @@ replace specific names with category descriptions.
 | synthesis 失败（实体在但没选对） | 2 | q34, q51 | 记忆库有相关事实但 answerer 选了错误答案 |
 | retrieval miss（GT 不在检索池） | 2 | q53, q70 | GT 事实根本不在 top_20 检索结果中 |
 
-**关键修正（2026-11-05 二次验证）**：逐题检索回放后发现原分类有误。实际根因：
+**关键修正（2026-11-05 三次验证 · 逐题检索回放 + answerer prompt 审计）**：
 
 | 题目 | 真实根因 | 证据 |
 |------|---------|------|
-| q8 (Under Armour) | **Answerer synthesis 失败** | Entity guard 记忆在 top_10 rank [8]，但 answerer 选了 rank 0-3 的泛化描述 "a renowned outdoor gear company" |
-| q5 (MinaLima) | **多跳推理缺口** | Entity 存在于记忆库但未被该 query 检索到；GT "House of MinaLima" 需要 collections→Harry Potter→MinaLima→shop 四跳推理 |
-| q34, q51, q53, q66, q67, q70 | **推理型/实体丢失混合** | GT 需要跨记忆综合或 ingestion 层未保留的具体名称 |
+| q8 (Under Armour) | **Ingestion 丢失**（非 synthesis） | Entity guard 只捕获了 "considering Nike/UA"（rank 8），实际签约事件被泛化为 "a renowned outdoor gear company"（rank 0-3）。Answerer **正确拒绝**了 "considering" 记忆——considering ≠ signed。无 prompt 可修。 |
+| q5 (MinaLima) | **Retrieval miss + 多跳推理缺口** | Entity 在库中但该 query top_20 未命中；GT "House of MinaLima" 需 collections→HP→MinaLima→shop 四跳。 |
+| q34, q51, q53, q66, q67, q70 | **Ingestion 泛化 / 跨记忆综合** | 具体名称在提取层丢失，或需单 pass 之外的多跳推理。 |
 
-**结论**：8 个 OD 失败中只有 **1 个**（q8）可通过 answerer prompt 修复（"优先选具体名称而非类别描述"）。其余 7 个需要多跳推理能力或 ingestion 层根本性改进。OD ceiling ~43-50% 判断维持不变。
+**最终结论**：**0/8 OD 失败可通过 answerer prompt 修复**。瓶颈全部在 ingestion 层（实体泛化）或多跳推理能力。此前 v2 诊断误判 q8 为 "answerer synthesis 失败"——实际 answerer 行为正确（拒绝了语义不匹配的 "considering" 记忆），真正丢信息的是 mem0 提取层。OD ceiling ~43-50% 确认，entity guard 已榨取最大价值，进一步提升需 ingestion pipeline 重设计（超出当前 scope）。
 
-**Entity guard 效果评估**：guard 成功将 Under Armour/MinaLima/Anthony 等实体注入记忆库（75 条），且 Under Armour 确实被检索到（rank 8）。但 mem0 原始提取的泛化记忆（"a renowned outdoor gear company"）排名更高（rank 0-3），answerer 优先选了它们。这说明 entity guard 解决了"信息是否存在"问题，但没解决"answerer 是否选择正确信息"问题。
+**Entity guard 效果评估**：guard 成功将 Under Armour/MinaLima/Anthony 等实体注入记忆库（75 条）。Under Armour 被检索到（rank 8）但内容是 "considering" 而非 "signed"——answerer 正确拒绝。mem0 原始提取的泛化记忆（"a renowned outdoor gear company"）排名更高（rank 0-3）且语义上更接近问题（endorsement deal），所以 answerer 选了它。这说明 entity guard 解决了"信息是否存在"问题，但 mem0 提取层的泛化记忆在语义相关性上压过了 guard 注入的精确实体记忆。
 
 **进一步提升路径**（按 ROI）：
-1. **Ingestion 侧双通道**：先 regex NER 抽实体列表 → 作为 second-pass prompt 强制回填到提取记忆中。预期 +2-3 OD 题（q8, q5, q66），overall +0.3-0.4pp
-2. **Answerer 侧 entity grounding prompt**：答题时要求"从上下文中找到具体名称，不要给类别描述"。预期 +1-2 题（q34, q51）
-3. 两条合计上限：OD 42.9% → ~64%，overall 82.0% → ~82.4%。**边际收益小，不建议自主投入**，等成璐决定是否值得做 ingestion pipeline 重设计
+1. **Ingestion 侧双通道**：先 regex NER 抽实体列表 → 作为 second-pass prompt 强制回填到提取记忆中。预期 +2-3 OD 题，overall +0.3-0.4pp
+2. ~~Answerer 侧 entity grounding prompt~~：**已排除**（v3 验证 0/8 可修，answerer 行为本身正确）
+3. 唯一有效路径是 #1（ingestion 重设计），但边际收益小（overall +0.3-0.4pp），**不建议自主投入**，等成璐决定是否值得做 ingestion pipeline 重设计
 
 ## 下一步（按 ROI 排序）
 
