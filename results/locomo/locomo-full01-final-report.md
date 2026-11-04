@@ -61,7 +61,7 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 3. **conv4 补跑**：answerer 超时导致全空，需排查 vLLM 代理链路后重跑
 4. **代码缺陷修复**：
    - ✅ `IngestionCheckpoint.is_complete()` 不校验 run_id/user_id → **已修（13f8be5, 2026-11-04）**：新增 `expected_run_id` 参数，locomo/beam 调用点传入当前 run_id，跨 run checkpoint 残留会被拒绝并强制重跑 ingestion；单测 4 case PASS
-   - ⏳ `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → 未修（分析侧按 conv 过滤规避；代码侧待收口后处理）
+   - ✅ `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → **已修（2245b9c, 2026-11-04）**：`locomo_predict_outputs_complete` 要求 search_results 非空才视为完成，空检索文件会被标记 missing 并在 --resume 时重跑；单测 4 case PASS
 
 ## conv0/1 补跑结果（2026-11-04 追加，r29x）
 
