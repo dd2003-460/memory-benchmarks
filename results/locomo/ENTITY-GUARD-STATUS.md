@@ -63,10 +63,26 @@ replace specific names with category descriptions.
 
 ## 待验证
 
-- [ ] Conv4 rerun #2（entity guard active）→ 测量 OD 实际 delta
-  - Baseline: conv4 OD = 2/14 = 14.3%（rerun #1，无 entity guard）
-  - 预期: +2-4 questions → ~29-43%
-  - 注意：rerun #1 完成于 19:58，entity guard commit 于 20:28 → rerun #1 不含 guard 效果
+- [x] Conv4 rerun #2（entity guard active）→ 测量 OD 实际 delta ✅ 见下方最终结果
+
+## Rerun#2 OD 失败逐题诊断（2026-11-05 补充）
+
+8 个 OD 失败（top_50）按根因分类：
+
+| 类型 | 数量 | 题目 | 说明 |
+|------|------|------|------|
+| ingestion 泛化（实体丢失） | 4 | q5, q8, q66, q67 | GT 实体在源对话中但被 mem0 提取层泛化，entity guard 未完全修复 |
+| synthesis 失败（实体在但没选对） | 2 | q34, q51 | 记忆库有相关事实但 answerer 选了错误答案 |
+| retrieval miss（GT 不在检索池） | 2 | q53, q70 | GT 事实根本不在 top_20 检索结果中 |
+
+**关键修正**：原"5/8 是数据集标注问题"的判断过于乐观。实际只有 2/8（q53, q70）是纯 retrieval miss，其余 6/8 的 GT 信息在源文本中存在——4 个卡在 ingestion 泛化，2 个卡在 answerer synthesis。
+
+**Entity guard 效果评估**：guard 修了 q3（C.S. Lewis）、q15（Anthony）、q19（Good Sports）3 题，但 q8（Under Armour）、q5（MinaLima）仍被泛化。`custom_instructions` 的 "preserve all proper nouns verbatim" 指令强度不够——mem0 的 ADDITIVE_EXTRACTION LLM 在长文本上仍会摘要化。
+
+**进一步提升路径**（按 ROI）：
+1. **Ingestion 侧双通道**：先 regex NER 抽实体列表 → 作为 second-pass prompt 强制回填到提取记忆中。预期 +2-3 OD 题（q8, q5, q66），overall +0.3-0.4pp
+2. **Answerer 侧 entity grounding prompt**：答题时要求"从上下文中找到具体名称，不要给类别描述"。预期 +1-2 题（q34, q51）
+3. 两条合计上限：OD 42.9% → ~64%，overall 82.0% → ~82.4%。**边际收益小，不建议自主投入**，等成璐决定是否值得做 ingestion pipeline 重设计
 
 ## 下一步（按 ROI 排序）
 
