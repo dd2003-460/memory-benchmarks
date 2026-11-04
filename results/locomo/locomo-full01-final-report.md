@@ -58,7 +58,7 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 
 1. **persistent 空答案补分**：✅ 已完成（r287 rejudge_empty.py 补齐 179/179；2026-11-04 复查 conv2+3 空答案 cell = 0）
 2. **conv0/1 补跑**（可选，~13h）：✅ 已完成（2026-11-04 r29x，见下方追加节）
-3. **conv4 补跑**：⏳ 待启动（~2h, 178 题）。根因已查明：full01 跑 conv4 时 answerer 经 ClashX TUN 代理到局域网 vLLM (10.20.33.188) 连续 502 → 重试耗尽返回空串 → 全空答案。当前直连 :8787 正常（0.42s），补跑时绕过代理即可。ingestion 已完成（680 chunks），只需答题。
+3. **conv4 补跑**：⏳ 脚本已就绪（run-conv4-rerun.sh），待 conv1 完成后启动。根因：ClashX TUN 代理拦截局域网 vLLM → 502。修复：直连 localhost:8787。ingestion 已完成（680 chunks），只需答题（~2h）。
 4. **代码缺陷修复**：
    - ✅ `IngestionCheckpoint.is_complete()` 不校验 run_id/user_id → **已修（13f8be5, 2026-11-04）**：新增 `expected_run_id` 参数，locomo/beam 调用点传入当前 run_id，跨 run checkpoint 残留会被拒绝并强制重跑 ingestion；单测 4 case PASS
    - ✅ `run.py --resume` 加载旧 result 文件时不检查 retrieval 是否为空 → **已修（2245b9c, 2026-11-04）**：`locomo_predict_outputs_complete` 要求 search_results 非空才视为完成，空检索文件会被标记 missing 并在 --resume 时重跑；单测 4 case PASS
@@ -70,22 +70,22 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 | conv | top_10 | top_20 | 备注 |
 |---|---|---|---|
 | conv0 (152) | **79.0%** (120/152) | **85.5%** (130/152) | ✅ 跑完；原 smoke01 残留污染版 0/152，修复后正常 |
-| conv1 (81) | 进行中 | — | 答题中 (~53/81)，ingestion 完整 |
-| conv2 (152) | 78.3% | 77.6% | 健康子集（补分后） |
-| conv3 (199) | 78.9% | 80.9% | 健康子集（补分后） |
+| conv1 (81) | **74.1%** (60/81) | **79.0%** (64/81) | ✅ 跑完；重新 ingestion 后答题 |
 
-**已判 503 题（conv0+2+3）汇总**：top_10 = **79.1%** (398/503)，top_20 = **81.3%** (409/503)。
+**T17-full 四 conv 最终成绩（584 题，conv0+1+2+3）**：top_10 = **78.4%** (458/584)，top_20 = **81.0%** (473/584)。
 
-conv0 按类别（修复后完整版）：
+分类别汇总（四 conv 合并）：
 
 | 类别 | top_10 | top_20 |
 |---|---|---|
-| single-hop | 75.7% (53/70) | 81.4% (57/70) |
-| temporal | **89.2%** (33/37) | 89.2% (33/37) |
-| multi-hop | 81.2% (26/32) | 90.6% (29/32) |
-| open-domain | 76.9% (10/13) | 84.6% (11/13) |
+| single-hop | 76.8% (239/311) | 81.0% (252/311) |
+| temporal | **82.3%** (107/130) | **82.3%** (107/130) |
+| multi-hop | 80.2% (89/111) | 82.9% (92/111) |
+| open-domain | 71.9% (23/32) | 68.8% (22/32) |
 
-**判定更新**：temporal ≥50% 目标线达标 ✅（conv0 89.2% / conv2+3 79.1%，均远超）；overall top_10 在三个完整 conv 上稳定在 ~79%，远高于此前"官方聚合 45.6%"（被污染拉低）。conv1 出分后补最终四 conv 数字。
+conv1 按类别：single-hop 70.5%→75.0%, temporal 80.8%→84.6%, multi-hop 72.7%→81.8%。
+
+**判定更新**：temporal ≥50% 目标线达标 ✅（四 conv 合并 82.3%）；overall top_10 四 conv 稳定在 78.4%，远高于此前"官方聚合 45.6%"（被污染拉低）。open-domain 最弱（71.9%/68.8%），是后续优化方向。conv4 补跑脚本已就绪（run-conv4-rerun.sh），待启动。
 
 ## 配置
 
