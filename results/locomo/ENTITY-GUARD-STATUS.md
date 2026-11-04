@@ -74,3 +74,18 @@ replace specific names with category descriptions.
 2. ~~Conv4 rerun 测量~~ 🔄（rerun #2 后台跑着）
 3. Query rewriting for inference questions（高复杂度，待评估）
 4. Multi-memory synthesis prompt（4 个 synthesis_failure）
+
+## Conv4 Rerun #2 最终结果（entity guard, 2026-11-04 22:57）
+
+run_id `full01-eg`，qwen3.8-27b answerer+judge，178 题：
+
+| cutoff | overall | multi-hop | open-domain | single-hop | temporal |
+|--------|---------|-----------|-------------|------------|----------|
+| top_10 | 78.1% (139) | 83.9% (26/31) | 42.9% (6/14) | 79.4% (85/107) | 84.6% (22/26) |
+| top_20 | 80.9% (144) | 90.3% (28/31) | 35.7% (5/14) | 83.2% (89/107) | 84.6% (22/26) |
+| top_50 | **82.0% (146)** | 90.3% (28/31) | 42.9% (6/14) | 83.2% (89/107) | 88.5% (23/26) |
+| top_200 | 81.5% (145) | 90.3% (28/31) | 42.9% (6/14) | 83.2% (89/107) | 84.6% (22/26) |
+
+vs baseline（无 entity guard）overall 65.2% → **82.0% (+16.8pp)**。
+OD 42.9% 与 OD 诊断结论一致（ceiling ~43-50%，5/8 失败题为数据集标注问题），top_10→top_200 OD 波动在 ±1 题内，符合"检索量不是 OD 瓶颈"的判定。
+结果文件：`locomo_results_20261104_225711.json`（已入库）。
