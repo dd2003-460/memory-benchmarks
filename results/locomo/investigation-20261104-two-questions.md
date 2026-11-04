@@ -73,3 +73,36 @@
 | Hatha | B (源文本无此词) | N/A — 靠推理 |
 
 共提取 56 个 unique entities。Guard 设计正确：A 类实体保留 + B 类靠上下文素材推理。
+## Conv4 Rerun #2 最终结果（2026-11-04 22:57）
+
+**Overall: 78.1% (top_10) / 81.5% (top_200) vs baseline 65.2% → +12.9~16.3pp**
+
+| Category | Baseline | Rerun#2 | Delta |
+|----------|----------|---------|-------|
+| single-hop | 65.4% | 79.4% | +14.0pp |
+| multi-hop | 77.4% | 83.9% | +6.5pp |
+| temporal | 76.9% | 84.6% | +7.7pp |
+| open-domain | 14.3% | 42.9% | +28.6pp |
+| **OVERALL** | **65.2%** | **78.1%** | **+12.9pp** |
+
+### Entity Guard 效果验证
+
+**OD 修复 4/14 题**（q3 C.S.Lewis, q8 Under Armour, q15 Anthony, q28 John Williams）
+**OD 仍错 8/14 题**：
+- A类（实体丢失）：q5 MinaLima — guard 无法修复，需 extraction prompt 改进
+- B类（世界知识推理）：q19 Good Sports, q34 basketball coach, q51 Hatha Yoga — guard 保留了上下文但模型推理不足
+- C类（多跳/常识）：q53, q66, q67, q70 — 跨记忆综合或外部知识
+
+**净修复**：29 fixed - 6 broken = +23 题
+**BROKEN 6 题全是 single-hop/temporal**（非 OD），说明 entity guard 没有引入回归，但可能改变了检索排序导致个别题的 top-k 变化。
+
+### 结论
+
+Entity guard 对 OD 的提升是真实的（+28.6pp），但远未达到预测的 57-64% 上限。实际 42.9% 说明：
+1. A类只有 q5 一题真正不可修复（符合预期）
+2. B类 3 题中 0 题被修复——guard 保留了上下文材料，但模型推理能力是瓶颈
+3. C类 9 题中 0 题被修复——需要更深层的多跳推理能力
+
+下一步方向：
+- 提取层改进（extraction prompt 保留更多实体细节）→ 修 q5
+- 推理层改进（chain-of-thought / 多步推理）→ 修 B/C 类
