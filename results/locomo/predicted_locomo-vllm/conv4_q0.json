@@ -10,183 +10,183 @@
     "D6:15",
     "D11:17"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "what are John's goals with regards to his basketball career?",
     "search_results": [
       {
-        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
-        "score": 0.930284967343807,
-        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
-        "created_at": "2026-11-03T09:07:43.089742+00:00",
-        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+        "memory": "John's number one goal in his basketball career is winning a championship, and he also aims to make a difference away from the court through charity work and inspiring people.",
+        "score": 0.9301664163456813,
+        "id": "21d6e038-344d-484e-a43b-7719e4d595a3",
+        "created_at": "2026-11-04T12:54:49.184602+00:00",
+        "updated_at": "2026-11-04T12:54:49.184602+00:00"
+      },
+      {
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work and inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.9300449976018523,
+        "id": "2e6a3b50-284e-4528-b71f-59bf473e17a0",
+        "created_at": "2026-11-04T12:54:25.216793+00:00",
+        "updated_at": "2026-11-04T12:54:25.216793+00:00"
       },
       {
         "memory": "John loves his professional basketball career because it provides a constant challenge that keeps him growing, and he finds great satisfaction in seeing himself improve and beating goals.",
-        "score": 0.8904498272133899,
-        "id": "82220b64-01b1-4986-b1c7-d39168fc74ed",
-        "created_at": "2026-11-03T09:14:51.744429+00:00",
-        "updated_at": "2026-11-03T09:14:51.744429+00:00"
+        "score": 0.8904496914841328,
+        "id": "e0a2d0f3-36c1-4941-8c7f-4ad192c751db",
+        "created_at": "2026-11-04T12:59:33.814103+00:00",
+        "updated_at": "2026-11-04T12:59:33.814103+00:00"
       },
       {
         "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
-        "score": 0.8597587392082403,
-        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
-        "created_at": "2026-11-03T09:15:54.760026+00:00",
-        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+        "score": 0.8602905141576699,
+        "id": "62ecd3f6-8095-4975-a6f4-6002099782fc",
+        "created_at": "2026-11-04T13:00:03.530178+00:00",
+        "updated_at": "2026-11-04T13:00:03.530178+00:00"
       },
       {
-        "memory": "John plans to use his platform after his basketball career to make a positive difference, potentially by starting a foundation and engaging in charity work to leave a meaningful legacy.",
-        "score": 0.8566486738362971,
-        "id": "c245376c-77f4-48d4-a9d2-19c027470929",
-        "created_at": "2026-11-03T09:15:20.582582+00:00",
-        "updated_at": "2026-11-03T09:15:20.582582+00:00"
+        "memory": "John is looking into securing more endorsements and building his personal brand off the court to prepare for life after his professional basketball career.",
+        "score": 0.8467561083190814,
+        "id": "fa62ed9d-776e-49c4-b958-c5c5c44cfdcc",
+        "created_at": "2026-11-04T12:59:39.311821+00:00",
+        "updated_at": "2026-11-04T12:59:39.311821+00:00"
       },
       {
-        "memory": "Off the court, John is looking into securing more endorsements and building his personal brand to prepare for life after his professional basketball career.",
-        "score": 0.8492048689419868,
-        "id": "bfde8199-1e20-4440-8c30-ec26ab9833fe",
-        "created_at": "2026-11-03T09:14:58.691644+00:00",
-        "updated_at": "2026-11-03T09:14:58.691644+00:00"
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and something he cannot imagine his life without.",
+        "score": 0.8087933303878655,
+        "id": "4272074c-ce11-4097-add5-01a52aeb0738",
+        "created_at": "2026-11-04T13:22:31.876637+00:00",
+        "updated_at": "2026-11-04T13:22:31.876637+00:00"
       },
       {
-        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
-        "score": 0.8475565633322442,
-        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
-        "created_at": "2026-11-03T09:15:20.574099+00:00",
-        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+        "memory": "John's basketball team strengthens their unity through team dinners, outings, and basketball games, valuing moments away from practice.",
+        "score": 0.7834099241438386,
+        "id": "73b5857c-a5f2-4693-911c-0eff1d314ceb",
+        "created_at": "2026-11-04T13:15:23.516882+00:00",
+        "updated_at": "2026-11-04T13:15:23.516882+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
-        "score": 0.8325448583156245,
-        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
-        "created_at": "2026-11-03T09:36:18.490072+00:00",
-        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+        "memory": "John is a basketball player who signed a deal with Nike for basketball shoes and gear around July 16, 2023, and is in talks with Gatorade about a potential sponsorship.",
+        "score": 0.7799346724533447,
+        "id": "38e272d5-3450-4db4-a52a-9c06f1fdf77b",
+        "created_at": "2026-11-04T12:51:29.956135+00:00",
+        "updated_at": "2026-11-04T12:51:29.956135+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
-        "score": 0.831285217678104,
-        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
-        "created_at": "2026-11-03T09:36:13.201951+00:00",
-        "updated_at": "2026-11-03T09:36:13.201951+00:00"
-      },
-      {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.8186067851261468,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
-      },
-      {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
-        "score": 0.8133548212480551,
-        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
-        "created_at": "2026-11-03T09:30:29.897962+00:00",
-        "updated_at": "2026-11-03T09:30:29.897962+00:00"
-      },
-      {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
-        "score": 0.8054574147808043,
-        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
-        "created_at": "2026-11-03T09:18:54.870502+00:00",
-        "updated_at": "2026-11-03T09:18:54.870502+00:00"
-      },
-      {
-        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
-        "score": 0.8032507981542437,
-        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
-        "created_at": "2026-11-03T09:31:15.581413+00:00",
-        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride with significant challenges and growth.",
+        "score": 0.7784906054493839,
+        "id": "41cdeb4c-2f92-4601-9a47-e47b41c119e1",
+        "created_at": "2026-11-04T13:14:00.317631+00:00",
+        "updated_at": "2026-11-04T13:14:00.317631+00:00"
       },
       {
         "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.7991264432071243,
-        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
-        "created_at": "2026-11-03T09:30:37.455079+00:00",
-        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+        "score": 0.7673426610202325,
+        "id": "5abb411b-d013-43f0-bc32-204ac86fa282",
+        "created_at": "2026-11-04T13:13:56.254379+00:00",
+        "updated_at": "2026-11-04T13:13:56.254379+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.7991264432071243,
-        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
-        "created_at": "2026-11-03T09:30:34.559013+00:00",
-        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+        "memory": "John scored a career-high 40 points in a basketball game during the week of July 9, 2023, feeling that his hard work was finally paying off.",
+        "score": 0.7667057597036411,
+        "id": "4a0a38e8-f00a-43c1-8de4-694e375bc801",
+        "created_at": "2026-11-04T12:50:32.853764+00:00",
+        "updated_at": "2026-11-04T12:50:32.853764+00:00"
       },
       {
-        "memory": "John values playing with his teammates and having fans cheer for him, stating that basketball gives him a strong sense of satisfaction and purpose.",
-        "score": 0.7925487375581681,
-        "id": "32cf8d83-ff16-4db9-bf7f-db3ec36f571a",
-        "created_at": "2026-11-03T09:14:51.747326+00:00",
-        "updated_at": "2026-11-03T09:14:51.747326+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.7637362502633684,
+        "id": "179d57b1-e7cd-4fc5-abb0-e8a72abc3303",
+        "created_at": "2026-11-04T13:15:45.118763+00:00",
+        "updated_at": "2026-11-04T13:15:45.118763+00:00"
       },
       {
-        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
-        "score": 0.79128334562576,
-        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
-        "created_at": "2026-11-03T09:17:03.539957+00:00",
-        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.7628460894457063,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
       },
       {
-        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
-        "score": 0.7876529647018937,
-        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
-        "created_at": "2026-11-03T09:33:53.682920+00:00",
-        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game",
+        "score": 0.7624938157248315,
+        "id": "1c2f40a5-90c3-45f3-adf9-decdfcf5360b",
+        "created_at": "2026-11-04T13:04:00.872688+00:00",
+        "updated_at": "2026-11-04T13:04:00.872688+00:00"
       },
       {
-        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
-        "score": 0.7829887450822641,
-        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
-        "created_at": "2026-11-03T09:07:35.938549+00:00",
-        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, which he found through trial and error at his new gym to maintain fitness for professional basketball.",
+        "score": 0.7608981567680667,
+        "id": "00704ab6-e833-49d8-88c7-7abb952f1856",
+        "created_at": "2026-11-04T12:55:48.614573+00:00",
+        "updated_at": "2026-11-04T12:55:48.614573+00:00"
       },
       {
-        "memory": "John considers his basketball team to be like a second family, noting that being with them brings him happiness and helps him remember what is important in life.",
-        "score": 0.7803542007600364,
-        "id": "a63408f7-2db7-4a35-aef4-b9da53609d6e",
-        "created_at": "2026-11-03T09:20:51.671504+00:00",
-        "updated_at": "2026-11-03T09:20:51.671504+00:00"
+        "memory": "John received a signed basketball from his teammates as a token of friendship and appreciation, which he finds comforting and motivating as a reminder of their bond and why he started playing basketball.",
+        "score": 0.7586620248024647,
+        "id": "104f0bbb-b276-489f-9a96-60f2a1136f1a",
+        "created_at": "2026-11-04T12:55:34.026982+00:00",
+        "updated_at": "2026-11-04T12:55:34.026982+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing his first season in the pros as a wild ride.",
-        "score": 0.7781391838138341,
-        "id": "50475683-5fc9-49f0-bd54-be3712eb6feb",
-        "created_at": "2026-11-03T09:30:21.639635+00:00",
-        "updated_at": "2026-11-03T09:30:21.639635+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.7537502244047609,
+        "id": "b512e92a-b890-45c2-b683-f75e83006129",
+        "created_at": "2026-11-04T13:15:51.664339+00:00",
+        "updated_at": "2026-11-04T13:15:51.664339+00:00"
+      },
+      {
+        "memory": "John grew up watching NBA games with his dad and dreamed of playing on big courts, which inspired his lifelong dedication to basketball.",
+        "score": 0.7518158380657474,
+        "id": "14a3c955-186f-4678-902c-48fba36601f8",
+        "created_at": "2026-11-04T12:54:49.180581+00:00",
+        "updated_at": "2026-11-04T12:54:49.180581+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride.",
+        "score": 0.7511923247116836,
+        "id": "13b0e5b8-4228-4cb8-9358-450cbf6fa69a",
+        "created_at": "2026-11-04T13:13:35.319270+00:00",
+        "updated_at": "2026-11-04T13:13:35.319270+00:00"
+      },
+      {
+        "memory": "John had a career-high in assists during a basketball game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.7467599811443575,
+        "id": "d9bcb525-3030-4c88-bac4-45e8491a8706",
+        "created_at": "2026-11-04T13:15:58.641547+00:00",
+        "updated_at": "2026-11-04T13:15:58.641547+00:00"
       }
     ],
-    "search_latency_ms": 87.3,
+    "search_latency_ms": 127.5,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John's goals for his basketball career are to win a championship, continue to improve his skills and achieve personal growth, secure more endorsements and build his personal brand to prepare for life after his career, and use his platform to make a positive difference by starting a foundation, engaging in charity work, and inspiring people to leave a meaningful legacy.",
+      "generated_answer": "John's primary goal is to win a championship. Additionally, he aims to make a difference away from the court through charity work and inspiring people, improve his skills and beat personal goals, and build his personal brand by securing more endorsements to prepare for life after his professional career.",
       "memories_evaluated": 10,
-      "reason": "The generated answer includes 'win a championship' which matches one of the gold answer items, and 'continue to improve his skills' is a reasonable paraphrase for 'improve shooting percentage' in the context of career goals."
+      "reason": "The generated answer explicitly includes 'win a championship' and 'improve his skills', which semantically covers the gold answer's 'improve shooting percentage' and 'win a championship'."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court by engaging in charity work, inspiring people, and potentially starting a foundation to leave a meaningful legacy. Additionally, he seeks personal growth and skill improvement through the constant challenge of professional basketball.",
+      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court through charity work and inspiring people, and he is looking to secure more endorsements and build his personal brand to prepare for life after his professional basketball career.",
       "memories_evaluated": 20,
-      "reason": "The generated answer explicitly mentions the goal to 'win a championship', which matches one of the items in the gold answer, satisfying the partial credit rule."
+      "reason": "The generated answer includes the gold answer item 'win a championship', satisfying the partial credit rule."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court by engaging in charity work, inspiring people, and potentially starting a foundation to leave a meaningful legacy. Additionally, he seeks personal growth and skill improvement through the constant challenge of professional basketball.",
+      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court through charity work and inspiring people, and he is looking to secure more endorsements and build his personal brand to prepare for life after his professional basketball career.",
       "memories_evaluated": 20,
-      "reason": "The generated answer explicitly mentions 'win a championship', which is one of the two items in the gold answer, satisfying the partial credit rule."
+      "reason": "The generated answer includes the gold answer item 'win a championship', satisfying the partial credit rule."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court by engaging in charity work, inspiring people, and potentially starting a foundation to leave a meaningful legacy. Additionally, he seeks personal growth and skill improvement through the constant challenge of professional basketball.",
+      "generated_answer": "John's number one goal is to win a championship. He also aims to make a difference away from the court through charity work and inspiring people, and he is looking to secure more endorsements and build his personal brand to prepare for life after his professional basketball career.",
       "memories_evaluated": 20,
-      "reason": "The generated answer explicitly mentions 'win a championship', which is one of the two items in the gold answer, satisfying the partial credit rule."
+      "reason": "The generated answer includes the gold answer item 'win a championship', satisfying the partial credit rule."
     }
   }
 }

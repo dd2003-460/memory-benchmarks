@@ -8,153 +8,153 @@
   "evidence": [
     "D11:10"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What city did Tim suggest to John for the team trip next month?",
     "search_results": [
       {
-        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
-        "score": 0.8920368608707184,
-        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
-        "created_at": "2026-11-03T09:14:13.745108+00:00",
-        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.8927239351070346,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
-        "memory": "John expressed interest in Tim's suggestion of Edinburgh for the team trip, noting he has never been there but considers it worth exploring.",
-        "score": 0.8765643459282917,
-        "id": "bee098e3-1f67-470d-90ba-7f054ce200b9",
-        "created_at": "2026-11-03T09:14:48.125743+00:00",
-        "updated_at": "2026-11-03T09:14:48.125743+00:00"
+        "memory": "John expressed interest in Tim's suggestion of Edinburgh for his team trip, noting he has never been there but finds it worth considering.",
+        "score": 0.8803032075017452,
+        "id": "df3f04ca-3e4b-4613-8c4f-f4f0d194b5d3",
+        "created_at": "2026-11-04T12:59:28.674400+00:00",
+        "updated_at": "2026-11-04T12:59:28.674400+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.8673149274271177,
-        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
-        "created_at": "2026-11-03T09:14:41.113956+00:00",
-        "updated_at": "2026-11-03T09:14:41.113956+00:00"
-      },
-      {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.8541681912361012,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.8493173207478794,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.8511719263110491,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.8487733952346783,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
       },
       {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.8460760257685411,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.8487733952346783,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
       },
       {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.8376601385867053,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.8459898607131384,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.7701833780608949,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his basketball teammates, expressing excitement about the upcoming event.",
+        "score": 0.8393179424789036,
+        "id": "7124514e-ffc4-4f79-a340-8dd3fbad54fd",
+        "created_at": "2026-11-04T12:59:07.471785+00:00",
+        "updated_at": "2026-11-04T12:59:07.471785+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
-        "score": 0.7311547923895285,
-        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
-        "created_at": "2026-11-03T09:21:00.674911+00:00",
-        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+        "memory": "John has not yet visited Edinburgh, Scotland, but considers it a worthwhile destination for his upcoming team trip after Tim's suggestion.",
+        "score": 0.8344288328592395,
+        "id": "2bc4db82-4886-4a50-8768-0a3ac6ffe080",
+        "created_at": "2026-11-04T12:59:20.519189+00:00",
+        "updated_at": "2026-11-04T12:59:20.519189+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
-        "score": 0.7174799111527717,
-        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
-        "created_at": "2026-11-03T09:21:16.840236+00:00",
-        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+        "memory": "Tim expressed that being in the mountains is the best and asked John about his favorite part of their camping trip.",
+        "score": 0.7403918712332256,
+        "id": "a1aaed37-0256-4917-b3bb-24ae4dd24778",
+        "created_at": "2026-11-04T13:12:51.965887+00:00",
+        "updated_at": "2026-11-04T13:12:51.965887+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.6958766653309217,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
         "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7169619643749251,
-        "id": "b5124faa-db7c-4acd-a8ea-3851b5d27b5c",
-        "created_at": "2026-11-03T09:34:53.923371+00:00",
-        "updated_at": "2026-11-03T09:34:53.923371+00:00"
-      },
-      {
-        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7169619643749251,
-        "id": "9728296f-2b55-44bf-a483-16a333785bcd",
-        "created_at": "2026-11-03T09:34:40.883422+00:00",
-        "updated_at": "2026-11-03T09:34:40.883422+00:00"
+        "score": 0.6782043473977641,
+        "id": "eb0aea29-6736-4d10-bbab-18668c3c6494",
+        "created_at": "2026-11-04T13:20:36.457763+00:00",
+        "updated_at": "2026-11-04T13:20:36.457763+00:00"
       },
       {
         "memory": "Tim visited a travel agency on or before December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7166603989555651,
-        "id": "23ba5800-02f8-4123-adfc-ac99dc60b17c",
-        "created_at": "2026-11-03T09:34:36.196147+00:00",
-        "updated_at": "2026-11-03T09:34:36.196147+00:00"
+        "score": 0.6779027818708333,
+        "id": "541d89e6-25be-4234-81aa-d3f5509a6fcd",
+        "created_at": "2026-11-04T13:19:17.731354+00:00",
+        "updated_at": "2026-11-04T13:19:17.731354+00:00"
+      },
+      {
+        "memory": "Tim enjoys going on road trips with friends and family for exploring and hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.6750688499931077,
+        "id": "7f909d48-f5b0-43d7-baf7-b8b2bddae47b",
+        "created_at": "2026-11-04T13:06:33.791166+00:00",
+        "updated_at": "2026-11-04T13:06:33.791166+00:00"
       },
       {
         "memory": "Tim visited a travel agency on December 26, 2023, to inquire about the requirements for his next dream trip.",
-        "score": 0.7110814194969547,
-        "id": "62a64f14-ee15-423e-92fc-a7059a2e95a8",
-        "created_at": "2026-11-03T09:34:33.592607+00:00",
-        "updated_at": "2026-11-03T09:34:33.592607+00:00"
+        "score": 0.6723238024122231,
+        "id": "4b51de71-4eaf-4291-9757-8011354424ee",
+        "created_at": "2026-11-04T13:19:15.122434+00:00",
+        "updated_at": "2026-11-04T13:19:15.122434+00:00"
       },
       {
-        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
-        "score": 0.6910360669894915,
-        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
-        "created_at": "2026-11-03T09:34:38.576853+00:00",
-        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+        "memory": "Tim has Italy on his list of places to visit and asked John how his trip there was last month (December 2023).",
+        "score": 0.6684998078117423,
+        "id": "faa534a8-e43b-47bf-bd18-751c72476b9b",
+        "created_at": "2026-11-04T13:21:54.973715+00:00",
+        "updated_at": "2026-11-04T13:21:54.973715+00:00"
       },
       {
-        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's upcoming team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
-        "score": 0.6567513095267513,
-        "id": "a1a5f729-959b-4783-a2eb-cca098540bb5",
-        "created_at": "2026-11-03T09:14:48.121842+00:00",
-        "updated_at": "2026-11-03T09:14:48.121842+00:00"
+        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip, citing its magical vibe, history, architecture, and connection to Harry Potter.",
+        "score": 0.6480959604235791,
+        "id": "9d0d4324-09e1-41dd-8400-45466b332362",
+        "created_at": "2026-11-04T12:59:23.878053+00:00",
+        "updated_at": "2026-11-04T12:59:23.878053+00:00"
       },
       {
-        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
-        "score": 0.6564774833025615,
-        "id": "b0e444f3-0cbf-4caf-863b-013f12d04ccc",
-        "created_at": "2026-11-03T09:14:37.521022+00:00",
-        "updated_at": "2026-11-03T09:14:37.521022+00:00"
+        "memory": "Tim suggested Edinburgh, Scotland as a destination for John's upcoming team trip, citing its magical vibe, history, architecture, and connection to Harry Potter.",
+        "score": 0.6467588227219041,
+        "id": "683aca03-585c-4b1e-9688-d4551c5cdc46",
+        "created_at": "2026-11-04T12:59:28.670407+00:00",
+        "updated_at": "2026-11-04T12:59:28.670407+00:00"
       },
       {
-        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
-        "score": 0.6487257774684624,
-        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
-        "created_at": "2026-11-03T09:35:47.080548+00:00",
-        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+        "memory": "Italy is on Tim's list of places he wants to visit, and he expressed curiosity about John's recent trip there.",
+        "score": 0.6459804433585414,
+        "id": "c3ceb566-3dfb-4eef-a4f8-ea0b8aeb6ddf",
+        "created_at": "2026-11-04T13:22:01.828589+00:00",
+        "updated_at": "2026-11-04T13:22:01.828589+00:00"
       },
       {
-        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
-        "score": 0.6474612220291949,
-        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
-        "created_at": "2026-11-03T09:35:54.494219+00:00",
-        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+        "memory": "Tim added New York City to his personal travel list on August 26, 2023, after John shared photos and positive experiences of the city, expressing excitement about exploring and trying out new things there.",
+        "score": 0.6444118096876421,
+        "id": "ee2129fe-e7b4-4f82-8e00-ea733c7fe334",
+        "created_at": "2026-11-04T12:57:41.861232+00:00",
+        "updated_at": "2026-11-04T12:57:41.861232+00:00"
       },
       {
-        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
-        "score": 0.6389167741077634,
-        "id": "54464271-2eb0-415f-bf0b-663e30178077",
-        "created_at": "2026-11-03T09:11:12.594530+00:00",
-        "updated_at": "2026-11-03T09:11:12.594530+00:00"
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.6421040284839303,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       }
     ],
-    "search_latency_ms": 595.0,
+    "search_latency_ms": 681.6,
     "total_results": 20
   },
   "cutoff_results": {

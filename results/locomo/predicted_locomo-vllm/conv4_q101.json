@@ -8,181 +8,181 @@
   "evidence": [
     "D9:8"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "How was John's experience in New York City?",
     "search_results": [
       {
-        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
-        "score": 0.8896510377954778,
-        "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
-        "created_at": "2026-11-03T09:11:15.445268+00:00",
-        "updated_at": "2026-11-03T09:11:15.445268+00:00"
+        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences, calling it a must-visit destination.",
+        "score": 0.8660462894479737,
+        "id": "58e9d46d-4df4-4e6f-9a6d-40f66ef8d563",
+        "created_at": "2026-11-04T12:57:38.269398+00:00",
+        "updated_at": "2026-11-04T12:57:38.269398+00:00"
       },
       {
-        "memory": "John shared a photo of the New York City skyline from one of his trips, noting that he loves discovering new cities.",
-        "score": 0.8483425686457261,
-        "id": "b4c39f25-25cd-4693-9b64-0c7680c286f4",
-        "created_at": "2026-11-03T09:11:10.061156+00:00",
-        "updated_at": "2026-11-03T09:11:10.061156+00:00"
+        "memory": "John went on a trip to New York City where he initially struggled with the subway system until someone helped explain how it works.",
+        "score": 0.8472612416768147,
+        "id": "ea4c512b-4b2e-4a3c-991b-bf346905d2f9",
+        "created_at": "2026-11-04T12:58:35.912541+00:00",
+        "updated_at": "2026-11-04T12:58:35.912541+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.8444766331220748,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
-      },
-      {
-        "memory": "John initially had trouble navigating the New York City subway during his trip but found it easy after someone helped explain how it works.",
-        "score": 0.836741452960865,
-        "id": "0f685ceb-7f23-4d5d-9a7f-79f2750893fe",
-        "created_at": "2026-11-03T09:11:36.900149+00:00",
-        "updated_at": "2026-11-03T09:11:36.900149+00:00"
-      },
-      {
-        "memory": "John had trouble figuring out the subway system during his New York City trip but found it easy after someone helped explain it to him.",
-        "score": 0.831892045030821,
-        "id": "690f963c-a233-499b-abbc-a4b36ff8518c",
-        "created_at": "2026-11-03T09:12:53.917508+00:00",
-        "updated_at": "2026-11-03T09:12:53.917508+00:00"
+        "memory": "John loves discovering new cities and shared a photo of the New York City skyline from one of his trips to NYC on August 26, 2023",
+        "score": 0.8310812866878978,
+        "id": "bbacb9df-d3c0-4c7d-9c7e-8ec5f9ca6c49",
+        "created_at": "2026-11-04T12:57:31.423209+00:00",
+        "updated_at": "2026-11-04T12:57:31.423209+00:00"
       },
       {
         "memory": "John had trouble figuring out the subway system during his New York City trip until someone helped explain it to him.",
-        "score": 0.8278170231811804,
-        "id": "db44291c-199b-47d5-93d2-258f473b63d8",
-        "created_at": "2026-11-03T09:12:31.248483+00:00",
-        "updated_at": "2026-11-03T09:12:31.248483+00:00"
+        "score": 0.8278170186777803,
+        "id": "6ad1938a-c9f7-4b56-89b0-25e186eec62b",
+        "created_at": "2026-11-04T12:58:31.331962+00:00",
+        "updated_at": "2026-11-04T12:58:31.331962+00:00"
       },
       {
-        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
-        "score": 0.7972806930294921,
-        "id": "54464271-2eb0-415f-bf0b-663e30178077",
-        "created_at": "2026-11-03T09:11:12.594530+00:00",
-        "updated_at": "2026-11-03T09:11:12.594530+00:00"
+        "memory": "John initially had trouble navigating the New York City subway during his trip but found it easy to use after someone helped explain how it worked.",
+        "score": 0.8272338697852218,
+        "id": "c1b22cb8-681b-4211-b8af-2ad9581c5236",
+        "created_at": "2026-11-04T12:57:58.289431+00:00",
+        "updated_at": "2026-11-04T12:57:58.289431+00:00"
       },
       {
-        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.7750092132920846,
-        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
-        "created_at": "2026-11-03T09:05:48.016894+00:00",
-        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+        "memory": "Tim added New York City to his personal travel list on August 26, 2023, after John shared photos and positive experiences of the city, expressing excitement about exploring and trying out new things there.",
+        "score": 0.793566127990634,
+        "id": "ee2129fe-e7b4-4f82-8e00-ea733c7fe334",
+        "created_at": "2026-11-04T12:57:41.861232+00:00",
+        "updated_at": "2026-11-04T12:57:41.861232+00:00"
       },
       {
-        "memory": "John took a trip to a new place around early August 2023, describing the experience as amazing and noting that he loves the energy there.",
-        "score": 0.6121206358880787,
-        "id": "942f9d4d-ecd2-435d-b081-7ad5aa9554c8",
-        "created_at": "2026-11-03T09:03:22.501097+00:00",
-        "updated_at": "2026-11-03T09:03:22.501097+00:00"
+        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after John shared a photo of it on August 26, 2023",
+        "score": 0.7870765236149015,
+        "id": "c573b277-9b52-4835-a8f4-c3b0f59c7e5b",
+        "created_at": "2026-11-04T12:57:35.687553+00:00",
+        "updated_at": "2026-11-04T12:57:35.687553+00:00"
       },
       {
-        "memory": "John has been to Paris and described the city as amazing, specifically noting that the view from the Eiffel Tower is incredible.",
-        "score": 0.5952252449411809,
-        "id": "eb0c6e2b-6501-464f-a25e-ce25261e922e",
-        "created_at": "2026-11-03T09:37:06.646231+00:00",
-        "updated_at": "2026-11-03T09:37:06.646231+00:00"
+        "memory": "John took a trip to Chicago around August 11, 2023, describing it as awesome with lots of energy and friendly locals, and he enjoys experiencing other cultures and connecting with new people.",
+        "score": 0.7253829348187502,
+        "id": "b5a45d83-5deb-415f-b21a-d9271a780723",
+        "created_at": "2026-11-04T12:53:52.842488+00:00",
+        "updated_at": "2026-11-04T12:53:52.842488+00:00"
       },
       {
-        "memory": "Tim recommended Edinburgh, Scotland as a destination for John's upcoming team trip, citing it as the birthplace of Harry Potter with awesome history, architecture, and a beautiful city atmosphere.",
-        "score": 0.5895535382044127,
-        "id": "3f2f1f72-e9aa-4c5c-8a67-19356a0e9f89",
-        "created_at": "2026-11-03T09:14:41.118578+00:00",
-        "updated_at": "2026-11-03T09:14:41.118578+00:00"
+        "memory": "John expressed that escaping the noise of the city to relax in nature is amazing and finds nature's beauty and grandeur breathtaking.",
+        "score": 0.5998210190759176,
+        "id": "6a532df5-8cba-46da-86a8-98f4a446606e",
+        "created_at": "2026-11-04T13:04:40.771068+00:00",
+        "updated_at": "2026-11-04T13:04:40.771068+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.5786347797993264,
-        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
-        "created_at": "2026-11-03T09:14:41.113956+00:00",
-        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+        "memory": "John has been to Paris before and loved it, describing the view from the Eiffel Tower as incredible while sharing a bird's-eye photo of the city.",
+        "score": 0.5691876128656894,
+        "id": "eb486e71-4d03-4c04-bb6d-f60d3cb56f32",
+        "created_at": "2026-11-04T13:23:50.479505+00:00",
+        "updated_at": "2026-11-04T13:23:50.479505+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates the week of September 11, 2023, and found it great for getting to know them better.",
+        "score": 0.5609360377236103,
+        "id": "566ac60d-3af4-4215-80b6-edc96e55f7c7",
+        "created_at": "2026-11-04T12:59:04.721767+00:00",
+        "updated_at": "2026-11-04T12:59:04.721767+00:00"
       },
       {
         "memory": "John attended a local restaurant with some new teammates around September 14, 2023, and described it as a great opportunity to get to know them better.",
-        "score": 0.5676754694579256,
-        "id": "374290d5-faaf-46e5-a489-595626691cd2",
-        "created_at": "2026-11-03T09:14:03.760703+00:00",
-        "updated_at": "2026-11-03T09:14:03.760703+00:00"
+        "score": 0.5540430552807661,
+        "id": "abdf9b80-2f39-48d9-ad75-8f919827f90f",
+        "created_at": "2026-11-04T12:58:57.946938+00:00",
+        "updated_at": "2026-11-04T12:58:57.946938+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates around September 14, 2023, describing it as a great opportunity to get to know them better.",
-        "score": 0.5629853947568786,
-        "id": "cd93f415-b442-4cbf-99a0-7da883e389d3",
-        "created_at": "2026-11-03T09:13:52.078795+00:00",
-        "updated_at": "2026-11-03T09:13:52.078795+00:00"
-      },
-      {
-        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.5512062392766868,
-        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
-        "created_at": "2026-11-03T09:14:37.512820+00:00",
-        "updated_at": "2026-11-03T09:14:37.512820+00:00"
-      },
-      {
-        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.5500741500008237,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.5422493291469884,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
       },
       {
         "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.5487825812051679,
-        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
-        "created_at": "2026-11-03T09:14:22.471894+00:00",
-        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+        "score": 0.5347403216537017,
+        "id": "24e82f5e-1760-4cc8-b2c8-32702e6c3625",
+        "created_at": "2026-11-04T12:59:28.662871+00:00",
+        "updated_at": "2026-11-04T12:59:28.662871+00:00"
       },
       {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill and the experience as wild.",
-        "score": 0.539157563774767,
-        "id": "4f7c1ee8-b6ab-4992-9aea-d694d24bb52c",
-        "created_at": "2026-11-03T09:17:12.049521+00:00",
-        "updated_at": "2026-11-03T09:17:12.049521+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.5347403216537017,
+        "id": "5be78a6d-688d-4124-8944-fd34d2fa67ae",
+        "created_at": "2026-11-04T12:59:17.790540+00:00",
+        "updated_at": "2026-11-04T12:59:17.790540+00:00"
       },
       {
-        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a lot of fun together.",
-        "score": 0.5384434972478054,
-        "id": "fffc91b3-4c94-45a3-92c3-733491375dc3",
-        "created_at": "2026-11-03T09:14:03.763922+00:00",
-        "updated_at": "2026-11-03T09:14:03.763922+00:00"
+        "memory": "John connected with his new teammates over their shared love for basketball and considers them great friends.",
+        "score": 0.5310014578388976,
+        "id": "dc311453-d58e-49f3-9b27-1b619fe464f0",
+        "created_at": "2026-11-04T12:59:10.999237+00:00",
+        "updated_at": "2026-11-04T12:59:10.999237+00:00"
       },
       {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill, and has also seen him play live, noting it was a tough but inspiring experience.",
-        "score": 0.5294093872747895,
-        "id": "3ab960cd-4dab-48f4-8101-2f69c2cf5ec5",
-        "created_at": "2026-11-03T09:17:14.823806+00:00",
-        "updated_at": "2026-11-03T09:17:14.823806+00:00"
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.5302760271814044,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who share a love for basketball.",
+        "score": 0.5272157520096133,
+        "id": "fa5e7744-9331-47d6-9c0d-20dacd3d361c",
+        "created_at": "2026-11-04T12:59:23.869532+00:00",
+        "updated_at": "2026-11-04T12:59:23.869532+00:00"
+      },
+      {
+        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a ton of fun together.",
+        "score": 0.5221667975034678,
+        "id": "15ffd4fa-8496-4acd-af71-edb9902e6b20",
+        "created_at": "2026-11-04T12:59:04.726269+00:00",
+        "updated_at": "2026-11-04T12:59:04.726269+00:00"
+      },
+      {
+        "memory": "John is a basketball player who has met and watched a top player live, finding the experience wild and motivating, and describes his job as something he loves due to the incredible energy of games.",
+        "score": 0.5221057669541829,
+        "id": "688dd330-e3ca-49f1-a418-81bf3c7c0736",
+        "created_at": "2026-11-04T13:02:37.032021+00:00",
+        "updated_at": "2026-11-04T13:02:37.032021+00:00"
       }
     ],
-    "search_latency_ms": 138.4,
+    "search_latency_ms": 139.7,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John described his trip to New York City as amazing, noting that everywhere he went was new and exciting. He highlighted exploring the city and trying all the restaurants as awesome experiences. He initially had trouble navigating the subway system but found it easy after someone helped explain how it works.",
+      "generated_answer": "John described his trip to New York City as amazing and a must-visit destination, noting that everywhere he went there was something new and exciting. He particularly enjoyed exploring the city and trying all the restaurants. While he initially struggled with navigating the subway system, he found it easy to use after someone helped explain how it worked.",
       "memories_evaluated": 10,
       "reason": "The generated answer explicitly states that John described his trip as 'amazing', which directly matches the gold answer."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting. He highlighted exploring the city and trying all the restaurants as awesome experiences.",
+      "generated_answer": "John described his trip to New York City as amazing and exciting, noting that everywhere he went there was something new. He highlighted exploring the city and trying all the restaurants as awesome experiences and called it a must-visit destination. He initially struggled with the subway system but found it easy to use after someone helped explain how it worked.",
       "memories_evaluated": 20,
       "reason": "The generated answer explicitly states that John described his trip as 'amazing', which directly matches the gold answer."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting. He highlighted exploring the city and trying all the restaurants as awesome experiences.",
+      "generated_answer": "John described his trip to New York City as amazing and exciting, noting that everywhere he went there was something new. He highlighted exploring the city and trying all the restaurants as awesome experiences and called it a must-visit destination. He initially struggled with the subway system but found it easy to use after someone helped explain how it worked.",
       "memories_evaluated": 20,
       "reason": "The generated answer explicitly states that John described his trip as 'amazing', which directly matches the gold answer."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting. He highlighted exploring the city and trying all the restaurants as awesome experiences.",
+      "generated_answer": "John described his trip to New York City as amazing and exciting, noting that everywhere he went there was something new. He highlighted exploring the city and trying all the restaurants as awesome experiences and called it a must-visit destination. He initially struggled with the subway system but found it easy to use after someone helped explain how it worked.",
       "memories_evaluated": 20,
       "reason": "The generated answer explicitly states that John described his trip as 'amazing', which directly matches the gold answer."
     }

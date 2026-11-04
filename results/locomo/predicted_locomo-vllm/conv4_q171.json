@@ -8,183 +8,183 @@
   "evidence": [
     "D27:33"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What map does Tim show to his friend John?",
     "search_results": [
       {
-        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
-        "score": 0.6435851125348828,
-        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
-        "created_at": "2026-11-03T09:20:44.104295+00:00",
-        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+        "memory": "Tim and John are friends who both share an interest in fantasy books and movies, which Tim noted as a bonus point of their friendship.",
+        "score": 0.640951243614483,
+        "id": "68932c5b-d26d-47dd-b8e1-57aa8f74fbdb",
+        "created_at": "2026-11-04T13:11:54.408877+00:00",
+        "updated_at": "2026-11-04T13:11:54.408877+00:00"
       },
       {
-        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point in their friendship.",
-        "score": 0.6416379467832419,
-        "id": "b346756a-cefa-43be-a920-d556c2ea57c1",
-        "created_at": "2026-11-03T09:29:21.159362+00:00",
-        "updated_at": "2026-11-03T09:29:21.159362+00:00"
+        "memory": "Tim and John are friends who share a mutual interest in fantasy books and movies, which Tim considers a bonus point of their friendship.",
+        "score": 0.6385709239582271,
+        "id": "c786b5dc-70e6-4625-ada0-a3f27cefb977",
+        "created_at": "2026-11-04T13:11:50.462687+00:00",
+        "updated_at": "2026-11-04T13:11:50.462687+00:00"
       },
       {
-        "memory": "John typically spends time with friends and family by watching movies or going out for dinner, and he asked Tim about his favorite activities for fun.",
-        "score": 0.6141883311346745,
-        "id": "7436b404-73f4-4b33-a4ce-f35715a926ab",
-        "created_at": "2026-11-03T09:20:57.281243+00:00",
-        "updated_at": "2026-11-03T09:20:57.281243+00:00"
+        "memory": "Tim and John are friends who both enjoy fantasy books and movies, including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit.",
+        "score": 0.614295670196119,
+        "id": "aa61f3c3-4864-48dd-bf4b-1dfc0725bef3",
+        "created_at": "2026-11-04T13:12:17.558963+00:00",
+        "updated_at": "2026-11-04T13:12:17.558963+00:00"
       },
       {
-        "memory": "Tim enjoys exploring the intricate details of fictional universes in fantasy books like Lord of the Rings, such as maps of Middle-earth showing different realms and regions.",
-        "score": 0.6116139344035993,
-        "id": "0fd6ddef-1258-4a89-a819-ceadd8ef412d",
-        "created_at": "2026-11-03T09:37:11.153956+00:00",
-        "updated_at": "2026-11-03T09:37:11.153956+00:00"
+        "memory": "Tim finds fantasy books like Lord of the Rings inspiring because they allow him to get lost in another world and appreciate intricate details, as illustrated by his shared image of a Middle-earth map.",
+        "score": 0.592850113546622,
+        "id": "e9567e5d-07b8-4b37-b809-83e2845362e9",
+        "created_at": "2026-11-04T13:23:29.470773+00:00",
+        "updated_at": "2026-11-04T13:23:29.470773+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
-        "score": 0.5941690252868819,
-        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
-        "created_at": "2026-11-03T09:21:16.840236+00:00",
-        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+        "memory": "Tim enjoys going on road trips with friends and family for exploring and hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.5865292766698861,
+        "id": "7f909d48-f5b0-43d7-baf7-b8b2bddae47b",
+        "created_at": "2026-11-04T13:06:33.791166+00:00",
+        "updated_at": "2026-11-04T13:06:33.791166+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
-        "score": 0.5894494151822491,
-        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
-        "created_at": "2026-11-03T09:21:00.674911+00:00",
-        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.5836607811624225,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
-        "memory": "Tim finds fantasy books like Lord of the Rings inspiring because they allow him to get lost in another world and appreciate intricate details, as illustrated by a map of Middle-earth he shared on January 2, 2024.",
-        "score": 0.5869394854178511,
-        "id": "e77f6907-b74c-42e8-9fa6-5b12d56ea36b",
-        "created_at": "2026-11-03T09:36:50.901002+00:00",
-        "updated_at": "2026-11-03T09:36:50.901002+00:00"
+        "memory": "John is a member of a hiking club, and some of his friends from the club attended his wedding despite him having only recently joined the group.",
+        "score": 0.5605891077787591,
+        "id": "8a0cef5d-6ce6-42ae-a4a4-c7c948dcd50f",
+        "created_at": "2026-11-04T13:01:04.855888+00:00",
+        "updated_at": "2026-11-04T13:01:04.855888+00:00"
       },
       {
-        "memory": "Tim shared a map of Middle-earth from Lord of the Rings on January 2, 2024, noting that it is cool to see all the different realms and regions depicted.",
-        "score": 0.5864838015607055,
-        "id": "8ebff9df-346b-426b-ba3d-d7e31c5707a0",
-        "created_at": "2026-11-03T09:36:55.071099+00:00",
-        "updated_at": "2026-11-03T09:36:55.071099+00:00"
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that John had previously shared.",
+        "score": 0.462591274057399,
+        "id": "e383ef53-4bca-4669-b3bb-4d8e295b56f1",
+        "created_at": "2026-11-04T13:06:36.047460+00:00",
+        "updated_at": "2026-11-04T13:06:36.047460+00:00"
       },
       {
-        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
-        "score": 0.5789172232791877,
-        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
-        "created_at": "2026-11-03T09:18:32.649446+00:00",
-        "updated_at": "2026-11-03T09:18:32.649446+00:00"
+        "memory": "Tim loves traveling and found John's photo of the Eiffel Tower awesome, expressing interest in whether John has been to Paris.",
+        "score": 0.4613151096939556,
+        "id": "34a5f676-5479-4c22-9f35-7970f7577280",
+        "created_at": "2026-11-04T13:23:45.234394+00:00",
+        "updated_at": "2026-11-04T13:23:45.234394+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.5695068623519355,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and shared with John.",
+        "score": 0.45870701706245365,
+        "id": "45e03dc0-d63c-443b-8226-4afc53f4ab8c",
+        "created_at": "2026-11-04T13:19:50.322551+00:00",
+        "updated_at": "2026-11-04T13:19:50.322551+00:00"
       },
       {
-        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
-        "score": 0.5528874126525121,
-        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
-        "created_at": "2026-11-03T09:21:06.470537+00:00",
-        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+        "memory": "Tim expressed that being in the mountains is the best and asked John about his favorite part of their camping trip.",
+        "score": 0.4550612030146842,
+        "id": "a1aaed37-0256-4917-b3bb-24ae4dd24778",
+        "created_at": "2026-11-04T13:12:51.965887+00:00",
+        "updated_at": "2026-11-04T13:12:51.965887+00:00"
       },
       {
-        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
-        "score": 0.5514054703590135,
-        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
-        "created_at": "2026-11-03T09:19:26.762706+00:00",
-        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.4545854128287595,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
-        "score": 0.5484072032580023,
-        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
-        "created_at": "2026-11-03T09:31:05.117742+00:00",
-        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+        "memory": "John and Tim share a mutual interest in fantasy books and movies, with John noting that The Hobbit is one of his favorites.",
+        "score": 0.45233046013812944,
+        "id": "7f74cf99-5e5c-4f7f-b370-3fedf53a2b72",
+        "created_at": "2026-11-04T13:12:07.024474+00:00",
+        "updated_at": "2026-11-04T13:12:07.024474+00:00"
       },
       {
-        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
-        "score": 0.5440857971736989,
-        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
-        "created_at": "2026-11-03T09:35:54.494219+00:00",
-        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+        "memory": "Tim has Italy on his list of places to visit and asked John how his trip there was last month (December 2023).",
+        "score": 0.4468975344321219,
+        "id": "faa534a8-e43b-47bf-bd18-751c72476b9b",
+        "created_at": "2026-11-04T13:21:54.973715+00:00",
+        "updated_at": "2026-11-04T13:21:54.973715+00:00"
       },
       {
-        "memory": "Tim uses a mobile app for language learning, which John also uses on his phone to practice Spanish.",
-        "score": 0.5382233676787324,
-        "id": "92a432b0-2ab9-40e5-93ab-4db8c2793263",
-        "created_at": "2026-11-03T09:36:13.197460+00:00",
-        "updated_at": "2026-11-03T09:36:13.197460+00:00"
+        "memory": "Italy is on Tim's list of places he wants to visit, and he expressed curiosity about John's recent trip there.",
+        "score": 0.44645377550928095,
+        "id": "c3ceb566-3dfb-4eef-a4f8-ea0b8aeb6ddf",
+        "created_at": "2026-11-04T13:22:01.828589+00:00",
+        "updated_at": "2026-11-04T13:22:01.828589+00:00"
+      },
+      {
+        "memory": "John expressed interest in visiting The Cliffs of Moher after his season ends and agreed to let Tim know if he is around",
+        "score": 0.44327444151088635,
+        "id": "b898216c-a50a-44ff-80c1-e879dddcebda",
+        "created_at": "2026-11-04T13:24:57.815952+00:00",
+        "updated_at": "2026-11-04T13:24:57.815952+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.4402117541380582,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
         "memory": "Tim owns a prized possession: a basketball signed by his favorite player, which he shared with John during their conversation.",
-        "score": 0.5368120599732615,
-        "id": "31196cac-4beb-410d-8c13-010e32d84735",
-        "created_at": "2026-11-03T09:22:24.102935+00:00",
-        "updated_at": "2026-11-03T09:22:24.102935+00:00"
+        "score": 0.4400719168923839,
+        "id": "18a63e37-214b-4125-a762-f696fccfcc7c",
+        "created_at": "2026-11-04T13:07:30.156291+00:00",
+        "updated_at": "2026-11-04T13:07:30.156291+00:00"
       },
       {
-        "memory": "Tim shared a photo of a statue of a woman wearing a blue hat while responding to John's update about his European road trip.",
-        "score": 0.5332919485092379,
-        "id": "267eb2e0-df1a-4912-8bfc-56d42a7238e1",
-        "created_at": "2026-11-03T09:23:48.298652+00:00",
-        "updated_at": "2026-11-03T09:23:48.298652+00:00"
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.4398521612899587,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       },
       {
-        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
-        "score": 0.5313963791262004,
-        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
-        "created_at": "2026-11-03T09:16:12.165487+00:00",
-        "updated_at": "2026-11-03T09:16:12.165487+00:00"
-      },
-      {
-        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
-        "score": 0.5294673374982035,
-        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
-        "created_at": "2026-11-03T09:34:23.210044+00:00",
-        "updated_at": "2026-11-03T09:34:23.210044+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.5292850232487005,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+        "memory": "Tim recommended visiting castles in Europe to John, describing them as magical.",
+        "score": 0.43915750301673045,
+        "id": "414eee9e-5c99-4bc7-b30f-fce02d2b544c",
+        "created_at": "2026-11-04T13:08:01.535220+00:00",
+        "updated_at": "2026-11-04T13:08:01.535220+00:00"
       }
     ],
-    "search_latency_ms": 126.3,
+    "search_latency_ms": 210.5,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "a map of Middle-earth from Lord of the Rings",
+      "generated_answer": "A Middle-earth map",
       "memories_evaluated": 10,
-      "reason": "The generated answer correctly identifies the map of Middle-earth from Lord of the Rings, which is the same entity as the gold answer's 'map of Middle-earth from LOTR'."
+      "reason": "The generated answer identifies the same core entity (a map of Middle-earth) as the gold answer, even though it omits the specific source (LOTR)."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "a map of Middle-earth from Lord of the Rings",
+      "generated_answer": "A Middle-earth map",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies the map of Middle-earth from Lord of the Rings, which is the same entity as the gold answer's 'map of Middle-earth from LOTR'."
+      "reason": "The generated answer identifies the same core entity (a map of Middle-earth) as the gold answer, even though it omits the specific source (LOTR)."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "a map of Middle-earth from Lord of the Rings",
+      "generated_answer": "A Middle-earth map",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies the map of Middle-earth from Lord of the Rings, which is the same entity as the gold answer's 'map of Middle-earth from LOTR'."
+      "reason": "The generated answer identifies the same core entity (a map of Middle-earth) as the gold answer, even though it omits the specific source (LOTR)."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "a map of Middle-earth from Lord of the Rings",
+      "generated_answer": "A Middle-earth map",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies the map of Middle-earth from Lord of the Rings, which is the same entity as the gold answer's 'map of Middle-earth from LOTR'."
+      "reason": "The generated answer identifies the same core entity (a map of Middle-earth) as the gold answer, even though it omits the specific source (LOTR)."
     }
   }
 }

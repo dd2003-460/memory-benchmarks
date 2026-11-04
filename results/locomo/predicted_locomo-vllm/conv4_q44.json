@@ -8,183 +8,183 @@
   "evidence": [
     "D16:14"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When did John and his wife go on a European vacation?",
     "search_results": [
       {
         "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
-        "score": 0.9254264183816712,
-        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
-        "created_at": "2026-11-03T09:23:39.179743+00:00",
-        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+        "score": 0.9278188420991281,
+        "id": "18a7794a-2345-4eac-8e3e-3d78d1234994",
+        "created_at": "2026-11-04T13:08:08.421845+00:00",
+        "updated_at": "2026-11-04T13:08:08.421845+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.8920911927332998,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.8888726428638722,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.8861539458541259,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations based on his previous experience in Europe.",
+        "score": 0.8881216044788041,
+        "id": "5a25ef2f-5e70-45a6-9818-cb4c0d16e025",
+        "created_at": "2026-11-04T13:07:42.948057+00:00",
+        "updated_at": "2026-11-04T13:07:42.948057+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.8854676176102816,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+        "score": 0.8878600413025202,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
-        "score": 0.8690120195056702,
-        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
-        "created_at": "2026-11-03T09:23:36.618818+00:00",
-        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+        "score": 0.8714044431765752,
+        "id": "36d81a5f-e70a-49d2-8849-47d61edb22c1",
+        "created_at": "2026-11-04T13:08:05.745534+00:00",
+        "updated_at": "2026-11-04T13:08:05.745534+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation around November 6, 2023, planning to visit castles as recommended by Tim.",
-        "score": 0.8580503420162616,
-        "id": "f5c151f5-6cd5-4091-ae0a-c193e3ebc2cb",
-        "created_at": "2026-11-03T09:23:13.504620+00:00",
-        "updated_at": "2026-11-03T09:23:13.504620+00:00"
-      },
-      {
-        "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
-        "score": 0.7941168872049007,
-        "id": "f7e04db1-f27d-473f-8634-a60daf2e4047",
-        "created_at": "2026-11-03T09:23:09.548575+00:00",
-        "updated_at": "2026-11-03T09:23:09.548575+00:00"
+        "memory": "John and his wife are on a short European vacation starting around November 6, 2023, and plan to visit castles based on Tim's recommendation",
+        "score": 0.8529681582264812,
+        "id": "a5ab07b6-2c4d-4298-9bc8-bc991a8c77a0",
+        "created_at": "2026-11-04T13:07:51.159466+00:00",
+        "updated_at": "2026-11-04T13:07:51.159466+00:00"
       },
       {
         "memory": "Tim recommended visiting castles during John's European vacation, describing them as magical.",
-        "score": 0.7941168872049007,
-        "id": "cfab7623-73b0-4b8e-9804-724ccc2b0c35",
-        "created_at": "2026-11-03T09:23:22.658071+00:00",
-        "updated_at": "2026-11-03T09:23:22.658071+00:00"
+        "score": 0.7965092084178415,
+        "id": "ac9986e7-2c8b-446c-9a05-3becc91fd3d8",
+        "created_at": "2026-11-04T13:07:48.813432+00:00",
+        "updated_at": "2026-11-04T13:07:48.813432+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.6916200543580143,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.685995772663653,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
-        "score": 0.626778890730906,
-        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
-        "created_at": "2026-11-03T09:33:32.675244+00:00",
-        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to pain-free jogging after his ankle injury.",
+        "score": 0.6057533577644064,
+        "id": "e4193c5e-949c-4d9c-b4e6-36c2b21ca480",
+        "created_at": "2026-11-04T13:17:01.145042+00:00",
+        "updated_at": "2026-11-04T13:17:01.145042+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
-        "score": 0.6137110177312257,
-        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
-        "created_at": "2026-11-03T09:33:20.568634+00:00",
-        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding in a lovely greenhouse venue to ensure safety during the pandemic, following necessary protocols so everyone felt safe while celebrating with loved ones.",
+        "score": 0.5903428237537552,
+        "id": "e24d232d-103e-4c4f-93a7-4d034faa7bb7",
+        "created_at": "2026-11-04T13:00:38.649597+00:00",
+        "updated_at": "2026-11-04T13:00:38.649597+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6112068101046687,
-        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
-        "created_at": "2026-11-03T09:33:27.522504+00:00",
-        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his pain-free jogging milestone at the gym on December 15, 2023.",
+        "score": 0.5861928260342192,
+        "id": "8acf5cdb-e142-49ed-b462-9a8b5a86abed",
+        "created_at": "2026-11-04T13:16:57.373739+00:00",
+        "updated_at": "2026-11-04T13:16:57.373739+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6112068101046687,
-        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
-        "created_at": "2026-11-03T09:33:30.168403+00:00",
-        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, which made him emotional and choked up.",
+        "score": 0.5771877214059826,
+        "id": "7c974608-bd0e-47e7-938c-22fe876e9bd4",
+        "created_at": "2026-11-04T13:01:04.859051+00:00",
+        "updated_at": "2026-11-04T13:01:04.859051+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
-        "score": 0.6051339621835621,
-        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
-        "created_at": "2026-11-03T09:33:23.067593+00:00",
-        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, a moment that made him emotional and choked up, which he describes as magical and unforgettable.",
+        "score": 0.5749599883533902,
+        "id": "7509c854-f6ed-4c9a-ae55-bdc1cde9e3c9",
+        "created_at": "2026-11-04T13:00:47.888762+00:00",
+        "updated_at": "2026-11-04T13:00:47.888762+00:00"
       },
       {
-        "memory": "John's favorite memory from his wedding on October 2, 2023, was seeing his wife walk down the aisle, a moment that made him emotional and choked up with happiness.",
-        "score": 0.5987443737547269,
-        "id": "3ce98b16-5e87-4fe6-bbec-e9c09b7e8bcb",
-        "created_at": "2026-11-03T09:16:32.611852+00:00",
-        "updated_at": "2026-11-03T09:16:32.611852+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant featuring music and candlelight, which John described as dreamy.",
+        "score": 0.5717121875579994,
+        "id": "ed6be9a8-dd3c-4573-ace9-7f61981116e9",
+        "created_at": "2026-11-04T13:01:04.862411+00:00",
+        "updated_at": "2026-11-04T13:01:04.862411+00:00"
       },
       {
-        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe while celebrating with loved ones.",
-        "score": 0.596609960159624,
-        "id": "88f2275c-52cc-4712-906b-49be797d7e81",
-        "created_at": "2026-11-03T09:16:21.061118+00:00",
-        "updated_at": "2026-11-03T09:16:21.061118+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding reception, which he described as dreamy with music and candlelight.",
+        "score": 0.570659852179722,
+        "id": "4962ec15-a0c7-4240-a0c3-e5ae0ad19d3c",
+        "created_at": "2026-11-04T13:00:54.551471+00:00",
+        "updated_at": "2026-11-04T13:00:54.551471+00:00"
       },
       {
-        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
-        "score": 0.5878604568359609,
-        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
-        "created_at": "2026-11-03T09:16:41.057223+00:00",
-        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+        "memory": "Tim recommended visiting castles in Europe to John, describing them as magical.",
+        "score": 0.3526616190098545,
+        "id": "414eee9e-5c99-4bc7-b30f-fce02d2b544c",
+        "created_at": "2026-11-04T13:08:01.535220+00:00",
+        "updated_at": "2026-11-04T13:08:01.535220+00:00"
       },
       {
-        "memory": "Tim saw a photo of John and his wife dancing at their wedding on October 2, 2023, and expressed interest in hearing more about the moment.",
-        "score": 0.5683447073977113,
-        "id": "1f86c352-2846-49a2-b271-a831d1110d74",
-        "created_at": "2026-11-03T09:16:37.125162+00:00",
-        "updated_at": "2026-11-03T09:16:37.125162+00:00"
+        "memory": "Tim recommended visiting castles in Europe to John, describing them as magical",
+        "score": 0.3284334248509266,
+        "id": "d46f3b7c-205d-4579-9cd8-191c8483a2ef",
+        "created_at": "2026-11-04T13:07:51.162792+00:00",
+        "updated_at": "2026-11-04T13:07:51.162792+00:00"
       },
       {
-        "memory": "Italy is on Tim's list of places to visit, and he asked John about his trip there which took place in December 2023.",
-        "score": 0.2595456523990375,
-        "id": "92a2c46b-2594-45e8-ad75-852f02659168",
-        "created_at": "2026-11-03T09:35:47.080548+00:00",
-        "updated_at": "2026-11-03T09:35:47.080548+00:00"
+        "memory": "John visited his home around August 19-25, 2023, where he caught up with family and old friends, reminiscing about their childhood together.",
+        "score": 0.255982470753522,
+        "id": "792130d4-ef75-4fa2-8f7e-81356329985d",
+        "created_at": "2026-11-04T12:57:20.958703+00:00",
+        "updated_at": "2026-11-04T12:57:20.958703+00:00"
       },
       {
-        "memory": "Italy is on Tim's list of places to visit, and he is interested in hearing about John's recent trip there.",
-        "score": 0.25855831184771316,
-        "id": "b1bfcfba-30ba-454a-9cc5-63a5483ab8fa",
-        "created_at": "2026-11-03T09:35:54.494219+00:00",
-        "updated_at": "2026-11-03T09:35:54.494219+00:00"
+        "memory": "John is a member of a hiking club, and some of his friends from the club attended his wedding despite him having only recently joined the group.",
+        "score": 0.25086131464603645,
+        "id": "8a0cef5d-6ce6-42ae-a4a4-c7c948dcd50f",
+        "created_at": "2026-11-04T13:01:04.855888+00:00",
+        "updated_at": "2026-11-04T13:01:04.855888+00:00"
+      },
+      {
+        "memory": "Tim has Italy on his list of places to visit and asked John how his trip there was last month (December 2023).",
+        "score": 0.24898409279279615,
+        "id": "faa534a8-e43b-47bf-bd18-751c72476b9b",
+        "created_at": "2026-11-04T13:21:54.973715+00:00",
+        "updated_at": "2026-11-04T13:21:54.973715+00:00"
       }
     ],
-    "search_latency_ms": 147.3,
+    "search_latency_ms": 139.8,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "November 6, 2023",
+      "generated_answer": "around November 6, 2023",
       "memories_evaluated": 10,
-      "reason": "The generated answer specifies November 6, 2023, which falls within the month of November 2023 provided in the gold answer, satisfying the date tolerance rule."
+      "reason": "The generated answer specifies a date in November 2023, which falls within the 14-day tolerance window of the gold answer's month and year."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "November 6, 2023",
+      "generated_answer": "around November 6, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer specifies November 6, 2023, which falls within the month of November 2023 provided in the gold answer, satisfying the date tolerance rule."
+      "reason": "The generated answer specifies a date in November 2023, which falls within the 14-day tolerance window of the gold answer's month and year."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "November 6, 2023",
+      "generated_answer": "around November 6, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer specifies November 6, 2023, which falls within the month of November 2023 provided in the gold answer, satisfying the date tolerance rule."
+      "reason": "The generated answer specifies a date in November 2023, which falls within the 14-day tolerance window of the gold answer's month and year."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "November 6, 2023",
+      "generated_answer": "around November 6, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer specifies November 6, 2023, which falls within the month of November 2023 provided in the gold answer, satisfying the date tolerance rule."
+      "reason": "The generated answer specifies a date in November 2023, which falls within the 14-day tolerance window of the gold answer's month and year."
     }
   }
 }

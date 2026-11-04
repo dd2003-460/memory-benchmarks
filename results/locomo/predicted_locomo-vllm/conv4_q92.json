@@ -8,162 +8,162 @@
   "evidence": [
     "D7:7"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What did John's teammates give him when they met on Aug 15th?",
     "search_results": [
       {
-        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.7620119479277305,
-        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
-        "created_at": "2026-11-03T09:14:37.512820+00:00",
-        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+        "memory": "John shared a photo on August 17, 2023, of a basketball with autographs from his teammates that they gave him when they met up, describing it as a sign of their friendship and mutual love for each other.",
+        "score": 0.7526943966965887,
+        "id": "e4f2f6de-22c9-44ff-aaf6-68d7cb428845",
+        "created_at": "2026-11-04T12:55:13.565137+00:00",
+        "updated_at": "2026-11-04T12:55:13.565137+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.747056578399171,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
       },
       {
         "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.7601668076151465,
-        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
-        "created_at": "2026-11-03T09:14:22.471894+00:00",
-        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+        "score": 0.7430411531791739,
+        "id": "24e82f5e-1760-4cc8-b2c8-32702e6c3625",
+        "created_at": "2026-11-04T12:59:28.662871+00:00",
+        "updated_at": "2026-11-04T12:59:28.662871+00:00"
       },
       {
-        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
-        "score": 0.7575965226836827,
-        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
-        "created_at": "2026-11-03T09:08:31.358666+00:00",
-        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.7430411531791739,
+        "id": "5be78a6d-688d-4124-8944-fd34d2fa67ae",
+        "created_at": "2026-11-04T12:59:17.790540+00:00",
+        "updated_at": "2026-11-04T12:59:17.790540+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with some new teammates the week of September 11, 2023, and found it great for getting to know them better.",
+        "score": 0.7412017873916923,
+        "id": "566ac60d-3af4-4215-80b6-edc96e55f7c7",
+        "created_at": "2026-11-04T12:59:04.721767+00:00",
+        "updated_at": "2026-11-04T12:59:04.721767+00:00"
       },
       {
         "memory": "John attended a local restaurant with some new teammates around September 14, 2023, and described it as a great opportunity to get to know them better.",
-        "score": 0.756731948631181,
-        "id": "374290d5-faaf-46e5-a489-595626691cd2",
-        "created_at": "2026-11-03T09:14:03.760703+00:00",
-        "updated_at": "2026-11-03T09:14:03.760703+00:00"
+        "score": 0.7398463273383588,
+        "id": "abdf9b80-2f39-48d9-ad75-8f919827f90f",
+        "created_at": "2026-11-04T12:58:57.946938+00:00",
+        "updated_at": "2026-11-04T12:58:57.946938+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates around September 14, 2023, describing it as a great opportunity to get to know them better.",
-        "score": 0.7563139694343546,
-        "id": "cd93f415-b442-4cbf-99a0-7da883e389d3",
-        "created_at": "2026-11-03T09:13:52.078795+00:00",
-        "updated_at": "2026-11-03T09:13:52.078795+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who share a love for basketball.",
+        "score": 0.7388410101645888,
+        "id": "fa5e7744-9331-47d6-9c0d-20dacd3d361c",
+        "created_at": "2026-11-04T12:59:23.869532+00:00",
+        "updated_at": "2026-11-04T12:59:23.869532+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
-        "score": 0.7250952942144879,
-        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
-        "created_at": "2026-11-03T09:08:04.819221+00:00",
-        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+        "memory": "John met back up with his teammates on August 15, 2023, after a trip, describing the reunion as amazing and electric because everyone missed him and he felt very welcome being back with the group.",
+        "score": 0.7361506505047547,
+        "id": "d176f840-7211-4fd9-ae35-c35d1aaf8c02",
+        "created_at": "2026-11-04T12:54:55.938040+00:00",
+        "updated_at": "2026-11-04T12:54:55.938040+00:00"
       },
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.7238952195992197,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.7309077722328438,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
-        "score": 0.7226639927573679,
-        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
-        "created_at": "2026-11-03T09:08:28.250746+00:00",
-        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+        "memory": "After scoring a career-high 40 points in a basketball game around July 9, 2023, John and his teammates celebrated at a restaurant where they laughed and relived the intense moments of the tough win.",
+        "score": 0.7066452824213895,
+        "id": "45f13c56-5863-4a04-b280-47cb05efc4ca",
+        "created_at": "2026-11-04T12:50:54.977647+00:00",
+        "updated_at": "2026-11-04T12:50:54.977647+00:00"
       },
       {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.6540835228664315,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.6993180671500668,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
-        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a lot of fun together.",
-        "score": 0.6311034240347586,
-        "id": "fffc91b3-4c94-45a3-92c3-733491375dc3",
-        "created_at": "2026-11-03T09:14:03.763922+00:00",
-        "updated_at": "2026-11-03T09:14:03.763922+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.6319027327042764,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.6306243898982804,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John connected with his new teammates over their shared love for basketball and considers them great friends.",
+        "score": 0.6282204823825962,
+        "id": "dc311453-d58e-49f3-9b27-1b619fe464f0",
+        "created_at": "2026-11-04T12:59:10.999237+00:00",
+        "updated_at": "2026-11-04T12:59:10.999237+00:00"
+      },
+      {
+        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a ton of fun together.",
+        "score": 0.6240216883826744,
+        "id": "15ffd4fa-8496-4acd-af71-edb9902e6b20",
+        "created_at": "2026-11-04T12:59:04.726269+00:00",
+        "updated_at": "2026-11-04T12:59:04.726269+00:00"
+      },
+      {
+        "memory": "John received a signed basketball from his teammates as a token of friendship and appreciation, which he finds comforting and motivating as a reminder of their bond and why he started playing basketball.",
+        "score": 0.6208584040458209,
+        "id": "104f0bbb-b276-489f-9a96-60f2a1136f1a",
+        "created_at": "2026-11-04T12:55:34.026982+00:00",
+        "updated_at": "2026-11-04T12:55:34.026982+00:00"
+      },
+      {
+        "memory": "John collects basketball jerseys and has had the opportunity to meet LeBron James a few times, describing him as real chill, and has also seen him play live.",
+        "score": 0.6157784330262738,
+        "id": "50fb39f1-f330-4c5e-93ec-dbc908330aa5",
+        "created_at": "2026-11-04T13:02:11.708369+00:00",
+        "updated_at": "2026-11-04T13:02:11.708369+00:00"
+      },
+      {
+        "memory": "After winning the game where John scored 40 points, he and his teammates celebrated at a restaurant, describing the experience as exhausting but happy while reliving the intense moments together.",
+        "score": 0.6142792003984875,
+        "id": "28010ac6-3677-4c98-8e68-7cdf7268c61f",
+        "created_at": "2026-11-04T12:51:09.906157+00:00",
+        "updated_at": "2026-11-04T12:51:09.906157+00:00"
+      },
+      {
+        "memory": "John values the support of his teammates who encourage him even when he makes mistakes, and notes that he has a strong support network outside of sports including family and friends who are always there for him.",
+        "score": 0.613760661693766,
+        "id": "329559e0-553b-4647-bb48-b767bc9473be",
+        "created_at": "2026-11-04T13:06:24.965665+00:00",
+        "updated_at": "2026-11-04T13:06:24.965665+00:00"
+      },
+      {
+        "memory": "John described the atmosphere of his 40-point game as electric and noted that he and his teammates were thrilled to pull off a tough win, sharing a photo of the team celebrating on the court.",
+        "score": 0.6115561798051516,
+        "id": "7679b6e0-fbb6-474d-a638-16ee25e101b3",
+        "created_at": "2026-11-04T12:50:39.577878+00:00",
+        "updated_at": "2026-11-04T12:50:39.577878+00:00"
       },
       {
         "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
-        "score": 0.6138419720063161,
-        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
-        "created_at": "2026-11-03T09:15:54.760026+00:00",
-        "updated_at": "2026-11-03T09:15:54.760026+00:00"
-      },
-      {
-        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
-        "score": 0.6069260877310294,
-        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
-        "created_at": "2026-11-03T09:15:20.574099+00:00",
-        "updated_at": "2026-11-03T09:15:20.574099+00:00"
-      },
-      {
-        "memory": "John's teammates are supportive even when he makes mistakes, and their encouragement helps him keep going.",
-        "score": 0.6029929495135151,
-        "id": "f2e489dd-324d-4ed2-b01a-dc7dbfb1d6b4",
-        "created_at": "2026-11-03T09:20:44.099368+00:00",
-        "updated_at": "2026-11-03T09:20:44.099368+00:00"
-      },
-      {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill, and has also seen him play live, noting it was a tough but inspiring experience.",
-        "score": 0.593316580650611,
-        "id": "3ab960cd-4dab-48f4-8101-2f69c2cf5ec5",
-        "created_at": "2026-11-03T09:17:14.823806+00:00",
-        "updated_at": "2026-11-03T09:17:14.823806+00:00"
-      },
-      {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill and the experience as wild.",
-        "score": 0.5917626704278353,
-        "id": "4f7c1ee8-b6ab-4992-9aea-d694d24bb52c",
-        "created_at": "2026-11-03T09:17:12.049521+00:00",
-        "updated_at": "2026-11-03T09:17:12.049521+00:00"
-      },
-      {
-        "memory": "Some of John's hiking club friends attended his wedding ceremony in a greenhouse around September 25, 2023, even though he had only recently joined the club.",
-        "score": 0.33463709486052784,
-        "id": "7a694165-bc68-4d0d-9f8c-0646627fbae1",
-        "created_at": "2026-11-03T09:16:32.616110+00:00",
-        "updated_at": "2026-11-03T09:16:32.616110+00:00"
-      },
-      {
-        "memory": "John has recently joined a hiking club, and some of his friends from the club attended his wedding ceremony around September 25, 2023, despite him having just joined the group.",
-        "score": 0.3345010487504231,
-        "id": "53e38743-c8e5-4f4c-ad15-a3f9c2827da2",
-        "created_at": "2026-11-03T09:16:27.184379+00:00",
-        "updated_at": "2026-11-03T09:16:27.184379+00:00"
-      },
-      {
-        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
-        "score": 0.32486316129862985,
-        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
-        "created_at": "2026-11-03T09:18:32.649446+00:00",
-        "updated_at": "2026-11-03T09:18:32.649446+00:00"
-      },
-      {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.32013903396938503,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "score": 0.6089225450044291,
+        "id": "62ecd3f6-8095-4975-a6f4-6002099782fc",
+        "created_at": "2026-11-04T13:00:03.530178+00:00",
+        "updated_at": "2026-11-04T13:00:03.530178+00:00"
       }
     ],
-    "search_latency_ms": 141.6,
+    "search_latency_ms": 169.2,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "a signed basketball",
+      "generated_answer": "a basketball with autographs",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'a signed basketball' is a correct paraphrase of the gold answer 'a basketball with autographs on it', as 'signed' and 'autographs' refer to the same concept."
+      "reason": "The generated answer correctly identifies the core item (a basketball with autographs) mentioned in the gold answer, omitting only the minor detail that the autographs were on the ball itself, which is semantically equivalent."
     },
     "top_20": {
       "judgment": "CORRECT",

@@ -8,183 +8,183 @@
   "evidence": [
     "D3:1"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What was the highest number of points John scored in a game recently?",
     "search_results": [
       {
-        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
-        "score": 0.6451083977437168,
-        "id": "094a7829-5c98-4aee-b925-8eb643671180",
-        "created_at": "2026-11-03T09:31:45.175398+00:00",
-        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+        "memory": "John scored 40 points in a basketball game around July 9, 2023, which is his personal best and highest score ever, marking a milestone where he feels his hard work is paying off.",
+        "score": 0.7107848901891757,
+        "id": "c160fbab-842f-4446-a832-fd6bc81527a4",
+        "created_at": "2026-11-04T12:50:36.798410+00:00",
+        "updated_at": "2026-11-04T12:50:36.798410+00:00"
       },
       {
-        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
-        "score": 0.6436478446559584,
-        "id": "d1039026-4d93-4509-8073-e15282f740f7",
-        "created_at": "2026-11-03T09:31:54.807142+00:00",
-        "updated_at": "2026-11-03T09:31:54.807142+00:00"
+        "memory": "John scored a personal best of 40 points in a basketball game around July 9, 2023, which he described as an incredible experience with an electric atmosphere that led to a tough win for his team.",
+        "score": 0.7063064550111824,
+        "id": "416549fd-78d2-4a70-8b44-595a93f08b12",
+        "created_at": "2026-11-04T12:51:09.901545+00:00",
+        "updated_at": "2026-11-04T12:51:09.901545+00:00"
       },
       {
-        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
-        "score": 0.6414814139725183,
-        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
-        "created_at": "2026-11-03T09:31:49.895597+00:00",
-        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+        "memory": "John scored a career-high 40 points in a basketball game during the week of July 9, 2023, feeling that his hard work was finally paying off.",
+        "score": 0.6733819485917447,
+        "id": "4a0a38e8-f00a-43c1-8de4-694e375bc801",
+        "created_at": "2026-11-04T12:50:32.853764+00:00",
+        "updated_at": "2026-11-04T12:50:32.853764+00:00"
       },
       {
-        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
-        "score": 0.6373650942101178,
-        "id": "352a6cae-8749-47c6-8fba-36228a556495",
-        "created_at": "2026-11-03T09:31:59.602804+00:00",
-        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+        "memory": "After scoring a career-high 40 points in a basketball game around July 9, 2023, John and his teammates celebrated at a restaurant where they laughed and relived the intense moments of the tough win.",
+        "score": 0.6609350652233059,
+        "id": "45f13c56-5863-4a04-b280-47cb05efc4ca",
+        "created_at": "2026-11-04T12:50:54.977647+00:00",
+        "updated_at": "2026-11-04T12:50:54.977647+00:00"
       },
       {
-        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
-        "score": 0.6345363829212383,
-        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
-        "created_at": "2026-11-03T09:31:59.597097+00:00",
-        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+        "memory": "After winning the game where John scored 40 points, he and his teammates celebrated at a restaurant, describing the experience as exhausting but happy while reliving the intense moments together.",
+        "score": 0.6511666786353049,
+        "id": "28010ac6-3677-4c98-8e68-7cdf7268c61f",
+        "created_at": "2026-11-04T12:51:09.906157+00:00",
+        "updated_at": "2026-11-04T12:51:09.906157+00:00"
       },
       {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.6305684706484446,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+        "memory": "John's favorite basketball memory is hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience.",
+        "score": 0.6433854439872955,
+        "id": "dc1cbc85-1596-40e9-9f35-1429b6b3b96d",
+        "created_at": "2026-11-04T13:15:58.652877+00:00",
+        "updated_at": "2026-11-04T13:15:58.652877+00:00"
       },
       {
-        "memory": "John considers his favorite basketball moment to be when he hit a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
-        "score": 0.6283475362687944,
-        "id": "75a2a2e3-e6c5-4259-b4cf-19d97f2b314a",
-        "created_at": "2026-11-03T09:31:54.815580+00:00",
-        "updated_at": "2026-11-03T09:31:54.815580+00:00"
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6413511885801709,
+        "id": "6e497aa3-6ec6-4965-b089-f2f2d084a0f4",
+        "created_at": "2026-11-04T13:16:02.506114+00:00",
+        "updated_at": "2026-11-04T13:16:02.506114+00:00"
       },
       {
-        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game after his team was down by 10 points in the fourth quarter.",
-        "score": 0.6264408101309908,
-        "id": "969be255-a1ca-4d01-b397-74f2a6b0309d",
-        "created_at": "2026-11-03T09:32:06.200820+00:00",
-        "updated_at": "2026-11-03T09:32:06.200820+00:00"
+        "memory": "John played an intense basketball game the week of August 2, 2023, which his team won by a tight score, highlighting the excitement of scoring the final basket and hearing the crowd cheer.",
+        "score": 0.6400772534924496,
+        "id": "e0fedc22-0c28-481a-a41b-42949ddec143",
+        "created_at": "2026-11-04T12:53:08.503165+00:00",
+        "updated_at": "2026-11-04T12:53:08.503165+00:00"
       },
       {
-        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
-        "score": 0.621064571644,
-        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
-        "created_at": "2026-11-03T09:31:15.574811+00:00",
-        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6377511541429126,
+        "id": "179d57b1-e7cd-4fc5-abb0-e8a72abc3303",
+        "created_at": "2026-11-04T13:15:45.118763+00:00",
+        "updated_at": "2026-11-04T13:15:45.118763+00:00"
       },
       {
-        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
-        "score": 0.6105126735046396,
-        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
-        "created_at": "2026-11-03T09:31:10.118402+00:00",
-        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+        "memory": "John considers his favorite basketball moment to be hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter.",
+        "score": 0.6311252449197148,
+        "id": "8b4ac1d6-6305-4c06-810c-b4160836bd4c",
+        "created_at": "2026-11-04T13:16:07.405125+00:00",
+        "updated_at": "2026-11-04T13:16:07.405125+00:00"
       },
       {
-        "memory": "John held a benefit basketball game in the week preceding January 7, 2024, which was a total success with high attendance and raised money for charity.",
-        "score": 0.590974297779772,
-        "id": "c1b070f9-df9c-483a-829b-25110148e8d2",
-        "created_at": "2026-11-03T09:37:55.809326+00:00",
-        "updated_at": "2026-11-03T09:37:55.809326+00:00"
+        "memory": "John had a career-high in assists during a basketball game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6302658503958442,
+        "id": "d9bcb525-3030-4c88-bac4-45e8491a8706",
+        "created_at": "2026-11-04T13:15:58.641547+00:00",
+        "updated_at": "2026-11-04T13:15:58.641547+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity.",
-        "score": 0.5853356925580543,
-        "id": "fb290661-a188-443a-90cf-c33235e3cc73",
-        "created_at": "2026-11-03T09:37:40.349172+00:00",
-        "updated_at": "2026-11-03T09:37:40.349172+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6278983708732888,
+        "id": "b512e92a-b890-45c2-b683-f75e83006129",
+        "created_at": "2026-11-04T13:15:51.664339+00:00",
+        "updated_at": "2026-11-04T13:15:51.664339+00:00"
       },
       {
-        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
-        "score": 0.5848362204597731,
-        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
-        "created_at": "2026-11-03T09:07:43.089742+00:00",
-        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+        "memory": "John described the atmosphere of his 40-point game as electric and noted that he and his teammates were thrilled to pull off a tough win, sharing a photo of the team celebrating on the court.",
+        "score": 0.6260805064790358,
+        "id": "7679b6e0-fbb6-474d-a638-16ee25e101b3",
+        "created_at": "2026-11-04T12:50:39.577878+00:00",
+        "updated_at": "2026-11-04T12:50:39.577878+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
-        "score": 0.5817903973808671,
-        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
-        "created_at": "2026-11-03T09:37:42.890488+00:00",
-        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+        "memory": "John had a career-high in assists during a basketball game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6259036803344714,
+        "id": "797a7e9b-f7af-419c-8dfb-cd58b27a04c5",
+        "created_at": "2026-11-04T13:16:07.400899+00:00",
+        "updated_at": "2026-11-04T13:16:07.400899+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
-        "score": 0.5798344748573027,
-        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
-        "created_at": "2026-11-03T09:37:49.462726+00:00",
-        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+        "memory": "John had a career-high in assists during a basketball game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6259036803344714,
+        "id": "a91a4d52-edf1-491d-a195-20d116668b18",
+        "created_at": "2026-11-04T13:16:02.499648+00:00",
+        "updated_at": "2026-11-04T13:16:02.499648+00:00"
       },
       {
-        "memory": "John held a benefit basketball game on the week of January 1, 2024, which was a total success with high attendance and raised money for charity",
-        "score": 0.5670583832640986,
-        "id": "dad32b42-9aac-4257-a16b-5d7e13f5e4e1",
-        "created_at": "2026-11-03T09:37:53.627113+00:00",
-        "updated_at": "2026-11-03T09:37:53.627113+00:00"
+        "memory": "John's basketball team recently won a game against a top team after a tough match, which John celebrated for the camaraderie built on and off the court.",
+        "score": 0.6241995625765395,
+        "id": "c41d1b84-0af5-4aed-bdac-6963b9584d77",
+        "created_at": "2026-11-04T13:15:23.512134+00:00",
+        "updated_at": "2026-11-04T13:15:23.512134+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.5590771807890745,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie.",
+        "score": 0.6211379711660043,
+        "id": "58186b70-ff4b-4d56-a2e8-0e3dea15989e",
+        "created_at": "2026-11-04T13:14:55.382966+00:00",
+        "updated_at": "2026-11-04T13:14:55.382966+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.5414009290491715,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "memory": "John's basketball team played a top team in a recent game around December 8, 2023, which was tough but resulted in a win after fighting hard.",
+        "score": 0.6143581348232383,
+        "id": "a9613880-bcd1-412e-89b9-5b3d115eac09",
+        "created_at": "2026-11-04T13:14:40.292397+00:00",
+        "updated_at": "2026-11-04T13:14:40.292397+00:00"
       },
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.5371517577952252,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John described as a wild victory achieved through hard fighting.",
+        "score": 0.6028434601821793,
+        "id": "77812eb6-d8aa-4f28-af77-5049b43a4aae",
+        "created_at": "2026-11-04T13:14:48.011579+00:00",
+        "updated_at": "2026-11-04T13:14:48.011579+00:00"
       },
       {
-        "memory": "John played against a top team around December 8, 2023, describing the game as tough but noting that his team fought hard to secure a win.",
-        "score": 0.5105798706308863,
-        "id": "caa04e65-2e61-429f-8d7a-f507e0134d05",
-        "created_at": "2026-11-03T09:31:05.121555+00:00",
-        "updated_at": "2026-11-03T09:31:05.121555+00:00"
+        "memory": "John's number one goal in his basketball career is winning a championship, and he also aims to make a difference away from the court through charity work and inspiring people.",
+        "score": 0.5998834269220646,
+        "id": "21d6e038-344d-484e-a43b-7719e4d595a3",
+        "created_at": "2026-11-04T12:54:49.184602+00:00",
+        "updated_at": "2026-11-04T12:54:49.184602+00:00"
       }
     ],
-    "search_latency_ms": 117.5,
+    "search_latency_ms": 133.6,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The memories do not state a specific point total, but they highlight that John recorded a **career-high in assists** during games against his rival (specifically on December 8, 2023) and that his favorite moment was hitting a **buzzer-beater** to win a game after his team was down by 10 points.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "40",
       "memories_evaluated": 10,
-      "reason": "The generated answer fails to mention the specific score of 40 points and instead discusses assists and a buzzer-beater, which are not the correct fact requested."
+      "reason": "The generated answer '40' matches the numerical value in the gold answer '40 points'."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "10",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "40",
       "memories_evaluated": 20,
-      "reason": "The generated answer of 10 points does not match the gold answer of 40 points and does not fall within the 50% tolerance range for numerical values."
+      "reason": "The generated answer '40' matches the numerical value in the gold answer '40 points'."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "10",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "40",
       "memories_evaluated": 20,
-      "reason": "The generated answer of 10 points does not match the gold answer of 40 points and does not fall within the 50% tolerance range for numerical values."
+      "reason": "The generated answer '40' matches the numerical value in the gold answer '40 points'."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "10",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "40",
       "memories_evaluated": 20,
-      "reason": "The generated answer of 10 points does not match the gold answer of 40 points and does not fall within the 50% tolerance range for numerical values."
+      "reason": "The generated answer '40' matches the numerical value in the gold answer '40 points'."
     }
   }
 }

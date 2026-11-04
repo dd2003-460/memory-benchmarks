@@ -8,183 +8,183 @@
   "evidence": [
     "D27:30"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Why does John like Aragorn from Lord of the Rings?",
     "search_results": [
       {
-        "memory": "John's favorite character from Lord of the Rings is Aragorn, whom he admires for being a great leader who puts others first, leading to him becoming king.",
-        "score": 0.9206276110572192,
-        "id": "e3495e51-9ed8-4f1d-82a9-86fc2652b040",
-        "created_at": "2026-11-03T09:36:46.259620+00:00",
-        "updated_at": "2026-11-03T09:36:46.259620+00:00"
+        "memory": "Tim asked John why Aragorn is his favorite character from the Lord of the Rings movies, following up on John's statement that he loves how Aragorn grows throughout the story.",
+        "score": 0.9238637385514059,
+        "id": "9a5e03fe-c905-4825-916f-0ea798ca893e",
+        "created_at": "2026-11-04T13:23:07.305264+00:00",
+        "updated_at": "2026-11-04T13:23:07.305264+00:00"
       },
       {
-        "memory": "John's favorite character in Lord of the Rings is Aragorn, whom he admires for being a great leader who puts others first and eventually becomes king of Gondor",
-        "score": 0.9085683071070457,
-        "id": "c9a1b2cb-7066-4418-90b7-27c40d2f8449",
-        "created_at": "2026-11-03T09:36:57.763560+00:00",
-        "updated_at": "2026-11-03T09:36:57.763560+00:00"
+        "memory": "John's favorite character in Lord of the Rings is Aragorn, whom he admires for his growth from a ranger to the king of Gondor and his journey toward redemption.",
+        "score": 0.9168928108750732,
+        "id": "d52d46e2-cf41-4d02-b064-671d794040f7",
+        "created_at": "2026-11-04T13:23:33.707436+00:00",
+        "updated_at": "2026-11-04T13:23:33.707436+00:00"
       },
       {
-        "memory": "John is inspired by Aragorn's brave, selfless, and down-to-earth attitude, admiring that he never gives up and always stands up for justice.",
-        "score": 0.8783273943273068,
-        "id": "c051fb39-e30b-48df-9bed-84f4d1cfd250",
-        "created_at": "2026-11-03T09:36:48.556372+00:00",
-        "updated_at": "2026-11-03T09:36:48.556372+00:00"
+        "memory": "John is a huge fan of Lord of the Rings and considers Aragorn his favorite character because he is a great leader who puts others first, eventually becoming king.",
+        "score": 0.8970181298552946,
+        "id": "cafd584a-a4d1-4822-ab2f-6328563a0151",
+        "created_at": "2026-11-04T13:23:19.582716+00:00",
+        "updated_at": "2026-11-04T13:23:19.582716+00:00"
       },
       {
         "memory": "John has watched the Lord of the Rings movies multiple times and finds them inspiring, with Aragorn being his favorite character due to his significant growth throughout the story.",
-        "score": 0.8777622513457459,
-        "id": "9f9efddc-8467-4933-bb70-3829433ce5aa",
-        "created_at": "2026-11-03T09:36:35.308751+00:00",
-        "updated_at": "2026-11-03T09:36:35.308751+00:00"
+        "score": 0.8777622509222667,
+        "id": "26e41218-a9b1-4877-a6f0-6fa1e9f9e5fc",
+        "created_at": "2026-11-04T13:23:02.462042+00:00",
+        "updated_at": "2026-11-04T13:23:02.462042+00:00"
       },
       {
-        "memory": "John finds Aragorn inspiring because of his brave, selfless, and down-to-earth attitude, noting that he never gives up and always stands up for justice",
-        "score": 0.8662360627105411,
-        "id": "9f7440a0-944c-417a-a161-bd53739b501e",
-        "created_at": "2026-11-03T09:36:57.771621+00:00",
-        "updated_at": "2026-11-03T09:36:57.771621+00:00"
+        "memory": "John finds Aragorn inspiring because he is a great leader who puts others first, possesses a brave, selfless, and down-to-earth attitude, never gives up, and always stands up for justice.",
+        "score": 0.8666008175749347,
+        "id": "7884addc-0f9c-40c6-aa36-a30f2fd31a10",
+        "created_at": "2026-11-04T13:23:33.710894+00:00",
+        "updated_at": "2026-11-04T13:23:33.710894+00:00"
       },
       {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true and be a leader in everything he does",
-        "score": 0.8480817189808603,
-        "id": "a046755f-c797-4e51-b612-7544641eadfd",
-        "created_at": "2026-11-03T09:36:57.767478+00:00",
-        "updated_at": "2026-11-03T09:36:57.767478+00:00"
+        "memory": "John has a painting of Aragorn in his room to remind him to stay true and be a leader in everything he does.",
+        "score": 0.861864364642382,
+        "id": "13dd565d-f497-41a7-97b1-2472e4786d55",
+        "created_at": "2026-11-04T13:23:19.585851+00:00",
+        "updated_at": "2026-11-04T13:23:19.585851+00:00"
+      },
+      {
+        "memory": "John has a painting of Aragorn in his room as a reminder to stay true to himself and be a leader in everything he does.",
+        "score": 0.8589076641616833,
+        "id": "437f1d66-acf0-4e07-bfc7-14230fbf1fdb",
+        "created_at": "2026-11-04T13:23:33.713172+00:00",
+        "updated_at": "2026-11-04T13:23:33.713172+00:00"
+      },
+      {
+        "memory": "John finds Aragorn's brave, selfless, and down-to-earth attitude inspiring, noting that the character never gives up and always stands up for justice.",
+        "score": 0.8552995308429878,
+        "id": "97b743e2-582a-4c13-bb6c-be8762fff372",
+        "created_at": "2026-11-04T13:23:27.279875+00:00",
+        "updated_at": "2026-11-04T13:23:27.279875+00:00"
       },
       {
         "memory": "John has a painting of Aragorn in his room that serves as a reminder to stay true and be a leader in everything he does, inspired by the character's journey.",
-        "score": 0.8468520110981712,
-        "id": "772779eb-10c5-4b4f-8e8e-9988263a0495",
-        "created_at": "2026-11-03T09:36:43.482380+00:00",
-        "updated_at": "2026-11-03T09:36:43.482380+00:00"
-      },
-      {
-        "memory": "John is a huge fan of Lord of the Rings, citing its adventure, world-building, and characters as reasons for his love of the films.",
-        "score": 0.8466373045506902,
-        "id": "20d02421-b75c-4bc4-bc25-10d5dfeee6bb",
-        "created_at": "2026-11-03T09:36:46.255867+00:00",
-        "updated_at": "2026-11-03T09:36:46.255867+00:00"
-      },
-      {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
-        "score": 0.8420624883687646,
-        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
-        "created_at": "2026-11-03T09:36:46.263022+00:00",
-        "updated_at": "2026-11-03T09:36:46.263022+00:00"
+        "score": 0.8463252539772725,
+        "id": "a11d69aa-d02d-4228-9816-c1eb4445d832",
+        "created_at": "2026-11-04T13:23:16.931604+00:00",
+        "updated_at": "2026-11-04T13:23:16.931604+00:00"
       },
       {
         "memory": "Tim finds Aragorn's story in Lord of the Rings inspiring, specifically admiring his growth from a ranger to king of Gondor and his journey of redemption.",
-        "score": 0.8333732597366066,
-        "id": "90718d35-3a06-4618-b570-bd7047e6e70c",
-        "created_at": "2026-11-03T09:36:41.257446+00:00",
-        "updated_at": "2026-11-03T09:36:41.257446+00:00"
+        "score": 0.8333732570307546,
+        "id": "a0924932-18a0-4153-94bd-3fe5076b85b6",
+        "created_at": "2026-11-04T13:23:12.036782+00:00",
+        "updated_at": "2026-11-04T13:23:12.036782+00:00"
       },
       {
         "memory": "John is a huge fan of Lord of the Rings, praising its adventure, world-building, and characters as awesome.",
-        "score": 0.8297166061255468,
-        "id": "dbe4b6d6-9246-4a25-af03-be2e9695ec02",
-        "created_at": "2026-11-03T09:36:31.115238+00:00",
-        "updated_at": "2026-11-03T09:36:31.115238+00:00"
+        "score": 0.8297150679473996,
+        "id": "fde413fb-4415-4f3b-a3de-66d1239f13a6",
+        "created_at": "2026-11-04T13:22:54.866032+00:00",
+        "updated_at": "2026-11-04T13:22:54.866032+00:00"
       },
       {
         "memory": "Tim is a huge fan of the fantasy genre, specifically epic adventures and magical worlds, and considers Lord of the Rings his favorite movie.",
-        "score": 0.7874490567014465,
-        "id": "637867c0-496b-470c-a743-3ed7cba9e893",
-        "created_at": "2026-11-03T09:35:47.072486+00:00",
-        "updated_at": "2026-11-03T09:35:47.072486+00:00"
+        "score": 0.7874392713172881,
+        "id": "ff693ba4-8e36-40b1-bf89-9192153f8c2b",
+        "created_at": "2026-11-04T13:21:54.968689+00:00",
+        "updated_at": "2026-11-04T13:21:54.968689+00:00"
       },
       {
         "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
-        "score": 0.7856008524382014,
-        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
-        "created_at": "2026-11-03T09:35:25.860608+00:00",
-        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+        "score": 0.7855899540234003,
+        "id": "de645c36-09d1-44c2-b1ea-b8a0a9424c88",
+        "created_at": "2026-11-04T13:21:20.159289+00:00",
+        "updated_at": "2026-11-04T13:21:20.159289+00:00"
       },
       {
-        "memory": "Tim is a huge fan of epic adventures and magical worlds, citing Lord of the Rings as his favorite film",
-        "score": 0.78137298123071,
-        "id": "c44e0f98-78e9-4b4d-9fef-18b6341f848e",
-        "created_at": "2026-11-03T09:35:39.819590+00:00",
-        "updated_at": "2026-11-03T09:35:39.819590+00:00"
+        "memory": "Tim is a huge fan of epic adventures and magical worlds, and his favorite movie franchise is Lord of the Rings.",
+        "score": 0.7706858535002944,
+        "id": "c5ab7214-57ec-4cf6-b3da-723a31d0d762",
+        "created_at": "2026-11-04T13:21:42.386252+00:00",
+        "updated_at": "2026-11-04T13:21:42.386252+00:00"
       },
       {
         "memory": "Tim's favorite movie genre is epic adventures and magical worlds, with Lord of the Rings being his all-time favorite film.",
-        "score": 0.7599007375078358,
-        "id": "9195b9f7-f1e5-4994-a79e-2b31fbd06507",
-        "created_at": "2026-11-03T09:35:37.281340+00:00",
-        "updated_at": "2026-11-03T09:35:37.281340+00:00"
+        "score": 0.7598916390508832,
+        "id": "b07e0c1a-286c-41f9-969e-2662bba8a598",
+        "created_at": "2026-11-04T13:21:47.872033+00:00",
+        "updated_at": "2026-11-04T13:21:47.872033+00:00"
       },
       {
-        "memory": "Tim enjoys having movie marathons with friends, often watching fantasy genres like Lord of the Rings which he considers his favorite epic adventure film.",
-        "score": 0.7483860414384489,
-        "id": "7915845c-a750-4b42-a0c0-e4c0b27a3f46",
-        "created_at": "2026-11-03T09:35:32.392565+00:00",
-        "updated_at": "2026-11-03T09:35:32.392565+00:00"
+        "memory": "Tim finds fantasy books like Lord of the Rings inspiring because they allow him to get lost in another world and appreciate intricate details, as illustrated by his shared image of a Middle-earth map.",
+        "score": 0.7516718931532187,
+        "id": "e9567e5d-07b8-4b37-b809-83e2845362e9",
+        "created_at": "2026-11-04T13:23:29.470773+00:00",
+        "updated_at": "2026-11-04T13:23:29.470773+00:00"
       },
       {
-        "memory": "Tim enjoys fantasy books like Lord of the Rings for getting lost in another world and appreciating the tiny details and intricate world-building of fictional universes",
-        "score": 0.7355441141000492,
-        "id": "8f8ba4a9-ff3c-4ece-ae9f-6f4d7593e363",
-        "created_at": "2026-11-03T09:36:57.776768+00:00",
-        "updated_at": "2026-11-03T09:36:57.776768+00:00"
+        "memory": "Tim and John are friends who both enjoy fantasy books and movies, including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit.",
+        "score": 0.7484317310045262,
+        "id": "aa61f3c3-4864-48dd-bf4b-1dfc0725bef3",
+        "created_at": "2026-11-04T13:12:17.558963+00:00",
+        "updated_at": "2026-11-04T13:12:17.558963+00:00"
       },
       {
-        "memory": "Tim enjoys having movie marathons with friends, often featuring popcorn and fantasy films like Lord of the Rings",
-        "score": 0.7253984513064897,
-        "id": "a228d769-b254-40ec-9b6e-664353ce4c7e",
-        "created_at": "2026-11-03T09:35:39.815680+00:00",
-        "updated_at": "2026-11-03T09:35:39.815680+00:00"
+        "memory": "Tim enjoys having movie marathons with friends, often watching fantasy films like Lord of the Rings which he considers his favorite genre featuring epic adventures and magical worlds.",
+        "score": 0.7477972866543302,
+        "id": "e397fbe0-d990-4369-a665-29ddc76fd53e",
+        "created_at": "2026-11-04T13:21:33.245119+00:00",
+        "updated_at": "2026-11-04T13:21:33.245119+00:00"
       },
       {
-        "memory": "Tim finds fantasy books like Lord of the Rings inspiring because they allow him to get lost in another world and appreciate intricate details, as illustrated by a map of Middle-earth he shared on January 2, 2024.",
-        "score": 0.7238019945168833,
-        "id": "e77f6907-b74c-42e8-9fa6-5b12d56ea36b",
-        "created_at": "2026-11-03T09:36:50.901002+00:00",
-        "updated_at": "2026-11-03T09:36:50.901002+00:00"
+        "memory": "Tim has a bookshelf featuring favorite fantasy books including 'Harry Potter', 'Game of Thrones', and 'Lord of the Rings', which he shared with John on December 1, 2023.",
+        "score": 0.7202044379675908,
+        "id": "8b6b2e8d-d713-4dd6-9f24-f6f6ecf8d067",
+        "created_at": "2026-11-04T13:12:24.502718+00:00",
+        "updated_at": "2026-11-04T13:12:24.502718+00:00"
       },
       {
-        "memory": "Tim enjoys exploring the intricate details of fictional universes in fantasy books like Lord of the Rings, such as maps of Middle-earth showing different realms and regions.",
-        "score": 0.7204054412819976,
-        "id": "0fd6ddef-1258-4a89-a819-ceadd8ef412d",
-        "created_at": "2026-11-03T09:37:11.153956+00:00",
-        "updated_at": "2026-11-03T09:37:11.153956+00:00"
+        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on January 2, 2024, while discussing John's Lord of the Rings collection.",
+        "score": 0.7117104171083789,
+        "id": "414693fe-1342-4c87-b943-d5e8626695d6",
+        "created_at": "2026-11-04T13:22:59.698724+00:00",
+        "updated_at": "2026-11-04T13:22:59.698724+00:00"
       }
     ],
-    "search_latency_ms": 171.4,
+    "search_latency_ms": 178.7,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John likes Aragorn because he is inspired by his significant growth throughout the story and admires him as a great leader who puts others first. He specifically values Aragorn's brave, selfless, and down-to-earth attitude, noting that he never gives up and always stands up for justice. These traits serve as a reminder for John to stay true to himself and be a leader in everything he does.",
+      "generated_answer": "John likes Aragorn because of his significant growth from a ranger to the king of Gondor and his journey of redemption. He admires Aragorn as a great leader who puts others first, and finds his brave, selfless, and down-to-earth attitude inspiring. Additionally, John respects that Aragorn never gives up and always stands up for justice.",
       "memories_evaluated": 10,
       "reason": "The generated answer explicitly includes the exact phrases 'brave, selfless, and down-to-earth attitude' from the gold answer, satisfying the requirement for at least one correct item."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John likes Aragorn because he admires his leadership and selflessness, specifically that he puts others first, which leads to him becoming king. He is also inspired by Aragorn's brave, down-to-earth attitude, his perseverance in never giving up, and his commitment to standing up for justice.",
+      "generated_answer": "John likes Aragorn because he admires his significant growth from a ranger to the king of Gondor and his journey of redemption. He views Aragorn as a great leader who puts others first and finds his brave, selfless, and down-to-earth attitude inspiring. John also appreciates that Aragorn never gives up and always stands up for justice.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes all key attributes from the gold answer (brave, selfless, down-to-earth attitude) and adds relevant details, satisfying the partial credit and semantic overlap rules."
+      "reason": "The generated answer explicitly includes the exact phrases 'brave, selfless, and down-to-earth attitude' from the gold answer, satisfying the requirement for at least one correct item."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John likes Aragorn because he admires his leadership and selflessness, specifically that he puts others first, which leads to him becoming king. He is also inspired by Aragorn's brave, down-to-earth attitude, his perseverance in never giving up, and his commitment to standing up for justice.",
+      "generated_answer": "John likes Aragorn because he admires his significant growth from a ranger to the king of Gondor and his journey of redemption. He views Aragorn as a great leader who puts others first and finds his brave, selfless, and down-to-earth attitude inspiring. John also appreciates that Aragorn never gives up and always stands up for justice.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes all key attributes from the gold answer (brave, selfless, down-to-earth attitude) and adds relevant details, satisfying the partial credit and semantic overlap rules."
+      "reason": "The generated answer explicitly includes the exact phrases 'brave, selfless, and down-to-earth attitude' from the gold answer, satisfying the requirement for at least one correct item."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John likes Aragorn because he admires his leadership and selflessness, specifically that he puts others first, which leads to him becoming king. He is also inspired by Aragorn's brave, down-to-earth attitude, his perseverance in never giving up, and his commitment to standing up for justice.",
+      "generated_answer": "John likes Aragorn because he admires his significant growth from a ranger to the king of Gondor and his journey of redemption. He views Aragorn as a great leader who puts others first and finds his brave, selfless, and down-to-earth attitude inspiring. John also appreciates that Aragorn never gives up and always stands up for justice.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes all key attributes from the gold answer (brave, selfless, down-to-earth attitude) and adds relevant details, satisfying the partial credit and semantic overlap rules."
+      "reason": "The generated answer explicitly includes the exact phrases 'brave, selfless, and down-to-earth attitude' from the gold answer, satisfying the requirement for at least one correct item."
     }
   }
 }

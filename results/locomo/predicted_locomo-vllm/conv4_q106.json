@@ -8,153 +8,153 @@
   "evidence": [
     "D11:7"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Where are John and his teammates planning to explore on a team trip?",
     "search_results": [
       {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.9057795767152514,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.8998274627731432,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.9022198869385536,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.8998274627731432,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
       },
       {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.8880394566569961,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.8992882988651607,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
       },
       {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.8852311907694279,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.8981674333611348,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.8681587415716926,
-        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
-        "created_at": "2026-11-03T09:14:41.113956+00:00",
-        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.8755701076911006,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
-        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
-        "score": 0.8639019071141802,
-        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
-        "created_at": "2026-11-03T09:14:13.745108+00:00",
-        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his basketball teammates, expressing excitement about the upcoming event.",
+        "score": 0.8713256746237521,
+        "id": "7124514e-ffc4-4f79-a340-8dd3fbad54fd",
+        "created_at": "2026-11-04T12:59:07.471785+00:00",
+        "updated_at": "2026-11-04T12:59:07.471785+00:00"
       },
       {
-        "memory": "John expressed interest in Tim's suggestion of Edinburgh for the team trip, noting he has never been there but considers it worth exploring.",
-        "score": 0.8538156892822464,
-        "id": "bee098e3-1f67-470d-90ba-7f054ce200b9",
-        "created_at": "2026-11-03T09:14:48.125743+00:00",
-        "updated_at": "2026-11-03T09:14:48.125743+00:00"
+        "memory": "John expressed interest in Tim's suggestion of Edinburgh for his team trip, noting he has never been there but finds it worth considering.",
+        "score": 0.8235814703944395,
+        "id": "df3f04ca-3e4b-4613-8c4f-f4f0d194b5d3",
+        "created_at": "2026-11-04T12:59:28.674400+00:00",
+        "updated_at": "2026-11-04T12:59:28.674400+00:00"
       },
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.7913585731970076,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John has not yet visited Edinburgh, Scotland, but considers it a worthwhile destination for his upcoming team trip after Tim's suggestion.",
+        "score": 0.8145055253543493,
+        "id": "2bc4db82-4886-4a50-8768-0a3ac6ffe080",
+        "created_at": "2026-11-04T12:59:20.519189+00:00",
+        "updated_at": "2026-11-04T12:59:20.519189+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
-        "score": 0.742599593379272,
-        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
-        "created_at": "2026-11-03T09:21:00.674911+00:00",
-        "updated_at": "2026-11-03T09:21:00.674911+00:00"
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.7298647263132156,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
-        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
-        "score": 0.7107954554696734,
-        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
-        "created_at": "2026-11-03T09:34:38.576853+00:00",
-        "updated_at": "2026-11-03T09:34:38.576853+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.6242196009900376,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.6636175301033478,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.6228745343197366,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.6613318531296244,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip, citing its magical vibe, history, architecture, and connection to Harry Potter.",
+        "score": 0.6172058173752178,
+        "id": "9d0d4324-09e1-41dd-8400-45466b332362",
+        "created_at": "2026-11-04T12:59:23.878053+00:00",
+        "updated_at": "2026-11-04T12:59:23.878053+00:00"
       },
       {
-        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
-        "score": 0.6274088750720938,
-        "id": "b0e444f3-0cbf-4caf-863b-013f12d04ccc",
-        "created_at": "2026-11-03T09:14:37.521022+00:00",
-        "updated_at": "2026-11-03T09:14:37.521022+00:00"
+        "memory": "Tim suggested Edinburgh, Scotland as a destination for John's upcoming team trip, citing its magical vibe, history, architecture, and connection to Harry Potter.",
+        "score": 0.6088358776217382,
+        "id": "683aca03-585c-4b1e-9688-d4551c5cdc46",
+        "created_at": "2026-11-04T12:59:28.670407+00:00",
+        "updated_at": "2026-11-04T12:59:28.670407+00:00"
       },
       {
-        "memory": "Tim suggested Edinburgh, Scotland as a potential destination for John's upcoming team trip, citing its magical vibe, connection to Harry Potter, history, architecture, and beauty.",
-        "score": 0.6236935964683031,
-        "id": "a1a5f729-959b-4783-a2eb-cca098540bb5",
-        "created_at": "2026-11-03T09:14:48.121842+00:00",
-        "updated_at": "2026-11-03T09:14:48.121842+00:00"
+        "memory": "John's teammates come from all over the world, which he enjoys as it allows him to learn about different cultures and meet people with diverse backgrounds.",
+        "score": 0.6055132885437949,
+        "id": "421a1d07-fd72-441e-a6be-f3b4c69ee4dc",
+        "created_at": "2026-11-04T13:13:44.771451+00:00",
+        "updated_at": "2026-11-04T13:13:44.771451+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.6069258749410908,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John met back up with his teammates on August 15, 2023, after a trip, describing the reunion as amazing and electric because everyone missed him and he felt very welcome being back with the group.",
+        "score": 0.6026299662233339,
+        "id": "d176f840-7211-4fd9-ae35-c35d1aaf8c02",
+        "created_at": "2026-11-04T12:54:55.938040+00:00",
+        "updated_at": "2026-11-04T12:54:55.938040+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
-        "score": 0.6052838265466703,
-        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
-        "created_at": "2026-11-03T09:08:04.819221+00:00",
-        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+        "memory": "Tim suggested Edinburgh, Scotland as a destination for John's upcoming team trip, citing its magical vibe, status as the birthplace of Harry Potter, and its history and architecture.",
+        "score": 0.5828494928891269,
+        "id": "d5648ed1-4bf8-4937-86b9-dd0730aa9921",
+        "created_at": "2026-11-04T12:59:17.799099+00:00",
+        "updated_at": "2026-11-04T12:59:17.799099+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
-        "score": 0.6034922823903279,
-        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
-        "created_at": "2026-11-03T09:08:28.250746+00:00",
-        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and shared with John.",
+        "score": 0.57910486514849,
+        "id": "45e03dc0-d63c-443b-8226-4afc53f4ab8c",
+        "created_at": "2026-11-04T13:19:50.322551+00:00",
+        "updated_at": "2026-11-04T13:19:50.322551+00:00"
       },
       {
-        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.5910925713409803,
-        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
-        "created_at": "2026-11-03T09:14:22.471894+00:00",
-        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+        "memory": "John has not yet visited any real-life places related to the Harry Potter universe but considers it a fun idea and has added exploring those locations to his personal to-do list.",
+        "score": 0.5784543438915393,
+        "id": "57a22e5b-e43b-4ade-80bd-709ae25d302b",
+        "created_at": "2026-11-04T12:49:39.156137+00:00",
+        "updated_at": "2026-11-04T12:49:39.156137+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates around September 14, 2023, and described it as a great opportunity to get to know them better.",
-        "score": 0.5904113556597421,
-        "id": "374290d5-faaf-46e5-a489-595626691cd2",
-        "created_at": "2026-11-03T09:14:03.760703+00:00",
-        "updated_at": "2026-11-03T09:14:03.760703+00:00"
+        "memory": "John attended a local restaurant with some new teammates the week of September 11, 2023, and found it great for getting to know them better.",
+        "score": 0.575852117303423,
+        "id": "566ac60d-3af4-4215-80b6-edc96e55f7c7",
+        "created_at": "2026-11-04T12:59:04.721767+00:00",
+        "updated_at": "2026-11-04T12:59:04.721767+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.5902436604991698,
-        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
-        "created_at": "2026-11-03T09:14:37.512820+00:00",
-        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.5721957369972648,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       }
     ],
-    "search_latency_ms": 198.9,
+    "search_latency_ms": 145.8,
     "total_results": 20
   },
   "cutoff_results": {

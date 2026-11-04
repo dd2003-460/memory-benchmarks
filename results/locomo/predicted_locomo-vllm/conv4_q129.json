@@ -8,183 +8,183 @@
   "evidence": [
     "D15:34"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "How will John share the honey garlic chicken recipe with the other person?",
     "search_results": [
       {
-        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and shared a photo of cooking in a pan on the stove.",
-        "score": 0.8805312890304894,
-        "id": "072e7de1-ae43-44fb-9c1e-f5fafc4c8700",
-        "created_at": "2026-11-03T09:21:09.024151+00:00",
-        "updated_at": "2026-11-03T09:21:09.024151+00:00"
+        "memory": "John offered to write down and mail his honey garlic chicken recipe to Tim, who expressed eagerness to try it.",
+        "score": 0.9071064328507751,
+        "id": "390e2b0c-b551-4c10-b3d1-99f7a1ad80c7",
+        "created_at": "2026-11-04T13:07:16.396922+00:00",
+        "updated_at": "2026-11-04T13:07:16.396922+00:00"
       },
       {
-        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
-        "score": 0.8751932425465505,
-        "id": "bc91278f-9786-437b-b809-97133839c1c0",
-        "created_at": "2026-11-03T09:21:16.833195+00:00",
-        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and shared a photo of cooking on October 21, 2023.",
+        "score": 0.8774698115763657,
+        "id": "13ee0cfd-c53d-470d-a8a5-773867f6ba95",
+        "created_at": "2026-11-04T13:06:38.233348+00:00",
+        "updated_at": "2026-11-04T13:06:38.233348+00:00"
       },
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.7553508158805238,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+        "memory": "Tim asked John for the specific recipe for his favorite honey garlic chicken with roasted vegetables on October 21, 2023.",
+        "score": 0.8437798001843788,
+        "id": "b9887729-6574-4897-b5a7-e5f0953d2210",
+        "created_at": "2026-11-04T13:06:40.428340+00:00",
+        "updated_at": "2026-11-04T13:06:40.428340+00:00"
       },
       {
-        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
-        "score": 0.7381325926877709,
-        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
-        "created_at": "2026-11-03T09:12:31.250600+00:00",
-        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+        "memory": "John makes honey garlic chicken with roasted vegetables frequently, describing it as one of his favorite recipes that he often prepares.",
+        "score": 0.8373797934180954,
+        "id": "9e73e3c9-c401-4d9a-aea7-a4dc4b570fad",
+        "created_at": "2026-11-04T13:07:16.394864+00:00",
+        "updated_at": "2026-11-04T13:07:16.394864+00:00"
       },
       {
-        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, adding sage for flavor.",
-        "score": 0.7296467769296062,
-        "id": "416aab1d-b6af-4daf-b3e5-2d26f073c7d4",
-        "created_at": "2026-11-03T09:13:05.375387+00:00",
-        "updated_at": "2026-11-03T09:13:05.375387+00:00"
+        "memory": "Tim loves experimenting with spices and is excited to try making the chicken soup recipe John described.",
+        "score": 0.7485975503002809,
+        "id": "e8082005-c45a-46ab-bd7b-d46571d3d5b9",
+        "created_at": "2026-11-04T12:58:39.836514+00:00",
+        "updated_at": "2026-11-04T12:58:39.836514+00:00"
+      },
+      {
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice.",
+        "score": 0.7330346242849348,
+        "id": "9eac1d0c-28e9-4055-9b33-7cbe24c78cb5",
+        "created_at": "2026-11-04T12:58:31.338462+00:00",
+        "updated_at": "2026-11-04T12:58:31.338462+00:00"
       },
       {
         "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, using sage for flavor.",
-        "score": 0.7253562018731006,
-        "id": "4bf4c5e4-0e77-4aa6-aa65-0707572c535c",
-        "created_at": "2026-11-03T09:13:00.153430+00:00",
-        "updated_at": "2026-11-03T09:13:00.153430+00:00"
+        "score": 0.7253427784564201,
+        "id": "3bf95f88-ed90-4af2-b379-2cd818578bd2",
+        "created_at": "2026-11-04T12:58:39.833486+00:00",
+        "updated_at": "2026-11-04T12:58:39.833486+00:00"
       },
       {
-        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice for flavor.",
-        "score": 0.7238855910318072,
-        "id": "d8575b11-b33e-44f2-95e4-38c980b5225c",
-        "created_at": "2026-11-03T09:12:53.924273+00:00",
-        "updated_at": "2026-11-03T09:12:53.924273+00:00"
+        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch using sage as a key spice.",
+        "score": 0.6446208639709496,
+        "id": "5d3a2d6c-1ae8-433d-9f5e-760bc76cf12d",
+        "created_at": "2026-11-04T12:58:35.914617+00:00",
+        "updated_at": "2026-11-04T12:58:35.914617+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and is planning to look up recipes to try making the chicken soup John described.",
-        "score": 0.6393107491458171,
-        "id": "8d56cbf5-13ac-455d-bb8d-71cb600f4fc9",
-        "created_at": "2026-11-03T09:13:00.156049+00:00",
-        "updated_at": "2026-11-03T09:13:00.156049+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try making John's chicken soup recipe.",
+        "score": 0.6347065537302825,
+        "id": "707d275e-1c0b-4f6d-bb19-1b56e5db9455",
+        "created_at": "2026-11-04T12:58:31.341282+00:00",
+        "updated_at": "2026-11-04T12:58:31.341282+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and plans to look up recipes to try making John's chicken soup.",
-        "score": 0.6374643170494247,
-        "id": "a46892a0-86e2-48a3-acd9-1e49783a1916",
-        "created_at": "2026-11-03T09:12:53.926748+00:00",
-        "updated_at": "2026-11-03T09:12:53.926748+00:00"
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that John had previously shared.",
+        "score": 0.6331863918318692,
+        "id": "e383ef53-4bca-4669-b3bb-4d8e295b56f1",
+        "created_at": "2026-11-04T13:06:36.047460+00:00",
+        "updated_at": "2026-11-04T13:06:36.047460+00:00"
       },
       {
-        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
-        "score": 0.6204154977256849,
-        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
-        "created_at": "2026-11-03T09:21:06.470537+00:00",
-        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+        "memory": "John recently made a tasty chicken soup from scratch without a recipe, using sage as a key spice for flavor.",
+        "score": 0.6251122645161095,
+        "id": "19bc7de8-d749-4815-ac78-ecee1ec9e470",
+        "created_at": "2026-11-04T12:58:43.498227+00:00",
+        "updated_at": "2026-11-04T12:58:43.498227+00:00"
       },
       {
-        "memory": "John has been trying out new cooking recipes recently and made a tasty chicken soup, sharing a photo of the beautifully plated dish with a butternut squash on a cutting board.",
-        "score": 0.6156791535237749,
-        "id": "415c70a9-b969-4b19-9a88-d1c3a3899199",
-        "created_at": "2026-11-03T09:11:48.094056+00:00",
-        "updated_at": "2026-11-03T09:11:48.094056+00:00"
+        "memory": "John used sage as a spice in the chicken soup he made and shared with Tim on August 31, 2023.",
+        "score": 0.6249028470821681,
+        "id": "e4494537-cdf3-4e8c-87f0-1da1ef6050d4",
+        "created_at": "2026-11-04T12:58:23.144590+00:00",
+        "updated_at": "2026-11-04T12:58:23.144590+00:00"
       },
       {
-        "memory": "Tim advised John to select endorsements that align with his personal values and brand, ensuring they feel authentic to his followers and share his desire to help others.",
-        "score": 0.5259152020140783,
-        "id": "0d1ed51a-ea3b-426c-9b53-b89ce4da2a84",
-        "created_at": "2026-11-03T09:15:20.586087+00:00",
-        "updated_at": "2026-11-03T09:15:20.586087+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and plans to look up recipes to try making John's sage-infused chicken soup.",
+        "score": 0.622353287756073,
+        "id": "8ab0f031-d4bc-4725-be8b-ac504a1e35ea",
+        "created_at": "2026-11-04T12:58:43.501482+00:00",
+        "updated_at": "2026-11-04T12:58:43.501482+00:00"
       },
       {
-        "memory": "Tim advised John to select endorsements that align with his personal values and brand, specifically recommending companies that share his desire to make a positive change and help others, ensuring the partnerships feel authentic to his followers.",
-        "score": 0.5236383001202138,
-        "id": "e7beb822-bd4f-4fc0-b20f-ee9d111b66a7",
-        "created_at": "2026-11-03T09:15:14.825355+00:00",
-        "updated_at": "2026-11-03T09:15:14.825355+00:00"
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup, sharing a photo of the beautifully plated dish with Tim on August 31, 2023.",
+        "score": 0.6203738566956056,
+        "id": "b76c39e9-9a03-4491-b51b-661a0db0120e",
+        "created_at": "2026-11-04T12:58:13.484756+00:00",
+        "updated_at": "2026-11-04T12:58:13.484756+00:00"
       },
       {
-        "memory": "Tim, the person John is conversing with, values having friends and family who support him, describing it as essential and huge for his well-being.",
-        "score": 0.4734195052538914,
-        "id": "574eae6d-7c54-4d6c-a9c6-7452b33881dd",
-        "created_at": "2026-11-03T09:20:44.104295+00:00",
-        "updated_at": "2026-11-03T09:20:44.104295+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try using sage in recipes after John shared his chicken soup experience.",
+        "score": 0.6194294456955098,
+        "id": "e4101741-30c6-4d66-ab86-9535515e3154",
+        "created_at": "2026-11-04T12:58:26.531236+00:00",
+        "updated_at": "2026-11-04T12:58:26.531236+00:00"
       },
       {
-        "memory": "Tim enjoys experimenting with spices in cooking, as he expressed excitement about trying a soup recipe that included sage.",
-        "score": 0.4451874196362115,
-        "id": "4b91022e-329e-4fab-a3db-f6a32f3a9d6a",
-        "created_at": "2026-11-03T09:13:26.756021+00:00",
-        "updated_at": "2026-11-03T09:13:26.756021+00:00"
+        "memory": "John loves the ocean and expressed excitement about trying seafood in Seattle, sharing a photo of a person walking on the beach with a surfboard during a conversation on July 16, 2023.",
+        "score": 0.5330739365949253,
+        "id": "a21f260b-6d4e-43a8-ae0b-0a74ec9e833f",
+        "created_at": "2026-11-04T12:51:50.052380+00:00",
+        "updated_at": "2026-11-04T12:51:50.052380+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices in his cooking and is excited to try using sage in recipes.",
-        "score": 0.44348082490229207,
-        "id": "058a4b03-8ca0-41d9-beea-97768a773406",
-        "created_at": "2026-11-03T09:12:40.250974+00:00",
-        "updated_at": "2026-11-03T09:12:40.250974+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company in early January 2024, describing it as a dream come true and sharing a photo of himself holding a bat next to the soda logo.",
+        "score": 0.3202451556638756,
+        "id": "4ce5d983-0035-478c-9afa-023a6c859ce1",
+        "created_at": "2026-11-04T13:25:25.401566+00:00",
+        "updated_at": "2026-11-04T13:25:25.401566+00:00"
       },
       {
-        "memory": "John's family gets together all the time, and he values these moments as irreplaceable, sharing a photo of his group gathered around a kitchen table during their conversation on August 21, 2023.",
-        "score": 0.39757194164391807,
-        "id": "eafe505a-5932-4276-b04a-548633569e6a",
-        "created_at": "2026-11-03T09:10:08.291305+00:00",
-        "updated_at": "2026-11-03T09:10:08.291305+00:00"
+        "memory": "John collects basketball jerseys, sharing a photo of his collection with Tim during their conversation about hobbies.",
+        "score": 0.3200253253377225,
+        "id": "3b12bbca-aa43-4b82-ac23-3d4278a16638",
+        "created_at": "2026-11-04T13:01:27.326029+00:00",
+        "updated_at": "2026-11-04T13:01:27.326029+00:00"
       },
       {
-        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.3460297923066979,
-        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
-        "created_at": "2026-11-03T09:14:22.471894+00:00",
-        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+        "memory": "John expressed that he has always liked Under Armour and would find it really cool to work with them, sharing a photo of an Under Armour advertisement featuring a mannequin in a blue suit.",
+        "score": 0.3152506758924538,
+        "id": "e965f7ff-bb17-4455-927c-3d05d7f2f1f9",
+        "created_at": "2026-11-04T12:51:27.291688+00:00",
+        "updated_at": "2026-11-04T12:51:27.291688+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.3445850024123618,
-        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
-        "created_at": "2026-11-03T09:14:37.512820+00:00",
-        "updated_at": "2026-11-03T09:14:37.512820+00:00"
-      },
-      {
-        "memory": "John shared a group photo of his basketball team on October 13, 2023, while discussing how shared passions connect people.",
-        "score": 0.3431416170518739,
-        "id": "e22056c8-e62e-4f61-b648-11a2447ca4da",
-        "created_at": "2026-11-03T09:17:34.447929+00:00",
-        "updated_at": "2026-11-03T09:17:34.447929+00:00"
+        "memory": "Tim advised John to select endorsement partners that share his desire to make a positive change and ensure the collaboration feels authentic to his followers.",
+        "score": 0.30461400817543927,
+        "id": "08c2d77e-016e-4233-9f01-3f145d82eb3e",
+        "created_at": "2026-11-04T13:00:03.540583+00:00",
+        "updated_at": "2026-11-04T13:00:03.540583+00:00"
       }
     ],
-    "search_latency_ms": 125.3,
+    "search_latency_ms": 138.8,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "By sharing a photo of himself cooking it in a pan on the stove",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John will write the recipe down and mail it to Tim.",
       "memories_evaluated": 10,
-      "reason": "The generated answer describes sharing a photo of cooking, which is a completely different method than the gold answer's 'write it down and mail it', and contains no overlapping correct items."
+      "reason": "The generated answer correctly identifies that John will write the recipe down and mail it, which matches the core actions in the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "by sharing a photo of cooking in a pan on the stove",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John will write the recipe down and mail it to Tim.",
       "memories_evaluated": 20,
-      "reason": "The generated answer describes sharing a photo of cooking, which is a completely different method from the gold answer's 'write it down and mail it', and does not contain any correct items from the gold answer."
+      "reason": "The generated answer correctly identifies that John will write the recipe down and mail it, which matches the core actions in the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "by sharing a photo of cooking in a pan on the stove",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John will write the recipe down and mail it to Tim.",
       "memories_evaluated": 20,
-      "reason": "The generated answer describes sharing a photo of cooking, which is a completely different method from the gold answer's 'write it down and mail it', and does not contain any correct items from the gold answer."
+      "reason": "The generated answer correctly identifies that John will write the recipe down and mail it, which matches the core actions in the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "by sharing a photo of cooking in a pan on the stove",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John will write the recipe down and mail it to Tim.",
       "memories_evaluated": 20,
-      "reason": "The generated answer describes sharing a photo of cooking, which is a completely different method from the gold answer's 'write it down and mail it', and does not contain any correct items from the gold answer."
+      "reason": "The generated answer correctly identifies that John will write the recipe down and mail it, which matches the core actions in the gold answer."
     }
   }
 }

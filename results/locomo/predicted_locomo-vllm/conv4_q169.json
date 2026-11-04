@@ -8,153 +8,153 @@
   "evidence": [
     "D27:28"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What kind of painting does John have in his room as a reminder?",
     "search_results": [
       {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles; he finds that having physical reminders like this is effective for staying motivated.",
+        "score": 0.7431366161334637,
+        "id": "e39b8e9c-a6cc-4973-b358-7b11f569b944",
+        "created_at": "2026-11-04T13:05:43.670176+00:00",
+        "updated_at": "2026-11-04T13:05:43.670176+00:00"
+      },
+      {
         "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
-        "score": 0.7440044928175078,
-        "id": "59d710c3-bbeb-4cba-b82e-a3af44907bea",
-        "created_at": "2026-11-03T09:20:44.094230+00:00",
-        "updated_at": "2026-11-03T09:20:44.094230+00:00"
+        "score": 0.742288218862819,
+        "id": "15dbd7ec-433c-446f-937b-f132c0490b38",
+        "created_at": "2026-11-04T13:06:24.955785+00:00",
+        "updated_at": "2026-11-04T13:06:24.955785+00:00"
       },
       {
-        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
-        "score": 0.7408660124368369,
-        "id": "f912f982-e28b-4b6d-a879-6595597039c8",
-        "created_at": "2026-11-03T09:20:12.772496+00:00",
-        "updated_at": "2026-11-03T09:20:12.772496+00:00"
+        "memory": "John has a painting of Aragorn in his room as a reminder to stay true to himself and be a leader in everything he does.",
+        "score": 0.6684000763082263,
+        "id": "437f1d66-acf0-4e07-bfc7-14230fbf1fdb",
+        "created_at": "2026-11-04T13:23:33.713172+00:00",
+        "updated_at": "2026-11-04T13:23:33.713172+00:00"
       },
       {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true to himself and be a leader in everything he does.",
-        "score": 0.6884699750535733,
-        "id": "fad697ed-5a25-464d-9e76-fd051a76ab11",
-        "created_at": "2026-11-03T09:36:46.263022+00:00",
-        "updated_at": "2026-11-03T09:36:46.263022+00:00"
-      },
-      {
-        "memory": "John has an Aragorn painting in his room that serves as a reminder to stay true and be a leader in everything he does",
-        "score": 0.686012988105082,
-        "id": "a046755f-c797-4e51-b612-7544641eadfd",
-        "created_at": "2026-11-03T09:36:57.767478+00:00",
-        "updated_at": "2026-11-03T09:36:57.767478+00:00"
+        "memory": "John has a painting of Aragorn in his room to remind him to stay true and be a leader in everything he does.",
+        "score": 0.6636293988438474,
+        "id": "13dd565d-f497-41a7-97b1-2472e4786d55",
+        "created_at": "2026-11-04T13:23:19.585851+00:00",
+        "updated_at": "2026-11-04T13:23:19.585851+00:00"
       },
       {
         "memory": "John has a painting of Aragorn in his room that serves as a reminder to stay true and be a leader in everything he does, inspired by the character's journey.",
-        "score": 0.6637971292304173,
-        "id": "772779eb-10c5-4b4f-8e8e-9988263a0495",
-        "created_at": "2026-11-03T09:36:43.482380+00:00",
-        "updated_at": "2026-11-03T09:36:43.482380+00:00"
+        "score": 0.6635223930596938,
+        "id": "a11d69aa-d02d-4228-9816-c1eb4445d832",
+        "created_at": "2026-11-04T13:23:16.931604+00:00",
+        "updated_at": "2026-11-04T13:23:16.931604+00:00"
       },
       {
-        "memory": "John shared a photo of a basketball hoop at sunset during a morning workout as a reminder that his athletic journey can be awesome.",
-        "score": 0.5504277265873287,
-        "id": "4797181d-dac4-40ec-80b3-a2d20cbfad97",
-        "created_at": "2026-11-03T09:33:05.375543+00:00",
-        "updated_at": "2026-11-03T09:33:05.375543+00:00"
+        "memory": "John shared a photo of a locker room bench with several lockers behind it on May 21, 2023.",
+        "score": 0.566926099403016,
+        "id": "97eb7e61-e2ad-4415-be42-efad15c17911",
+        "created_at": "2026-11-04T12:49:25.846518+00:00",
+        "updated_at": "2026-11-04T12:49:25.846518+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.2448654183907927,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.23129180318972012,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
       },
       {
-        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
-        "score": 0.23995556977585447,
-        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
-        "created_at": "2026-11-03T09:36:13.194440+00:00",
-        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant featuring music and candlelight, which John described as dreamy.",
+        "score": 0.2205059161094188,
+        "id": "ed6be9a8-dd3c-4573-ace9-7f61981116e9",
+        "created_at": "2026-11-04T13:01:04.862411+00:00",
+        "updated_at": "2026-11-04T13:01:04.862411+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
-        "score": 0.22141755258310947,
-        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
-        "created_at": "2026-11-03T09:31:05.117742+00:00",
-        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that John had previously shared.",
+        "score": 0.21960830329224681,
+        "id": "e383ef53-4bca-4669-b3bb-4d8e295b56f1",
+        "created_at": "2026-11-04T13:06:36.047460+00:00",
+        "updated_at": "2026-11-04T13:06:36.047460+00:00"
       },
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.22114919593437135,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+        "memory": "John shared a photo of a man and woman on stage at a convention to illustrate the atmosphere of his recent seminar experience.",
+        "score": 0.21954433351418348,
+        "id": "d84e39fa-f214-43d9-ab8c-302b9b874627",
+        "created_at": "2026-11-04T13:18:29.132935+00:00",
+        "updated_at": "2026-11-04T13:18:29.132935+00:00"
       },
       {
-        "memory": "John shared a photo of his Christmas tree from December 2022, which was decorated with many lights and ornaments.",
-        "score": 0.22031644310827692,
-        "id": "919c9e31-8d87-4ee1-8e22-2540f552f6bf",
-        "created_at": "2026-11-03T09:10:31.916440+00:00",
-        "updated_at": "2026-11-03T09:10:31.916440+00:00"
+        "memory": "Tim loves traveling and found John's photo of the Eiffel Tower awesome, expressing interest in whether John has been to Paris.",
+        "score": 0.21688667526659944,
+        "id": "34a5f676-5479-4c22-9f35-7970f7577280",
+        "created_at": "2026-11-04T13:23:45.234394+00:00",
+        "updated_at": "2026-11-04T13:23:45.234394+00:00"
       },
       {
-        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
-        "score": 0.22014077358041645,
-        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
-        "created_at": "2026-11-03T09:20:51.673633+00:00",
-        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies.",
+        "score": 0.21662025872743312,
+        "id": "558c0bce-b6b8-4907-bb21-5813693c8739",
+        "created_at": "2026-11-04T13:10:13.494078+00:00",
+        "updated_at": "2026-11-04T13:10:13.494078+00:00"
       },
       {
-        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
-        "score": 0.21961618568356447,
-        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
-        "created_at": "2026-11-03T09:12:31.250600+00:00",
-        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding reception, which he described as dreamy with music and candlelight.",
+        "score": 0.21622129291554276,
+        "id": "4962ec15-a0c7-4240-a0c3-e5ae0ad19d3c",
+        "created_at": "2026-11-04T13:00:54.551471+00:00",
+        "updated_at": "2026-11-04T13:00:54.551471+00:00"
       },
       {
-        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
-        "score": 0.21957680385210204,
-        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
-        "created_at": "2026-11-03T09:16:41.057223+00:00",
-        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+        "memory": "John has a pair of lucky basketball shoes that have been with him through good and bad times, which he describes as having marks where every mark has a story.",
+        "score": 0.20801611430259676,
+        "id": "38c82b3d-9002-45e7-8039-f67ad8354358",
+        "created_at": "2026-11-04T12:54:09.322907+00:00",
+        "updated_at": "2026-11-04T12:54:09.322907+00:00"
       },
       {
-        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
-        "score": 0.217269380424347,
-        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
-        "created_at": "2026-11-03T09:20:44.106791+00:00",
-        "updated_at": "2026-11-03T09:20:44.106791+00:00"
-      },
-      {
-        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
-        "score": 0.21574024296074873,
-        "id": "bc91278f-9786-437b-b809-97133839c1c0",
-        "created_at": "2026-11-03T09:21:16.833195+00:00",
-        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, which made him emotional and choked up.",
+        "score": 0.20418993232426338,
+        "id": "7c974608-bd0e-47e7-938c-22fe876e9bd4",
+        "created_at": "2026-11-04T13:01:04.859051+00:00",
+        "updated_at": "2026-11-04T13:01:04.859051+00:00"
       },
       {
         "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.21565992365665432,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "score": 0.20285229832354768,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
       },
       {
-        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
-        "score": 0.21564062095605002,
-        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
-        "created_at": "2026-11-03T09:21:03.783333+00:00",
-        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+        "memory": "Tim shared a photo of his desk setup, which features a bookcase full of books and various other items, while discussing John's wedding photos.",
+        "score": 0.20150165318617935,
+        "id": "d325ae4b-a5dc-49ae-bd1a-e6d6208cc40c",
+        "created_at": "2026-11-04T13:00:51.928277+00:00",
+        "updated_at": "2026-11-04T13:00:51.928277+00:00"
+      },
+      {
+        "memory": "John is fascinated by learning about different cultures and seeing historical architecture, and has visiting castles on his bucket list.",
+        "score": 0.19812102650727542,
+        "id": "ad91da45-bcde-465e-863a-6871eabf620c",
+        "created_at": "2026-11-04T13:04:54.156057+00:00",
+        "updated_at": "2026-11-04T13:04:54.156057+00:00"
       },
       {
         "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
-        "score": 0.20887493494375722,
-        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
-        "created_at": "2026-11-03T09:35:49.565672+00:00",
-        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+        "score": 0.19615294740100228,
+        "id": "5af6fecf-2476-4ce8-a07e-0a80d2187b45",
+        "created_at": "2026-11-04T13:21:57.362465+00:00",
+        "updated_at": "2026-11-04T13:21:57.362465+00:00"
       },
       {
-        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
-        "score": 0.20731748143481327,
-        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
-        "created_at": "2026-11-03T09:36:03.650277+00:00",
-        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+        "memory": "John loves traveling as a way to learn about different cultures and places, and shared a photo of himself walking down a path in front of the Eiffel Tower.",
+        "score": 0.19612387657478697,
+        "id": "23f64bf6-bc1d-4ad0-bfc5-bc3772fd6d5e",
+        "created_at": "2026-11-04T13:23:39.761530+00:00",
+        "updated_at": "2026-11-04T13:23:39.761530+00:00"
       }
     ],
-    "search_latency_ms": 102.6,
+    "search_latency_ms": 116.1,
     "total_results": 20
   },
   "cutoff_results": {

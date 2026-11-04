@@ -8,153 +8,153 @@
   "evidence": [
     "D18:1"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which country was Tim visiting in the second week of November?",
     "search_results": [
       {
-        "memory": "Tim visited a castle in the UK on Friday, November 10, 2023, during a trip and found the architecture and history amazing.",
-        "score": 0.7055782908882204,
-        "id": "166e9249-0323-4597-ace7-5d0a1468a59b",
-        "created_at": "2026-11-03T09:25:54.234586+00:00",
-        "updated_at": "2026-11-03T09:25:54.234586+00:00"
+        "memory": "Tim was swamped with exams during the week of November 13, 2023, but remained optimistic and diligent in his preparation",
+        "score": 0.6952081955003603,
+        "id": "3b9812de-083d-4183-8292-e2f88aa76f26",
+        "created_at": "2026-11-04T13:09:20.656168+00:00",
+        "updated_at": "2026-11-04T13:09:20.656168+00:00"
       },
       {
-        "memory": "In the week preceding November 21, 2023, Tim experienced a setback when he tried writing a story based on his experiences in the UK but it did not go the way he wanted.",
-        "score": 0.6606552726287511,
-        "id": "c91d1766-9938-4df9-a4aa-2f5845db86b3",
-        "created_at": "2026-11-03T09:27:06.136221+00:00",
-        "updated_at": "2026-11-03T09:27:06.136221+00:00"
+        "memory": "Tim visited a castle in the UK on November 10, 2023, during a trip, and found the architecture and history unbelievable",
+        "score": 0.6654249261640933,
+        "id": "632d1af8-ebc7-4215-b0c6-ad2dac852864",
+        "created_at": "2026-11-04T13:09:20.651234+00:00",
+        "updated_at": "2026-11-04T13:09:20.651234+00:00"
       },
       {
-        "memory": "Tim visited a castle in the UK on November 10, 2023, during his trip and found the architecture and history unbelievable, sharing a photo of the castle with lush greenery and a river running through it.",
-        "score": 0.657665649702547,
-        "id": "6b6ce2b5-5da2-4871-a25c-7e96f47f8824",
-        "created_at": "2026-11-03T09:24:56.991771+00:00",
-        "updated_at": "2026-11-03T09:24:56.991771+00:00"
+        "memory": "Tim went to a castle in the UK on November 10, 2023 (last Friday), describing the architecture and history as unbelievable and amazing.",
+        "score": 0.6519883505125678,
+        "id": "16ec8f29-d607-4951-a513-35c29e038056",
+        "created_at": "2026-11-04T13:08:55.014068+00:00",
+        "updated_at": "2026-11-04T13:08:55.014068+00:00"
+      },
+      {
+        "memory": "Tim visited a castle in the UK on November 10, 2023, during his trip and found the architecture and history unbelievable, sharing a photo of the castle with a river running through it.",
+        "score": 0.6519432387134663,
+        "id": "e5bdc96d-fa0d-4810-b7f2-f8919a70b025",
+        "created_at": "2026-11-04T13:08:49.180175+00:00",
+        "updated_at": "2026-11-04T13:08:49.180175+00:00"
       },
       {
         "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.657003304630431,
-        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
-        "created_at": "2026-11-03T09:28:35.439717+00:00",
-        "updated_at": "2026-11-03T09:28:35.439717+00:00"
-      },
-      {
-        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.657003304630431,
-        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
-        "created_at": "2026-11-03T09:28:32.195322+00:00",
-        "updated_at": "2026-11-03T09:28:32.195322+00:00"
-      },
-      {
-        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
-        "score": 0.6554765433053309,
-        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
-        "created_at": "2026-11-03T09:27:28.115475+00:00",
-        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+        "score": 0.6499699260928329,
+        "id": "56068622-2963-42a4-a0b2-1123328db13b",
+        "created_at": "2026-11-04T13:10:52.600725+00:00",
+        "updated_at": "2026-11-04T13:10:52.600725+00:00"
       },
       {
         "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
-        "score": 0.6548331597965404,
-        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
-        "created_at": "2026-11-03T09:28:43.322745+00:00",
-        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+        "score": 0.6477713018800128,
+        "id": "d25242d9-4d08-4193-890a-6797378bc7e5",
+        "created_at": "2026-11-04T13:11:23.206083+00:00",
+        "updated_at": "2026-11-04T13:11:23.206083+00:00"
+      },
+      {
+        "memory": "Tim visited a castle in the UK on November 10, 2023, during a trip, and found the architecture and history amazing, sharing a photo of the castle with lush greenery and a river running through it.",
+        "score": 0.6448253854590489,
+        "id": "6dd976bb-7638-49bd-a24e-5a4216cfd6d6",
+        "created_at": "2026-11-04T13:08:57.089097+00:00",
+        "updated_at": "2026-11-04T13:08:57.089097+00:00"
       },
       {
         "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
-        "score": 0.6541168163864394,
-        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
-        "created_at": "2026-11-03T09:35:44.324677+00:00",
-        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+        "score": 0.6363531586759108,
+        "id": "5e10d455-749b-41d9-bd7f-253d7e440905",
+        "created_at": "2026-11-04T13:21:52.281438+00:00",
+        "updated_at": "2026-11-04T13:21:52.281438+00:00"
       },
       {
-        "memory": "Tim is currently swamped with exams as of November 16, 2023, and is putting in his best effort while feeling optimistic",
-        "score": 0.6513756556652935,
-        "id": "8971c3d4-e27e-4903-ad3c-698455859fc7",
-        "created_at": "2026-11-03T09:26:25.478420+00:00",
-        "updated_at": "2026-11-03T09:26:25.478420+00:00"
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6340475330079617,
+        "id": "d449cbc7-e924-4b3c-8203-2a9ad87a9fe3",
+        "created_at": "2026-11-04T13:13:11.210863+00:00",
+        "updated_at": "2026-11-04T13:13:11.210863+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.648977022174144,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
-      },
-      {
-        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them, while expressing support for John's ankle injury recovery.",
-        "score": 0.6486744462495236,
-        "id": "7e4f8efe-648b-4720-b953-c3efd59464fc",
-        "created_at": "2026-11-03T09:25:03.762407+00:00",
-        "updated_at": "2026-11-03T09:25:03.762407+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.6486609609215961,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
-      },
-      {
-        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them diligently and feeling optimistic about putting in his best effort",
-        "score": 0.6486483453875557,
-        "id": "edcf5377-23c7-4a98-b2a0-48a8a2b278e7",
-        "created_at": "2026-11-03T09:25:27.753801+00:00",
-        "updated_at": "2026-11-03T09:25:27.753801+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.646520336100704,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
-      },
-      {
-        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
-        "score": 0.6443315269445913,
-        "id": "04ce6f7e-23dd-41de-83cb-faf3dfae9961",
-        "created_at": "2026-11-03T09:31:05.114491+00:00",
-        "updated_at": "2026-11-03T09:31:05.114491+00:00"
-      },
-      {
-        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
-        "score": 0.6443315269445913,
-        "id": "c824cbde-ea7d-4316-a5e2-64ff748c6c5b",
-        "created_at": "2026-11-03T09:31:15.567137+00:00",
-        "updated_at": "2026-11-03T09:31:15.567137+00:00"
-      },
-      {
-        "memory": "Tim went to a castle in the UK on November 10, 2023, and found the architecture and history unbelievable",
-        "score": 0.6413024095357809,
-        "id": "a8f0ea6d-e584-4e3b-b723-5ddc4b9ab43b",
-        "created_at": "2026-11-03T09:26:25.473422+00:00",
-        "updated_at": "2026-11-03T09:26:25.473422+00:00"
-      },
-      {
-        "memory": "Tim was swamped with exams around November 16, 2023, but felt optimistic and was working diligently through them.",
-        "score": 0.639753721296695,
-        "id": "4524ba1a-d4ff-4438-8925-68cf161a8d62",
-        "created_at": "2026-11-03T09:25:54.237645+00:00",
-        "updated_at": "2026-11-03T09:25:54.237645+00:00"
+        "memory": "Tim is a student who was swamped with studies and projects as of November 2023.",
+        "score": 0.6312167928074311,
+        "id": "4644f301-b986-42f2-9a3f-71acf6747ddc",
+        "created_at": "2026-11-04T13:09:55.317413+00:00",
+        "updated_at": "2026-11-04T13:09:55.317413+00:00"
       },
       {
         "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.6368107184352553,
-        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
-        "created_at": "2026-11-03T09:30:37.451291+00:00",
-        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+        "score": 0.6311961051208281,
+        "id": "42927e7f-f75c-4bce-a74b-06e55fd7fc91",
+        "created_at": "2026-11-04T13:13:35.324994+00:00",
+        "updated_at": "2026-11-04T13:13:35.324994+00:00"
       },
       {
-        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
-        "score": 0.6365537112559211,
-        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
-        "created_at": "2026-11-03T09:30:14.697487+00:00",
-        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.630542891544785,
+        "id": "d99eddba-baad-49f9-85e9-49dac31767b7",
+        "created_at": "2026-11-04T13:13:44.768420+00:00",
+        "updated_at": "2026-11-04T13:13:44.768420+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.630542891544785,
+        "id": "c7eeb30e-0efb-45cf-8fbb-8ff5f63804c3",
+        "created_at": "2026-11-04T13:13:56.251667+00:00",
+        "updated_at": "2026-11-04T13:13:56.251667+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6279788049632437,
+        "id": "1de9adc4-b052-4298-8bbb-69ab7b6a62ba",
+        "created_at": "2026-11-04T13:14:00.314435+00:00",
+        "updated_at": "2026-11-04T13:14:00.314435+00:00"
+      },
+      {
+        "memory": "Tim has Italy on his list of places to visit and asked John how his trip there was last month (December 2023).",
+        "score": 0.6230893413927197,
+        "id": "faa534a8-e43b-47bf-bd18-751c72476b9b",
+        "created_at": "2026-11-04T13:21:54.973715+00:00",
+        "updated_at": "2026-11-04T13:21:54.973715+00:00"
+      },
+      {
+        "memory": "Tim has lived in the UK and attempted to write a story based on those experiences around mid-November 2023, but felt the result did not meet his expectations.",
+        "score": 0.6205088349858698,
+        "id": "45f2f2cc-e92f-4a7d-bd52-61c58fca209f",
+        "created_at": "2026-11-04T13:09:55.322282+00:00",
+        "updated_at": "2026-11-04T13:09:55.322282+00:00"
+      },
+      {
+        "memory": "Tim is a student preparing for exams in November 2023, feeling optimistic and working diligently to put in his best effort.",
+        "score": 0.6199024073233037,
+        "id": "a0e3d206-b391-4de7-b28e-980bffeaefce",
+        "created_at": "2026-11-04T13:09:33.070459+00:00",
+        "updated_at": "2026-11-04T13:09:33.070459+00:00"
+      },
+      {
+        "memory": "Tim is currently swamped with exams as of November 16, 2023, but is plowing through them.",
+        "score": 0.6189928273256031,
+        "id": "10c0ce1b-1dca-43fb-8de1-c46c5df2c6ca",
+        "created_at": "2026-11-04T13:08:55.017454+00:00",
+        "updated_at": "2026-11-04T13:08:55.017454+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
+        "score": 0.6184131900611856,
+        "id": "321368aa-b260-42cf-9879-d862c65a1f6f",
+        "created_at": "2026-11-04T13:13:40.085842+00:00",
+        "updated_at": "2026-11-04T13:13:40.085842+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
+        "score": 0.6183902524565137,
+        "id": "595990b3-264b-4c6f-8c67-5074b8e8fa88",
+        "created_at": "2026-11-04T13:13:28.144801+00:00",
+        "updated_at": "2026-11-04T13:13:28.144801+00:00"
       }
     ],
-    "search_latency_ms": 112.9,
+    "search_latency_ms": 166.7,
     "total_results": 20
   },
   "cutoff_results": {

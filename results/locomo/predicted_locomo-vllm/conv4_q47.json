@@ -8,153 +8,153 @@
   "evidence": [
     "D12:2"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When did John get married at a greenhouse?",
     "search_results": [
       {
         "memory": "John and his girlfriend had an amazing and emotional wedding ceremony in a greenhouse around September 25, 2023, where guests took pictures during the event.",
-        "score": 0.6769701528875373,
-        "id": "f90d5be9-60a8-456d-a856-27890c261b35",
-        "created_at": "2026-11-03T09:16:16.319210+00:00",
-        "updated_at": "2026-11-03T09:16:16.319210+00:00"
+        "score": 0.6766859061800311,
+        "id": "276b8628-0f60-4490-8165-fd2d4094c7c7",
+        "created_at": "2026-11-04T13:00:33.594858+00:00",
+        "updated_at": "2026-11-04T13:00:33.594858+00:00"
       },
       {
-        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe while celebrating with loved ones.",
-        "score": 0.6691585954197941,
-        "id": "88f2275c-52cc-4712-906b-49be797d7e81",
-        "created_at": "2026-11-03T09:16:21.061118+00:00",
-        "updated_at": "2026-11-03T09:16:21.061118+00:00"
+        "memory": "John and his girlfriend had an intimate wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe during the celebration.",
+        "score": 0.666872004488733,
+        "id": "b4f7420a-9cc6-4eaf-a4e7-4fb9f97feae9",
+        "created_at": "2026-11-04T13:00:43.616227+00:00",
+        "updated_at": "2026-11-04T13:00:43.616227+00:00"
       },
       {
-        "memory": "John and his girlfriend had an amazing and emotional wedding ceremony in a greenhouse venue around September 25, 2023, which was a smaller, intimate gathering where they followed safety protocols to ensure everyone felt safe.",
-        "score": 0.6623474559255256,
-        "id": "a9cea8af-5810-403f-bc51-d6ef7e891b58",
-        "created_at": "2026-11-03T09:16:27.180512+00:00",
-        "updated_at": "2026-11-03T09:16:27.180512+00:00"
+        "memory": "John got married and described the wedding day as beautiful, feeling an unprecedented amount of love and happiness while celebrating with loved ones.",
+        "score": 0.6459182462295238,
+        "id": "399ad4a2-9a20-444d-b38e-4cc3d424bbb8",
+        "created_at": "2026-11-04T13:01:04.851163+00:00",
+        "updated_at": "2026-11-04T13:01:04.851163+00:00"
       },
       {
-        "memory": "Some of John's hiking club friends attended his wedding ceremony in a greenhouse around September 25, 2023, even though he had only recently joined the club.",
-        "score": 0.6616399823573823,
-        "id": "7a694165-bc68-4d0d-9f8c-0646627fbae1",
-        "created_at": "2026-11-03T09:16:32.616110+00:00",
-        "updated_at": "2026-11-03T09:16:32.616110+00:00"
+        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding in a lovely greenhouse venue to ensure safety during the pandemic, following necessary protocols so everyone felt safe while celebrating with loved ones.",
+        "score": 0.6447775081916961,
+        "id": "e24d232d-103e-4c4f-93a7-4d034faa7bb7",
+        "created_at": "2026-11-04T13:00:38.649597+00:00",
+        "updated_at": "2026-11-04T13:00:38.649597+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.3636485830281745,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.3192159882096691,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
       },
       {
-        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
-        "score": 0.3478230691271952,
-        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
-        "created_at": "2026-11-03T09:16:41.057223+00:00",
-        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant featuring music and candlelight, which John described as dreamy.",
+        "score": 0.304324202575371,
+        "id": "ed6be9a8-dd3c-4573-ace9-7f61981116e9",
+        "created_at": "2026-11-04T13:01:04.862411+00:00",
+        "updated_at": "2026-11-04T13:01:04.862411+00:00"
+      },
+      {
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding reception, which he described as dreamy with music and candlelight.",
+        "score": 0.29958072182122014,
+        "id": "4962ec15-a0c7-4240-a0c3-e5ae0ad19d3c",
+        "created_at": "2026-11-04T13:00:54.551471+00:00",
+        "updated_at": "2026-11-04T13:00:54.551471+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.3325908139381699,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+        "score": 0.2933711456481852,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.3324345318218482,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.2930706226453542,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.3286044223496427,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+        "memory": "John is a member of a hiking club, and some of his friends from the club attended his wedding despite him having only recently joined the group.",
+        "score": 0.29106448874092294,
+        "id": "8a0cef5d-6ce6-42ae-a4a4-c7c948dcd50f",
+        "created_at": "2026-11-04T13:01:04.855888+00:00",
+        "updated_at": "2026-11-04T13:01:04.855888+00:00"
       },
       {
-        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
-        "score": 0.3087903400758426,
-        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
-        "created_at": "2026-11-03T09:18:32.649446+00:00",
-        "updated_at": "2026-11-03T09:18:32.649446+00:00"
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations based on his previous experience in Europe.",
+        "score": 0.28679788502537595,
+        "id": "5a25ef2f-5e70-45a6-9818-cb4c0d16e025",
+        "created_at": "2026-11-04T13:07:42.948057+00:00",
+        "updated_at": "2026-11-04T13:07:42.948057+00:00"
       },
       {
-        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
-        "score": 0.30650213596288817,
-        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
-        "created_at": "2026-11-03T09:20:51.673633+00:00",
-        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, which made him emotional and choked up.",
+        "score": 0.2845590090978079,
+        "id": "7c974608-bd0e-47e7-938c-22fe876e9bd4",
+        "created_at": "2026-11-04T13:01:04.859051+00:00",
+        "updated_at": "2026-11-04T13:01:04.859051+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.2964004477391337,
-        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
-        "created_at": "2026-11-03T09:33:27.522504+00:00",
-        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+        "memory": "John used sage as a spice in the chicken soup he made and shared with Tim on August 31, 2023.",
+        "score": 0.27162574687259256,
+        "id": "e4494537-cdf3-4e8c-87f0-1da1ef6050d4",
+        "created_at": "2026-11-04T12:58:23.144590+00:00",
+        "updated_at": "2026-11-04T12:58:23.144590+00:00"
       },
       {
-        "memory": "John shared a photo of his Christmas tree from December 2022, which was decorated with many lights and ornaments.",
-        "score": 0.29275087560920465,
-        "id": "919c9e31-8d87-4ee1-8e22-2540f552f6bf",
-        "created_at": "2026-11-03T09:10:31.916440+00:00",
-        "updated_at": "2026-11-03T09:10:31.916440+00:00"
+        "memory": "John's team gave it their all during a scrimmage in the week of December 18-24, 2023, and John noted that the team has seen significant growth in communication and bonding, which helps them understand each other's strengths and weaknesses.",
+        "score": 0.26752282335978006,
+        "id": "73be1eac-ba12-4d63-8532-241a5ba7d68f",
+        "created_at": "2026-11-04T13:18:24.471628+00:00",
+        "updated_at": "2026-11-04T13:18:24.471628+00:00"
       },
       {
-        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.2916235580606352,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "memory": "John shared a photo of a forest near his hometown on December 1, 2023, describing it as tranquil and magical.",
+        "score": 0.2628799141388127,
+        "id": "a1e636c2-fbf3-461c-9f3e-b23083b90881",
+        "created_at": "2026-11-04T13:12:24.508622+00:00",
+        "updated_at": "2026-11-04T13:12:24.508622+00:00"
       },
       {
         "memory": "John purchased a book while traveling in Italy in December 2023 that has been providing him with cooking inspiration.",
-        "score": 0.2916189114880746,
-        "id": "c2a5b3c0-72ad-4edb-aa97-5978bb7c7d52",
-        "created_at": "2026-11-03T09:35:49.565672+00:00",
-        "updated_at": "2026-11-03T09:35:49.565672+00:00"
+        "score": 0.2619577065763038,
+        "id": "5af6fecf-2476-4ce8-a07e-0a80d2187b45",
+        "created_at": "2026-11-04T13:21:57.362465+00:00",
+        "updated_at": "2026-11-04T13:21:57.362465+00:00"
       },
       {
-        "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
-        "score": 0.2887599060884881,
-        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
-        "created_at": "2026-11-03T09:36:13.194440+00:00",
-        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.2617924610551669,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
       },
       {
-        "memory": "John visited Italy in December 2023 and enjoyed the food, history, and architecture; he bought a book there that inspired him to cook.",
-        "score": 0.28364237655527563,
-        "id": "ba70da6b-2800-42be-9510-8d2cb23759cf",
-        "created_at": "2026-11-03T09:36:03.650277+00:00",
-        "updated_at": "2026-11-03T09:36:03.650277+00:00"
+        "memory": "John shared a photo of a man and woman on stage at a convention to illustrate the atmosphere of his recent seminar experience.",
+        "score": 0.25851462236517325,
+        "id": "d84e39fa-f214-43d9-ab8c-302b9b874627",
+        "created_at": "2026-11-04T13:18:29.132935+00:00",
+        "updated_at": "2026-11-04T13:18:29.132935+00:00"
       },
       {
-        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
-        "score": 0.28309785070690374,
-        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
-        "created_at": "2026-11-03T09:12:31.250600+00:00",
-        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.25275762148096004,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.28191524061677853,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
-      },
-      {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill and the experience as wild.",
-        "score": 0.28160648457545545,
-        "id": "4f7c1ee8-b6ab-4992-9aea-d694d24bb52c",
-        "created_at": "2026-11-03T09:17:12.049521+00:00",
-        "updated_at": "2026-11-03T09:17:12.049521+00:00"
+        "memory": "John visited his home around August 19-25, 2023, where he caught up with family and old friends, reminiscing about their childhood together.",
+        "score": 0.2385327758313764,
+        "id": "792130d4-ef75-4fa2-8f7e-81356329985d",
+        "created_at": "2026-11-04T12:57:20.958703+00:00",
+        "updated_at": "2026-11-04T12:57:20.958703+00:00"
       }
     ],
-    "search_latency_ms": 107.5,
+    "search_latency_ms": 144.8,
     "total_results": 20
   },
   "cutoff_results": {

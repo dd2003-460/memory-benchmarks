@@ -8,183 +8,183 @@
   "evidence": [
     "D19:3"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What was the setback Tim faced in his writing project on 21 November, 2023?",
     "search_results": [
       {
-        "memory": "Tim experienced a significant writing block around October 30, 2023, getting stuck on a plot twist but eventually overcame the frustration and got his ideas flowing again.",
-        "score": 0.7814878324455412,
-        "id": "bc7e97ea-5bd0-45e1-b321-494224ad650a",
-        "created_at": "2026-11-03T09:22:24.098436+00:00",
-        "updated_at": "2026-11-03T09:22:24.098436+00:00"
+        "memory": "Tim experienced a significant writing block around October 30, 2023, getting stuck on a plot twist, but persisted and eventually got the ideas flowing again.",
+        "score": 0.7769621874514073,
+        "id": "fc0bfe00-3f51-4510-9a2d-9fc8a664e397",
+        "created_at": "2026-11-04T13:07:27.468237+00:00",
+        "updated_at": "2026-11-04T13:07:27.468237+00:00"
       },
       {
-        "memory": "In the week preceding November 21, 2023, Tim experienced a setback when he tried writing a story based on his experiences in the UK but it did not go the way he wanted.",
-        "score": 0.7731009401811421,
-        "id": "c91d1766-9938-4df9-a4aa-2f5845db86b3",
-        "created_at": "2026-11-03T09:27:06.136221+00:00",
-        "updated_at": "2026-11-03T09:27:06.136221+00:00"
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist. He found the situation frustrating but persisted until he eventually got his ideas flowing again.",
+        "score": 0.7605126228785756,
+        "id": "5e81968d-c35a-4046-b179-aa7b9920af09",
+        "created_at": "2026-11-04T13:06:58.133703+00:00",
+        "updated_at": "2026-11-04T13:06:58.133703+00:00"
       },
       {
-        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
-        "score": 0.7716936833715066,
-        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
-        "created_at": "2026-11-03T09:27:28.115475+00:00",
-        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+        "memory": "Tim is a student who was swamped with studies and projects as of November 2023.",
+        "score": 0.7577096260810819,
+        "id": "4644f301-b986-42f2-9a3f-71acf6747ddc",
+        "created_at": "2026-11-04T13:09:55.317413+00:00",
+        "updated_at": "2026-11-04T13:09:55.317413+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block last week, around October 30, 2023, while stuck on a plot twist, but persisted and eventually got the ideas flowing again.",
-        "score": 0.770944498215758,
-        "id": "c1f4ed0e-4412-4332-ba14-70867a6bb7f8",
-        "created_at": "2026-11-03T09:22:17.828315+00:00",
-        "updated_at": "2026-11-03T09:22:17.828315+00:00"
+        "memory": "Tim experienced a setback around mid-November 2023 when he tried to write a story based on his experiences in the UK but it did not go the way he wanted, prompting him to seek advice on improving his storytelling skills.",
+        "score": 0.7470795085666815,
+        "id": "c4eac04a-0957-4947-bd6e-55069e78f272",
+        "created_at": "2026-11-04T13:09:39.162247+00:00",
+        "updated_at": "2026-11-04T13:09:39.162247+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block around late October 2023 while stuck on a plot twist, which he found frustrating but overcame by persisting until the ideas started flowing again.",
-        "score": 0.7642127982749498,
-        "id": "cdc7ee25-4459-452e-8e2c-5cc43ff59c85",
-        "created_at": "2026-11-03T09:21:29.590450+00:00",
-        "updated_at": "2026-11-03T09:21:29.590450+00:00"
+        "memory": "Tim has been swamped with studies and projects as of November 21, 2023, indicating he is currently a student balancing academic work with his writing.",
+        "score": 0.7303935355493609,
+        "id": "f98715f8-d619-4a71-9692-4fbe6a9bf3ad",
+        "created_at": "2026-11-04T13:09:39.157653+00:00",
+        "updated_at": "2026-11-04T13:09:39.157653+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
-        "score": 0.7529127103609102,
-        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
-        "created_at": "2026-11-03T09:21:27.127661+00:00",
-        "updated_at": "2026-11-03T09:21:27.127661+00:00"
-      },
-      {
-        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
-        "score": 0.7368383387454971,
-        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
-        "created_at": "2026-11-03T09:19:36.424804+00:00",
-        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+        "memory": "Tim has lived in the UK and attempted to write a story based on those experiences around mid-November 2023, but felt the result did not meet his expectations.",
+        "score": 0.7253806401902263,
+        "id": "45f2f2cc-e92f-4a7d-bd52-61c58fca209f",
+        "created_at": "2026-11-04T13:09:55.322282+00:00",
+        "updated_at": "2026-11-04T13:09:55.322282+00:00"
       },
       {
         "memory": "Tim considers 'The Alchemist' one of his favorite books and noticed it on John's bookshelf during a conversation on September 21, 2023.",
-        "score": 0.7308626420138081,
-        "id": "c2962a8e-10bb-439d-90fe-ee22a00206b5",
-        "created_at": "2026-11-03T09:15:57.506328+00:00",
-        "updated_at": "2026-11-03T09:15:57.506328+00:00"
+        "score": 0.7132941259334958,
+        "id": "24228309-ca66-4fbb-80f6-877f2ee40319",
+        "created_at": "2026-11-04T13:00:06.576097+00:00",
+        "updated_at": "2026-11-04T13:00:06.576097+00:00"
       },
       {
-        "memory": "Tim has been swamped with studies and projects as of November 21, 2023, indicating a busy academic or professional schedule.",
-        "score": 0.7232212426940701,
-        "id": "58b10661-5353-4ba4-af66-1332b5f6d8b2",
-        "created_at": "2026-11-03T09:27:06.130911+00:00",
-        "updated_at": "2026-11-03T09:27:06.130911+00:00"
+        "memory": "Tim was swamped with exams during the week of November 13, 2023, but remained optimistic and diligent in his preparation",
+        "score": 0.7084433894961574,
+        "id": "3b9812de-083d-4183-8292-e2f88aa76f26",
+        "created_at": "2026-11-04T13:09:20.656168+00:00",
+        "updated_at": "2026-11-04T13:09:20.656168+00:00"
       },
       {
-        "memory": "Tim was swamped with exams around November 16, 2023, but felt optimistic and was working diligently through them.",
-        "score": 0.7231963539753989,
-        "id": "4524ba1a-d4ff-4438-8925-68cf161a8d62",
-        "created_at": "2026-11-03T09:25:54.237645+00:00",
-        "updated_at": "2026-11-03T09:25:54.237645+00:00"
-      },
-      {
-        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them diligently and feeling optimistic about putting in his best effort",
-        "score": 0.7093653629228849,
-        "id": "edcf5377-23c7-4a98-b2a0-48a8a2b278e7",
-        "created_at": "2026-11-03T09:25:27.753801+00:00",
-        "updated_at": "2026-11-03T09:25:27.753801+00:00"
-      },
-      {
-        "memory": "Tim is currently swamped with exams as of November 16, 2023, and is putting in his best effort while feeling optimistic",
-        "score": 0.7042264929506994,
-        "id": "8971c3d4-e27e-4903-ad3c-698455859fc7",
-        "created_at": "2026-11-03T09:26:25.478420+00:00",
-        "updated_at": "2026-11-03T09:26:25.478420+00:00"
-      },
-      {
-        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.7037588164025552,
-        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
-        "created_at": "2026-11-03T09:28:32.195322+00:00",
-        "updated_at": "2026-11-03T09:28:32.195322+00:00"
-      },
-      {
-        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.7037588164025552,
-        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
-        "created_at": "2026-11-03T09:28:35.439717+00:00",
-        "updated_at": "2026-11-03T09:28:35.439717+00:00"
-      },
-      {
-        "memory": "Tim is swamped with exams in November 2023 and is plowing through them while feeling optimistic and working diligently.",
-        "score": 0.7005503763297899,
-        "id": "79dd20b7-4ef7-4285-9d0e-7be1d1b6354c",
-        "created_at": "2026-11-03T09:25:39.144555+00:00",
-        "updated_at": "2026-11-03T09:25:39.144555+00:00"
+        "memory": "Tim is writing articles about fantasy novels for an online magazine, a role he finds rewarding, as of August 2, 2023.",
+        "score": 0.6973312174010515,
+        "id": "d9fda66e-7414-4288-bea5-75c8eb5a1afb",
+        "created_at": "2026-11-04T12:52:30.438584+00:00",
+        "updated_at": "2026-11-04T12:52:30.438584+00:00"
       },
       {
         "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
-        "score": 0.7003944589116247,
-        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
-        "created_at": "2026-11-03T09:28:43.322745+00:00",
-        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+        "score": 0.6938865461934476,
+        "id": "d25242d9-4d08-4193-890a-6797378bc7e5",
+        "created_at": "2026-11-04T13:11:23.206083+00:00",
+        "updated_at": "2026-11-04T13:11:23.206083+00:00"
       },
       {
-        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
-        "score": 0.694755014557827,
-        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
-        "created_at": "2026-11-03T09:29:03.711964+00:00",
-        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+        "memory": "Tim is a student preparing for exams in November 2023, feeling optimistic and working diligently to put in his best effort.",
+        "score": 0.6909113021563039,
+        "id": "a0e3d206-b391-4de7-b28e-980bffeaefce",
+        "created_at": "2026-11-04T13:09:33.070459+00:00",
+        "updated_at": "2026-11-04T13:09:33.070459+00:00"
       },
       {
-        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
-        "score": 0.6805392981283427,
-        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
-        "created_at": "2026-11-03T09:09:46.069951+00:00",
-        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
+        "score": 0.6890506999300762,
+        "id": "56068622-2963-42a4-a0b2-1123328db13b",
+        "created_at": "2026-11-04T13:10:52.600725+00:00",
+        "updated_at": "2026-11-04T13:10:52.600725+00:00"
+      },
+      {
+        "memory": "Tim went to a castle in the UK on November 10, 2023 (last Friday), describing the architecture and history as unbelievable and amazing.",
+        "score": 0.6882660976293885,
+        "id": "16ec8f29-d607-4951-a513-35c29e038056",
+        "created_at": "2026-11-04T13:08:55.014068+00:00",
+        "updated_at": "2026-11-04T13:08:55.014068+00:00"
+      },
+      {
+        "memory": "Tim is currently swamped with exams as of November 16, 2023, but is plowing through them.",
+        "score": 0.6830044603454211,
+        "id": "10c0ce1b-1dca-43fb-8de1-c46c5df2c6ca",
+        "created_at": "2026-11-04T13:08:55.017454+00:00",
+        "updated_at": "2026-11-04T13:08:55.017454+00:00"
+      },
+      {
+        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them, feeling optimistic and working diligently.",
+        "score": 0.6811719064261743,
+        "id": "cedf9d18-3ac5-4d29-9fc8-c25fcb49cdc5",
+        "created_at": "2026-11-04T13:09:11.550936+00:00",
+        "updated_at": "2026-11-04T13:09:11.550936+00:00"
+      },
+      {
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress.",
+        "score": 0.6729735899783733,
+        "id": "1e57454a-e6b9-4825-93d4-6a6c6061c847",
+        "created_at": "2026-11-04T12:56:09.103011+00:00",
+        "updated_at": "2026-11-04T12:56:09.103011+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023 that caused him to doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.6704748354900723,
+        "id": "d2140282-08e6-4382-8d97-9e96d21a6972",
+        "created_at": "2026-11-04T13:10:48.964008+00:00",
+        "updated_at": "2026-11-04T13:10:48.964008+00:00"
+      },
+      {
+        "memory": "Tim is swamped with exams in mid-November 2023 but is plowing through them diligently and feeling optimistic about his performance.",
+        "score": 0.6632748879158579,
+        "id": "e811dfae-ee67-4914-8db3-c79b6be3ab6f",
+        "created_at": "2026-11-04T13:09:02.427111+00:00",
+        "updated_at": "2026-11-04T13:09:02.427111+00:00"
       },
       {
         "memory": "Tim is a fan of LeBron James and was inspired by an epic block he made in a Finals game a few years prior to November 2023, which changed the game and led to a win.",
-        "score": 0.6764526329136323,
-        "id": "570e0548-dc37-425b-9586-3c5d8377eb33",
-        "created_at": "2026-11-03T09:22:32.321424+00:00",
-        "updated_at": "2026-11-03T09:22:32.321424+00:00"
+        "score": 0.6620280203162172,
+        "id": "aa8b4b50-76ee-4a7e-a958-eecc2f278c6f",
+        "created_at": "2026-11-04T13:07:32.540590+00:00",
+        "updated_at": "2026-11-04T13:07:32.540590+00:00"
       },
       {
-        "memory": "Tim is an avid reader who shared a photo of his worn copy of 'A Storm of Swords' from the Game of Thrones series during their conversation on November 11, 2023.",
-        "score": 0.6750060676218871,
-        "id": "d9c91d3e-5e91-4d33-99af-2d2ebe4c5ade",
-        "created_at": "2026-11-03T09:24:27.732337+00:00",
-        "updated_at": "2026-11-03T09:24:27.732337+00:00"
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK, which did not go the way he wanted.",
+        "score": 0.6529938330848573,
+        "id": "a3178ba1-bc1d-4cef-8c28-042f14dff099",
+        "created_at": "2026-11-04T13:09:52.317310+00:00",
+        "updated_at": "2026-11-04T13:09:52.317310+00:00"
       }
     ],
-    "search_latency_ms": 142.6,
+    "search_latency_ms": 174.6,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "He tried writing a story based on his experiences in the UK, but it did not go the way he wanted.",
+      "generated_answer": "Tim tried to write a story based on his experiences in the UK, but it did not go the way he wanted and did not meet his expectations.",
       "memories_evaluated": 10,
-      "reason": "The generated answer accurately reflects the gold answer by stating that the story based on UK experiences did not go as planned or wanted."
+      "reason": "The generated answer accurately captures the core fact that the story based on UK experiences did not go as planned, matching the gold answer's meaning."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "He tried writing a story based on his experiences in the UK, but it did not go the way he wanted.",
+      "generated_answer": "Tim attempted to write a story based on his experiences in the UK, but it did not go the way he wanted and did not meet his expectations.",
       "memories_evaluated": 20,
-      "reason": "The generated answer accurately reflects the gold answer by stating that the story based on UK experiences did not go as planned or wanted."
+      "reason": "The generated answer accurately captures the core fact that the story based on UK experiences did not go as planned, matching the gold answer's meaning."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "He tried writing a story based on his experiences in the UK, but it did not go the way he wanted.",
+      "generated_answer": "Tim attempted to write a story based on his experiences in the UK, but it did not go the way he wanted and did not meet his expectations.",
       "memories_evaluated": 20,
-      "reason": "The generated answer accurately reflects the gold answer by stating that the story based on UK experiences did not go as planned or wanted."
+      "reason": "The generated answer accurately captures the core fact that the story based on UK experiences did not go as planned, matching the gold answer's meaning."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "He tried writing a story based on his experiences in the UK, but it did not go the way he wanted.",
+      "generated_answer": "Tim attempted to write a story based on his experiences in the UK, but it did not go the way he wanted and did not meet his expectations.",
       "memories_evaluated": 20,
-      "reason": "The generated answer accurately reflects the gold answer by stating that the story based on UK experiences did not go as planned or wanted."
+      "reason": "The generated answer accurately captures the core fact that the story based on UK experiences did not go as planned, matching the gold answer's meaning."
     }
   }
 }

@@ -8,183 +8,183 @@
   "evidence": [
     "D3:19"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which city is John excited to have a game at?",
     "search_results": [
       {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.649821393545681,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+        "memory": "John has a basketball game scheduled in Seattle in August 2023, which he is excited about because it is one of his favorite cities to explore and he finds it super vibrant.",
+        "score": 0.6738004864724351,
+        "id": "421b6a94-ef33-46e1-9eaf-dc299190e24c",
+        "created_at": "2026-11-04T12:51:40.410621+00:00",
+        "updated_at": "2026-11-04T12:51:40.410621+00:00"
       },
       {
-        "memory": "John enjoys the energy of a stadium during a sports game, describing the experience of everyone cheering, chanting, and getting excited as really special.",
-        "score": 0.6493639357540082,
-        "id": "523aaa53-d627-4d58-9a7b-dd06841a241b",
-        "created_at": "2026-11-03T09:06:27.555555+00:00",
-        "updated_at": "2026-11-03T09:06:27.555555+00:00"
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his basketball teammates, expressing excitement about the upcoming event.",
+        "score": 0.6477158287198617,
+        "id": "7124514e-ffc4-4f79-a340-8dd3fbad54fd",
+        "created_at": "2026-11-04T12:59:07.471785+00:00",
+        "updated_at": "2026-11-04T12:59:07.471785+00:00"
       },
       {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.6255178831188709,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+        "memory": "John attended a sports game and described the experience as special, noting the high energy in the stadium where everyone was cheering, chanting, and getting excited.",
+        "score": 0.6299707628302642,
+        "id": "8cdd53bd-513b-4bb8-a7d9-f0bb58814456",
+        "created_at": "2026-11-04T12:53:59.890311+00:00",
+        "updated_at": "2026-11-04T12:53:59.890311+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.6221843810504553,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+        "memory": "John played an intense basketball game the week of August 2, 2023, which his team won by a tight score, highlighting the excitement of scoring the final basket and hearing the crowd cheer.",
+        "score": 0.6294470593796262,
+        "id": "e0fedc22-0c28-481a-a41b-42949ddec143",
+        "created_at": "2026-11-04T12:53:08.503165+00:00",
+        "updated_at": "2026-11-04T12:53:08.503165+00:00"
+      },
+      {
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.6253979803111106,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.6197298203348265,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.6172268428727407,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.6172624507936214,
-        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
-        "created_at": "2026-11-03T09:14:41.113956+00:00",
-        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.6172268428727407,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
       },
       {
-        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.6162601130189618,
-        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
-        "created_at": "2026-11-03T09:05:48.016894+00:00",
-        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.609052505342544,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
       },
       {
-        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
-        "score": 0.6089279613516655,
-        "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
-        "created_at": "2026-11-03T09:11:15.445268+00:00",
-        "updated_at": "2026-11-03T09:11:15.445268+00:00"
+        "memory": "John loves discovering new cities and shared a photo of the New York City skyline from one of his trips to NYC on August 26, 2023",
+        "score": 0.6084815615526125,
+        "id": "bbacb9df-d3c0-4c7d-9c7e-8ec5f9ca6c49",
+        "created_at": "2026-11-04T12:57:31.423209+00:00",
+        "updated_at": "2026-11-04T12:57:31.423209+00:00"
       },
       {
-        "memory": "John shared a photo of the New York City skyline from one of his trips, noting that he loves discovering new cities.",
-        "score": 0.6071249384476158,
-        "id": "b4c39f25-25cd-4693-9b64-0c7680c286f4",
-        "created_at": "2026-11-03T09:11:10.061156+00:00",
-        "updated_at": "2026-11-03T09:11:10.061156+00:00"
+        "memory": "John loves Seattle for its energy, diversity, and food, specifically noting that trying local seafood is a must-do activity. He also finds the fan support at basketball games in the city to be incredible.",
+        "score": 0.6047813628903436,
+        "id": "af9960ed-e6fd-44cc-aaf7-e5978ae1f9ab",
+        "created_at": "2026-11-04T12:51:44.775762+00:00",
+        "updated_at": "2026-11-04T12:51:44.775762+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.600323214254404,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+        "memory": "John signed with a new team around May 21, 2023, and expressed excitement about the upcoming season.",
+        "score": 0.5980534650553537,
+        "id": "ee16a5b4-dad2-4f00-b2b7-1395af9aae85",
+        "created_at": "2026-11-04T12:49:07.043015+00:00",
+        "updated_at": "2026-11-04T12:49:07.043015+00:00"
       },
       {
-        "memory": "Tim recommended Edinburgh, Scotland as a destination for John's upcoming team trip, citing it as the birthplace of Harry Potter with awesome history, architecture, and a beautiful city atmosphere.",
-        "score": 0.5884134749604446,
-        "id": "3f2f1f72-e9aa-4c5c-8a67-19356a0e9f89",
-        "created_at": "2026-11-03T09:14:41.118578+00:00",
-        "updated_at": "2026-11-03T09:14:41.118578+00:00"
+        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences, calling it a must-visit destination.",
+        "score": 0.5922827955873812,
+        "id": "58e9d46d-4df4-4e6f-9a6d-40f66ef8d563",
+        "created_at": "2026-11-04T12:57:38.269398+00:00",
+        "updated_at": "2026-11-04T12:57:38.269398+00:00"
       },
       {
-        "memory": "Tim loves traveling and expressed enthusiasm for the Eiffel Tower in Paris, asking John if he has been to the city.",
-        "score": 0.5835408564545539,
-        "id": "b3915565-6af7-4990-be5c-91bbd2a049f9",
-        "created_at": "2026-11-03T09:37:04.382943+00:00",
-        "updated_at": "2026-11-03T09:37:04.382943+00:00"
+        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after John shared a photo of it on August 26, 2023",
+        "score": 0.589582669211535,
+        "id": "c573b277-9b52-4835-a8f4-c3b0f59c7e5b",
+        "created_at": "2026-11-04T12:57:35.687553+00:00",
+        "updated_at": "2026-11-04T12:57:35.687553+00:00"
       },
       {
-        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
-        "score": 0.5824676778161854,
-        "id": "54464271-2eb0-415f-bf0b-663e30178077",
-        "created_at": "2026-11-03T09:11:12.594530+00:00",
-        "updated_at": "2026-11-03T09:11:12.594530+00:00"
+        "memory": "John is a basketball player who has met and watched a top player live, finding the experience wild and motivating, and describes his job as something he loves due to the incredible energy of games.",
+        "score": 0.5543960991189673,
+        "id": "688dd330-e3ca-49f1-a418-81bf3c7c0736",
+        "created_at": "2026-11-04T13:02:37.032021+00:00",
+        "updated_at": "2026-11-04T13:02:37.032021+00:00"
       },
       {
-        "memory": "John has been to Paris and described the city as amazing, specifically noting that the view from the Eiffel Tower is incredible.",
-        "score": 0.5815967308450987,
-        "id": "eb0c6e2b-6501-464f-a25e-ce25261e922e",
-        "created_at": "2026-11-03T09:37:06.646231+00:00",
-        "updated_at": "2026-11-03T09:37:06.646231+00:00"
+        "memory": "After winning the game where John scored 40 points, he and his teammates celebrated at a restaurant, describing the experience as exhausting but happy while reliving the intense moments together.",
+        "score": 0.5497655901809372,
+        "id": "28010ac6-3677-4c98-8e68-7cdf7268c61f",
+        "created_at": "2026-11-04T12:51:09.906157+00:00",
+        "updated_at": "2026-11-04T12:51:09.906157+00:00"
       },
       {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.5815765227851601,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+        "memory": "John's basketball team recently won a game against a top team after a tough match, which John celebrated for the camaraderie built on and off the court.",
+        "score": 0.5455598132401205,
+        "id": "c41d1b84-0af5-4aed-bdac-6963b9584d77",
+        "created_at": "2026-11-04T13:15:23.512134+00:00",
+        "updated_at": "2026-11-04T13:15:23.512134+00:00"
       },
       {
-        "memory": "John had a career-high in assists during a game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
-        "score": 0.5663043375636891,
-        "id": "245b2728-cd32-49af-809b-a8bbdb688ae3",
-        "created_at": "2026-11-03T09:31:59.597097+00:00",
-        "updated_at": "2026-11-03T09:31:59.597097+00:00"
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.5433637320846293,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       },
       {
-        "memory": "John has visiting castles on his bucket list and expressed excitement about exploring the world and experiencing historical architecture.",
-        "score": 0.5661034549162436,
-        "id": "1a32664a-11b1-457b-a19b-e78a8e2767dd",
-        "created_at": "2026-11-03T09:19:51.811814+00:00",
-        "updated_at": "2026-11-03T09:19:51.811814+00:00"
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.5427782892563779,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, and expressed interest in visiting The Cliffs of Moher after his season ends.",
-        "score": 0.5642590939008408,
-        "id": "e9669069-7ac2-4fea-bb0e-65cdbb885507",
-        "created_at": "2026-11-03T09:37:37.767739+00:00",
-        "updated_at": "2026-11-03T09:37:37.767739+00:00"
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie.",
+        "score": 0.5371445707394582,
+        "id": "58186b70-ff4b-4d56-a2e8-0e3dea15989e",
+        "created_at": "2026-11-04T13:14:55.382966+00:00",
+        "updated_at": "2026-11-04T13:14:55.382966+00:00"
       },
       {
-        "memory": "John had a career-high in assists on December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the experience as memorable due to the intensity of playing against rivals.",
-        "score": 0.5623975923023692,
-        "id": "d1039026-4d93-4509-8073-e15282f740f7",
-        "created_at": "2026-11-03T09:31:54.807142+00:00",
-        "updated_at": "2026-11-03T09:31:54.807142+00:00"
-      },
-      {
-        "memory": "John had a career-high in assists on Friday, December 8, 2023, during a big game against his team's rival, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
-        "score": 0.5599355716116023,
-        "id": "a739fc10-617c-4a22-acc3-44e2612ce2c3",
-        "created_at": "2026-11-03T09:31:49.895597+00:00",
-        "updated_at": "2026-11-03T09:31:49.895597+00:00"
+        "memory": "John grew up watching NBA games with his dad and dreamed of playing on big courts, which inspired his lifelong dedication to basketball.",
+        "score": 0.5367845573174688,
+        "id": "14a3c955-186f-4678-902c-48fba36601f8",
+        "created_at": "2026-11-04T12:54:49.180581+00:00",
+        "updated_at": "2026-11-04T12:54:49.180581+00:00"
       }
     ],
-    "search_latency_ms": 164.0,
+    "search_latency_ms": 140.7,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Chicago",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Seattle",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'Chicago' is a different city than the gold answer 'Seattle' and does not contain any correct items from the gold answer."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Edinburgh",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Seattle",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'Edinburgh' is a completely different city from the gold answer 'Seattle' and does not contain any correct items."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Edinburgh",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Seattle",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'Edinburgh' is a completely different city from the gold answer 'Seattle' and does not contain any correct items."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Edinburgh",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Seattle",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'Edinburgh' is a completely different city from the gold answer 'Seattle' and does not contain any correct items."
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

@@ -11,183 +11,183 @@
     "D3:1",
     "D3:25"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What sports does John like besides basketball?",
     "search_results": [
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
-        "score": 0.7889061535366652,
-        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
-        "created_at": "2026-11-03T09:36:18.490072+00:00",
-        "updated_at": "2026-11-03T09:36:18.490072+00:00"
-      },
-      {
-        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
-        "score": 0.7875797926623259,
-        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
-        "created_at": "2026-11-03T09:36:13.201951+00:00",
-        "updated_at": "2026-11-03T09:36:13.201951+00:00"
-      },
-      {
-        "memory": "John values playing with his teammates and having fans cheer for him, stating that basketball gives him a strong sense of satisfaction and purpose.",
-        "score": 0.7639701442610707,
-        "id": "32cf8d83-ff16-4db9-bf7f-db3ec36f571a",
-        "created_at": "2026-11-03T09:14:51.747326+00:00",
-        "updated_at": "2026-11-03T09:14:51.747326+00:00"
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and something he cannot imagine his life without.",
+        "score": 0.7734236541956285,
+        "id": "4272074c-ce11-4097-add5-01a52aeb0738",
+        "created_at": "2026-11-04T13:22:31.876637+00:00",
+        "updated_at": "2026-11-04T13:22:31.876637+00:00"
       },
       {
         "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
-        "score": 0.67823644439468,
-        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
-        "created_at": "2026-11-03T09:15:54.760026+00:00",
-        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+        "score": 0.6779227827261547,
+        "id": "62ecd3f6-8095-4975-a6f4-6002099782fc",
+        "created_at": "2026-11-04T13:00:03.530178+00:00",
+        "updated_at": "2026-11-04T13:00:03.530178+00:00"
       },
       {
-        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
-        "score": 0.6652681270951641,
-        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
-        "created_at": "2026-11-03T09:31:15.581413+00:00",
-        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+        "memory": "John considers his sports team to be like a family away from home, noting that they push each other to improve and provide support in both sports and other aspects of life.",
+        "score": 0.6381802769711535,
+        "id": "8454466c-6c7f-45ba-8b3e-e51a7b77c2e7",
+        "created_at": "2026-11-04T12:53:29.162633+00:00",
+        "updated_at": "2026-11-04T12:53:29.162633+00:00"
       },
       {
-        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
-        "score": 0.662571536513296,
-        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
-        "created_at": "2026-11-03T09:17:03.539957+00:00",
-        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+        "memory": "John's family is a major source of happiness and support for him, helping him remember what is important in life, and he considers his basketball team to be like a second family as well.",
+        "score": 0.6371246065196441,
+        "id": "43913f72-7b29-40c1-a74e-c32304c346dc",
+        "created_at": "2026-11-04T13:06:27.154811+00:00",
+        "updated_at": "2026-11-04T13:06:27.154811+00:00"
       },
       {
-        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
-        "score": 0.6597621172469308,
-        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
-        "created_at": "2026-11-03T09:15:20.574099+00:00",
-        "updated_at": "2026-11-03T09:15:20.574099+00:00"
-      },
-      {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
-        "score": 0.6531143528510065,
-        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
-        "created_at": "2026-11-03T09:30:29.897962+00:00",
-        "updated_at": "2026-11-03T09:30:29.897962+00:00"
-      },
-      {
-        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
-        "score": 0.6483449220184554,
-        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
-        "created_at": "2026-11-03T09:32:06.205210+00:00",
-        "updated_at": "2026-11-03T09:32:06.205210+00:00"
-      },
-      {
-        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
-        "score": 0.6468232729171819,
-        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
-        "created_at": "2026-11-03T09:07:35.938549+00:00",
-        "updated_at": "2026-11-03T09:07:35.938549+00:00"
-      },
-      {
-        "memory": "John considers his basketball team to be like a second family, noting that being with them brings him happiness and helps him remember what is important in life.",
-        "score": 0.6384074665673214,
-        "id": "a63408f7-2db7-4a35-aef4-b9da53609d6e",
-        "created_at": "2026-11-03T09:20:51.671504+00:00",
-        "updated_at": "2026-11-03T09:20:51.671504+00:00"
-      },
-      {
-        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
-        "score": 0.6369284996619233,
-        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
-        "created_at": "2026-11-03T09:00:00.851565+00:00",
-        "updated_at": "2026-11-03T09:00:00.851565+00:00"
-      },
-      {
-        "memory": "John enjoys playing basketball and finds inspiration in LeBron James's moments of heart and determination, viewing them as reasons to push himself on the court.",
-        "score": 0.636525044826636,
-        "id": "b4488e68-d852-4f84-b008-d7fcdc420005",
-        "created_at": "2026-11-03T09:23:36.615422+00:00",
-        "updated_at": "2026-11-03T09:23:36.615422+00:00"
-      },
-      {
-        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.6336298601970124,
-        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
-        "created_at": "2026-11-03T09:30:34.559013+00:00",
-        "updated_at": "2026-11-03T09:30:34.559013+00:00"
-      },
-      {
-        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.6336298601970124,
-        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
-        "created_at": "2026-11-03T09:30:37.455079+00:00",
-        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.6312848736292428,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
         "memory": "John collaborates with organizations to create more opportunities for young athletes, believing it is important that every kid has access to good sports programs.",
-        "score": 0.6318316519620945,
-        "id": "8b2c74c4-52d1-4d62-8658-277f506452e4",
-        "created_at": "2026-11-03T09:34:53.936576+00:00",
-        "updated_at": "2026-11-03T09:34:53.936576+00:00"
+        "score": 0.6295751783714806,
+        "id": "a4d14874-627e-46b7-9d14-55fc0b63f034",
+        "created_at": "2026-11-04T13:20:36.466393+00:00",
+        "updated_at": "2026-11-04T13:20:36.466393+00:00"
       },
       {
-        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
-        "score": 0.6310537119410264,
-        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
-        "created_at": "2026-11-03T09:20:44.101606+00:00",
-        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+        "memory": "John collects basketball jerseys as a hobby.",
+        "score": 0.6294269575576503,
+        "id": "294a4fe5-667c-4736-87c3-c50389d7f1b8",
+        "created_at": "2026-11-04T13:01:30.753060+00:00",
+        "updated_at": "2026-11-04T13:01:30.753060+00:00"
       },
       {
-        "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
-        "score": 0.6277608632226674,
-        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
-        "created_at": "2026-11-03T09:31:36.065792+00:00",
-        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+        "memory": "John supports youth sports and fights for fair chances in sports for underserved communities, collaborating with organizations to create opportunities for young athletes.",
+        "score": 0.6257450937671346,
+        "id": "3f12d33d-9aa8-4538-b0e5-ddd1d4832d33",
+        "created_at": "2026-11-04T13:21:03.600810+00:00",
+        "updated_at": "2026-11-04T13:21:03.600810+00:00"
       },
       {
-        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down by 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
-        "score": 0.6242047082269869,
-        "id": "352a6cae-8749-47c6-8fba-36228a556495",
-        "created_at": "2026-11-03T09:31:59.602804+00:00",
-        "updated_at": "2026-11-03T09:31:59.602804+00:00"
+        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work and inspiring people as a way to give back for what the sport has given him.",
+        "score": 0.6254508312543278,
+        "id": "2e6a3b50-284e-4528-b71f-59bf473e17a0",
+        "created_at": "2026-11-04T12:54:25.216793+00:00",
+        "updated_at": "2026-11-04T12:54:25.216793+00:00"
       },
       {
-        "memory": "John's number one goal in his basketball career is to win a championship, and he also aims to make a difference away from the court through charity work or inspiring people as a way to give back for what the sport has given him.",
-        "score": 0.6242041915394329,
-        "id": "6f96a51b-832c-433e-b343-71636f098e8a",
-        "created_at": "2026-11-03T09:07:43.089742+00:00",
-        "updated_at": "2026-11-03T09:07:43.089742+00:00"
+        "memory": "John's favorite basketball moment was hitting a buzzer-beater shot to win a game when his team was down 10 points in the fourth quarter, which he describes as an incredible and thrilling experience that deepens his love for the sport.",
+        "score": 0.6231890833628875,
+        "id": "6e497aa3-6ec6-4965-b089-f2f2d084a0f4",
+        "created_at": "2026-11-04T13:16:02.506114+00:00",
+        "updated_at": "2026-11-04T13:16:02.506114+00:00"
+      },
+      {
+        "memory": "John is considering sports brands like Nike and Under Armour for endorsement opportunities, preferring collaborations related to sports but remaining open to other brands that align with his values and interests.",
+        "score": 0.6215192945120425,
+        "id": "499c3a73-965f-4a91-9700-8a0844ecee08",
+        "created_at": "2026-11-04T12:49:53.487252+00:00",
+        "updated_at": "2026-11-04T12:49:53.487252+00:00"
+      },
+      {
+        "memory": "John's basketball team strengthens their unity through team dinners, outings, and basketball games, valuing moments away from practice.",
+        "score": 0.6212420532727287,
+        "id": "73b5857c-a5f2-4693-911c-0eff1d314ceb",
+        "created_at": "2026-11-04T13:15:23.516882+00:00",
+        "updated_at": "2026-11-04T13:15:23.516882+00:00"
+      },
+      {
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.619783612270333,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride with significant challenges and growth.",
+        "score": 0.618762651940541,
+        "id": "41cdeb4c-2f92-4601-9a47-e47b41c119e1",
+        "created_at": "2026-11-04T13:14:00.317631+00:00",
+        "updated_at": "2026-11-04T13:14:00.317631+00:00"
+      },
+      {
+        "memory": "John values the support of his teammates who encourage him even when he makes mistakes, and notes that he has a strong support network outside of sports including family and friends who are always there for him.",
+        "score": 0.6170117546582272,
+        "id": "329559e0-553b-4647-bb48-b767bc9473be",
+        "created_at": "2026-11-04T13:06:24.965665+00:00",
+        "updated_at": "2026-11-04T13:06:24.965665+00:00"
+      },
+      {
+        "memory": "John received a signed basketball from his teammates as a token of friendship and appreciation, which he finds comforting and motivating as a reminder of their bond and why he started playing basketball.",
+        "score": 0.6114652250108679,
+        "id": "104f0bbb-b276-489f-9a96-60f2a1136f1a",
+        "created_at": "2026-11-04T12:55:34.026982+00:00",
+        "updated_at": "2026-11-04T12:55:34.026982+00:00"
+      },
+      {
+        "memory": "John connected with his new teammates over their shared love for basketball and considers them great friends.",
+        "score": 0.6091132647391035,
+        "id": "dc311453-d58e-49f3-9b27-1b619fe464f0",
+        "created_at": "2026-11-04T12:59:10.999237+00:00",
+        "updated_at": "2026-11-04T12:59:10.999237+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride.",
+        "score": 0.6070929857506713,
+        "id": "13b0e5b8-4228-4cb8-9358-450cbf6fa69a",
+        "created_at": "2026-11-04T13:13:35.319270+00:00",
+        "updated_at": "2026-11-04T13:13:35.319270+00:00"
+      },
+      {
+        "memory": "John is exploring endorsement opportunities specifically with sports brands like Nike and Under Armour, while remaining open to other brands that align with his values and interests.",
+        "score": 0.607089348045519,
+        "id": "8423ca34-569c-43ba-9acb-2b9b7ca497b4",
+        "created_at": "2026-11-04T12:50:07.256954+00:00",
+        "updated_at": "2026-11-04T12:50:07.256954+00:00"
+      },
+      {
+        "memory": "John is a basketball player who signed a deal with Nike for basketball shoes and gear around July 16, 2023, and is in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6068512466548495,
+        "id": "38e272d5-3450-4db4-a52a-9c06f1fdf77b",
+        "created_at": "2026-11-04T12:51:29.956135+00:00",
+        "updated_at": "2026-11-04T12:51:29.956135+00:00"
       }
     ],
-    "search_latency_ms": 187.5,
+    "search_latency_ms": 168.8,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The memories focus exclusively on John's passion for and career in basketball, with no other sports mentioned.",
+      "generated_answer": "The memories do not specify a particular sport other than basketball, but they mention that John played **sports** with his friends in high school and supports **youth sports**.",
       "memories_evaluated": 10,
-      "reason": "The generated answer states that no other sports are mentioned, which directly contradicts the gold answer that identifies surfing as a sport John likes."
+      "reason": "The generated answer fails to mention 'surfing' and instead provides a generic statement about playing sports, which does not match the specific gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The memories do not mention any sports John likes besides basketball.",
+      "generated_answer": "The memories focus on John's basketball career and do not name any other specific sports he likes, though they mention he played sports in high school and supports youth sports programs.",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that no other sports are mentioned, which contradicts the gold answer that identifies surfing as a sport John likes."
+      "reason": "The generated answer explicitly states that no other specific sports are named, failing to recall the gold answer item 'surfing'."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The memories do not mention any sports John likes besides basketball.",
+      "generated_answer": "The memories only mention basketball.",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that no other sports are mentioned, which contradicts the gold answer that identifies surfing as a sport John likes."
+      "reason": "The generated answer claims no other sports are mentioned, whereas the gold answer identifies surfing, meaning it contains zero correct items from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The memories do not mention any sports John likes besides basketball.",
+      "generated_answer": "The memories do not specify any other sports that John likes besides basketball, although they mention he played sports with his friends in high school.",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that no other sports are mentioned, which contradicts the gold answer that identifies surfing as a sport John likes."
+      "reason": "The generated answer fails to mention 'surfing', which is the only item in the gold answer, and instead states that no other sports are specified."
     }
   }
 }

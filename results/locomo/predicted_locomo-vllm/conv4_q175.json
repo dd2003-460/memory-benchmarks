@@ -8,153 +8,153 @@
   "evidence": [
     "D29:4"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What achievement did John share with Tim in January 2024?",
     "search_results": [
       {
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.6558706009986011,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
+      },
+      {
         "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
-        "score": 0.6547747207889463,
-        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
-        "created_at": "2026-11-03T09:35:44.324677+00:00",
-        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+        "score": 0.6545845997955022,
+        "id": "5e10d455-749b-41d9-bd7f-253d7e440905",
+        "created_at": "2026-11-04T13:21:52.281438+00:00",
+        "updated_at": "2026-11-04T13:21:52.281438+00:00"
       },
       {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.6521517574849416,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+        "memory": "Tim shared a photo of a newspaper article featuring a picture of a woman while encouraging John to keep pushing for his goals on December 26, 2023.",
+        "score": 0.6332763975965886,
+        "id": "3d4c8b22-95d2-4ee0-96ed-a92b2ec6d1ab",
+        "created_at": "2026-11-04T13:19:46.682993+00:00",
+        "updated_at": "2026-11-04T13:19:46.682993+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
-        "score": 0.6389636229163018,
-        "id": "aa518470-51a7-477e-b654-4684b8d85880",
-        "created_at": "2026-11-03T09:19:18.899142+00:00",
-        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+        "memory": "Tim is reading an inspiring series about the power of friendship and loyalty, which he shared with John on December 8, 2023.",
+        "score": 0.6319426132598907,
+        "id": "544abd4b-5872-4381-92a8-2870ada0a64a",
+        "created_at": "2026-11-04T13:14:51.317124+00:00",
+        "updated_at": "2026-11-04T13:14:51.317124+00:00"
       },
       {
-        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
-        "score": 0.634543489973648,
-        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
-        "created_at": "2026-11-03T09:38:22.270742+00:00",
-        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6312792935255154,
+        "id": "b512e92a-b890-45c2-b683-f75e83006129",
+        "created_at": "2026-11-04T13:15:51.664339+00:00",
+        "updated_at": "2026-11-04T13:15:51.664339+00:00"
       },
       {
-        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
-        "score": 0.6325125245406445,
-        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
-        "created_at": "2026-11-03T09:35:29.806366+00:00",
-        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6312656775340416,
+        "id": "179d57b1-e7cd-4fc5-abb0-e8a72abc3303",
+        "created_at": "2026-11-04T13:15:45.118763+00:00",
+        "updated_at": "2026-11-04T13:15:45.118763+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
-        "score": 0.6304596695603115,
-        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
-        "created_at": "2026-11-03T09:31:15.570485+00:00",
-        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a reward for his hard work and training hours.",
+        "score": 0.626699912423333,
+        "id": "1c994921-829b-41fb-9b0d-d0c13caf25aa",
+        "created_at": "2026-11-04T13:25:45.344747+00:00",
+        "updated_at": "2026-11-04T13:25:45.344747+00:00"
       },
       {
-        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
-        "score": 0.6282494349404881,
-        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
-        "created_at": "2026-11-03T09:38:10.619051+00:00",
-        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work.",
+        "score": 0.6237543287027771,
+        "id": "54b5d711-c0a8-4b87-b637-79e61c985f78",
+        "created_at": "2026-11-04T13:26:03.617181+00:00",
+        "updated_at": "2026-11-04T13:26:03.617181+00:00"
       },
       {
-        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
-        "score": 0.6258717251885421,
-        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
-        "created_at": "2026-11-03T09:34:23.210044+00:00",
-        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+        "memory": "Tim shared a photo of a sunset over a mountain range with a few trees on October 17, 2023, while catching up with John about what he has been up to",
+        "score": 0.6236365314742476,
+        "id": "850967fd-cbed-4fb4-8e53-edb6aa563c43",
+        "created_at": "2026-11-04T13:04:00.883571+00:00",
+        "updated_at": "2026-11-04T13:04:00.883571+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
-        "score": 0.6250175145109853,
-        "id": "7a90b97f-34f8-4d2a-87d4-2f743ae3c449",
-        "created_at": "2026-11-03T09:19:26.752495+00:00",
-        "updated_at": "2026-11-03T09:19:26.752495+00:00"
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, describing the view as incredible and nature as refreshing.",
+        "score": 0.6221592114972496,
+        "id": "c2759696-6d63-444b-9417-3c7e44908312",
+        "created_at": "2026-11-04T13:04:40.765959+00:00",
+        "updated_at": "2026-11-04T13:04:40.765959+00:00"
       },
       {
-        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
-        "score": 0.6244285772434236,
-        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
-        "created_at": "2026-11-03T09:16:12.165487+00:00",
-        "updated_at": "2026-11-03T09:16:12.165487+00:00"
-      },
-      {
-        "memory": "Tim shared a photo of his desk with a bookcase full of books and various other items on October 2, 2023, while catching up with John.",
-        "score": 0.621490658124723,
-        "id": "611124a2-13c1-4a6e-b75c-1ea7a1fa2b3f",
-        "created_at": "2026-11-03T09:16:37.128451+00:00",
-        "updated_at": "2026-11-03T09:16:37.128451+00:00"
-      },
-      {
-        "memory": "John enjoys collecting basketball jerseys and shared a photo of his collection laying on a bed with Tim on October 2, 2023.",
-        "score": 0.6205814957201152,
-        "id": "ae6d04a8-ad51-4954-a1e0-2e2a6e087911",
-        "created_at": "2026-11-03T09:16:56.241611+00:00",
-        "updated_at": "2026-11-03T09:16:56.241611+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a moment where all his hard work paid off.",
+        "score": 0.6211809234434922,
+        "id": "513b3183-279f-4da1-b291-dc3a316dfd36",
+        "created_at": "2026-11-04T13:25:38.360543+00:00",
+        "updated_at": "2026-11-04T13:25:38.360543+00:00"
       },
       {
         "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.618990134189483,
-        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
-        "created_at": "2026-11-03T09:38:30.184443+00:00",
-        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+        "score": 0.6186988145631138,
+        "id": "10b9b56d-e1f0-4bf1-af35-63bcfe34a873",
+        "created_at": "2026-11-04T13:25:52.940128+00:00",
+        "updated_at": "2026-11-04T13:25:52.940128+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
-        "score": 0.6139131085208693,
-        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
-        "created_at": "2026-11-03T09:38:15.519591+00:00",
-        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+        "memory": "Tim expressed deep appreciation for John's support and friendship, sharing a photo of a bookcase filled with DVDs and games during their conversation on December 1, 2023.",
+        "score": 0.6170130002556932,
+        "id": "352bb904-7b9b-4ed7-a70a-fb83f4e4fc7f",
+        "created_at": "2026-11-04T13:11:45.399627+00:00",
+        "updated_at": "2026-11-04T13:11:45.399627+00:00"
       },
       {
-        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
-        "score": 0.6126319293862219,
-        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
-        "created_at": "2026-11-03T09:33:53.682920+00:00",
-        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+        "memory": "Tim has a bookshelf featuring favorite fantasy books including 'Harry Potter', 'Game of Thrones', and 'Lord of the Rings', which he shared with John on December 1, 2023.",
+        "score": 0.6138817621736312,
+        "id": "8b6b2e8d-d713-4dd6-9f24-f6f6ecf8d067",
+        "created_at": "2026-11-04T13:12:24.502718+00:00",
+        "updated_at": "2026-11-04T13:12:24.502718+00:00"
+      },
+      {
+        "memory": "John used sage as a spice in the chicken soup he made and shared with Tim on August 31, 2023.",
+        "score": 0.6131343254523968,
+        "id": "e4494537-cdf3-4e8c-87f0-1da1ef6050d4",
+        "created_at": "2026-11-04T12:58:23.144590+00:00",
+        "updated_at": "2026-11-04T12:58:23.144590+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company in early January 2024, describing it as a dream come true and sharing a photo of himself holding a bat next to the soda logo.",
+        "score": 0.6127296528343477,
+        "id": "4ce5d983-0035-478c-9afa-023a6c859ce1",
+        "created_at": "2026-11-04T13:25:25.401566+00:00",
+        "updated_at": "2026-11-04T13:25:25.401566+00:00"
       },
       {
         "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.61206429653296,
-        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
-        "created_at": "2026-11-03T09:38:36.414205+00:00",
-        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+        "score": 0.6117746265390237,
+        "id": "3d1f1623-4016-447b-9206-9d93333ed420",
+        "created_at": "2026-11-04T13:25:47.713036+00:00",
+        "updated_at": "2026-11-04T13:25:47.713036+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
-        "score": 0.6079167877319571,
-        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
-        "created_at": "2026-11-03T09:38:08.169886+00:00",
-        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6117746265390237,
+        "id": "d8d3626c-c322-4507-ad6b-1a2213e2c7db",
+        "created_at": "2026-11-04T13:25:41.537499+00:00",
+        "updated_at": "2026-11-04T13:25:41.537499+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.6074221978997889,
-        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
-        "created_at": "2026-11-03T09:38:17.827762+00:00",
-        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+        "memory": "John received an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6089212342359516,
+        "id": "f784d0e9-01d3-4a5f-9dfa-5cdfc8f67664",
+        "created_at": "2026-11-04T13:25:58.761330+00:00",
+        "updated_at": "2026-11-04T13:25:58.761330+00:00"
       },
       {
-        "memory": "Tim shared a photo of his fantasy novels and movies collection, showing books on a wooden floor, describing them as companions on his growth journey during a conversation with John on November 21, 2023.",
-        "score": 0.6067942905791263,
-        "id": "8a85666d-a84d-4120-8375-cb1470f879bf",
-        "created_at": "2026-11-03T09:27:37.386687+00:00",
-        "updated_at": "2026-11-03T09:27:37.386687+00:00"
-      },
-      {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
-        "score": 0.6066365517150334,
-        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
-        "created_at": "2026-11-03T09:31:05.117742+00:00",
-        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup, sharing a photo of the beautifully plated dish with Tim on August 31, 2023.",
+        "score": 0.6016866332386034,
+        "id": "b76c39e9-9a03-4491-b51b-661a0db0120e",
+        "created_at": "2026-11-04T12:58:13.484756+00:00",
+        "updated_at": "2026-11-04T12:58:13.484756+00:00"
       }
     ],
-    "search_latency_ms": 128.5,
+    "search_latency_ms": 145.9,
     "total_results": 20
   },
   "cutoff_results": {
@@ -182,9 +182,9 @@
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John shared that he secured an endorsement deal with a popular beverage company.",
+      "generated_answer": "John secured an endorsement deal with a popular beverage company.",
       "memories_evaluated": 20,
-      "reason": "The generated answer explicitly states that John secured an endorsement deal with a popular beverage company, which matches the gold answer exactly."
+      "reason": "The generated answer accurately identifies the specific achievement (endorsement deal with a popular beverage company) mentioned in the gold answer."
     }
   }
 }

@@ -10,153 +10,153 @@
     "D6:3",
     "D7:1"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Where was John between August 11 and August 15 2023?",
     "search_results": [
       {
-        "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
-        "score": 0.7641321873905738,
-        "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
-        "created_at": "2026-11-03T09:10:57.495438+00:00",
-        "updated_at": "2026-11-03T09:10:57.495438+00:00"
+        "memory": "John visited his home around August 19-25, 2023, where he caught up with family and old friends, reminiscing about their childhood together.",
+        "score": 0.7461163997968785,
+        "id": "792130d4-ef75-4fa2-8f7e-81356329985d",
+        "created_at": "2026-11-04T12:57:20.958703+00:00",
+        "updated_at": "2026-11-04T12:57:20.958703+00:00"
       },
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.7173811709462086,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John shared a photo from a recent basketball game played in a gym on June 15, 2023.",
+        "score": 0.7427175084570761,
+        "id": "139133ed-0ac3-4a61-996b-03aec74de1d4",
+        "created_at": "2026-11-04T12:50:19.737303+00:00",
+        "updated_at": "2026-11-04T12:50:19.737303+00:00"
       },
       {
-        "memory": "John took a trip to a new place around early August 2023, describing the experience as amazing and noting that he loves the energy there.",
-        "score": 0.7163172417564296,
-        "id": "942f9d4d-ecd2-435d-b081-7ad5aa9554c8",
-        "created_at": "2026-11-03T09:03:22.501097+00:00",
-        "updated_at": "2026-11-03T09:03:22.501097+00:00"
+        "memory": "John met back up with his teammates on August 15, 2023, after a trip, describing the reunion as amazing and electric because everyone missed him and he felt very welcome being back with the group.",
+        "score": 0.7311532206263744,
+        "id": "d176f840-7211-4fd9-ae35-c35d1aaf8c02",
+        "created_at": "2026-11-04T12:54:55.938040+00:00",
+        "updated_at": "2026-11-04T12:54:55.938040+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
-        "score": 0.7152259139660893,
-        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
-        "created_at": "2026-11-03T09:08:04.819221+00:00",
-        "updated_at": "2026-11-03T09:08:04.819221+00:00"
+        "memory": "John attended a local restaurant with some new teammates the week of September 11, 2023, and found it great for getting to know them better.",
+        "score": 0.7306138174375647,
+        "id": "566ac60d-3af4-4215-80b6-edc96e55f7c7",
+        "created_at": "2026-11-04T12:59:04.721767+00:00",
+        "updated_at": "2026-11-04T12:59:04.721767+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
-        "score": 0.7023051318008026,
-        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
-        "created_at": "2026-11-03T09:08:28.250746+00:00",
-        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+        "memory": "John states that his family gets together all the time and shared a photo of a group of people standing around a kitchen table on August 21, 2023",
+        "score": 0.7186747891062749,
+        "id": "52c2d2a4-1a72-4911-825e-4c2a1718b85b",
+        "created_at": "2026-11-04T12:56:27.739889+00:00",
+        "updated_at": "2026-11-04T12:56:27.739889+00:00"
       },
       {
-        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.6973667900805494,
-        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
-        "created_at": "2026-11-03T09:05:48.016894+00:00",
-        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.7092432623500495,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.6967172176468626,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "memory": "John took a trip to Chicago around August 11, 2023, describing it as awesome with lots of energy and friendly locals, and he enjoys experiencing other cultures and connecting with new people.",
+        "score": 0.7063347997823659,
+        "id": "b5a45d83-5deb-415f-b21a-d9271a780723",
+        "created_at": "2026-11-04T12:53:52.842488+00:00",
+        "updated_at": "2026-11-04T12:53:52.842488+00:00"
       },
       {
-        "memory": "John's family gets together all the time, and he values these moments as irreplaceable, sharing a photo of his group gathered around a kitchen table during their conversation on August 21, 2023.",
-        "score": 0.6957310460337227,
-        "id": "eafe505a-5932-4276-b04a-548633569e6a",
-        "created_at": "2026-11-03T09:10:08.291305+00:00",
-        "updated_at": "2026-11-03T09:10:08.291305+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.7015402244763014,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
       },
       {
-        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
-        "score": 0.6843202548505274,
-        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
-        "created_at": "2026-11-03T09:30:59.620007+00:00",
-        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+        "memory": "John is exploring endorsement opportunities with brands around June 15, 2023, and feels pumped up and rewarded by the possibility of his hard work paying off.",
+        "score": 0.6990694657457309,
+        "id": "af485448-63ab-4ff5-8678-3db67c8d8692",
+        "created_at": "2026-11-04T12:49:48.732766+00:00",
+        "updated_at": "2026-11-04T12:49:48.732766+00:00"
       },
       {
-        "memory": "John has a pair of lucky basketball shoes that have been with him through good and bad times, believing every mark on them has a story, and shared a photo of the sneakers in a box on August 11, 2023.",
-        "score": 0.6818883337718742,
-        "id": "092137e7-b29c-4cd1-87c2-ca469b09b8a0",
-        "created_at": "2026-11-03T09:07:19.354031+00:00",
-        "updated_at": "2026-11-03T09:07:19.354031+00:00"
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023, which he described as a fun time and expressed enjoyment of being with people who share his passion for the series.",
+        "score": 0.6958003174994768,
+        "id": "35b42a73-7db5-463c-ab61-e27da4342260",
+        "created_at": "2026-11-04T13:14:33.328924+00:00",
+        "updated_at": "2026-11-04T13:14:33.328924+00:00"
       },
       {
-        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
-        "score": 0.668415800422027,
-        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
-        "created_at": "2026-11-03T09:08:31.358666+00:00",
-        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+        "memory": "John played an intense basketball game the week of August 2, 2023, which his team won by a tight score, highlighting the excitement of scoring the final basket and hearing the crowd cheer.",
+        "score": 0.6952898865008191,
+        "id": "e0fedc22-0c28-481a-a41b-42949ddec143",
+        "created_at": "2026-11-04T12:53:08.503165+00:00",
+        "updated_at": "2026-11-04T12:53:08.503165+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.6520576223089976,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+        "memory": "John shared a photo on August 17, 2023, of a basketball with autographs from his teammates that they gave him when they met up, describing it as a sign of their friendship and mutual love for each other.",
+        "score": 0.683378775274177,
+        "id": "e4f2f6de-22c9-44ff-aaf6-68d7cb428845",
+        "created_at": "2026-11-04T12:55:13.565137+00:00",
+        "updated_at": "2026-11-04T12:55:13.565137+00:00"
+      },
+      {
+        "memory": "John loves discovering new cities and shared a photo of the New York City skyline from one of his trips to NYC on August 26, 2023",
+        "score": 0.6808303721350295,
+        "id": "bbacb9df-d3c0-4c7d-9c7e-8ec5f9ca6c49",
+        "created_at": "2026-11-04T12:57:31.423209+00:00",
+        "updated_at": "2026-11-04T12:57:31.423209+00:00"
+      },
+      {
+        "memory": "John used sage as a spice in the chicken soup he made and shared with Tim on August 31, 2023.",
+        "score": 0.6753920168673324,
+        "id": "e4494537-cdf3-4e8c-87f0-1da1ef6050d4",
+        "created_at": "2026-11-04T12:58:23.144590+00:00",
+        "updated_at": "2026-11-04T12:58:23.144590+00:00"
+      },
+      {
+        "memory": "John and his companion Anthony attended a charity event where they participated in an intense Harry Potter trivia contest around August 2, 2023. They did alright, but a super-nerd participant won a signed Harry Potter book as the prize.",
+        "score": 0.6686261183981579,
+        "id": "071ef919-aef0-4560-9d20-114fdd54bd51",
+        "created_at": "2026-11-04T12:52:47.017619+00:00",
+        "updated_at": "2026-11-04T12:52:47.017619+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023, following a conversation with John on August 31, 2023.",
+        "score": 0.6642607839114633,
+        "id": "40ab9c8b-0163-418e-9480-a29bc4baeca7",
+        "created_at": "2026-11-04T12:58:26.535126+00:00",
+        "updated_at": "2026-11-04T12:58:26.535126+00:00"
+      },
+      {
+        "memory": "Tim added New York City to his personal travel list on August 26, 2023, after John shared photos and positive experiences of the city, expressing excitement about exploring and trying out new things there.",
+        "score": 0.6587209412051893,
+        "id": "ee2129fe-e7b4-4f82-8e00-ea733c7fe334",
+        "created_at": "2026-11-04T12:57:41.861232+00:00",
+        "updated_at": "2026-11-04T12:57:41.861232+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.6493598194628264,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
-        "score": 0.6379776974772876,
-        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
-        "created_at": "2026-11-03T09:23:36.618818+00:00",
-        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+        "score": 0.6337903792403236,
+        "id": "36d81a5f-e70a-49d2-8849-47d61edb22c1",
+        "created_at": "2026-11-04T13:08:05.745534+00:00",
+        "updated_at": "2026-11-04T13:08:05.745534+00:00"
       },
       {
-        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
-        "score": 0.6193035775991712,
-        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
-        "created_at": "2026-11-03T09:33:32.671038+00:00",
-        "updated_at": "2026-11-03T09:33:32.671038+00:00"
-      },
-      {
-        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
-        "score": 0.6161466031514207,
-        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
-        "created_at": "2026-11-03T09:33:56.779906+00:00",
-        "updated_at": "2026-11-03T09:33:56.779906+00:00"
-      },
-      {
-        "memory": "On December 15, 2023, John reached a recovery milestone at the gym where he was able to jog without pain for the first time after his injury.",
-        "score": 0.6097042321067836,
-        "id": "ec43659c-dae4-48fe-9413-e0d23051e84e",
-        "created_at": "2026-11-03T09:33:23.063390+00:00",
-        "updated_at": "2026-11-03T09:33:23.063390+00:00"
-      },
-      {
-        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
-        "score": 0.6049225976983373,
-        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
-        "created_at": "2026-11-03T09:34:03.411974+00:00",
-        "updated_at": "2026-11-03T09:34:03.411974+00:00"
-      },
-      {
-        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
-        "score": 0.6031395914416198,
-        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
-        "created_at": "2026-11-03T09:33:32.675244+00:00",
-        "updated_at": "2026-11-03T09:33:32.675244+00:00"
-      },
-      {
-        "memory": "On December 15, 2023, John reached a rehabilitation milestone at the gym by jogging without pain for the first time since his injury, which he found relieving.",
-        "score": 0.5960112969743185,
-        "id": "a3b8b924-e67b-4759-a2b1-8532715ea2d5",
-        "created_at": "2026-11-03T09:33:27.519129+00:00",
-        "updated_at": "2026-11-03T09:33:27.519129+00:00"
-      },
-      {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
-        "score": 0.5945318229636273,
-        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
-        "created_at": "2026-11-03T09:33:23.067593+00:00",
-        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+        "memory": "John just finished an amazing fantasy series around November 11, 2023, describing it as a wild ride with many twists and praising the author's ability to create awesome storylines and characters.",
+        "score": 0.6248862771385211,
+        "id": "829d182c-0f5a-46e7-9bc7-d4e0a4cc4deb",
+        "created_at": "2026-11-04T13:08:20.395422+00:00",
+        "updated_at": "2026-11-04T13:08:20.395422+00:00"
       }
     ],
-    "search_latency_ms": 110.3,
+    "search_latency_ms": 116.3,
     "total_results": 20
   },
   "cutoff_results": {

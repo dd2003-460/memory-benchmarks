@@ -8,153 +8,153 @@
   "evidence": [
     "D7:1"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When did John meet with his teammates after returning from Chicago?",
     "search_results": [
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
-        "score": 0.893913389551995,
-        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
-        "created_at": "2026-11-03T09:08:28.250746+00:00",
-        "updated_at": "2026-11-03T09:08:28.250746+00:00"
+        "memory": "John took a trip to Chicago around August 11, 2023, describing it as awesome with lots of energy and friendly locals, and he enjoys experiencing other cultures and connecting with new people.",
+        "score": 0.8355192865414038,
+        "id": "b5a45d83-5deb-415f-b21a-d9271a780723",
+        "created_at": "2026-11-04T12:53:52.842488+00:00",
+        "updated_at": "2026-11-04T12:53:52.842488+00:00"
       },
       {
-        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.832911022453749,
-        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
-        "created_at": "2026-11-03T09:05:48.016894+00:00",
-        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+        "memory": "John met back up with his teammates on August 15, 2023, after a trip, describing the reunion as amazing and electric because everyone missed him and he felt very welcome being back with the group.",
+        "score": 0.6845967263701045,
+        "id": "d176f840-7211-4fd9-ae35-c35d1aaf8c02",
+        "created_at": "2026-11-04T12:54:55.938040+00:00",
+        "updated_at": "2026-11-04T12:54:55.938040+00:00"
       },
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.6786703917184507,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.6736585200658021,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip, describing the atmosphere as electric and feeling very welcome to be back with them.",
-        "score": 0.6690830684638709,
-        "id": "41252f46-a36e-4c9e-847c-c4eb10ab2d37",
-        "created_at": "2026-11-03T09:08:04.819221+00:00",
-        "updated_at": "2026-11-03T09:08:04.819221+00:00"
-      },
-      {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.6631507273361507,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.6651880616364402,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
         "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.6598980221712856,
-        "id": "33a824d5-ab04-4964-9642-09d8c0ea6573",
-        "created_at": "2026-11-03T09:14:22.471894+00:00",
-        "updated_at": "2026-11-03T09:14:22.471894+00:00"
+        "score": 0.6554042964869051,
+        "id": "24e82f5e-1760-4cc8-b2c8-32702e6c3625",
+        "created_at": "2026-11-04T12:59:28.662871+00:00",
+        "updated_at": "2026-11-04T12:59:28.662871+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
-        "score": 0.6595750407054783,
-        "id": "e0598ef4-4455-4e88-a039-fcf769880b0d",
-        "created_at": "2026-11-03T09:14:37.512820+00:00",
-        "updated_at": "2026-11-03T09:14:37.512820+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who connected over their shared love for basketball.",
+        "score": 0.6554042964869051,
+        "id": "5be78a6d-688d-4124-8944-fd34d2fa67ae",
+        "created_at": "2026-11-04T12:59:17.790540+00:00",
+        "updated_at": "2026-11-04T12:59:17.790540+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 14, 2023, and described them as great friends who share a love for basketball.",
+        "score": 0.648679660812341,
+        "id": "fa5e7744-9331-47d6-9c0d-20dacd3d361c",
+        "created_at": "2026-11-04T12:59:23.869532+00:00",
+        "updated_at": "2026-11-04T12:59:23.869532+00:00"
+      },
+      {
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.6483540714059528,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
+      },
+      {
+        "memory": "John shared a photo on August 17, 2023, of a basketball with autographs from his teammates that they gave him when they met up, describing it as a sign of their friendship and mutual love for each other.",
+        "score": 0.6381493117084869,
+        "id": "e4f2f6de-22c9-44ff-aaf6-68d7cb428845",
+        "created_at": "2026-11-04T12:55:13.565137+00:00",
+        "updated_at": "2026-11-04T12:55:13.565137+00:00"
       },
       {
         "memory": "John attended a local restaurant with some new teammates around September 14, 2023, and described it as a great opportunity to get to know them better.",
-        "score": 0.6420589481853873,
-        "id": "374290d5-faaf-46e5-a489-595626691cd2",
-        "created_at": "2026-11-03T09:14:03.760703+00:00",
-        "updated_at": "2026-11-03T09:14:03.760703+00:00"
+        "score": 0.6378093563405415,
+        "id": "abdf9b80-2f39-48d9-ad75-8f919827f90f",
+        "created_at": "2026-11-04T12:58:57.946938+00:00",
+        "updated_at": "2026-11-04T12:58:57.946938+00:00"
       },
       {
-        "memory": "John attended a local restaurant with some new teammates around September 14, 2023, describing it as a great opportunity to get to know them better.",
-        "score": 0.638783514478416,
-        "id": "cd93f415-b442-4cbf-99a0-7da883e389d3",
-        "created_at": "2026-11-03T09:13:52.078795+00:00",
-        "updated_at": "2026-11-03T09:13:52.078795+00:00"
+        "memory": "John connected with his new teammates over their shared love for basketball and considers them great friends.",
+        "score": 0.6352706541276432,
+        "id": "dc311453-d58e-49f3-9b27-1b619fe464f0",
+        "created_at": "2026-11-04T12:59:10.999237+00:00",
+        "updated_at": "2026-11-04T12:59:10.999237+00:00"
       },
       {
-        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a lot of fun together.",
-        "score": 0.6337775516957219,
-        "id": "fffc91b3-4c94-45a3-92c3-733491375dc3",
-        "created_at": "2026-11-03T09:14:03.763922+00:00",
-        "updated_at": "2026-11-03T09:14:03.763922+00:00"
+        "memory": "John attended a local restaurant with some new teammates the week of September 11, 2023, and found it great for getting to know them better.",
+        "score": 0.6346272449821462,
+        "id": "566ac60d-3af4-4215-80b6-edc96e55f7c7",
+        "created_at": "2026-11-04T12:59:04.721767+00:00",
+        "updated_at": "2026-11-04T12:59:04.721767+00:00"
       },
       {
-        "memory": "John's basketball teammates gave him a signed basketball as a gift when they met on August 15, 2023, which he describes as a sign of their friendship and mutual love for the game.",
-        "score": 0.6271162592421683,
-        "id": "9a724271-2178-4aa1-a8d3-a78d5d561c5c",
-        "created_at": "2026-11-03T09:08:31.358666+00:00",
-        "updated_at": "2026-11-03T09:08:31.358666+00:00"
+        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a ton of fun together.",
+        "score": 0.6280019145341568,
+        "id": "15ffd4fa-8496-4acd-af71-edb9902e6b20",
+        "created_at": "2026-11-04T12:59:04.726269+00:00",
+        "updated_at": "2026-11-04T12:59:04.726269+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6212110227072241,
-        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
-        "created_at": "2026-11-03T09:33:27.522504+00:00",
-        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+        "memory": "John's teammates come from all over the world, which he enjoys as it allows him to learn about different cultures and meet people with diverse backgrounds.",
+        "score": 0.6165599663526107,
+        "id": "421a1d07-fd72-441e-a6be-f3b4c69ee4dc",
+        "created_at": "2026-11-04T13:13:44.771451+00:00",
+        "updated_at": "2026-11-04T13:13:44.771451+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6212110227072241,
-        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
-        "created_at": "2026-11-03T09:33:30.168403+00:00",
-        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to pain-free jogging after his ankle injury.",
+        "score": 0.6165525688021851,
+        "id": "e4193c5e-949c-4d9c-b4e6-36c2b21ca480",
+        "created_at": "2026-11-04T13:17:01.145042+00:00",
+        "updated_at": "2026-11-04T13:17:01.145042+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
-        "score": 0.6197081631651586,
-        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
-        "created_at": "2026-11-03T09:33:32.675244+00:00",
-        "updated_at": "2026-11-03T09:33:32.675244+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.61459372024344,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.6098125726200873,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.6055629807752415,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
       },
       {
-        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
-        "score": 0.6010427608920869,
-        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
-        "created_at": "2026-11-03T09:14:13.745108+00:00",
-        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.6055629807752415,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.598614193930763,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.6047528718063054,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
-        "score": 0.5965584058063562,
-        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
-        "created_at": "2026-11-03T09:33:23.067593+00:00",
-        "updated_at": "2026-11-03T09:33:23.067593+00:00"
-      },
-      {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.5947974476516713,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
-      },
-      {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.5920448355122258,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.6025587767353122,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
       }
     ],
-    "search_latency_ms": 125.6,
+    "search_latency_ms": 131.9,
     "total_results": 20
   },
   "cutoff_results": {

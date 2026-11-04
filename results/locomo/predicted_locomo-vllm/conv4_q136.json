@@ -8,183 +8,183 @@
   "evidence": [
     "D18:10"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What did Tim say about his injury on 16 November, 2023?",
     "search_results": [
       {
-        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them, while expressing support for John's ankle injury recovery.",
-        "score": 0.744309537723429,
-        "id": "7e4f8efe-648b-4720-b953-c3efd59464fc",
-        "created_at": "2026-11-03T09:25:03.762407+00:00",
-        "updated_at": "2026-11-03T09:25:03.762407+00:00"
+        "memory": "Tim was swamped with exams during the week of November 13, 2023, but remained optimistic and diligent in his preparation",
+        "score": 0.7117388420480083,
+        "id": "3b9812de-083d-4183-8292-e2f88aa76f26",
+        "created_at": "2026-11-04T13:09:20.656168+00:00",
+        "updated_at": "2026-11-04T13:09:20.656168+00:00"
       },
       {
-        "memory": "Tim is currently swamped with exams as of November 16, 2023, and is putting in his best effort while feeling optimistic",
-        "score": 0.7235057575933317,
-        "id": "8971c3d4-e27e-4903-ad3c-698455859fc7",
-        "created_at": "2026-11-03T09:26:25.478420+00:00",
-        "updated_at": "2026-11-03T09:26:25.478420+00:00"
+        "memory": "Tim is a student who was swamped with studies and projects as of November 2023.",
+        "score": 0.7065569673107139,
+        "id": "4644f301-b986-42f2-9a3f-71acf6747ddc",
+        "created_at": "2026-11-04T13:09:55.317413+00:00",
+        "updated_at": "2026-11-04T13:09:55.317413+00:00"
       },
       {
-        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them diligently and feeling optimistic about putting in his best effort",
-        "score": 0.7188113913238773,
-        "id": "edcf5377-23c7-4a98-b2a0-48a8a2b278e7",
-        "created_at": "2026-11-03T09:25:27.753801+00:00",
-        "updated_at": "2026-11-03T09:25:27.753801+00:00"
+        "memory": "John suffered an ankle injury around mid-November 2023 that he describes as rough but not too serious according to his doctor, and he is staying positive while recovering",
+        "score": 0.698191691782778,
+        "id": "6a5c3cf3-bf7c-472d-8e2a-21a518b267ed",
+        "created_at": "2026-11-04T13:09:20.654103+00:00",
+        "updated_at": "2026-11-04T13:09:20.654103+00:00"
       },
       {
-        "memory": "John sustained an ankle injury around mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery",
-        "score": 0.7122461426125998,
-        "id": "f6722ccc-a90d-48e0-a21e-5e77ecbe6ee1",
-        "created_at": "2026-11-03T09:25:27.751522+00:00",
-        "updated_at": "2026-11-03T09:25:27.751522+00:00"
-      },
-      {
-        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
-        "score": 0.7068753744027668,
-        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
-        "created_at": "2026-11-03T09:29:03.711964+00:00",
-        "updated_at": "2026-11-03T09:29:03.711964+00:00"
+        "memory": "Tim is currently swamped with exams as of November 16, 2023, but is plowing through them.",
+        "score": 0.697260667062886,
+        "id": "10c0ce1b-1dca-43fb-8de1-c46c5df2c6ca",
+        "created_at": "2026-11-04T13:08:55.017454+00:00",
+        "updated_at": "2026-11-04T13:08:55.017454+00:00"
       },
       {
         "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.704981281235329,
-        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
-        "created_at": "2026-11-03T09:28:35.439717+00:00",
-        "updated_at": "2026-11-03T09:28:35.439717+00:00"
-      },
-      {
-        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.704981281235329,
-        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
-        "created_at": "2026-11-03T09:28:32.195322+00:00",
-        "updated_at": "2026-11-03T09:28:32.195322+00:00"
-      },
-      {
-        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making the week tough but remains positive about it.",
-        "score": 0.7043675135268812,
-        "id": "4ab884ec-cd7c-4fa3-a73a-93d4a6dbd5ee",
-        "created_at": "2026-11-03T09:25:54.231060+00:00",
-        "updated_at": "2026-11-03T09:25:54.231060+00:00"
-      },
-      {
-        "memory": "Tim was swamped with exams around November 16, 2023, but felt optimistic and was working diligently through them.",
-        "score": 0.7041878222079322,
-        "id": "4524ba1a-d4ff-4438-8925-68cf161a8d62",
-        "created_at": "2026-11-03T09:25:54.237645+00:00",
-        "updated_at": "2026-11-03T09:25:54.237645+00:00"
-      },
-      {
-        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
-        "score": 0.7025031144978968,
-        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
-        "created_at": "2026-11-03T09:27:28.115475+00:00",
-        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+        "score": 0.6971118651175354,
+        "id": "56068622-2963-42a4-a0b2-1123328db13b",
+        "created_at": "2026-11-04T13:10:52.600725+00:00",
+        "updated_at": "2026-11-04T13:10:52.600725+00:00"
       },
       {
         "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
-        "score": 0.7006380605069259,
-        "id": "c8cb7b1c-f738-48a0-b413-f6fc90a653c6",
-        "created_at": "2026-11-03T09:25:00.270438+00:00",
-        "updated_at": "2026-11-03T09:25:00.270438+00:00"
+        "score": 0.6941588991136166,
+        "id": "8f9e3789-737a-4a4b-8962-30bd73f33d23",
+        "created_at": "2026-11-04T13:09:07.226036+00:00",
+        "updated_at": "2026-11-04T13:09:07.226036+00:00"
       },
       {
-        "memory": "Tim is swamped with exams in November 2023 and is plowing through them while feeling optimistic and working diligently.",
-        "score": 0.698180157272952,
-        "id": "79dd20b7-4ef7-4285-9d0e-7be1d1b6354c",
-        "created_at": "2026-11-03T09:25:39.144555+00:00",
-        "updated_at": "2026-11-03T09:25:39.144555+00:00"
+        "memory": "Tim is a student preparing for exams in November 2023, feeling optimistic and working diligently to put in his best effort.",
+        "score": 0.6918220577120289,
+        "id": "a0e3d206-b391-4de7-b28e-980bffeaefce",
+        "created_at": "2026-11-04T13:09:33.070459+00:00",
+        "updated_at": "2026-11-04T13:09:33.070459+00:00"
       },
       {
-        "memory": "John suffered an ankle injury around mid-November 2023 that he describes as rough but not too serious according to his doctor",
-        "score": 0.6975558527104448,
-        "id": "7eb80dbf-bec5-4d47-94d2-9d8aa584b9ed",
-        "created_at": "2026-11-03T09:26:25.476199+00:00",
-        "updated_at": "2026-11-03T09:26:25.476199+00:00"
+        "memory": "As of November 16, 2023, Tim is swamped with exams but is plowing through them, feeling optimistic and working diligently.",
+        "score": 0.6897200179553641,
+        "id": "cedf9d18-3ac5-4d29-9fc8-c25fcb49cdc5",
+        "created_at": "2026-11-04T13:09:11.550936+00:00",
+        "updated_at": "2026-11-04T13:09:11.550936+00:00"
       },
       {
         "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
-        "score": 0.6964758733893858,
-        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
-        "created_at": "2026-11-03T09:28:43.322745+00:00",
-        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+        "score": 0.6885423903306627,
+        "id": "d25242d9-4d08-4193-890a-6797378bc7e5",
+        "created_at": "2026-11-04T13:11:23.206083+00:00",
+        "updated_at": "2026-11-04T13:11:23.206083+00:00"
       },
       {
-        "memory": "John is currently dealing with an ankle injury as of mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
-        "score": 0.6934621831876517,
-        "id": "8bd4fd03-3bf7-43dd-8f6e-4abd9e40edb6",
-        "created_at": "2026-11-03T09:25:39.142562+00:00",
-        "updated_at": "2026-11-03T09:25:39.142562+00:00"
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which has made the week tough for him, but he remains positive about his recovery.",
+        "score": 0.6882748832173362,
+        "id": "c046a5ac-015c-48f6-82f7-ab0917c8d712",
+        "created_at": "2026-11-04T13:08:52.399169+00:00",
+        "updated_at": "2026-11-04T13:08:52.399169+00:00"
       },
       {
-        "memory": "In the week preceding November 21, 2023, Tim experienced a setback when he tried writing a story based on his experiences in the UK but it did not go the way he wanted.",
-        "score": 0.6800685574571418,
-        "id": "c91d1766-9938-4df9-a4aa-2f5845db86b3",
-        "created_at": "2026-11-03T09:27:06.136221+00:00",
-        "updated_at": "2026-11-03T09:27:06.136221+00:00"
+        "memory": "John is currently dealing with an ankle injury as of mid-November 2023, which he describes as making for a tough week, but he remains positive about his recovery.",
+        "score": 0.6882253883309144,
+        "id": "6f4371e7-1d42-4375-bb6b-b00ec68b8fa9",
+        "created_at": "2026-11-04T13:09:02.423908+00:00",
+        "updated_at": "2026-11-04T13:09:02.423908+00:00"
       },
       {
-        "memory": "Tim is an avid reader who shared a photo of his worn copy of 'A Storm of Swords' from the Game of Thrones series during their conversation on November 11, 2023.",
-        "score": 0.6782262633937572,
-        "id": "d9c91d3e-5e91-4d33-99af-2d2ebe4c5ade",
-        "created_at": "2026-11-03T09:24:27.732337+00:00",
-        "updated_at": "2026-11-03T09:24:27.732337+00:00"
+        "memory": "John is currently dealing with an ankle injury as of November 16, 2023, which has made the week tough for him, but he is staying positive about his recovery.",
+        "score": 0.6880347978236804,
+        "id": "e59654d6-2d00-4ee9-a6ec-52498d563de2",
+        "created_at": "2026-11-04T13:08:59.540872+00:00",
+        "updated_at": "2026-11-04T13:08:59.540872+00:00"
       },
       {
-        "memory": "Tim has been swamped with studies and projects as of November 21, 2023, indicating a busy academic or professional schedule.",
-        "score": 0.6742235147905857,
-        "id": "58b10661-5353-4ba4-af66-1332b5f6d8b2",
-        "created_at": "2026-11-03T09:27:06.130911+00:00",
-        "updated_at": "2026-11-03T09:27:06.130911+00:00"
+        "memory": "Tim finds reading fantasy books in a cozy spot to be a blissful experience that feels like being in another world, and he shared a photo of his living room featuring a brown couch and white ottoman on July 16, 2023.",
+        "score": 0.6841836166198387,
+        "id": "50afd230-6900-4cfd-b119-45f5dd7bdae3",
+        "created_at": "2026-11-04T12:52:17.975085+00:00",
+        "updated_at": "2026-11-04T12:52:17.975085+00:00"
+      },
+      {
+        "memory": "John is currently dealing with an injury that prevents him from playing basketball, which he finds frustrating as he hates not being on the court, but a doctor told him around November 16, 2023 that it is not too serious and he is staying positive while pushing through.",
+        "score": 0.6838542341798813,
+        "id": "8a13c51f-01b6-4cd5-a111-b994aaf812cb",
+        "created_at": "2026-11-04T13:09:30.347816+00:00",
+        "updated_at": "2026-11-04T13:09:30.347816+00:00"
+      },
+      {
+        "memory": "Tim is swamped with exams in mid-November 2023 but is plowing through them diligently and feeling optimistic about his performance.",
+        "score": 0.6832363165058843,
+        "id": "e811dfae-ee67-4914-8db3-c79b6be3ab6f",
+        "created_at": "2026-11-04T13:09:02.427111+00:00",
+        "updated_at": "2026-11-04T13:09:02.427111+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023 that caused him to doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.6752179693990079,
+        "id": "d2140282-08e6-4382-8d97-9e96d21a6972",
+        "created_at": "2026-11-04T13:10:48.964008+00:00",
+        "updated_at": "2026-11-04T13:10:48.964008+00:00"
+      },
+      {
+        "memory": "Tim has lived in the UK and attempted to write a story based on those experiences around mid-November 2023, but felt the result did not meet his expectations.",
+        "score": 0.6744223616420106,
+        "id": "45f2f2cc-e92f-4a7d-bd52-61c58fca209f",
+        "created_at": "2026-11-04T13:09:55.322282+00:00",
+        "updated_at": "2026-11-04T13:09:55.322282+00:00"
       },
       {
         "memory": "As of November 21, 2023, John is recovering from an injury and describes the process as tough but is staying positive and taking it slow.",
-        "score": 0.6695265719250891,
-        "id": "6df55e9a-8026-4617-a2ce-cf7d9d550263",
-        "created_at": "2026-11-03T09:27:02.754895+00:00",
-        "updated_at": "2026-11-03T09:27:02.754895+00:00"
+        "score": 0.6630353356700358,
+        "id": "b81bd3e5-d5c8-43b6-9b0b-86fe6459e69f",
+        "created_at": "2026-11-04T13:09:36.816556+00:00",
+        "updated_at": "2026-11-04T13:09:36.816556+00:00"
+      },
+      {
+        "memory": "John's ankle injury, which he was dealing with as of November 16, 2023, was assessed by a doctor who said it is not too serious.",
+        "score": 0.6626508153165688,
+        "id": "124c4c14-9d78-4d0e-96f4-00e85e055573",
+        "created_at": "2026-11-04T13:09:14.350932+00:00",
+        "updated_at": "2026-11-04T13:09:14.350932+00:00"
       },
       {
         "memory": "Tim is a fan of LeBron James and was inspired by an epic block he made in a Finals game a few years prior to November 2023, which changed the game and led to a win.",
-        "score": 0.6649618291814883,
-        "id": "570e0548-dc37-425b-9586-3c5d8377eb33",
-        "created_at": "2026-11-03T09:22:32.321424+00:00",
-        "updated_at": "2026-11-03T09:22:32.321424+00:00"
+        "score": 0.6571543308706496,
+        "id": "aa8b4b50-76ee-4a7e-a958-eecc2f278c6f",
+        "created_at": "2026-11-04T13:07:32.540590+00:00",
+        "updated_at": "2026-11-04T13:07:32.540590+00:00"
       }
     ],
-    "search_latency_ms": 128.6,
+    "search_latency_ms": 146.4,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Tim expressed support for John's ankle injury recovery.",
+      "generated_answer": "Tim did not have an injury; he stated that he was swamped with exams. It was John who was dealing with an ankle injury.",
       "memories_evaluated": 10,
-      "reason": "The generated answer incorrectly attributes the injury to John and describes Tim's reaction as support, whereas the gold answer states Tim's own injury was described by a doctor as not too serious; the core facts and referents do not match."
+      "reason": "The generated answer explicitly denies that Tim had an injury and attributes the injury to John, which directly contradicts the gold answer stating that Tim's doctor said his injury was not too serious."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Tim expressed support for John's ankle injury recovery.",
+      "generated_answer": "Tim did not mention an injury; he mentioned being swamped with exams. It was John who was dealing with an ankle injury on that date.",
       "memories_evaluated": 20,
-      "reason": "The generated answer incorrectly attributes the injury to John and describes Tim's reaction as support, whereas the gold answer states Tim's own injury was described by a doctor as not too serious; the core facts and referents do not match."
+      "reason": "The generated answer explicitly denies the fact stated in the gold answer (that Tim mentioned an injury and the doctor's assessment) and attributes the injury to a different person, meaning it contains zero correct items from the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Tim expressed support for John's ankle injury recovery.",
+      "generated_answer": "Tim did not mention an injury; he mentioned being swamped with exams. It was John who was dealing with an ankle injury on that date.",
       "memories_evaluated": 20,
-      "reason": "The generated answer incorrectly attributes the injury to John and describes Tim's reaction as support, whereas the gold answer states Tim's own injury was described by a doctor as not too serious; the core facts and referents do not match."
+      "reason": "The generated answer explicitly denies the fact stated in the gold answer (that Tim mentioned an injury and the doctor's assessment) and attributes the injury to a different person, meaning it contains zero correct items from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Tim expressed support for John's ankle injury recovery.",
+      "generated_answer": "Tim did not mention an injury; he mentioned being swamped with exams. It was John who was dealing with an ankle injury on that date.",
       "memories_evaluated": 20,
-      "reason": "The generated answer incorrectly attributes the injury to John and describes Tim's reaction as support, whereas the gold answer states Tim's own injury was described by a doctor as not too serious; the core facts and referents do not match."
+      "reason": "The generated answer explicitly denies the fact stated in the gold answer (that Tim mentioned an injury and the doctor's assessment) and attributes the injury to a different person, meaning it contains zero correct items from the gold answer."
     }
   }
 }

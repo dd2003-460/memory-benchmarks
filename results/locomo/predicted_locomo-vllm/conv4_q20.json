@@ -11,183 +11,183 @@
     "D6:1",
     "D6:3"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which city was John in before traveling to Chicago?",
     "search_results": [
       {
-        "memory": "John's trip to a new place in early August 2023 was to Chicago, where he found the city to have great energy and friendly locals, enjoying the opportunity to experience other cultures and connect with new people.",
-        "score": 0.8709946735846044,
-        "id": "f7f2de1f-d702-446d-a96c-4a61732f7ba6",
-        "created_at": "2026-11-03T09:05:48.016894+00:00",
-        "updated_at": "2026-11-03T09:05:48.016894+00:00"
+        "memory": "John took a trip to Chicago around August 11, 2023, describing it as awesome with lots of energy and friendly locals, and he enjoys experiencing other cultures and connecting with new people.",
+        "score": 0.8587161577847983,
+        "id": "b5a45d83-5deb-415f-b21a-d9271a780723",
+        "created_at": "2026-11-04T12:53:52.842488+00:00",
+        "updated_at": "2026-11-04T12:53:52.842488+00:00"
       },
       {
-        "memory": "John met back up with his basketball teammates on August 15, 2023, after returning from a trip to Chicago, describing the atmosphere as electric and feeling very welcome being back with the group.",
-        "score": 0.7711790758014834,
-        "id": "402e95f8-6288-4233-a1ee-f20926e212e7",
-        "created_at": "2026-11-03T09:08:28.250746+00:00",
-        "updated_at": "2026-11-03T09:08:28.250746+00:00"
-      },
-      {
-        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences.",
-        "score": 0.7301361830976408,
-        "id": "d8e4f71b-12e2-442d-8ab3-5ca18ea41b5b",
-        "created_at": "2026-11-03T09:11:15.445268+00:00",
-        "updated_at": "2026-11-03T09:11:15.445268+00:00"
-      },
-      {
-        "memory": "John had trouble figuring out the subway system during his New York City trip but found it easy after someone helped explain it to him.",
-        "score": 0.7294757856671692,
-        "id": "690f963c-a233-499b-abbc-a4b36ff8518c",
-        "created_at": "2026-11-03T09:12:53.917508+00:00",
-        "updated_at": "2026-11-03T09:12:53.917508+00:00"
+        "memory": "John went on a trip to New York City where he initially struggled with the subway system until someone helped explain how it works.",
+        "score": 0.7308030158759269,
+        "id": "ea4c512b-4b2e-4a3c-991b-bf346905d2f9",
+        "created_at": "2026-11-04T12:58:35.912541+00:00",
+        "updated_at": "2026-11-04T12:58:35.912541+00:00"
       },
       {
         "memory": "John had trouble figuring out the subway system during his New York City trip until someone helped explain it to him.",
-        "score": 0.728679288996167,
-        "id": "db44291c-199b-47d5-93d2-258f473b63d8",
-        "created_at": "2026-11-03T09:12:31.248483+00:00",
-        "updated_at": "2026-11-03T09:12:31.248483+00:00"
+        "score": 0.726496995755505,
+        "id": "6ad1938a-c9f7-4b56-89b0-25e186eec62b",
+        "created_at": "2026-11-04T12:58:31.331962+00:00",
+        "updated_at": "2026-11-04T12:58:31.331962+00:00"
       },
       {
-        "memory": "John shared a photo of the New York City skyline from one of his trips, noting that he loves discovering new cities.",
-        "score": 0.7284818893566815,
-        "id": "b4c39f25-25cd-4693-9b64-0c7680c286f4",
-        "created_at": "2026-11-03T09:11:10.061156+00:00",
-        "updated_at": "2026-11-03T09:11:10.061156+00:00"
+        "memory": "John described his trip to New York City as amazing, noting that everywhere he went there was something new and exciting, and highlighted exploring the city and trying all the restaurants as awesome experiences, calling it a must-visit destination.",
+        "score": 0.7219392023017789,
+        "id": "58e9d46d-4df4-4e6f-9a6d-40f66ef8d563",
+        "created_at": "2026-11-04T12:57:38.269398+00:00",
+        "updated_at": "2026-11-04T12:57:38.269398+00:00"
       },
       {
-        "memory": "John initially had trouble navigating the New York City subway during his trip but found it easy after someone helped explain how it works.",
-        "score": 0.7275409574524722,
-        "id": "0f685ceb-7f23-4d5d-9a7f-79f2750893fe",
-        "created_at": "2026-11-03T09:11:36.900149+00:00",
-        "updated_at": "2026-11-03T09:11:36.900149+00:00"
+        "memory": "John initially had trouble navigating the New York City subway during his trip but found it easy to use after someone helped explain how it worked.",
+        "score": 0.7145022344643125,
+        "id": "c1b22cb8-681b-4211-b8af-2ad9581c5236",
+        "created_at": "2026-11-04T12:57:58.289431+00:00",
+        "updated_at": "2026-11-04T12:57:58.289431+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.7240691979853947,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+        "memory": "John loves discovering new cities and shared a photo of the New York City skyline from one of his trips to NYC on August 26, 2023",
+        "score": 0.6990819769734112,
+        "id": "bbacb9df-d3c0-4c7d-9c7e-8ec5f9ca6c49",
+        "created_at": "2026-11-04T12:57:31.423209+00:00",
+        "updated_at": "2026-11-04T12:57:31.423209+00:00"
       },
       {
-        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after seeing a photo shared by John.",
-        "score": 0.6705980551752937,
-        "id": "54464271-2eb0-415f-bf0b-663e30178077",
-        "created_at": "2026-11-03T09:11:12.594530+00:00",
-        "updated_at": "2026-11-03T09:11:12.594530+00:00"
+        "memory": "Tim added New York City to his personal travel list on August 26, 2023, after John shared photos and positive experiences of the city, expressing excitement about exploring and trying out new things there.",
+        "score": 0.6931224804171723,
+        "id": "ee2129fe-e7b4-4f82-8e00-ea733c7fe334",
+        "created_at": "2026-11-04T12:57:41.861232+00:00",
+        "updated_at": "2026-11-04T12:57:41.861232+00:00"
       },
       {
-        "memory": "John has been to Paris and described the city as amazing, specifically noting that the view from the Eiffel Tower is incredible.",
-        "score": 0.6684970737402465,
-        "id": "eb0c6e2b-6501-464f-a25e-ce25261e922e",
-        "created_at": "2026-11-03T09:37:06.646231+00:00",
-        "updated_at": "2026-11-03T09:37:06.646231+00:00"
+        "memory": "John has been to Paris before and loved it, describing the view from the Eiffel Tower as incredible while sharing a bird's-eye photo of the city.",
+        "score": 0.6644942735719496,
+        "id": "eb486e71-4d03-4c04-bb6d-f60d3cb56f32",
+        "created_at": "2026-11-04T13:23:50.479505+00:00",
+        "updated_at": "2026-11-04T13:23:50.479505+00:00"
       },
       {
-        "memory": "Tim loves traveling and expressed enthusiasm for the Eiffel Tower in Paris, asking John if he has been to the city.",
-        "score": 0.6617620039391825,
-        "id": "b3915565-6af7-4990-be5c-91bbd2a049f9",
-        "created_at": "2026-11-03T09:37:04.382943+00:00",
-        "updated_at": "2026-11-03T09:37:04.382943+00:00"
+        "memory": "Tim loves traveling and found John's photo of the Eiffel Tower awesome, expressing interest in whether John has been to Paris.",
+        "score": 0.6591471274828072,
+        "id": "34a5f676-5479-4c22-9f35-7970f7577280",
+        "created_at": "2026-11-04T13:23:45.234394+00:00",
+        "updated_at": "2026-11-04T13:23:45.234394+00:00"
       },
       {
-        "memory": "John knows a bit of German and Spanish, noting that knowing these languages makes travel much easier.",
-        "score": 0.5655074992927323,
-        "id": "4f36319b-b0de-44ed-b6fa-6059e1f8970f",
-        "created_at": "2026-11-03T09:35:54.497954+00:00",
-        "updated_at": "2026-11-03T09:35:54.497954+00:00"
+        "memory": "Tim has been wanting to visit New York City and expressed interest in the skyline after John shared a photo of it on August 26, 2023",
+        "score": 0.6555453834336455,
+        "id": "c573b277-9b52-4835-a8f4-c3b0f59c7e5b",
+        "created_at": "2026-11-04T12:57:35.687553+00:00",
+        "updated_at": "2026-11-04T12:57:35.687553+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.5652947375212406,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+        "memory": "John recommended Barcelona to Tim as a must-visit city, highlighting its culture, architecture, food in each neighborhood, and nearby beaches for sunbathing.",
+        "score": 0.6331052995805363,
+        "id": "5f256972-cf37-4817-84b3-21acb8616f44",
+        "created_at": "2026-11-04T13:26:03.622224+00:00",
+        "updated_at": "2026-11-04T13:26:03.622224+00:00"
+      },
+      {
+        "memory": "John recommended Barcelona to Tim as a must-visit city, highlighting its culture, architecture, food in each neighborhood, and nearby beaches for sunbathing.",
+        "score": 0.6331052995805363,
+        "id": "fec2e1a8-70e1-41d5-93eb-586c402801cc",
+        "created_at": "2026-11-04T13:25:58.769520+00:00",
+        "updated_at": "2026-11-04T13:25:58.769520+00:00"
       },
       {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.5647246059729006,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.5621726693629869,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.5621726693629869,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
+      },
+      {
+        "memory": "John knows a bit of German and Spanish, noting that knowing these languages makes travel much easier.",
+        "score": 0.5617949597671913,
+        "id": "fd1ed3e9-cc4f-4f49-974c-3b0c3e627409",
+        "created_at": "2026-11-04T13:22:01.830508+00:00",
+        "updated_at": "2026-11-04T13:22:01.830508+00:00"
+      },
+      {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.5584569930020826,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
+      },
+      {
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.5584260998902552,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations based on his previous experience in Europe.",
+        "score": 0.5579705578549916,
+        "id": "5a25ef2f-5e70-45a6-9818-cb4c0d16e025",
+        "created_at": "2026-11-04T13:07:42.948057+00:00",
+        "updated_at": "2026-11-04T13:07:42.948057+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.5568766155055295,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.5597736319972283,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.5587912003573849,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
-      },
-      {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.557673222963442,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
-      },
-      {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.5575567536933803,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
-      },
-      {
-        "memory": "John knows a bit of German and Spanish, noting that knowing multiple languages makes travel easier and opens up personal and professional opportunities.",
-        "score": 0.5515990495242569,
-        "id": "c6f6eb99-be90-46ed-8af1-d016e2b3b465",
-        "created_at": "2026-11-03T09:36:13.190095+00:00",
-        "updated_at": "2026-11-03T09:36:13.190095+00:00"
-      },
-      {
-        "memory": "John loves traveling as a way to learn about different cultures and places, and shared a photo of himself walking down a path in front of the Eiffel Tower.",
-        "score": 0.5500490823361852,
-        "id": "bb354349-bcf9-426e-82af-ef59d775574d",
-        "created_at": "2026-11-03T09:37:02.085093+00:00",
-        "updated_at": "2026-11-03T09:37:02.085093+00:00"
+        "score": 0.5567563176959613,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       }
     ],
-    "search_latency_ms": 178.0,
+    "search_latency_ms": 153.0,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "New York City",
+      "generated_answer": "Paris",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'New York City' does not match the gold answer 'Seattle' and refers to a completely different city."
+      "reason": "The generated answer 'Paris' does not match the gold answer 'Seattle' and refers to a completely different city."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "New York City",
+      "generated_answer": "Paris",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'New York City' does not match the gold answer 'Seattle' and refers to a completely different city."
+      "reason": "The generated answer 'Paris' does not match the gold answer 'Seattle' and refers to a completely different city."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "New York City",
+      "generated_answer": "Paris",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'New York City' does not match the gold answer 'Seattle' and refers to a completely different city."
+      "reason": "The generated answer 'Paris' does not match the gold answer 'Seattle' and refers to a completely different city."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "New York City",
+      "generated_answer": "Paris",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'New York City' does not match the gold answer 'Seattle' and refers to a completely different city."
+      "reason": "The generated answer 'Paris' does not match the gold answer 'Seattle' and refers to a completely different city."
     }
   }
 }

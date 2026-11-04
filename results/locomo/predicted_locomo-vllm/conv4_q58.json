@@ -9,183 +9,183 @@
     "D4:8",
     "D22:2"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When did John attend the Harry Potter trivia?",
     "search_results": [
       {
-        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023 and described it as a fun time, noting he enjoys being with people who share his passion for the franchise.",
-        "score": 0.9015321931011305,
-        "id": "f9fcfbed-652f-4596-9228-3b28ad6eee30",
-        "created_at": "2026-11-03T09:30:59.620007+00:00",
-        "updated_at": "2026-11-03T09:30:59.620007+00:00"
+        "memory": "John attended a charity event featuring Harry Potter trivia in August 2023, which he described as a fun time and expressed enjoyment of being with people who share his passion for the series.",
+        "score": 0.9078393184863275,
+        "id": "35b42a73-7db5-463c-ab61-e27da4342260",
+        "created_at": "2026-11-04T13:14:33.328924+00:00",
+        "updated_at": "2026-11-04T13:14:33.328924+00:00"
       },
       {
-        "memory": "John loves the first Harry Potter movie and owns the entire collection, sharing a photo of his DVD set on August 21, 2023.",
-        "score": 0.8049249634865022,
-        "id": "a41b1086-00af-4c6b-a1c8-d0fe0ee44b34",
-        "created_at": "2026-11-03T09:10:00.603750+00:00",
-        "updated_at": "2026-11-03T09:10:00.603750+00:00"
+        "memory": "John and his companion Anthony attended a charity event where they participated in an intense Harry Potter trivia contest around August 2, 2023. They did alright, but a super-nerd participant won a signed Harry Potter book as the prize.",
+        "score": 0.8482616883109438,
+        "id": "071ef919-aef0-4560-9d20-114fdd54bd51",
+        "created_at": "2026-11-04T12:52:47.017619+00:00",
+        "updated_at": "2026-11-04T12:52:47.017619+00:00"
       },
       {
-        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into, and has seen all the films.",
-        "score": 0.7530709062700495,
-        "id": "d6c38433-e8e1-45c0-8c7f-a603d80b57ca",
-        "created_at": "2026-11-03T09:35:32.387807+00:00",
-        "updated_at": "2026-11-03T09:35:32.387807+00:00"
+        "memory": "John is a fan of the Harry Potter movies and asked Tim if he has seen all of them during their conversation on December 26, 2023",
+        "score": 0.7999214527547852,
+        "id": "5c5c5cc5-9cd9-4519-99a8-a8e3441d9f12",
+        "created_at": "2026-11-04T13:21:06.481762+00:00",
+        "updated_at": "2026-11-04T13:21:06.481762+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter party around December 8, 2023, describing it as the coolest experience where he met many people who shared his interest in the franchise and had a lot of fun.",
-        "score": 0.7522248602233598,
-        "id": "5d3e9f19-e271-4c6f-8b55-1ee7640fec9b",
-        "created_at": "2026-11-03T09:30:57.354701+00:00",
-        "updated_at": "2026-11-03T09:30:57.354701+00:00"
+        "memory": "John has not yet visited any real-life places related to the Harry Potter universe but considers it a fun idea and has added exploring those locations to his personal to-do list.",
+        "score": 0.7824474873790602,
+        "id": "57a22e5b-e43b-4ade-80bd-709ae25d302b",
+        "created_at": "2026-11-04T12:49:39.156137+00:00",
+        "updated_at": "2026-11-04T12:49:39.156137+00:00"
       },
       {
-        "memory": "Tim is a fan of the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
-        "score": 0.7512014964975761,
-        "id": "3b7040ab-0243-4421-be77-7bd7849bee59",
-        "created_at": "2026-11-03T09:35:37.275991+00:00",
-        "updated_at": "2026-11-03T09:35:37.275991+00:00"
+        "memory": "John shared a photo of a bookcase filled with books and toys on May 21, 2023, while asking Tim if he has visited any places related to the Harry Potter universe.",
+        "score": 0.7811446989176372,
+        "id": "3ea3219e-f346-490c-a38b-7195db3693c0",
+        "created_at": "2026-11-04T12:49:34.412432+00:00",
+        "updated_at": "2026-11-04T12:49:34.412432+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling inspired like he got a new lease of life among a magical family of fans",
-        "score": 0.7442625943887519,
-        "id": "e4a06a7c-b597-439b-aa84-c6fc61a73461",
-        "created_at": "2026-11-03T09:17:50.511805+00:00",
-        "updated_at": "2026-11-03T09:17:50.511805+00:00"
+        "memory": "Tim visited a Harry Potter-themed location in London a few years before May 21, 2023, describing the experience as 'like walking into a Harry Potter movie,' and also went on an amazing tour there.",
+        "score": 0.7748738110404761,
+        "id": "fb0b6093-fe07-4be9-9784-46bfa5b6281b",
+        "created_at": "2026-11-04T12:49:36.938897+00:00",
+        "updated_at": "2026-11-04T12:49:36.938897+00:00"
       },
       {
-        "memory": "Tim has seen all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to watch the story come alive on screen.",
-        "score": 0.7437130765693565,
-        "id": "7c2594f8-1e58-4c87-b406-af5fe379dfe2",
-        "created_at": "2026-11-03T09:35:14.098792+00:00",
-        "updated_at": "2026-11-03T09:35:14.098792+00:00"
+        "memory": "John owns the entire Harry Potter movie collection and considers the first film, 'Harry Potter and the Philosopher's Stone', to be magical.",
+        "score": 0.7609785430322302,
+        "id": "cd5a1fd1-8481-4ad5-908e-ac3bd0474093",
+        "created_at": "2026-11-04T12:56:23.398377+00:00",
+        "updated_at": "2026-11-04T12:56:23.398377+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
-        "score": 0.7412940217934519,
-        "id": "aa1733f2-a816-4079-bc52-d96a40636724",
-        "created_at": "2026-11-03T09:17:34.445242+00:00",
-        "updated_at": "2026-11-03T09:17:34.445242+00:00"
+        "memory": "Tim had a conversation with a Harry Potter fan in California around July 9, 2023, describing the experience as magical while discussing favorite books and characters.",
+        "score": 0.7572683007517732,
+        "id": "b2982faf-807a-4784-bdee-be68f90e3186",
+        "created_at": "2026-11-04T12:50:36.802834+00:00",
+        "updated_at": "2026-11-04T12:50:36.802834+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as incredible and feeling like he was part of a magical family with others who shared his passion for fantasy.",
-        "score": 0.7411024867651219,
-        "id": "ff933eb6-aa95-48a9-a4d8-481e0dfc0fdc",
-        "created_at": "2026-11-03T09:17:29.418179+00:00",
-        "updated_at": "2026-11-03T09:17:29.418179+00:00"
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into during his downtime.",
+        "score": 0.7569663024643429,
+        "id": "c6eff8e8-d689-4260-b10a-871a58546173",
+        "created_at": "2026-11-04T13:21:33.242563+00:00",
+        "updated_at": "2026-11-04T13:21:33.242563+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
-        "score": 0.7376262919948834,
-        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
-        "created_at": "2026-11-03T09:31:15.570485+00:00",
-        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+        "memory": "Tim had a conversation with a Harry Potter fan in California around July 9, 2023, which he described as a magical experience surrounded by people who share his passion for the wizarding world.",
+        "score": 0.7547219959932414,
+        "id": "a2a9584d-38c0-44f5-b979-8f90bdddcc2a",
+        "created_at": "2026-11-04T12:51:09.910284+00:00",
+        "updated_at": "2026-11-04T12:51:09.910284+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John.",
-        "score": 0.7365705948673107,
-        "id": "96b9f527-816c-4a0f-896c-3265fa3ae2b7",
-        "created_at": "2026-11-03T09:31:05.117742+00:00",
-        "updated_at": "2026-11-03T09:31:05.117742+00:00"
+        "memory": "Tim attended a Harry Potter party around December 8, 2023, which he described as the coolest experience where he met many people who shared his interest in the series and had a lot of fun.",
+        "score": 0.7546370249830344,
+        "id": "128af513-0ff4-4985-bf3c-08687bfe9f15",
+        "created_at": "2026-11-04T13:14:30.355753+00:00",
+        "updated_at": "2026-11-04T13:14:30.355753+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter party in early December 2023, where he met many people with similar interests and enjoyed the experience significantly.",
-        "score": 0.72992830602034,
-        "id": "330d0a11-9e8a-4591-999e-8c902afc9501",
-        "created_at": "2026-11-03T09:31:10.110533+00:00",
-        "updated_at": "2026-11-03T09:31:10.110533+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6, 2023, describing it as an incredible experience where he felt inspired and connected with a community of fans who shared his love for the series.",
+        "score": 0.7393457728923385,
+        "id": "155ed86c-b949-4dd4-9db3-9aa42a766dcd",
+        "created_at": "2026-11-04T13:02:30.366373+00:00",
+        "updated_at": "2026-11-04T13:02:30.366373+00:00"
       },
       {
-        "memory": "Tim is going to Universal Studios for the first time and is particularly excited about the Harry Potter attractions there.",
-        "score": 0.7217201415656181,
-        "id": "795851d2-4ad6-4f3e-bb4f-b6aee65c35ac",
-        "created_at": "2026-11-03T09:12:56.886443+00:00",
-        "updated_at": "2026-11-03T09:12:56.886443+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6, 2023, describing it as an incredible experience where he felt inspired and connected with a community of fans like a magical family.",
+        "score": 0.7365676244375359,
+        "id": "15426e66-f78a-4f32-9fde-0330970aa71b",
+        "created_at": "2026-11-04T13:02:37.027224+00:00",
+        "updated_at": "2026-11-04T13:02:37.027224+00:00"
       },
       {
-        "memory": "John is a fan of fantasy literature, specifically citing The Hobbit and another popular fantasy series (implied to be Harry Potter or Game of Thrones) as favorites that provide an escape from reality.",
-        "score": 0.7185812259798519,
-        "id": "f28a8fcf-26b1-48df-96b3-f8c5c20937d0",
-        "created_at": "2026-11-03T09:29:41.604619+00:00",
-        "updated_at": "2026-11-03T09:29:41.604619+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6-12, 2023, describing it as an incredible experience where he felt like part of a magical family and gained a new lease of life.",
+        "score": 0.7361110688270187,
+        "id": "ff8c15f3-04d3-4338-8c23-ecac1c6dd234",
+        "created_at": "2026-11-04T13:02:28.031850+00:00",
+        "updated_at": "2026-11-04T13:02:28.031850+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
-        "score": 0.7172377053945327,
-        "id": "04ce6f7e-23dd-41de-83cb-faf3dfae9961",
-        "created_at": "2026-11-03T09:31:05.114491+00:00",
-        "updated_at": "2026-11-03T09:31:05.114491+00:00"
+        "memory": "Tim has watched all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive on screen.",
+        "score": 0.7356694968865398,
+        "id": "9f481ebc-a81c-4028-a282-6a5316431972",
+        "created_at": "2026-11-04T13:21:11.101221+00:00",
+        "updated_at": "2026-11-04T13:21:11.101221+00:00"
       },
       {
-        "memory": "Tim attended a Harry Potter party in late November or early December 2023, where he met many people with similar interests and wore a Gryffindor scarf instead of a full costume.",
-        "score": 0.7172377053945327,
-        "id": "c824cbde-ea7d-4316-a5e2-64ff748c6c5b",
-        "created_at": "2026-11-03T09:31:15.567137+00:00",
-        "updated_at": "2026-11-03T09:31:15.567137+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
+        "score": 0.7345466944777439,
+        "id": "50d3d466-3579-4af2-b747-48451d5e6a89",
+        "created_at": "2026-11-04T13:02:43.859551+00:00",
+        "updated_at": "2026-11-04T13:02:43.859551+00:00"
       },
       {
-        "memory": "Tim wore a Gryffindor scarf to the Harry Potter party on December 8, 2023, rather than dressing up as a specific character, and received a chocolate frog as a treat which he shared in a photo.",
-        "score": 0.7144945403906373,
-        "id": "82040ee3-ab9b-4e07-9381-e6910d29ad9c",
-        "created_at": "2026-11-03T09:31:01.974018+00:00",
-        "updated_at": "2026-11-03T09:31:01.974018+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6, 2023, describing it as an incredible experience where he felt inspired and found a sense of community among fellow fans.",
+        "score": 0.7345466944777439,
+        "id": "3da887b2-12c6-48d7-b123-7fc987e3c02c",
+        "created_at": "2026-11-04T13:02:39.501472+00:00",
+        "updated_at": "2026-11-04T13:02:39.501472+00:00"
       },
       {
-        "memory": "Tim is planning a trip to Universal Studios in October 2023, which will be his first time visiting the park, and he is particularly excited about the Harry Potter attractions.",
-        "score": 0.7100887837560641,
-        "id": "4ac47a99-a30c-4dd3-a031-222a2bea001e",
-        "created_at": "2026-11-03T09:13:40.595721+00:00",
-        "updated_at": "2026-11-03T09:13:40.595721+00:00"
+        "memory": "Tim keeps many reminders of the Harry Potter universe in his home, which he uses as a way to escape reality.",
+        "score": 0.7330999929866722,
+        "id": "295cfeae-8d5f-4349-81c1-91aac033f00e",
+        "created_at": "2026-11-04T12:50:10.416428+00:00",
+        "updated_at": "2026-11-04T12:50:10.416428+00:00"
       },
       {
-        "memory": "Tim is planning a trip to Universal Studios in September 2023, which will be his first time visiting the park. He is particularly excited about the Harry Potter attractions and looks forward to sharing how the experience goes.",
-        "score": 0.7065338493772958,
-        "id": "86c14756-7e7d-427e-a939-15558dfa26d0",
-        "created_at": "2026-11-03T09:13:26.752987+00:00",
-        "updated_at": "2026-11-03T09:13:26.752987+00:00"
+        "memory": "Tim attended a Harry Potter party in early December 2023, where he met many people with similar interests and enjoyed the event significantly.",
+        "score": 0.7310063487444113,
+        "id": "238bd979-e2db-4651-9065-f3d7e5574c2c",
+        "created_at": "2026-11-04T13:14:48.005631+00:00",
+        "updated_at": "2026-11-04T13:14:48.005631+00:00"
       },
       {
-        "memory": "Tim is planning his first trip to Universal Studios in September 2023 and is particularly excited about the Harry Potter attractions.",
-        "score": 0.7044356691021029,
-        "id": "48dedacd-a512-4713-b6bf-1f72140928ab",
-        "created_at": "2026-11-03T09:13:05.379106+00:00",
-        "updated_at": "2026-11-03T09:13:05.379106+00:00"
+        "memory": "Tim is a dedicated Harry Potter fan who uses memorabilia and reminders of the wizarding world as a way to escape reality, and plans to visit more Harry Potter-related locations in the future.",
+        "score": 0.7295501294899165,
+        "id": "f087b09b-ae83-4d82-be48-fc131cd19e59",
+        "created_at": "2026-11-04T12:50:19.733313+00:00",
+        "updated_at": "2026-11-04T12:50:19.733313+00:00"
       }
     ],
-    "search_latency_ms": 143.5,
+    "search_latency_ms": 167.7,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "August 2023",
+      "generated_answer": "around August 2, 2023",
       "memories_evaluated": 10,
-      "reason": "The generated answer matches the gold answer exactly."
+      "reason": "The generated answer 'around August 2, 2023' falls within the 14-day tolerance window of the gold answer 'August 2023' and correctly identifies the month and year."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "August 2023",
+      "generated_answer": "around August 2, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer matches the gold answer exactly."
+      "reason": "The generated answer 'around August 2, 2023' falls within the 14-day tolerance window of the gold answer 'August 2023' and correctly identifies the month and year."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "August 2023",
+      "generated_answer": "around August 2, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer matches the gold answer exactly."
+      "reason": "The generated answer 'around August 2, 2023' falls within the 14-day tolerance window of the gold answer 'August 2023' and correctly identifies the month and year."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "August 2023",
+      "generated_answer": "around August 2, 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer matches the gold answer exactly."
+      "reason": "The generated answer 'around August 2, 2023' falls within the 14-day tolerance window of the gold answer 'August 2023' and correctly identifies the month and year."
     }
   }
 }

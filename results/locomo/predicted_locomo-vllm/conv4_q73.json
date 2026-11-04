@@ -8,183 +8,183 @@
   "evidence": [
     "D1:11"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What challenge did John encounter during pre-season training?",
     "search_results": [
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
-        "score": 0.7402571755486355,
-        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
-        "created_at": "2026-11-03T09:36:13.201951+00:00",
-        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+        "memory": "John identified fitting into the Minnesota Wolves' style of play as a specific challenge he encountered during pre-season training in May 2023.",
+        "score": 0.8716451896163399,
+        "id": "56395f9c-07ad-476e-9b53-bd7c9621c629",
+        "created_at": "2026-11-04T12:49:22.182914+00:00",
+        "updated_at": "2026-11-04T12:49:22.182914+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
-        "score": 0.7378986630842984,
-        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
-        "created_at": "2026-11-03T09:36:18.490072+00:00",
-        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and something he cannot imagine his life without.",
+        "score": 0.7406002075503786,
+        "id": "4272074c-ce11-4097-add5-01a52aeb0738",
+        "created_at": "2026-11-04T13:22:31.876637+00:00",
+        "updated_at": "2026-11-04T13:22:31.876637+00:00"
+      },
+      {
+        "memory": "John prioritizes listening to his body and ensuring adequate rest in his training routine to balance pushing himself during practice with self-care, which helps him stay on track with his fitness goals.",
+        "score": 0.7262804197979722,
+        "id": "a20a7286-22bd-4edc-919b-67827c644fd2",
+        "created_at": "2026-11-04T12:55:48.619819+00:00",
+        "updated_at": "2026-11-04T12:55:48.619819+00:00"
+      },
+      {
+        "memory": "John found adapting and tweaking his training routine at his new gym to be a tricky hurdle, but he eventually got the hang of finding the right balance for his professional basketball fitness.",
+        "score": 0.7261906043285109,
+        "id": "d2eaa29b-8a37-4e73-b275-97704e68f9f8",
+        "created_at": "2026-11-04T12:55:43.331908+00:00",
+        "updated_at": "2026-11-04T12:55:43.331908+00:00"
+      },
+      {
+        "memory": "John's primary goal for the upcoming season with the Minnesota Wolves is to improve his shooting percentage, and he has been practicing hard to achieve this.",
+        "score": 0.7083014585368088,
+        "id": "af9f41b6-df35-4e02-a4f2-5f90601f0411",
+        "created_at": "2026-11-04T12:49:20.190126+00:00",
+        "updated_at": "2026-11-04T12:49:20.190126+00:00"
       },
       {
         "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.6981601993567397,
-        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
-        "created_at": "2026-11-03T09:38:30.184443+00:00",
-        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+        "score": 0.6952195711115626,
+        "id": "10b9b56d-e1f0-4bf1-af35-63bcfe34a873",
+        "created_at": "2026-11-04T13:25:52.940128+00:00",
+        "updated_at": "2026-11-04T13:25:52.940128+00:00"
       },
       {
-        "memory": "John's team showed significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023, which helped them understand each other's strengths and weaknesses.",
-        "score": 0.6523617033628167,
-        "id": "cacb084a-1a0c-4467-9936-b28432d83798",
-        "created_at": "2026-11-03T09:34:16.754297+00:00",
-        "updated_at": "2026-11-03T09:34:16.754297+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a reward for his hard work and training hours.",
+        "score": 0.6926422995627523,
+        "id": "1c994921-829b-41fb-9b0d-d0c13caf25aa",
+        "created_at": "2026-11-04T13:25:45.344747+00:00",
+        "updated_at": "2026-11-04T13:25:45.344747+00:00"
       },
       {
-        "memory": "John shared that last season he suffered a major ankle injury requiring time off and physical therapy, which was a tough mental and physical challenge as he could not play or help his team.",
-        "score": 0.6517397230455102,
-        "id": "8457f3c1-cc4d-47c5-9cc9-e16a0d9278a8",
-        "created_at": "2026-11-03T09:27:35.176156+00:00",
-        "updated_at": "2026-11-03T09:27:35.176156+00:00"
+        "memory": "John faced a major challenge last season (around late 2022) when he hurt his ankle, requiring time off and physical therapy, which was frustrating because he could not play or help his team.",
+        "score": 0.6710748233292128,
+        "id": "a3ee03e4-71c5-4da7-8924-ed00b0f85832",
+        "created_at": "2026-11-04T13:10:08.326775+00:00",
+        "updated_at": "2026-11-04T13:10:08.326775+00:00"
       },
       {
-        "memory": "John suffered a major ankle injury last season (around 2022) that required time off and physical therapy, which was a frustrating mental and physical challenge because he could not play or help his team.",
-        "score": 0.6436098863309534,
-        "id": "ffec463d-d335-4f51-acf0-e3bcfde5f165",
-        "created_at": "2026-11-03T09:27:28.123489+00:00",
-        "updated_at": "2026-11-03T09:27:28.123489+00:00"
+        "memory": "John described his toughest basketball challenge as a major ankle injury last season that required time off and physical therapy, which he overcame through patience and perseverance.",
+        "score": 0.64345687717421,
+        "id": "778a3b7e-6691-481a-8678-6f039ef24fde",
+        "created_at": "2026-11-04T13:09:44.878581+00:00",
+        "updated_at": "2026-11-04T13:09:44.878581+00:00"
       },
       {
-        "memory": "John identified his toughest challenge in basketball as an ankle injury last season that required time off and physical therapy, which was frustrating but taught him the importance of patience and perseverance.",
-        "score": 0.6367247010332702,
-        "id": "d79981a4-f3e4-49e3-8019-b2d00417dc94",
-        "created_at": "2026-11-03T09:27:15.606846+00:00",
-        "updated_at": "2026-11-03T09:27:15.606846+00:00"
+        "memory": "John's team experienced significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023.",
+        "score": 0.6325014470203753,
+        "id": "6500f341-7f24-465f-ab5b-88e0eac35a61",
+        "created_at": "2026-11-04T13:18:31.830812+00:00",
+        "updated_at": "2026-11-04T13:18:31.830812+00:00"
       },
       {
-        "memory": "John found adapting to his new gym routine challenging, noting that finding the right balance was tricky but he eventually got the hang of it while training for professional basketball.",
-        "score": 0.6287652367043579,
-        "id": "134a230e-c71e-47f7-9a83-62510121b0f8",
-        "created_at": "2026-11-03T09:09:02.227075+00:00",
-        "updated_at": "2026-11-03T09:09:02.227075+00:00"
-      },
-      {
-        "memory": "Incorporating strength training improved John's shooting accuracy, agility, and speed, giving him an upper hand over opponents and boosting his confidence on the court.",
-        "score": 0.6196126173169938,
-        "id": "40ed420c-7fb1-4a10-a571-a9cbbd00809e",
-        "created_at": "2026-11-03T09:09:22.083167+00:00",
-        "updated_at": "2026-11-03T09:09:22.083167+00:00"
+        "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, noting that he does not want to let them down.",
+        "score": 0.6215176272619185,
+        "id": "70f970c8-a291-496c-acbb-181e7ae46ea6",
+        "created_at": "2026-11-04T13:05:51.522844+00:00",
+        "updated_at": "2026-11-04T13:05:51.522844+00:00"
       },
       {
         "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, driven by a desire not to let them down.",
-        "score": 0.6167716412348055,
-        "id": "c04cade3-3048-4c5a-8a7a-d03fa6aea21d",
-        "created_at": "2026-11-03T09:20:44.096973+00:00",
-        "updated_at": "2026-11-03T09:20:44.096973+00:00"
+        "score": 0.6145611001546545,
+        "id": "76d3ae78-8216-4fb9-b546-3dd4a0d67cd6",
+        "created_at": "2026-11-04T13:06:24.960620+00:00",
+        "updated_at": "2026-11-04T13:06:24.960620+00:00"
       },
       {
-        "memory": "John is motivated during challenging times by his teammates' belief in him and his love for improving his skills, stating that he does not want to let them down.",
-        "score": 0.6132489981854289,
-        "id": "e4d25eb8-d9f4-4b41-9152-fa8b57b44260",
-        "created_at": "2026-11-03T09:20:17.725646+00:00",
-        "updated_at": "2026-11-03T09:20:17.725646+00:00"
+        "memory": "John hurt his ankle last season (around 2022-2023), which required time off and physical therapy; he found it frustrating but stayed focused on recovery to strengthen his body.",
+        "score": 0.6131953468509043,
+        "id": "c1ca385e-2b5a-43f0-9594-e370139a73c0",
+        "created_at": "2026-11-04T13:10:16.595797+00:00",
+        "updated_at": "2026-11-04T13:10:16.595797+00:00"
       },
       {
-        "memory": "John developed a balanced workout routine combining basketball-specific training and strength training after some trial and error, emphasizing listening to his body and ensuring adequate rest.",
-        "score": 0.6122761368070255,
-        "id": "eac7f40e-7544-4a93-a5ca-21602394cb2d",
-        "created_at": "2026-11-03T09:09:22.073753+00:00",
-        "updated_at": "2026-11-03T09:09:22.073753+00:00"
+        "memory": "John shared that one of his toughest challenges in basketball was hurting his ankle last season (2022-2023), which required time off and physical therapy; he found it frustrating but stayed focused on recovery and strengthening his body.",
+        "score": 0.6130853595025434,
+        "id": "5fbf723c-1de7-4cef-8076-bf1e1b04ccf6",
+        "created_at": "2026-11-04T13:09:52.321190+00:00",
+        "updated_at": "2026-11-04T13:09:52.321190+00:00"
       },
       {
-        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
-        "score": 0.605519394603406,
-        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
-        "created_at": "2026-11-03T09:33:56.779906+00:00",
-        "updated_at": "2026-11-03T09:33:56.779906+00:00"
+        "memory": "John's teammates consistently support him even when he makes mistakes, and their encouragement is a key factor that keeps him going during challenging times.",
+        "score": 0.6119314879399808,
+        "id": "e6bac993-38a4-4998-afd2-579a1b336c1d",
+        "created_at": "2026-11-04T13:05:55.659133+00:00",
+        "updated_at": "2026-11-04T13:05:55.659133+00:00"
       },
       {
-        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, emphasizing listening to his body and ensuring adequate rest to maintain performance during practice.",
-        "score": 0.6041470324961583,
-        "id": "1790bd58-3e4f-41bc-90f1-9f3b0c2934e9",
-        "created_at": "2026-11-03T09:09:06.580424+00:00",
-        "updated_at": "2026-11-03T09:09:06.580424+00:00"
+        "memory": "John described his recent basketball season as intense, featuring both tough losses and great wins, but stated that overall the team did pretty well.",
+        "score": 0.5887186391275001,
+        "id": "9f8cf865-348d-4bd3-9c47-a14e2855b3fa",
+        "created_at": "2026-11-04T13:02:39.506736+00:00",
+        "updated_at": "2026-11-04T13:02:39.506736+00:00"
       },
       {
-        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
-        "score": 0.5961786581285037,
-        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
-        "created_at": "2026-11-03T09:38:22.270742+00:00",
-        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride with significant challenges and growth.",
+        "score": 0.5862385045764406,
+        "id": "41cdeb4c-2f92-4601-9a47-e47b41c119e1",
+        "created_at": "2026-11-04T13:14:00.317631+00:00",
+        "updated_at": "2026-11-04T13:14:00.317631+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
-        "score": 0.5957072011563151,
-        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
-        "created_at": "2026-11-03T09:30:29.897962+00:00",
-        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game",
+        "score": 0.5859734113152271,
+        "id": "1c2f40a5-90c3-45f3-adf9-decdfcf5360b",
+        "created_at": "2026-11-04T13:04:00.872688+00:00",
+        "updated_at": "2026-11-04T13:04:00.872688+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
-        "score": 0.5861520039622421,
-        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
-        "created_at": "2026-11-03T09:18:35.338157+00:00",
-        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+        "memory": "John incorporates strength training into his basketball routine to build muscle, increase power, prevent injuries, and improve explosiveness, agility, speed, and shooting accuracy.",
+        "score": 0.5839082118769627,
+        "id": "a8f6c03c-b78d-48a2-8fb2-ae6b85f310bc",
+        "created_at": "2026-11-04T12:56:20.844418+00:00",
+        "updated_at": "2026-11-04T12:56:20.844418+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
-        "score": 0.5835264590133722,
-        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
-        "created_at": "2026-11-03T09:18:54.870502+00:00",
-        "updated_at": "2026-11-03T09:18:54.870502+00:00"
-      },
-      {
-        "memory": "John states that incorporating strength training significantly improved his basketball performance by enhancing shooting accuracy, agility, and speed, giving him a competitive edge over opponents and boosting his confidence.",
-        "score": 0.5825999791430382,
-        "id": "f3d32b27-0235-4e7a-ac3d-d61246baade6",
-        "created_at": "2026-11-03T09:09:15.444097+00:00",
-        "updated_at": "2026-11-03T09:09:15.444097+00:00"
-      },
-      {
-        "memory": "John is a professional basketball player who values the constant challenge of the sport, finding satisfaction and purpose in improving his skills, beating goals, and playing with teammates while fans cheer.",
-        "score": 0.582457533537446,
-        "id": "8e22547b-f970-451f-b6f0-5e448c8eb0cd",
-        "created_at": "2026-11-03T09:15:54.760026+00:00",
-        "updated_at": "2026-11-03T09:15:54.760026+00:00"
+        "memory": "John developed a balanced workout schedule combining basketball-specific training and strength training, which he found through trial and error at his new gym to maintain fitness for professional basketball.",
+        "score": 0.5833661133178065,
+        "id": "00704ab6-e833-49d8-88c7-7abb952f1856",
+        "created_at": "2026-11-04T12:55:48.614573+00:00",
+        "updated_at": "2026-11-04T12:55:48.614573+00:00"
       }
     ],
-    "search_latency_ms": 120.7,
+    "search_latency_ms": 138.0,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Adapting to his new gym routine",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Fitting into the Minnesota Wolves' style of play",
       "memories_evaluated": 10,
-      "reason": "The generated answer refers to a gym routine, which is a different context from the gold answer's specific challenge of fitting into a team's style of play."
+      "reason": "The generated answer correctly identifies the core challenge of fitting into the team's style of play, which matches the gold answer, and adds specific detail about the team name."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "John found adapting to his new gym routine challenging, specifically noting that finding the right balance between basketball-specific training and strength training was tricky.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fitting into the Minnesota Wolves' style of play",
       "memories_evaluated": 20,
-      "reason": "The generated answer discusses adapting to a gym routine and balancing training types, which is a different topic from the gold answer's focus on fitting into the team's style of play."
+      "reason": "The generated answer specifies the team as the Minnesota Wolves, which is a specific instance of the 'new team' mentioned in the gold answer, and correctly identifies the core challenge of fitting into the style of play."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "John found adapting to his new gym routine challenging, specifically noting that finding the right balance between basketball-specific training and strength training was tricky.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fitting into the Minnesota Wolves' style of play",
       "memories_evaluated": 20,
-      "reason": "The generated answer discusses adapting to a gym routine and balancing training types, which is a different topic from the gold answer's focus on fitting into the team's style of play."
+      "reason": "The generated answer specifies the team as the Minnesota Wolves, which is a specific instance of the 'new team' mentioned in the gold answer, and correctly identifies the core challenge of fitting into the style of play."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "John found adapting to his new gym routine challenging, noting that finding the right balance between basketball-specific training and strength training was tricky and required trial and error.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "fitting into the Minnesota Wolves' style of play",
       "memories_evaluated": 20,
-      "reason": "The generated answer discusses adapting to a gym routine and balancing training types, which is a different topic from the gold answer's focus on fitting into the team's style of play."
+      "reason": "The generated answer specifies the team as the Minnesota Wolves, which is a specific instance of the 'new team' mentioned in the gold answer, and correctly identifies the core challenge of fitting into the style of play."
     }
   }
 }

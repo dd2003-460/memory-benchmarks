@@ -9,183 +9,183 @@
     "D14:3",
     "D26:1"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What does John do to share his knowledge?",
     "search_results": [
       {
-        "memory": "John's seminars in late December 2023 went really well, with aspiring professionals described as eager and motivated, and he expressed happiness at sharing his knowledge to help them.",
-        "score": 0.6270070543220253,
-        "id": "9670136b-ba40-494a-bd00-371ead81cd2c",
-        "created_at": "2026-11-03T09:34:14.047614+00:00",
-        "updated_at": "2026-11-03T09:34:14.047614+00:00"
+        "memory": "John's seminars in late December 2023 went really well, with aspiring professionals described as eager and motivated; he expressed happiness at sharing his knowledge and helping them.",
+        "score": 0.61741500146439,
+        "id": "52e759d8-2b7d-4da9-acc5-67458ef747af",
+        "created_at": "2026-11-04T13:18:29.130674+00:00",
+        "updated_at": "2026-11-04T13:18:29.130674+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
-        "score": 0.6056694067577248,
-        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
-        "created_at": "2026-11-03T09:18:35.338157+00:00",
-        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding and a great way to stay involved in the game by sharing his skills and knowledge.",
+        "score": 0.6066633156936361,
+        "id": "67a51ecb-38f7-473c-819e-b3eaff432839",
+        "created_at": "2026-11-04T13:03:39.696649+00:00",
+        "updated_at": "2026-11-04T13:03:39.696649+00:00"
       },
       {
-        "memory": "John's family gets together all the time, and he values these moments as irreplaceable, sharing a photo of his group gathered around a kitchen table during their conversation on August 21, 2023.",
-        "score": 0.5797592825189377,
-        "id": "eafe505a-5932-4276-b04a-548633569e6a",
-        "created_at": "2026-11-03T09:10:08.291305+00:00",
-        "updated_at": "2026-11-03T09:10:08.291305+00:00"
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that John had previously shared.",
+        "score": 0.5855771429444268,
+        "id": "e383ef53-4bca-4669-b3bb-4d8e295b56f1",
+        "created_at": "2026-11-04T13:06:36.047460+00:00",
+        "updated_at": "2026-11-04T13:06:36.047460+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
-        "score": 0.5718203560897053,
-        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
-        "created_at": "2026-11-03T09:18:54.870502+00:00",
-        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+        "memory": "John shared that he visualizes his goals and success as a method to maintain focus and motivation during difficult study sessions.",
+        "score": 0.5711966171784386,
+        "id": "7c392dfa-7195-4ca3-87b2-de52c2ebd5cf",
+        "created_at": "2026-11-04T13:09:04.788447+00:00",
+        "updated_at": "2026-11-04T13:09:04.788447+00:00"
       },
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.5681134832587544,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+        "memory": "John shared a photo of himself speaking at a charity event with another man on stage, stating that he uses his influence and resources to help causes he believes in to make the world a better place.",
+        "score": 0.5709275973903105,
+        "id": "8827a8c7-9464-4890-9f83-af83a8daba23",
+        "created_at": "2026-11-04T13:20:21.781207+00:00",
+        "updated_at": "2026-11-04T13:20:21.781207+00:00"
       },
       {
-        "memory": "John stays motivated during difficult study sessions by visualizing his goals and success, a strategy he shared with Tim to help maintain focus.",
-        "score": 0.5639158143336658,
-        "id": "b22fad50-d8ca-45e8-971d-7896d9e4c488",
-        "created_at": "2026-11-03T09:26:53.051758+00:00",
-        "updated_at": "2026-11-03T09:26:53.051758+00:00"
+        "memory": "John shared that he once messed up during a big basketball game, which was hard to accept, but he used the experience to learn resilience and the importance of owning up to mistakes.",
+        "score": 0.57021712396306,
+        "id": "d969335b-f1bf-4c55-9a91-b9437a58132b",
+        "created_at": "2026-11-04T13:10:08.330556+00:00",
+        "updated_at": "2026-11-04T13:10:08.330556+00:00"
       },
       {
-        "memory": "John stays motivated during difficult study or work sessions by visualizing his goals and success, a strategy he shared with Tim as advice for handling challenging periods.",
-        "score": 0.5615897998838949,
-        "id": "8f495df0-7445-4490-8418-583011ce9d2b",
-        "created_at": "2026-11-03T09:26:39.502209+00:00",
-        "updated_at": "2026-11-03T09:26:39.502209+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company in early January 2024, describing it as a dream come true and sharing a photo of himself holding a bat next to the soda logo.",
+        "score": 0.5578380204010304,
+        "id": "4ce5d983-0035-478c-9afa-023a6c859ce1",
+        "created_at": "2026-11-04T13:25:25.401566+00:00",
+        "updated_at": "2026-11-04T13:25:25.401566+00:00"
       },
       {
-        "memory": "John considers his new teammates to be great friends, noting that they connected over their shared love for basketball and had a lot of fun together.",
-        "score": 0.5585157953503941,
-        "id": "fffc91b3-4c94-45a3-92c3-733491375dc3",
-        "created_at": "2026-11-03T09:14:03.763922+00:00",
-        "updated_at": "2026-11-03T09:14:03.763922+00:00"
+        "memory": "John connected with his new teammates over their shared love for basketball and considers them great friends.",
+        "score": 0.5536251106859208,
+        "id": "dc311453-d58e-49f3-9b27-1b619fe464f0",
+        "created_at": "2026-11-04T12:59:10.999237+00:00",
+        "updated_at": "2026-11-04T12:59:10.999237+00:00"
       },
       {
-        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
-        "score": 0.558509494797013,
-        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
-        "created_at": "2026-11-03T09:21:06.470537+00:00",
-        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+        "memory": "John shared that he faced a tough time in basketball after making a significant mistake during a big game, which taught him the importance of resilience and owning up to mistakes rather than dwelling on them.",
+        "score": 0.5535044324985647,
+        "id": "61ed1c80-f8ce-4b08-b93a-9454e9302c23",
+        "created_at": "2026-11-04T13:10:00.587990+00:00",
+        "updated_at": "2026-11-04T13:10:00.587990+00:00"
       },
       {
-        "memory": "John shared that he faced a tough time in basketball when he made a significant mistake during a big game, which was hard to accept but taught him the importance of resilience and owning up to mistakes to keep growing as a player and teammate.",
-        "score": 0.5569761471121001,
-        "id": "c3942134-7fe7-4303-a64e-0d0e42748b71",
-        "created_at": "2026-11-03T09:27:30.848083+00:00",
-        "updated_at": "2026-11-03T09:27:30.848083+00:00"
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and shared with John.",
+        "score": 0.55311655806522,
+        "id": "45e03dc0-d63c-443b-8226-4afc53f4ab8c",
+        "created_at": "2026-11-04T13:19:50.322551+00:00",
+        "updated_at": "2026-11-04T13:19:50.322551+00:00"
+      },
+      {
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game",
+        "score": 0.5527811222796826,
+        "id": "1c2f40a5-90c3-45f3-adf9-decdfcf5360b",
+        "created_at": "2026-11-04T13:04:00.872688+00:00",
+        "updated_at": "2026-11-04T13:04:00.872688+00:00"
+      },
+      {
+        "memory": "John shared a photo on August 17, 2023, of a basketball with autographs from his teammates that they gave him when they met up, describing it as a sign of their friendship and mutual love for each other.",
+        "score": 0.5472211267416911,
+        "id": "e4f2f6de-22c9-44ff-aaf6-68d7cb428845",
+        "created_at": "2026-11-04T12:55:13.565137+00:00",
+        "updated_at": "2026-11-04T12:55:13.565137+00:00"
+      },
+      {
+        "memory": "John shared a photo of himself with some of the younger players at a recent practice around October 17, 2023, while discussing his role as their mentor and positive role model",
+        "score": 0.545948519536483,
+        "id": "7b1c9153-60c7-4efc-9a73-24cbb1be8ed6",
+        "created_at": "2026-11-04T13:04:00.878000+00:00",
+        "updated_at": "2026-11-04T13:04:00.878000+00:00"
+      },
+      {
+        "memory": "John shared a photo of himself sitting on a bench overlooking a cliff in Scotland while discussing his excitement to explore the world and experience gorgeous places like castles.",
+        "score": 0.5420163037556958,
+        "id": "67a7cb8d-5d06-4437-a6f4-2760ca8ce15d",
+        "created_at": "2026-11-04T13:04:54.161100+00:00",
+        "updated_at": "2026-11-04T13:04:54.161100+00:00"
       },
       {
         "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles by providing physical motivation.",
         "score": 0.3673068302223849,
-        "id": "59d710c3-bbeb-4cba-b82e-a3af44907bea",
-        "created_at": "2026-11-03T09:20:44.094230+00:00",
-        "updated_at": "2026-11-03T09:20:44.094230+00:00"
+        "id": "15dbd7ec-433c-446f-937b-f132c0490b38",
+        "created_at": "2026-11-04T13:06:24.955785+00:00",
+        "updated_at": "2026-11-04T13:06:24.955785+00:00"
       },
       {
-        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this is effective for staying motivated.",
-        "score": 0.35224837063141307,
-        "id": "f912f982-e28b-4b6d-a879-6595597039c8",
-        "created_at": "2026-11-03T09:20:12.772496+00:00",
-        "updated_at": "2026-11-03T09:20:12.772496+00:00"
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and something he cannot imagine his life without.",
+        "score": 0.3490531534245771,
+        "id": "4272074c-ce11-4097-add5-01a52aeb0738",
+        "created_at": "2026-11-04T13:22:31.876637+00:00",
+        "updated_at": "2026-11-04T13:22:31.876637+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
-        "score": 0.34805819523126064,
-        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
-        "created_at": "2026-11-03T09:36:13.201951+00:00",
-        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles; he finds that having physical reminders like this is effective for staying motivated.",
+        "score": 0.3483108592122777,
+        "id": "e39b8e9c-a6cc-4973-b358-7b11f569b944",
+        "created_at": "2026-11-04T13:05:43.670176+00:00",
+        "updated_at": "2026-11-04T13:05:43.670176+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
-        "score": 0.3422527175819165,
-        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
-        "created_at": "2026-11-03T09:36:18.490072+00:00",
-        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+        "memory": "John provides advice and support to the younger players he mentors both on and off the court, finding it rewarding that some of them view him as a mentor and enjoying being a positive role model for them.",
+        "score": 0.22750242586086436,
+        "id": "f05f1408-892f-4b25-8917-39bcd7e9ef41",
+        "created_at": "2026-11-04T13:03:50.721328+00:00",
+        "updated_at": "2026-11-04T13:03:50.721328+00:00"
       },
       {
-        "memory": "John uses his influence and resources to help causes he believes in, with a focus on making the world a better place.",
-        "score": 0.2581307691947046,
-        "id": "c28d9dd6-76e9-43af-b316-f30a66df915b",
-        "created_at": "2026-11-03T09:35:02.366791+00:00",
-        "updated_at": "2026-11-03T09:35:02.366791+00:00"
+        "memory": "John also uses the same language learning app on his phone to practice languages.",
+        "score": 0.22368817838821342,
+        "id": "1cafc767-0a86-43fa-85f5-0db4262e39ff",
+        "created_at": "2026-11-04T13:22:31.872484+00:00",
+        "updated_at": "2026-11-04T13:22:31.872484+00:00"
       },
       {
-        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
-        "score": 0.24650878139956872,
-        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
-        "created_at": "2026-11-03T09:20:51.673633+00:00",
-        "updated_at": "2026-11-03T09:20:51.673633+00:00"
-      },
-      {
-        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
-        "score": 0.24142350609487764,
-        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
-        "created_at": "2026-11-03T09:20:44.106791+00:00",
-        "updated_at": "2026-11-03T09:20:44.106791+00:00"
-      },
-      {
-        "memory": "John enjoys reading non-fiction books about personal development and mindset, which he says help him know himself better.",
-        "score": 0.23684162269047443,
-        "id": "234e0a6a-299a-4214-96a3-6bf16309b929",
-        "created_at": "2026-11-03T09:28:05.932979+00:00",
-        "updated_at": "2026-11-03T09:28:05.932979+00:00"
-      },
-      {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.23465790184405821,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
-      },
-      {
-        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
-        "score": 0.22467778353447718,
-        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
-        "created_at": "2026-11-03T09:34:49.170106+00:00",
-        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+        "memory": "John loves reading non-fiction books about personal development and mindset because they help him know himself better.",
+        "score": 0.22360326298811867,
+        "id": "ad9b61b8-3f89-4d73-b072-a8d6e42bf749",
+        "created_at": "2026-11-04T13:10:18.571455+00:00",
+        "updated_at": "2026-11-04T13:10:18.571455+00:00"
       }
     ],
-    "search_latency_ms": 105.5,
+    "search_latency_ms": 120.0,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by giving seminars to aspiring professionals.",
+      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by conducting seminars for aspiring professionals.",
       "memories_evaluated": 10,
-      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'giving seminars'."
+      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'conducting seminars', which are direct paraphrases of the gold answer's 'gives seminars' and 'mentors younger players'."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by giving seminars to aspiring professionals.",
+      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by conducting seminars for aspiring professionals.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'giving seminars'."
+      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'conducting seminars', which are direct paraphrases of the gold answer's 'gives seminars' and 'mentors younger players'."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by giving seminars to aspiring professionals.",
+      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by conducting seminars for aspiring professionals.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'giving seminars'."
+      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'conducting seminars', which are direct paraphrases of the gold answer's 'gives seminars' and 'mentors younger players'."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by giving seminars to aspiring professionals.",
+      "generated_answer": "John shares his knowledge by mentoring younger players on his basketball team and by conducting seminars for aspiring professionals.",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'giving seminars'."
+      "reason": "The generated answer includes both key items from the gold answer: 'mentoring younger players' and 'conducting seminars', which are direct paraphrases of the gold answer's 'gives seminars' and 'mentors younger players'."
     }
   }
 }

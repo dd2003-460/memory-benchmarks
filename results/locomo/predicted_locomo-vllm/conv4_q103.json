@@ -9,153 +9,153 @@
     "D10:4",
     "D10:8"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What kind of soup did John make recently?",
     "search_results": [
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.6978097537470291,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup, sharing a photo of the beautifully plated dish with Tim on August 31, 2023.",
+        "score": 0.6795412662648384,
+        "id": "b76c39e9-9a03-4491-b51b-661a0db0120e",
+        "created_at": "2026-11-04T12:58:13.484756+00:00",
+        "updated_at": "2026-11-04T12:58:13.484756+00:00"
       },
       {
-        "memory": "John has been trying out new cooking recipes recently and made a tasty chicken soup, sharing a photo of the beautifully plated dish with a butternut squash on a cutting board.",
-        "score": 0.6800680820359479,
-        "id": "415c70a9-b969-4b19-9a88-d1c3a3899199",
-        "created_at": "2026-11-03T09:11:48.094056+00:00",
-        "updated_at": "2026-11-03T09:11:48.094056+00:00"
+        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch using sage as a key spice.",
+        "score": 0.6678940061374856,
+        "id": "5d3a2d6c-1ae8-433d-9f5e-760bc76cf12d",
+        "created_at": "2026-11-04T12:58:35.914617+00:00",
+        "updated_at": "2026-11-04T12:58:35.914617+00:00"
       },
       {
-        "memory": "John used sage as a spice in his improvised chicken soup recipe.",
-        "score": 0.6761403687045919,
-        "id": "d1b67f6c-c2d4-435b-889b-027027e1b887",
-        "created_at": "2026-11-03T09:12:31.250600+00:00",
-        "updated_at": "2026-11-03T09:12:31.250600+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try making John's chicken soup recipe.",
+        "score": 0.667766635315122,
+        "id": "707d275e-1c0b-4f6d-bb19-1b56e5db9455",
+        "created_at": "2026-11-04T12:58:31.341282+00:00",
+        "updated_at": "2026-11-04T12:58:31.341282+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and is planning to look up recipes to try making the chicken soup John described.",
-        "score": 0.6729546553303614,
-        "id": "8d56cbf5-13ac-455d-bb8d-71cb600f4fc9",
-        "created_at": "2026-11-03T09:13:00.156049+00:00",
-        "updated_at": "2026-11-03T09:13:00.156049+00:00"
+        "memory": "Tim loves experimenting with spices and is excited to try making the chicken soup recipe John described.",
+        "score": 0.6639765089193628,
+        "id": "e8082005-c45a-46ab-bd7b-d46571d3d5b9",
+        "created_at": "2026-11-04T12:58:39.836514+00:00",
+        "updated_at": "2026-11-04T12:58:39.836514+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and plans to look up recipes to try making John's chicken soup.",
-        "score": 0.6698339917915231,
-        "id": "a46892a0-86e2-48a3-acd9-1e49783a1916",
-        "created_at": "2026-11-03T09:12:53.926748+00:00",
-        "updated_at": "2026-11-03T09:12:53.926748+00:00"
-      },
-      {
-        "memory": "John has been experimenting with cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, adding sage for flavor.",
-        "score": 0.6685300599579842,
-        "id": "416aab1d-b6af-4daf-b3e5-2d26f073c7d4",
-        "created_at": "2026-11-03T09:13:05.375387+00:00",
-        "updated_at": "2026-11-03T09:13:05.375387+00:00"
+        "memory": "John recently made a tasty chicken soup from scratch without a recipe, using sage as a key spice for flavor.",
+        "score": 0.6635022552686403,
+        "id": "19bc7de8-d749-4815-ac78-ecee1ec9e470",
+        "created_at": "2026-11-04T12:58:43.498227+00:00",
+        "updated_at": "2026-11-04T12:58:43.498227+00:00"
       },
       {
         "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup from scratch without a specific recipe, using sage for flavor.",
-        "score": 0.6632228833557445,
-        "id": "4bf4c5e4-0e77-4aa6-aa65-0707572c535c",
-        "created_at": "2026-11-03T09:13:00.153430+00:00",
-        "updated_at": "2026-11-03T09:13:00.153430+00:00"
+        "score": 0.662942397861705,
+        "id": "3bf95f88-ed90-4af2-b379-2cd818578bd2",
+        "created_at": "2026-11-04T12:58:39.833486+00:00",
+        "updated_at": "2026-11-04T12:58:39.833486+00:00"
       },
       {
-        "memory": "Tim enjoys experimenting with spices in his cooking and was interested in learning which spices John used in his homemade soup.",
-        "score": 0.6573113713637775,
-        "id": "25fc92ec-9301-4d8f-8ced-6050e5cc20df",
-        "created_at": "2026-11-03T09:13:05.382821+00:00",
-        "updated_at": "2026-11-03T09:13:05.382821+00:00"
+        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice.",
+        "score": 0.6595003336205698,
+        "id": "9eac1d0c-28e9-4055-9b33-7cbe24c78cb5",
+        "created_at": "2026-11-04T12:58:31.338462+00:00",
+        "updated_at": "2026-11-04T12:58:31.338462+00:00"
       },
       {
-        "memory": "John has been trying out cooking recipes and recently made a tasty chicken soup that he improvised without a specific recipe, using sage as a key spice for flavor.",
-        "score": 0.6537173639073596,
-        "id": "d8575b11-b33e-44f2-95e4-38c980b5225c",
-        "created_at": "2026-11-03T09:12:53.924273+00:00",
-        "updated_at": "2026-11-03T09:12:53.924273+00:00"
+        "memory": "John used sage as a spice in the chicken soup he made and shared with Tim on August 31, 2023.",
+        "score": 0.6487480017109194,
+        "id": "e4494537-cdf3-4e8c-87f0-1da1ef6050d4",
+        "created_at": "2026-11-04T12:58:23.144590+00:00",
+        "updated_at": "2026-11-04T12:58:23.144590+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices in cooking and plans to look up recipes to try making John's sage-infused chicken soup.",
+        "score": 0.6485115648830431,
+        "id": "8ab0f031-d4bc-4725-be8b-ac504a1e35ea",
+        "created_at": "2026-11-04T12:58:43.501482+00:00",
+        "updated_at": "2026-11-04T12:58:43.501482+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try using sage in recipes after John shared his chicken soup experience.",
+        "score": 0.6085996125308613,
+        "id": "e4101741-30c6-4d66-ab86-9535515e3154",
+        "created_at": "2026-11-04T12:58:26.531236+00:00",
+        "updated_at": "2026-11-04T12:58:26.531236+00:00"
       },
       {
         "memory": "John recently traveled to Italy and found the food, history, and architecture amazing, and acquired a book there that has inspired his cooking.",
-        "score": 0.589483030571285,
-        "id": "d8da1ff5-4c9c-4654-95c7-9337b955f43f",
-        "created_at": "2026-11-03T09:36:13.194440+00:00",
-        "updated_at": "2026-11-03T09:36:13.194440+00:00"
+        "score": 0.5790134878796361,
+        "id": "a811633f-e121-4673-af88-b6675c4bf307",
+        "created_at": "2026-11-04T13:22:31.867981+00:00",
+        "updated_at": "2026-11-04T13:22:31.867981+00:00"
       },
       {
-        "memory": "Tim enjoys experimenting with spices in cooking, as he expressed excitement about trying a soup recipe that included sage.",
-        "score": 0.588099887961963,
-        "id": "4b91022e-329e-4fab-a3db-f6a32f3a9d6a",
-        "created_at": "2026-11-03T09:13:26.756021+00:00",
-        "updated_at": "2026-11-03T09:13:26.756021+00:00"
+        "memory": "John is an athlete who recently suffered a sprained ankle injury, requiring him to miss games and use crutches or a cast during recovery.",
+        "score": 0.5243746235177091,
+        "id": "41af8dd2-c966-4427-8bc9-162c0a8db450",
+        "created_at": "2026-11-04T13:17:01.133878+00:00",
+        "updated_at": "2026-11-04T13:17:01.133878+00:00"
       },
       {
-        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John credits to the team's hard work and resilience.",
-        "score": 0.5313027961538067,
-        "id": "48262262-4caa-4f2b-93c2-7b393e401775",
-        "created_at": "2026-11-03T09:31:10.118402+00:00",
-        "updated_at": "2026-11-03T09:31:10.118402+00:00"
+        "memory": "John's basketball team recently defeated a top-tier opponent in a tough game, which John described as a wild victory achieved through hard fighting.",
+        "score": 0.5198118429337139,
+        "id": "77812eb6-d8aa-4f28-af77-5049b43a4aae",
+        "created_at": "2026-11-04T13:14:48.011579+00:00",
+        "updated_at": "2026-11-04T13:14:48.011579+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.5310091575453726,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie.",
+        "score": 0.5135623003280851,
+        "id": "58186b70-ff4b-4d56-a2e8-0e3dea15989e",
+        "created_at": "2026-11-04T13:14:55.382966+00:00",
+        "updated_at": "2026-11-04T13:14:55.382966+00:00"
       },
       {
-        "memory": "John is a professional basketball player who recently found a new gym to maintain his fitness, noting that staying fit is essential for surviving in pro ball.",
-        "score": 0.5234455744567209,
-        "id": "11974f98-44e1-41d4-bc42-0a93888952bc",
-        "created_at": "2026-11-03T09:09:22.068324+00:00",
-        "updated_at": "2026-11-03T09:09:22.068324+00:00"
+        "memory": "John described his recent basketball season as intense, featuring both tough losses and great wins, but stated that overall the team did pretty well.",
+        "score": 0.5025257926085738,
+        "id": "9f8cf865-348d-4bd3-9c47-a14e2855b3fa",
+        "created_at": "2026-11-04T13:02:39.506736+00:00",
+        "updated_at": "2026-11-04T13:02:39.506736+00:00"
       },
       {
-        "memory": "John's basketball team recently played a top-tier opponent and secured a victory after a tough game, which John highlighted as a moment of strong camaraderie and hard work.",
-        "score": 0.5231775483162128,
-        "id": "9aaf0111-3ee5-433c-aab4-85b2a54f8fdd",
-        "created_at": "2026-11-03T09:31:15.574811+00:00",
-        "updated_at": "2026-11-03T09:31:15.574811+00:00"
+        "memory": "John described feeling an unprecedented amount of love and happiness at his wedding, noting that friends from his hiking club attended even though he had only recently joined the group.",
+        "score": 0.5002472503501,
+        "id": "94133a7f-93e1-42be-b9ad-53ed57865c58",
+        "created_at": "2026-11-04T13:00:43.619474+00:00",
+        "updated_at": "2026-11-04T13:00:43.619474+00:00"
       },
       {
-        "memory": "John recently won a basketball trophy, which he credits to his team's hard work and dedication.",
-        "score": 0.521055633662965,
-        "id": "07c3596e-5d6a-44aa-b9f5-8e94515b55fe",
-        "created_at": "2026-11-03T09:30:48.604695+00:00",
-        "updated_at": "2026-11-03T09:30:48.604695+00:00"
+        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that John had previously shared.",
+        "score": 0.2632886814730865,
+        "id": "e383ef53-4bca-4669-b3bb-4d8e295b56f1",
+        "created_at": "2026-11-04T13:06:36.047460+00:00",
+        "updated_at": "2026-11-04T13:06:36.047460+00:00"
       },
       {
-        "memory": "John actively uses his influence and resources to support causes he believes in, aiming to make the world a better place, and recently spoke at a charity event where he was photographed on stage with another man.",
-        "score": 0.5138394837031318,
-        "id": "4031b8d0-605b-42c3-8876-b5dfe1932758",
-        "created_at": "2026-11-03T09:34:49.170106+00:00",
-        "updated_at": "2026-11-03T09:34:49.170106+00:00"
+        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and shared a photo of cooking on October 21, 2023.",
+        "score": 0.2552334128914858,
+        "id": "13ee0cfd-c53d-470d-a8a5-773867f6ba95",
+        "created_at": "2026-11-04T13:06:38.233348+00:00",
+        "updated_at": "2026-11-04T13:06:38.233348+00:00"
       },
       {
-        "memory": "John recently reread 'The Alchemist' and found it inspiring, noting that it motivated him to think about following his dreams and searching for his personal legend, leaving him feeling hopeful.",
-        "score": 0.5080704658959712,
-        "id": "b8e57ea7-5e70-4b3e-be62-8b7b94a1c104",
-        "created_at": "2026-11-03T09:28:20.999792+00:00",
-        "updated_at": "2026-11-03T09:28:20.999792+00:00"
+        "memory": "John finds cooking to be a therapeutic and creative activity that allows him to experiment with flavors, serving as a way to take a break from basketball.",
+        "score": 0.21905778569080359,
+        "id": "ba65189e-9073-42cc-a53c-30d2cba0f9ab",
+        "created_at": "2026-11-04T13:06:33.787510+00:00",
+        "updated_at": "2026-11-04T13:06:33.787510+00:00"
       },
       {
-        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
-        "score": 0.2995188411954989,
-        "id": "bc91278f-9786-437b-b809-97133839c1c0",
-        "created_at": "2026-11-03T09:21:16.833195+00:00",
-        "updated_at": "2026-11-03T09:21:16.833195+00:00"
-      },
-      {
-        "memory": "John considers cooking to be therapy for him, using it as a creative outlet to experiment with flavors and take a break from basketball.",
-        "score": 0.2587730971557663,
-        "id": "659fc158-fa0d-44a0-a9b3-b548b93fae6d",
-        "created_at": "2026-11-03T09:21:03.783333+00:00",
-        "updated_at": "2026-11-03T09:21:03.783333+00:00"
+        "memory": "John makes honey garlic chicken with roasted vegetables frequently, describing it as one of his favorite recipes that he often prepares.",
+        "score": 0.21427469729907153,
+        "id": "9e73e3c9-c401-4d9a-aea7-a4dc4b570fad",
+        "created_at": "2026-11-04T13:07:16.394864+00:00",
+        "updated_at": "2026-11-04T13:07:16.394864+00:00"
       }
     ],
-    "search_latency_ms": 105.8,
+    "search_latency_ms": 117.5,
     "total_results": 20
   },
   "cutoff_results": {

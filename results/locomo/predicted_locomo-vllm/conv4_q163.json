@@ -8,153 +8,153 @@
   "evidence": [
     "D27:5"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which language is Tim learning?",
     "search_results": [
       {
-        "memory": "Tim is currently learning German and finds the structure of the language easier to grasp than French, which he studied in high school.",
-        "score": 0.6860171810569884,
-        "id": "fae5d0b7-25f2-4132-b7df-1f634fd4fe82",
-        "created_at": "2026-11-03T09:36:18.480612+00:00",
-        "updated_at": "2026-11-03T09:36:18.480612+00:00"
+        "memory": "Tim uses a mobile app with a smiley face icon to practice language learning.",
+        "score": 0.7005929735343221,
+        "id": "4c0794f1-e30d-47c9-a0a6-cf2e3a6d4290",
+        "created_at": "2026-11-04T13:22:31.870329+00:00",
+        "updated_at": "2026-11-04T13:22:31.870329+00:00"
       },
       {
         "memory": "Tim is currently learning German and finds the structure of the language easier to grasp than French, which he studied in high school.",
-        "score": 0.6860171810569884,
-        "id": "11b9a64e-f7e2-4dd3-b681-64f2eb5c4b6a",
-        "created_at": "2026-11-03T09:36:13.186043+00:00",
-        "updated_at": "2026-11-03T09:36:13.186043+00:00"
+        "score": 0.685827901186628,
+        "id": "5f56f230-bf2c-4b0f-8755-2e433dc308dc",
+        "created_at": "2026-11-04T13:22:31.861110+00:00",
+        "updated_at": "2026-11-04T13:22:31.861110+00:00"
       },
       {
-        "memory": "Tim is learning German and finds the structure of the language easier to grasp because he previously took French in high school.",
-        "score": 0.6840816929278996,
-        "id": "313d7fbb-a2a1-4686-ac51-87651279058e",
-        "created_at": "2026-11-03T09:36:07.957989+00:00",
-        "updated_at": "2026-11-03T09:36:07.957989+00:00"
+        "memory": "Tim is currently learning German, finding the process tough but fun, and asked John if he knows any other languages.",
+        "score": 0.6758751300099609,
+        "id": "134ecd1d-c1d1-4935-8ef2-a01dbc1a232b",
+        "created_at": "2026-11-04T13:21:59.383303+00:00",
+        "updated_at": "2026-11-04T13:21:59.383303+00:00"
       },
       {
-        "memory": "Tim is using a language learning app to study Spanish, as of January 2, 2024.",
-        "score": 0.6733026692799962,
-        "id": "7f221eed-87d7-47db-9a9c-b85cbbc64e13",
-        "created_at": "2026-11-03T09:36:01.123235+00:00",
-        "updated_at": "2026-11-03T09:36:01.123235+00:00"
+        "memory": "Tim is using a language learning app on his phone to study Spanish, seeking recommendations for other good resources.",
+        "score": 0.6449233692980174,
+        "id": "5e42b760-0a87-48a3-a06d-029fb1f0d467",
+        "created_at": "2026-11-04T13:22:08.092331+00:00",
+        "updated_at": "2026-11-04T13:22:08.092331+00:00"
       },
       {
-        "memory": "Tim uses a mobile app for language learning, which John also uses on his phone to practice Spanish.",
-        "score": 0.6724404909074508,
-        "id": "92a432b0-2ab9-40e5-93ab-4db8c2793263",
-        "created_at": "2026-11-03T09:36:13.197460+00:00",
-        "updated_at": "2026-11-03T09:36:13.197460+00:00"
+        "memory": "Tim finds learning German tough but worth it, appreciating the structure of the language and noting that it is much easier than when he took French in high school.",
+        "score": 0.6363108002547573,
+        "id": "9342839c-ccc5-4e45-b11e-a29fe327a5e6",
+        "created_at": "2026-11-04T13:22:04.039804+00:00",
+        "updated_at": "2026-11-04T13:22:04.039804+00:00"
       },
       {
-        "memory": "Tim is currently learning German, finding it tough but fun due to its structure, which contrasts with his experience taking French in high school.",
-        "score": 0.6697446683695187,
-        "id": "d283dab4-9def-4114-aba8-54814dc02ec4",
-        "created_at": "2026-11-03T09:36:03.654061+00:00",
-        "updated_at": "2026-11-03T09:36:03.654061+00:00"
+        "memory": "Tim started learning how to play the piano recently, finding it a learning curve but satisfying to see progress.",
+        "score": 0.628899252108449,
+        "id": "ef6fb08f-2172-45f5-bd38-7ba80b191cbe",
+        "created_at": "2026-11-04T12:56:23.405713+00:00",
+        "updated_at": "2026-11-04T12:56:23.405713+00:00"
       },
       {
-        "memory": "Tim is learning German as of January 2, 2024, finding the process tough but fun.",
-        "score": 0.6577771569665741,
-        "id": "bae65f09-a515-4d6a-9921-e6446d2ce01f",
-        "created_at": "2026-11-03T09:35:51.705592+00:00",
-        "updated_at": "2026-11-03T09:35:51.705592+00:00"
-      },
-      {
-        "memory": "Both John and Tim use the same mobile app for practicing their respective language studies (German and Spanish).",
-        "score": 0.6459685234460151,
-        "id": "72c950bb-5ad5-4558-a829-a6e2497991db",
-        "created_at": "2026-11-03T09:36:18.486643+00:00",
-        "updated_at": "2026-11-03T09:36:18.486643+00:00"
-      },
-      {
-        "memory": "Tim took French in high school and finds the structure of German much easier to learn compared to his previous experience with French.",
-        "score": 0.6455584383499623,
-        "id": "3952b3ef-af36-4920-9c90-7509d3e42536",
-        "created_at": "2026-11-03T09:35:56.822852+00:00",
-        "updated_at": "2026-11-03T09:35:56.822852+00:00"
-      },
-      {
-        "memory": "Tim is a student who struggled with a tough exam in late November 2023 but turned it into a learning experience, studying hard and feeling resilient and determined about his progress.",
-        "score": 0.6292649795750137,
-        "id": "0d4192fd-1cb4-49da-91f9-3abd5e3c0d44",
-        "created_at": "2026-11-03T09:29:03.711964+00:00",
-        "updated_at": "2026-11-03T09:29:03.711964+00:00"
-      },
-      {
-        "memory": "Tim is learning to play the violin, focusing primarily on classical music while also being keen to explore jazz and film scores as a creative way to relax.",
-        "score": 0.6102993956740114,
-        "id": "11f6dc3b-f107-4fce-8259-1c1fa309231f",
-        "created_at": "2026-11-03T09:30:48.597830+00:00",
-        "updated_at": "2026-11-03T09:30:48.597830+00:00"
+        "memory": "John also uses the same language learning app on his phone to practice languages.",
+        "score": 0.6244530942688229,
+        "id": "1cafc767-0a86-43fa-85f5-0db4262e39ff",
+        "created_at": "2026-11-04T13:22:31.872484+00:00",
+        "updated_at": "2026-11-04T13:22:31.872484+00:00"
       },
       {
         "memory": "Tim is currently learning to play the violin, focusing primarily on classical music while also being keen to try jazz and film scores, viewing it as a way to relax and be creative.",
-        "score": 0.6060465382079154,
-        "id": "b1a7377e-83b9-435e-9e41-b755320dc433",
-        "created_at": "2026-11-03T09:30:37.463488+00:00",
-        "updated_at": "2026-11-03T09:30:37.463488+00:00"
+        "score": 0.6046292824367278,
+        "id": "319f1d35-c059-4c46-8c58-633cc5652874",
+        "created_at": "2026-11-04T13:14:00.324238+00:00",
+        "updated_at": "2026-11-04T13:14:00.324238+00:00"
       },
       {
-        "memory": "Tim started learning the violin in late 2023, having admired musicians for a long time; he finds it challenging but fun and a great way to relax and be creative.",
-        "score": 0.6020257543660137,
-        "id": "451ec911-fb86-469e-ba68-e9b5a06c0262",
-        "created_at": "2026-11-03T09:30:53.137059+00:00",
-        "updated_at": "2026-11-03T09:30:53.137059+00:00"
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding it a steep learning curve but very satisfying to see his progress.",
+        "score": 0.6006991773209049,
+        "id": "abe83ab6-48a1-4729-a366-9e9e46d326c3",
+        "created_at": "2026-11-04T12:56:09.098162+00:00",
+        "updated_at": "2026-11-04T12:56:09.098162+00:00"
       },
       {
-        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach a lot and help him learn new things.",
-        "score": 0.5925339272143566,
-        "id": "ffd7ff15-efe1-46e7-aab3-6a7e7b5428cb",
-        "created_at": "2026-11-03T09:28:43.313206+00:00",
-        "updated_at": "2026-11-03T09:28:43.313206+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, describing it as an amazing adventure and enjoying his progress.",
+        "score": 0.5958962431737527,
+        "id": "69fa2968-f8f2-4764-ab76-74e1dfc54325",
+        "created_at": "2026-11-04T13:14:19.494840+00:00",
+        "updated_at": "2026-11-04T13:14:19.494840+00:00"
+      },
+      {
+        "memory": "Tim is mostly into classical music while learning the violin but is keen to try out jazz and film scores, viewing it as a great way to chill and get creative.",
+        "score": 0.5943943050487226,
+        "id": "b15c4a6f-f800-4f4e-83d7-c5eac54213fd",
+        "created_at": "2026-11-04T13:14:07.934056+00:00",
+        "updated_at": "2026-11-04T13:14:07.934056+00:00"
+      },
+      {
+        "memory": "Tim had a tough exam in the week of November 27, 2023 that caused him to doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.5930291438886217,
+        "id": "d2140282-08e6-4382-8d97-9e96d21a6972",
+        "created_at": "2026-11-04T13:10:48.964008+00:00",
+        "updated_at": "2026-11-04T13:10:48.964008+00:00"
       },
       {
         "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.5923073486804133,
-        "id": "aa805a49-fc72-47db-8d87-4f579733e347",
-        "created_at": "2026-11-03T09:28:32.195322+00:00",
-        "updated_at": "2026-11-03T09:28:32.195322+00:00"
+        "score": 0.5909280588220385,
+        "id": "56068622-2963-42a4-a0b2-1123328db13b",
+        "created_at": "2026-11-04T13:10:52.600725+00:00",
+        "updated_at": "2026-11-04T13:10:52.600725+00:00"
       },
       {
-        "memory": "Tim had a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and realized how resilient and determined he can be.",
-        "score": 0.5923073486804133,
-        "id": "4fa553c6-8697-4e82-ae37-d0d8d0f0a58b",
-        "created_at": "2026-11-03T09:28:35.439717+00:00",
-        "updated_at": "2026-11-03T09:28:35.439717+00:00"
+        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach valuable lessons and help him learn new things.",
+        "score": 0.5877726081819237,
+        "id": "1b97d299-eb09-496e-a348-1c36922bed9b",
+        "created_at": "2026-11-04T13:11:03.475857+00:00",
+        "updated_at": "2026-11-04T13:11:03.475857+00:00"
       },
       {
-        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
-        "score": 0.5913095800268053,
-        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
-        "created_at": "2026-11-03T09:09:46.067003+00:00",
-        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, finding it an amazing adventure and enjoying his progress",
+        "score": 0.5867750011031221,
+        "id": "bc2cc6a5-4d8c-433e-8c3d-f5246302cdb7",
+        "created_at": "2026-11-04T13:14:12.731741+00:00",
+        "updated_at": "2026-11-04T13:14:12.731741+00:00"
       },
       {
-        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy novels, finding that he can learn a great deal from them.",
-        "score": 0.5908101758221322,
-        "id": "c1e3e55b-69f7-4580-923b-92950cdacfe4",
-        "created_at": "2026-11-03T09:28:08.188626+00:00",
-        "updated_at": "2026-11-03T09:28:08.188626+00:00"
+        "memory": "Tim faced a tough exam in the week before December 1, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
+        "score": 0.5864565474445501,
+        "id": "1dd3da92-7726-4d2c-9b82-f6b8d530ebb0",
+        "created_at": "2026-11-04T13:11:03.488623+00:00",
+        "updated_at": "2026-11-04T13:11:03.488623+00:00"
       },
       {
         "memory": "Tim faced a tough exam in the week of November 27, 2023, which initially made him doubt himself, but he turned it into a learning experience by studying hard and recognizing his own resilience and determination.",
-        "score": 0.587545075017546,
-        "id": "07a64b4a-ad09-4924-97d3-9e01185748ef",
-        "created_at": "2026-11-03T09:28:43.322745+00:00",
-        "updated_at": "2026-11-03T09:28:43.322745+00:00"
+        "score": 0.5861278192463584,
+        "id": "d25242d9-4d08-4193-890a-6797378bc7e5",
+        "created_at": "2026-11-04T13:11:23.206083+00:00",
+        "updated_at": "2026-11-04T13:11:23.206083+00:00"
       },
       {
-        "memory": "John is learning Spanish because he believes it is a useful language that offers many personal and professional opportunities.",
-        "score": 0.5820092946705672,
-        "id": "ae5d4ffd-03e9-4097-b864-27c749a7189e",
-        "created_at": "2026-11-03T09:36:18.483472+00:00",
-        "updated_at": "2026-11-03T09:36:18.483472+00:00"
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.5693143707586193,
+        "id": "d449cbc7-e924-4b3c-8203-2a9ad87a9fe3",
+        "created_at": "2026-11-04T13:13:11.210863+00:00",
+        "updated_at": "2026-11-04T13:13:11.210863+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.5689576264369266,
+        "id": "42927e7f-f75c-4bce-a74b-06e55fd7fc91",
+        "created_at": "2026-11-04T13:13:35.324994+00:00",
+        "updated_at": "2026-11-04T13:13:35.324994+00:00"
+      },
+      {
+        "memory": "Tim is a student who was swamped with studies and projects as of November 2023.",
+        "score": 0.308906688406103,
+        "id": "4644f301-b986-42f2-9a3f-71acf6747ddc",
+        "created_at": "2026-11-04T13:09:55.317413+00:00",
+        "updated_at": "2026-11-04T13:09:55.317413+00:00"
       }
     ],
-    "search_latency_ms": 127.1,
+    "search_latency_ms": 125.1,
     "total_results": 20
   },
   "cutoff_results": {
@@ -168,23 +168,23 @@
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "German",
+      "generated_answer": "German and Spanish",
       "memories_evaluated": 20,
-      "reason": "The generated answer exactly matches the gold answer."
+      "reason": "The generated answer includes 'German', which is the exact item in the gold answer, satisfying the partial credit rule."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "German",
+      "generated_answer": "German and Spanish",
       "memories_evaluated": 20,
-      "reason": "The generated answer exactly matches the gold answer."
+      "reason": "The generated answer includes 'German', which is the exact item in the gold answer, satisfying the partial credit rule."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "German",
+      "generated_answer": "German and Spanish",
       "memories_evaluated": 20,
-      "reason": "The generated answer exactly matches the gold answer."
+      "reason": "The generated answer includes 'German', which is the exact item in the gold answer, satisfying the partial credit rule."
     }
   }
 }

@@ -8,183 +8,183 @@
   "evidence": [
     "D21:13"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When did Tim start playing the violin?",
     "search_results": [
       {
-        "memory": "Tim started learning the violin in late 2023, having admired musicians for a long time; he finds it challenging but fun and a great way to relax and be creative.",
-        "score": 0.7086050499711947,
-        "id": "451ec911-fb86-469e-ba68-e9b5a06c0262",
-        "created_at": "2026-11-03T09:30:53.137059+00:00",
-        "updated_at": "2026-11-03T09:30:53.137059+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, describing it as an amazing adventure and enjoying his progress.",
+        "score": 0.6836316034562389,
+        "id": "69fa2968-f8f2-4764-ab76-74e1dfc54325",
+        "created_at": "2026-11-04T13:14:19.494840+00:00",
+        "updated_at": "2026-11-04T13:14:19.494840+00:00"
       },
       {
         "memory": "Tim is currently learning to play the violin, focusing primarily on classical music while also being keen to try jazz and film scores, viewing it as a way to relax and be creative.",
-        "score": 0.6809058265184152,
-        "id": "b1a7377e-83b9-435e-9e41-b755320dc433",
-        "created_at": "2026-11-03T09:30:37.463488+00:00",
-        "updated_at": "2026-11-03T09:30:37.463488+00:00"
+        "score": 0.68071595324046,
+        "id": "319f1d35-c059-4c46-8c58-633cc5652874",
+        "created_at": "2026-11-04T13:14:00.324238+00:00",
+        "updated_at": "2026-11-04T13:14:00.324238+00:00"
       },
       {
-        "memory": "Tim is learning to play the violin, focusing primarily on classical music while also being keen to explore jazz and film scores as a creative way to relax.",
-        "score": 0.6747195508650924,
-        "id": "11f6dc3b-f107-4fce-8259-1c1fa309231f",
-        "created_at": "2026-11-03T09:30:48.597830+00:00",
-        "updated_at": "2026-11-03T09:30:48.597830+00:00"
+        "memory": "Tim joined a travel club and recently started learning how to play the violin in addition to his piano studies, finding the new instrument challenging but fun because he has always admired musicians.",
+        "score": 0.6783806300704068,
+        "id": "e608793d-63d7-4740-9928-35054b0bc771",
+        "created_at": "2026-11-04T13:14:07.930397+00:00",
+        "updated_at": "2026-11-04T13:14:07.930397+00:00"
       },
       {
-        "memory": "Tim's musical interests include classical music primarily, with an interest in exploring jazz and film scores on the violin.",
-        "score": 0.6475931476604296,
-        "id": "158f5286-7dd9-478d-95f6-5c4e6a39274a",
-        "created_at": "2026-11-03T09:30:53.140297+00:00",
-        "updated_at": "2026-11-03T09:30:53.140297+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, finding it an amazing adventure and enjoying his progress",
+        "score": 0.6776340304474591,
+        "id": "bc2cc6a5-4d8c-433e-8c3d-f5246302cdb7",
+        "created_at": "2026-11-04T13:14:12.731741+00:00",
+        "updated_at": "2026-11-04T13:14:12.731741+00:00"
       },
       {
-        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
-        "score": 0.6398863499663026,
-        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
-        "created_at": "2026-11-03T09:09:46.067003+00:00",
-        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+        "memory": "Tim is mostly into classical music while learning the violin but is keen to try out jazz and film scores, viewing it as a great way to chill and get creative.",
+        "score": 0.6688410644126742,
+        "id": "b15c4a6f-f800-4f4e-83d7-c5eac54213fd",
+        "created_at": "2026-11-04T13:14:07.934056+00:00",
+        "updated_at": "2026-11-04T13:14:07.934056+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
-        "score": 0.6333045548812871,
-        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
-        "created_at": "2026-11-03T09:30:41.679787+00:00",
-        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+        "memory": "Tim is mostly into classical music but is keen to try out jazz and film scores on the violin, using it as a way to chill and get creative",
+        "score": 0.6661462346763863,
+        "id": "91e1dd06-18c1-45bd-8edd-1fdd180c8606",
+        "created_at": "2026-11-04T13:14:12.736314+00:00",
+        "updated_at": "2026-11-04T13:14:12.736314+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.6267940491066895,
-        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
-        "created_at": "2026-11-03T09:30:53.143666+00:00",
-        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+        "memory": "Tim is mostly into classical music but is keen to try out jazz and film scores on the violin, viewing it as a great way to chill and get creative.",
+        "score": 0.6603853790637005,
+        "id": "28102017-81b5-47a7-b864-564e7e8a5d67",
+        "created_at": "2026-11-04T13:14:19.497518+00:00",
+        "updated_at": "2026-11-04T13:14:19.497518+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.6267940491066895,
-        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
-        "created_at": "2026-11-03T09:30:48.601783+00:00",
-        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding it a steep learning curve but very satisfying to see his progress.",
+        "score": 0.6439573574926095,
+        "id": "abe83ab6-48a1-4729-a366-9e9e46d326c3",
+        "created_at": "2026-11-04T12:56:09.098162+00:00",
+        "updated_at": "2026-11-04T12:56:09.098162+00:00"
+      },
+      {
+        "memory": "Tim started learning how to play the piano recently, finding it a learning curve but satisfying to see progress.",
+        "score": 0.6329906156316552,
+        "id": "ef6fb08f-2172-45f5-bd38-7ba80b191cbe",
+        "created_at": "2026-11-04T12:56:23.405713+00:00",
+        "updated_at": "2026-11-04T12:56:23.405713+00:00"
+      },
+      {
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, describing it as an amazing adventure and really enjoying the progress he has been making.",
+        "score": 0.6288177245900689,
+        "id": "3ba9eb05-b675-4ff0-b75d-f16e8ecc88fb",
+        "created_at": "2026-11-04T13:14:07.937333+00:00",
+        "updated_at": "2026-11-04T13:14:07.937333+00:00"
       },
       {
         "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
-        "score": 0.6089694933471528,
-        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
-        "created_at": "2026-11-03T09:09:50.772054+00:00",
-        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+        "score": 0.6043033395765047,
+        "id": "9d95144d-d6de-4245-9126-dbfb28c60839",
+        "created_at": "2026-11-04T12:56:15.801176+00:00",
+        "updated_at": "2026-11-04T12:56:15.801176+00:00"
       },
       {
-        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
-        "score": 0.5985622095972148,
-        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
-        "created_at": "2026-11-03T09:31:05.110299+00:00",
-        "updated_at": "2026-11-03T09:31:05.110299+00:00"
-      },
-      {
-        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, chosen for its vibrant arts scene and Irish music.",
-        "score": 0.5908914606464807,
-        "id": "1dce8c63-c37d-400b-993e-9831515230a8",
-        "created_at": "2026-11-03T09:37:37.759260+00:00",
-        "updated_at": "2026-11-03T09:37:37.759260+00:00"
+        "memory": "Tim's favorite piano piece to play is the theme from 'Harry Potter and the Philosopher's Stone', which brings back great memories of watching the first movie in the series with his family.",
+        "score": 0.5848788546774528,
+        "id": "1f6bda0d-6a3a-4424-b3f1-37501ed8faa2",
+        "created_at": "2026-11-04T12:56:20.841319+00:00",
+        "updated_at": "2026-11-04T12:56:20.841319+00:00"
       },
       {
         "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
-        "score": 0.5857874846673059,
-        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
-        "created_at": "2026-11-03T09:37:29.774123+00:00",
-        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+        "score": 0.5828670648580749,
+        "id": "b238d075-cee7-480b-811b-ee150a9c7918",
+        "created_at": "2026-11-04T13:24:22.788254+00:00",
+        "updated_at": "2026-11-04T13:24:22.788254+00:00"
       },
       {
-        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
-        "score": 0.565856547962335,
-        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
-        "created_at": "2026-11-03T09:34:16.758221+00:00",
-        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, with plans to stay in Galway due to its vibrant arts scene and Irish music.",
+        "score": 0.5706810970047371,
+        "id": "c66b747c-33f6-4fff-b57a-1b7f3342ea1d",
+        "created_at": "2026-11-04T13:24:31.171692+00:00",
+        "updated_at": "2026-11-04T13:24:31.171692+00:00"
       },
       {
-        "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, planning to stay in Galway because of its vibrant arts scene and Irish music.",
-        "score": 0.5648789232941944,
-        "id": "6e945bcf-deb7-4c5c-932b-7eaa4f2f2eff",
-        "created_at": "2026-11-03T09:37:35.150665+00:00",
-        "updated_at": "2026-11-03T09:37:35.150665+00:00"
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.5569411873100247,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
         "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on Friday, January 5, 2024.",
-        "score": 0.5569670055958571,
-        "id": "1f1ebad6-c86a-411a-90e5-0bf206943695",
-        "created_at": "2026-11-03T09:37:25.182040+00:00",
-        "updated_at": "2026-11-03T09:37:25.182040+00:00"
-      },
-      {
-        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
-        "score": 0.555708991301033,
-        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
-        "created_at": "2026-11-03T09:21:00.674911+00:00",
-        "updated_at": "2026-11-03T09:21:00.674911+00:00"
-      },
-      {
-        "memory": "Tim will stay in Galway, Ireland during his study abroad semester starting February 2024, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
-        "score": 0.5554236437327307,
-        "id": "b01950c9-53b4-4504-bf85-018bebce82c5",
-        "created_at": "2026-11-03T09:37:17.942644+00:00",
-        "updated_at": "2026-11-03T09:37:17.942644+00:00"
+        "score": 0.5541525410126582,
+        "id": "a7d6b24a-bef8-495e-9b89-57dea0446611",
+        "created_at": "2026-11-04T13:24:17.331020+00:00",
+        "updated_at": "2026-11-04T13:24:17.331020+00:00"
       },
       {
         "memory": "Tim was accepted into a study abroad program and is traveling to Ireland for a semester starting in February 2024, having received the news on January 5, 2024.",
-        "score": 0.5537650385352204,
-        "id": "349c3729-8f11-4d89-827c-abf4b48d4fdd",
-        "created_at": "2026-11-03T09:37:32.363734+00:00",
-        "updated_at": "2026-11-03T09:37:32.363734+00:00"
+        "score": 0.5509852861739197,
+        "id": "c1652654-2ad9-4f5e-ab86-cfa67ea14dae",
+        "created_at": "2026-11-04T13:24:37.498786+00:00",
+        "updated_at": "2026-11-04T13:24:37.498786+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
-        "score": 0.5490737387869259,
-        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
-        "created_at": "2026-11-03T09:21:16.840236+00:00",
-        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things and shared a photo of a book with a golden cover on a table.",
+        "score": 0.550208029084523,
+        "id": "ebff549b-f567-48a8-aea1-495ddc89f777",
+        "created_at": "2026-11-04T13:18:31.834923+00:00",
+        "updated_at": "2026-11-04T13:18:31.834923+00:00"
       },
       {
-        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
-        "score": 0.3308290795995499,
-        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
-        "created_at": "2026-11-03T09:18:32.649446+00:00",
-        "updated_at": "2026-11-03T09:18:32.649446+00:00"
+        "memory": "Tim enjoys going on road trips with friends and family for exploring and hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.5478383272310896,
+        "id": "7f909d48-f5b0-43d7-baf7-b8b2bddae47b",
+        "created_at": "2026-11-04T13:06:33.791166+00:00",
+        "updated_at": "2026-11-04T13:06:33.791166+00:00"
+      },
+      {
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.2524875414325601,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       }
     ],
-    "search_latency_ms": 114.2,
+    "search_latency_ms": 128.6,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "late 2023",
+      "generated_answer": "August 2023",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'late 2023' is consistent with the gold answer 'August 2023' as August falls within the latter part of the year, satisfying the date tolerance and semantic overlap rules."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "late 2023",
+      "generated_answer": "August 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'late 2023' is consistent with the gold answer 'August 2023' as August falls within the latter part of the year, satisfying the date tolerance and semantic overlap rules."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "late 2023",
+      "generated_answer": "August 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'late 2023' is consistent with the gold answer 'August 2023' as August falls within the latter part of the year, satisfying the date tolerance and semantic overlap rules."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "late 2023",
+      "generated_answer": "August 2023",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'late 2023' is consistent with the gold answer 'August 2023' as August falls within the latter part of the year, satisfying the date tolerance and semantic overlap rules."
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

@@ -8,153 +8,153 @@
   "evidence": [
     "D14:16"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What year did Tim go to the Smoky Mountains?",
     "search_results": [
       {
-        "memory": "Tim went on a trip to the Smoky Mountains in 2022 and found the experience incredible, describing nature as refreshing and a good break from school.",
-        "score": 0.8951231432854717,
-        "id": "b0fb5f0c-5aa0-417d-af7f-52c2bffffd10",
-        "created_at": "2026-11-03T09:19:26.756015+00:00",
-        "updated_at": "2026-11-03T09:19:26.756015+00:00"
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, describing the view as incredible and nature as refreshing.",
+        "score": 0.8547078242053177,
+        "id": "c2759696-6d63-444b-9417-3c7e44908312",
+        "created_at": "2026-11-04T13:04:40.765959+00:00",
+        "updated_at": "2026-11-04T13:04:40.765959+00:00"
       },
       {
-        "memory": "Tim took a photo during a trip to the Smoky Mountains in October 2022 and found the experience incredible, appreciating nature's beauty as a refreshing break from school.",
-        "score": 0.8784241965140094,
-        "id": "4e5da3d9-1387-4ff5-9943-927aa6b1b690",
-        "created_at": "2026-11-03T09:19:36.419055+00:00",
-        "updated_at": "2026-11-03T09:19:36.419055+00:00"
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (around October 2022) and found the view incredible to see in person.",
+        "score": 0.8451743853496954,
+        "id": "ea7647bf-8245-44ab-89b3-a8b6886f6418",
+        "created_at": "2026-11-04T13:04:43.198071+00:00",
+        "updated_at": "2026-11-04T13:04:43.198071+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
-        "score": 0.8497475532781438,
-        "id": "aa518470-51a7-477e-b654-4684b8d85880",
-        "created_at": "2026-11-03T09:19:18.899142+00:00",
-        "updated_at": "2026-11-03T09:19:18.899142+00:00"
+        "memory": "Tim took a photo of the Blue Ridge Mountains in North Carolina during a trip to the Smoky Mountains in 2022 and found seeing the view in person incredible, describing nature as 'really something else'",
+        "score": 0.8446266758474129,
+        "id": "9e5ad5fb-02cb-41ed-ad6e-494b4d1f3957",
+        "created_at": "2026-11-04T13:04:23.946507+00:00",
+        "updated_at": "2026-11-04T13:04:23.946507+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during his trip to the Smoky Mountains in 2022, describing the experience as incredible and noting that nature is truly something else.",
-        "score": 0.8486774554901046,
-        "id": "0c06a3ad-44e0-422a-a7e0-8fc3b4c99b06",
-        "created_at": "2026-11-03T09:19:04.420466+00:00",
-        "updated_at": "2026-11-03T09:19:04.420466+00:00"
+        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (2022) and found the view incredible to see in person.",
+        "score": 0.8408992243454841,
+        "id": "38cf0c01-3084-4437-9375-329d183bd092",
+        "created_at": "2026-11-04T13:04:38.443337+00:00",
+        "updated_at": "2026-11-04T13:04:38.443337+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip last year (around 2022) and found the view incredible to see in person.",
-        "score": 0.8417788343224923,
-        "id": "2463ee2d-98c4-4fd1-9049-5a3161eeb4f5",
-        "created_at": "2026-11-03T09:19:22.331910+00:00",
-        "updated_at": "2026-11-03T09:19:22.331910+00:00"
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during a trip to the Smoky Mountains in the summer of 2022, describing the view as stunning and incredible to see in person.",
+        "score": 0.8342207536840343,
+        "id": "51035adb-4f5a-4d40-bc3d-d803f36aaded",
+        "created_at": "2026-11-04T13:04:48.591349+00:00",
+        "updated_at": "2026-11-04T13:04:48.591349+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during a trip to the Smoky Mountains in October 2022, describing the view as incredible and nature as refreshing.",
-        "score": 0.8415319464236672,
-        "id": "6435fc3e-baab-4615-8f35-b09c1df1050b",
-        "created_at": "2026-11-03T09:19:15.445975+00:00",
-        "updated_at": "2026-11-03T09:19:15.445975+00:00"
+        "memory": "Tim took a photo of a sunset over a mountain range with trees during a trip to the Smoky Mountains in North Carolina around October 2022, describing the view as incredible and stunning.",
+        "score": 0.8340029105127924,
+        "id": "9dc06d0e-2027-4a33-9d24-bdcbeb2c2ff0",
+        "created_at": "2026-11-04T13:04:35.991069+00:00",
+        "updated_at": "2026-11-04T13:04:35.991069+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Smoky Mountains in North Carolina during a trip in 2022, describing the view as incredible and nature as refreshing",
-        "score": 0.8337149437146059,
-        "id": "5838a2d4-e12c-4732-b4b3-3ac78cfe95fc",
-        "created_at": "2026-11-03T09:19:11.904521+00:00",
-        "updated_at": "2026-11-03T09:19:11.904521+00:00"
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during a trip to the Smoky Mountains in the summer of 2022, describing the view as stunning and incredible.",
+        "score": 0.8333799112045309,
+        "id": "f0cf070c-1ae6-480d-b4ed-29edd99e4ab0",
+        "created_at": "2026-11-04T13:04:45.867015+00:00",
+        "updated_at": "2026-11-04T13:04:45.867015+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina during the summer of 2023, which he described as stunning and meaningful to him.",
-        "score": 0.7401036488982761,
-        "id": "58e3890e-2790-4317-8834-5fc37cfe4d8f",
-        "created_at": "2026-11-03T09:18:59.358558+00:00",
-        "updated_at": "2026-11-03T09:18:59.358558+00:00"
+        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2023) and finds the view stunning, sharing it with John on October 17, 2023.",
+        "score": 0.7233572642923652,
+        "id": "e4051e56-b056-4731-9e2e-5fc4e9bec219",
+        "created_at": "2026-11-04T13:04:10.431233+00:00",
+        "updated_at": "2026-11-04T13:04:10.431233+00:00"
       },
       {
-        "memory": "Tim took a photo of a sunset over the Blue Ridge Mountains in North Carolina last summer (2022) and shared it with John on October 17, 2023, noting that seeing the view in person was incredible.",
-        "score": 0.7396317652951716,
-        "id": "7a90b97f-34f8-4d2a-87d4-2f743ae3c449",
-        "created_at": "2026-11-03T09:19:26.752495+00:00",
-        "updated_at": "2026-11-03T09:19:26.752495+00:00"
+        "memory": "Tim shared a photo of a mountain range with a sunset on December 1, 2023, stating that nature makes him feel tiny but connected.",
+        "score": 0.7068718072881784,
+        "id": "abc52e51-b5d5-4e18-bcdf-604e4705aad4",
+        "created_at": "2026-11-04T13:13:01.237144+00:00",
+        "updated_at": "2026-11-04T13:13:01.237144+00:00"
       },
       {
-        "memory": "John went on a trip to the Rocky Mountains in late 2022 and found the experience stunning, noting that seeing the mountains and breathing fresh air makes him realize how incredible the world is.",
-        "score": 0.7045487085964591,
-        "id": "46462d7d-ebf5-4af5-b14f-78883cd18eac",
-        "created_at": "2026-11-03T09:30:06.235566+00:00",
-        "updated_at": "2026-11-03T09:30:06.235566+00:00"
+        "memory": "Tim shared a photo of a sunset over a mountain range with a few trees on October 17, 2023, while catching up with John about what he has been up to",
+        "score": 0.7023685353117066,
+        "id": "850967fd-cbed-4fb4-8e53-edb6aa563c43",
+        "created_at": "2026-11-04T13:04:00.883571+00:00",
+        "updated_at": "2026-11-04T13:04:00.883571+00:00"
+      },
+      {
+        "memory": "John went on a camping trip to the Rocky Mountains in late 2022, describing the experience as stunning, peaceful, and refreshing due to the fresh air and natural beauty.",
+        "score": 0.70148856757502,
+        "id": "80ffba86-af07-4d31-8003-00f7c10c6750",
+        "created_at": "2026-11-04T13:13:28.149669+00:00",
+        "updated_at": "2026-11-04T13:13:28.149669+00:00"
       },
       {
         "memory": "John took a trip to the Rocky Mountains in 2022 and found it stunning, noting that seeing the mountains and fresh air makes him realize how incredible the world is.",
-        "score": 0.7033320407337078,
-        "id": "8f0254ad-4241-443b-808b-b2f249fec6b4",
-        "created_at": "2026-11-03T09:30:12.486990+00:00",
-        "updated_at": "2026-11-03T09:30:12.486990+00:00"
+        "score": 0.7001925078905324,
+        "id": "8888128b-6243-4c0b-8a8d-4cbef9d412a7",
+        "created_at": "2026-11-04T13:12:59.151589+00:00",
+        "updated_at": "2026-11-04T13:12:59.151589+00:00"
       },
       {
-        "memory": "Tim expressed that being in the mountains is the best, indicating a strong preference for mountain environments.",
-        "score": 0.6981838895639677,
-        "id": "932074fd-7c29-4417-b973-c19c85651ea0",
-        "created_at": "2026-11-03T09:29:59.881894+00:00",
-        "updated_at": "2026-11-03T09:29:59.881894+00:00"
+        "memory": "John took a trip to the Rocky Mountains in late 2022, which he described as stunning and breathtaking, noting that seeing the mountains and fresh air makes him realize how incredible the world is.",
+        "score": 0.6990858878172516,
+        "id": "4d4e6541-926b-4e9a-82c6-7544b95f6eff",
+        "created_at": "2026-11-04T13:13:11.216378+00:00",
+        "updated_at": "2026-11-04T13:13:11.216378+00:00"
       },
       {
-        "memory": "Tim shared a photo of a sunset over a mountain range with a few trees on October 17, 2023, as part of catching up with John about recent activities.",
-        "score": 0.688079018496437,
-        "id": "31d69e8a-9f9d-4081-9b78-71615edea966",
-        "created_at": "2026-11-03T09:18:54.875763+00:00",
-        "updated_at": "2026-11-03T09:18:54.875763+00:00"
+        "memory": "John's favorite part of his mountain camping trip was simply chilling and taking in the beauty of nature, which he found super peaceful and refreshing.",
+        "score": 0.6451895639977581,
+        "id": "1e5744e3-98b5-40ef-9aa3-8083cba6d18d",
+        "created_at": "2026-11-04T13:12:54.032532+00:00",
+        "updated_at": "2026-11-04T13:12:54.032532+00:00"
       },
       {
-        "memory": "John went camping in the Rocky Mountains in late 2022, describing the experience as stunning and peaceful, with refreshing air that helped clear his mind.",
-        "score": 0.6860559631655161,
-        "id": "8161167b-988a-4ec2-9ad7-d588e99db7a3",
-        "created_at": "2026-11-03T09:30:17.401314+00:00",
-        "updated_at": "2026-11-03T09:30:17.401314+00:00"
+        "memory": "Tim expressed that being in the mountains is the best and asked John about his favorite part of their camping trip.",
+        "score": 0.6417570514112189,
+        "id": "a1aaed37-0256-4917-b3bb-24ae4dd24778",
+        "created_at": "2026-11-04T13:12:51.965887+00:00",
+        "updated_at": "2026-11-04T13:12:51.965887+00:00"
       },
       {
-        "memory": "Tim describes nature as a 'reset for the soul' and shared a photo of a plane flying over a snowy mountain range on December 1, 2023, while discussing how natural landscapes calm him.",
-        "score": 0.6748237649357037,
-        "id": "2c4ee809-b3e6-4da0-93f1-6bcbc9b16dc4",
-        "created_at": "2026-11-03T09:30:04.107950+00:00",
-        "updated_at": "2026-11-03T09:30:04.107950+00:00"
+        "memory": "Tim is a student who finds nature refreshing and views trips to the mountains as a good break from school.",
+        "score": 0.6306646505418316,
+        "id": "a371cc94-e43b-4b79-a601-7ee3fe2d476f",
+        "created_at": "2026-11-04T13:04:35.985722+00:00",
+        "updated_at": "2026-11-04T13:04:35.985722+00:00"
       },
       {
-        "memory": "Tim finds trips to nature, such as visiting the Smoky Mountains, to be a good break from school",
-        "score": 0.6718917182200785,
-        "id": "141c8641-c345-424e-88fd-dc37e8c28577",
-        "created_at": "2026-11-03T09:19:11.908195+00:00",
-        "updated_at": "2026-11-03T09:19:11.908195+00:00"
+        "memory": "John went camping in the mountains last year (around late 2022), describing the experience as stunning with refreshing air, and found it peaceful and relaxing to disconnect from everyday life.",
+        "score": 0.6041856002836352,
+        "id": "bf557505-d2f7-4112-9c42-700c3a505a0b",
+        "created_at": "2026-11-04T13:13:11.213599+00:00",
+        "updated_at": "2026-11-04T13:13:11.213599+00:00"
       },
       {
-        "memory": "Tim shared a photo of a mountain range sunset with trees, which he took last summer (around August 2023).",
-        "score": 0.6156215954681259,
-        "id": "d9f512f3-cdf9-4044-b6b5-c3ed16d117aa",
-        "created_at": "2026-11-03T09:19:22.336725+00:00",
-        "updated_at": "2026-11-03T09:19:22.336725+00:00"
-      },
-      {
-        "memory": "Tim read a story from his traveler book about two hikers who trekked through the Himalayas and found it awesome, sharing an image of two men on horseback in front of a mountain.",
-        "score": 0.5909821527038719,
-        "id": "56ba87cc-1bdd-465c-8be3-cd260d4cbbf1",
-        "created_at": "2026-11-03T09:34:25.372715+00:00",
-        "updated_at": "2026-11-03T09:34:25.372715+00:00"
+        "memory": "Tim visited a Harry Potter-themed location in London a few years before May 21, 2023, describing the experience as 'like walking into a Harry Potter movie,' and also went on an amazing tour there.",
+        "score": 0.593410508546762,
+        "id": "fb0b6093-fe07-4be9-9784-46bfa5b6281b",
+        "created_at": "2026-11-04T12:49:36.938897+00:00",
+        "updated_at": "2026-11-04T12:49:36.938897+00:00"
       },
       {
         "memory": "Tim is a fan of LeBron James and was inspired by an epic block he made in a Finals game a few years prior to November 2023, which changed the game and led to a win.",
-        "score": 0.5705844199463941,
-        "id": "570e0548-dc37-425b-9586-3c5d8377eb33",
-        "created_at": "2026-11-03T09:22:32.321424+00:00",
-        "updated_at": "2026-11-03T09:22:32.321424+00:00"
+        "score": 0.5681601046209093,
+        "id": "aa8b4b50-76ee-4a7e-a958-eecc2f278c6f",
+        "created_at": "2026-11-04T13:07:32.540590+00:00",
+        "updated_at": "2026-11-04T13:07:32.540590+00:00"
       },
       {
-        "memory": "John went camping in the mountains last summer (2023) and described it as a blast where they disconnected from everyday life, enjoying the refreshing air and stunning scenery.",
-        "score": 0.5677866928199198,
-        "id": "e998394f-06f5-41b4-90b6-2fa4228fa047",
-        "created_at": "2026-11-03T09:30:12.481662+00:00",
-        "updated_at": "2026-11-03T09:30:12.481662+00:00"
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.5401346620930769,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
       }
     ],
-    "search_latency_ms": 117.5,
+    "search_latency_ms": 131.1,
     "total_results": 20
   },
   "cutoff_results": {

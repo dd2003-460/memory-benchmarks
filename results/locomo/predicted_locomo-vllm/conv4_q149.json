@@ -8,183 +8,183 @@
   "evidence": [
     "D22:13"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What book did Tim just finish reading on 8th December, 2023?",
     "search_results": [
       {
-        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
-        "score": 0.7561931592502632,
-        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
-        "created_at": "2026-11-03T09:35:32.397758+00:00",
-        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+        "memory": "Tim is planning to attend a book conference in September 2023, which features authors, publishers, and book lovers discussing favorite novels and new releases. Tim is excited about the event as it will help him learn more about literature and create connections.",
+        "score": 0.7853502038178453,
+        "id": "c254b71f-6eba-4410-a02f-aca6c6484a10",
+        "created_at": "2026-11-04T12:55:34.021910+00:00",
+        "updated_at": "2026-11-04T12:55:34.021910+00:00"
       },
       {
-        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
-        "score": 0.7486729289995468,
-        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
-        "created_at": "2026-11-03T09:09:46.069951+00:00",
-        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+        "memory": "John finally picked up a book to read after his conversation with Tim on October 17, 2023, and found it to be awesome despite having had little time to read previously.",
+        "score": 0.7788995978005062,
+        "id": "f80b6a1a-183c-4a80-b7a6-d4b5ae07f79e",
+        "created_at": "2026-11-04T13:04:45.876365+00:00",
+        "updated_at": "2026-11-04T13:04:45.876365+00:00"
       },
       {
-        "memory": "As of October 17, 2023, Tim is busy with studies but manages to find time to relax with books, maintaining a good balance between schoolwork and reading.",
-        "score": 0.741668471985381,
-        "id": "66fa4057-553f-44d6-b5da-a0aadd4fcb5c",
-        "created_at": "2026-11-03T09:19:26.759669+00:00",
-        "updated_at": "2026-11-03T09:19:26.759669+00:00"
+        "memory": "Tim shared a photo of his book collection on June 15, 2023, which includes books from the Harry Potter and Game of Thrones series.",
+        "score": 0.7614731546743708,
+        "id": "b8119362-9331-41a1-a174-2e92229efc0b",
+        "created_at": "2026-11-04T12:49:59.923614+00:00",
+        "updated_at": "2026-11-04T12:49:59.923614+00:00"
       },
       {
-        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
-        "score": 0.7293683572148327,
-        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
-        "created_at": "2026-11-03T09:34:23.210044+00:00",
-        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+        "memory": "Tim finds reading fantasy books in a cozy spot to be a blissful experience that feels like being in another world, and he shared a photo of his living room featuring a brown couch and white ottoman on July 16, 2023.",
+        "score": 0.7571039575626821,
+        "id": "50afd230-6900-4cfd-b119-45f5dd7bdae3",
+        "created_at": "2026-11-04T12:52:17.975085+00:00",
+        "updated_at": "2026-11-04T12:52:17.975085+00:00"
       },
       {
-        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
-        "score": 0.7177991600733822,
-        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
-        "created_at": "2026-11-03T09:34:16.758221+00:00",
-        "updated_at": "2026-11-03T09:34:16.758221+00:00"
+        "memory": "Tim is a student who found the week of August 26, 2023 overwhelming due to assignments and exams, but remains determined to juggle studying with his fantasy reading hobby.",
+        "score": 0.754305413701742,
+        "id": "d01ceee7-38fc-4220-9c21-41875d6ce73b",
+        "created_at": "2026-11-04T12:57:20.956339+00:00",
+        "updated_at": "2026-11-04T12:57:20.956339+00:00"
       },
       {
-        "memory": "As of December 26, 2023, Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024",
-        "score": 0.7118897476778159,
-        "id": "32321ac1-5928-4037-a3fa-6ad133a2638e",
-        "created_at": "2026-11-03T09:35:39.824581+00:00",
-        "updated_at": "2026-11-03T09:35:39.824581+00:00"
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress.",
+        "score": 0.7491923879486205,
+        "id": "1e57454a-e6b9-4825-93d4-6a6c6061c847",
+        "created_at": "2026-11-04T12:56:09.103011+00:00",
+        "updated_at": "2026-11-04T12:56:09.103011+00:00"
       },
       {
-        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
-        "score": 0.7060902795771669,
-        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
-        "created_at": "2026-11-03T09:35:29.806366+00:00",
-        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+        "memory": "Tim stated on January 2, 2024, that he will always love reading and shared a photo of his collection of Harry Potter books on his desk to emphasize this lifelong passion.",
+        "score": 0.7128404532367828,
+        "id": "48a8b7cc-2fc4-4cc7-9bf2-425c9b1d851f",
+        "created_at": "2026-11-04T13:22:36.885179+00:00",
+        "updated_at": "2026-11-04T13:22:36.885179+00:00"
       },
       {
-        "memory": "Tim owns a well-read copy of Harry Potter and the Sorcerer's Stone, which he shared in a photo on October 21, 2023.",
-        "score": 0.7035350863590419,
-        "id": "4e097a26-7c5e-449c-9186-eefa69a37c6b",
-        "created_at": "2026-11-03T09:19:47.270768+00:00",
-        "updated_at": "2026-11-03T09:19:47.270768+00:00"
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things and shared a photo of a book with a golden cover on a table.",
+        "score": 0.7108197536459162,
+        "id": "ebff549b-f567-48a8-aea1-495ddc89f777",
+        "created_at": "2026-11-04T13:18:31.834923+00:00",
+        "updated_at": "2026-11-04T13:18:31.834923+00:00"
       },
       {
-        "memory": "Tim shared a photo of a worn copy of 'A Storm of Swords' from the Game of Thrones series with John on November 11, 2023, mentioning that he has been reading as usual.",
-        "score": 0.685561558237919,
-        "id": "a5649d4d-332b-400d-91a5-f98bc2c66df4",
-        "created_at": "2026-11-03T09:23:39.184894+00:00",
-        "updated_at": "2026-11-03T09:23:39.184894+00:00"
+        "memory": "Tim is currently overwhelmed by school assignments and exams in late August 2023 but remains determined to juggle studying with his fantasy reading hobby.",
+        "score": 0.7094802014624548,
+        "id": "09c55e77-312c-49e6-83d5-aa3d6af5c340",
+        "created_at": "2026-11-04T12:57:17.314291+00:00",
+        "updated_at": "2026-11-04T12:57:17.314291+00:00"
       },
       {
-        "memory": "John stated that The Hobbit is one of his favorite books while discussing Tim's bookshelf on December 1, 2023.",
-        "score": 0.6814511757179862,
-        "id": "2b7f4a56-56f2-4d7f-a1fc-fcda064fff58",
-        "created_at": "2026-11-03T09:29:25.438620+00:00",
-        "updated_at": "2026-11-03T09:29:25.438620+00:00"
+        "memory": "Tim is reading an inspiring series about the power of friendship and loyalty, which he shared with John on December 8, 2023.",
+        "score": 0.7018426283477479,
+        "id": "544abd4b-5872-4381-92a8-2870ada0a64a",
+        "created_at": "2026-11-04T13:14:51.317124+00:00",
+        "updated_at": "2026-11-04T13:14:51.317124+00:00"
       },
       {
-        "memory": "Tim reorganized his bookshelf around December 1, 2023, which features a collection of fantasy novels including Harry Potter, Game of Thrones, and Lord of the Rings.",
-        "score": 0.6806904124453188,
-        "id": "95dd0f0e-804a-45af-93e1-4cdb2d5c6303",
-        "created_at": "2026-11-03T09:29:29.490802+00:00",
-        "updated_at": "2026-11-03T09:29:29.490802+00:00"
+        "memory": "Tim shared a photo of his bookshelf on December 1, 2023, featuring favorite fantasy books including Harry Potter, Game of Thrones, and Lord of the Rings.",
+        "score": 0.6959287054209261,
+        "id": "708d9526-f8ab-455d-876d-b64594a66337",
+        "created_at": "2026-11-04T13:11:57.257218+00:00",
+        "updated_at": "2026-11-04T13:11:57.257218+00:00"
       },
       {
-        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared photos of it with John, highlighting that they both enjoy fantasy books and movies.",
-        "score": 0.6800388131437314,
-        "id": "0a33fb79-f94c-4e12-8fdf-b941dbc6ddfb",
-        "created_at": "2026-11-03T09:29:25.434971+00:00",
-        "updated_at": "2026-11-03T09:29:25.434971+00:00"
+        "memory": "Tim is excited about a new fantasy TV series scheduled to release in January 2024, which he was looking forward to as of December 26, 2023.",
+        "score": 0.695315031873233,
+        "id": "3dca5b45-3fad-4763-aed5-e9480bec2426",
+        "created_at": "2026-11-04T13:21:29.992346+00:00",
+        "updated_at": "2026-11-04T13:21:29.992346+00:00"
       },
       {
-        "memory": "Tim owns a bookshelf featuring favorite books including Harry Potter, Game of Thrones, Lord of the Rings, and The Hobbit, which he shared with John on December 1, 2023.",
-        "score": 0.6788435013717419,
-        "id": "9606af53-a3ac-430f-a771-68bd46ed103f",
-        "created_at": "2026-11-03T09:29:41.600020+00:00",
-        "updated_at": "2026-11-03T09:29:41.600020+00:00"
+        "memory": "Tim has a bookshelf featuring favorite fantasy books including 'Harry Potter', 'Game of Thrones', and 'Lord of the Rings', which he shared with John on December 1, 2023.",
+        "score": 0.6953037433913606,
+        "id": "8b6b2e8d-d713-4dd6-9f24-f6f6ecf8d067",
+        "created_at": "2026-11-04T13:12:24.502718+00:00",
+        "updated_at": "2026-11-04T13:12:24.502718+00:00"
       },
       {
-        "memory": "Tim reorganized his bookshelf around December 1, 2023, which is filled with fantasy novels including Game of Thrones and Harry Potter series, as well as DVDs and games.",
-        "score": 0.6779272200629636,
-        "id": "c444b778-8aff-43bc-a1e8-fd584e249a92",
-        "created_at": "2026-11-03T09:29:21.154703+00:00",
-        "updated_at": "2026-11-03T09:29:21.154703+00:00"
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, as discussed on December 26, 2023.",
+        "score": 0.6927919079339089,
+        "id": "ab4f8b6a-fa24-44e3-b8d6-7aea758fb2d5",
+        "created_at": "2026-11-04T13:21:33.247250+00:00",
+        "updated_at": "2026-11-04T13:21:33.247250+00:00"
       },
       {
-        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
-        "score": 0.6711722919722963,
-        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
-        "created_at": "2026-11-03T09:35:34.717763+00:00",
-        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared a photo of the shelf filled with many books including fantasy novels like Game of Thrones and Harry Potter.",
+        "score": 0.6815890965920477,
+        "id": "cbc2cdeb-cf1b-4cf5-9a3f-03b556900826",
+        "created_at": "2026-11-04T13:11:50.467952+00:00",
+        "updated_at": "2026-11-04T13:11:50.467952+00:00"
       },
       {
-        "memory": "Tim completed an analysis for his English literature class on the Game of Thrones series around December 11, 2023, feeling that it went okay despite having a tough time with the class.",
-        "score": 0.6693667400007842,
-        "id": "2719581c-fcbb-4405-b639-93b622f5ffe2",
-        "created_at": "2026-11-03T09:31:45.171754+00:00",
-        "updated_at": "2026-11-03T09:31:45.171754+00:00"
+        "memory": "Tim reorganized his bookshelf around December 1, 2023, which features favorite fantasy novels such as Harry Potter, Game of Thrones, and Lord of the Rings.",
+        "score": 0.680555744674842,
+        "id": "39e895e5-5d99-4d5f-aa46-8a40b8ecf2db",
+        "created_at": "2026-11-04T13:12:17.561436+00:00",
+        "updated_at": "2026-11-04T13:12:17.561436+00:00"
       },
       {
-        "memory": "Tim completed an analysis of the Game of Thrones series for his English literature class around December 11, 2023, and felt it went okay despite having a tough time with the class.",
-        "score": 0.6648775273113856,
-        "id": "fa5c0f34-48f2-4370-bb5d-4b9a1d939289",
-        "created_at": "2026-11-03T09:31:49.899847+00:00",
-        "updated_at": "2026-11-03T09:31:49.899847+00:00"
+        "memory": "Tim shared a photo on December 26, 2023, showing a stack of Harry Potter books on his desk, noting that he loves getting lost in this series as a magical world to escape to during his downtime.",
+        "score": 0.6775377778946052,
+        "id": "97fa2e06-7776-4094-b2fd-ef48bcf92ec0",
+        "created_at": "2026-11-04T13:21:03.609710+00:00",
+        "updated_at": "2026-11-04T13:21:03.609710+00:00"
       },
       {
-        "memory": "Tim reorganized his bookshelf on December 1, 2023, and shared a photo of the shelf filled with fantasy novels including Game of Thrones and Harry Potter.",
-        "score": 0.6641692630782765,
-        "id": "7b08fbe5-fe06-4103-85a9-e34910869141",
-        "created_at": "2026-11-03T09:29:18.867517+00:00",
-        "updated_at": "2026-11-03T09:29:18.867517+00:00"
+        "memory": "Tim shared a photo of a worn copy of 'A Storm of Swords' from the Game of Thrones series on November 11, 2023, while mentioning that he has been reading as usual.",
+        "score": 0.6775213855395801,
+        "id": "eab2c42d-daf4-42d4-bbc2-d55909d35d8d",
+        "created_at": "2026-11-04T13:08:05.750446+00:00",
+        "updated_at": "2026-11-04T13:08:05.750446+00:00"
       },
       {
-        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
-        "score": 0.6603730462471497,
-        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
-        "created_at": "2026-11-03T09:19:26.762706+00:00",
-        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip, motivated by reading about a challenging Himalayan trek that involved altitude sickness and bad weather.",
+        "score": 0.667697913771973,
+        "id": "c7ac19f6-23f8-42d1-8f2d-1cd947c17df9",
+        "created_at": "2026-11-04T13:20:21.777760+00:00",
+        "updated_at": "2026-11-04T13:20:21.777760+00:00"
       },
       {
-        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
-        "score": 0.6596700070243606,
-        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
-        "created_at": "2026-11-03T09:30:53.131364+00:00",
-        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, as revealed in December 2023.",
+        "score": 0.6646776031919502,
+        "id": "bcfb1b7b-7c55-4b7b-99c6-f17a93e23af6",
+        "created_at": "2026-11-04T13:21:38.958909+00:00",
+        "updated_at": "2026-11-04T13:21:38.958909+00:00"
       }
     ],
-    "search_latency_ms": 146.1,
+    "search_latency_ms": 170.3,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "A Storm of Swords",
+      "generated_answer": "Harry Potter",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'A Storm of Swords' is a different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+      "reason": "The generated answer 'Harry Potter' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "A Storm of Swords",
+      "generated_answer": "Harry Potter",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'A Storm of Swords' is a different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+      "reason": "The generated answer 'Harry Potter' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "A Storm of Swords",
+      "generated_answer": "Harry Potter",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'A Storm of Swords' is a different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+      "reason": "The generated answer 'Harry Potter' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "A Storm of Swords",
+      "generated_answer": "Harry Potter",
       "memories_evaluated": 20,
-      "reason": "The generated answer 'A Storm of Swords' is a different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
+      "reason": "The generated answer 'Harry Potter' is a completely different book from the gold answer 'A Dance with Dragons', so it contains zero correct items."
     }
   }
 }

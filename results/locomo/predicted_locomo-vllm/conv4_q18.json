@@ -14,183 +14,183 @@
     "D20:21",
     "D26:36"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What authors has Tim read books from?",
     "search_results": [
       {
-        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
-        "score": 0.6892580099156449,
-        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
-        "created_at": "2026-11-03T09:10:57.499689+00:00",
-        "updated_at": "2026-11-03T09:10:57.499689+00:00"
-      },
-      {
         "memory": "Tim has read the Game of Thrones (GoT) series by George R. R. Martin but has not read any other books by the author.",
-        "score": 0.687417854996346,
-        "id": "868caca8-d8f9-43d5-b778-93c98ee077bd",
-        "created_at": "2026-11-03T09:31:36.074747+00:00",
-        "updated_at": "2026-11-03T09:31:36.074747+00:00"
+        "score": 0.6872287944288584,
+        "id": "93312a2f-745e-475e-9211-c7c4cea79c14",
+        "created_at": "2026-11-04T13:15:33.061402+00:00",
+        "updated_at": "2026-11-04T13:15:33.061402+00:00"
       },
       {
-        "memory": "John finally picked up a book to read after his conversation with Tim and found it awesome, despite previously not having much time to read.",
-        "score": 0.6774513499098116,
-        "id": "2be38312-8baa-42ac-a0fb-2ff38535a819",
-        "created_at": "2026-11-03T09:19:26.762706+00:00",
-        "updated_at": "2026-11-03T09:19:26.762706+00:00"
+        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK specifically sparked many ideas for his stories.",
+        "score": 0.6756733642029458,
+        "id": "bc13d59c-bd78-4aac-88d1-9e5e973dbdac",
+        "created_at": "2026-11-04T13:05:39.350877+00:00",
+        "updated_at": "2026-11-04T13:05:39.350877+00:00"
       },
       {
-        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK sparked many ideas for his stories.",
-        "score": 0.6771347304886464,
-        "id": "84d7f1ec-a151-41a3-aa19-b541fe4e33d3",
-        "created_at": "2026-11-03T09:20:07.690643+00:00",
-        "updated_at": "2026-11-03T09:20:07.690643+00:00"
+        "memory": "Tim is always on the lookout for new book recommendations and actively seeks out new reads to add to his collection.",
+        "score": 0.6717816283910719,
+        "id": "a66cb84c-9721-4311-ab22-6c434e09b54b",
+        "created_at": "2026-11-04T13:15:10.781693+00:00",
+        "updated_at": "2026-11-04T13:15:10.781693+00:00"
       },
       {
-        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy novels, finding that he can learn a great deal from them.",
-        "score": 0.6740613523342119,
-        "id": "c1e3e55b-69f7-4580-923b-92950cdacfe4",
-        "created_at": "2026-11-03T09:28:08.188626+00:00",
-        "updated_at": "2026-11-03T09:28:08.188626+00:00"
+        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommends it to others.",
+        "score": 0.6661680840760187,
+        "id": "32c206d2-8b89-451a-b0c6-7a3d5b515da0",
+        "created_at": "2026-11-04T13:25:22.860969+00:00",
+        "updated_at": "2026-11-04T13:25:22.860969+00:00"
       },
       {
-        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, praising the author's world-building and character development, and recommends it to others.",
-        "score": 0.6676800628264822,
-        "id": "141c9cd6-75bd-44f6-8ee6-65a857359a16",
-        "created_at": "2026-11-03T09:01:31.788245+00:00",
-        "updated_at": "2026-11-03T09:01:31.788245+00:00"
+        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, which he describes as awesome due to the author's amazing world-building and character development.",
+        "score": 0.6652263818435229,
+        "id": "bc041d22-4021-4167-8cfb-90d84bd94b08",
+        "created_at": "2026-11-04T12:53:33.333529+00:00",
+        "updated_at": "2026-11-04T12:53:33.333529+00:00"
+      },
+      {
+        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach valuable lessons and help him learn new things.",
+        "score": 0.663252633369692,
+        "id": "1b97d299-eb09-496e-a348-1c36922bed9b",
+        "created_at": "2026-11-04T13:11:03.475857+00:00",
+        "updated_at": "2026-11-04T13:11:03.475857+00:00"
+      },
+      {
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with things he loves to make writing more fun.",
+        "score": 0.661649869309015,
+        "id": "4a572cd0-49f3-4c4a-b0ec-be1bd91874bf",
+        "created_at": "2026-11-04T13:05:05.872090+00:00",
+        "updated_at": "2026-11-04T13:05:05.872090+00:00"
+      },
+      {
+        "memory": "John finally picked up a book to read after his conversation with Tim on October 17, 2023, and found it to be awesome despite having had little time to read previously.",
+        "score": 0.6610350605115559,
+        "id": "f80b6a1a-183c-4a80-b7a6-d4b5ae07f79e",
+        "created_at": "2026-11-04T13:04:45.876365+00:00",
+        "updated_at": "2026-11-04T13:04:45.876365+00:00"
       },
       {
         "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, who added it to his reading list.",
-        "score": 0.6640295738931951,
-        "id": "9191f56c-d8b6-40c3-b7fe-e0b705a4b9b0",
-        "created_at": "2026-11-03T09:38:13.160390+00:00",
-        "updated_at": "2026-11-03T09:38:13.160390+00:00"
+        "score": 0.6592822643683591,
+        "id": "adbb614d-3362-499e-824c-9d8e54bbee6d",
+        "created_at": "2026-11-04T13:25:33.723407+00:00",
+        "updated_at": "2026-11-04T13:25:33.723407+00:00"
       },
       {
-        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach a lot and help him learn new things.",
-        "score": 0.6628453100489089,
-        "id": "ffd7ff15-efe1-46e7-aab3-6a7e7b5428cb",
-        "created_at": "2026-11-03T09:28:43.313206+00:00",
-        "updated_at": "2026-11-03T09:28:43.313206+00:00"
+        "memory": "Tim enjoys reading books on personal growth, psychology, and self-improvement in addition to fantasy stories, finding that they offer valuable lessons for bettering himself.",
+        "score": 0.659173797378888,
+        "id": "cad6b1ec-731e-4805-bb0d-f3fa1782fcf9",
+        "created_at": "2026-11-04T13:10:21.516890+00:00",
+        "updated_at": "2026-11-04T13:10:21.516890+00:00"
       },
       {
-        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
-        "score": 0.6579502565449948,
-        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
-        "created_at": "2026-11-03T09:20:07.698691+00:00",
-        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+        "memory": "Tim has been focusing on school and reading a large number of fantasy books recently, using them as a way to take a break from stress.",
+        "score": 0.6574572815567985,
+        "id": "4e8d08c6-effe-44d7-9e6c-cc7ce95ea4ff",
+        "created_at": "2026-11-04T12:56:11.440445+00:00",
+        "updated_at": "2026-11-04T12:56:11.440445+00:00"
+      },
+      {
+        "memory": "Tim is currently balancing busy school studies with reading books as a way to relax, describing it as a good balance.",
+        "score": 0.657439375968553,
+        "id": "dc9ccc03-17ce-4177-9cb0-fe44c8b2cda5",
+        "created_at": "2026-11-04T13:04:43.202234+00:00",
+        "updated_at": "2026-11-04T13:04:43.202234+00:00"
       },
       {
         "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, specifically citing reading about castles in the UK as a source of ideas.",
-        "score": 0.6569841756275286,
-        "id": "28157729-a7fb-4d9e-bee4-c25ce4240e40",
-        "created_at": "2026-11-03T09:19:51.802288+00:00",
-        "updated_at": "2026-11-03T09:19:51.802288+00:00"
-      },
-      {
-        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with these interests to make writing more fun.",
-        "score": 0.6564976742731257,
-        "id": "8953bf23-5c3a-4dda-b9b4-b63beed67e32",
-        "created_at": "2026-11-03T09:19:41.440880+00:00",
-        "updated_at": "2026-11-03T09:19:41.440880+00:00"
+        "score": 0.6566181747080048,
+        "id": "b155435c-efa0-4c06-834b-3814ae29fbef",
+        "created_at": "2026-11-04T13:05:26.936883+00:00",
+        "updated_at": "2026-11-04T13:05:26.936883+00:00"
       },
       {
         "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and is using for inspiration.",
-        "score": 0.6557658022001638,
-        "id": "ca7d61ba-2644-4c48-a78c-94e6df954838",
-        "created_at": "2026-11-03T09:34:36.187606+00:00",
-        "updated_at": "2026-11-03T09:34:36.187606+00:00"
+        "score": 0.65550204986103,
+        "id": "42bb8ee2-6828-44e4-be1a-ee36f2c2647d",
+        "created_at": "2026-11-04T13:19:17.722960+00:00",
+        "updated_at": "2026-11-04T13:19:17.722960+00:00"
       },
       {
-        "memory": "Tim has been reading stories from travelers around the world to plan his next adventure, using a specific book he found that features a cover with a boy and a girl.",
-        "score": 0.6553222361268208,
-        "id": "a7b4b98d-3346-4457-9c1b-e21edd58afd4",
-        "created_at": "2026-11-03T09:34:20.910771+00:00",
-        "updated_at": "2026-11-03T09:34:20.910771+00:00"
+        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss and highly recommends it to John, praising the author's world-building and character development.",
+        "score": 0.6548623522376781,
+        "id": "68aa41bb-7631-4eb7-933c-0c2bef9ca1de",
+        "created_at": "2026-11-04T12:53:35.729363+00:00",
+        "updated_at": "2026-11-04T12:53:35.729363+00:00"
       },
       {
-        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss as of January 7, 2024, and recommends it to John.",
-        "score": 0.653222096510244,
-        "id": "55b8998c-d653-433b-a124-d26742ea5eb1",
-        "created_at": "2026-11-03T09:37:55.814264+00:00",
-        "updated_at": "2026-11-03T09:37:55.814264+00:00"
+        "memory": "Tim enjoys reading fantasy novels, which he keeps on a bookshelf, because they fire up his imagination and take him to alternate realities as an escape from reality.",
+        "score": 0.6522117058073149,
+        "id": "9273376d-5c9d-46ed-b304-b81df25ad253",
+        "created_at": "2026-11-04T13:01:27.322528+00:00",
+        "updated_at": "2026-11-04T13:01:27.322528+00:00"
       },
       {
-        "memory": "Tim is currently reading the fantasy novel 'The Name of the Wind' by Patrick Rothfuss and recommended it to John, describing it as really good.",
-        "score": 0.6525820566457534,
-        "id": "1b18e936-ef83-4d2f-b45d-2445ac84e12c",
-        "created_at": "2026-11-03T09:38:08.165227+00:00",
-        "updated_at": "2026-11-03T09:38:08.165227+00:00"
+        "memory": "Tim is reading stories from travelers from around the world to plan his next adventure, using a specific book he found that features these global travel narratives.",
+        "score": 0.6485120515475421,
+        "id": "67168572-0d20-4c90-b58e-40d0be5dffb4",
+        "created_at": "2026-11-04T13:18:41.356469+00:00",
+        "updated_at": "2026-11-04T13:18:41.356469+00:00"
       },
       {
-        "memory": "Tim is a student who finds assignments and exams overwhelming but is determined not to give up, and he is trying to balance studying with his fantasy reading hobby.",
-        "score": 0.6498671462581974,
-        "id": "4df58466-77f0-4ad0-a8ad-779765352955",
-        "created_at": "2026-11-03T09:11:02.810349+00:00",
-        "updated_at": "2026-11-03T09:11:02.810349+00:00"
+        "memory": "Tim has been focusing on school and reading fantasy books as a way to take a break from stress since their last conversation.",
+        "score": 0.6472294476788987,
+        "id": "dc7af4d3-c98c-4658-a7fd-23afffdc1904",
+        "created_at": "2026-11-04T12:56:23.402230+00:00",
+        "updated_at": "2026-11-04T12:56:23.402230+00:00"
       },
       {
-        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
-        "score": 0.6478841257653797,
-        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
-        "created_at": "2026-11-03T09:09:46.069951+00:00",
-        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+        "memory": "Tim is planning his next adventure by reading a book of stories from travelers around the world, which he found and shared with John.",
+        "score": 0.6466117003612191,
+        "id": "45e03dc0-d63c-443b-8226-4afc53f4ab8c",
+        "created_at": "2026-11-04T13:19:50.322551+00:00",
+        "updated_at": "2026-11-04T13:19:50.322551+00:00"
       },
       {
-        "memory": "Tim has been writing more articles recently, describing the activity as a way to combine his love for reading with the joy of sharing great stories.",
-        "score": 0.6472128991339358,
-        "id": "cfb732a9-a766-473c-a35e-d5e9518f3c76",
-        "created_at": "2026-11-03T09:07:04.400993+00:00",
-        "updated_at": "2026-11-03T09:07:04.400993+00:00"
-      },
-      {
-        "memory": "Tim enjoys reading books on growth, psychology, and self-improvement in addition to fantasy stories, finding that these books help him discover new ways to better himself.",
-        "score": 0.6469307150189574,
-        "id": "4b83de1f-eacb-4d8a-bd2b-d2e0f6f4d293",
-        "created_at": "2026-11-03T09:28:21.004687+00:00",
-        "updated_at": "2026-11-03T09:28:21.004687+00:00"
-      },
-      {
-        "memory": "Tim confirmed that Harry Potter and Game of Thrones are still his favorite books, appreciating how they transport him to other places.",
-        "score": 0.6460064852776678,
-        "id": "9ce3850b-c629-4c89-83de-6846ca7b1585",
-        "created_at": "2026-11-03T09:27:54.274107+00:00",
-        "updated_at": "2026-11-03T09:27:54.274107+00:00"
+        "memory": "Tim has been writing more articles for his online fantasy magazine, describing the work as a way to combine his love for reading with the joy of sharing great stories.",
+        "score": 0.6448223623361362,
+        "id": "8075b8a5-172d-4241-ba1c-f95b7ea5c366",
+        "created_at": "2026-11-04T12:53:59.884709+00:00",
+        "updated_at": "2026-11-04T12:53:59.884709+00:00"
       }
     ],
-    "search_latency_ms": 96.1,
+    "search_latency_ms": 114.7,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "Patrick Rothfuss, J.K. Rowling, and George R. R. Martin",
+      "generated_answer": "Patrick Rothfuss and George R. R. Martin",
       "memories_evaluated": 10,
-      "reason": "The generated answer includes Patrick Rothfuss, J.K. Rowling, and George R. R. Martin, which are all present in the gold answer list, satisfying the partial credit rule."
+      "reason": "The generated answer includes Patrick Rothfuss and George R. R. Martin, both of which are correct items from the gold answer list."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "Patrick Rothfuss, J.K. Rowling, and George R. R. Martin",
+      "generated_answer": "Patrick Rothfuss and George R. R. Martin",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes Patrick Rothfuss, J.K. Rowling, and George R. R. Martin, which are all present in the gold answer list, satisfying the partial credit rule."
+      "reason": "The generated answer includes Patrick Rothfuss and George R. R. Martin, both of which are correct items from the gold answer list."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "Patrick Rothfuss, J.K. Rowling, and George R. R. Martin",
+      "generated_answer": "Patrick Rothfuss and George R. R. Martin",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes Patrick Rothfuss, J.K. Rowling, and George R. R. Martin, which are all present in the gold answer list, satisfying the partial credit rule."
+      "reason": "The generated answer includes Patrick Rothfuss and George R. R. Martin, both of which are correct items from the gold answer list."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "Patrick Rothfuss, J.K. Rowling, and George R. R. Martin",
+      "generated_answer": "Patrick Rothfuss and George R. R. Martin",
       "memories_evaluated": 20,
-      "reason": "The generated answer includes Patrick Rothfuss, J.K. Rowling, and George R. R. Martin, which are all present in the gold answer list, satisfying the partial credit rule."
+      "reason": "The generated answer includes Patrick Rothfuss and George R. R. Martin, both of which are correct items from the gold answer list."
     }
   }
 }

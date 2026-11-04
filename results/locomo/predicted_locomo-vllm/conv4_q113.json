@@ -8,181 +8,181 @@
   "evidence": [
     "D12:21"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which basketball team does Tim support?",
     "search_results": [
       {
-        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
-        "score": 0.7990615364295379,
-        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
-        "created_at": "2026-11-03T09:31:15.581413+00:00",
-        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+        "memory": "John expressed that he feels a strong sense of belonging and connection with his basketball team, similar to how Tim felt at the Harry Potter conference, and shared a group photo of his basketball team.",
+        "score": 0.837788406404772,
+        "id": "150da072-d6b5-47fc-ae7e-b6fea929cc0c",
+        "created_at": "2026-11-04T13:02:30.370874+00:00",
+        "updated_at": "2026-11-04T13:02:30.370874+00:00"
       },
       {
-        "memory": "John describes his basketball team as his second family, emphasizing the close bond and happiness derived from being with both his biological family and teammates.",
-        "score": 0.7928019957672283,
-        "id": "568c2ce7-d73a-4bff-b69f-45e070731488",
-        "created_at": "2026-11-03T09:20:44.109250+00:00",
-        "updated_at": "2026-11-03T09:20:44.109250+00:00"
+        "memory": "Tim is asking John for tips on how to motivate others on his basketball team, following up on John's recent championship trophy win.",
+        "score": 0.7994108289743892,
+        "id": "657d8d39-e741-42bd-b523-5759028930dd",
+        "created_at": "2026-11-04T13:14:15.853170+00:00",
+        "updated_at": "2026-11-04T13:14:15.853170+00:00"
       },
       {
-        "memory": "John considers his basketball team to be like a second family, noting that being with them brings him happiness and helps him remember what is important in life.",
-        "score": 0.7847901238048468,
-        "id": "a63408f7-2db7-4a35-aef4-b9da53609d6e",
-        "created_at": "2026-11-03T09:20:51.671504+00:00",
-        "updated_at": "2026-11-03T09:20:51.671504+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game",
+        "score": 0.7986597317396542,
+        "id": "1c2f40a5-90c3-45f3-adf9-decdfcf5360b",
+        "created_at": "2026-11-04T13:04:00.872688+00:00",
+        "updated_at": "2026-11-04T13:04:00.872688+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding to share his skills and knowledge while staying involved in the game.",
-        "score": 0.7811871233400058,
-        "id": "5952ff2b-4ee3-4194-aec1-c64c3020ac86",
-        "created_at": "2026-11-03T09:18:35.338157+00:00",
-        "updated_at": "2026-11-03T09:18:35.338157+00:00"
+        "memory": "John's family is a major source of happiness and support for him, helping him remember what is important in life, and he considers his basketball team to be like a second family as well.",
+        "score": 0.7955156397187306,
+        "id": "43913f72-7b29-40c1-a74e-c32304c346dc",
+        "created_at": "2026-11-04T13:06:27.154811+00:00",
+        "updated_at": "2026-11-04T13:06:27.154811+00:00"
       },
       {
-        "memory": "Tim's favorite basketball player is LeBron James, and he owns a prized possession: a basketball signed by LeBron. Tim was inspired by an epic block LeBron made in Game 7 of the 2016 NBA Finals against Iguodala, which changed the game and led to a win.",
-        "score": 0.7806195518651979,
-        "id": "dc1d134b-f3ad-4a0a-8cdb-cf5147aebb1d",
-        "created_at": "2026-11-03T09:22:55.801735+00:00",
-        "updated_at": "2026-11-03T09:22:55.801735+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding and a great way to stay involved in the game by sharing his skills and knowledge.",
+        "score": 0.7904408099942617,
+        "id": "67a51ecb-38f7-473c-819e-b3eaff432839",
+        "created_at": "2026-11-04T13:03:39.696649+00:00",
+        "updated_at": "2026-11-04T13:03:39.696649+00:00"
       },
       {
-        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game while helping them develop confidence and reach their goals.",
-        "score": 0.7796692174868353,
-        "id": "94ddfd83-f146-4a48-84cb-8d816612ebce",
-        "created_at": "2026-11-03T09:18:54.870502+00:00",
-        "updated_at": "2026-11-03T09:18:54.870502+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.7882302298968646,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
-        "memory": "John describes his basketball team's approach to tough opponents as a driving force for improvement, emphasizing that they back each other up and refuse to quit",
-        "score": 0.7730628801194935,
-        "id": "1fb5d4b2-59ba-4028-a4dd-b3658ee9ac5b",
-        "created_at": "2026-11-03T09:17:50.506398+00:00",
-        "updated_at": "2026-11-03T09:17:50.506398+00:00"
+        "memory": "Tim is a fan of LeBron James and owns a signed basketball by him as a prized possession, inspired by an epic block in the NBA Finals that changed the game and won it for his team.",
+        "score": 0.7877813332165022,
+        "id": "85afaa63-38dd-45ae-8b9d-2a26a53be1ad",
+        "created_at": "2026-11-04T13:07:34.997648+00:00",
+        "updated_at": "2026-11-04T13:07:34.997648+00:00"
       },
       {
-        "memory": "Tim owns a prized possession: a basketball signed by LeBron James, whom he admires for his determination and heart, particularly recalling an epic block in Game 7 of the 2016 NBA Finals against Iguodala.",
-        "score": 0.7545289812401448,
-        "id": "2b285de9-7edb-422d-8f37-74d1e75b2103",
-        "created_at": "2026-11-03T09:23:13.514276+00:00",
-        "updated_at": "2026-11-03T09:23:13.514276+00:00"
+        "memory": "John maintains strong bonds with his basketball teammates through team dinners, outings, and games outside of practice, believing these off-court moments build unity.",
+        "score": 0.760778533972154,
+        "id": "fac7e8c4-f08d-40bc-af53-6507724c2118",
+        "created_at": "2026-11-04T13:14:55.386834+00:00",
+        "updated_at": "2026-11-04T13:14:55.386834+00:00"
       },
       {
-        "memory": "John shared a photo of a soccer team posing with a trophy while discussing his basketball team's resilience against tough opponents",
-        "score": 0.7542681460461259,
-        "id": "676b6ee4-5cac-4f4f-8e4e-a80b747926bf",
-        "created_at": "2026-11-03T09:17:50.515252+00:00",
-        "updated_at": "2026-11-03T09:17:50.515252+00:00"
+        "memory": "John's basketball team strengthens their unity through team dinners, outings, and basketball games, valuing moments away from practice.",
+        "score": 0.7543438384879155,
+        "id": "73b5857c-a5f2-4693-911c-0eff1d314ceb",
+        "created_at": "2026-11-04T13:15:23.516882+00:00",
+        "updated_at": "2026-11-04T13:15:23.516882+00:00"
       },
       {
-        "memory": "Tim's favorite basketball player is LeBron James, whom he finds inspiring for his determination and heart, particularly citing an epic block in Game 7 of the 2016 NBA Finals where LeBron chased down Iguodala to win the game.",
-        "score": 0.7448684873933218,
-        "id": "1270f18e-6a3a-42a4-9d3c-7f5b3e601618",
-        "created_at": "2026-11-03T09:23:22.651926+00:00",
-        "updated_at": "2026-11-03T09:23:22.651926+00:00"
-      },
-      {
-        "memory": "Tim has never been part of a sports team, preferring to focus on reading and fantasy novels where he enjoys sinking into different magical worlds.",
-        "score": 0.7348176703765915,
-        "id": "fd47dc17-8a12-486f-b2f8-cbe95b2dbe4b",
-        "created_at": "2026-11-03T09:11:10.053060+00:00",
-        "updated_at": "2026-11-03T09:11:10.053060+00:00"
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.738293654971747,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       },
       {
         "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
-        "score": 0.7324155205755575,
-        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
-        "created_at": "2026-11-03T09:31:36.065792+00:00",
-        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+        "score": 0.7306272972548106,
+        "id": "f108c757-c9fc-4305-85a4-9f84209b5a8b",
+        "created_at": "2026-11-04T13:15:33.067535+00:00",
+        "updated_at": "2026-11-04T13:15:33.067535+00:00"
       },
       {
-        "memory": "John enjoys collecting basketball jerseys and shared a photo of his collection laying on a bed with Tim on October 2, 2023.",
-        "score": 0.7311180360216963,
-        "id": "ae6d04a8-ad51-4954-a1e0-2e2a6e087911",
-        "created_at": "2026-11-03T09:16:56.241611+00:00",
-        "updated_at": "2026-11-03T09:16:56.241611+00:00"
+        "memory": "John considers his sports team to be like a family away from home, noting that they push each other to improve and provide support in both sports and other aspects of life.",
+        "score": 0.7305482459661263,
+        "id": "8454466c-6c7f-45ba-8b3e-e51a7b77c2e7",
+        "created_at": "2026-11-04T12:53:29.162633+00:00",
+        "updated_at": "2026-11-04T12:53:29.162633+00:00"
       },
       {
-        "memory": "Tim is inspired by LeBron James's epic block on Iguodala in Game 7 of the 2016 NBA Finals, which changed the game and won it for LeBron's team, viewing it as a lesson in never giving up.",
-        "score": 0.7293350847564888,
-        "id": "a75a67dd-ee41-4f29-9bcb-c467d2783170",
-        "created_at": "2026-11-03T09:22:52.061224+00:00",
-        "updated_at": "2026-11-03T09:22:52.061224+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.7257212707505786,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "Tim has never been on a sports team and prefers reading fantasy novels, enjoying the experience of sinking into different magical worlds",
-        "score": 0.7291834063879388,
-        "id": "efbc2ba0-cb4d-4e0f-a5b6-012a8b76b444",
-        "created_at": "2026-11-03T09:11:25.256718+00:00",
-        "updated_at": "2026-11-03T09:11:25.256718+00:00"
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his basketball teammates, expressing excitement about the upcoming event.",
+        "score": 0.7254967622951438,
+        "id": "7124514e-ffc4-4f79-a340-8dd3fbad54fd",
+        "created_at": "2026-11-04T12:59:07.471785+00:00",
+        "updated_at": "2026-11-04T12:59:07.471785+00:00"
       },
       {
-        "memory": "Tim owns a prized possession: a basketball signed by LeBron James, his favorite player, whom he admires for his determination and heart.",
-        "score": 0.7228495895924812,
-        "id": "247edbb1-1fc4-4d3e-b95f-42e5b0b85e07",
-        "created_at": "2026-11-03T09:22:52.056125+00:00",
-        "updated_at": "2026-11-03T09:22:52.056125+00:00"
+        "memory": "John collects basketball jerseys, sharing a photo of his collection with Tim during their conversation about hobbies.",
+        "score": 0.7244524649029485,
+        "id": "3b12bbca-aa43-4b82-ac23-3d4278a16638",
+        "created_at": "2026-11-04T13:01:27.326029+00:00",
+        "updated_at": "2026-11-04T13:01:27.326029+00:00"
       },
       {
-        "memory": "John advised Tim to reflect on what went wrong with his storytelling to find ways to improve, drawing a parallel to how he handles challenges on the basketball court.",
-        "score": 0.7212475013779067,
-        "id": "0415e22e-12bc-4b97-96cb-8597216001c3",
-        "created_at": "2026-11-03T09:27:15.603577+00:00",
-        "updated_at": "2026-11-03T09:27:15.603577+00:00"
+        "memory": "John's favorite basketball team is the Minnesota Timberwolves (the Wolves) and his favorite player is LeBron James, whom he admires for his skills, leadership, work ethic, and dedication to the game.",
+        "score": 0.7241563076541766,
+        "id": "f686560e-6754-4f15-b9de-ef1c70ea1edb",
+        "created_at": "2026-11-04T13:02:14.817146+00:00",
+        "updated_at": "2026-11-04T13:02:14.817146+00:00"
       },
       {
-        "memory": "Tim has never been on a sports team and prefers reading fantasy novels, enjoying the experience of sinking into different magical worlds.",
-        "score": 0.7198804588720098,
-        "id": "36b80e46-2a51-479b-8a89-82508de51d0a",
-        "created_at": "2026-11-03T09:11:05.962207+00:00",
-        "updated_at": "2026-11-03T09:11:05.962207+00:00"
+        "memory": "John leverages his contacts in the basketball industry and his marketing skills to secure endorsement deals, noting that networking plays a big role in this process and expressing gratitude for the support he has received.",
+        "score": 0.7207684755934481,
+        "id": "a050da83-de01-410e-9353-b66bd9143edb",
+        "created_at": "2026-11-04T12:51:16.568912+00:00",
+        "updated_at": "2026-11-04T12:51:16.568912+00:00"
       },
       {
-        "memory": "As of December 2023, John is performing well on the basketball court, noting that his team has been putting in significant work and achieving their goals.",
-        "score": 0.7138532606751229,
-        "id": "b9e22ceb-39a0-4393-b11f-85628b3cd5db",
-        "created_at": "2026-11-03T09:33:53.682920+00:00",
-        "updated_at": "2026-11-03T09:33:53.682920+00:00"
+        "memory": "John's favorite basketball team is the Minnesota Wolves, and his favorite player is LeBron James, whom he admires for his skills and leadership.",
+        "score": 0.7182652338086608,
+        "id": "8a2a68b4-7bd0-404e-a21e-40682d1b0a7d",
+        "created_at": "2026-11-04T13:01:30.746986+00:00",
+        "updated_at": "2026-11-04T13:01:30.746986+00:00"
       },
       {
-        "memory": "John's favorite basketball team is the Wolves and his favorite player is LeBron James, whom he admires for his skills and leadership.",
-        "score": 0.7081559027505353,
-        "id": "279a7c0b-1bcc-4322-8865-c8ee8714209f",
-        "created_at": "2026-11-03T09:17:03.531578+00:00",
-        "updated_at": "2026-11-03T09:17:03.531578+00:00"
+        "memory": "John is a fan of the Minnesota Timberwolves basketball team and LeBron James, admiring his skills, leadership, work ethic, and dedication to the game as an inspiration.",
+        "score": 0.7164003697666738,
+        "id": "73453b01-3a47-430d-8d27-790a1ff4ba82",
+        "created_at": "2026-11-04T13:02:11.703581+00:00",
+        "updated_at": "2026-11-04T13:02:11.703581+00:00"
+      },
+      {
+        "memory": "Tim owns a prized possession: a basketball signed by his favorite player, LeBron James.",
+        "score": 0.7151998890130543,
+        "id": "73f09c85-744a-4f7f-8818-195011b82fe2",
+        "created_at": "2026-11-04T13:07:32.543499+00:00",
+        "updated_at": "2026-11-04T13:07:32.543499+00:00"
       }
     ],
-    "search_latency_ms": 135.2,
+    "search_latency_ms": 141.2,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Cleveland Cavaliers",
+      "generated_answer": "Los Angeles Lakers",
       "memories_evaluated": 10,
-      "reason": "The generated answer identifies the Cleveland Cavaliers, which is a different team from the gold answer's The Wolves, and does not contain any correct items from the gold answer."
+      "reason": "The generated answer identifies the Los Angeles Lakers, which is a different team from the gold answer's The Wolves, and contains no correct items from the gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The Los Angeles Lakers",
+      "generated_answer": "Los Angeles Lakers",
       "memories_evaluated": 20,
       "reason": "The generated answer identifies the Los Angeles Lakers, which is a different team from the gold answer's The Wolves, and contains no correct items from the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The Los Angeles Lakers",
+      "generated_answer": "Los Angeles Lakers",
       "memories_evaluated": 20,
       "reason": "The generated answer identifies the Los Angeles Lakers, which is a different team from the gold answer's The Wolves, and contains no correct items from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "The Los Angeles Lakers",
+      "generated_answer": "Los Angeles Lakers",
       "memories_evaluated": 20,
       "reason": "The generated answer identifies the Los Angeles Lakers, which is a different team from the gold answer's The Wolves, and contains no correct items from the gold answer."
     }

@@ -9,183 +9,183 @@
     "D8:14",
     "D8:16"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Which popular music composer's tunes does Tim enjoy playing on the piano?",
     "search_results": [
       {
+        "memory": "Tim is mostly into classical music but is keen to try out jazz and film scores on the violin, using it as a way to chill and get creative",
+        "score": 0.7744304441219718,
+        "id": "91e1dd06-18c1-45bd-8edd-1fdd180c8606",
+        "created_at": "2026-11-04T13:14:12.736314+00:00",
+        "updated_at": "2026-11-04T13:14:12.736314+00:00"
+      },
+      {
         "memory": "Tim is currently learning to play the violin, focusing primarily on classical music while also being keen to try jazz and film scores, viewing it as a way to relax and be creative.",
-        "score": 0.7749082634746984,
-        "id": "b1a7377e-83b9-435e-9e41-b755320dc433",
-        "created_at": "2026-11-03T09:30:37.463488+00:00",
-        "updated_at": "2026-11-03T09:30:37.463488+00:00"
+        "score": 0.774227698336989,
+        "id": "319f1d35-c059-4c46-8c58-633cc5652874",
+        "created_at": "2026-11-04T13:14:00.324238+00:00",
+        "updated_at": "2026-11-04T13:14:00.324238+00:00"
       },
       {
-        "memory": "Tim is learning to play the violin, focusing primarily on classical music while also being keen to explore jazz and film scores as a creative way to relax.",
-        "score": 0.7746100891861756,
-        "id": "11f6dc3b-f107-4fce-8259-1c1fa309231f",
-        "created_at": "2026-11-03T09:30:48.597830+00:00",
-        "updated_at": "2026-11-03T09:30:48.597830+00:00"
+        "memory": "Tim is mostly into classical music but is keen to try out jazz and film scores on the violin, viewing it as a great way to chill and get creative.",
+        "score": 0.7658181778029493,
+        "id": "28102017-81b5-47a7-b864-564e7e8a5d67",
+        "created_at": "2026-11-04T13:14:19.497518+00:00",
+        "updated_at": "2026-11-04T13:14:19.497518+00:00"
       },
       {
-        "memory": "Tim's musical interests include classical music primarily, with an interest in exploring jazz and film scores on the violin.",
-        "score": 0.7735935114504958,
-        "id": "158f5286-7dd9-478d-95f6-5c4e6a39274a",
-        "created_at": "2026-11-03T09:30:53.140297+00:00",
-        "updated_at": "2026-11-03T09:30:53.140297+00:00"
+        "memory": "Tim is mostly into classical music while learning the violin but is keen to try out jazz and film scores, viewing it as a great way to chill and get creative.",
+        "score": 0.7620323359503574,
+        "id": "b15c4a6f-f800-4f4e-83d7-c5eac54213fd",
+        "created_at": "2026-11-04T13:14:07.934056+00:00",
+        "updated_at": "2026-11-04T13:14:07.934056+00:00"
       },
       {
         "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
-        "score": 0.7228476345077081,
-        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
-        "created_at": "2026-11-03T09:09:50.772054+00:00",
-        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+        "score": 0.7226582511621829,
+        "id": "9d95144d-d6de-4245-9126-dbfb28c60839",
+        "created_at": "2026-11-04T12:56:15.801176+00:00",
+        "updated_at": "2026-11-04T12:56:15.801176+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
-        "score": 0.6757538705279039,
-        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
-        "created_at": "2026-11-03T09:30:41.679787+00:00",
-        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+        "memory": "Tim's favorite piano piece to play is the theme from 'Harry Potter and the Philosopher's Stone', which brings back great memories of watching the first movie in the series with his family.",
+        "score": 0.6804695116875151,
+        "id": "1f6bda0d-6a3a-4424-b3f1-37501ed8faa2",
+        "created_at": "2026-11-04T12:56:20.841319+00:00",
+        "updated_at": "2026-11-04T12:56:20.841319+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.6743324723173014,
-        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
-        "created_at": "2026-11-03T09:30:48.601783+00:00",
-        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, describing it as an amazing adventure and really enjoying the progress he has been making.",
+        "score": 0.6747649142823852,
+        "id": "3ba9eb05-b675-4ff0-b75d-f16e8ecc88fb",
+        "created_at": "2026-11-04T13:14:07.937333+00:00",
+        "updated_at": "2026-11-04T13:14:07.937333+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.6743324723173014,
-        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
-        "created_at": "2026-11-03T09:30:53.143666+00:00",
-        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+        "memory": "Tim started learning how to play the piano recently, finding it a learning curve but satisfying to see progress.",
+        "score": 0.6656653157995251,
+        "id": "ef6fb08f-2172-45f5-bd38-7ba80b191cbe",
+        "created_at": "2026-11-04T12:56:23.405713+00:00",
+        "updated_at": "2026-11-04T12:56:23.405713+00:00"
       },
       {
-        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
-        "score": 0.6395028594593521,
-        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
-        "created_at": "2026-11-03T09:09:46.067003+00:00",
-        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+        "memory": "Tim joined a travel club and recently started learning how to play the violin in addition to his piano studies, finding the new instrument challenging but fun because he has always admired musicians.",
+        "score": 0.648996268523717,
+        "id": "e608793d-63d7-4740-9928-35054b0bc771",
+        "created_at": "2026-11-04T13:14:07.930397+00:00",
+        "updated_at": "2026-11-04T13:14:07.930397+00:00"
+      },
+      {
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding it a steep learning curve but very satisfying to see his progress.",
+        "score": 0.6410152666626789,
+        "id": "abe83ab6-48a1-4729-a366-9e9e46d326c3",
+        "created_at": "2026-11-04T12:56:09.098162+00:00",
+        "updated_at": "2026-11-04T12:56:09.098162+00:00"
+      },
+      {
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, describing it as an amazing adventure and enjoying his progress.",
+        "score": 0.6075763620357717,
+        "id": "69fa2968-f8f2-4764-ab76-74e1dfc54325",
+        "created_at": "2026-11-04T13:14:19.494840+00:00",
+        "updated_at": "2026-11-04T13:14:19.494840+00:00"
+      },
+      {
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, finding it an amazing adventure and enjoying his progress",
+        "score": 0.6057006998289672,
+        "id": "bc2cc6a5-4d8c-433e-8c3d-f5246302cdb7",
+        "created_at": "2026-11-04T13:14:12.731741+00:00",
+        "updated_at": "2026-11-04T13:14:12.731741+00:00"
+      },
+      {
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.5956428214730476,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
         "memory": "Tim is staying in Galway, Ireland, and appreciates the city for its vibrant atmosphere, arts scene, and traditional Irish music.",
-        "score": 0.5926826607841018,
-        "id": "9c3c5fae-4610-4339-a9a1-bc4a956286f6",
-        "created_at": "2026-11-03T09:37:42.882881+00:00",
-        "updated_at": "2026-11-03T09:37:42.882881+00:00"
+        "score": 0.5855892337116794,
+        "id": "3e2952ce-1ef3-4dc0-aadf-569c4ffc3123",
+        "created_at": "2026-11-04T13:24:45.080116+00:00",
+        "updated_at": "2026-11-04T13:24:45.080116+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, exploring, hiking, playing board games, and reading books in his free time to escape reality.",
-        "score": 0.5845028988883045,
-        "id": "5ab745bb-b601-46d5-8704-497f233d7d60",
-        "created_at": "2026-11-03T09:21:16.840236+00:00",
-        "updated_at": "2026-11-03T09:21:16.840236+00:00"
+        "memory": "Tim enjoys going on road trips with friends and family for exploring and hiking, playing board games, and reading books in his free time to escape reality.",
+        "score": 0.5831604550413838,
+        "id": "7f909d48-f5b0-43d7-baf7-b8b2bddae47b",
+        "created_at": "2026-11-04T13:06:33.791166+00:00",
+        "updated_at": "2026-11-04T13:06:33.791166+00:00"
       },
       {
-        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
-        "score": 0.5811037260142549,
-        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
-        "created_at": "2026-11-03T09:31:05.110299+00:00",
-        "updated_at": "2026-11-03T09:31:05.110299+00:00"
+        "memory": "Tim is planning to stay in Galway, Ireland, because he appreciates its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5701563930805114,
+        "id": "3b26f0e4-44ce-413f-9160-cfc4d639e064",
+        "created_at": "2026-11-04T13:24:41.499517+00:00",
+        "updated_at": "2026-11-04T13:24:41.499517+00:00"
       },
       {
-        "memory": "Tim enjoys going on road trips with friends and family, where they explore, hike, or play board games together.",
-        "score": 0.5809407658925725,
-        "id": "5326ace0-21a4-4ccf-aba8-40a082bd5910",
-        "created_at": "2026-11-03T09:21:00.674911+00:00",
-        "updated_at": "2026-11-03T09:21:00.674911+00:00"
-      },
-      {
-        "memory": "Tim is planning to stay in Galway, Ireland, because he appreciates its vibrant atmosphere, arts scene, and Irish music.",
-        "score": 0.576618295683892,
-        "id": "3f4c9ee2-5ee9-4e98-80f5-32b338b313c9",
-        "created_at": "2026-11-03T09:37:40.352973+00:00",
-        "updated_at": "2026-11-03T09:37:40.352973+00:00"
-      },
-      {
-        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, and chose the location because it is known for its arts scene, Irish music, and vibrant atmosphere.",
-        "score": 0.5712308224793956,
-        "id": "b67f6930-6f6a-46e1-aa4c-8b48e2a35dff",
-        "created_at": "2026-11-03T09:37:22.439558+00:00",
-        "updated_at": "2026-11-03T09:37:22.439558+00:00"
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5640201468315811,
+        "id": "356e4961-6476-45a0-822b-77cb7f55d2ec",
+        "created_at": "2026-11-04T13:24:17.335742+00:00",
+        "updated_at": "2026-11-04T13:24:17.335742+00:00"
       },
       {
         "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and Irish music.",
-        "score": 0.5690656007029979,
-        "id": "de60b8d0-d9ad-4109-b7e6-8e1e7d59d70d",
-        "created_at": "2026-11-03T09:37:32.366376+00:00",
-        "updated_at": "2026-11-03T09:37:32.366376+00:00"
-      },
-      {
-        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location because of its vibrant atmosphere, arts scene, and traditional Irish music.",
-        "score": 0.5677358240884096,
-        "id": "02b59ecf-4db3-4fb2-af12-04f841b05d65",
-        "created_at": "2026-11-03T09:37:25.186321+00:00",
-        "updated_at": "2026-11-03T09:37:25.186321+00:00"
-      },
-      {
-        "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, chosen for its vibrant arts scene and Irish music.",
-        "score": 0.5644786530797239,
-        "id": "1dce8c63-c37d-400b-993e-9831515230a8",
-        "created_at": "2026-11-03T09:37:37.759260+00:00",
-        "updated_at": "2026-11-03T09:37:37.759260+00:00"
+        "score": 0.5615925204187379,
+        "id": "9a7742e6-0af3-4de0-85d3-94abb343039f",
+        "created_at": "2026-11-04T13:24:37.503667+00:00",
+        "updated_at": "2026-11-04T13:24:37.503667+00:00"
       },
       {
         "memory": "Tim was accepted into a study abroad program and is traveling to Galway, Ireland for a semester starting in February 2024, choosing the location for its vibrant arts scene and Irish music.",
-        "score": 0.5636693630085399,
-        "id": "aecee7d9-d0d8-4f60-96a1-55e45b238db2",
-        "created_at": "2026-11-03T09:37:29.774123+00:00",
-        "updated_at": "2026-11-03T09:37:29.774123+00:00"
+        "score": 0.5555353614980794,
+        "id": "b238d075-cee7-480b-811b-ee150a9c7918",
+        "created_at": "2026-11-04T13:24:22.788254+00:00",
+        "updated_at": "2026-11-04T13:24:22.788254+00:00"
       },
       {
-        "memory": "Tim is a student who enjoys reading fantasy books as a hobby and is actively trying to balance this interest with his school assignments and exams.",
-        "score": 0.5571030370041801,
-        "id": "31f13737-fb9e-4688-8028-e7d4d707542e",
-        "created_at": "2026-11-03T09:10:57.499689+00:00",
-        "updated_at": "2026-11-03T09:10:57.499689+00:00"
-      },
-      {
-        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
-        "score": 0.5551953396170256,
-        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
-        "created_at": "2026-11-03T09:35:25.860608+00:00",
-        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+        "memory": "Tim will stay in Galway, Ireland during his study abroad semester, choosing the city for its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5540537354339229,
+        "id": "048fff39-9716-40ae-b9e7-126490f10a6f",
+        "created_at": "2026-11-04T13:24:04.449335+00:00",
+        "updated_at": "2026-11-04T13:24:04.449335+00:00"
       }
     ],
-    "search_latency_ms": 128.8,
+    "search_latency_ms": 154.2,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Tim enjoys playing a theme from a movie he really enjoys, and has an interest in film scores.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John Williams",
       "memories_evaluated": 10,
-      "reason": "The generated answer fails to identify the specific composer (John Williams) and instead provides a vague description of playing a movie theme, which does not match the gold answer."
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Howard Shore",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John Williams",
       "memories_evaluated": 20,
-      "reason": "The generated answer identifies Howard Shore, which is a different composer than the gold answer's John Williams, and does not contain any correct items from the gold answer."
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Howard Shore",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John Williams",
       "memories_evaluated": 20,
-      "reason": "The generated answer identifies Howard Shore, which is a different composer than the gold answer's John Williams, and does not contain any correct items from the gold answer."
+      "reason": "The generated answer exactly matches the gold answer."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Howard Shore",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John Williams",
       "memories_evaluated": 20,
-      "reason": "The generated answer identifies Howard Shore, which is a different composer than the gold answer's John Williams, and does not contain any correct items from the gold answer."
+      "reason": "The generated answer exactly matches the gold answer."
     }
   }
 }

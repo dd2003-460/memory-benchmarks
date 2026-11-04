@@ -8,162 +8,162 @@
   "evidence": [
     "D25:2"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What kind of deal did John get in December?",
     "search_results": [
       {
-        "memory": "John shared a photo of his Christmas tree from December 2022, which was decorated with many lights and ornaments.",
-        "score": 0.7284065324143624,
-        "id": "919c9e31-8d87-4ee1-8e22-2540f552f6bf",
-        "created_at": "2026-11-03T09:10:31.916440+00:00",
-        "updated_at": "2026-11-03T09:10:31.916440+00:00"
+        "memory": "John is a basketball player who signed a deal with Nike for basketball shoes and gear around July 16, 2023, and is in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6995270484601603,
+        "id": "38e272d5-3450-4db4-a52a-9c06f1fdf77b",
+        "created_at": "2026-11-04T12:51:29.956135+00:00",
+        "updated_at": "2026-11-04T12:51:29.956135+00:00"
       },
       {
-        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, describing it as a dream come true and feeling that his hard work and training hours finally paid off.",
-        "score": 0.7106541429237072,
-        "id": "7381a0bc-9be0-4247-88fc-6085dbba6ccf",
-        "created_at": "2026-11-03T09:38:22.270742+00:00",
-        "updated_at": "2026-11-03T09:38:22.270742+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a moment where all his hard work paid off.",
+        "score": 0.6938797336355417,
+        "id": "513b3183-279f-4da1-b291-dc3a316dfd36",
+        "created_at": "2026-11-04T13:25:38.360543+00:00",
+        "updated_at": "2026-11-04T13:25:38.360543+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and evidence that his hard work and training hours paid off.",
-        "score": 0.6896220101863382,
-        "id": "f33516f4-6a7d-42fd-9fb0-bf84f77d6ee9",
-        "created_at": "2026-11-03T09:38:15.519591+00:00",
-        "updated_at": "2026-11-03T09:38:15.519591+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a reward for his hard work and training hours.",
+        "score": 0.6900849623925083,
+        "id": "1c994921-829b-41fb-9b0d-d0c13caf25aa",
+        "created_at": "2026-11-04T13:25:45.344747+00:00",
+        "updated_at": "2026-11-04T13:25:45.344747+00:00"
+      },
+      {
+        "memory": "John signed a basketball shoe and gear deal with Nike around July 16, 2023, and is currently in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6882453115475622,
+        "id": "368d8e2f-0a01-42cb-8635-f045fde01353",
+        "created_at": "2026-11-04T12:51:36.543067+00:00",
+        "updated_at": "2026-11-04T12:51:36.543067+00:00"
+      },
+      {
+        "memory": "John signed a basketball shoe and gear deal with Nike around July 16, 2023, and is currently in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6882453115475622,
+        "id": "a79bf1c4-200f-4628-a6ad-207a07d7d102",
+        "created_at": "2026-11-04T12:51:33.071895+00:00",
+        "updated_at": "2026-11-04T12:51:33.071895+00:00"
+      },
+      {
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work.",
+        "score": 0.6870248168848756,
+        "id": "54b5d711-c0a8-4b87-b637-79e61c985f78",
+        "created_at": "2026-11-04T13:26:03.617181+00:00",
+        "updated_at": "2026-11-04T13:26:03.617181+00:00"
       },
       {
         "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5-12, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.6872178676177908,
-        "id": "7f94846a-58fa-411c-927b-81e2a7782dc6",
-        "created_at": "2026-11-03T09:38:30.184443+00:00",
-        "updated_at": "2026-11-03T09:38:30.184443+00:00"
+        "score": 0.6855953020772833,
+        "id": "10b9b56d-e1f0-4bf1-af35-63bcfe34a873",
+        "created_at": "2026-11-04T13:25:52.940128+00:00",
+        "updated_at": "2026-11-04T13:25:52.940128+00:00"
       },
       {
-        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and incredible news.",
-        "score": 0.6871522704654236,
-        "id": "77b58b16-a82e-406a-89b0-a0eed87eb687",
-        "created_at": "2026-11-03T09:38:10.619051+00:00",
-        "updated_at": "2026-11-03T09:38:10.619051+00:00"
+        "memory": "John signed a deal with Nike for a basketball shoe and gear endorsement around July 16, 2023, and is currently in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6847891648455346,
+        "id": "c685d3fd-92e3-44bf-8332-9002e404e7f7",
+        "created_at": "2026-11-04T12:51:40.413228+00:00",
+        "updated_at": "2026-11-04T12:51:40.413228+00:00"
       },
       {
         "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.6797127995964115,
-        "id": "cc526eeb-02ff-47ea-a83b-68793ae9dafe",
-        "created_at": "2026-11-03T09:38:36.414205+00:00",
-        "updated_at": "2026-11-03T09:38:36.414205+00:00"
+        "score": 0.6783266541073854,
+        "id": "d8d3626c-c322-4507-ad6b-1a2213e2c7db",
+        "created_at": "2026-11-04T13:25:41.537499+00:00",
+        "updated_at": "2026-11-04T13:25:41.537499+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, which he described as a dream come true.",
-        "score": 0.6767216486807432,
-        "id": "e32616f3-8173-461e-8cb1-2c99601d71d1",
-        "created_at": "2026-11-03T09:38:08.169886+00:00",
-        "updated_at": "2026-11-03T09:38:08.169886+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6783266541073854,
+        "id": "3d1f1623-4016-447b-9206-9d93333ed420",
+        "created_at": "2026-11-04T13:25:47.713036+00:00",
+        "updated_at": "2026-11-04T13:25:47.713036+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he described as a dream come true and a validation of his hard work and training hours.",
-        "score": 0.6766942561942483,
-        "id": "081153ad-4c0d-4208-aa8e-a97a95c571fb",
-        "created_at": "2026-11-03T09:38:17.827762+00:00",
-        "updated_at": "2026-11-03T09:38:17.827762+00:00"
+        "memory": "John signed a deal with Nike for basketball shoes and gear around July 16, 2023, and is currently in talks with Gatorade about a potential sponsorship.",
+        "score": 0.6778202867834655,
+        "id": "2d27c82b-923d-4fd3-932e-638a071fb6c1",
+        "created_at": "2026-11-04T12:51:20.658286+00:00",
+        "updated_at": "2026-11-04T12:51:20.658286+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a popular beverage company around early January 2024, which he describes as a dream come true that validated his hard work and training hours.",
-        "score": 0.6680366116485669,
-        "id": "99ac9b47-0eff-4b9e-873a-163cde5e3d00",
-        "created_at": "2026-11-03T09:38:13.164949+00:00",
-        "updated_at": "2026-11-03T09:38:13.164949+00:00"
+        "memory": "John received an endorsement deal with a popular beverage company around January 5, 2024, which he described as a dream come true and a validation of his hard work and training hours.",
+        "score": 0.6768171307652079,
+        "id": "f784d0e9-01d3-4a5f-9dfa-5cdfc8f67664",
+        "created_at": "2026-11-04T13:25:58.761330+00:00",
+        "updated_at": "2026-11-04T13:25:58.761330+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a renowned outdoor gear company in mid-December 2023, which included receiving hiking equipment and participating in a photoshoot.",
-        "score": 0.6662265395838964,
-        "id": "f5b62400-d2b3-43a2-9685-e4e6585c534f",
-        "created_at": "2026-11-03T09:33:53.669453+00:00",
-        "updated_at": "2026-11-03T09:33:53.669453+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company around January 5-11, 2024, which he described as a dream come true that validated his hard work and training hours.",
+        "score": 0.6750854172807825,
+        "id": "e56d7dbd-1444-477a-8665-580362a1cc4c",
+        "created_at": "2026-11-04T13:25:33.728174+00:00",
+        "updated_at": "2026-11-04T13:25:33.728174+00:00"
       },
       {
-        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week of December 12, 2023, and shared a photo from the associated photoshoot showing him wearing a backpack while walking down a path.",
-        "score": 0.6614144484322675,
-        "id": "8da39e80-34cb-4725-8e28-42f6c711e96d",
-        "created_at": "2026-11-03T09:33:34.908869+00:00",
-        "updated_at": "2026-11-03T09:33:34.908869+00:00"
+        "memory": "John secured an endorsement deal with a popular beverage company in the week preceding January 12, 2024, describing it as a dream come true.",
+        "score": 0.6706974856760117,
+        "id": "93fb52a9-e551-4e1c-bac6-c0838aee7725",
+        "created_at": "2026-11-04T13:25:22.865113+00:00",
+        "updated_at": "2026-11-04T13:25:22.865113+00:00"
       },
       {
-        "memory": "John signed an endorsement deal with a renowned outdoor gear company in December 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
-        "score": 0.6578584126874691,
-        "id": "83663438-89cc-48f0-b163-8b0987850701",
-        "created_at": "2026-11-03T09:33:56.767555+00:00",
-        "updated_at": "2026-11-03T09:33:56.767555+00:00"
+        "memory": "John, a baseball player, secured an endorsement deal with a popular beverage company in early January 2024, describing it as a dream come true and sharing a photo of himself holding a bat next to the soda logo.",
+        "score": 0.6694129162915758,
+        "id": "4ce5d983-0035-478c-9afa-023a6c859ce1",
+        "created_at": "2026-11-04T13:25:25.401566+00:00",
+        "updated_at": "2026-11-04T13:25:25.401566+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company around December 12, 2023, which included receiving hiking and outdoor gear and participating in a photoshoot.",
+        "score": 0.6652117202750679,
+        "id": "0c3e34b8-5889-428d-81ac-3b600af5da94",
+        "created_at": "2026-11-04T13:18:01.649197+00:00",
+        "updated_at": "2026-11-04T13:18:01.649197+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company around December 12, 2023, which included receiving top-notch hiking equipment and participating in a photoshoot.",
+        "score": 0.6650922348356507,
+        "id": "8b90a4d9-c895-4bc8-bc71-07b6326a384f",
+        "created_at": "2026-11-04T13:18:06.154532+00:00",
+        "updated_at": "2026-11-04T13:18:06.154532+00:00"
+      },
+      {
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company in the week preceding December 19, 2023, and shared a photo from a promotional photoshoot featuring him wearing a backpack while walking down a path.",
+        "score": 0.6596222963135853,
+        "id": "81390ea2-084d-4c17-b8e3-082099e09089",
+        "created_at": "2026-11-04T13:17:12.115671+00:00",
+        "updated_at": "2026-11-04T13:17:12.115671+00:00"
       },
       {
         "memory": "John visited Italy in December 2023 and described the trip as a blast, mentioning it to Tim on January 2, 2024.",
-        "score": 0.6453054396458133,
-        "id": "77526db0-2458-4b70-a42c-59180d5309a2",
-        "created_at": "2026-11-03T09:35:44.324677+00:00",
-        "updated_at": "2026-11-03T09:35:44.324677+00:00"
+        "score": 0.6326283676109586,
+        "id": "5e10d455-749b-41d9-bd7f-253d7e440905",
+        "created_at": "2026-11-04T13:21:52.281438+00:00",
+        "updated_at": "2026-11-04T13:21:52.281438+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
-        "score": 0.6353066773298703,
-        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
-        "created_at": "2026-11-03T09:33:32.675244+00:00",
-        "updated_at": "2026-11-03T09:33:32.675244+00:00"
-      },
-      {
-        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making the week tough but remains positive about it.",
-        "score": 0.630966906817929,
-        "id": "4ab884ec-cd7c-4fa3-a73a-93d4a6dbd5ee",
-        "created_at": "2026-11-03T09:25:54.231060+00:00",
-        "updated_at": "2026-11-03T09:25:54.231060+00:00"
-      },
-      {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.6301805065284426,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
-      },
-      {
-        "memory": "John is dealing with an ankle injury as of November 16, 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
-        "score": 0.627855861196341,
-        "id": "c8cb7b1c-f738-48a0-b413-f6fc90a653c6",
-        "created_at": "2026-11-03T09:25:00.270438+00:00",
-        "updated_at": "2026-11-03T09:25:00.270438+00:00"
-      },
-      {
-        "memory": "John is currently dealing with an ankle injury as of mid-November 2023, which he describes as making for a tough week, but he is staying positive about his recovery.",
-        "score": 0.626031717721362,
-        "id": "8bd4fd03-3bf7-43dd-8f6e-4abd9e40edb6",
-        "created_at": "2026-11-03T09:25:39.142562+00:00",
-        "updated_at": "2026-11-03T09:25:39.142562+00:00"
-      },
-      {
-        "memory": "John went camping by a lake and enjoyed disconnecting from everyday life, sharing a photo of a campfire with chairs and the lake in the background on December 1, 2023.",
-        "score": 0.624252606264503,
-        "id": "44ae092a-9729-4d2d-8a31-f8a92b3a6eb1",
-        "created_at": "2026-11-03T09:29:53.809836+00:00",
-        "updated_at": "2026-11-03T09:29:53.809836+00:00"
-      },
-      {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
-        "score": 0.6169203914339858,
-        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
-        "created_at": "2026-11-03T09:33:23.067593+00:00",
-        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which has made the week tough for him, but he remains positive about his recovery.",
+        "score": 0.6269581294580788,
+        "id": "c046a5ac-015c-48f6-82f7-ab0917c8d712",
+        "created_at": "2026-11-04T13:08:52.399169+00:00",
+        "updated_at": "2026-11-04T13:08:52.399169+00:00"
       }
     ],
-    "search_latency_ms": 135.1,
+    "search_latency_ms": 137.9,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "CORRECT",
-      "score": 1.0,
-      "generated_answer": "an endorsement deal with a renowned outdoor gear company",
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John secured an endorsement deal with Gatorade (a popular beverage company).",
       "memories_evaluated": 10,
-      "reason": "The generated answer correctly identifies the core fact of a deal with a renowned outdoor gear company, adding the specific detail that it was an endorsement deal, which is consistent with the gold answer."
+      "reason": "The generated answer identifies the deal as being with Gatorade (a beverage company), which is a completely different entity and industry from the gold answer's 'renowned outdoor gear company', resulting in zero correct items."
     },
     "top_20": {
       "judgment": "CORRECT",

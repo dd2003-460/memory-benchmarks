@@ -11,183 +11,183 @@
     "D15:3",
     "D27:37"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What would be a good hobby related to his travel dreams for Tim to pick up?",
     "search_results": [
       {
-        "memory": "Tim is planning his next adventure by reading stories from travelers around the world and recently visited a travel agency to check requirements for his dream trip.",
-        "score": 0.8323517554367991,
-        "id": "e5521faf-49f7-4d3d-be96-820d3e98b203",
-        "created_at": "2026-11-03T09:34:38.576853+00:00",
-        "updated_at": "2026-11-03T09:34:38.576853+00:00"
-      },
-      {
         "memory": "Tim visited a travel agency on December 26, 2023, to inquire about the requirements for his next dream trip.",
-        "score": 0.7899465149465884,
-        "id": "62a64f14-ee15-423e-92fc-a7059a2e95a8",
-        "created_at": "2026-11-03T09:34:33.592607+00:00",
-        "updated_at": "2026-11-03T09:34:33.592607+00:00"
+        "score": 0.7897433421358004,
+        "id": "4b51de71-4eaf-4291-9757-8011354424ee",
+        "created_at": "2026-11-04T13:19:15.122434+00:00",
+        "updated_at": "2026-11-04T13:19:15.122434+00:00"
       },
       {
         "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7893158880804012,
-        "id": "9728296f-2b55-44bf-a483-16a333785bcd",
-        "created_at": "2026-11-03T09:34:40.883422+00:00",
-        "updated_at": "2026-11-03T09:34:40.883422+00:00"
-      },
-      {
-        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7893158880804012,
-        "id": "b5124faa-db7c-4acd-a8ea-3851b5d27b5c",
-        "created_at": "2026-11-03T09:34:53.923371+00:00",
-        "updated_at": "2026-11-03T09:34:53.923371+00:00"
+        "score": 0.7891127150839665,
+        "id": "eb0aea29-6736-4d10-bbab-18668c3c6494",
+        "created_at": "2026-11-04T13:20:36.457763+00:00",
+        "updated_at": "2026-11-04T13:20:36.457763+00:00"
       },
       {
         "memory": "Tim visited a travel agency on or before December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7883983450378061,
-        "id": "23ba5800-02f8-4123-adfc-ac99dc60b17c",
-        "created_at": "2026-11-03T09:34:36.196147+00:00",
-        "updated_at": "2026-11-03T09:34:36.196147+00:00"
+        "score": 0.7881951722270181,
+        "id": "541d89e6-25be-4234-81aa-d3f5509a6fcd",
+        "created_at": "2026-11-04T13:19:17.731354+00:00",
+        "updated_at": "2026-11-04T13:19:17.731354+00:00"
       },
       {
-        "memory": "Tim loves traveling to new places to experience a different kind of magic, connecting his travel interests with his love of fantasy literature",
-        "score": 0.7840701846873636,
-        "id": "51db72db-a00f-4926-9ba4-73f5bfee799d",
-        "created_at": "2026-11-03T09:11:25.259590+00:00",
-        "updated_at": "2026-11-03T09:11:25.259590+00:00"
+        "memory": "Tim loves traveling to new places specifically to experience a different kind of magic, connecting his travel hobby with his passion for fantasy and magical worlds.",
+        "score": 0.7858097367655215,
+        "id": "e8648e75-1dde-4a92-af8e-67c323c4b6f0",
+        "created_at": "2026-11-04T12:57:28.378755+00:00",
+        "updated_at": "2026-11-04T12:57:28.378755+00:00"
       },
       {
-        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
-        "score": 0.7444123922383745,
-        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
-        "created_at": "2026-11-03T09:30:53.131364+00:00",
-        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+        "memory": "The Himalayan trek story motivated Tim, reinforcing his belief that facing challenges makes us stronger, and he visited a travel agency to check requirements for his next dream trip.",
+        "score": 0.7846752158424737,
+        "id": "6387efca-8d30-4dd9-aefd-92f4882d225f",
+        "created_at": "2026-11-04T13:19:50.328815+00:00",
+        "updated_at": "2026-11-04T13:19:50.328815+00:00"
       },
       {
-        "memory": "Tim added New York City to his travel list after John recommended it, expressing excitement about exploring the city's culture and food as a great adventure",
-        "score": 0.7276399046066346,
-        "id": "494e0a01-7188-4bc4-a3b8-baf867b2eca9",
-        "created_at": "2026-11-03T09:11:25.262586+00:00",
-        "updated_at": "2026-11-03T09:11:25.262586+00:00"
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip, motivated by reading about a challenging Himalayan trek that involved altitude sickness and bad weather.",
+        "score": 0.7843365346321282,
+        "id": "c7ac19f6-23f8-42d1-8f2d-1cd947c17df9",
+        "created_at": "2026-11-04T13:20:21.777760+00:00",
+        "updated_at": "2026-11-04T13:20:21.777760+00:00"
       },
       {
-        "memory": "Tim is part of a globetrotting group for connecting with travel enthusiasts and has Italy on his list of places to visit.",
-        "score": 0.718934966915423,
-        "id": "5d9a404e-b0a3-46fe-8414-74196e72621a",
-        "created_at": "2026-11-03T09:36:07.965881+00:00",
-        "updated_at": "2026-11-03T09:36:07.965881+00:00"
+        "memory": "Tim is reading stories from travelers from around the world to plan his next adventure, using a specific book he found that features these global travel narratives.",
+        "score": 0.743958046709697,
+        "id": "67168572-0d20-4c90-b58e-40d0be5dffb4",
+        "created_at": "2026-11-04T13:18:41.356469+00:00",
+        "updated_at": "2026-11-04T13:18:41.356469+00:00"
       },
       {
-        "memory": "Tim is currently researching visa requirements for various countries he wants to visit, finding the process overwhelming but remaining excited about his travel plans.",
-        "score": 0.715777425042327,
-        "id": "09cfc58b-66f0-4648-a053-7bc55618010a",
-        "created_at": "2026-11-03T09:38:10.623302+00:00",
-        "updated_at": "2026-11-03T09:38:10.623302+00:00"
+        "memory": "Tim read a story from his travel book about two hikers who trekked through the Himalayas and found it awesome.",
+        "score": 0.6918437575395961,
+        "id": "e03a67e1-03df-4617-8d6e-eac177b15bae",
+        "created_at": "2026-11-04T13:18:51.069939+00:00",
+        "updated_at": "2026-11-04T13:18:51.069939+00:00"
+      },
+      {
+        "memory": "Tim read a story in his travel book about two hikers who trekked through the Himalayas, noting that while the trek involved challenging terrain, altitude sickness, and bad weather, it was worth it for the amazing sights.",
+        "score": 0.6874737334314174,
+        "id": "e9123d8b-2aa9-4ee9-a7cc-e811bca74df2",
+        "created_at": "2026-11-04T13:19:50.326206+00:00",
+        "updated_at": "2026-11-04T13:19:50.326206+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6862382253330948,
+        "id": "d449cbc7-e924-4b3c-8203-2a9ad87a9fe3",
+        "created_at": "2026-11-04T13:13:11.210863+00:00",
+        "updated_at": "2026-11-04T13:13:11.210863+00:00"
+      },
+      {
+        "memory": "Tim is researching visa requirements for various countries he wants to visit, finding the process overwhelming but remaining excited about his travel plans.",
+        "score": 0.6856990798320468,
+        "id": "42e0eb2f-0ee1-4afb-acc8-0bea0d71b53f",
+        "created_at": "2026-11-04T13:25:25.405787+00:00",
+        "updated_at": "2026-11-04T13:25:25.405787+00:00"
       },
       {
         "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.7089081644412651,
-        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
-        "created_at": "2026-11-03T09:30:34.554745+00:00",
-        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+        "score": 0.6853078308633892,
+        "id": "c7eeb30e-0efb-45cf-8fbb-8ff5f63804c3",
+        "created_at": "2026-11-04T13:13:56.251667+00:00",
+        "updated_at": "2026-11-04T13:13:56.251667+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6853078308633892,
+        "id": "d99eddba-baad-49f9-85e9-49dac31767b7",
+        "created_at": "2026-11-04T13:13:44.768420+00:00",
+        "updated_at": "2026-11-04T13:13:44.768420+00:00"
       },
       {
         "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.7070290796503945,
-        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
-        "created_at": "2026-11-03T09:30:37.451291+00:00",
-        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+        "score": 0.6834287460725188,
+        "id": "42927e7f-f75c-4bce-a74b-06e55fd7fc91",
+        "created_at": "2026-11-04T13:13:35.324994+00:00",
+        "updated_at": "2026-11-04T13:13:35.324994+00:00"
       },
       {
-        "memory": "Tim joined a travel club around early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.706209983458123,
-        "id": "44f7d7be-9e15-4541-a101-41dfe20d48f3",
-        "created_at": "2026-11-03T09:30:29.893060+00:00",
-        "updated_at": "2026-11-03T09:30:29.893060+00:00"
+        "memory": "Tim joined a travel club in December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6817220591648191,
+        "id": "1de9adc4-b052-4298-8bbb-69ab7b6a62ba",
+        "created_at": "2026-11-04T13:14:00.314435+00:00",
+        "updated_at": "2026-11-04T13:14:00.314435+00:00"
       },
       {
-        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
-        "score": 0.7047606029818423,
-        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
-        "created_at": "2026-11-03T09:30:14.697487+00:00",
-        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
+        "score": 0.6796588988390898,
+        "id": "321368aa-b260-42cf-9879-d862c65a1f6f",
+        "created_at": "2026-11-04T13:13:40.085842+00:00",
+        "updated_at": "2026-11-04T13:13:40.085842+00:00"
       },
       {
         "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and expressed excitement about meeting new people and learning about their unique backgrounds.",
-        "score": 0.7020316390334902,
-        "id": "3b452db6-6bdf-47c8-8042-b65b7204305f",
-        "created_at": "2026-11-03T09:30:17.398869+00:00",
-        "updated_at": "2026-11-03T09:30:17.398869+00:00"
-      },
-      {
-        "memory": "Tim joined a travel club around early December 2023, driven by a long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.6993939387497613,
-        "id": "4925d445-d20a-4b10-bf75-45aeb2ec8ca9",
-        "created_at": "2026-11-03T09:30:21.645897+00:00",
-        "updated_at": "2026-11-03T09:30:21.645897+00:00"
-      },
-      {
-        "memory": "Tim is currently researching visa requirements for several countries he wants to visit, finding the process overwhelming but feeling excited about the upcoming travel plans.",
-        "score": 0.6992725247783153,
-        "id": "319c99df-5383-43e9-bf7d-ce9f143b5df1",
-        "created_at": "2026-11-03T09:38:15.523754+00:00",
-        "updated_at": "2026-11-03T09:38:15.523754+00:00"
-      },
-      {
-        "memory": "Tim read a story in his travel book about two hikers who trekked through the Himalayas, noting the journey was tough with challenging terrain, altitude sickness, and bad weather but worth it due to amazing sights.",
-        "score": 0.6980405367701102,
-        "id": "ce4cf5fb-db51-43ac-88c8-6f6f75737485",
-        "created_at": "2026-11-03T09:34:36.192655+00:00",
-        "updated_at": "2026-11-03T09:34:36.192655+00:00"
+        "score": 0.6774437367202235,
+        "id": "595990b3-264b-4c6f-8c67-5074b8e8fa88",
+        "created_at": "2026-11-04T13:13:28.144801+00:00",
+        "updated_at": "2026-11-04T13:13:28.144801+00:00"
       },
       {
         "memory": "Tim is currently researching visa requirements for several countries he wants to visit, finding the process overwhelming but remaining excited about his upcoming travel plans.",
-        "score": 0.6947299378553027,
-        "id": "e425c8a8-42ac-4c77-bdd5-e8fde886c616",
-        "created_at": "2026-11-03T09:38:05.522268+00:00",
-        "updated_at": "2026-11-03T09:38:05.522268+00:00"
+        "score": 0.673345394924285,
+        "id": "09d61363-a8d3-40ef-a933-af42eb31a8cc",
+        "created_at": "2026-11-04T13:25:20.314793+00:00",
+        "updated_at": "2026-11-04T13:25:20.314793+00:00"
       },
       {
-        "memory": "Tim is currently researching visa requirements for several countries he wants to visit, finding the process overwhelming but expressing excitement about the upcoming travel plans.",
-        "score": 0.6934275197167755,
-        "id": "633d1a73-72bd-45d2-9064-8659a368e72a",
-        "created_at": "2026-11-03T09:38:17.832171+00:00",
-        "updated_at": "2026-11-03T09:38:17.832171+00:00"
+        "memory": "Tim joined a travel club and recently started learning how to play the violin in addition to his piano studies, finding the new instrument challenging but fun because he has always admired musicians.",
+        "score": 0.6731383244573703,
+        "id": "e608793d-63d7-4740-9928-35054b0bc771",
+        "created_at": "2026-11-04T13:14:07.930397+00:00",
+        "updated_at": "2026-11-04T13:14:07.930397+00:00"
+      },
+      {
+        "memory": "Tim read a story in his travel book about two hikers who trekked through the Himalayas, noting the journey involved challenging terrain, altitude sickness, and bad weather but was worth it due to amazing sights.",
+        "score": 0.6730961452267488,
+        "id": "2b225fb1-a92b-486b-b47f-6098ef8ce95f",
+        "created_at": "2026-11-04T13:19:17.728033+00:00",
+        "updated_at": "2026-11-04T13:19:17.728033+00:00"
       }
     ],
-    "search_latency_ms": 120.0,
+    "search_latency_ms": 144.6,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Photography",
+      "generated_answer": "Hiking",
       "memories_evaluated": 10,
-      "reason": "The generated answer 'Photography' is a different hobby from the gold answer 'Writing a travel blog' and does not contain any of the specific items or concepts from the gold answer."
+      "reason": "The generated answer 'Hiking' is a different activity from the gold answer 'Writing a travel blog' and does not contain any of the specific items or concepts from the gold answer."
     },
     "top_20": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Learning a language (such as Italian)",
+      "generated_answer": "Hiking",
       "memories_evaluated": 20,
-      "reason": "The generated answer suggests learning a language, which is a different hobby from the gold answer's suggestion of writing a travel blog, and does not contain any of the specific items from the gold answer."
+      "reason": "The generated answer 'Hiking' is a different activity from the gold answer 'Writing a travel blog' and does not contain any of the specific items or concepts from the gold answer."
     },
     "top_50": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Learning a language (such as Italian)",
+      "generated_answer": "Hiking",
       "memories_evaluated": 20,
-      "reason": "The generated answer suggests learning a language, which is a different hobby from the gold answer's suggestion of writing a travel blog, and does not contain any of the specific items from the gold answer."
+      "reason": "The generated answer 'Hiking' is a different activity from the gold answer 'Writing a travel blog' and does not contain any of the specific items or concepts from the gold answer."
     },
     "top_200": {
       "judgment": "WRONG",
       "score": 0.0,
-      "generated_answer": "Learning a language (such as Italian)",
+      "generated_answer": "Hiking",
       "memories_evaluated": 20,
-      "reason": "The generated answer suggests learning a language, which is a different hobby from the gold answer's suggestion of writing a travel blog, and does not contain any of the specific items from the gold answer."
+      "reason": "The generated answer 'Hiking' is a different activity from the gold answer 'Writing a travel blog' and does not contain any of the specific items or concepts from the gold answer."
     }
   }
 }

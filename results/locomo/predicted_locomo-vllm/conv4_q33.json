@@ -8,153 +8,153 @@
   "evidence": [
     "D11:7"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "When does John plan on traveling with his team on a team trip?",
     "search_results": [
       {
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and has not yet decided on the destination.",
+        "score": 0.8950004019334225,
+        "id": "28366ba7-3d4b-412a-a092-0f0c042b6d16",
+        "created_at": "2026-11-04T12:59:17.794485+00:00",
+        "updated_at": "2026-11-04T12:59:17.794485+00:00"
+      },
+      {
         "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
-        "score": 0.8962153751377565,
-        "id": "8c96994f-773c-4e1a-bfde-4379f9ba6153",
-        "created_at": "2026-11-03T09:14:37.516787+00:00",
-        "updated_at": "2026-11-03T09:14:37.516787+00:00"
+        "score": 0.8938140516906878,
+        "id": "8e059574-8d7a-4ccd-b318-6cbd78f08226",
+        "created_at": "2026-11-04T12:59:23.874108+00:00",
+        "updated_at": "2026-11-04T12:59:23.874108+00:00"
       },
       {
-        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his teammates, expressing excitement about the upcoming event.",
-        "score": 0.8918280741542267,
-        "id": "4bf63c88-250e-4fc0-821a-77e784f9fabe",
-        "created_at": "2026-11-03T09:14:09.210132+00:00",
-        "updated_at": "2026-11-03T09:14:09.210132+00:00"
+        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city, though the destination has not yet been decided.",
+        "score": 0.8938140516906878,
+        "id": "ad652563-3195-40e9-a037-7a85abe15bd2",
+        "created_at": "2026-11-04T12:59:28.666494+00:00",
+        "updated_at": "2026-11-04T12:59:28.666494+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates in October 2023 to explore a new city and is seeking destination suggestions.",
-        "score": 0.8854344827751699,
-        "id": "a442f4c1-8957-4ab3-9fa7-3c37be0a0e26",
-        "created_at": "2026-11-03T09:14:22.476178+00:00",
-        "updated_at": "2026-11-03T09:14:22.476178+00:00"
+        "memory": "John is planning a team trip in October 2023 to explore a new city with his new teammates.",
+        "score": 0.8913116981816979,
+        "id": "53bfbf74-816a-42f5-a7d2-0f42f3f8646b",
+        "created_at": "2026-11-04T12:59:11.002343+00:00",
+        "updated_at": "2026-11-04T12:59:11.002343+00:00"
       },
       {
-        "memory": "John and his new teammates are still deciding on the destination for their team trip planned for October 2023, and John asked Tim for suggestions.",
-        "score": 0.8722400092491067,
-        "id": "30287964-98d3-4992-bf9c-97585a7ee154",
-        "created_at": "2026-11-03T09:14:13.745108+00:00",
-        "updated_at": "2026-11-03T09:14:13.745108+00:00"
+        "memory": "John is planning a team trip for October 2023 to explore a new city and have fun with his basketball teammates, expressing excitement about the upcoming event.",
+        "score": 0.883731567256705,
+        "id": "7124514e-ffc4-4f79-a340-8dd3fbad54fd",
+        "created_at": "2026-11-04T12:59:07.471785+00:00",
+        "updated_at": "2026-11-04T12:59:07.471785+00:00"
       },
       {
-        "memory": "John and his basketball teammates are planning a team trip to explore a new city in October 2023, though the specific destination has not yet been decided.",
-        "score": 0.8694802020082226,
-        "id": "9a0335de-5e9a-4cc7-8ff3-af1d011592ec",
-        "created_at": "2026-11-03T09:14:48.117056+00:00",
-        "updated_at": "2026-11-03T09:14:48.117056+00:00"
+        "memory": "As of September 21, 2023, John and his basketball teammates have not yet decided on the destination for their upcoming team trip and are seeking suggestions from Tim.",
+        "score": 0.876848842117479,
+        "id": "2d1a7511-9e78-4ede-a68e-04436514bd03",
+        "created_at": "2026-11-04T12:59:13.911998+00:00",
+        "updated_at": "2026-11-04T12:59:13.911998+00:00"
       },
       {
-        "memory": "John is planning a team trip with his new teammates next month (October 2023) to explore a new city, and he has not yet visited Edinburgh, Scotland, which Tim suggested as a destination due to its magical vibe, history, and architecture.",
-        "score": 0.8435910398718436,
-        "id": "ce0760a1-3b34-4ea7-9b6f-fe9da948b1af",
-        "created_at": "2026-11-03T09:14:41.113956+00:00",
-        "updated_at": "2026-11-03T09:14:41.113956+00:00"
+        "memory": "John expressed interest in Tim's suggestion of Edinburgh for his team trip, noting he has never been there but finds it worth considering.",
+        "score": 0.8077244102665209,
+        "id": "df3f04ca-3e4b-4613-8c4f-f4f0d194b5d3",
+        "created_at": "2026-11-04T12:59:28.674400+00:00",
+        "updated_at": "2026-11-04T12:59:28.674400+00:00"
       },
       {
-        "memory": "John expressed interest in Tim's suggestion of Edinburgh for the team trip, noting he has never been there but considers it worth exploring.",
-        "score": 0.8190008193244667,
-        "id": "bee098e3-1f67-470d-90ba-7f054ce200b9",
-        "created_at": "2026-11-03T09:14:48.125743+00:00",
-        "updated_at": "2026-11-03T09:14:48.125743+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.7363895505686449,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+        "memory": "John has not yet visited Edinburgh, Scotland, but considers it a worthwhile destination for his upcoming team trip after Tim's suggestion.",
+        "score": 0.7873732047120205,
+        "id": "2bc4db82-4886-4a50-8768-0a3ac6ffe080",
+        "created_at": "2026-11-04T12:59:20.519189+00:00",
+        "updated_at": "2026-11-04T12:59:20.519189+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.7341576334285855,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+        "score": 0.720352015717003,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.7310841520262431,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.7187370914486663,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.7217731049379225,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations based on his previous experience in Europe.",
+        "score": 0.7169378955943262,
+        "id": "5a25ef2f-5e70-45a6-9818-cb4c0d16e025",
+        "created_at": "2026-11-04T13:07:42.948057+00:00",
+        "updated_at": "2026-11-04T13:07:42.948057+00:00"
       },
       {
-        "memory": "Tim visited a travel agency on or before December 26, 2023, to check the requirements for his next dream trip.",
-        "score": 0.7118379079514668,
-        "id": "23ba5800-02f8-4123-adfc-ac99dc60b17c",
-        "created_at": "2026-11-03T09:34:36.196147+00:00",
-        "updated_at": "2026-11-03T09:34:36.196147+00:00"
+        "memory": "John met back up with his basketball teammates on August 15, 2023, after a trip, describing the atmosphere as electric and feeling very welcome to be part of the team.",
+        "score": 0.6552027306015048,
+        "id": "72cc87eb-37f3-44ba-99ec-83faa3c25b82",
+        "created_at": "2026-11-04T12:55:09.789337+00:00",
+        "updated_at": "2026-11-04T12:55:09.789337+00:00"
       },
       {
-        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
-        "score": 0.6340268003326726,
-        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
-        "created_at": "2026-11-03T09:34:03.411974+00:00",
-        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+        "memory": "John's team gave it their all during a scrimmage in the week of December 18-24, 2023, and John noted that the team has seen significant growth in communication and bonding, which helps them understand each other's strengths and weaknesses.",
+        "score": 0.6090959647982782,
+        "id": "73be1eac-ba12-4d63-8532-241a5ba7d68f",
+        "created_at": "2026-11-04T13:18:24.471628+00:00",
+        "updated_at": "2026-11-04T13:18:24.471628+00:00"
       },
       {
         "memory": "John's team strengthens their unity through activities away from practice, including team dinners, outings, and basketball games.",
-        "score": 0.6206031233782296,
-        "id": "ff41e4e0-a479-440a-9fb0-e107039c4c90",
-        "created_at": "2026-11-03T09:31:36.065792+00:00",
-        "updated_at": "2026-11-03T09:31:36.065792+00:00"
+        "score": 0.6033811263551245,
+        "id": "f108c757-c9fc-4305-85a4-9f84209b5a8b",
+        "created_at": "2026-11-04T13:15:33.067535+00:00",
+        "updated_at": "2026-11-04T13:15:33.067535+00:00"
       },
       {
-        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
-        "score": 0.5961168175422142,
-        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
-        "created_at": "2026-11-03T09:31:15.581413+00:00",
-        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+        "memory": "John signed with a new team around May 21, 2023, and expressed excitement about the upcoming season.",
+        "score": 0.5975804871111134,
+        "id": "ee16a5b4-dad2-4f00-b2b7-1395af9aae85",
+        "created_at": "2026-11-04T12:49:07.043015+00:00",
+        "updated_at": "2026-11-04T12:49:07.043015+00:00"
       },
       {
-        "memory": "Tim joined a group of globetrotters around January 2, 2024, who share his interest in travel, and he has been enjoying getting to know them and hearing about their trips.",
-        "score": 0.5941880994178359,
-        "id": "3ddfa842-2518-44fd-8d57-2b3121a4e574",
-        "created_at": "2026-11-03T09:35:42.229608+00:00",
-        "updated_at": "2026-11-03T09:35:42.229608+00:00"
+        "memory": "Tim joined a group of globetrotters around January 2, 2024, who share his interest in travel, and he enjoys getting to know them and hearing about their trips.",
+        "score": 0.5922929384865825,
+        "id": "6be94f42-027f-41ac-8fbb-f28b7ddd04f5",
+        "created_at": "2026-11-04T13:21:50.180530+00:00",
+        "updated_at": "2026-11-04T13:21:50.180530+00:00"
       },
       {
-        "memory": "John's team supports him not only in his sport but also in other aspects of life, encouraging him when he is down, and they hang out together frequently outside of competition.",
-        "score": 0.5939018490162111,
-        "id": "5e754245-fa13-45cd-9522-ff4736d97832",
-        "created_at": "2026-11-03T09:00:00.851565+00:00",
-        "updated_at": "2026-11-03T09:00:00.851565+00:00"
+        "memory": "John's basketball team strengthens their unity through team dinners, outings, and basketball games, valuing moments away from practice.",
+        "score": 0.5770380658635658,
+        "id": "73b5857c-a5f2-4693-911c-0eff1d314ceb",
+        "created_at": "2026-11-04T13:15:23.516882+00:00",
+        "updated_at": "2026-11-04T13:15:23.516882+00:00"
       },
       {
-        "memory": "Tim is reading a book of stories from travelers around the world to plan his next adventure, which he shared with John on December 26, 2023.",
-        "score": 0.5920298446698605,
-        "id": "e85bad9a-e976-4104-898c-4becde2d3af1",
-        "created_at": "2026-11-03T09:34:23.210044+00:00",
-        "updated_at": "2026-11-03T09:34:23.210044+00:00"
+        "memory": "John attended a local restaurant with new teammates the week of September 11-17, 2023, to get to know them better and build team connections.",
+        "score": 0.5767405352634579,
+        "id": "ef7fb49f-c4f6-4d50-b665-1ddb80cb452f",
+        "created_at": "2026-11-04T12:59:10.996010+00:00",
+        "updated_at": "2026-11-04T12:59:10.996010+00:00"
       },
       {
-        "memory": "Tim joined a group of globetrotters who share his interest in travel, and he enjoys hearing about their trips.",
-        "score": 0.5808848860234923,
-        "id": "d5ee7e6e-5a09-42c3-923c-8834a84d2ab4",
-        "created_at": "2026-11-03T09:36:03.645858+00:00",
-        "updated_at": "2026-11-03T09:36:03.645858+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it rewarding to share his skills and stay involved in the game",
+        "score": 0.5587011731197664,
+        "id": "1c2f40a5-90c3-45f3-adf9-decdfcf5360b",
+        "created_at": "2026-11-04T13:04:00.872688+00:00",
+        "updated_at": "2026-11-04T13:04:00.872688+00:00"
       },
       {
-        "memory": "John's basketball team had a close game against another team the week of December 9, 2023, which they won at the final buzzer, and he shared a photo of women's basketball players holding up a trophy to celebrate.",
-        "score": 0.5689249353290038,
-        "id": "a90f938c-f5b2-4c39-8693-7fb6eb35a8b7",
-        "created_at": "2026-11-03T09:32:44.179083+00:00",
-        "updated_at": "2026-11-03T09:32:44.179083+00:00"
+        "memory": "John's team experienced significant growth in communication and bonding during their training leading up to a scrimmage held around December 19, 2023.",
+        "score": 0.5566410622530342,
+        "id": "6500f341-7f24-465f-ab5b-88e0eac35a61",
+        "created_at": "2026-11-04T13:18:31.830812+00:00",
+        "updated_at": "2026-11-04T13:18:31.830812+00:00"
       }
     ],
-    "search_latency_ms": 126.4,
+    "search_latency_ms": 155.2,
     "total_results": 20
   },
   "cutoff_results": {

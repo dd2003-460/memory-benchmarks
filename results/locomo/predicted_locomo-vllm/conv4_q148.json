@@ -8,153 +8,153 @@
   "evidence": [
     "D21:13"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "How long has Tim been playing the piano for, as of December 2023?",
     "search_results": [
       {
-        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, and describes the experience as an amazing adventure while enjoying his progress.",
-        "score": 0.7911128929967325,
-        "id": "f6059166-ea53-4474-b2ea-f0a4aa0187a6",
-        "created_at": "2026-11-03T09:30:41.679787+00:00",
-        "updated_at": "2026-11-03T09:30:41.679787+00:00"
+        "memory": "Tim has been playing the piano for about four months as of December 6, 2023, describing it as an amazing adventure and really enjoying the progress he has been making.",
+        "score": 0.7936801440560963,
+        "id": "3ba9eb05-b675-4ff0-b75d-f16e8ecc88fb",
+        "created_at": "2026-11-04T13:14:07.937333+00:00",
+        "updated_at": "2026-11-04T13:14:07.937333+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.7832176327160337,
-        "id": "1407c78f-7f76-4b55-ac55-37f912e6fbd5",
-        "created_at": "2026-11-03T09:30:48.601783+00:00",
-        "updated_at": "2026-11-03T09:30:48.601783+00:00"
+        "memory": "Tim started learning how to play the piano around August 21, 2023, finding it a steep learning curve but very satisfying to see his progress.",
+        "score": 0.7732767710913543,
+        "id": "abe83ab6-48a1-4729-a366-9e9e46d326c3",
+        "created_at": "2026-11-04T12:56:09.098162+00:00",
+        "updated_at": "2026-11-04T12:56:09.098162+00:00"
       },
       {
-        "memory": "Tim has been playing the piano for about four months as of December 2023 and describes the experience as an amazing adventure with steady progress.",
-        "score": 0.7832176327160337,
-        "id": "90db99c0-49b9-4cea-b2fd-755593919f87",
-        "created_at": "2026-11-03T09:30:53.143666+00:00",
-        "updated_at": "2026-11-03T09:30:53.143666+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, finding it an amazing adventure and enjoying his progress",
+        "score": 0.7274531199986516,
+        "id": "bc2cc6a5-4d8c-433e-8c3d-f5246302cdb7",
+        "created_at": "2026-11-04T13:14:12.731741+00:00",
+        "updated_at": "2026-11-04T13:14:12.731741+00:00"
       },
       {
-        "memory": "Tim started learning how to play the piano around August 21, 2023, finding the initial learning curve challenging but deeply satisfying to see his progress.",
-        "score": 0.7708028658455134,
-        "id": "b51216fd-1878-4330-bfd8-ca0e3dea3ef1",
-        "created_at": "2026-11-03T09:09:46.067003+00:00",
-        "updated_at": "2026-11-03T09:09:46.067003+00:00"
+        "memory": "Tim has been learning to play the violin for about four months as of December 2023, describing it as an amazing adventure and enjoying his progress.",
+        "score": 0.7105873211811946,
+        "id": "69fa2968-f8f2-4764-ab76-74e1dfc54325",
+        "created_at": "2026-11-04T13:14:19.494840+00:00",
+        "updated_at": "2026-11-04T13:14:19.494840+00:00"
       },
       {
-        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
-        "score": 0.7295910542422275,
-        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
-        "created_at": "2026-11-03T09:35:32.397758+00:00",
-        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+        "memory": "Tim is excited about a new fantasy TV series scheduled to release in January 2024, which he was looking forward to as of December 26, 2023.",
+        "score": 0.6795158863292613,
+        "id": "3dca5b45-3fad-4763-aed5-e9480bec2426",
+        "created_at": "2026-11-04T13:21:29.992346+00:00",
+        "updated_at": "2026-11-04T13:21:29.992346+00:00"
       },
       {
-        "memory": "Tim has been playing basketball for about four months as of December 2023 and describes the experience as an amazing adventure where he is enjoying his progress.",
-        "score": 0.7081984967126942,
-        "id": "bdd5990c-4aa2-4ab9-ab47-25e287461f2f",
-        "created_at": "2026-11-03T09:31:05.110299+00:00",
-        "updated_at": "2026-11-03T09:31:05.110299+00:00"
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, as discussed on December 26, 2023.",
+        "score": 0.6770661010880201,
+        "id": "ab4f8b6a-fa24-44e3-b8d6-7aea758fb2d5",
+        "created_at": "2026-11-04T13:21:33.247250+00:00",
+        "updated_at": "2026-11-04T13:21:33.247250+00:00"
       },
       {
-        "memory": "As of December 26, 2023, Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024",
-        "score": 0.6870495681365097,
-        "id": "32321ac1-5928-4037-a3fa-6ad133a2638e",
-        "created_at": "2026-11-03T09:35:39.824581+00:00",
-        "updated_at": "2026-11-03T09:35:39.824581+00:00"
+        "memory": "Tim started learning how to play the piano recently, finding it a learning curve but satisfying to see progress.",
+        "score": 0.6729176619156331,
+        "id": "ef6fb08f-2172-45f5-bd38-7ba80b191cbe",
+        "created_at": "2026-11-04T12:56:23.405713+00:00",
+        "updated_at": "2026-11-04T12:56:23.405713+00:00"
       },
       {
-        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
-        "score": 0.682252151412755,
-        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
-        "created_at": "2026-11-03T09:35:29.806366+00:00",
-        "updated_at": "2026-11-03T09:35:29.806366+00:00"
-      },
-      {
-        "memory": "Tim announced on December 26, 2023, that he is starting some big new things, while sharing a photo of a book with a golden cover on a table.",
-        "score": 0.6766390954853035,
-        "id": "665e96e1-c679-4a32-b190-bb9b8974a0a6",
-        "created_at": "2026-11-03T09:34:16.758221+00:00",
-        "updated_at": "2026-11-03T09:34:16.758221+00:00"
-      },
-      {
-        "memory": "Tim started learning the violin in late 2023, having admired musicians for a long time; he finds it challenging but fun and a great way to relax and be creative.",
-        "score": 0.6537035693658297,
-        "id": "451ec911-fb86-469e-ba68-e9b5a06c0262",
-        "created_at": "2026-11-03T09:30:53.137059+00:00",
-        "updated_at": "2026-11-03T09:30:53.137059+00:00"
-      },
-      {
-        "memory": "Tim joined a travel club and is currently working on his studies while picking up new skills, as of December 2023.",
-        "score": 0.6513790276506994,
-        "id": "22c796a2-fa10-4e7c-a7eb-ba3d65d90fd6",
-        "created_at": "2026-11-03T09:30:53.131364+00:00",
-        "updated_at": "2026-11-03T09:30:53.131364+00:00"
+        "memory": "Tim announced on December 26, 2023, that he is starting some big new things and shared a photo of a book with a golden cover on a table.",
+        "score": 0.6600983802043826,
+        "id": "ebff549b-f567-48a8-aea1-495ddc89f777",
+        "created_at": "2026-11-04T13:18:31.834923+00:00",
+        "updated_at": "2026-11-04T13:18:31.834923+00:00"
       },
       {
         "memory": "Tim's favorite song to play on the piano is a theme from a movie he really enjoys, which brings back lots of great memories for him.",
-        "score": 0.6471491281316446,
-        "id": "8fdf1abc-6f79-4619-b0de-9c0b08ec756c",
-        "created_at": "2026-11-03T09:09:50.772054+00:00",
-        "updated_at": "2026-11-03T09:09:50.772054+00:00"
+        "score": 0.6469459388598732,
+        "id": "9d95144d-d6de-4245-9126-dbfb28c60839",
+        "created_at": "2026-11-04T12:56:15.801176+00:00",
+        "updated_at": "2026-11-04T12:56:15.801176+00:00"
       },
       {
-        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
-        "score": 0.6443636258470756,
-        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
-        "created_at": "2026-11-03T09:35:34.717763+00:00",
-        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party he attended in early December 2023.",
+        "score": 0.6428392163283697,
+        "id": "4b62b5bb-a99e-44d6-8033-9730c8c001b1",
+        "created_at": "2026-11-04T13:14:55.377417+00:00",
+        "updated_at": "2026-11-04T13:14:55.377417+00:00"
       },
       {
-        "memory": "Tim received a chocolate frog as a treat at the Harry Potter party and shared a photo of it with John on December 8, 2023.",
-        "score": 0.6414097627940913,
-        "id": "09b0c814-f536-42fc-a5d1-d467e2494e70",
-        "created_at": "2026-11-03T09:31:15.570485+00:00",
-        "updated_at": "2026-11-03T09:31:15.570485+00:00"
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, as revealed in December 2023.",
+        "score": 0.6249675062178643,
+        "id": "bcfb1b7b-7c55-4b7b-99c6-f17a93e23af6",
+        "created_at": "2026-11-04T13:21:38.958909+00:00",
+        "updated_at": "2026-11-04T13:21:38.958909+00:00"
       },
       {
-        "memory": "Tim completed an analysis of the Game of Thrones series for his English literature class around December 11, 2023, and felt it went okay despite having a tough time with the class.",
-        "score": 0.6330059330192974,
-        "id": "fa5c0f34-48f2-4370-bb5d-4b9a1d939289",
-        "created_at": "2026-11-03T09:31:49.899847+00:00",
-        "updated_at": "2026-11-03T09:31:49.899847+00:00"
+        "memory": "John is a fan of the Harry Potter movies and asked Tim if he has seen all of them during their conversation on December 26, 2023",
+        "score": 0.6223065660755445,
+        "id": "5c5c5cc5-9cd9-4519-99a8-a8e3441d9f12",
+        "created_at": "2026-11-04T13:21:06.481762+00:00",
+        "updated_at": "2026-11-04T13:21:06.481762+00:00"
       },
       {
-        "memory": "Tim joined a travel club in early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
-        "score": 0.6321043428442288,
-        "id": "02dfa0de-d094-47c1-8a84-a6fd936a36f2",
-        "created_at": "2026-11-03T09:30:14.697487+00:00",
-        "updated_at": "2026-11-03T09:30:14.697487+00:00"
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique characteristics.",
+        "score": 0.6199575858543307,
+        "id": "d449cbc7-e924-4b3c-8203-2a9ad87a9fe3",
+        "created_at": "2026-11-04T13:13:11.210863+00:00",
+        "updated_at": "2026-11-04T13:13:11.210863+00:00"
       },
       {
-        "memory": "Tim completed an analysis for his English literature class on the Game of Thrones series around December 11, 2023, feeling that it went okay despite having a tough time with the class.",
-        "score": 0.6308694319208208,
-        "id": "2719581c-fcbb-4405-b639-93b622f5ffe2",
-        "created_at": "2026-11-03T09:31:45.171754+00:00",
-        "updated_at": "2026-11-03T09:31:45.171754+00:00"
+        "memory": "Tim has a bookshelf featuring favorite fantasy books including 'Harry Potter', 'Game of Thrones', and 'Lord of the Rings', which he shared with John on December 1, 2023.",
+        "score": 0.6175799605017589,
+        "id": "8b6b2e8d-d713-4dd6-9f24-f6f6ecf8d067",
+        "created_at": "2026-11-04T13:12:24.502718+00:00",
+        "updated_at": "2026-11-04T13:12:24.502718+00:00"
       },
       {
-        "memory": "Tim joined a travel club around early December 2023, driven by his long-standing interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.6277281879885567,
-        "id": "44f7d7be-9e15-4541-a101-41dfe20d48f3",
-        "created_at": "2026-11-03T09:30:29.893060+00:00",
-        "updated_at": "2026-11-03T09:30:29.893060+00:00"
+        "memory": "Tim visited a travel agency on December 26, 2023, to check the requirements for his next dream trip.",
+        "score": 0.6164405179248728,
+        "id": "eb0aea29-6736-4d10-bbab-18668c3c6494",
+        "created_at": "2026-11-04T13:20:36.457763+00:00",
+        "updated_at": "2026-11-04T13:20:36.457763+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club in December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6163219962760724,
+        "id": "1de9adc4-b052-4298-8bbb-69ab7b6a62ba",
+        "created_at": "2026-11-04T13:14:00.314435+00:00",
+        "updated_at": "2026-11-04T13:14:00.314435+00:00"
       },
       {
         "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.6253793887271991,
-        "id": "cc546a52-535f-48b5-b778-1e7088e5f9c3",
-        "created_at": "2026-11-03T09:30:34.554745+00:00",
-        "updated_at": "2026-11-03T09:30:34.554745+00:00"
+        "score": 0.6161215587025037,
+        "id": "c7eeb30e-0efb-45cf-8fbb-8ff5f63804c3",
+        "created_at": "2026-11-04T13:13:56.251667+00:00",
+        "updated_at": "2026-11-04T13:13:56.251667+00:00"
+      },
+      {
+        "memory": "Tim joined a travel club around early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
+        "score": 0.6161215587025037,
+        "id": "d99eddba-baad-49f9-85e9-49dac31767b7",
+        "created_at": "2026-11-04T13:13:44.768420+00:00",
+        "updated_at": "2026-11-04T13:13:44.768420+00:00"
       },
       {
         "memory": "Tim joined a travel club in early December 2023, driven by his interest in different cultures and countries, and is excited to meet new people and learn about their unique backgrounds.",
-        "score": 0.6253264693255115,
-        "id": "67ce79a2-bc2f-4171-a203-86e8533d7b4f",
-        "created_at": "2026-11-03T09:30:37.451291+00:00",
-        "updated_at": "2026-11-03T09:30:37.451291+00:00"
+        "score": 0.6160686393008161,
+        "id": "42927e7f-f75c-4bce-a74b-06e55fd7fc91",
+        "created_at": "2026-11-04T13:13:35.324994+00:00",
+        "updated_at": "2026-11-04T13:13:35.324994+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his bookshelf on December 1, 2023, featuring favorite fantasy books including Harry Potter, Game of Thrones, and Lord of the Rings.",
+        "score": 0.6159562035162294,
+        "id": "708d9526-f8ab-455d-876d-b64594a66337",
+        "created_at": "2026-11-04T13:11:57.257218+00:00",
+        "updated_at": "2026-11-04T13:11:57.257218+00:00"
       }
     ],
-    "search_latency_ms": 185.1,
+    "search_latency_ms": 135.9,
     "total_results": 20
   },
   "cutoff_results": {

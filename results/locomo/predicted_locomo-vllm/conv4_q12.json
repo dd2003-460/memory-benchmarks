@@ -8,183 +8,183 @@
   "evidence": [
     "D3:27"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What year did John start surfing?",
     "search_results": [
       {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.5916633730247312,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
+        "memory": "John started surfing five years ago, around mid-2018, and describes the experience as great due to his love of the connection to nature.",
+        "score": 0.6959874111910257,
+        "id": "d5cb1e79-88b2-4783-ad8b-15fe1b5cfbf4",
+        "created_at": "2026-11-04T12:52:05.804292+00:00",
+        "updated_at": "2026-11-04T12:52:05.804292+00:00"
       },
       {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.5744451774452001,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
+        "memory": "John had an awesome summer in 2023 spending time with friends surfing and riding the waves, describing the feeling as unreal while sharing a photo of a man holding a surfboard on a beach.",
+        "score": 0.6520115466448326,
+        "id": "9c8ac0e9-476f-4914-8da5-63cd5fee89f5",
+        "created_at": "2026-11-04T12:51:54.752256+00:00",
+        "updated_at": "2026-11-04T12:51:54.752256+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
-        "score": 0.5731960058661236,
-        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
-        "created_at": "2026-11-03T09:30:29.897962+00:00",
-        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.5869026903562191,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
-        "memory": "John started conducting seminars around late December 2023, helping people with their sports and marketing efforts, which he found to be an awesome experience.",
-        "score": 0.5725615607866668,
-        "id": "14e58c52-e9b9-4ffc-8b5b-f79534fa266c",
-        "created_at": "2026-11-03T09:34:11.776947+00:00",
-        "updated_at": "2026-11-03T09:34:11.776947+00:00"
+        "memory": "Tim does not surf but finds that reading great fantasy books helps him escape and feel free, similar to the freedom John feels while surfing.",
+        "score": 0.5854428509207366,
+        "id": "b1121fbf-33ff-4fe9-84e5-26de340f0f3f",
+        "created_at": "2026-11-04T12:52:14.030391+00:00",
+        "updated_at": "2026-11-04T12:52:14.030391+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.5716903867128301,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
+        "memory": "John started doing seminars around late December 2023, helping people with their sports and marketing efforts, which he found to be an awesome experience.",
+        "score": 0.5805587220931454,
+        "id": "6118fc9b-f6a8-4d81-86e2-f73f5892594e",
+        "created_at": "2026-11-04T13:18:24.468243+00:00",
+        "updated_at": "2026-11-04T13:18:24.468243+00:00"
+      },
+      {
+        "memory": "John went camping in the mountains last year (around late 2022), describing the experience as stunning with refreshing air, and found it peaceful and relaxing to disconnect from everyday life.",
+        "score": 0.5805168056558551,
+        "id": "bf557505-d2f7-4112-9c42-700c3a505a0b",
+        "created_at": "2026-11-04T13:13:11.213599+00:00",
+        "updated_at": "2026-11-04T13:13:11.213599+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride.",
+        "score": 0.57502434815016,
+        "id": "13b0e5b8-4228-4cb8-9358-450cbf6fa69a",
+        "created_at": "2026-11-04T13:13:35.319270+00:00",
+        "updated_at": "2026-11-04T13:13:35.319270+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride with significant challenges and growth.",
+        "score": 0.5689835316546319,
+        "id": "41cdeb4c-2f92-4601-9a47-e47b41c119e1",
+        "created_at": "2026-11-04T13:14:00.317631+00:00",
+        "updated_at": "2026-11-04T13:14:00.317631+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, and describes the experience as a wild ride that is living up to his expectations with challenges and growth.",
+        "score": 0.5675387149715799,
+        "id": "8d87f6b6-c116-4de8-a86b-b75a4da56376",
+        "created_at": "2026-11-04T13:13:40.082743+00:00",
+        "updated_at": "2026-11-04T13:13:40.082743+00:00"
       },
       {
         "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.5671048405876896,
-        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
-        "created_at": "2026-11-03T09:30:37.455079+00:00",
-        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+        "score": 0.5641670945403368,
+        "id": "5abb411b-d013-43f0-bc32-204ac86fa282",
+        "created_at": "2026-11-04T13:13:56.254379+00:00",
+        "updated_at": "2026-11-04T13:13:56.254379+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.5671048405876896,
-        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
-        "created_at": "2026-11-03T09:30:34.559013+00:00",
-        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride that is living up to his expectations with challenges and growth.",
+        "score": 0.5589404863702853,
+        "id": "7078ebb7-c806-4a8a-8bfb-91613a88460a",
+        "created_at": "2026-11-04T13:14:07.922726+00:00",
+        "updated_at": "2026-11-04T13:14:07.922726+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing his first season in the pros as a wild ride.",
-        "score": 0.5666936801746345,
-        "id": "50475683-5fc9-49f0-bd54-be3712eb6feb",
-        "created_at": "2026-11-03T09:30:21.639635+00:00",
-        "updated_at": "2026-11-03T09:30:21.639635+00:00"
+        "memory": "John has been playing basketball since he was ten years old, after his dad signed him up for a local league, and continued playing through middle and high school before earning a professional opportunity.",
+        "score": 0.5548067254065108,
+        "id": "ba88463b-6511-4df8-9e87-3dd2efb32568",
+        "created_at": "2026-11-04T12:54:49.176642+00:00",
+        "updated_at": "2026-11-04T12:54:49.176642+00:00"
       },
       {
         "memory": "John started conducting seminars in late December 2023 to help people with sports and marketing, describing the experience as awesome.",
-        "score": 0.5504562572223308,
-        "id": "3cecbf79-6d37-4d0a-85da-712b090a20b8",
-        "created_at": "2026-11-03T09:34:09.327204+00:00",
-        "updated_at": "2026-11-03T09:34:09.327204+00:00"
+        "score": 0.5459469164061194,
+        "id": "094dc792-36c6-47fa-bfa4-0f645d0c568e",
+        "created_at": "2026-11-04T13:18:21.587514+00:00",
+        "updated_at": "2026-11-04T13:18:21.587514+00:00"
       },
       {
-        "memory": "John started learning Spanish because he found it a useful language that offers many personal and professional opportunities.",
-        "score": 0.5485363724708237,
-        "id": "b6ec8cf1-e733-4572-b263-94c32c04853a",
-        "created_at": "2026-11-03T09:35:59.029359+00:00",
-        "updated_at": "2026-11-03T09:35:59.029359+00:00"
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.5440466573183128,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
       },
       {
-        "memory": "John started conducting seminars in late December 2023, helping aspiring professionals with sports and marketing, and found the experience rewarding as participants were eager and motivated.",
-        "score": 0.5476095486636263,
-        "id": "7cf9741e-fb76-485e-8fd6-63604bc46a05",
-        "created_at": "2026-11-03T09:34:23.205177+00:00",
-        "updated_at": "2026-11-03T09:34:23.205177+00:00"
+        "memory": "John started conducting seminars in late December 2023, helping aspiring professionals with sports and marketing, and reported that the sessions went well with eager and motivated participants.",
+        "score": 0.5381063331559148,
+        "id": "71de3f94-db07-4b2b-90cf-fd220fa7e97a",
+        "created_at": "2026-11-04T13:18:51.067411+00:00",
+        "updated_at": "2026-11-04T13:18:51.067411+00:00"
       },
       {
-        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
-        "score": 0.5436850739909782,
-        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
-        "created_at": "2026-11-03T09:07:35.938549+00:00",
-        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+        "memory": "John started conducting seminars in late December 2023, helping aspiring professionals with sports and marketing, and shared a photo of a basketball court with a crowd watching during the event.",
+        "score": 0.528155015073279,
+        "id": "93c8268f-c5ee-46ec-aa0e-39c33188d687",
+        "created_at": "2026-11-04T13:18:31.826471+00:00",
+        "updated_at": "2026-11-04T13:18:31.826471+00:00"
       },
       {
-        "memory": "John started conducting seminars in late December 2023 to help aspiring professionals with sports and marketing, describing the experience as awesome and noting that participants were eager and motivated.",
-        "score": 0.5384620362915495,
-        "id": "861facf1-0dad-49a8-bb74-e815c1f34624",
-        "created_at": "2026-11-03T09:34:16.749926+00:00",
-        "updated_at": "2026-11-03T09:34:16.749926+00:00"
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.22875397266112193,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.24681766169995512,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.21564370064414012,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.21169734100624074,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
-      },
-      {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.20916837842881217,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
-      },
-      {
-        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.20575024013010873,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "memory": "John loves the ocean and expressed excitement about trying seafood in Seattle, sharing a photo of a person walking on the beach with a surfboard during a conversation on July 16, 2023.",
+        "score": 0.20918733449068175,
+        "id": "a21f260b-6d4e-43a8-ae0b-0a74ec9e833f",
+        "created_at": "2026-11-04T12:51:50.052380+00:00",
+        "updated_at": "2026-11-04T12:51:50.052380+00:00"
       },
       {
         "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
-        "score": 0.20294941479930087,
-        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
-        "created_at": "2026-11-03T09:23:39.179743+00:00",
-        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+        "score": 0.2026746782697936,
+        "id": "18a7794a-2345-4eac-8e3e-3d78d1234994",
+        "created_at": "2026-11-04T13:08:08.421845+00:00",
+        "updated_at": "2026-11-04T13:08:08.421845+00:00"
       },
       {
-        "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
-        "score": 0.20150112057397013,
-        "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
-        "created_at": "2026-11-03T09:10:57.495438+00:00",
-        "updated_at": "2026-11-03T09:10:57.495438+00:00"
+        "memory": "John secured an endorsement deal with a renowned outdoor gear company around December 12, 2023, which included receiving hiking and outdoor gear and participating in a photoshoot.",
+        "score": 0.19917155901411607,
+        "id": "0c3e34b8-5889-428d-81ac-3b600af5da94",
+        "created_at": "2026-11-04T13:18:01.649197+00:00",
+        "updated_at": "2026-11-04T13:18:01.649197+00:00"
       }
     ],
-    "search_latency_ms": 87.0,
+    "search_latency_ms": 137.5,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about when John started surfing; they detail his high school sports career, his start in professional basketball around late 2022, his seminars in late 2023, and his recent start learning Spanish.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2018",
       "memories_evaluated": 10,
-      "reason": "The generated answer explicitly states that the information is not available and does not contain the correct year 2018."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about when John started surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2018",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific year (2018), so no correct items are present."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about when John started surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2018",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific year (2018), so no correct items are present."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about when John started surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "2018",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific year (2018), so no correct items are present."
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }

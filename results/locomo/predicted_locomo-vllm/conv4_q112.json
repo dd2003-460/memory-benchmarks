@@ -8,153 +8,153 @@
   "evidence": [
     "D12:10"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What was the setting for John and his wife's first dance?",
     "search_results": [
       {
-        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding on October 2, 2023, which he described as dreamy with music and candlelight.",
-        "score": 0.6938818638168687,
-        "id": "6332dccd-7e48-484d-bb1a-1a8a8613986c",
-        "created_at": "2026-11-03T09:16:41.057223+00:00",
-        "updated_at": "2026-11-03T09:16:41.057223+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant during their wedding reception, which he described as dreamy with music and candlelight.",
+        "score": 0.6994859209418909,
+        "id": "4962ec15-a0c7-4240-a0c3-e5ae0ad19d3c",
+        "created_at": "2026-11-04T13:00:54.551471+00:00",
+        "updated_at": "2026-11-04T13:00:54.551471+00:00"
       },
       {
-        "memory": "Tim saw a photo of John and his wife dancing at their wedding on October 2, 2023, and expressed interest in hearing more about the moment.",
-        "score": 0.6404128459096257,
-        "id": "1f86c352-2846-49a2-b271-a831d1110d74",
-        "created_at": "2026-11-03T09:16:37.125162+00:00",
-        "updated_at": "2026-11-03T09:16:37.125162+00:00"
+        "memory": "John and his wife had their first dance at a cozy restaurant featuring music and candlelight, which John described as dreamy.",
+        "score": 0.6910342092291107,
+        "id": "ed6be9a8-dd3c-4573-ace9-7f61981116e9",
+        "created_at": "2026-11-04T13:01:04.862411+00:00",
+        "updated_at": "2026-11-04T13:01:04.862411+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.6225293352296082,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.6135402256107835,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
-        "score": 0.6136391608370992,
-        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
-        "created_at": "2026-11-03T09:33:20.568634+00:00",
-        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to pain-free jogging after his ankle injury.",
+        "score": 0.6093985730259697,
+        "id": "e4193c5e-949c-4d9c-b4e6-36c2b21ca480",
+        "created_at": "2026-11-04T13:17:01.145042+00:00",
+        "updated_at": "2026-11-04T13:17:01.145042+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6131514711706931,
-        "id": "fd8ad339-4b4b-42e9-a6cc-a8f3594183b7",
-        "created_at": "2026-11-03T09:33:30.168403+00:00",
-        "updated_at": "2026-11-03T09:33:30.168403+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, which made him emotional and choked up.",
+        "score": 0.6020652422418904,
+        "id": "7c974608-bd0e-47e7-938c-22fe876e9bd4",
+        "created_at": "2026-11-04T13:01:04.859051+00:00",
+        "updated_at": "2026-11-04T13:01:04.859051+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.6131514711706931,
-        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
-        "created_at": "2026-11-03T09:33:27.522504+00:00",
-        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+        "memory": "John's favorite memory from his wedding was seeing his wife walk down the aisle, a moment that made him emotional and choked up, which he describes as magical and unforgettable.",
+        "score": 0.5950583334696617,
+        "id": "7509c854-f6ed-4c9a-ae55-bdc1cde9e3c9",
+        "created_at": "2026-11-04T13:00:47.888762+00:00",
+        "updated_at": "2026-11-04T13:00:47.888762+00:00"
       },
       {
-        "memory": "John's favorite memory from his wedding on October 2, 2023, was seeing his wife walk down the aisle, a moment that made him emotional and choked up with happiness.",
-        "score": 0.6026703349550586,
-        "id": "3ce98b16-5e87-4fe6-bbec-e9c09b7e8bcb",
-        "created_at": "2026-11-03T09:16:32.611852+00:00",
-        "updated_at": "2026-11-03T09:16:32.611852+00:00"
+        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding in a lovely greenhouse venue to ensure safety during the pandemic, following necessary protocols so everyone felt safe while celebrating with loved ones.",
+        "score": 0.591193978798359,
+        "id": "e24d232d-103e-4c4f-93a7-4d034faa7bb7",
+        "created_at": "2026-11-04T13:00:38.649597+00:00",
+        "updated_at": "2026-11-04T13:00:38.649597+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family around December 15, 2023, to celebrate his successful return to jogging without discomfort.",
-        "score": 0.5981896784186207,
-        "id": "dcfd4197-8c5f-4d79-8716-d9378debbf67",
-        "created_at": "2026-11-03T09:33:32.675244+00:00",
-        "updated_at": "2026-11-03T09:33:32.675244+00:00"
-      },
-      {
-        "memory": "John and his wife chose a smaller, more intimate gathering for their wedding ceremony in a greenhouse venue around September 25, 2023, following safety protocols to ensure everyone felt safe while celebrating with loved ones.",
-        "score": 0.5886051843916663,
-        "id": "88f2275c-52cc-4712-906b-49be797d7e81",
-        "created_at": "2026-11-03T09:16:21.061118+00:00",
-        "updated_at": "2026-11-03T09:16:21.061118+00:00"
-      },
-      {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain on December 15, 2023.",
-        "score": 0.5815155822282542,
-        "id": "45a9a83f-604d-4546-8189-7dba9776ecb0",
-        "created_at": "2026-11-03T09:33:23.067593+00:00",
-        "updated_at": "2026-11-03T09:33:23.067593+00:00"
+        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his pain-free jogging milestone at the gym on December 15, 2023.",
+        "score": 0.5845832406704651,
+        "id": "8acf5cdb-e142-49ed-b462-9a8b5a86abed",
+        "created_at": "2026-11-04T13:16:57.373739+00:00",
+        "updated_at": "2026-11-04T13:16:57.373739+00:00"
       },
       {
         "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
-        "score": 0.5798972067424926,
-        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
-        "created_at": "2026-11-03T09:23:39.179743+00:00",
-        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+        "score": 0.5782723201280431,
+        "id": "18a7794a-2345-4eac-8e3e-3d78d1234994",
+        "created_at": "2026-11-04T13:08:08.421845+00:00",
+        "updated_at": "2026-11-04T13:08:08.421845+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 11, 2023, and Tim recommended visiting castles during their trip.",
-        "score": 0.5442569673561521,
-        "id": "90b478b3-977d-4c90-ac31-affca5b494d4",
-        "created_at": "2026-11-03T09:23:36.618818+00:00",
-        "updated_at": "2026-11-03T09:23:36.618818+00:00"
+        "score": 0.5427735846713053,
+        "id": "36d81a5f-e70a-49d2-8849-47d61edb22c1",
+        "created_at": "2026-11-04T13:08:05.745534+00:00",
+        "updated_at": "2026-11-04T13:08:05.745534+00:00"
       },
       {
-        "memory": "John has read 'A Dance with Dragons' by George R. R. Martin and describes it as an inspiring book, having been recommended it by Tim who recently finished the novel.",
-        "score": 0.5312981495135833,
-        "id": "808e9b7d-11cc-440b-853b-29c7739c5405",
-        "created_at": "2026-11-03T09:31:28.980306+00:00",
-        "updated_at": "2026-11-03T09:31:28.980306+00:00"
+        "memory": "Tim just finished reading 'A Dance with Dragons' and describes it as a really good story, highly recommending it to John.",
+        "score": 0.5424636165362532,
+        "id": "6e753b5a-981d-477c-b5ff-ff3d06b226eb",
+        "created_at": "2026-11-04T13:15:23.505297+00:00",
+        "updated_at": "2026-11-04T13:15:23.505297+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and stating he cannot imagine his life without it.",
-        "score": 0.3044805064024413,
-        "id": "29b62fac-6996-48a7-872d-563ed5f8c935",
-        "created_at": "2026-11-03T09:36:13.201951+00:00",
-        "updated_at": "2026-11-03T09:36:13.201951+00:00"
+        "memory": "John practices and trains basketball every day to stay in shape and improve, describing it as his passion and something he cannot imagine his life without.",
+        "score": 0.3040749180563915,
+        "id": "4272074c-ce11-4097-add5-01a52aeb0738",
+        "created_at": "2026-11-04T13:22:31.876637+00:00",
+        "updated_at": "2026-11-04T13:22:31.876637+00:00"
       },
       {
-        "memory": "John practices and trains basketball every day to stay in shape and improve his skills, describing it as his passion that he cannot imagine life without.",
-        "score": 0.29574820275086433,
-        "id": "5965ad08-2bf9-46b0-8052-5160167a835b",
-        "created_at": "2026-11-03T09:36:18.490072+00:00",
-        "updated_at": "2026-11-03T09:36:18.490072+00:00"
+        "memory": "John is a member of a hiking club, and some of his friends from the club attended his wedding despite him having only recently joined the group.",
+        "score": 0.23335848412159382,
+        "id": "8a0cef5d-6ce6-42ae-a4a4-c7c948dcd50f",
+        "created_at": "2026-11-04T13:01:04.855888+00:00",
+        "updated_at": "2026-11-04T13:01:04.855888+00:00"
       },
       {
-        "memory": "John values his family highly, stating they are always there for him and that spending time with them brings him significant happiness.",
-        "score": 0.23212285391339801,
-        "id": "4874c1fe-0533-4403-9d5d-e89d35622907",
-        "created_at": "2026-11-03T09:20:51.673633+00:00",
-        "updated_at": "2026-11-03T09:20:51.673633+00:00"
+        "memory": "John shared a photo of a man and woman on stage at a convention to illustrate the atmosphere of his recent seminar experience.",
+        "score": 0.22327700133305264,
+        "id": "d84e39fa-f214-43d9-ab8c-302b9b874627",
+        "created_at": "2026-11-04T13:18:29.132935+00:00",
+        "updated_at": "2026-11-04T13:18:29.132935+00:00"
       },
       {
-        "memory": "John considers his family to be always there for him and states that being with them brings him happiness and helps him remember what is important.",
-        "score": 0.21608681623122003,
-        "id": "a809329a-98b8-4bf9-828a-cc3db2f807c8",
-        "created_at": "2026-11-03T09:20:44.106791+00:00",
-        "updated_at": "2026-11-03T09:20:44.106791+00:00"
+        "memory": "John got married and described the wedding day as beautiful, feeling an unprecedented amount of love and happiness while celebrating with loved ones.",
+        "score": 0.21324691322209902,
+        "id": "399ad4a2-9a20-444d-b38e-4cc3d424bbb8",
+        "created_at": "2026-11-04T13:01:04.851163+00:00",
+        "updated_at": "2026-11-04T13:01:04.851163+00:00"
+      },
+      {
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.20666868927041465,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
         "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.21605578167130882,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "score": 0.2031602363271124,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
       },
       {
-        "memory": "John's favorite recipe is honey garlic chicken with roasted vegetables, which he makes frequently and considers one of his go-to meals.",
-        "score": 0.20918650738852035,
-        "id": "bc91278f-9786-437b-b809-97133839c1c0",
-        "created_at": "2026-11-03T09:21:16.833195+00:00",
-        "updated_at": "2026-11-03T09:21:16.833195+00:00"
+        "memory": "John described feeling an unprecedented amount of love and happiness at his wedding, noting that friends from his hiking club attended even though he had only recently joined the group.",
+        "score": 0.19701315099617006,
+        "id": "94133a7f-93e1-42be-b9ad-53ed57865c58",
+        "created_at": "2026-11-04T13:00:43.619474+00:00",
+        "updated_at": "2026-11-04T13:00:43.619474+00:00"
       },
       {
-        "memory": "John improvised his chicken soup recipe on the spot and does not have a written recipe to share.",
-        "score": 0.20435917070252074,
-        "id": "86634efb-6237-41cb-bb1b-d9838ecc4dad",
-        "created_at": "2026-11-03T09:12:16.038675+00:00",
-        "updated_at": "2026-11-03T09:12:16.038675+00:00"
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies.",
+        "score": 0.1907065842265723,
+        "id": "558c0bce-b6b8-4907-bb21-5813693c8739",
+        "created_at": "2026-11-04T13:10:13.494078+00:00",
+        "updated_at": "2026-11-04T13:10:13.494078+00:00"
+      },
+      {
+        "memory": "John's basketball team recently won a game against a top team after a tough match, which John celebrated for the camaraderie built on and off the court.",
+        "score": 0.19066450217104042,
+        "id": "c41d1b84-0af5-4aed-bdac-6963b9584d77",
+        "created_at": "2026-11-04T13:15:23.512134+00:00",
+        "updated_at": "2026-11-04T13:15:23.512134+00:00"
       }
     ],
-    "search_latency_ms": 109.9,
+    "search_latency_ms": 144.1,
     "total_results": 20
   },
   "cutoff_results": {

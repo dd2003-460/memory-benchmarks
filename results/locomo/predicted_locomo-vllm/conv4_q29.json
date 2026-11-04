@@ -9,183 +9,183 @@
     "D6:13",
     "D9:4"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What schools did John play basketball in and how many years was he with his team during high school?",
     "search_results": [
       {
-        "memory": "John has played basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
-        "score": 0.6744204466298466,
-        "id": "6bac84e4-373a-4d15-93e0-dfade5dbf964",
-        "created_at": "2026-11-03T09:07:35.938549+00:00",
-        "updated_at": "2026-11-03T09:07:35.938549+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.7040047828813701,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
+      },
+      {
+        "memory": "John has been playing basketball since he was ten years old, after his dad signed him up for a local league, and continued playing through middle and high school before earning a professional opportunity.",
+        "score": 0.6984456405596651,
+        "id": "ba88463b-6511-4df8-9e87-3dd2efb32568",
+        "created_at": "2026-11-04T12:54:49.176642+00:00",
+        "updated_at": "2026-11-04T12:54:49.176642+00:00"
       },
       {
         "memory": "John continued playing basketball through middle and high school before earning a college scholarship, and was drafted by a professional team after college, which he describes as his dream come true.",
-        "score": 0.6714832882221213,
-        "id": "5debabf9-1707-47f7-a97b-a6f8536cb8b2",
-        "created_at": "2026-11-03T09:07:35.943681+00:00",
-        "updated_at": "2026-11-03T09:07:35.943681+00:00"
+        "score": 0.6712085514513497,
+        "id": "65631e00-5ac2-412e-9640-403346a7d274",
+        "created_at": "2026-11-04T12:54:20.190141+00:00",
+        "updated_at": "2026-11-04T12:54:20.190141+00:00"
       },
       {
-        "memory": "John was part of a high school sports team for four years, playing alongside friends who later reconnected during his hometown visit in August 2023",
-        "score": 0.6676317913631346,
-        "id": "0ef751aa-0fc4-44f8-aaf0-5550c42f5479",
-        "created_at": "2026-11-03T09:11:25.265594+00:00",
-        "updated_at": "2026-11-03T09:11:25.265594+00:00"
-      },
-      {
-        "memory": "John was teammates with his old friends for four years in high school, and he recently visited home to catch up with them and his family, reminiscing about their childhood.",
-        "score": 0.656660305369418,
-        "id": "5f27501b-8a61-4f75-a785-5d65623162f1",
-        "created_at": "2026-11-03T09:11:02.805338+00:00",
-        "updated_at": "2026-11-03T09:11:02.805338+00:00"
-      },
-      {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.6562495715082162,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
-      },
-      {
-        "memory": "As a younger person, John practiced basketball outside for hours, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
-        "score": 0.6536259185621024,
-        "id": "786b2f10-619b-493f-9c82-3eff84d71d7e",
-        "created_at": "2026-11-03T09:32:06.205210+00:00",
-        "updated_at": "2026-11-03T09:32:06.205210+00:00"
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.6686025781031417,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
       },
       {
         "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.6522773505183391,
-        "id": "05ac516b-6676-438e-8da3-3496d8c51804",
-        "created_at": "2026-11-03T09:30:37.455079+00:00",
-        "updated_at": "2026-11-03T09:30:37.455079+00:00"
+        "score": 0.6519949871091067,
+        "id": "5abb411b-d013-43f0-bc32-204ac86fa282",
+        "created_at": "2026-11-04T13:13:56.254379+00:00",
+        "updated_at": "2026-11-04T13:13:56.254379+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, describing the experience as a wild ride with challenges and growth.",
-        "score": 0.6522773505183391,
-        "id": "e65c80c6-c49a-4eed-812f-825140f57b39",
-        "created_at": "2026-11-03T09:30:34.559013+00:00",
-        "updated_at": "2026-11-03T09:30:34.559013+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride with significant challenges and growth.",
+        "score": 0.6488686980741943,
+        "id": "41cdeb4c-2f92-4601-9a47-e47b41c119e1",
+        "created_at": "2026-11-04T13:14:00.317631+00:00",
+        "updated_at": "2026-11-04T13:14:00.317631+00:00"
+      },
+      {
+        "memory": "John's basketball team played a top team in a recent game around December 8, 2023, which was tough but resulted in a win after fighting hard.",
+        "score": 0.6473139492835873,
+        "id": "a9613880-bcd1-412e-89b9-5b3d115eac09",
+        "created_at": "2026-11-04T13:14:40.292397+00:00",
+        "updated_at": "2026-11-04T13:14:40.292397+00:00"
+      },
+      {
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride that is living up to his expectations with challenges and growth.",
+        "score": 0.6453362961018333,
+        "id": "7078ebb7-c806-4a8a-8bfb-91613a88460a",
+        "created_at": "2026-11-04T13:14:07.922726+00:00",
+        "updated_at": "2026-11-04T13:14:07.922726+00:00"
       },
       {
         "memory": "John organized a basketball camp for kids in his hometown during the summer of 2023, describing it as an awesome experience filled with laughs, high-fives, and personal growth.",
-        "score": 0.6457555342555845,
-        "id": "3c228632-9d74-47df-90ce-5c19bd1525d0",
-        "created_at": "2026-11-03T09:35:02.374809+00:00",
-        "updated_at": "2026-11-03T09:35:02.374809+00:00"
+        "score": 0.6446437552388515,
+        "id": "b6f9a012-7f64-4176-907a-4b31658027e2",
+        "created_at": "2026-11-04T13:21:03.605274+00:00",
+        "updated_at": "2026-11-04T13:21:03.605274+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023 and describes the experience as a wild ride that has been rewarding with challenges and growth.",
-        "score": 0.6450507053572367,
-        "id": "f3a04076-a841-4057-ab4b-a70a54391da9",
-        "created_at": "2026-11-03T09:30:29.897962+00:00",
-        "updated_at": "2026-11-03T09:30:29.897962+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 6, 2023, and describes the experience as a wild ride that is living up to his expectations with challenges and growth.",
+        "score": 0.6427429416279188,
+        "id": "8d87f6b6-c116-4de8-a86b-b75a4da56376",
+        "created_at": "2026-11-04T13:13:40.082743+00:00",
+        "updated_at": "2026-11-04T13:13:40.082743+00:00"
       },
       {
-        "memory": "John builds unity with his basketball team through off-court activities such as team dinners, outings, and casual basketball games, noting that these moments away from practice strengthen their connection.",
-        "score": 0.6383796878248801,
-        "id": "3f21874f-c805-4f22-83da-e8d7c15aafed",
-        "created_at": "2026-11-03T09:31:15.581413+00:00",
-        "updated_at": "2026-11-03T09:31:15.581413+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
+        "score": 0.6393108112336273,
+        "id": "179d57b1-e7cd-4fc5-abb0-e8a72abc3303",
+        "created_at": "2026-11-04T13:15:45.118763+00:00",
+        "updated_at": "2026-11-04T13:15:45.118763+00:00"
       },
       {
-        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing his first season in the pros as a wild ride.",
-        "score": 0.6379002868553014,
-        "id": "50475683-5fc9-49f0-bd54-be3712eb6feb",
-        "created_at": "2026-11-03T09:30:21.639635+00:00",
-        "updated_at": "2026-11-03T09:30:21.639635+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride.",
+        "score": 0.6391755946813849,
+        "id": "13b0e5b8-4228-4cb8-9358-450cbf6fa69a",
+        "created_at": "2026-11-04T13:13:35.319270+00:00",
+        "updated_at": "2026-11-04T13:13:35.319270+00:00"
       },
       {
-        "memory": "As a younger player, John would practice basketball outside for hours while dreaming of playing in big games, using the activity as a way to cope with doubts and stress.",
-        "score": 0.633218115978127,
-        "id": "af6dcba4-4606-4944-b261-e7cf76413f31",
-        "created_at": "2026-11-03T09:31:59.607323+00:00",
-        "updated_at": "2026-11-03T09:31:59.607323+00:00"
+        "memory": "John recalls practicing basketball outside for hours when he was younger, using it as a way to deal with doubts and stress while dreaming of playing in big games.",
+        "score": 0.6366344446494006,
+        "id": "cc710624-3463-4575-95f8-e43f42c7576c",
+        "created_at": "2026-11-04T13:16:07.412848+00:00",
+        "updated_at": "2026-11-04T13:16:07.412848+00:00"
       },
       {
-        "memory": "John participated in a basketball scrimmage on the week of December 11, 2023, noting that the team gave it their all and is seeing significant growth despite the challenges ahead.",
-        "score": 0.6327343482089014,
-        "id": "c87d8754-adcf-477a-8e33-8c63199391ba",
-        "created_at": "2026-11-03T09:33:56.779906+00:00",
-        "updated_at": "2026-11-03T09:33:56.779906+00:00"
+        "memory": "John grew up watching NBA games with his dad and dreamed of playing on big courts, which inspired his lifelong dedication to basketball.",
+        "score": 0.6308200705544721,
+        "id": "14a3c955-186f-4678-902c-48fba36601f8",
+        "created_at": "2026-11-04T12:54:49.180581+00:00",
+        "updated_at": "2026-11-04T12:54:49.180581+00:00"
       },
       {
-        "memory": "John recorded a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023.",
-        "score": 0.6325313408566554,
-        "id": "094a7829-5c98-4aee-b925-8eb643671180",
-        "created_at": "2026-11-03T09:31:45.175398+00:00",
-        "updated_at": "2026-11-03T09:31:45.175398+00:00"
+        "memory": "After scoring a career-high 40 points in a basketball game around July 9, 2023, John and his teammates celebrated at a restaurant where they laughed and relived the intense moments of the tough win.",
+        "score": 0.6261447002033362,
+        "id": "45f13c56-5863-4a04-b280-47cb05efc4ca",
+        "created_at": "2026-11-04T12:50:54.977647+00:00",
+        "updated_at": "2026-11-04T12:50:54.977647+00:00"
       },
       {
-        "memory": "John collects basketball jerseys as a hobby outside of playing professional basketball.",
-        "score": 0.6311510472408015,
-        "id": "1d6553f4-7f57-40e7-821b-e6dd7c17b217",
-        "created_at": "2026-11-03T09:17:03.539957+00:00",
-        "updated_at": "2026-11-03T09:17:03.539957+00:00"
+        "memory": "John's basketball team strengthens their unity through team dinners, outings, and basketball games, valuing moments away from practice.",
+        "score": 0.62613423512447,
+        "id": "73b5857c-a5f2-4693-911c-0eff1d314ceb",
+        "created_at": "2026-11-04T13:15:23.516882+00:00",
+        "updated_at": "2026-11-04T13:15:23.516882+00:00"
       },
       {
-        "memory": "John is a professional basketball player who values the constant challenge of pro ball, personal growth, and the satisfaction of playing with teammates and fans.",
-        "score": 0.6281170580562659,
-        "id": "60741320-c5b8-420f-9cf5-731a0935cc77",
-        "created_at": "2026-11-03T09:15:20.574099+00:00",
-        "updated_at": "2026-11-03T09:15:20.574099+00:00"
+        "memory": "John is mentoring younger players on his basketball team during the off-season, finding it super rewarding and a great way to stay involved in the game by sharing his skills and knowledge.",
+        "score": 0.6252585932861944,
+        "id": "67a51ecb-38f7-473c-819e-b3eaff432839",
+        "created_at": "2026-11-04T13:03:39.696649+00:00",
+        "updated_at": "2026-11-04T13:03:39.696649+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, which was a total success with high attendance and raised money for charity, reinforcing his belief that basketball brings people together and creates positive impact.",
-        "score": 0.6231168113044574,
-        "id": "a535bcb6-4998-4ce4-a6b0-b14b42994c9c",
-        "created_at": "2026-11-03T09:37:49.462726+00:00",
-        "updated_at": "2026-11-03T09:37:49.462726+00:00"
+        "memory": "John scored a personal best of 40 points in a basketball game around July 9, 2023, which he described as an incredible experience with an electric atmosphere that led to a tough win for his team.",
+        "score": 0.6237895570485321,
+        "id": "416549fd-78d2-4a70-8b44-595a93f08b12",
+        "created_at": "2026-11-04T12:51:09.901545+00:00",
+        "updated_at": "2026-11-04T12:51:09.901545+00:00"
       },
       {
-        "memory": "John is a basketball player who achieved a career-high in assists during a game against his team's rival on December 8, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
-        "score": 0.6220980924311312,
-        "id": "16e10bef-b5e2-41df-9180-45c957ec4c8e",
-        "created_at": "2026-11-03T09:32:06.195896+00:00",
-        "updated_at": "2026-11-03T09:32:06.195896+00:00"
+        "memory": "John had a career-high in assists during a basketball game against his team's rival on Friday, December 8, 2023, describing the arena atmosphere as electric and the rivalry match as adding extra intensity.",
+        "score": 0.6229712557584307,
+        "id": "d9bcb525-3030-4c88-bac4-45e8491a8706",
+        "created_at": "2026-11-04T13:15:58.641547+00:00",
+        "updated_at": "2026-11-04T13:15:58.641547+00:00"
       },
       {
-        "memory": "John held a benefit basketball game around January 1, 2024, which was a success with high attendance and raised money for charity.",
-        "score": 0.6217946083747863,
-        "id": "0d572288-708e-4b9c-be10-1dce141d5379",
-        "created_at": "2026-11-03T09:37:42.890488+00:00",
-        "updated_at": "2026-11-03T09:37:42.890488+00:00"
+        "memory": "John achieved a career-high in assists during a basketball game against his team's rival on Friday, November 10, 2023, describing the arena atmosphere as electric and the rivalry match as intensely memorable.",
+        "score": 0.6220949543540462,
+        "id": "b512e92a-b890-45c2-b683-f75e83006129",
+        "created_at": "2026-11-04T13:15:51.664339+00:00",
+        "updated_at": "2026-11-04T13:15:51.664339+00:00"
       }
     ],
-    "search_latency_ms": 102.8,
+    "search_latency_ms": 132.5,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John played basketball in middle school and high school, and he was with his team for four years during high school.",
+      "generated_answer": "John played basketball in middle school and high school (and later college), and he was with his high school team for four years.",
       "memories_evaluated": 10,
-      "reason": "The generated answer correctly identifies that John played in middle school and high school and was with his high school team for four years, which matches the key facts in the gold answer, even though it omits college."
+      "reason": "The generated answer correctly identifies all three levels of basketball (middle school, high school, college) and accurately states the duration with the high school team as four years, matching the gold answer."
     },
     "top_20": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John played basketball in middle school, high school, and college. He was with his high school team for four years.",
+      "generated_answer": "John played basketball in middle and high school, and he was with his team for four years during high school.",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies all three school levels (middle school, high school, college) and the correct duration (four years) for the high school team, matching the gold answer exactly."
+      "reason": "The generated answer correctly identifies that John played in middle and high school and was with his high school team for four years, which matches the core facts of the gold answer despite omitting college."
     },
     "top_50": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John played basketball in middle school, high school, and college. He was with his high school team for four years.",
+      "generated_answer": "John played basketball in middle and high school, and he was with his team for four years during high school.",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies all three school levels (middle school, high school, college) and the correct duration (four years) for the high school team, matching the gold answer exactly."
+      "reason": "The generated answer correctly identifies that John played in middle and high school and was with his high school team for four years, which matches the core facts of the gold answer despite omitting college."
     },
     "top_200": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "John played basketball in middle school, high school, and college. He was with his high school team for four years.",
+      "generated_answer": "John played basketball in middle and high school, and he was with his team for four years during high school.",
       "memories_evaluated": 20,
-      "reason": "The generated answer correctly identifies all three school levels (middle school, high school, college) and the correct duration (four years) for the high school team, matching the gold answer exactly."
+      "reason": "The generated answer correctly identifies that John played in middle and high school and was with his high school team for four years, which matches the core facts of the gold answer despite omitting college."
     }
   }
 }

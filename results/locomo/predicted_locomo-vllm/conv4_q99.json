@@ -8,183 +8,183 @@
   "evidence": [
     "D8:22"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What tradition does Tim mention they love during Thanksgiving?",
     "search_results": [
       {
-        "memory": "Tim's family Thanksgiving traditions include preparing the feast together, talking about what they are thankful for, and watching movies afterwards.",
-        "score": 0.9099858276523465,
-        "id": "9595ae77-a970-4e76-b4de-d2cf27bf37b9",
-        "created_at": "2026-11-03T09:10:15.679245+00:00",
-        "updated_at": "2026-11-03T09:10:15.679245+00:00"
+        "memory": "Tim's family Thanksgiving traditions include preparing the feast together, discussing what they are thankful for, and watching movies afterwards.",
+        "score": 0.9098325678288977,
+        "id": "ff7c3f47-0f3e-4156-8c71-05ec1f89fe78",
+        "created_at": "2026-11-04T12:56:33.863688+00:00",
+        "updated_at": "2026-11-04T12:56:33.863688+00:00"
       },
       {
-        "memory": "Tim's family enjoys watching the movie 'Home Alone' during Thanksgiving, noting that it always brings them lots of laughs.",
-        "score": 0.8684917165035243,
-        "id": "10fa55b1-a401-4928-a991-15f322e01701",
-        "created_at": "2026-11-03T09:10:20.092301+00:00",
-        "updated_at": "2026-11-03T09:10:20.092301+00:00"
+        "memory": "Tim's family enjoys watching the movie 'Home Alone' during Thanksgiving, as it always brings them lots of laughs.",
+        "score": 0.8702626233981384,
+        "id": "1f15463b-cd3e-47e2-9c6e-f1507acfeff5",
+        "created_at": "2026-11-04T12:56:40.861671+00:00",
+        "updated_at": "2026-11-04T12:56:40.861671+00:00"
       },
       {
-        "memory": "Tim loves the movie 'The Santa Clause', describing it as heartwarming and a way to get his family feeling festive.",
-        "score": 0.6392926519254398,
-        "id": "e0c8c425-7a6b-4ae5-8742-58c67df1f506",
-        "created_at": "2026-11-03T09:10:46.392092+00:00",
-        "updated_at": "2026-11-03T09:10:46.392092+00:00"
-      },
-      {
-        "memory": "Tim values family time highly and shared a photo from a special day when his family gathered to eat, describing the occasion as full of love and laughter. The image shows his family sitting on a couch in front of a fireplace.",
-        "score": 0.631069945555723,
-        "id": "fced0288-c741-473a-a2bb-d38c219069e5",
-        "created_at": "2026-11-03T09:10:11.316790+00:00",
-        "updated_at": "2026-11-03T09:10:11.316790+00:00"
-      },
-      {
-        "memory": "Tim loves having movie marathons with friends, often featuring popcorn, as a fun way to relax.",
-        "score": 0.5958155284023465,
-        "id": "b73c1e0a-4944-4e99-a757-7a1ede83e991",
-        "created_at": "2026-11-03T09:35:37.278389+00:00",
-        "updated_at": "2026-11-03T09:35:37.278389+00:00"
+        "memory": "Tim values family time highly and shared a photo from a special Thanksgiving gathering where his family sat on a couch in front of a fireplace, describing the day as full of love and laughter.",
+        "score": 0.8620346295964669,
+        "id": "be89103d-8418-475f-a54a-252858160afc",
+        "created_at": "2026-11-04T12:56:29.871150+00:00",
+        "updated_at": "2026-11-04T12:56:29.871150+00:00"
       },
       {
         "memory": "Tim is staying in Galway, Ireland, and appreciates the city for its vibrant atmosphere, arts scene, and traditional Irish music.",
-        "score": 0.5803520557408312,
-        "id": "9c3c5fae-4610-4339-a9a1-bc4a956286f6",
-        "created_at": "2026-11-03T09:37:42.882881+00:00",
-        "updated_at": "2026-11-03T09:37:42.882881+00:00"
+        "score": 0.5800426618805017,
+        "id": "3e2952ce-1ef3-4dc0-aadf-569c4ffc3123",
+        "created_at": "2026-11-04T13:24:45.080116+00:00",
+        "updated_at": "2026-11-04T13:24:45.080116+00:00"
       },
       {
-        "memory": "Tim felt a strong sense of belonging at the fan event in July 2023, describing it as one of his favorite experiences where everyone shared the same love and interests, making him feel like he was in a world where everyone understood.",
-        "score": 0.5752663712126778,
-        "id": "d228a34c-450f-4996-8a1a-945addcc5bcd",
-        "created_at": "2026-11-03T09:08:22.414933+00:00",
-        "updated_at": "2026-11-03T09:08:22.414933+00:00"
+        "memory": "Tim attended a Harry Potter conference in the UK around October 6, 2023, describing it as an incredible experience where he felt inspired and connected with a community of fans who shared his love for the series.",
+        "score": 0.5797149638606547,
+        "id": "155ed86c-b949-4dd4-9db3-9aa42a766dcd",
+        "created_at": "2026-11-04T13:02:30.366373+00:00",
+        "updated_at": "2026-11-04T13:02:30.366373+00:00"
       },
       {
-        "memory": "Tim stated that he will always love reading, expressing a lifelong commitment to the activity.",
-        "score": 0.5731995479881332,
-        "id": "c63dd8f7-2ef8-40b5-98f4-782183186092",
-        "created_at": "2026-11-03T09:36:15.562605+00:00",
-        "updated_at": "2026-11-03T09:36:15.562605+00:00"
+        "memory": "Tim loves having movie marathons with friends, often enjoying popcorn while watching films together.",
+        "score": 0.5780607798322992,
+        "id": "28f9fb36-ab5f-40ed-9db0-d2c6b34c0978",
+        "created_at": "2026-11-04T13:21:47.869848+00:00",
+        "updated_at": "2026-11-04T13:21:47.869848+00:00"
       },
       {
-        "memory": "Tim loves traveling to new places to experience a different kind of magic, which is one of the reasons he enjoys travel.",
-        "score": 0.5727613830486431,
-        "id": "c2ebd929-b46d-4d38-8804-b2dcd345ecdd",
-        "created_at": "2026-11-03T09:11:05.967989+00:00",
-        "updated_at": "2026-11-03T09:11:05.967989+00:00"
+        "memory": "Tim loves going on road trips with friends and family, where they enjoy exploring, hiking, or playing board games together.",
+        "score": 0.572732928677907,
+        "id": "b1949ba9-2755-415d-b041-b853802e91e6",
+        "created_at": "2026-11-04T13:06:31.413160+00:00",
+        "updated_at": "2026-11-04T13:06:31.413160+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and plans to look up recipes to try making John's chicken soup.",
-        "score": 0.5697837079267233,
-        "id": "a46892a0-86e2-48a3-acd9-1e49783a1916",
-        "created_at": "2026-11-03T09:12:53.926748+00:00",
-        "updated_at": "2026-11-03T09:12:53.926748+00:00"
+        "memory": "John held a benefit basketball game around January 1-6, 2024, which he mentioned to Tim while discussing Tim's upcoming trip to Ireland.",
+        "score": 0.5701894490263182,
+        "id": "88ffdf79-3dd1-494b-97fc-18a864ca4b13",
+        "created_at": "2026-11-04T13:24:37.510982+00:00",
+        "updated_at": "2026-11-04T13:24:37.510982+00:00"
       },
       {
-        "memory": "Tim states that he will always love reading, identifying it as a lifelong passion.",
-        "score": 0.5673424401293318,
-        "id": "a90184f9-79a2-42bb-ac05-77e9b6292f49",
-        "created_at": "2026-11-03T09:36:18.492247+00:00",
-        "updated_at": "2026-11-03T09:36:18.492247+00:00"
+        "memory": "Tim is planning to stay in Galway, Ireland, because he appreciates its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5664342256758645,
+        "id": "3b26f0e4-44ce-413f-9160-cfc4d639e064",
+        "created_at": "2026-11-04T13:24:41.499517+00:00",
+        "updated_at": "2026-11-04T13:24:41.499517+00:00"
       },
       {
-        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
-        "score": 0.5602734404786468,
-        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
-        "created_at": "2026-11-03T09:28:21.002140+00:00",
-        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location for its vibrant atmosphere, arts scene, and traditional Irish music.",
+        "score": 0.5612711924210474,
+        "id": "356e4961-6476-45a0-822b-77cb7f55d2ec",
+        "created_at": "2026-11-04T13:24:17.335742+00:00",
+        "updated_at": "2026-11-04T13:24:17.335742+00:00"
       },
       {
-        "memory": "Tim will be staying in Galway, Ireland during his study abroad semester, choosing the location because of its vibrant atmosphere, arts scene, and traditional Irish music.",
-        "score": 0.5585052192155061,
-        "id": "02b59ecf-4db3-4fb2-af12-04f841b05d65",
-        "created_at": "2026-11-03T09:37:25.186321+00:00",
-        "updated_at": "2026-11-03T09:37:25.186321+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try making John's chicken soup recipe.",
+        "score": 0.5490875603445396,
+        "id": "707d275e-1c0b-4f6d-bb19-1b56e5db9455",
+        "created_at": "2026-11-04T12:58:31.341282+00:00",
+        "updated_at": "2026-11-04T12:58:31.341282+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices in his cooking and is excited to try using sage in recipes.",
-        "score": 0.5575279124869823,
-        "id": "058a4b03-8ca0-41d9-beea-97768a773406",
-        "created_at": "2026-11-03T09:12:40.250974+00:00",
-        "updated_at": "2026-11-03T09:12:40.250974+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and plans to look up recipes to try making John's sage-infused chicken soup.",
+        "score": 0.5484780756939103,
+        "id": "8ab0f031-d4bc-4725-be8b-ac504a1e35ea",
+        "created_at": "2026-11-04T12:58:43.501482+00:00",
+        "updated_at": "2026-11-04T12:58:43.501482+00:00"
       },
       {
-        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach a lot and help him learn new things.",
-        "score": 0.5558705426439128,
-        "id": "ffd7ff15-efe1-46e7-aab3-6a7e7b5428cb",
-        "created_at": "2026-11-03T09:28:43.313206+00:00",
-        "updated_at": "2026-11-03T09:28:43.313206+00:00"
+        "memory": "Tim loves experimenting with spices and is excited to try making the chicken soup recipe John described.",
+        "score": 0.5455983416620015,
+        "id": "e8082005-c45a-46ab-bd7b-d46571d3d5b9",
+        "created_at": "2026-11-04T12:58:39.836514+00:00",
+        "updated_at": "2026-11-04T12:58:39.836514+00:00"
       },
       {
-        "memory": "Tim loves traveling to new places to experience a different kind of magic, connecting his travel interests with his love of fantasy literature",
-        "score": 0.5536736105860226,
-        "id": "51db72db-a00f-4926-9ba4-73f5bfee799d",
-        "created_at": "2026-11-03T09:11:25.259590+00:00",
-        "updated_at": "2026-11-03T09:11:25.259590+00:00"
+        "memory": "Tim loves traveling to new places specifically to experience a different kind of magic, connecting his travel hobby with his passion for fantasy and magical worlds.",
+        "score": 0.5439893178794277,
+        "id": "e8648e75-1dde-4a92-af8e-67c323c4b6f0",
+        "created_at": "2026-11-04T12:57:28.378755+00:00",
+        "updated_at": "2026-11-04T12:57:28.378755+00:00"
       },
       {
-        "memory": "Tim finds motivation to push himself to get better by remembering his love for writing and reading when things get tough.",
-        "score": 0.5530500232117965,
-        "id": "00b1ce5d-942d-49a7-a45e-1f99a8eaf246",
-        "created_at": "2026-11-03T09:27:28.119127+00:00",
-        "updated_at": "2026-11-03T09:27:28.119127+00:00"
+        "memory": "Tim loves reading fantasy stories and books on personal growth, psychology, and self-improvement, finding that they teach valuable lessons and help him learn new things.",
+        "score": 0.5378723604771405,
+        "id": "1b97d299-eb09-496e-a348-1c36922bed9b",
+        "created_at": "2026-11-04T13:11:03.475857+00:00",
+        "updated_at": "2026-11-04T13:11:03.475857+00:00"
       },
       {
-        "memory": "Tim has been writing more articles recently, describing the activity as a way to combine his love for reading with the joy of sharing great stories.",
-        "score": 0.5509599909648595,
-        "id": "cfb732a9-a766-473c-a35e-d5e9518f3c76",
-        "created_at": "2026-11-03T09:07:04.400993+00:00",
-        "updated_at": "2026-11-03T09:07:04.400993+00:00"
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try using sage in recipes after John shared his chicken soup experience.",
+        "score": 0.5350055450801975,
+        "id": "e4101741-30c6-4d66-ab86-9535515e3154",
+        "created_at": "2026-11-04T12:58:26.531236+00:00",
+        "updated_at": "2026-11-04T12:58:26.531236+00:00"
       },
       {
-        "memory": "Tim loves experimenting with spices and is planning to look up recipes to try making the chicken soup John described.",
-        "score": 0.5480638984832737,
-        "id": "8d56cbf5-13ac-455d-bb8d-71cb600f4fc9",
-        "created_at": "2026-11-03T09:13:00.156049+00:00",
-        "updated_at": "2026-11-03T09:13:00.156049+00:00"
+        "memory": "Tim personally decorated his Harry Potter-themed Christmas tree, going all out with the theme and describing the experience as a blast.",
+        "score": 0.3570643686494795,
+        "id": "f62c2ad8-03b1-4a59-b21f-cfcf92766640",
+        "created_at": "2026-11-04T12:57:03.889665+00:00",
+        "updated_at": "2026-11-04T12:57:03.889665+00:00"
       },
       {
-        "memory": "Tim asked John to share his favorite recipes, following up on a photo of a slow cooker meal that Tim found appetizing.",
-        "score": 0.36955503606231743,
-        "id": "9bf7ade6-6af2-47be-bc9d-74b310dc07fd",
-        "created_at": "2026-11-03T09:21:06.470537+00:00",
-        "updated_at": "2026-11-03T09:21:06.470537+00:00"
+        "memory": "Tim watches holiday movies including 'Elf' and 'The Santa Clause', describing them as funny, heartwarming, and festive.",
+        "score": 0.33837189708879023,
+        "id": "f9cb5ba2-c3ab-4b1d-8728-c7e98487df35",
+        "created_at": "2026-11-04T12:57:10.700649+00:00",
+        "updated_at": "2026-11-04T12:57:10.700649+00:00"
+      },
+      {
+        "memory": "Tim decorated a Christmas tree with a Harry Potter theme himself, finding it a fun project and being happy with the result.",
+        "score": 0.3257686857579925,
+        "id": "9a90f6c8-4a9f-4c92-9333-45f0e59f78d4",
+        "created_at": "2026-11-04T12:57:10.703276+00:00",
+        "updated_at": "2026-11-04T12:57:10.703276+00:00"
+      },
+      {
+        "memory": "Tim has a Harry Potter-themed Christmas tree and shared a photo of it on August 21, 2023, in response to John's photo of his own family's Christmas tree.",
+        "score": 0.31618998438940266,
+        "id": "57d6ac8c-b1cd-4bda-a0ae-9a35b7a5cfad",
+        "created_at": "2026-11-04T12:56:59.364933+00:00",
+        "updated_at": "2026-11-04T12:56:59.364933+00:00"
       }
     ],
-    "search_latency_ms": 134.6,
+    "search_latency_ms": 136.3,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
       "judgment": "CORRECT",
       "score": 1.0,
-      "generated_answer": "Tim mentions that his family's Thanksgiving traditions include preparing the feast together, talking about what they are thankful for, and watching movies afterwards (specifically *Home Alone*).",
+      "generated_answer": "Preparing the feast together, discussing what they are thankful for, and watching movies (specifically 'Home Alone')",
       "memories_evaluated": 10,
-      "reason": "The generated answer includes both key elements from the gold answer (preparing the feast and talking about what they are thankful for) and adds extra detail about watching movies, which is acceptable under the rules."
+      "reason": "The generated answer includes both core elements of the gold answer (preparing the feast and discussing what they are thankful for) and adds extra detail about watching movies, which is acceptable under the rules."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Watching the movie 'Home Alone'",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Preparing the feast together, discussing what they are thankful for, and watching movies (specifically 'Home Alone')",
       "memories_evaluated": 20,
-      "reason": "The generated answer mentions watching a movie, which is not included in the gold answer's list of prepping the feast and talking about gratitude, and does not semantically overlap with the core concepts provided."
+      "reason": "The generated answer includes both core elements of the gold answer (preparing the feast and discussing what they are thankful for) and adds extra detail about watching movies, which is acceptable under the rules."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Watching the movie 'Home Alone'",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Preparing the feast together, discussing what they are thankful for, and watching movies (specifically 'Home Alone')",
       "memories_evaluated": 20,
-      "reason": "The generated answer mentions watching a movie, which is not included in the gold answer's list of prepping the feast and talking about gratitude, and does not semantically overlap with the core concepts provided."
+      "reason": "The generated answer includes both core elements of the gold answer (preparing the feast and discussing what they are thankful for) and adds extra detail about watching movies, which is acceptable under the rules."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "Watching the movie 'Home Alone'",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Preparing the feast together, discussing what they are thankful for, and watching movies (specifically 'Home Alone')",
       "memories_evaluated": 20,
-      "reason": "The generated answer mentions watching a movie, which is not included in the gold answer's list of prepping the feast and talking about gratitude, and does not semantically overlap with the core concepts provided."
+      "reason": "The generated answer includes both core elements of the gold answer (preparing the feast and discussing what they are thankful for) and adds extra detail about watching movies, which is acceptable under the rules."
     }
   }
 }

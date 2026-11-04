@@ -8,153 +8,153 @@
   "evidence": [
     "D15:7"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "Who is one of Tim's sources of inspiration for writing?",
     "search_results": [
       {
-        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with these interests to make writing more fun.",
-        "score": 0.6999932089313465,
-        "id": "8953bf23-5c3a-4dda-b9b4-b63beed67e32",
-        "created_at": "2026-11-03T09:19:41.440880+00:00",
-        "updated_at": "2026-11-03T09:19:41.440880+00:00"
-      },
-      {
-        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback while trying to write a story based on his experiences in the UK.",
-        "score": 0.6885803019314995,
-        "id": "4b064620-28ab-49c4-adae-bede5716e9de",
-        "created_at": "2026-11-03T09:27:35.166100+00:00",
-        "updated_at": "2026-11-03T09:27:35.166100+00:00"
+        "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, noting that reading about castles in the UK specifically provided him with many ideas. He also finds certain authors to be goldmines of inspiration and enjoys connecting with things he loves to make writing more fun.",
+        "score": 0.7003707864692593,
+        "id": "4a572cd0-49f3-4c4a-b0ec-be1bd91874bf",
+        "created_at": "2026-11-04T13:05:05.872090+00:00",
+        "updated_at": "2026-11-04T13:05:05.872090+00:00"
       },
       {
         "memory": "Tim draws creative inspiration for his writing from books, movies, and real-life experiences, specifically citing reading about castles in the UK as a source of ideas.",
-        "score": 0.6862157530475326,
-        "id": "28157729-a7fb-4d9e-bee4-c25ce4240e40",
-        "created_at": "2026-11-03T09:19:51.802288+00:00",
-        "updated_at": "2026-11-03T09:19:51.802288+00:00"
+        "score": 0.6860266695727313,
+        "id": "b155435c-efa0-4c06-834b-3814ae29fbef",
+        "created_at": "2026-11-04T13:05:26.936883+00:00",
+        "updated_at": "2026-11-04T13:05:26.936883+00:00"
       },
       {
-        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK sparked many ideas for his stories.",
-        "score": 0.6799929953714505,
-        "id": "84d7f1ec-a151-41a3-aa19-b541fe4e33d3",
-        "created_at": "2026-11-03T09:20:07.690643+00:00",
-        "updated_at": "2026-11-03T09:20:07.690643+00:00"
+        "memory": "Tim is a student who has been swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK, which did not go the way he wanted.",
+        "score": 0.6780887057392123,
+        "id": "a3178ba1-bc1d-4cef-8c28-042f14dff099",
+        "created_at": "2026-11-04T13:09:52.317310+00:00",
+        "updated_at": "2026-11-04T13:09:52.317310+00:00"
       },
       {
-        "memory": "Tim cites J.K. Rowling as a major source of inspiration, admiring her detailed creative storytelling and ability to transport readers into another world, and he takes notes on her writing style for his own work.",
-        "score": 0.6799624506763002,
-        "id": "ccb4710c-f5d2-4d63-8371-b962be7825d1",
-        "created_at": "2026-11-03T09:20:07.694754+00:00",
-        "updated_at": "2026-11-03T09:20:07.694754+00:00"
+        "memory": "Tim is an aspiring writer who actively studies J.K. Rowling's writing style, taking notes on her detail and creative storytelling to improve his own work.",
+        "score": 0.6767696304397455,
+        "id": "6f8857b5-a11c-4cf8-8e69-134d7e4b0b40",
+        "created_at": "2026-11-04T13:05:46.293529+00:00",
+        "updated_at": "2026-11-04T13:05:46.293529+00:00"
       },
       {
-        "memory": "Tim has been reading J.K. Rowling's works for a long time and finds her writing special because it speaks to him personally and continues to inspire him.",
-        "score": 0.6781164557798702,
-        "id": "026c470c-b801-4fda-9dce-bbfeac5957c7",
-        "created_at": "2026-11-03T09:20:07.698691+00:00",
-        "updated_at": "2026-11-03T09:20:07.698691+00:00"
+        "memory": "Tim cites J.K. Rowling as a major source of inspiration for his writing, admiring her captivating detail and creative storytelling, and takes notes on her style to improve his own work.",
+        "score": 0.6684481752012145,
+        "id": "3a9e94bd-902d-4bd2-a888-85037677c278",
+        "created_at": "2026-11-04T13:05:26.940810+00:00",
+        "updated_at": "2026-11-04T13:05:26.940810+00:00"
       },
       {
-        "memory": "Tim cites J.K. Rowling as a particularly inspiring writer, admiring her captivating detail and creative storytelling that transports readers into another world, and he actively takes notes on her writing style to apply to his own work.",
-        "score": 0.6574374534983585,
-        "id": "23cb64e6-e103-4adc-90b7-8f110b13ee1b",
-        "created_at": "2026-11-03T09:19:47.267909+00:00",
-        "updated_at": "2026-11-03T09:19:47.267909+00:00"
+        "memory": "Tim finds writing and reading to be his primary sources of motivation, helping him stay focused and push himself to improve during difficult times.",
+        "score": 0.6659953191254673,
+        "id": "42dda07f-263e-4e05-83b6-b1440215e3d4",
+        "created_at": "2026-11-04T13:10:08.322843+00:00",
+        "updated_at": "2026-11-04T13:10:08.322843+00:00"
       },
       {
-        "memory": "Tim is currently swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK because it did not go the way he wanted.",
-        "score": 0.6569682549381464,
-        "id": "ab6b1dc3-5c87-47df-a896-d861aad3e0c8",
-        "created_at": "2026-11-03T09:27:15.600620+00:00",
-        "updated_at": "2026-11-03T09:27:15.600620+00:00"
+        "memory": "Tim finds that writing and reading are his primary sources of motivation, helping him stay focused and push himself to improve when facing challenges.",
+        "score": 0.6649174715527271,
+        "id": "e91fb36c-0384-4fff-9a55-e11266092e91",
+        "created_at": "2026-11-04T13:09:55.314541+00:00",
+        "updated_at": "2026-11-04T13:09:55.314541+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist and finding it frustrating before eventually pushing through to get the ideas flowing again.",
-        "score": 0.6568659212241885,
-        "id": "b40fb049-72c3-455e-a771-8b42288ef143",
-        "created_at": "2026-11-03T09:21:27.127661+00:00",
-        "updated_at": "2026-11-03T09:21:27.127661+00:00"
+        "memory": "Tim is a writer who draws inspiration from books, movies, and real-life experiences, noting that reading about castles in the UK specifically sparked many ideas for his stories.",
+        "score": 0.664741097959271,
+        "id": "bc13d59c-bd78-4aac-88d1-9e5e973dbdac",
+        "created_at": "2026-11-04T13:05:39.350877+00:00",
+        "updated_at": "2026-11-04T13:05:39.350877+00:00"
       },
       {
-        "memory": "Tim finds writing and reading to be his primary sources of motivation when facing challenges, helping him stay focused and push himself to improve.",
-        "score": 0.655395123957143,
-        "id": "55bd5a59-4b8f-4165-add4-876161749a6d",
-        "created_at": "2026-11-03T09:27:35.171169+00:00",
-        "updated_at": "2026-11-03T09:27:35.171169+00:00"
+        "memory": "Tim has been writing more articles for his online fantasy magazine, describing the work as a way to combine his love for reading with the joy of sharing great stories.",
+        "score": 0.6610745372934217,
+        "id": "8075b8a5-172d-4241-ba1c-f95b7ea5c366",
+        "created_at": "2026-11-04T12:53:59.884709+00:00",
+        "updated_at": "2026-11-04T12:53:59.884709+00:00"
       },
       {
-        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
-        "score": 0.6535214202002273,
-        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
-        "created_at": "2026-11-03T09:19:36.424804+00:00",
-        "updated_at": "2026-11-03T09:19:36.424804+00:00"
+        "memory": "Tim experienced a significant writing block around late October 2023 while working on his fantasy novel, getting stuck on a plot twist. He found the situation frustrating but persisted until he eventually got his ideas flowing again.",
+        "score": 0.659584740674851,
+        "id": "5e81968d-c35a-4046-b179-aa7b9920af09",
+        "created_at": "2026-11-04T13:06:58.133703+00:00",
+        "updated_at": "2026-11-04T13:06:58.133703+00:00"
       },
       {
-        "memory": "Tim finds motivation to push himself to get better by remembering his love for writing and reading when things get tough.",
-        "score": 0.6512097111080599,
-        "id": "00b1ce5d-942d-49a7-a45e-1f99a8eaf246",
-        "created_at": "2026-11-03T09:27:28.119127+00:00",
-        "updated_at": "2026-11-03T09:27:28.119127+00:00"
+        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off and that writing allows him to create whole new worlds.",
+        "score": 0.6574938559850996,
+        "id": "e1fe14f0-17c9-4f7d-866b-cd94e0f6680d",
+        "created_at": "2026-11-04T13:04:56.469243+00:00",
+        "updated_at": "2026-11-04T13:04:56.469243+00:00"
       },
       {
-        "memory": "Tim is a student who has been busy with studies and projects, and he tried writing a story based on his experiences in the UK around November 14, 2023, but faced a setback because it did not go as he wanted.",
-        "score": 0.6511034000641778,
-        "id": "ba79e337-b4fd-46be-8db9-f7a25984a337",
-        "created_at": "2026-11-03T09:27:28.115475+00:00",
-        "updated_at": "2026-11-03T09:27:28.115475+00:00"
+        "memory": "Tim cites J.K. Rowling as a particularly inspiring writer, praising her captivating detail and creative storytelling that transports readers into another world, and he actively takes notes on her writing style to apply to his own work.",
+        "score": 0.6548127196485829,
+        "id": "c7848826-0f11-42da-8abe-571826ccc4ac",
+        "created_at": "2026-11-04T13:05:20.970499+00:00",
+        "updated_at": "2026-11-04T13:05:20.970499+00:00"
       },
       {
-        "memory": "Tim has been writing more articles recently, describing the activity as a way to combine his love for reading with the joy of sharing great stories.",
-        "score": 0.6497777693002498,
-        "id": "cfb732a9-a766-473c-a35e-d5e9518f3c76",
-        "created_at": "2026-11-03T09:07:04.400993+00:00",
-        "updated_at": "2026-11-03T09:07:04.400993+00:00"
+        "memory": "Tim has been reading J.K. Rowling's books for a long time and finds her writing deeply inspiring, noting that it transports readers into another world and evokes strong emotions.",
+        "score": 0.6523487165105517,
+        "id": "0c052a43-3010-4a64-b4c7-f04fe4e7db4c",
+        "created_at": "2026-11-04T13:05:46.298655+00:00",
+        "updated_at": "2026-11-04T13:05:46.298655+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block around late October 2023 while stuck on a plot twist, which he found frustrating but overcame by persisting until the ideas started flowing again.",
-        "score": 0.6469123851221065,
-        "id": "cdc7ee25-4459-452e-8e2c-5cc43ff59c85",
-        "created_at": "2026-11-03T09:21:29.590450+00:00",
-        "updated_at": "2026-11-03T09:21:29.590450+00:00"
+        "memory": "Tim is writing a fantasy novel and finds the process nerve-wracking but exciting, noting that his hard work is paying off and that writing brings him joy by creating whole new worlds.",
+        "score": 0.6504304318206534,
+        "id": "5b9b525d-d59a-4aa1-8f65-08c9c49845f1",
+        "created_at": "2026-11-04T13:05:26.933109+00:00",
+        "updated_at": "2026-11-04T13:05:26.933109+00:00"
       },
       {
-        "memory": "Tim experienced a significant writing block around October 30, 2023, getting stuck on a plot twist but eventually overcame the frustration and got his ideas flowing again.",
-        "score": 0.6374600850197071,
-        "id": "bc7e97ea-5bd0-45e1-b321-494224ad650a",
-        "created_at": "2026-11-03T09:22:24.098436+00:00",
-        "updated_at": "2026-11-03T09:22:24.098436+00:00"
+        "memory": "Tim is currently swamped with studies and projects, and recently experienced a setback when trying to write a story based on his experiences in the UK, which did not go as he wanted.",
+        "score": 0.6494492389266953,
+        "id": "c3c58d31-a26e-49ac-8080-c3dda8f0415b",
+        "created_at": "2026-11-04T13:10:08.319476+00:00",
+        "updated_at": "2026-11-04T13:10:08.319476+00:00"
       },
       {
-        "memory": "Tim is currently reading a series about the power of friendship and loyalty, which he finds inspiring.",
-        "score": 0.6357694466155273,
-        "id": "dcac3d99-070b-41a0-af7f-ae3892b18160",
-        "created_at": "2026-11-03T09:31:36.062431+00:00",
-        "updated_at": "2026-11-03T09:31:36.062431+00:00"
+        "memory": "Tim writes articles about fantasy novels for an online magazine, focusing on studying characters, themes, and making book recommendations. He found the opportunity through a fantasy literature forum and shared his ideas with the editors.",
+        "score": 0.6464992025994839,
+        "id": "84ee1109-8fbb-4817-9756-cf564c0d8db6",
+        "created_at": "2026-11-04T12:52:47.007824+00:00",
+        "updated_at": "2026-11-04T12:52:47.007824+00:00"
       },
       {
-        "memory": "J.K. Rowling is Tim's favorite inspiring author; he admires her captivating detail and creative storytelling, and takes notes on her style to improve his own writing.",
-        "score": 0.634405069325935,
-        "id": "05e0bb7d-f639-41fb-9e4c-fcf9823579f7",
-        "created_at": "2026-11-03T09:19:51.806293+00:00",
-        "updated_at": "2026-11-03T09:19:51.806293+00:00"
+        "memory": "Tim has been swamped with studies and projects as of November 21, 2023, indicating he is currently a student balancing academic work with his writing.",
+        "score": 0.6436835697676325,
+        "id": "f98715f8-d619-4a71-9692-4fbe6a9bf3ad",
+        "created_at": "2026-11-04T13:09:39.157653+00:00",
+        "updated_at": "2026-11-04T13:09:39.157653+00:00"
       },
       {
-        "memory": "In the week preceding November 21, 2023, Tim experienced a setback when he tried writing a story based on his experiences in the UK but it did not go the way he wanted.",
-        "score": 0.6310140974562379,
-        "id": "c91d1766-9938-4df9-a4aa-2f5845db86b3",
-        "created_at": "2026-11-03T09:27:06.136221+00:00",
-        "updated_at": "2026-11-03T09:27:06.136221+00:00"
+        "memory": "Tim shared a photo of his fantasy novels and movies collection on the floor, describing them as companions on his growth journey in writing and reading.",
+        "score": 0.6364530609000353,
+        "id": "9532feff-b31d-4e4f-80f2-f50f293a8955",
+        "created_at": "2026-11-04T13:10:16.592951+00:00",
+        "updated_at": "2026-11-04T13:10:16.592951+00:00"
       },
       {
-        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off.",
-        "score": 0.6270013525792978,
-        "id": "07726ce3-c976-4c10-8b70-c5c2f07d7e83",
-        "created_at": "2026-11-03T09:19:51.798483+00:00",
-        "updated_at": "2026-11-03T09:19:51.798483+00:00"
+        "memory": "Tim found the opportunity to write articles for an online fantasy magazine through a fantasy literature forum, where he shared his ideas and they were accepted because of his passion for the genre.",
+        "score": 0.6360996024420278,
+        "id": "66ec1036-1615-4e8d-8d5f-afc2f9498b0a",
+        "created_at": "2026-11-04T12:52:35.004939+00:00",
+        "updated_at": "2026-11-04T12:52:35.004939+00:00"
+      },
+      {
+        "memory": "Tim experienced a setback around mid-November 2023 when he tried to write a story based on his experiences in the UK but it did not go the way he wanted, prompting him to seek advice on improving his storytelling skills.",
+        "score": 0.6307204225595491,
+        "id": "c4eac04a-0957-4947-bd6e-55069e78f272",
+        "created_at": "2026-11-04T13:09:39.162247+00:00",
+        "updated_at": "2026-11-04T13:09:39.162247+00:00"
       }
     ],
-    "search_latency_ms": 115.6,
+    "search_latency_ms": 126.9,
     "total_results": 20
   },
   "cutoff_results": {

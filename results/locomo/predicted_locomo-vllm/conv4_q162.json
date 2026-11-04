@@ -8,153 +8,153 @@
   "evidence": [
     "D26:36"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "What new fantasy TV series is Tim excited about?",
     "search_results": [
       {
-        "memory": "Tim is excited about a new fantasy TV series coming out in January 2024, which he mentioned during his conversation with John on December 26, 2023.",
-        "score": 0.9077093026100563,
-        "id": "2c55c301-b7cd-465c-84a0-3a595fec6d86",
-        "created_at": "2026-11-03T09:35:29.806366+00:00",
-        "updated_at": "2026-11-03T09:35:29.806366+00:00"
+        "memory": "Tim is excited about a new fantasy TV series scheduled to release in January 2024, which he was looking forward to as of December 26, 2023.",
+        "score": 0.9148535820826785,
+        "id": "3dca5b45-3fad-4763-aed5-e9480bec2426",
+        "created_at": "2026-11-04T13:21:29.992346+00:00",
+        "updated_at": "2026-11-04T13:21:29.992346+00:00"
       },
       {
-        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, which he referred to as coming out 'next month' during their conversation on December 26, 2023.",
-        "score": 0.8920236663979508,
-        "id": "56e5e2ef-0346-4e00-8996-8c264fc3302d",
-        "created_at": "2026-11-03T09:35:32.397758+00:00",
-        "updated_at": "2026-11-03T09:35:32.397758+00:00"
+        "memory": "Tim was excited about a new fantasy TV series scheduled to release in January 2024, as discussed on December 26, 2023.",
+        "score": 0.9140022644944065,
+        "id": "ab4f8b6a-fa24-44e3-b8d6-7aea758fb2d5",
+        "created_at": "2026-11-04T13:21:33.247250+00:00",
+        "updated_at": "2026-11-04T13:21:33.247250+00:00"
       },
       {
         "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024.",
-        "score": 0.8628687589245482,
-        "id": "7838da90-7407-41cc-8813-8ae218bf7caf",
-        "created_at": "2026-11-03T09:35:37.286190+00:00",
-        "updated_at": "2026-11-03T09:35:37.286190+00:00"
+        "score": 0.8628687589244439,
+        "id": "5b852d3b-5109-4c46-a763-e44000809fe2",
+        "created_at": "2026-11-04T13:21:42.391245+00:00",
+        "updated_at": "2026-11-04T13:21:42.391245+00:00"
       },
       {
-        "memory": "As of December 26, 2023, Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024",
-        "score": 0.8593937357966454,
-        "id": "32321ac1-5928-4037-a3fa-6ad133a2638e",
-        "created_at": "2026-11-03T09:35:39.824581+00:00",
-        "updated_at": "2026-11-03T09:35:39.824581+00:00"
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to release in January 2024.",
+        "score": 0.8628687589244439,
+        "id": "da9c2e94-13e2-4b70-a7ee-a47b02361333",
+        "created_at": "2026-11-04T13:21:47.874603+00:00",
+        "updated_at": "2026-11-04T13:21:47.874603+00:00"
       },
       {
-        "memory": "Tim was excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to come out in February 2024.",
-        "score": 0.8582302617429741,
-        "id": "491c0720-54f9-4b66-88b1-a4f6912dcc8e",
-        "created_at": "2026-11-03T09:35:47.076998+00:00",
-        "updated_at": "2026-11-03T09:35:47.076998+00:00"
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, as revealed in December 2023.",
+        "score": 0.8605073793772163,
+        "id": "bcfb1b7b-7c55-4b7b-99c6-f17a93e23af6",
+        "created_at": "2026-11-04T13:21:38.958909+00:00",
+        "updated_at": "2026-11-04T13:21:38.958909+00:00"
       },
       {
-        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, and mentioned this during his conversation with John on December 26, 2023.",
-        "score": 0.8520997741905882,
-        "id": "3b0bef0c-3868-4e98-8a72-623f2ef5a36c",
-        "created_at": "2026-11-03T09:35:34.717763+00:00",
-        "updated_at": "2026-11-03T09:35:34.717763+00:00"
+        "memory": "Tim is excited to watch the new fantasy TV series 'The Wheel of Time', which is based on a book series he loves, scheduled to come out in February 2024.",
+        "score": 0.8578511767416546,
+        "id": "86505c08-b466-43bb-9b41-9eabfa84ec93",
+        "created_at": "2026-11-04T13:21:54.971480+00:00",
+        "updated_at": "2026-11-04T13:21:54.971480+00:00"
       },
       {
-        "memory": "Tim is excited about the new fantasy TV series 'The Wheel of Time' coming out in February 2024, which is based on a book series he loves and enjoys seeing adapted to screen.",
-        "score": 0.8461884350190582,
-        "id": "97b77d99-f86f-49c7-b28b-b1529055391e",
-        "created_at": "2026-11-03T09:35:54.487323+00:00",
-        "updated_at": "2026-11-03T09:35:54.487323+00:00"
+        "memory": "Tim is excited about the new fantasy TV series 'The Wheel of Time' coming out in February 2024, which is based on a book series that Tim loves and enjoys seeing adapted to screen.",
+        "score": 0.8455715226121223,
+        "id": "3603e7ea-7088-47f3-9d0b-5f91f4b2e4e3",
+        "created_at": "2026-11-04T13:22:01.823994+00:00",
+        "updated_at": "2026-11-04T13:22:01.823994+00:00"
       },
       {
-        "memory": "John recently finished reading an unnamed fantasy series and described it as a wild ride with many twists, praising the author for creating awesome storylines and characters that allow him to get lost in fantasy worlds.",
-        "score": 0.7971301487355777,
-        "id": "af8248ed-c51f-4af7-b297-971a19843cbf",
-        "created_at": "2026-11-03T09:24:27.736763+00:00",
-        "updated_at": "2026-11-03T09:24:27.736763+00:00"
+        "memory": "Tim considers 'That' to be one of his favorite fantasy shows and views it as a special escape into an awesome fantasy realm, similar to his experience with reading fantasy novels.",
+        "score": 0.826916495536684,
+        "id": "1e8bc51f-2082-49de-b1fb-5e8a45f18b5e",
+        "created_at": "2026-11-04T13:08:22.701551+00:00",
+        "updated_at": "2026-11-04T13:08:22.701551+00:00"
       },
       {
-        "memory": "Tim mentioned that a specific fantasy show (referred to as 'That') is one of his favorites and asked John if he had seen it, noting that being lost in an awesome fantasy realm feels like an escape.",
-        "score": 0.7949229075248437,
-        "id": "a3a77b26-433d-440f-a27a-915d624cfc7e",
-        "created_at": "2026-11-03T09:24:27.740694+00:00",
-        "updated_at": "2026-11-03T09:24:27.740694+00:00"
+        "memory": "Tim enjoys watching fantasy movies and TV series, particularly appreciating how the stories come alive on screen compared to the books.",
+        "score": 0.8101366384652581,
+        "id": "3b4cdbf1-9bb5-4c38-a508-8c26358107ec",
+        "created_at": "2026-11-04T13:21:47.868170+00:00",
+        "updated_at": "2026-11-04T13:21:47.868170+00:00"
       },
       {
-        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite movie in this category.",
-        "score": 0.7919762736318117,
-        "id": "778a37db-7750-4c33-86d1-6c929ed83197",
-        "created_at": "2026-11-03T09:35:25.860608+00:00",
-        "updated_at": "2026-11-03T09:35:25.860608+00:00"
+        "memory": "Tim is writing a fantasy novel and finds the process nerve-wracking but exciting, noting that his hard work is paying off and that writing brings him joy by creating whole new worlds.",
+        "score": 0.8032247664494532,
+        "id": "5b9b525d-d59a-4aa1-8f65-08c9c49845f1",
+        "created_at": "2026-11-04T13:05:26.933109+00:00",
+        "updated_at": "2026-11-04T13:05:26.933109+00:00"
+      },
+      {
+        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off and that writing allows him to create whole new worlds.",
+        "score": 0.7957285181077048,
+        "id": "e1fe14f0-17c9-4f7d-866b-cd94e0f6680d",
+        "created_at": "2026-11-04T13:04:56.469243+00:00",
+        "updated_at": "2026-11-04T13:04:56.469243+00:00"
+      },
+      {
+        "memory": "John just finished an amazing fantasy series around November 11, 2023, describing it as a wild ride with many twists and praising the author's ability to create awesome storylines and characters.",
+        "score": 0.7924675626343622,
+        "id": "829d182c-0f5a-46e7-9bc7-d4e0a4cc4deb",
+        "created_at": "2026-11-04T13:08:20.395422+00:00",
+        "updated_at": "2026-11-04T13:08:20.395422+00:00"
       },
       {
         "memory": "Tim is a huge fan of the fantasy genre, specifically epic adventures and magical worlds, and considers Lord of the Rings his favorite movie.",
-        "score": 0.7917535543089282,
-        "id": "637867c0-496b-470c-a743-3ed7cba9e893",
-        "created_at": "2026-11-03T09:35:47.072486+00:00",
-        "updated_at": "2026-11-03T09:35:47.072486+00:00"
+        "score": 0.7836389498421967,
+        "id": "ff693ba4-8e36-40b1-bf89-9192153f8c2b",
+        "created_at": "2026-11-04T13:21:54.968689+00:00",
+        "updated_at": "2026-11-04T13:21:54.968689+00:00"
       },
       {
-        "memory": "Tim's favorite book series is Harry Potter, which he finds immersive, and his favorite fantasy movie franchise is Star Wars, which he says never gets old.",
-        "score": 0.79090571054079,
-        "id": "4b60eadc-38a8-4c64-9bdf-a72cd8c419c5",
-        "created_at": "2026-11-03T09:36:46.251633+00:00",
-        "updated_at": "2026-11-03T09:36:46.251633+00:00"
+        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, which he describes as awesome due to the author's amazing world-building and character development.",
+        "score": 0.776226219762971,
+        "id": "bc041d22-4021-4167-8cfb-90d84bd94b08",
+        "created_at": "2026-11-04T12:53:33.333529+00:00",
+        "updated_at": "2026-11-04T12:53:33.333529+00:00"
       },
       {
-        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, praising the author's world-building and character development, and recommends it to others.",
-        "score": 0.7667965213029478,
-        "id": "141c9cd6-75bd-44f6-8ee6-65a857359a16",
-        "created_at": "2026-11-03T09:01:31.788245+00:00",
-        "updated_at": "2026-11-03T09:01:31.788245+00:00"
+        "memory": "Tim is writing articles about fantasy novels for an online magazine, a role he finds rewarding, as of August 2, 2023.",
+        "score": 0.7507105193904671,
+        "id": "d9fda66e-7414-4288-bea5-75c8eb5a1afb",
+        "created_at": "2026-11-04T12:52:30.438584+00:00",
+        "updated_at": "2026-11-04T12:52:30.438584+00:00"
       },
       {
-        "memory": "As of October 21, 2023, Tim is working on writing his own fantasy novel, describing the process as nerve-wracking but exciting, and feels that his hard work is paying off while finding joy in creating new worlds through writing.",
-        "score": 0.7646691920818823,
-        "id": "08548071-d0a8-49d1-8ba4-be1154259a2b",
-        "created_at": "2026-11-03T09:19:36.424804+00:00",
-        "updated_at": "2026-11-03T09:19:36.424804+00:00"
-      },
-      {
-        "memory": "Tim is currently writing a fantasy novel, describing the process as nerve-wracking but exciting and joyful, noting that his hard work is paying off.",
-        "score": 0.7634916382948795,
-        "id": "07726ce3-c976-4c10-8b70-c5c2f07d7e83",
-        "created_at": "2026-11-03T09:19:51.798483+00:00",
-        "updated_at": "2026-11-03T09:19:51.798483+00:00"
-      },
-      {
-        "memory": "Tim considers Harry Potter and Game of Thrones to be his favorite fantasy books because he loves how they take him to other places.",
-        "score": 0.7624809957537801,
-        "id": "44fc2fa8-3090-4866-b226-9e7bf1c9e459",
-        "created_at": "2026-11-03T09:28:21.002140+00:00",
-        "updated_at": "2026-11-03T09:28:21.002140+00:00"
+        "memory": "Tim is a fan of the Harry Potter series, enjoying both the books and movies as a magical world to escape into during his downtime.",
+        "score": 0.7505227549685987,
+        "id": "c6eff8e8-d689-4260-b10a-871a58546173",
+        "created_at": "2026-11-04T13:21:33.242563+00:00",
+        "updated_at": "2026-11-04T13:21:33.242563+00:00"
       },
       {
         "memory": "Tim enjoys reading fantasy novels because they fire up his imagination, take him to alternate realities, and serve as an escape from reality.",
-        "score": 0.7602761612460057,
-        "id": "555969aa-318a-47b0-9419-026ee8353911",
-        "created_at": "2026-11-03T09:17:03.537031+00:00",
-        "updated_at": "2026-11-03T09:17:03.537031+00:00"
+        "score": 0.7480372989250476,
+        "id": "775fd0b2-53e1-40ae-b52f-f6ac39a45aad",
+        "created_at": "2026-11-04T13:01:30.751040+00:00",
+        "updated_at": "2026-11-04T13:01:30.751040+00:00"
       },
       {
-        "memory": "Tim is currently reading a fantasy book that captivates him, transporting him to another world and keeping him on the edge of his seat while his imagination soars.",
-        "score": 0.7590528306991333,
-        "id": "6dead882-9271-462a-baff-b54448fbfc46",
-        "created_at": "2026-11-03T09:00:55.191783+00:00",
-        "updated_at": "2026-11-03T09:00:55.191783+00:00"
+        "memory": "Tim's favorite fantasy film franchise is Star Wars, which he describes as never getting old and considers his top choice among fantasy movies.",
+        "score": 0.7435428431538652,
+        "id": "0661563d-6a21-45df-94bf-13c6d0fa4fbb",
+        "created_at": "2026-11-04T13:22:52.396026+00:00",
+        "updated_at": "2026-11-04T13:22:52.396026+00:00"
       },
       {
-        "memory": "Tim enjoys fantasy novels, which he keeps on a bookshelf, and finds they fire up his imagination by taking him to alternate realities as an escape from reality.",
-        "score": 0.758744489779901,
-        "id": "60b2b8ac-a418-4617-b1ce-d91b98e68c2d",
-        "created_at": "2026-11-03T09:17:14.813586+00:00",
-        "updated_at": "2026-11-03T09:17:14.813586+00:00"
+        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress.",
+        "score": 0.7430786963122517,
+        "id": "1e57454a-e6b9-4825-93d4-6a6c6061c847",
+        "created_at": "2026-11-04T12:56:09.103011+00:00",
+        "updated_at": "2026-11-04T12:56:09.103011+00:00"
       },
       {
-        "memory": "As of August 21, 2023, Tim is focusing on school and reading fantasy books as a way to take a break from stress, describing his life as good.",
-        "score": 0.7582800039002981,
-        "id": "182f6049-f063-4643-a8c4-31b7872b69f1",
-        "created_at": "2026-11-03T09:09:46.069951+00:00",
-        "updated_at": "2026-11-03T09:09:46.069951+00:00"
+        "memory": "Tim enjoys reading fantasy novels, which he keeps on a bookshelf, because they fire up his imagination and take him to alternate realities as an escape from reality.",
+        "score": 0.7425750129289234,
+        "id": "9273376d-5c9d-46ed-b304-b81df25ad253",
+        "created_at": "2026-11-04T13:01:27.322528+00:00",
+        "updated_at": "2026-11-04T13:01:27.322528+00:00"
       }
     ],
-    "search_latency_ms": 117.1,
+    "search_latency_ms": 132.5,
     "total_results": 20
   },
   "cutoff_results": {

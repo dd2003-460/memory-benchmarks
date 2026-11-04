@@ -8,183 +8,183 @@
   "evidence": [
     "D3:27"
   ],
-  "user_id": "locomo_4_full01",
+  "user_id": "locomo_4_full01-eg",
   "reference_date": "1:41 pm on 12 January, 2024",
   "retrieval": {
     "search_query": "How long has John been surfing?",
     "search_results": [
       {
-        "memory": "On December 15, 2023, John achieved a milestone at the gym by jogging without pain for the first time after being out for a long period due to his injury.",
-        "score": 0.5802261889288158,
-        "id": "fb3365f9-f2d9-410c-9e71-8f07f3419691",
-        "created_at": "2026-11-03T09:33:32.671038+00:00",
-        "updated_at": "2026-11-03T09:33:32.671038+00:00"
+        "memory": "John started surfing five years ago, around mid-2018, and describes the experience as great due to his love of the connection to nature.",
+        "score": 0.6984752512111937,
+        "id": "d5cb1e79-88b2-4783-ad8b-15fe1b5cfbf4",
+        "created_at": "2026-11-04T12:52:05.804292+00:00",
+        "updated_at": "2026-11-04T12:52:05.804292+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his recovery milestone of jogging without pain, which he described as a huge success after being out for so long.",
-        "score": 0.5696101798345288,
-        "id": "d86567ee-6445-4452-bec5-d15f7eaebdb4",
-        "created_at": "2026-11-03T09:33:20.568634+00:00",
-        "updated_at": "2026-11-03T09:33:20.568634+00:00"
+        "memory": "John had an awesome summer in 2023 spending time with friends surfing and riding the waves, describing the feeling as unreal while sharing a photo of a man holding a surfboard on a beach.",
+        "score": 0.6618929680799903,
+        "id": "9c8ac0e9-476f-4914-8da5-63cd5fee89f5",
+        "created_at": "2026-11-04T12:51:54.752256+00:00",
+        "updated_at": "2026-11-04T12:51:54.752256+00:00"
       },
       {
-        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and they had fun bonding and creating memories.",
-        "score": 0.2528264227344093,
-        "id": "3b3259a7-584a-4cec-85a0-223ea9b89b39",
-        "created_at": "2026-11-03T09:23:48.294094+00:00",
-        "updated_at": "2026-11-03T09:23:48.294094+00:00"
+        "memory": "Tim does not surf but finds that reading great fantasy books helps him escape and feel free, similar to the freedom John feels while surfing.",
+        "score": 0.6195071252320457,
+        "id": "b1121fbf-33ff-4fe9-84e5-26de340f0f3f",
+        "created_at": "2026-11-04T12:52:14.030391+00:00",
+        "updated_at": "2026-11-04T12:52:14.030391+00:00"
+      },
+      {
+        "memory": "John and his wife went on a road trip along the European coastline, which John described as amazing with spectacular views, noting it was a nice change to his regular life and helped them bond and create memories.",
+        "score": 0.23335821972662077,
+        "id": "f06752b4-6f5b-4cde-b986-ff15a09a51dd",
+        "created_at": "2026-11-04T13:08:10.781315+00:00",
+        "updated_at": "2026-11-04T13:08:10.781315+00:00"
+      },
+      {
+        "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations based on his previous experience in Europe.",
+        "score": 0.22272066663288176,
+        "id": "5a25ef2f-5e70-45a6-9818-cb4c0d16e025",
+        "created_at": "2026-11-04T13:07:42.948057+00:00",
+        "updated_at": "2026-11-04T13:07:42.948057+00:00"
       },
       {
         "memory": "John and his wife left for a short European vacation around November 6, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.24004460749384018,
-        "id": "28cede9b-bd6b-4407-8679-daacd18b8da7",
-        "created_at": "2026-11-03T09:23:09.545331+00:00",
-        "updated_at": "2026-11-03T09:23:09.545331+00:00"
+        "score": 0.22188922854395843,
+        "id": "3e11b351-5ac8-4996-a537-07600b9cb121",
+        "created_at": "2026-11-04T13:07:48.810186+00:00",
+        "updated_at": "2026-11-04T13:07:48.810186+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 6, 2023, and John asked Tim for travel recommendations as he has not been to Europe before.",
-        "score": 0.23824400275779894,
-        "id": "d5845256-9033-415a-a5b5-3d18bdea2984",
-        "created_at": "2026-11-03T09:23:02.543590+00:00",
-        "updated_at": "2026-11-03T09:23:02.543590+00:00"
+        "memory": "John and his wife left for a short European vacation around November 11, 2023, and John asked Tim for travel recommendations.",
+        "score": 0.21986562746194221,
+        "id": "0af0739b-b406-419c-be04-2080ef86bb07",
+        "created_at": "2026-11-04T13:08:01.532028+00:00",
+        "updated_at": "2026-11-04T13:08:01.532028+00:00"
       },
       {
-        "memory": "John and his wife left for a short European vacation on November 11, 2023, and John asked Tim for travel recommendations.",
-        "score": 0.2350586944582509,
-        "id": "a1afdb7a-e573-4cc5-9641-8bbb673002c3",
-        "created_at": "2026-11-03T09:23:22.655477+00:00",
-        "updated_at": "2026-11-03T09:23:22.655477+00:00"
-      },
-      {
-        "memory": "Tim and John reconnected on October 17, 2023, after a period of not speaking, with Tim expressing eagerness to catch up and hear about John's recent activities.",
-        "score": 0.2202283730575342,
-        "id": "39e406e9-9c02-4972-9859-94e4820878f1",
-        "created_at": "2026-11-03T09:18:32.649446+00:00",
-        "updated_at": "2026-11-03T09:18:32.649446+00:00"
-      },
-      {
-        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
-        "score": 0.21828144832388338,
-        "id": "6fd61944-d2c4-4848-b124-78caaf5ae89d",
-        "created_at": "2026-11-03T09:29:57.860185+00:00",
-        "updated_at": "2026-11-03T09:29:57.860185+00:00"
+        "memory": "John loves the ocean and expressed excitement about trying seafood in Seattle, sharing a photo of a person walking on the beach with a surfboard during a conversation on July 16, 2023.",
+        "score": 0.21734729285440127,
+        "id": "a21f260b-6d4e-43a8-ae0b-0a74ec9e833f",
+        "created_at": "2026-11-04T12:51:50.052380+00:00",
+        "updated_at": "2026-11-04T12:51:50.052380+00:00"
       },
       {
         "memory": "John and his wife went on a European vacation in late October or early November 2023, which included road tripping along the European coastline where they enjoyed spectacular views and bonding.",
-        "score": 0.21239567567156414,
-        "id": "d8082f3f-d154-4f68-ac49-01757a5c87bb",
-        "created_at": "2026-11-03T09:23:39.179743+00:00",
-        "updated_at": "2026-11-03T09:23:39.179743+00:00"
+        "score": 0.21212093914205687,
+        "id": "18a7794a-2345-4eac-8e3e-3d78d1234994",
+        "created_at": "2026-11-04T13:08:08.421845+00:00",
+        "updated_at": "2026-11-04T13:08:08.421845+00:00"
       },
       {
-        "memory": "John participates in a team sport and his team gave their all during a scrimmage held the week of December 11, 2023, with John noting that the team has seen significant growth in communication and bonding.",
-        "score": 0.20956776817704403,
-        "id": "b72271af-2cee-4e39-9d38-9f3af8bbd67b",
-        "created_at": "2026-11-03T09:34:03.411974+00:00",
-        "updated_at": "2026-11-03T09:34:03.411974+00:00"
+        "memory": "John was teammates with his group of friends for four years in high school, playing sports together during that period.",
+        "score": 0.2072650651391205,
+        "id": "c8abdee9-13d1-44c5-824c-b3e76485307a",
+        "created_at": "2026-11-04T12:57:25.784660+00:00",
+        "updated_at": "2026-11-04T12:57:25.784660+00:00"
       },
       {
-        "memory": "John has a strong support network outside of sports with people who are always there for him no matter what.",
-        "score": 0.2081020899286649,
-        "id": "fbe9b96d-634a-4914-bf79-17d7b42bf9c9",
-        "created_at": "2026-11-03T09:20:44.101606+00:00",
-        "updated_at": "2026-11-03T09:20:44.101606+00:00"
+        "memory": "John went camping in the mountains and found the experience stunning, noting that the air was very refreshing.",
+        "score": 0.20538590297968695,
+        "id": "cedc4720-f377-4379-96f7-423d3423bbba",
+        "created_at": "2026-11-04T13:12:49.173581+00:00",
+        "updated_at": "2026-11-04T13:12:49.173581+00:00"
       },
       {
-        "memory": "John and his wife hosted a small get-together with friends and family to celebrate his successful return to jogging without pain after his ankle injury.",
-        "score": 0.2046952094591056,
-        "id": "5cc9f23e-b450-443a-9c3c-49998732769d",
-        "created_at": "2026-11-03T09:33:27.522504+00:00",
-        "updated_at": "2026-11-03T09:33:27.522504+00:00"
+        "memory": "John went camping in the mountains last year (around late 2022), describing the experience as stunning with refreshing air, and found it peaceful and relaxing to disconnect from everyday life.",
+        "score": 0.2013626790432478,
+        "id": "bf557505-d2f7-4112-9c42-700c3a505a0b",
+        "created_at": "2026-11-04T13:13:11.213599+00:00",
+        "updated_at": "2026-11-04T13:13:11.213599+00:00"
       },
       {
-        "memory": "John expressed interest in visiting The Cliffs of Moher after his season ends.",
-        "score": 0.20231107929310693,
-        "id": "f58406f6-cd9a-4852-974a-6d76425de009",
-        "created_at": "2026-11-03T09:37:47.224756+00:00",
-        "updated_at": "2026-11-03T09:37:47.224756+00:00"
+        "memory": "John is dealing with an ankle injury as of November 16, 2023, which has made the week tough for him, but he remains positive about his recovery.",
+        "score": 0.2007786711172202,
+        "id": "c046a5ac-015c-48f6-82f7-ab0917c8d712",
+        "created_at": "2026-11-04T13:08:52.399169+00:00",
+        "updated_at": "2026-11-04T13:08:52.399169+00:00"
       },
       {
-        "memory": "Tim shared a photo of his bookcase filled with DVDs and games on October 2, 2023, while catching up with John.",
-        "score": 0.20019949269502826,
-        "id": "baaf3e64-1db8-43cc-b985-b6819a4158be",
-        "created_at": "2026-11-03T09:16:12.165487+00:00",
-        "updated_at": "2026-11-03T09:16:12.165487+00:00"
+        "memory": "John visited his home around August 19-25, 2023, where he caught up with family and old friends, reminiscing about their childhood together.",
+        "score": 0.19955734849547982,
+        "id": "792130d4-ef75-4fa2-8f7e-81356329985d",
+        "created_at": "2026-11-04T12:57:20.958703+00:00",
+        "updated_at": "2026-11-04T12:57:20.958703+00:00"
       },
       {
-        "memory": "John visited his hometown around August 19-25, 2023, to catch up with family and old friends, reminiscing about their childhood during the visit.",
-        "score": 0.19975640425369895,
-        "id": "e69a9157-ea0e-4c32-8c1e-2e34d4c56196",
-        "created_at": "2026-11-03T09:10:57.495438+00:00",
-        "updated_at": "2026-11-03T09:10:57.495438+00:00"
+        "memory": "John has been playing basketball since he was ten years old, when his dad signed him up for a local league after John watched NBA games with him as a child and dreamed of playing on big courts.",
+        "score": 0.19662039606347986,
+        "id": "cc17dccc-356a-4a9d-948e-07c23de87164",
+        "created_at": "2026-11-04T12:54:20.184883+00:00",
+        "updated_at": "2026-11-04T12:54:20.184883+00:00"
       },
       {
-        "memory": "John has had the opportunity to meet LeBron James a few times, describing him as real chill and the experience as wild.",
-        "score": 0.19943430344263463,
-        "id": "4f7c1ee8-b6ab-4992-9aea-d694d24bb52c",
-        "created_at": "2026-11-03T09:17:12.049521+00:00",
-        "updated_at": "2026-11-03T09:17:12.049521+00:00"
+        "memory": "John has been playing professional basketball for just under a year as of December 2023, describing the experience as a wild ride.",
+        "score": 0.19421584295017763,
+        "id": "13b0e5b8-4228-4cb8-9358-450cbf6fa69a",
+        "created_at": "2026-11-04T13:13:35.319270+00:00",
+        "updated_at": "2026-11-04T13:13:35.319270+00:00"
       },
       {
-        "memory": "John is recovering from an injury and performs physical therapy exercises every day to stay active during his rehabilitation process.",
-        "score": 0.19866656971277227,
-        "id": "4b3f8ae3-238d-419b-bcf4-ade98bf2f304",
-        "created_at": "2026-11-03T09:33:32.666118+00:00",
-        "updated_at": "2026-11-03T09:33:32.666118+00:00"
-      },
-      {
-        "memory": "John was a teammate for four years in high school with the group of old friends he visited during his hometown trip in late August 2023.",
-        "score": 0.1973269099294211,
-        "id": "522317c6-cef4-46ce-b871-7f9dcfd887bb",
-        "created_at": "2026-11-03T09:11:10.057566+00:00",
-        "updated_at": "2026-11-03T09:11:10.057566+00:00"
-      },
-      {
-        "memory": "John went on a trip to the Rocky Mountains in late 2022 and found the experience stunning, noting that seeing the mountains and breathing fresh air makes him realize how incredible the world is.",
-        "score": 0.19185625372151122,
-        "id": "46462d7d-ebf5-4af5-b14f-78883cd18eac",
-        "created_at": "2026-11-03T09:30:06.235566+00:00",
-        "updated_at": "2026-11-03T09:30:06.235566+00:00"
+        "memory": "John expressed interest in visiting The Cliffs of Moher after his season ends and agreed to let Tim know if he is around",
+        "score": 0.19356195582055596,
+        "id": "b898216c-a50a-44ff-80c1-e879dddcebda",
+        "created_at": "2026-11-04T13:24:57.815952+00:00",
+        "updated_at": "2026-11-04T13:24:57.815952+00:00"
       },
       {
         "memory": "John took a trip to the Rocky Mountains in 2022 and found it stunning, noting that seeing the mountains and fresh air makes him realize how incredible the world is.",
-        "score": 0.1913516894555753,
-        "id": "8f0254ad-4241-443b-808b-b2f249fec6b4",
-        "created_at": "2026-11-03T09:30:12.486990+00:00",
-        "updated_at": "2026-11-03T09:30:12.486990+00:00"
+        "score": 0.19107695292606802,
+        "id": "8888128b-6243-4c0b-8a8d-4cbef9d412a7",
+        "created_at": "2026-11-04T13:12:59.151589+00:00",
+        "updated_at": "2026-11-04T13:12:59.151589+00:00"
+      },
+      {
+        "memory": "Tim has Italy on his list of places to visit and asked John how his trip there was last month (December 2023).",
+        "score": 0.18857836968832456,
+        "id": "faa534a8-e43b-47bf-bd18-751c72476b9b",
+        "created_at": "2026-11-04T13:21:54.973715+00:00",
+        "updated_at": "2026-11-04T13:21:54.973715+00:00"
+      },
+      {
+        "memory": "John took a trip to the Rocky Mountains in late 2022, which he described as stunning and breathtaking, noting that seeing the mountains and fresh air makes him realize how incredible the world is.",
+        "score": 0.18840033580357235,
+        "id": "4d4e6541-926b-4e9a-82c6-7544b95f6eff",
+        "created_at": "2026-11-04T13:13:11.216378+00:00",
+        "updated_at": "2026-11-04T13:13:11.216378+00:00"
       }
     ],
-    "search_latency_ms": 96.2,
+    "search_latency_ms": 112.1,
     "total_results": 20
   },
   "cutoff_results": {
     "top_10": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about John surfing or how long he has been doing so.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Five years",
       "memories_evaluated": 10,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific duration of five years, meaning no correct items from the gold answer are present."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_20": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about how long John has been surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Five years",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific duration of five years, meaning no correct items from the gold answer are present."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_50": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about how long John has been surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Five years",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific duration of five years, meaning no correct items from the gold answer are present."
+      "reason": "The generated answer matches the gold answer exactly."
     },
     "top_200": {
-      "judgment": "WRONG",
-      "score": 0.0,
-      "generated_answer": "The provided memories do not contain information about how long John has been surfing.",
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Five years",
       "memories_evaluated": 20,
-      "reason": "The generated answer states that the information is missing, whereas the gold answer provides a specific duration of five years, meaning no correct items from the gold answer are present."
+      "reason": "The generated answer matches the gold answer exactly."
     }
   }
 }
