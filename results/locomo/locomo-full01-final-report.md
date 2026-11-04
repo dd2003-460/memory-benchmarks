@@ -56,7 +56,7 @@ conv2+3 原有 179 个 cutoff cell 因 answerer 瞬时超时留空（top_10 口�
 
 ## 收口待办
 
-1. **persistent 空答案补分**：conv2+3 有 28 题全 cutoff 空答案，需 rejudge 补分（`--evaluate-only --rejudge`）
+1. **persistent 空答案补分**：✅ 已完成（r287 rejudge_empty.py 补齐 179/179；2026-11-04 复查 conv2+3 空答案 cell = 0）
 2. **conv0/1 补跑**（可选，~13h）：✅ 已完成（2026-11-04 r29x，见下方追加节）
 3. **conv4 补跑**：answerer 超时导致全空，需排查 vLLM 代理链路后重跑
 4. **代码缺陷修复**：
