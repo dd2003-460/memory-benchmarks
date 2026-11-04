@@ -49,7 +49,7 @@
 
 | 类型 | 题目 | 根因 | Guard 可修？ |
 |---|---|---|---|
-| A: 实体 ingestion 丢 | q5 (MinaLima) | 专有名词被泛化抽取 | ❌ 需改 extraction prompt |
+| A: ~~实体 ingestion 丢~~ → **retrieval ranking** | q5 (MinaLima) | ~~专有名词被泛化抽取~~ 实体在 mem0 中存在且被检索到（rank #9, score=0.544），被 NYC 旅行记忆（0.78-0.80）压制；模型未跨 rank 推理 HP→MinaLima→NYC shop | ❌ guard 无效，需 retrieval 策略改进（hybrid search/query expansion）+ 多步推理 |
 | A': 实体在源文本, guard 可修 | q8 (Under Armour) | guard 保留实体名→模型推理成功 | ✅ 已验证修复 |
 | B: 需世界知识推理 | q3 (C.S.Lewis←fantasy), q27 (Pomodoro←"25min on/5min off"), q51 (Hatha Yoga) | 源文本无答案词，需模型推断 | ✅ guard 保留素材助推理 |
 | C: 多跳/常识 | q15,q19,q28,q32,q34,q53,q66,q67,q70 | 跨记忆综合或外部常识 | ⚠️ 部分可修 |
@@ -99,10 +99,10 @@
 ### 结论
 
 Entity guard 对 OD 的提升是真实的（+28.6pp），但远未达到预测的 57-64% 上限。实际 42.9% 说明：
-1. A类只有 q5 一题真正不可修复（符合预期）
+1. A类只有 q5 一题真正不可修复（符合预期）——**根因已修正（11-04 深夜）**：q5 不是 ingestion 丢失，MinaLima 记忆在 mem0 中存在且被检索到（rank #9, score=0.544），问题是 retrieval ranking（NYC 旅行记忆 0.78-0.80 压制）+ 跨 rank 多步推理链断裂（HP→MinaLima→NYC shop）。extraction prompt 改进无效，需 retrieval 策略改进
 2. B类 3 题中 0 题被修复——guard 保留了上下文材料，但模型推理能力是瓶颈
 3. C类 9 题中 0 题被修复——需要更深层的多跳推理能力
 
 下一步方向：
-- 提取层改进（extraction prompt 保留更多实体细节）→ 修 q5
+- **Retrieval 层改进**（hybrid search / query expansion / reranking）→ 修 q5 类问题（实体在库中被语义无关高分记忆压制）
 - 推理层改进（chain-of-thought / 多步推理）→ 修 B/C 类
