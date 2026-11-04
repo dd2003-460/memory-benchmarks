@@ -75,9 +75,17 @@ replace specific names with category descriptions.
 | synthesis 失败（实体在但没选对） | 2 | q34, q51 | 记忆库有相关事实但 answerer 选了错误答案 |
 | retrieval miss（GT 不在检索池） | 2 | q53, q70 | GT 事实根本不在 top_20 检索结果中 |
 
-**关键修正**：原"5/8 是数据集标注问题"的判断过于乐观。实际只有 2/8（q53, q70）是纯 retrieval miss，其余 6/8 的 GT 信息在源文本中存在——4 个卡在 ingestion 泛化，2 个卡在 answerer synthesis。
+**关键修正（2026-11-05 二次验证）**：逐题检索回放后发现原分类有误。实际根因：
 
-**Entity guard 效果评估**：guard 修了 q3（C.S. Lewis）、q15（Anthony）、q19（Good Sports）3 题，但 q8（Under Armour）、q5（MinaLima）仍被泛化。`custom_instructions` 的 "preserve all proper nouns verbatim" 指令强度不够——mem0 的 ADDITIVE_EXTRACTION LLM 在长文本上仍会摘要化。
+| 题目 | 真实根因 | 证据 |
+|------|---------|------|
+| q8 (Under Armour) | **Answerer synthesis 失败** | Entity guard 记忆在 top_10 rank [8]，但 answerer 选了 rank 0-3 的泛化描述 "a renowned outdoor gear company" |
+| q5 (MinaLima) | **多跳推理缺口** | Entity 存在于记忆库但未被该 query 检索到；GT "House of MinaLima" 需要 collections→Harry Potter→MinaLima→shop 四跳推理 |
+| q34, q51, q53, q66, q67, q70 | **推理型/实体丢失混合** | GT 需要跨记忆综合或 ingestion 层未保留的具体名称 |
+
+**结论**：8 个 OD 失败中只有 **1 个**（q8）可通过 answerer prompt 修复（"优先选具体名称而非类别描述"）。其余 7 个需要多跳推理能力或 ingestion 层根本性改进。OD ceiling ~43-50% 判断维持不变。
+
+**Entity guard 效果评估**：guard 成功将 Under Armour/MinaLima/Anthony 等实体注入记忆库（75 条），且 Under Armour 确实被检索到（rank 8）。但 mem0 原始提取的泛化记忆（"a renowned outdoor gear company"）排名更高（rank 0-3），answerer 优先选了它们。这说明 entity guard 解决了"信息是否存在"问题，但没解决"answerer 是否选择正确信息"问题。
 
 **进一步提升路径**（按 ROI）：
 1. **Ingestion 侧双通道**：先 regex NER 抽实体列表 → 作为 second-pass prompt 强制回填到提取记忆中。预期 +2-3 OD 题（q8, q5, q66），overall +0.3-0.4pp
