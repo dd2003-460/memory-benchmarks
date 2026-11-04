@@ -56,3 +56,19 @@
 - **q27 关键发现**："Pomodoro" 在源文本中 0 次出现，Tim 只说 "25 minutes on, then 5 minutes off"——纯推理题
 - **q51**："Hatha" 0 次出现，只有 "trying out yoga to get extra strength"
 - **预测**：guard 主要修 B 类（3 题），A 类（2 题）修不了 → OD 上限约 5-7/14 (36-50%)
+
+### Entity Guard 正则覆盖验证（@ 21:48）
+
+对 conv4 全部 29 sessions 跑 `entity_guard.extract_entities()`：
+
+| 实体 | 类型 | Guard 捕获？ |
+|---|---|---|
+| MinaLima | A (CamelCase) | ✅ |
+| Under Armour | A (proper noun phrase) | ✅ |
+| Harry Potter | A (proper noun phrase) | ✅ |
+| Star Wars | A (proper noun phrase) | ✅ |
+| C.S.Lewis | B (源文本无此词) | N/A — 靠推理 |
+| Pomodoro | B (源文本无此词) | N/A — 靠推理 |
+| Hatha | B (源文本无此词) | N/A — 靠推理 |
+
+共提取 56 个 unique entities。Guard 设计正确：A 类实体保留 + B 类靠上下文素材推理。
