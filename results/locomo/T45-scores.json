@@ -1,0 +1,97 @@
+{
+  "benchmark": "LoCoMo conv4",
+  "model": "qwen3.8-27b (vLLM :8787, temp=0)",
+  "judge": "qwen3.8-27b (same-family, evidence-based)",
+  "date": "2026-11-06",
+  "arms": {
+    "S0_baseline": {
+      "top_10": {
+        "correct": 116,
+        "total": 178,
+        "accuracy": 65.2
+      },
+      "top_20": {
+        "correct": 127,
+        "total": 178,
+        "accuracy": 71.3
+      },
+      "top_50": {
+        "correct": 127,
+        "total": 178,
+        "accuracy": 71.3
+      },
+      "top_200": {
+        "correct": 127,
+        "total": 178,
+        "accuracy": 71.3
+      }
+    },
+    "S1_entity_guard": {
+      "top_10": {
+        "correct": 139,
+        "total": 178,
+        "accuracy": 78.08988764044943
+      },
+      "top_20": {
+        "correct": 144,
+        "total": 178,
+        "accuracy": 80.89887640449437
+      },
+      "top_50": {
+        "correct": 146,
+        "total": 178,
+        "accuracy": 82.02247191011236
+      },
+      "top_200": {
+        "correct": 145,
+        "total": 178,
+        "accuracy": 81.46067415730337
+      }
+    }
+  },
+  "delta": {
+    "top_10": {
+      "delta_pp": 12.9
+    },
+    "top_20": {
+      "delta_pp": 9.6
+    },
+    "top_50": {
+      "delta_pp": 10.7
+    },
+    "top_200": {
+      "delta_pp": 10.2
+    }
+  },
+  "per_category_top50": {
+    "multi-hop": {
+      "S0": 87.1,
+      "S1": 90.32258064516128,
+      "delta_pp": 3.2,
+      "n": 31
+    },
+    "open-domain": {
+      "S0": 28.6,
+      "S1": 42.857142857142854,
+      "delta_pp": 14.3,
+      "n": 14
+    },
+    "single-hop": {
+      "S0": 71.0,
+      "S1": 83.17757009345794,
+      "delta_pp": 12.1,
+      "n": 107
+    },
+    "temporal": {
+      "S0": 76.9,
+      "S1": 88.46153846153845,
+      "delta_pp": 11.5,
+      "n": 26
+    }
+  },
+  "od_rate_S1": {
+    "rate_pct": 57.1,
+    "failures": 8,
+    "total_od": 14
+  }
+}
