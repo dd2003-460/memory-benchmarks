@@ -90,8 +90,10 @@
     }
   },
   "od_rate_S1": {
-    "rate_pct": 57.1,
-    "failures": 8,
-    "total_od": 14
+    "definition": "OD failures / total S1 top_50 failures",
+    "rate_pct": 25.0,
+    "od_failures": 8,
+    "total_failures": 32,
+    "note": "42.9% of all S1 failures are OD-type (entity not in source). Remaining 57.1% are comprehension/reasoning errors."
   }
 }
